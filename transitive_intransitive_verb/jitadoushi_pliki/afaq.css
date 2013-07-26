@@ -1,0 +1,142 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif; 
+  margin-left: 10%;
+  width: 80%;
+}
+
+em.glossary { color: #222; }
+
+h2.shotai { text-align: center;
+          clear: left; 
+          }
+
+h3.shotai { clear: left; }
+
+img.shotai { float: left;
+            margin: 10px 10px 10px 10px; }
+
+img.contents-image { float: right }
+
+.image { 
+float: right;
+border-style: none;
+padding: 10px;
+ }
+
+#google-top-ad {
+    width: 728px;
+    height: 90px;
+    margin-bottom:20px;
+/*    background-color: #dcd0ff;*/
+}
+#google-bottom-ad {
+    width: 728px;
+    height: 90px;
+    clear: both;
+    padding: 15px;
+    /*background-color: #dcd0ff;*/
+}
+#google_rhs {
+    float:right;
+    width: 120px;
+    height: 1800px;
+/*    background-color: #dcd0ff;*/
+}
+
+
+.google-search-box {
+    padding-left:20px;
+}
+
+.top-box {
+    margin: 0;
+    padding: 3px;
+    list-style-type: none;
+}
+
+li.top-box {
+    display:inline;
+    margin-right: 20px;
+}
+
+
+li.top-box {
+/*    float: left;*/
+    padding: 2px;
+}
+.high-pitch {
+    background-color: #EEDDFF;
+    vertical-align:+3px;
+}
+.low-pitch {
+    vertical-align: -3px;
+    background-color: #DDEEFF;
+}
+.bottom-ads {
+
+}
+.illustration {
+    float: right;
+    margin: 20px;
+}
+.vocab-list {
+margin:10px;
+}
+
+.vocab-list td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.vocab-list th {
+    padding: 9px;
+}
+table.bordered {
+border-style:solid;
+border-width: 2px;
+border-collapse: collapse;
+border-style: outset;
+}
+.bordered td {
+border-width: 1px;
+border-color: #333;
+border-style: inset;
+}
+.bordered th {
+border-width: 1px;
+border-color: #333;
+border-style: inset;
+}
+
+
+.kanji-link {
+    font-style: italic;
+}
+table td {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.howtotell { background: #eeeeee; border: solid thin; margin-left:100px;
+margin-right: 150px; padding-left: 5px; }
+
+.faq-advert-link-text {
+text-align: center;
+font-weight: bold;
+font-variant: small-caps;
+}
+a img {
+border: none;
+}
+
+table {
+border-collapse:collapse;
+}
+.bk {
+    font-size: 140%;
+}
+.bk a {
+    text-decoration: none;
+}
+/* A romanized Japanese word. */
+.j {
+    font-style: italic;
+}
