@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 </g>
 <g id="kvg:StrokeNumbers_0624c" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 27.25 30.70)">1</text>
-	<text transform="matrix(1 0 0 1 43.25 6.70)">2</text>
+	<text transform="matrix(1 0 0 1 48 8)">2</text>
 	<text transform="matrix(1 0 0 1 25.25 64.70)">3</text>
 </g>
 </svg>

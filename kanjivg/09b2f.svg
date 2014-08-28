@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -64,7 +64,7 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 44.50 47.50)">6</text>
 	<text transform="matrix(1 0 0 1 13.50 19.50)">7</text>
 	<text transform="matrix(1 0 0 1 77.50 9.50)">8</text>
-	<text transform="matrix(1 0 0 1 20.25 67.50)">9</text>
-	<text transform="matrix(1 0 0 1 61.50 61.50)">10</text>
+	<text transform="matrix(1 0 0 1 61.50 61.50)">9</text>
+	<text transform="matrix(1 0 0 1 20.25 67.50)">10</text>
 </g>
 </svg>

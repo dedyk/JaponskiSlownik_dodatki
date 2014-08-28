@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -109,14 +109,14 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 1.50 67.50)">17</text>
 	<text transform="matrix(1 0 0 1 62.25 9.60)">18</text>
 	<text transform="matrix(1 0 0 1 52.50 27.50)">19</text>
-	<text transform="matrix(1 0 0 1 66.50 31.50)">20</text>
-	<text transform="matrix(1 0 0 1 66.33 42.25)">21</text>
-	<text transform="matrix(1 0 0 1 65.50 53.25)">22</text>
-	<text transform="matrix(1 0 0 1 72.50 78.50)">23</text>
+	<text transform="matrix(1 0 0 1 60.50 19.50)">20</text>
+	<text transform="matrix(1 0 0 1 66.50 31.50)">21</text>
+	<text transform="matrix(1 0 0 1 66.33 42.25)">22</text>
+	<text transform="matrix(1 0 0 1 65.50 53.25)">23</text>
 	<text transform="matrix(1 0 0 1 65.35 65.25)">24</text>
 	<text transform="matrix(1 0 0 1 45.75 79.50)">25</text>
 	<text transform="matrix(1 0 0 1 55.50 85.50)">26</text>
 	<text transform="matrix(1 0 0 1 63.50 81.50)">27</text>
-	<text transform="matrix(1 0 0 1 60.50 19.50)">28</text>
+	<text transform="matrix(1 0 0 1 72.50 78.50)">28</text>
 </g>
 </svg>
