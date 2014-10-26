@@ -1,25 +1,23 @@
 #!/bin/bash
 
-wget http://downloads.tatoeba.org/exports/sentences.tar.bz2
-wget http://downloads.tatoeba.org/exports/links.tar.bz2
-wget http://downloads.tatoeba.org/exports/jpn_indices.tar.bz2
-
 rm -f jpn_indices.csv
 rm -f links.csv
 rm -f sentences.csv
+
+wget http://downloads.tatoeba.org/exports/sentences.tar.bz2
+wget http://downloads.tatoeba.org/exports/links.tar.bz2
+wget http://downloads.tatoeba.org/exports/jpn_indices.tar.bz2
 
 tar -xvf sentences.tar.bz2
 tar -xvf links.tar.bz2
 tar -xvf jpn_indices.tar.bz2
 
-rm -f jpn_indices.csv.7z
-rm -f links.csv.7z
-rm -f sentences.csv.7z
-
-7z a -mx=9 sentences.csv.7z sentences.csv
-7z a -mx=9 links.csv.7z links.csv
-7z a -mx=9 jpn_indices.csv.7z jpn_indices.csv
-
 rm -f jpn_indices.tar.bz2
 rm -f links.tar.bz2
 rm -f sentences.tar.bz2
+
+rm -rf splited/*
+
+split -l 50000 jpn_indices.csv splited/jpn_indices_
+split -l 50000 links.csv splited/links_
+split -l 50000 sentences.csv splited/sentences_
