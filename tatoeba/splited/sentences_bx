@@ -1,3 +1,6 @@
+2576265	rus	Мои планы проваливались один за другим.
+2576266	rus	Пожалуйста, не говорите без разрешения.
+2576267	rus	У неё просто-напросто не было выбора.
 2576268	rus	Пожалуйста, воздержитесь от разговора без разрешения.
 2576269	deu	Sie hatte ganz einfach keine andere Wahl.
 2576270	deu	Ihr blieb schlicht und einfach nichts anderes übrig.
@@ -12679,7 +12682,7 @@
 2589052	ita	Fate il caffè.
 2589053	tur	Biz asiydik.
 2589054	ita	Eravamo ribelli.
-2589055	tur	Biz mahkumduk.
+2589055	tur	Biz mahkûmduk.
 2589056	ita	Noi eravamo ribelli.
 2589057	ita	Eravamo dei ribelli.
 2589058	rus	Ты был так счастлив.
@@ -12770,7 +12773,7 @@
 2589144	tur	Ne oldu? Dairenin her yerinde su var.
 2589145	epo	Patrino pensis pri nenio plu krom mia alveno hejmen.
 2589146	tur	Hiç kazanamadığımı söyledin mi?
-2589147	rus	Мать не думала ни о чём кроме моего возвращения домой.
+2589147	rus	Мать не думала ни о чём, кроме моего возвращения домой.
 2589148	tur	Pencereden gün batımını görebiliyorduk.
 2589149	tur	Kaç tane sandviç kaldı?
 2589150	tur	Dersler yakında tekrar başlıyor.
@@ -12782,7 +12785,7 @@
 2589156	heb	טנגו הוא ביטוי אנכי לתשוקה האופקית.
 2589157	fra	Dresse l'oreille, des fois que l'ardoisier sonne à la porte !
 2589158	fra	Je dressai l'oreille.
-2589159	tur	Mahkum uyuşturucu satıcısı ölüm cezasını ömür boyu hapis cezasına düşürtmek için yetkililere boyun eğmeye istekliydi.
+2589159	tur	Mahkûm uyuşturucu satıcısı ölüm cezasını ömür boyu hapis cezasına düşürtmek için yetkililere boyun eğmeye istekliydi.
 2589160	fra	J'ai dressé l'oreille, attentif au moindre bruit.
 2589161	tur	Bu resmi kim yaptı?
 2589162	rus	Вы даже не можете помочь себе.
@@ -21586,7 +21589,7 @@
 2597996	tur	Tom kıkır gülüyordu.
 2597997	tur	Tom tezahürat yapıyordu.
 2597998	tur	Tom kutluyordu.
-2597999	tur	Tom yakalandı.
+3587485	rus	Это для чего?
 2598000	tur	Tom züğürttü.
 2598001	tur	Tom parlaktı.
 2598002	tur	Tom nefes alıyordu.
@@ -21946,7 +21949,7 @@
 2598356	ber	Aẓru n Ṛacid ufan-t-id deg 1799.
 2598357	ber	Aẓru n Ṛacid ufan-t-id deg wagim sat n twinas ed tẓat n tmerwin ed tẓa.
 2598358	ber	Aẓru n Ṛacid ufan-t-id deg walef u sebɛemya u ttesɛa u ttesɛin.
-2598359	ber	Igerdan llan la tṛejjmen s yeẓra.
+2598359	ber	Igerdan-nni llan la t-ṛejjmen s yeẓra.
 2598360	ber	Aẓru-nni yella ẓẓay aṭas akken ad t-refdeɣ.
 2598361	ber	Kra n yeẓra iɣlayanen ttemcabin aṭas ɣer wureɣ.
 2598362	ber	Aqcic-nni iḍegger yiwen n weẓru.
@@ -37634,7 +37637,7 @@
 2614133	tur	Tom yakınlaştı.
 2614134	por	Eu estou aprendendo esperanto agora.
 2614135	por	Então você fará?
-2614136	tur	Tom yakalandı.
+3587486	eng	He found in the world without as actual what was in his world within as possible.
 2614137	por	Apesar de não querer, eu fui lá porque tive de ir.
 2614138	por	Obrigado por retornar a minha ligação.
 2614139	por	Obrigada por retornar a minha ligação.
@@ -47775,7 +47778,7 @@
 2624246	jpn	トムの家のピアノは調律が狂っている。
 2624247	por	Para que não haja abuso de poder, é necessário que o poder se disponha a controlar o próprio poder.
 2624248	por	Os pais ensinam aos filhos que é feio mentir.
-2624249	epo	Desegnu por mia la Pareto-kurbon.
+2624249	epo	Desegnu por mi la Pareto-kurbon.
 2624250	tur	Yalan söylemediğimi biliyordun; sakın sen en büyük yalancı olmayasın.
 2624251	por	Tom bem que gostaria de saber se isso é verdade.
 2624252	epo	En nia intelekto nenio ne pasis tra niaj sensoj.
@@ -49995,6 +49998,3 @@
 2626564	por	As crianças não gostam de tomar banho.
 2626565	ber	Maɣef kan ur tettajjad Tom ad yeddu?
 2626566	por	Há uma barata no banheiro.
-2626567	por	Um banho frio o refrescou.
-2626568	eng	My sister doesn't really know how to cook, and neither do I.
-2626569	por	Diga-lhe que eu estou tomando banho.

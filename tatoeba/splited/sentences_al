@@ -1,4 +1,3 @@
-573670	eng	Klava went to a resort.
 573672	eng	Klava decided to re-floor the flat.
 573671	eng	Police cordoned off the crime scene.
 573673	rus	Клава решила сменить пол в квартире.
@@ -1987,7 +1986,7 @@
 575732	pol	Warto raz pojechać do Kioto.
 575733	pol	Byłem zawiedziony wczorajszym koncertem.
 575734	pol	Pomylił mnie z moim bratem bliźniakiem.
-575735	hun	Vedd fel a telefont.
+575735	hun	Vedd fel a telefont!
 575736	pol	Kto mi pomoże?
 575737	pol	Była tak nieuważna, że zostawiła torebkę w autobusie.
 575738	pol	Żałuję, że się nie uczyłem angielskiego lepiej, jak byłem młody.
@@ -3964,7 +3963,7 @@
 577793	rus	В переводе с японского "tatoeba" означает "например".
 577794	spa	Sí, ciertamente.
 577796	epo	Ni malfermu la fenestron.
-577797	epo	Prenu la necesan tempon
+577797	epo	Prenu la necesan tempon.
 577798	epo	Estas multaj bierfarejoj en Bavarujo.
 577799	deu	Der hat ihm einen Bärendienst erwiesen.
 577800	epo	"Ĉu vi volas To-ĉemizon?" "Jes, mi volus ruĝan".
@@ -9135,7 +9134,7 @@
 583200	epo	Mi iras al la lernejo ĉar mi deziras ion lerni.
 583201	epo	Mi tute ne povis kompreni lin, kio pri vi?
 583202	epo	La besto supre maldekstre celas prezenti drakon.
-583203	epo	Laŭ tiom, kiom mi povas rememori, li ne diris tiel.
+3581213	ber	Ad iyi-rnun aṭas deg lexlaṣ.
 583205	epo	Kiu havas la necesan talenton, povas sukcesi ĉie.
 583206	epo	La soldatoj rezistis al la atako de la malamiko.
 583207	deu	Vergiss deine Geldtasche nicht.
@@ -13447,7 +13446,7 @@
 587690	eng	My son's short attention span is causing him problems at school.
 587691	eng	The tornado touched down two kilometers from my school.
 587692	spa	El tornado tocó tierra a dos kilómetros de mi escuela.
-587693	epo	Sen via helpo mi ne povus fini mian taskon.
+587693	epo	Sen ŝia helpo mi ne povus fini mian taskon.
 587694	epo	Estas danĝere paŝi sur fervojaj reloj.
 587695	epo	Vi povas iri kien vi deziras.
 587696	fra	La faible durée de l'attention de mon fils lui cause des problèmes à l'école.
@@ -18324,7 +18323,7 @@
 592784	epo	Neniam timu fari erarojn.
 592785	ara	إن التحدث بالإنجليزية أمر ممتع.
 592786	ara	تحدث الإنجليزية ممتع.
-592787	epo	Ĉesu la klaŭnadon.
+592787	epo	Ĉesu klaŭni.
 592788	epo	Multaj famaj homoj venas ĉi tien.
 592789	epo	Ne estis tre varme hieraŭ vespere.
 592790	epo	Ĉu tio estas bildo de mi?
@@ -21845,7 +21844,7 @@
 596487	pol	Poszedł na ryby i dlatego nie idzie grać w tenisa.
 596488	pol	Swój cel osiągnęli.
 596489	epo	Post iom da tempo vi alkutimiĝos al la nova kvartalo.
-596490	epo	Feliĉe niaj novaj samkvartalanoj estas tre bonaj homoj.
+596490	epo	Feliĉe niaj novaj najbaroj estas tre bonaj homoj.
 596491	pol	Porównajcie ten prawdziwy, drogocenny kamień z imitacją.
 596492	pol	Prawie nie ma książek.
 596493	pol	Lubię tego psa.
@@ -24044,7 +24043,7 @@
 598861	rus	Начались мирные отношения между двумя странами.
 598862	rus	Твоё там.
 598863	rus	Это верная информация?
-598864	rus	Мне нравится иметь стол у окна.
+598864	rus	Я бы хотел столик у окна.
 598865	rus	Демократия — это форма правления.
 598866	rus	Водители должны знать правила дорожного движения.
 598867	rus	Другими словами, язык есть нечто, чему мы учим и чему мы учимся, а не то, что мы инстинктивно знаем.
@@ -30975,7 +30974,7 @@
 606377	epo	La hundo albojis la leterportiston.
 606378	epo	Tiu placo estas granda, ĉu ne?
 606379	hun	Méreggel ölte meg magát.
-606380	deu	Man kann nicht leben ohne Wasser.
+606380	deu	Man kann nicht ohne Wasser leben.
 606381	hun	Tévedésből mérget vett be.
 606383	heb	האופניים שלי נגנבו.
 606384	hun	A széndioxid önmagában nem méreg.
@@ -35644,7 +35643,7 @@
 611327	epo	Ne ĉiu studento havas vortaron.
 611328	epo	Ne ĉiu lernanto havas vortaron.
 611329	spa	No todo estudiante tiene un diccionario.
-611330	jbo	mi djica lo nu jarco lo banli jvinu do
+611330	jbo	mi djica lo ka jarco lo banli jvinu do
 611331	epo	Ŝi deturnis sian rigardon.
 611332	jbo	lo re bruna cu mutce lo ka simsysi'u
 611333	epo	Ambaŭ fratoj estas tre similaj.
@@ -37111,8 +37110,8 @@
 612878	deu	Wer raucht, der betet.
 612879	epo	Kiu fumas, preĝas.
 612880	por	Serviços especiais incluem motorista particular para cada convidado
-612881	jbo	ri'a tu'a lo savru mi pu na kakne lo nu sipna
-612882	jbo	pei glare ne'i ti noi kumfa
+612881	jbo	ri'a tu'a lo savru mi pu na kakne lo ka sipna
+612882	jbo	pei glare ne'i le vi kumfa
 612883	spa	Mi sastre es rico.
 612884	spa	Este libro es muy interesante.
 612885	spa	Vinieron al hospital para preguntar por mí.
@@ -41586,7 +41585,7 @@
 617576	ita	Clive vuol'essere un ingegnere elettronico.
 617577	toki	sina seme?
 617578	ita	È più economico dei fertilizzanti chimici.
-617579	jbo	mi ralte ti noi karce
+617579	jbo	mi ponse le vi karce
 617581	toki	jan seme li pakala e ni?
 617582	ita	Non giudicare gli altri dal colore della loro pelle.
 617583	deu	Wer hat das kaputtgemacht?
@@ -42085,7 +42084,7 @@
 618102	cmn	飛機在三千米的高空飛行。
 618103	ita	Ciò non ha alcun senso.
 618104	epo	Ni ĝuis aŭskulti la muzikon.
-618105	jbo	.uacai
+618105	jbo	uacai
 618106	deu	Wir haben es genossen uns die Musik anzuhören.
 618107	spa	Disfrutamos escuchando la música.
 618108	epo	Lia sola filo mortis pro aŭtoakcidento.
@@ -42142,7 +42141,7 @@
 618160	epo	Fakte, li neniam vizitis Nov-Jorkon.
 618161	nld	Je ogen zijn net zo mooi als de armen van Venus van Milo.
 618162	heb	הרכבת תצא בזמן?
-618163	jbo	loi selslasi ca ba'o basti so'i cnano selmarji
+618163	jbo	lo selslasi ca ba'o basti so'i cnano selmarji
 618164	spa	Se estaban peleando en la calle.
 618165	spa	Hay veces en que no puedo confiar en él.
 618166	epo	Ŝi estas pli ruza ol li.
@@ -42358,7 +42357,7 @@
 618380	ukr	Він гарно говорив англійською.
 618381	toki	toki!
 618382	ukr	Будь ласка, бережи себе.
-618383	jbo	mi dunda ro drata be ti
+618383	jbo	da'i mi dunda ro drata be ti do
 618384	ukr	Будь ласка, бережіть себе.
 618386	ukr	Ми часто ходили плавати у річці.
 618387	ukr	Раптом мої ноги зупинилися.
@@ -42526,7 +42525,7 @@
 618560	eng	Did you meet him recently?
 618561	spa	Eres muy simpática.
 618562	heb	האופניים שלך טובים יותר משלי.
-618563	jbo	ra na nitcu lo nu co'e
+618563	jbo	ra na bilga lo ka co'e
 618564	rus	Мой дедушка слегка туг на ухо.
 618565	spa	Tienes un buen sentido del humor.
 618566	hun	Ma reggel hat órakor keltem fel.
@@ -42691,7 +42690,7 @@
 618729	spa	¿Eres un estudiante de japonés?
 618730	spa	La televisión no trabaja.
 618731	spa	Cualquier universo lo suficientemente simple como para ser comprendido es demasiado simple para producir una mente capaz de comprenderlo.
-618732	jbo	ra pinxe lo djacu lo pa kabri ca lo ro cerni
+618732	jbo	ra pinxe lo djacu pa kabri ca ro cerni
 618733	spa	Él era un músico pobre.
 618734	dan	Jeg ved ikke om jeg får tid til det.
 618735	ukr	Він говорить так, ніби усе знає.
@@ -49998,3 +49997,4 @@
 626304	ita	Sono stato là un paio di volte.
 626305	ita	Nulla è bello come la verità.
 626306	ita	Gioco spesso a tennis dopo la scuola.
+626307	spa	No le prestes atención a lo que él dijo.

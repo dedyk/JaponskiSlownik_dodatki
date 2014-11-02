@@ -1,3 +1,7 @@
+1363643	spa	Yo no sé con qué armas se va a combatir en la tercera guerra mundial, pero la cuarta se combatirá con piedras y palos.
+1363644	spa	Judy se ve como si hubiera visto un fantasma.
+1363645	spa	Yo tengo plena confianza en sus capacidades.
+1363646	epo	Li ŝerce trompis sian amikon.
 1363647	spa	Ese libro está escrito en un inglés tan sencillo que incluso un principiante lo puede entender.
 1363648	spa	Incluso un niño puede hacer tal cosa.
 1363649	spa	Incluso él lo captó al fin y al cabo.
@@ -10693,8 +10697,7 @@
 1374852	por	Voltamos imensamente felizes, e Cérbero corria e pulava, como se também ele despertasse para a vida...
 1374853	epo	leviĝanta suno
 1374854	por	sol levante
-1374855	epo	agonianta homo
-1374856	por	homem agonizante
+3588041	rus	Качество риса ухудшается.
 1374857	epo	homoj kredantaj je Dio
 1374858	por	homens crentes em Deus
 1374859	epo	kuranta monato
@@ -10922,8 +10925,8 @@
 1375088	por	Um amigo que nos visitou.
 1375089	epo	Homo vizitonta nin.
 1375090	por	Uma pessoa que nos visitará.
-1375091	epo	Homo venanta.
-1375092	por	Uma pessoa que chega.
+3588042	tur	Harika iş yapıyorsun.
+3588043	rus	Я буду там через минуту.
 1375093	epo	Sinjorino veninta.
 1375094	por	Uma senhora que chegou.
 1375095	epo	Fraŭlino venonta.
@@ -29302,7 +29305,7 @@
 1395365	fra	Je n'aurais jamais pensé que ce serait aussi difficile de construire une table de pique-nique.
 1395366	rus	Том нашёл работу.
 1395367	fra	Je pense que les planches à roulettes sont habituellement moins chères que les patins en ligne.
-1395368	epo	Jeff preferas la metran Sistemon kaj lin frustras la olda mezursistemo.
+1395368	epo	Jeff preferas la metran sistemon kaj lin frustras la olda mezursistemo.
 1395369	fra	Je pensais que ce que je donnais à manger à mon chien n'avait pas vraiment d'importance.
 1395370	fra	Je veux passer davantage de temps à faire des choses qui me rendent vraiment heureux.
 1395371	fra	Je veux passer davantage de temps à faire des choses qui me rendent vraiment heureuse.
@@ -29739,7 +29742,7 @@
 1395808	spa	¡Estoy tan contento de verte!
 1395809	heb	את התמונה הזו של הבודהיסט אי אפשר לתארֵך בדיוק.
 1395810	heb	הוא כתב מכתב אחד.
-1395811	epo	Mi estas tiel ĝoja vidi vin !
+1395811	epo	Mi estas tiel ĝoja vidi vin!
 1395812	heb	הוא כתב אות אחת.
 1395813	heb	הוא כתב מכתב.
 1395814	spa	Si me lo cuentan, no lo creo.
@@ -38804,7 +38807,7 @@
 1405575	hun	Kérek néhány, üres poharat.
 1405576	cat	Va apagar la cigarreta en el cendrer i es va posar dempeus per marxar.
 1405577	eng	Now I speak.
-1405578	cat	Treballa en una investigació sobre la SIDA
+1405578	cat	Treballa en una investigació sobre la SIDA.
 1405579	eng	I want to see it with my own eyes.
 1405580	hun	Keress egy üres palackot és töltsd meg vízzel.
 1405581	eng	I haven't told him anything.
@@ -45894,7 +45897,7 @@
 1412775	por	Traduzir frases do esperanto em francês em Tatoeba permite aprender esperanto.
 1412776	por	Posso colocar coisas numa caixa.
 1412777	ell	Αμάν...δεν το πιστεύω.
-1412778	epo	Mi ne kredas ke vi faris ĉiujn hejmotaskojn vi mem.
+1412778	epo	Mi ne kredas ke, vi faris ĉiujn hejmotaskojn vi mem.
 1412779	por	Posso carregar meu celular em algum lugar daqui?
 1412780	por	Se o telefone tocar de novo, minha intenção é de ignorá-lo.
 1412781	por	Isso eu já fiz.
@@ -48926,7 +48929,7 @@
 1415858	hun	Könyvek nélkül unalmas lenne az élet.
 1415859	deu	Er will nicht zum Arzt gehen, obwohl er Schmerzen hat.
 1415860	epo	Pardonu, ke mi per tiom ŝarĝis vin.
-1415861	hun	Ne állj fel.
+1415861	hun	Ne állj fel!
 1415862	epo	Li estas jam pli ol 70 jaraĝa.
 1415863	eng	We'd better cancel the hike.
 1415864	eng	We learn a lot from experience.
@@ -49134,7 +49137,7 @@
 1416074	rus	Я часто использую SSH для удалённого доступа к моим компьютерам.
 1416075	tur	Tasarruf edilen bir peni kazanılan bir penidir.
 1416076	tur	Saat 11'e 10 dakika var.
-1416077	tur	On mahkum hapishaneden çıktı.
+1416077	tur	On mahkûm hapishaneden çıktı.
 1416078	epo	Li malsaniĝis pro malvarmumo kaj devis foresti de la laboro.
 1416079	tur	"Kekten hoşlanır mısın?" "Evet, hoşlanırım."
 1416080	ita	L'avevo lasciato nella stalla.
@@ -49995,6 +49998,3 @@
 1416954	por	A casa de Tom foi destruída por um tornado.
 1416955	por	Ele está satisfeito com o seu novo carro.
 1416956	spa	Pelá las papas y las zanahorias.
-1416957	glg	Hai unha boa vista dende aquí.
-1416958	por	Descasque as batatas e as cenouras.
-1416959	por	Minha mãe é a irmã da mãe deles.
