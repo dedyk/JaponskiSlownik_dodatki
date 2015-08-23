@@ -1697,6 +1697,7 @@
 1762	eng	You don't know who I am.
 1763	eng	Why don't you eat vegetables?
 1764	eng	Why do people go to the movies?
+1765	eng	I'm undressing.
 1766	eng	The car crashed into the wall.
 1767	eng	There are no real visions.
 1768	eng	There's no point telling me "Hi, how are you?" if you have nothing else to say.
@@ -2202,7 +2203,7 @@
 2277	eng	Until you make peace with who you are, you'll never be content with what you have.
 2278	eng	You may be disappointed if you fail, but you are doomed if you don't try.
 2279	eng	Boredom is the feeling that everything is a waste of time; serenity, that nothing is.
-2280	eng	Never lose sight of the importance of a beautiful sunrise, or watching your kids sleep, or the smell of rain. It's often the small things that really matters in life.
+2280	eng	Never lose sight of the importance of a beautiful sunrise, or watching your kids sleep, or the smell of rain. It's often the small things that really matter in life.
 2281	eng	There is no distance on this earth as far away as yesterday.
 2282	eng	Only those who risk going too far will know how far one can go.
 2283	eng	Every man takes the limits of his own field of vision for the limits of the world.
@@ -4415,7 +4416,7 @@
 4534	ita	È fuori pericolo.
 4535	ita	Non me lo faccio dire due volte.
 4536	ita	Metti giù le mani!
-4537	ita	Gli hacker scovano nuove maniere per intrufolarsi in reti private o pubbliche.
+4537	ita	Gli hacker scovano nuove maniere per intrufolarsi nelle reti private o pubbliche.
 4538	ita	Per via della nebbia l'aereo è stato dirottato su Monaco.
 4539	ita	Ride bene chi ride ultimo.
 4540	ita	Quanto prima tanto meglio.
@@ -6407,7 +6408,7 @@
 6574	fra	Je ne comprends vraiment pas la sculpture moderne.
 6575	fra	J'ai un chien et deux chats.
 6576	fra	J'aime autant les chats que les chiens.
-6577	fra	Je préfère les chiens aux chats, car les premiers sont plus fidèle que les derniers.
+6577	fra	Je préfère les chiens aux chats, car les premiers sont plus fidèles que les derniers.
 6578	fra	J'ai donné à manger au chien.
 6579	fra	J'aime vraiment les chiens.
 6580	fra	J'ai peur des chiens.
@@ -8439,7 +8440,7 @@
 8688	fra	Tous ces talents nous sont attribués par transmission génétique ; nous les recevons au moyen des gènes que nous héritons de nos parents.
 8689	fra	Je te rappellerai plus tard.
 8690	fra	Après la mort, le docteur.
-8691	fra	Recontacte-moi plus tard s'il te plaît.
+8691	fra	Recontacte-moi plus tard, s'il te plaît.
 8692	fra	J'ai essayé toute la matinée de joindre Monsieur Jones, mais sa ligne est toujours occupée.
 8693	fra	Je l'ai appelé ce matin.
 8694	fra	Une personne de plus se joindra à nous plus tard.
@@ -11654,7 +11655,7 @@
 12012	fra	Une pelleteuse arriva peu de temps après et commença à creuser une route dans la colline pleine de pâquerettes.
 12013	fra	Et dispose de tuyaux dans le sol pour éliminer l'eau souillée.
 12014	fra	Et me voici, toujours en vie.
-12015	fra	Et maintenant, représente-toi un conté, n'importe lequel, et imagine que ce conté est divisé en cinq ou six zones différentes.
+12015	fra	Et maintenant, représente-toi un comté, n'importe lequel, et imagine que ce comté est divisé en cinq ou six zones différentes.
 12016	fra	Et il n'y a même pas assez d'eau.
 12017	fra	Et l'histoire fut changée pour toujours.
 12018	fra	Quel temps fait-il là-bas ?
@@ -12306,7 +12307,7 @@
 12688	fra	Étudiez aussi durement que vous pouvez.
 12689	fra	Saute le plus haut possible.
 12690	fra	Faites-moi savoir le résultat aussitôt que vous pouvez.
-12691	fra	Je finirai ça aussi vite que je pourrais.
+12691	fra	Je finirai ça aussi vite que je pourrai.
 12692	fra	Descendez dès que possible.
 12693	fra	J'ai couru le plus vite que j'ai pu.
 12694	fra	Viens aussi vite que possible.
@@ -12578,7 +12579,7 @@
 12982	fra	Je ne peux pas comprendre pourquoi tu es si critique à son égard.
 12983	fra	Parce que je veux devenir professeur d'anglais.
 12984	fra	Parce que je veux devenir traducteur.
-12985	fra	Parce que personne ne peut parler mon langage.
+12985	fra	Parce que personne ne peut parler ma langue.
 12986	fra	Parce qu'il était un grand musicien.
 12987	fra	Je ne sais pas pourquoi vous ne l'aimez pas.
 12988	fra	Maintenant je comprends pourquoi il n'est pas allé à l'université.
@@ -12758,7 +12759,7 @@
 13165	fra	Comme j'ai un mauvais rhume, je vais consulter un médecin.
 13166	fra	Un morceau de pain n'était pas suffisant pour apaiser sa faim.
 13167	fra	J'ai un violent mal de dents.
-13168	fra	Elle a tellement changé, que je ne pouvais pas la reconnaitre.
+13168	fra	Elle avait tellement changé, que je ne pouvais pas la reconnaitre.
 13169	fra	Je me demandais si vous pouviez m'aider.
 13170	fra	Hitler a pris le pouvoir en 1933.
 13171	fra	Là se tenait une fille en pleurs.
@@ -12865,7 +12866,6 @@
 13278	fra	Beth est une fille bizarre qui aime les serpents.
 13279	fra	Beth protesta, mais sa mère lui rappela qu'elle était incroyablement grosse.
 13280	fra	Beth décrivit ce qu'elle avait vu en détail.
-13281	fra	Sortez du lit !
 13282	fra	Regardez le bébé dormir dans le lit.
 13283	fra	Il est difficile d'imaginer une vie sans animal de compagnie.
 13284	fra	Pourriez-vous envoyer quelqu'un pour faire le lit ?
@@ -15048,7 +15048,6 @@
 15724	fra	Je n'aime pas la nourriture grasse.
 15725	fra	L'huile et l'eau ne se mélangent pas.
 15726	fra	Ne cherche pas les défauts chez tes amis.
-15727	fra	Avez-vous beaucoup d'amis ?
 15728	fra	Pour la première fois de sa vie, Yuka a terminé la lecture d'un livre en langue anglaise.
 15729	fra	Évitez la friture pour un temps.
 15730	fra	On se revoit dans une semaine exactement.
@@ -16624,7 +16623,7 @@
 17432	eng	I have some good news for you.
 17433	eng	I will find you a good doctor.
 17434	eng	I want you to go to the post office.
-17435	eng	You may figure on the $3,000 I have promised you.
+17435	eng	You can count on the $3,000 I have promised you.
 17436	eng	I'll make you a model plane.
 17437	eng	I will forgive him out of consideration.
 17438	eng	I will forgive him out of consideration for you.
@@ -16638,7 +16637,7 @@
 17446	eng	I have a message for you from her.
 17447	eng	You can't have understood what he said.
 17448	eng	I feel for you.
-17449	eng	I cannot help you, even though I pity you.
+17449	eng	I cannot help you, not but that I pity you.
 17450	eng	I'll boil you the beans.
 17451	eng	I refuse to be treated like a slave by you.
 17452	eng	Your telegram arrived just as I was about to telephone you.
@@ -16661,7 +16660,7 @@
 17469	eng	I would like you to go instead of me.
 17470	eng	I'll lend you my notebook.
 17471	eng	I'm adamant that you should go.
-17472	eng	I can't say but that I agree with you.
+17472	eng	I can only say that I agree with you.
 17473	eng	I want you to go.
 17474	eng	I have been reflecting on what you said to me.
 17475	eng	I wanted to show it to you.
@@ -16849,7 +16848,7 @@
 17679	eng	Not only you but also he is ignorant of the truth.
 17680	eng	He as well as you likes baseball.
 17681	eng	Not only are you wrong, but I am wrong too.
-17682	eng	Not only you but also I am to blame.
+17682	eng	We are both to blame.
 17683	eng	You are not the only one responsible for it, I am too.
 17685	eng	Only you answered the question.
 17687	eng	Only you can carry the bag.
@@ -27987,7 +27986,6 @@
 29616	eng	I'd like two kilos of apples.
 29617	eng	Do you like apples?
 29618	eng	The apples are not quite ripe.
-29619	eng	How many apples?
 29620	eng	They sell apples at five dollars each.
 29621	eng	Apples are sold by the dozen.
 29622	eng	All the apple trees were cut down.
@@ -28973,7 +28971,7 @@
 30665	eng	She wouldn't have married him if she had known him better.
 30666	eng	If he had enough time, he might have done good work.
 30667	eng	If you happen to see him, please give him my best regards.
-30668	eng	If you do that to him, you will cut your throat.
+30668	eng	If you do that to him, he will cut your throat.
 30669	eng	We will help him if he asks us.
 30670	eng	You'll have to take his place in case he can't come.
 30671	eng	If he comes, tell him to wait for me.
@@ -37934,7 +37932,7 @@
 40279	eng	Cheese and butter are products made from milk.
 40280	eng	Have you ever had cheese with apple pie?
 40281	eng	I'd like some cheese.
-40282	eng	Could I have a slice of cheesecake.
+40282	eng	Could I have a slice of cheesecake?
 40283	eng	How is cheerleading practice?
 40284	eng	I hope to try out for cheerleader.
 40285	eng	Make a handsome profit of one thousand dollars.
@@ -39814,7 +39812,7 @@
 42282	eng	It's the front gate.
 42283	eng	That requires the sanction of the government.
 42284	eng	It won't get anywhere.
-42285	eng	Amazing! That your mother speaks 6 languages.
+42285	eng	How amazing that your mother speaks six languages!
 42286	eng	It's the fastest railroad in the world.
 42287	eng	It'll be forgotten in a few months' time.
 42288	eng	It was a sublime scenery.
@@ -49998,3 +49996,5 @@
 53084	eng	I have to iron my shirt.
 53085	eng	Please iron the shirt.
 53086	eng	Could you press this button?
+53087	eng	You can count on Jack.
+53088	eng	I hiccup a lot.

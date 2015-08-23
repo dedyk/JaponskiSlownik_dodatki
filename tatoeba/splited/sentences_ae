@@ -1,18 +1,3 @@
-206041	jpn	その話は私には非常に興味がある。
-206042	jpn	その話は私がニューヨークで会った人を思い出させる。
-206043	jpn	その話はユーモアに満ちあふれている。
-206044	jpn	その話はもうやめにしよう。
-206045	jpn	その話はもうたくさんだ。
-206046	jpn	その話はめでたしめでたしで終わった。
-206047	jpn	その話はとても興味深かった。
-206048	jpn	その話はずっと昔の経験を思い出させてくれる。
-206049	jpn	その話はここではタブーです。
-206050	jpn	その話はきっと大げさに伝えられているのだ。
-206051	jpn	その話は１６世紀までさかのぼる。
-206052	jpn	その話は、全ての日刊紙に載っていた。
-206053	jpn	その話は、ある日曜日の午後も遅くなった頃、奥深い森の中で始まったんだ。
-206054	jpn	その話の真相は皆によく知られている。
-206055	jpn	その話の真相は皆がよく知っている。
 206056	jpn	その話の一部は本当です。
 206057	jpn	その話に我々は深く心を動かされた。
 206058	jpn	その話にはまだ先があるんだ。
@@ -8077,7 +8062,7 @@
 214162	jpn	すみませんが、もう少しお茶をいただけませんか。
 214163	jpn	すみませんが、もう行かせていただけませんか。
 214164	jpn	すみませんが、もう一度言って下さいますか。
-214165	jpn	すみませんが、もう一度言って下さい。
+214165	jpn	もう一度お願いします。
 214166	jpn	すみませんが、ヒルトンホテルへ行く道を教えてください。
 214167	jpn	すみませんが、バス停へはどう行けばいいでしょうか。
 214168	jpn	すみませんが、どこで乗り換えたらいいか教えて下さい。
@@ -10733,7 +10718,7 @@
 216840	jpn	さくらは満開だった。
 216841	jpn	サクラの話し方は私の神経に障る。
 216842	jpn	ざくざくと雪を踏んで進む。
-216843	jpn	さかまつ毛があります。
+216843	jpn	逆さまつげがあります。
 216844	jpn	さおりに対する彼の愛情は報いられなかった。
 216845	jpn	さえぎらないで私の話を最後まで聞いてください。
 216846	jpn	サウジアラビアは石油に非常に恵まれている。
@@ -28478,7 +28463,7 @@
 234697	jpn	ああ飛行機が離陸する。
 234698	jpn	ああ思い出したぞ。
 234699	jpn	ああ悲しい。
-234700	jpn	ああ恐ろしい。
+234700	jpn	ああ恐い！
 234701	jpn	ああ言えば、こう言う。まったく、口が減らない奴だ。
 234702	jpn	ああ嬉しい。
 234704	jpn	アームストロングは一番最初に月に到達した人でした。
@@ -33261,6 +33246,7 @@
 239714	eng	You cannot take back what you have said.
 239715	eng	Why don't you say it?
 239716	eng	Am I making myself clear?
+239718	eng	You should keep your mouth shut.
 239719	eng	Save your breath.
 239720	eng	Don't tell me.
 239721	eng	Speech is silver, silence is gold.
@@ -34141,7 +34127,6 @@
 240711	eng	I opened the box out of curiosity.
 240712	eng	Curiosity killed the cat.
 240715	eng	Opportunity seldom knocks twice.
-240717	eng	Make hay while the sun shines.
 240718	eng	Strike while the iron is hot.
 240720	eng	This is a golden opportunity we'd be stupid to pass up. Let's get to work and finish it all in one fell swoop.
 240721	eng	Good times alternate with bad.
@@ -35318,7 +35303,6 @@
 242005	eng	I'm quitting my current job as of the end of the month.
 242006	eng	I've already spent all my pocket money for this month.
 242007	eng	I forgot to pay my rent this month.
-242008	eng	This month's salary was 200,000 yen.
 242009	eng	Come to my office at the end of this month.
 242010	eng	The number of the people working in this city will be more than one thousand by the end of this month.
 242011	eng	Please wait until the end of this month.
@@ -49998,3 +49982,19 @@
 258273	eng	I cannot help laughing at my folly.
 258274	eng	I accommodated my plan to those new circumstances.
 258275	eng	I wrote to inform him of my decision.
+258276	eng	I gave my old clothes for the flea market sale.
+258277	eng	I feel abashed at my mistake.
+258278	eng	I admit my mistake.
+258279	eng	It is hard for me to put my thoughts into words.
+258280	eng	I'll try to shape my ideas into a book.
+258281	eng	I entrusted my property to the lawyer.
+258282	eng	I can tell my umbrella from the others.
+258283	eng	I am very pleased with my job.
+258284	eng	I am tired of my work.
+258285	eng	I lost interest in my work.
+258286	eng	I am content with my job.
+258287	eng	I have little, if any time that I can call my own.
+258288	eng	I took it for granted that my watch kept the correct time.
+258289	eng	I had my bicycle fixed by my brother.
+258290	eng	I like to have my dictionary within easy reach.
+258291	eng	I prefer to travel in my car.
