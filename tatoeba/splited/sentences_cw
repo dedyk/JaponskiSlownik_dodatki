@@ -1,524 +1,3 @@
-3908030	eng	Tell them it's urgent.
-3908031	eng	Tell him it's urgent.
-3908032	eng	Tell her it's urgent.
-3908033	eng	Tell them it's not your fault.
-3908034	eng	Tell them it's not their fault.
-3908035	eng	Tell them it's not my fault.
-3908036	eng	Tell him it's not your fault.
-3908037	eng	Tell him it's not my fault.
-3908038	eng	Tell him it's not his fault.
-3908039	eng	Tell her it's not your fault.
-3908040	eng	Tell her it's not my fault.
-3908041	eng	Tell her it's not her fault.
-3908042	eng	Tell them it's important.
-3908043	eng	Tell him it's important.
-3908044	eng	Tell her it's important.
-3908045	eng	Tell them it's an emergency.
-3908046	eng	Tell him it's an emergency.
-3908047	eng	Tell her it's an emergency.
-3908048	eng	Tell them it's a priority.
-3908049	eng	Tell him it's a priority.
-3908050	eng	Tell her it's a priority.
-3908051	eng	Tell them it was all your fault.
-3908052	eng	Tell him it was all your fault.
-3908053	eng	Tell her it was all your fault.
-3908054	eng	Tell them it was a mistake.
-3908055	eng	Tell him it was a mistake.
-3908056	eng	Tell her it was a mistake.
-3908057	eng	Tell them in person.
-3908058	eng	Tell him in person.
-3908059	eng	Tell her in person.
-3908060	eng	Tell them I'm sorry.
-3908061	eng	Tell him I'm sorry.
-3908062	eng	Tell her I'm sorry.
-3908063	eng	Tell them I'm sick.
-3908064	eng	Tell him I'm sick.
-3908065	eng	Tell her I'm sick.
-3908066	eng	Tell them I'm ready.
-3908067	eng	Tell him I'm ready.
-3908068	eng	Tell her I'm ready.
-3908069	eng	Tell them I'm on my way over.
-3908070	eng	Tell him I'm on my way over.
-3908071	eng	Tell her I'm on my way over.
-3908072	eng	Tell them I'm not here.
-3908073	eng	Tell him I'm not here.
-3908074	eng	Tell her I'm not here.
-3908075	eng	Tell them I'm innocent.
-3908076	eng	Tell him I'm innocent.
-3908077	eng	Tell her I'm innocent.
-3908078	eng	Tell them I'm in the office.
-3908079	eng	Tell him I'm in the office.
-3908080	eng	Tell her I'm in the office.
-3908081	eng	Tell them I'm in a meeting.
-3908082	eng	Tell him I'm in a meeting.
-3908083	eng	Tell her I'm in a meeting.
-3908084	eng	Tell them I'm coming.
-3908085	eng	Tell him I'm coming.
-3908086	eng	Tell her I'm coming.
-3908087	eng	Tell them I'm coming right over.
-3908088	eng	Tell him I'm coming right over.
-3908089	eng	Tell her I'm coming right over.
-3908090	eng	Tell them I'm coming over.
-3908091	eng	Tell him I'm coming over.
-3908092	eng	Tell her I'm coming over.
-3908093	eng	Tell them I'm coming back.
-3908094	eng	Tell him I'm coming back.
-3908095	eng	Tell her I'm coming back.
-3908096	eng	Tell him I'm busy.
-3908097	eng	Tell her I'm busy.
-3908098	eng	Tell them I'll do it.
-3908099	eng	Tell him I'll do it.
-3908100	eng	Tell her I'll do it.
-3908101	eng	Tell them I'll come back.
-3908102	eng	Tell him I'll come back.
-3908103	eng	Tell her I'll come back.
-3908104	eng	Tell them I'll call back.
-3908105	eng	Tell him I'll call back.
-3908106	eng	Tell her I'll call back.
-3908107	eng	Tell them I'll be there by 2:30.
-3908108	eng	Tell him I'll be there by 2:30.
-3908109	eng	Tell her I'll be there by 2:30.
-3908110	eng	Tell them I'll be right there.
-3908111	eng	Tell him I'll be right there.
-3908112	eng	Tell her I'll be right there.
-3908113	eng	Tell them I'll be right over.
-3908114	eng	Tell him I'll be right over.
-3908115	eng	Tell her I'll be right over.
-3908116	eng	Tell them I'll be home soon.
-3908117	eng	Tell him I'll be home soon.
-3908118	eng	Tell her I'll be home soon.
-3908119	eng	Tell them I'll be back.
-3908120	eng	Tell him I'll be back.
-3908121	eng	Tell her I'll be back.
-3908122	eng	Tell them I won't do that.
-3908123	eng	Tell him I won't do that.
-3908124	eng	Tell her I won't do that.
-3908125	eng	Tell them I won't be there.
-3908126	eng	Tell him I won't be there.
-3908127	eng	Tell her I won't be there.
-3908128	eng	Tell them I said hi.
-3908129	eng	Tell him I said hi.
-3908130	eng	Tell her I said hi.
-3908131	eng	Tell them I said hello.
-3908132	eng	Tell him I said hello.
-3908133	eng	Tell her I said hello.
-3908134	eng	Tell them I said goodbye.
-3908135	eng	Tell him I said goodbye.
-3908136	eng	Tell her I said goodbye.
-3908137	eng	Tell them I need some money.
-3908138	eng	Tell him I need some money.
-3908139	eng	Tell her I need some money.
-3908140	eng	Tell them I have a broken leg.
-3908141	eng	Tell him I have a broken leg.
-3908142	eng	Tell her I have a broken leg.
-3908143	eng	Tell them I had to leave.
-3908144	eng	Tell him I had to leave.
-3908145	eng	Tell her I had to leave.
-3908146	eng	Tell them I feel fine.
-3908147	eng	Tell him I feel fine.
-3908148	eng	Tell her I feel fine.
-3908149	eng	Tell them I don't want to go.
-3908150	eng	Tell him I don't want to go.
-3908151	eng	Tell her I don't want to go.
-3908152	eng	Tell them I didn't read it.
-3908153	eng	Tell him I didn't read it.
-3908154	eng	Tell her I didn't read it.
-3908155	eng	Tell them how you're feeling.
-3908156	eng	Tell him how you're feeling.
-3908157	eng	Tell her how you're feeling.
-3908158	eng	Tell us how you feel.
-3908159	eng	Tell them how you feel.
-3908160	eng	Tell him how you feel.
-3908161	eng	Tell her how you feel.
-3908162	eng	Tell them how displeased I am.
-3908163	eng	Tell him how displeased I am.
-3908164	eng	Tell her how displeased I am.
-3908165	eng	Tell him hi for me.
-3908166	eng	Tell her hi for me.
-3908167	eng	Tell them for me, OK?
-3908168	eng	Tell him for me, OK?
-3908169	eng	Tell her for me, OK?
-3908170	eng	Tell them everything.
-3908171	eng	Tell him everything.
-3908172	eng	Tell her everything.
-3908173	eng	Tell them everything you know.
-3908174	eng	Tell him everything you know.
-3908175	eng	Tell her everything you know.
-3908176	eng	Tell them everything is fine.
-3908177	eng	Tell him everything is fine.
-3908178	eng	Tell her everything is fine.
-3908179	eng	Tell him everything I told you.
-3908180	eng	Tell her everything I told you.
-3908181	eng	Tell them anything you want.
-3908182	eng	Tell him anything you want.
-3908183	eng	Tell her anything you want.
-3908184	eng	Tell us about your trip.
-3908185	eng	Tell them about your trip.
-3908186	eng	Tell him about your trip.
-3908187	eng	Tell her about your trip.
-3908188	eng	Tell us about it.
-3908189	eng	Tell them about it.
-3908190	eng	Tell him about it.
-3908191	eng	Tell her about it.
-3908192	eng	Would you tell them we're back?
-3908193	eng	Would you tell him we're back?
-3908194	eng	Would you tell her we're back?
-3908195	eng	Would you tell them I'm ready?
-3908196	eng	Would you tell him I'm ready?
-3908197	eng	Would you tell her I'm ready?
-3908198	eng	Would you tell them for me?
-3908199	eng	Would you tell him for me?
-3908200	eng	Would you tell her for me?
-3908201	eng	Why would you tell them that?
-3908202	eng	Why would you tell him that?
-3908203	eng	Why would you tell her that?
-3908204	eng	What would you tell them?
-3908205	eng	What would you tell him?
-3908206	eng	What would you tell her?
-3908207	eng	What would you tell them to do?
-3908208	eng	What would you tell him to do?
-3908209	eng	What would you tell her to do?
-3908210	eng	Will you tell them?
-3908211	eng	Will you tell him?
-3908212	eng	Will you tell her?
-3908213	eng	Why don't you tell them?
-3908214	eng	Why don't you tell him?
-3908215	eng	Why don't you tell her?
-3908216	eng	Why don't you tell them that?
-3908217	eng	Why don't you tell him that?
-3908218	eng	Why don't you tell her that?
-3908219	eng	Why didn't you tell him?
-3908220	eng	Why didn't you tell them this?
-3908221	eng	Why didn't you tell him this?
-3908222	eng	Why didn't you tell her this?
-3908223	eng	Why didn't you tell them that?
-3908224	eng	Why didn't you tell him that?
-3908225	eng	Why didn't you tell her that?
-3908226	eng	Why couldn't you tell them?
-3908227	eng	Why couldn't you tell him?
-3908228	eng	Why couldn't you tell her?
-3908229	eng	So why don't you tell them that?
-3908230	eng	So why don't you tell him that?
-3908231	eng	So why don't you tell her that?
-3908232	eng	Make sure you tell them.
-3908233	eng	Make sure you tell him.
-3908234	eng	Make sure you tell her.
-3908235	eng	Make sure you tell them that.
-3908236	eng	Make sure you tell him that.
-3908237	eng	Make sure you tell her that.
-3908238	eng	What'll you tell them?
-3908239	eng	What'll you tell him?
-3908240	eng	What'll you tell her?
-3908241	eng	I'll let you tell them.
-3908242	eng	I'll let you tell him.
-3908243	eng	I'll let you tell her.
-3908244	eng	Did you tell them?
-3908245	eng	Did you tell him?
-3908246	eng	Did you tell her?
-3908247	eng	Did you tell them when to come?
-3908248	eng	Did you tell him when to come?
-3908249	eng	Did you tell her when to come?
-3908250	eng	Did you tell him to do that?
-3908251	eng	Did you tell her to do that?
-3908252	eng	Did you tell him that?
-3908253	eng	Did you tell her that?
-3908254	eng	Did you tell them you were joking?
-3908255	eng	Did you tell him you were joking?
-3908256	eng	Did you tell him I was joking?
-3908257	eng	Did you tell her you were joking?
-3908258	eng	Did you tell her I was joking?
-3908259	eng	Did you tell them how you feel?
-3908260	eng	Did you tell him how you feel?
-3908261	eng	Did you tell her how you feel?
-3908262	eng	Did you tell them about us?
-3908263	eng	Did you tell him about us?
-3908264	eng	Did you tell her about us?
-3908265	eng	Did you tell them about this?
-3908266	eng	Did you tell him about this?
-3908267	eng	Did you tell her about this?
-3908268	eng	Did you tell them about it?
-3908269	eng	Did you tell him about it?
-3908270	eng	Did you tell her about it?
-3908271	eng	Why did you tell them?
-3908272	eng	Why did you tell him?
-3908273	eng	Why did you tell her?
-3908274	eng	Why did you tell them to do it?
-3908275	eng	Why did you tell him to do it?
-3908276	eng	Why did you tell her to do it?
-3908277	eng	Why did you tell them I'd left?
-3908278	eng	Why did you tell him I'd left?
-3908279	eng	Why did you tell her I'd left?
-3908280	eng	Why did you tell us first?
-3908281	eng	Why did you tell them first?
-3908282	eng	Why did you tell me first?
-3908283	eng	Why did you tell him first?
-3908284	eng	Why did you tell her first?
-3908285	eng	Where did you tell them to park?
-3908286	eng	Where did you tell him to park?
-3908287	eng	Where did you tell her to park?
-3908288	eng	When did you tell them?
-3908289	eng	When did you tell him?
-3908290	eng	When did you tell her?
-3908291	eng	What exactly did you tell them?
-3908292	eng	What exactly did you tell him?
-3908293	eng	What exactly did you tell her?
-3908294	eng	What else did you tell them?
-3908295	eng	What else did you tell him?
-3908296	eng	What else did you tell her?
-3908297	eng	What did you tell them?
-3908298	eng	What did you tell him?
-3908299	eng	What did you tell her?
-3908300	eng	What did you tell them for?
-3908301	eng	What did you tell him for?
-3908302	eng	What did you tell her for?
-3908303	eng	What did you tell them first?
-3908304	eng	What did you tell him first?
-3908305	eng	What did you tell her first?
-3908306	eng	What did you tell them about us?
-3908307	eng	What did you tell him about us?
-3908308	eng	What did you tell her about us?
-3908309	eng	What did you tell them about me?
-3908310	eng	What did you tell him about me?
-3908311	eng	What did you tell her about me?
-3908312	eng	What did you tell them about it?
-3908313	eng	What did you tell him about it?
-3908314	eng	What did you tell her about it?
-3908315	eng	How much did you tell them?
-3908316	eng	How much did you tell him?
-3908317	eng	How much did you tell her?
-3908318	eng	Could you tell them, please?
-3908319	eng	Could you tell him, please?
-3908320	eng	Could you tell her, please?
-3908321	eng	Can you tell them to call back?
-3908322	eng	Can you tell him to call back?
-3908323	eng	Can you tell her to call back?
-3908324	eng	Why tell them anything?
-3908325	eng	Why tell him anything?
-3908326	eng	Why tell her anything?
-3908327	eng	We might as well tell them, too.
-3908328	eng	We might as well tell him, too.
-3908329	eng	We might as well tell her, too.
-3908330	eng	I might as well tell you, too.
-3908331	eng	Why can't you tell us?
-3908332	eng	Why can't you tell them?
-3908333	eng	Why can't you tell him?
-3908334	eng	Why can't you tell her?
-3908335	eng	Why can't we tell them?
-3908336	eng	Why can't we tell him?
-3908337	eng	Why can't we tell her?
-3908338	eng	Can't we tell them?
-3908339	eng	Can't we tell him?
-3908340	eng	Can't we tell her?
-3908341	eng	Can't you tell me about it?
-3908342	eng	Can't we tell them about it?
-3908343	eng	Can't we tell him about it?
-3908344	eng	Can't we tell her about it?
-3908345	eng	Should we tell them?
-3908346	eng	Should we tell him?
-3908347	eng	Should we tell her?
-3908348	eng	Should we tell them what we did?
-3908349	eng	Should we tell him what we did?
-3908350	eng	Should we tell her what we did?
-3908351	eng	When should we tell them?
-3908352	eng	When should we tell him?
-3908353	eng	When should we tell her?
-3908354	eng	What do we tell them?
-3908355	eng	What do we tell him?
-3908356	eng	What do we tell her?
-3908357	eng	I don't want you to tell them.
-3908358	eng	I don't want you to tell him.
-3908359	eng	I don't want you to tell her.
-3908360	eng	I wish I knew what to tell them.
-3908361	eng	I wish I knew what to tell him.
-3908362	eng	I wish I knew what to tell her.
-3908363	eng	You may want to tell them that.
-3908364	eng	You may want to tell him that.
-3908365	eng	You may want to tell her that.
-3908366	eng	I want to tell them.
-3908367	eng	I want to tell him.
-3908368	eng	I want to tell her.
-3908369	eng	I want to tell them I love them.
-3908370	eng	I want to tell him I love him.
-3908371	eng	I want to tell her I love her.
-3908372	eng	I want to tell them good night.
-3908373	eng	I want to tell him good night.
-3908374	eng	I want to tell her good night.
-3908375	eng	Do you want to tell them?
-3908376	eng	Do you want to tell him?
-3908377	eng	Do you want to tell her?
-3908378	eng	I can't wait to tell them.
-3908379	eng	I can't wait to tell him.
-3908380	eng	I can't wait to tell her.
-3908381	eng	I used to tell them everything.
-3908382	eng	I used to tell him everything.
-3908383	eng	I used to tell her everything.
-3908384	eng	Do you want us to tell them?
-3908385	eng	Do you want us to tell him?
-3908386	eng	Do you want us to tell her?
-3908387	eng	I was trying to tell them that.
-3908388	eng	I was trying to tell him that.
-3908389	eng	I was trying to tell her that.
-3908390	eng	I tried to tell them.
-3908391	eng	I tried to tell him.
-3908392	eng	I tried to tell her.
-3908393	eng	Maybe it's time to tell them.
-3908394	eng	Maybe it's time to tell him.
-3908395	eng	Maybe it's time to tell her.
-3908396	eng	I'll be sure to tell them.
-3908397	eng	I'll be sure to tell him.
-3908398	eng	I'll be sure to tell her.
-3908399	eng	I'll be sure to tell them that.
-3908400	eng	I'll be sure to tell him that.
-3908401	eng	I'll be sure to tell her that.
-3908402	eng	What am I supposed to tell him?
-3908403	eng	What am I supposed to tell her?
-3908404	eng	I have something to tell them.
-3908405	eng	I have something to tell him.
-3908406	eng	I have something to tell her.
-3908407	eng	Are you scared to tell them?
-3908408	eng	Are you scared to tell him?
-3908409	eng	Are you scared to tell her?
-3908410	eng	I plan to tell them about you.
-3908411	eng	I plan to tell him about you.
-3908412	eng	I plan to tell her about you.
-3908413	eng	My advice is not to tell them.
-3908414	eng	My advice is not to tell him.
-3908415	eng	My advice is not to tell her.
-3908416	eng	I promise not to tell them.
-3908417	eng	I promise not to tell him.
-3908418	eng	I promise not to tell her.
-3908419	eng	Someone needs to tell them that.
-3908420	eng	Someone needs to tell him that.
-3908421	eng	Someone needs to tell her that.
-3908422	eng	You need to tell us the truth.
-3908423	eng	You need to tell them the truth.
-3908424	eng	You need to tell him the truth.
-3908425	eng	You need to tell her the truth.
-3908426	eng	We need to tell you what to do.
-3908427	eng	We need to tell them what to do.
-3908428	eng	We need to tell him what to do.
-3908429	eng	We need to tell her what to do.
-3908430	eng	We need to tell them about this.
-3908431	eng	We need to tell him about this.
-3908432	eng	We need to tell her about this.
-3908433	eng	I see no need to tell them.
-3908434	eng	I see no need to tell him.
-3908435	eng	I see no need to tell her.
-3908436	eng	I need to tell them.
-3908437	eng	I need to tell him.
-3908438	eng	I need to tell her.
-3908439	eng	I need to tell them something.
-3908440	eng	I need to tell him something.
-3908441	eng	I need to tell her something.
-3908442	eng	Do you want me to tell them?
-3908443	eng	Do you want me to tell him?
-3908444	eng	Do you want me to tell her?
-3908445	eng	It wouldn't hurt to tell us.
-3908446	eng	It wouldn't hurt to tell them.
-3908447	eng	It wouldn't hurt to tell me.
-3908448	eng	It wouldn't hurt to tell him.
-3908449	eng	It wouldn't hurt to tell her.
-3908450	eng	Will you have to tell them?
-3908451	eng	Will you have to tell him?
-3908452	eng	Will you have to tell her?
-3908453	eng	Why do I have to tell them?
-3908454	eng	Why do I have to tell him?
-3908455	eng	Why do I have to tell her?
-3908456	eng	We still have to tell them.
-3908457	eng	We still have to tell him.
-3908458	eng	We still have to tell her.
-3908459	eng	We have to tell him.
-3908460	eng	We have to tell her.
-3908461	eng	We have to tell them about this.
-3908462	eng	We have to tell him about this.
-3908463	eng	We have to tell her about this.
-3908464	eng	Of course, I have to tell them.
-3908465	eng	Of course, I have to tell him.
-3908466	eng	Of course, I have to tell her.
-3908467	eng	I'm going to have to tell them.
-3908468	eng	I'm going to have to tell him.
-3908469	eng	I'm going to have to tell her.
-3908470	eng	I'll have to tell them.
-3908471	eng	I'll have to tell him.
-3908472	eng	I'll have to tell her.
-3908473	eng	I think we have to tell them.
-3908474	eng	I think we have to tell him.
-3908475	eng	I think we have to tell her.
-3908476	eng	I have to tell them.
-3908477	eng	I have to tell him.
-3908478	eng	I have to tell her.
-3908479	eng	Do you really have to tell them?
-3908480	eng	Do you really have to tell him?
-3908481	eng	Do you really have to tell her?
-3908482	eng	Do we have to tell them?
-3908483	eng	Do we have to tell him?
-3908484	eng	Do we have to tell her?
-3908485	eng	Someone has to tell them.
-3908486	eng	Someone has to tell him.
-3908487	eng	Someone has to tell her.
-3908488	eng	It's hard to tell you anything.
-3908489	eng	It's hard to tell him anything.
-3908490	eng	It's hard to tell her anything.
-3908491	eng	I'd be happy to tell you.
-3908492	eng	I'd be happy to tell them.
-3908493	eng	I'd be happy to tell him.
-3908494	eng	I'd be happy to tell her.
-3908495	eng	I had to tell them.
-3908496	eng	I had to tell him.
-3908497	eng	I had to tell her.
-3908498	eng	I had to tell them that myself.
-3908499	eng	I had to tell him that myself.
-3908500	eng	I had to tell her that myself.
-3908501	eng	I had to tell them myself.
-3908502	eng	I had to tell him myself.
-3908503	eng	I had to tell her myself.
-3908504	eng	I had to tell them about us.
-3908505	eng	I had to tell them about myself.
-3908506	eng	I had to tell him about us.
-3908507	eng	I had to tell her about us.
-3908508	eng	We've got to tell them.
-3908509	eng	We've got to tell him.
-3908510	eng	We've got to tell her.
-3908511	eng	I've got to tell them.
-3908512	eng	I've got to tell him.
-3908513	eng	I've got to tell her.
-3908514	eng	Who's going to tell us?
-3908515	eng	Who's going to tell them?
-3908516	eng	Who's going to tell me?
-3908517	eng	Who's going to tell him?
-3908518	eng	Who's going to tell her?
-3908519	eng	When are you going to tell us?
-3908520	eng	When are you going to tell them?
-3908521	eng	When are you going to tell me?
-3908522	eng	When are you going to tell him?
-3908523	eng	When are we going to tell them?
-3908524	eng	When are we going to tell him?
-3908525	eng	When are we going to tell her?
-3908526	eng	What're you going to tell them?
-3908527	eng	What're you going to tell him?
-3908528	eng	What're you going to tell her?
-3908529	eng	What are you going to tell him?
-3908530	eng	What are you going to tell her?
-3908531	eng	What are we going to tell him?
-3908532	eng	What are we going to tell her?
-3908533	eng	What am I going to tell them?
-3908534	eng	What am I going to tell him?
-3908535	eng	What am I going to tell her?
-3908536	eng	I'm not going to tell them.
-3908537	eng	I'm not going to tell him.
-3908538	eng	I'm not going to tell her.
-3908539	eng	I'm not going to tell them that.
-3908540	eng	I'm not going to tell him that.
-3908541	eng	I'm not going to tell her that.
-3908542	eng	I'm going to tell them.
-3908543	eng	I'm going to tell him.
-3908544	eng	I'm going to tell her.
-3908545	eng	I'm going to tell them that.
-3908546	eng	I'm going to tell him that.
-3908547	eng	I'm going to tell her that.
-3908548	eng	How are you going to tell them?
-3908549	eng	How are you going to tell him?
-3908550	eng	How are you going to tell her?
 3908551	eng	Are you going to tell them?
 3908552	eng	Who gets to tell them?
 3908553	eng	Who gets to tell him?
@@ -11743,7 +11222,6 @@
 3919774	eng	They both looked back at me.
 3919775	eng	They both looked back at him.
 3919776	eng	They both looked back at her.
-3919777	eng	I'm not angry at you.
 3919778	eng	I'm not angry at them.
 3919779	eng	I'm not angry at him.
 3919780	eng	I'm not angry at her.
@@ -24938,7 +24416,7 @@
 3933618	rus	Прочитайте следующие примеры.
 3933619	epo	Li preskaŭ sen vivo estis pelata de la ondoj.
 3933620	epo	La polico trovis ŝuspurojn ĉe la murdloko.
-3933621	epo	Dano permesis al la polico serĉi sian hejmon.
+3933621	epo	Dano permesis al la polico traserĉi lian hejmon.
 3933622	epo	La infano, premata de malsato kaj soifo, balbutas pri pano kaj akvo.
 3933623	tur	Bob bir muhattap arıyordu.
 3933624	hun	Ez a ruha olcsó.
@@ -25916,7 +25394,7 @@
 3934646	tur	Tom beni seviyordu.
 3934647	epo	Dano malsukcesis forigi ĉiun biologian atestaĵon.
 3934648	tur	Tom beni istiyor.
-3934649	epo	Dano estis bone vivanta, super sia financa eblo.
+3934649	epo	Dano vivis pli lukse ol liaj financaj kapabloj ebligis.
 3934650	tur	Tom beni etkiledi.
 3934651	epo	Dano bezonis preskaŭ tri horojn por reveni hejmen.
 3934652	epo	Dano foriris al la lernejo je la sepa kaj duono.
@@ -26699,7 +26177,7 @@
 3935484	hun	Ön mikor találkozott vele?
 3935485	eng	Even in my native language, there are words that I don't know.
 3935486	hun	Ezt Tom szobájában találtam.
-3935487	eng	My native language is a foreign language for another one.
+3935487	eng	My native language is a foreign language for someone else.
 3935488	eng	Greece is an old country.
 3935489	pol	Grecja jest starym krajem.
 3935490	swe	Grekland är ett gammalt land.
@@ -26723,7 +26201,6 @@
 3935508	fao	Grikkaland er eitt gamalt land.
 3935509	dan	Grækenland er et gammelt land.
 3935510	slk	Grécko je stará krajina.
-3935511	ces	Řecko je stará krajina.
 3935512	tur	Seninle konuşmam gerekmez.
 3935513	ukr	Греція – це стародавня країна.
 3935514	rus	Греция – древняя страна.
@@ -27124,7 +26601,7 @@
 3935928	heb	הסבירות שבני עשרה יהיו פחות מעורים וישיגו בבית ספר תוצאות גרועות גדולה מאשר לבנות עשרה.
 3935929	heb	דן יצא אל בית הספר בשבע וחצי.
 3935930	heb	נדרשו לדן שלוש שעות כדי לחזור הביתה.
-3935931	heb	דן חי היטב, מעל ומעבר ליכולתו הכספית.
+3935931	heb	דן חי מעל ומעבר ליכולתו הכספית.
 3935932	fin	Monelta ja missä tavataan?
 3935933	fin	Oletko japanilainen opiskelija?
 3935934	fin	Vienkö sinut autolla?
@@ -27414,7 +26891,6 @@
 3936238	rus	Перестань таскать у меня предложения!
 3936240	rus	Хватит воровать у меня предложения!
 3936241	eng	Sorry, could you repeat that, please?
-3936242	eng	giving donation
 3936243	deu	Maria ist ein gift- und gallespeiender Drache: der, der der die Stirn bietet, muss erst noch geboren werden.
 3936244	rus	Сейчас где-то полтретьего.
 3936245	rus	Сейчас примерно полтретьего.
@@ -28620,7 +28096,7 @@
 3937478	bul	Свещта изгасна сама.
 3937479	tur	Hastanın bir doktor tarafından bakılması gerekiyor. Ve doktor ona ne kadar erken bakarsa o kadar iyi olur.
 3937480	jpn	あれ、一人なの？ トムと来るのかと思ってた。
-3937481	eng	The fish isn't supposed to be thrown away, it can be used to feed cats.
+3937481	eng	The fish isn't supposed to be thrown away. It can be used to feed cats.
 3937482	eng	At your service.
 3937483	ina	Finalmente Petro esseva ingagiate per un veteran piscator.
 3937484	tur	Bu planı uygulamak için karar verilmesine rağmen, ince noktaların hâlâ planlanmaya ihtiyacı var.
@@ -29511,10 +28987,10 @@
 3938404	eng	I want to be proud of who I am.
 3938405	eng	I want to be proud of who I am and what I have done.
 3938406	toki	tenpo seme la ona mije kama lon e ona meli?
-3938407	toki	tenpo seme la ona kama lon e ona?
+3938407	toki	tenpo seme la ona li kama lon e ona?
 3938408	rus	Ты лучший папа в мире!
 3938409	rus	Ты лучшая мама в мире!
-3938410	toki	jan Tom li insa tawa tomo tawa li tawa.
+3938410	toki	jan Tom li tawa insa pi tomo tawa li weka.
 3938411	rus	Они замучили его вопросами.
 3938412	deu	Das hier ist kein Videospiel, sondern das wahre Leben.
 3938413	toki	jan lawa sina li pona. mi kin wile.
@@ -29569,7 +29045,7 @@
 3938463	eng	Mary is a professional surfer.
 3938464	deu	Tom sagte, er sei sehr beschäftigt.
 3938465	toki	tenpo lili la sina o kama.
-3938466	toki	ali li insa e tomo.
+3938466	toki	ali li lon insa tomo.
 3938467	epo	Tomo diris, ke li havas multon da farendaĵoj.
 3938468	toki	sina wile ala wile kama meli mi?
 3938469	rus	Это Том сказал мне, как это делать.
@@ -29618,7 +29094,7 @@
 3938513	deu	Niemand verliert gerne.
 3938514	epo	Tio estis kutima vespero en la kastelo de la reĝo de Hirule.
 3938515	deu	Jeder gewinnt gern.
-3938516	toki	jan lili meli li tawa. jan mije pi suli mute li tawa lon meli ni.
+3938516	toki	meli lili li tawa. mije pi suli mute li tawa meli ni.
 3938517	toki	mije li wile lukin mije.
 3938518	toki	lukin mije li pona tawa mije.
 3938519	epo	Dano konsciis, ke li estas enamiĝinta al Linjo.
@@ -29689,7 +29165,6 @@
 3938586	rus	Это оптическая иллюзия.
 3938587	spa	A todo el mundo le gusta ganar.
 3938588	eng	Touché!
-3938589	fra	Touché!
 3938590	rus	Туше!
 3938591	lit	Per tą laiką daug kas įvyko.
 3938592	jav	Kowé wis adus apa durung?
@@ -30461,7 +29936,7 @@
 3939377	bul	Вместо да се оплаква, може би Том трябва просто да ни помогне да го оправим.
 3939378	rus	Почему ты вышла замуж за него?
 3939379	ind	Aku harap aku akan bertahan hidup.
-3939380	rus	Почему вы вышли замуж за него.
+3939380	rus	Почему вы вышли замуж за него?
 3939381	ind	Aku bukan temanmu.
 3939382	hun	A lovak zabot esznek.
 3939383	tur	Tom ve Mary birlikte yaklaştı.
@@ -33302,7 +32777,7 @@
 3942329	epo	Via patro ankoraŭ ne respondis al mia letero.
 3942330	zsm	Tom tidak begitu gembira.
 3942331	tur	Tom Mary'nin onu öpmesine izin vermedi.
-3942332	epo	Estas monde ĉirkaŭ 1800 miliarduloj, havantaj kune riĉaĵon valorantan 7000 miliardoj da usonaj dolaroj.
+3942332	epo	Estas monde ĉirkaŭ 1800 miliarduloj, havantaj kune riĉaĵon valorantan 7000 je miliardoj da usonaj dolaroj.
 3942333	fin	Sillä tyypillä on suhde pikkusiskosi kanssa!
 3942334	tur	Tom buralarda bir yerde olmalı.
 3942335	eng	He hopes that his group succeeds.
@@ -33359,7 +32834,7 @@
 3942387	tur	Tom'un çok kötü şansı vardı.
 3942388	fin	Käy hakemassa yksi tuoli naapurihuoneesta.
 3942389	tur	Tom daha fazla bekleyemez.
-3942390	fra	Je rapatrie Tom.
+3942390	fra	Je renvoie Tom à la maison.
 3942391	tur	Tom nerede yaşadığını biliyor.
 3942392	ita	Non vado mai a Kyoto senza visitare il Tempio Nanzenji.
 3942393	tur	Tom nerede yaşadığımızı biliyor.
@@ -34497,7 +33972,6 @@
 3943583	tlh	ghorgh rInpu' noH?
 3943584	tlh	rejmorgh chaHlaw'.
 3943585	tlh	Da'uchtaHvIS Hegh.
-3943586	ara	المصريون
 3943587	tlh	'e' chaw'laHbe' vay'.
 3943588	tlh	chongqu'choHlaw'.
 3943589	tlh	yIba'taH 'ej yI'Ij!
@@ -34863,7 +34337,7 @@
 3943961	uzb	Nima uchun siz saytingizni yangilamaysiz?
 3943962	eng	Everything around me reminds me of you.
 3943963	eng	I like helping others.
-3943964	eng	It became raining
+3943964	eng	It started raining.
 3943965	ita	In trentasei ore il nostro comunicato stampa è stato letto da diecimila persone!
 3943966	ita	In trentasei ore il nostro comunicato stampa è stato letto da diecimila persone?
 3943967	rus	Я советую тебе попробовать так.
@@ -35341,7 +34815,7 @@
 3944456	ita	Ho bisogno di sapere che Tom è felice.
 3944457	jbo	mi pu birti lo du'u ba fasnu
 3944458	rus	У нас впереди много работы.
-3944459	deu	Es gibt viele, die Toms Erfolg beneiden.
+3944459	deu	Viele Leute beneiden Toms Erfolg.
 3944460	rus	В последнее время я был очень занят.
 3944461	eng	He who makes a beast of himself gets rid of the pain of being a man.
 3944462	jbo	ko co'u dasni lo cutci
@@ -39029,7 +38503,7 @@
 3948380	rus	Поверить не могу, что ты со мной так разговариваешь.
 3948381	rus	Поверить не могу, что вы со мной так разговариваете.
 3948382	deu	Wurde Tom beschuldigt?
-3948383	epo	La kesto esti najle fermata.
+3948383	epo	La kesto estis najle fermata.
 3948384	rus	Мы просто искали Тома.
 3948385	deu	Ich denke, dass ihr perfekt seiet.
 3948386	epo	Viroj estas malsimpla popolo!
@@ -40508,7 +39982,7 @@
 3949909	tur	O çok iyi bir iş yapmıyor. Yinede, onun elinden geleni yaptığını kabul etmelisin.
 3949910	rus	Я видел, как она на тебя смотрит.
 3949911	jav	Ngapa kowé ora nggolèk panggon liya kanggo tinggal?
-3949912	ind	Kanapa kamu tidak mencari tempat lain untuk tinggal?
+3949912	ind	Kenapa kamu tidak mencari tempat lain untuk tinggal?
 3949913	rus	О чём он говорит? Это просто бессмыслица какая-то.
 3949914	tur	Bugün erkek arkadaşımla çıkıyorum, bu yüzden bu sabahtan beri çok iyi bir ruh hali içindeyim.
 3949915	ita	Oggi è un po' un delirio.
@@ -40536,7 +40010,7 @@
 3949937	epo	Dano travivis batalhundatakon.
 3949938	tur	İyi bir kafa ve iyi bir kalp her zaman müthiş bir kombinasyondur. Fakat buna bir okuryazar dil yada kalem eklediğinizde, o zaman çok özel bir şeyiniz vardır.
 3949939	jav	Wis setaun kapungkur kawit dhèwèké teka mréné.
-3949940	ind	Setahun berlalu sejah ia datang kemari.
+3949940	ind	Setahun berlalu sejak ia datang kemari.
 3949941	kha	Shisien ka por la don u syiem bad ka syiem, bad ki don u khun ba kyrteng u Sigurd uba khlain ba smat, bad ba bhabriew bha.
 3949942	epo	La hundo atakis nian triopon.
 3949943	epo	Ni faru tion tuj. Kion vi volas de mi?
@@ -41345,7 +40819,7 @@
 3950795	tur	Ben şarkı söylemiyorum.
 3950796	tur	Şarkı söylemiyorum.
 3950797	rus	Никто не совершенен, за исключением женщин.
-3950798	tur	Dan'den sadece nefret etmiyorum, ayrıca etrafta onu görmek de istemiyorum.
+3950798	tur	Dan'den sadece nefret etmiyorum, ayrıca onu etrafta görmek bile istemiyorum.
 3950799	tur	Daha fazla bira içmem.
 3950800	tur	Dan onu sevmediğimi biliyor.
 3950801	tur	Dan bana artık zorbalık etmeyecek.
@@ -41355,7 +40829,7 @@
 3950805	rus	Ярость и алчность опасны.
 3950806	tur	Dan altı dil konuşabilip en az diğer on ikisini de anlayabiliyor.
 3950807	tur	Dan bir dilbilimci ve çevirmendir.
-3950808	tur	Dan kendi cümlelerini çevirmeyi tavsiye ediyor.
+3950808	tur	Dan kendi cümlelerini çevirmeyi tercih ediyor.
 3950809	rus	Нет нужды лгать.
 3950810	rus	Нет нужды врать.
 3950811	tur	Dan işinden gayet gururlu.
@@ -41385,10 +40859,10 @@
 3950835	tur	Dan'in bu sitede bir sürü arkadaşı var.
 3950836	epo	Estas malluma ekstere.
 3950837	tur	Dan'in bu sitede birçok arkadaşı var.
-3950838	tur	Dan benden de hoşlanmıyor.
+3950838	tur	Dan benden de hoşlanmaz.
 3950839	hun	Ha meglátlak, beverem a képed!
 3950840	hun	Igen, a hölgy a menedzserünk.
-3950841	tur	Dan parasını şimdi istiyor.
+3950841	tur	Dan parasını bugün istiyor.
 3950842	epo	Mi estas kondiĉe liberigita.
 3950843	deu	Im Garten wächst Bambus.
 3950844	tur	Para zaten yurtdışındaydı.
@@ -42874,12 +42348,11 @@
 3952418	tur	Yapabileceğin daha fazla bir şey olmadığına emin misin?
 3952419	hun	Mariska szeretne még mondani valamit nektek. Hallgassátok meg!
 3952420	deu	Der neue Bischof wurde mit großem Pomp in sein Amt eingesetzt.
-3952421	cmn	正在下雨
-3952422	cmn	我到了
+3952421	cmn	正在下雨。
 3952423	hun	Csak röviden szeretnék még valamit mondani nektek.
-3952424	cmn	当然
+3952424	cmn	当然。
 3952425	deu	Komm, um mit mir zu sprechen.
-3952426	cmn	同意
+3952426	cmn	同意。
 3952427	deu	Sprich einfach mit mir.
 3952428	hun	Csak röviden szeretnék még valamit mondani neked.
 3952429	deu	Sag es mir einfach.
@@ -43218,7 +42691,7 @@
 3952769	ita	Non riesce proprio a dire alcune cose?
 3952770	ita	Che bella storia che hai raccontato!
 3952771	deu	Ich mache eine Pause.
-3952772	ita	Merita un apporfondimento questo racconto.
+3952772	ita	Merita un approfondimento questo racconto.
 3952773	ita	Dopo alcuni commenti, mi aspetto di tutto.
 3952774	ita	Spiegaci meglio.
 3952775	ita	Vogliamo la verità!
@@ -44946,7 +44419,6 @@
 3954674	fin	Mitä minä täällä teen?
 3954675	pol	Czemu nie mogę mieć swojego pokoju?
 3954676	pol	Dlaczego nie jesteś z dziećmi?
-3954678	ita	Ci vediamo stasera!
 3954679	rus	Мы хотели бы с тобой поговорить.
 3954680	ita	E non ha neanche la panna montata?
 3954681	rus	Мы хотели бы с вами поговорить.
@@ -45465,7 +44937,7 @@
 3955220	rus	Давай я с ней поговорю.
 3955221	rus	Дайте я с ней поговорю.
 3955222	rus	Давайте я с ней поговорю.
-3955223	rus	Позвольте я с ней поговорю.
+3955223	rus	Позвольте, я с ней поговорю.
 3955224	rus	Дай я сначала с тобой поговорю.
 3955225	rus	Дайте я сначала с вами поговорю.
 3955226	rus	Позвольте мне сначала с вами поговорить.
@@ -45679,12 +45151,12 @@
 3955438	eng	After much debate, it was decided that to be a planet in our solar system, an object must be in orbit around the Sun, have enough mass so that it has become round in shape due to its own gravity, and have cleared out its orbital path around the Sun.
 3955439	eng	Mercury is the smallest planet in our solar system.
 3955440	eng	Mercury travels around the Sun faster than any other planet. That is how it got its name. It was named after Mercury, the swift messenger of the gods in ancient Roman mythology.
-3955441	eng	Mercury can only be seen from Earth just before sunrise or just after sunset, but not in the middle of the night. That is because Mercury always appears near the Sun when viewed from Earth
+3955441	eng	Mercury can only be seen from Earth just before sunrise or just after sunset, but not in the middle of the night. That is because Mercury always appears near the Sun when viewed from Earth.
 3955442	eng	Mercury has a very thin atmosphere.
 3955443	eng	Mercury is only about one-third the size of the Earth. It is smaller than any other planet.
 3955444	eng	Mercury is very close to the Sun and has no substantial atmosphere.
 3955445	eng	Mercury has the greatest temperature range of any planet or natural satellite in our solar system.
-3955446	eng	he surface temperature on the side of Mercury closest to the Sun reaches 427 degrees Celsius, a temperature hot enough to melt tin. On the side facing away from the Sun, or the night side, the temperature drops to -183 degrees Celsius.
+3955446	eng	The surface temperature on the side of Mercury closest to the Sun reaches 427 degrees Celsius, a temperature hot enough to melt tin. On the side facing away from the Sun, or the night side, the temperature drops to -183 degrees Celsius.
 3955447	eng	Scientists have detected a magnetic field surrounding Mercury, though it is not as strong as the field around the Earth.
 3955448	eng	Mercury's atmosphere is very thin and is composed of helium and sodium.
 3955449	eng	The surface of Mercury has been shaped by three processes: impact cratering where large objects struck the surface resulting in crater formation, volcanism where lava flooded the surface, and tectonic activity where the planet's crust moved in order to adjust to the planetary cooling and contracting.
@@ -47838,7 +47310,7 @@
 3957673	hun	A festő kimeszeli a szobát.
 3957674	jpn	私達に必要かどうか、私にはわかりません。
 3957675	rus	Ему совершенно не хотелось отвечать.
-3957676	rus	Том склеил руки и ноги Мэри скотчем.
+3957676	rus	Том связал руки и ноги Мэри скотчем.
 3957677	eng	And the Oscar goes to Tom!
 3957678	rus	Том что-то увидел на земле.
 3957679	cmn	原諒我，我的愛。
@@ -48451,7 +47923,7 @@
 3958312	eng	The cat is white.
 3958313	tur	Bana görevden ayrıldığın söylendi.
 3958314	lit	Svarbiausia mūsų darbe - smulkmenos, arba smulkmenų mūsų darbe nėra.
-3958315	ita	La terra non è una spera perfetta.
+3958315	ita	La Terra non è una sfera perfetta.
 3958316	eng	The forest hummed, whistled, and gurgled.
 3958317	tur	Sana istediğin her şeyi verdim.
 3958318	rus	Вы не единственный, кто голоден.
@@ -49109,7 +48581,6 @@
 3958983	eng	Though Shepard spent only 5 minutes in actual space aboard Freedom 7, he laid the groundwork for the United States to become the great innovator in space exploration we know today.
 3958984	eng	While on the Moon Shepard played golf with a club he had carried onboard the lunar spacecraft of Apollo 14.
 3958985	eng	Shepard became an admiral in the United States Navy, the first astronaut to ever achieve such a rank.
-3958986	eng	In order to become one of the first American astronauts, Shepard had to meet an important requirement. He could not be taller than 71 inches. Anyone taller than 71 inches would not fit into the Mercury spacecraft that the first astronauts flew.
 3958987	fra	Écrire le français est plus difficile que le parler.
 3958988	dan	Kan dette ikke vente til i morgen?
 3958989	eng	Dr. Carl Sagan helped design the plaques carried by both Pioneer 10 and Pioneer 11. These plaques, bearing the images of a man and a woman as well as a diagram showing Earth's location in the Galaxy, may one day be found by an extraterrestrial civilization.
@@ -49238,7 +48709,7 @@
 3959115	nld	Tom heeft drie taarten gebakken.
 3959116	nld	De taart is vers.
 3959119	nld	Tom heeft een taart gebakken.
-3959120	nld	Snijd de taart in plakken.
+3959120	nld	Snijd de taart in punten.
 3959122	eng	In addition to mathematics, physics and astronomy, Newton also had an interest in alchemy, mysticism and theology.
 3959123	nld	Wie heeft alle taarten opgegeten?
 3959124	eng	Isaac Newton was born in 1643 in Woolsthorpe, England.
@@ -49998,3 +49469,532 @@
 3959920	deu	Sich um die Gunst von jedem zu bemühen, ist eine dumme Arbeit.
 3959921	rus	Мы ждём.
 3959922	rus	Мы поладили.
+3959923	rus	Мы нашли общий язык.
+3959924	deu	Jedem Menschen Recht getan, ist eine Kunst, die niemand kann.
+3959925	rus	Я не был в безопасности.
+3959926	rus	Ты удачлив?
+3959927	rus	Я могу это сделать?
+3959928	rus	Я могу пойти следующим?
+3959929	rus	Могу я тоже пойти?
+3959930	rus	Могу я оставить это у себя?
+3959931	rus	Могу я заскочить?
+3959932	rus	Могу я это взять?
+3959933	tur	Başka ne getirmemiz gerektiğini göreceğim.
+3959934	rus	Мы можем это починить?
+3959935	rus	Я выгляжу старым?
+3959936	rus	Я выгляжу старой?
+3959937	rus	Делай, что я говорю.
+3959938	rus	Принеси мне пива.
+3959939	rus	Пожалуйста, отпусти.
+3959940	tur	Ben şimdi size talimatlarınızı vereceğim.
+3959941	rus	Я позволил им говорить.
+3959942	rus	Как захватывающе!
+3959943	hun	A legkisebb unokámat elhozta az apukája.
+3959944	tur	Birazdan seni orada karşılayacağım.
+3959945	rus	Я жалок.
+3959946	rus	Я не думаю, что ты слышал, что я сказал.
+3959947	rus	Почему бы тебе не пойти со мной по магазинам?
+3959948	rus	Я знал, что это слишком хорошо, чтобы быть правдой.
+3959949	tur	Biraz yiyecek bulabilip bulamayacağımı görmeye gideceğim.
+3959950	rus	У меня нет времени, чтобы этим заниматься.
+3959951	tur	Sadece bir dakika içinde seninle olacağım.
+3959952	rus	Вы думаете, это произойдёт?
+3959953	tur	Sizinle çok konuşmak istiyorum.
+3959954	hun	Krisztián fiam elhozta a legkisebb unokámat.
+3959955	rus	Я слышал сирен вдали.
+3959956	rus	Я слышал сирены вдалеке.
+3959957	rus	Ты сказал, что ненавидишь это, не так ли?
+3959958	rus	Мы хотели того же, что и вы.
+3959959	tur	Orada olmak için her şeyi verirdim.
+3959960	rus	Если у тебя будут какие-то проблемы, я помогу.
+3959961	tur	Onu yaparsan hayal kırıklığına uğrarım.
+3959962	hun	Meglepett a fiam a kis unokámmal.
+3959963	rus	Давайте обсудим эту проблему завтра.
+3959964	rus	Давай обсудим эту проблему завтра.
+3959965	tur	Bu konuda çok endişe etmezdim.
+3959966	rus	Тогда у нас не должно быть никаких проблем.
+3959967	tur	Ben şu anda onu tavsiye etmezdim.
+3959968	rus	Тогда не должно быть никаких проблем.
+3959969	tur	Ben aynı şeyi yapmazdım.
+3959970	rus	Раньше никогда не было проблем.
+3959971	hun	Bence unokámtól egy szál sárga rózsát kaptam.
+3959972	tur	Yerinde olsam onun yanına gitmem.
+3959973	rus	Я полагаю, на самом деле они не были так уж заняты.
+3959974	rus	Почему ты не пришёл прошлой ночью?
+3959975	tur	Anlamanı beklemedim.
+3959976	rus	Мы пока ничего достоверно не знаем.
+3959977	tur	Sadece herhangi biri için bunu yapmazdım.
+3959978	hun	Sárga rózsát kaptam ajándékba.
+3959979	tur	Ben buna bir gelişme demezdim.
+3959980	rus	Я кое о чём хочу тебя спросить.
+3959981	eng	I don't know either.
+3959982	tur	Onu neden düşünmediğimi merak ediyorum.
+3959983	tur	Seni tekrar görüp görmeyeceğimi merak ediyorum
+3959984	tur	Onun ne kadar süredir orada olduğunu merak ediyorum.
+3959985	rus	Прежде я всего один раз так себя чувствовал.
+3959986	tur	Sen elçiliktensin, değil mi?
+3959987	rus	Я действительно буду скучать по этому месту.
+3959988	tur	Sana bakacak birine ihtiyacın olacak.
+3959989	rus	Мы ещё сделаем из тебя солдата.
+3959990	rus	Я позже поговорю с тобой об этом.
+3959991	tur	Bilir bilmez sana bildireceğim.
+3959992	hun	A legkisebb ember fellépett a cirkuszban.
+3959993	rus	Волноваться не о чем.
+3959994	ita	Marco ha risparmiato a lungo per l'acquisto di quella casa.
+3959995	epo	Marko longe ŝparis por la aĉeto de tiu domo.
+3959996	tur	Birbirimizi tekrar göreceğimizden eminim.
+3959997	hun	A legkedvesebb ajándékot nem tettem a karácsonyfa alá.
+3959998	ita	Marco non lavora perché è ammalato.
+3959999	epo	Marko ne laboras ĉar li estas malsana.
+3960000	tur	Onun iyi olacağından eminim.
+3960001	tur	Onu söyleyenin ben olmadığımdan eminim.
+3960002	tur	Hâlâ onu anlamaya çalışıyorum.
+3960003	tur	Hâlâ o sorunla ilgileniyorum.
+3960004	tur	Üzgünüm, ne söyleyeceğimi bilmiyorum.
+3960005	hun	Amikor ketten leszünk, akkor adom oda a nekem legkedvesebb ajándékot.
+3960006	tur	Affedersiniz, onu tekrar söyler misiniz?
+3960007	tur	Üzgünüm size bir şey almadım.
+3960008	tur	Antika lambanı kırdığım için üzgünüm.
+3960009	tur	Burada gerçekten ondan nefret etmeye başlıyorum.
+3960010	hun	Te vagy a legkedvesebb számomra.
+3960011	tur	Gerçekten bu evi özleyeceğim.
+3960012	tur	Boston'a geri taşınmayı planlıyorum.
+3960013	tur	Kendim bu konuda çok emin değilim.
+3960014	tur	Bu tabloyu satmayacağım.
+3960015	hun	Te vagy a legnagyobb hős a szememben.
+3960016	tur	Özellikle aç hissetmiyorum.
+3960017	tur	Mary ile asla tekrar çıkmayacağım.
+3960018	rus	Я не умею читать арабскую вязь.
+3960019	tur	Sadece eğlenmeye çalışıyorum.
+3960020	tur	Sadece burada bir arkadaş olmaya çalışıyorum.
+3960021	ita	È meglio stare seduti che in piedi.
+3960022	rus	Я не чувствую особенного голода.
+3960023	epo	Estas pli bone sidi ol stari.
+3960024	hun	András a diszkont áruházba ment vásárolni.
+3960025	tur	Şu anda biraz sıcak bir sudayım.
+3960026	tur	Yarın Boston'a geri gidiyorum.
+3960027	tur	Bu konuda yardımına ihtiyacım olacak.
+3960028	hun	Diszkont áruházban vásárolt András.
+3960029	tur	Bir süre için dışarıya çıkacağım.
+3960030	tur	İçecek bir şey alacağım.
+3960031	epo	Mi ne scipovas legi araban skribon.
+3960032	tur	Cuma akşamı bir partiye gidiyorum.
+3960033	hun	Vacsora után jólesik egy pohár bor.
+3960034	epo	Mi nur provas amuziĝi.
+3960035	tur	Onu nasıl yapacağımı bana gösterdiğine memnun oldum.
+3960036	epo	Mi nur provas esti amiko ĉi tie.
+3960037	tur	Daha iyi yaptığını gördüğüme memnun oldum.
+3960038	epo	Mi nur finas iujn hejmtaskojn.
+3960039	rus	Она работала так усердно, что в конечном итоге заболела.
+3960040	epo	Mi nur iomete zorgas pri Tom.
+3960041	hun	Egy pohár vörös bort ittam vacsora után.
+3960042	tur	Bunun ne kadar sinir bozucu olması gerektiğini biliyorum.
+3960043	rus	Все, что вам нужно сделать, это помыть посуду.
+3960044	ita	Marco abita vicino a casa nostra.
+3960045	epo	Marko loĝas proksime de nia domo.
+3960046	epo	Mi vespermanĝos kun Tom morgaŭ.
+3960047	tur	Onu bana yüz kez söyledin.
+3960048	tur	Muhtemelen gidecek bir yerin var.
+3960049	hun	Az orvosságot vacsora után vegye be!
+3960050	tur	İzinsiz girdiğin için tutuklusun.
+3960051	tur	Bunda çok iyi değilsin, değil mi?
+3960052	hun	Igyál egy pohár vörös bort vacsora után.
+3960053	ita	Preferisco parlare che tacere.
+3960054	tur	Herhangi birini incitmedin, değil mi?
+3960055	epo	Mi preferas paroli ol silenti.
+3960056	tur	Bunu gelecek sefer çok kolay bulmayacaksın.
+3960057	rus	В следующий раз ты так легко его не найдёшь.
+3960058	hun	Vacsora után kell bevenni az orvosságot.
+3960059	tur	Benim gibi Woodstock'ta değildin.
+3960060	hun	Vacsora után kell bevennie az orvosságot.
+3960061	tur	Bunun nasıl olduğunu biliyorsun, değil mi?
+3960062	tur	Beni patronunla tanıştırır mısın?
+3960063	epo	Mi diros al Tom ke vi diris tion.
+3960064	tur	Öğle yemeği için bize katılmak ister misin?
+3960065	tur	Cuma akşamı bir parti veriyoruz.
+3960066	tur	Boston'da birlikte öğretmendik.
+3960067	pes	به تام می گویم که این را گفتی.
+3960068	tur	Bir acil durum planı üzerinde çalışıyoruz.
+3960069	tur	İyi bir ruh hali içindesin gibi görünüyorsun.
+3960070	pes	شما می دانید چگونه این اتفاق افتاد، نه؟
+3960071	epo	Vi scias kiel tio okazis, ĉu ne?
+3960072	heb	אתה יודע איך זה קרה, לא?
+3960073	tur	Seninle çalışmak için görevlendirildim.
+3960074	rus	Есть большая проблема.
+3960075	tur	Öldürülmekten endişeleniyorum.
+3960076	tur	Daha önce olduğumun iki katı kadar açım.
+3960078	rus	Позвольте мне объяснить почему.
+3960079	tur	Bu karışıklıkla ilgilenmekten usandım.
+3960080	tur	Seninle çalışmaktan çok heyecan duydum.
+3960081	tur	Siyasete girmeyi düşünüyorum.
+3960082	jpn	私達は彼らを（彼女たちを）テレビで見ました。
+3960083	tur	Bütün faturaları ödeyen kişi benim.
+3960084	jpn	私達はちょっと時間が欲しい。
+3960085	jpn	私達はけっしてそれらを使わない。
+3960086	tur	Bunu yapmanın bir yolunu bulacağından eminim.
+3960087	jpn	私達はそれを直せます。
+3960088	ces	Po válce Japonsko značně pokročilo ve vědě a technice.
+3960089	tur	Elinizden geleni yaptığınızdan eminim.
+3960090	jpn	私達はみんなそう考えていました。
+3960091	jpn	私達は昨夜会いました。
+3960092	tur	Tek başına yönetebileceğinden eminim.
+3960093	jpn	私達は本当の幸運を引き当てた。
+3960094	jpn	私達はそれを証明できない。
+3960095	tur	Yiyecek bir şey almak ister misin?
+3960096	jpn	私の電話はどこ？
+3960097	tur	Onlar bizi yalnız bırakmayacak.
+3960098	tur	Paket üç saat önce geldi.
+3960099	jpn	私達は非常に親密になりました。
+3960100	tur	Herkes için yeterli yiyecek getirdim.
+3960101	jpn	あなたはペンを持っていませんか?
+3960102	tur	Konuşabilmemiz için seni buraya getirdim.
+3960103	tur	Provadan doğruca buraya geldim.
+3960104	jpn	誰かが私の傘をパン屋で盗っていった。
+3960105	jpn	あなたはこれを感じられますか?
+3960106	tur	Başıma ne geldiğini hayal bile edemiyorum.
+3960107	jpn	あなたはあれに打ち勝てますか?
+3960108	tur	Fikrimi değiştirdim, bu yüzden gitmiyorum.
+3960109	jpn	車にのっていい?
+3960110	tur	Onu gördüğümde ona inanamadım.
+3960111	tur	Bunun doğru olan olduğunu sanmıyorum.
+3960112	jpn	トムはどれくらいボストンに住んでいますか?
+3960113	tur	O riski alabileceğimizi sanmıyorum.
+3960114	tur	Aylak aylak gezinmemiz gerektiğini sanmıyorum.
+3960115	jpn	宇宙は銀河、恒星そして惑星の全てを含んでいます。
+3960116	tur	Aslında henüz ona bakmadım.
+3960117	tur	Her zaman kendimi şanslı düşündüm.
+3960118	rus	Наш главный последнее время не в духе.
+3960119	tur	Bana kötü davrandığım söylendi.
+3960120	ces	Je potřeba celní prohláška.
+3960121	tur	Seninle konuşmak için bekliyorum.
+3960122	rus	Том решил не идти на вечеринку.
+3960123	jpn	物体が地球から離れ去っていくときには、その物体から発せられる光はより波長の長いものとして（赤っぽい色に）見えます。物体が地球に向かってくるときは、その物体から発せられる光はより波長の短いものとして（青っぽい色に）見えます。
+3960124	tur	Bir gemici düğümünü nasıl bağlayacağımı unuttum.
+3960125	tur	Bugün son derece stresli bir gün geçirdim.
+3960126	rus	За главнюка у них некто по прозвищу Серый.
+3960127	tur	Senin hakkında çok şey öğrendim.
+3960128	rus	Я думаю, уже слишком поздно.
+3960129	jpn	物体の電磁波的分光を観測することで、科学者は物体が地球に近づいているか、遠ざかっているかを判別することができる。
+3960130	rus	Главнюком у них некто по прозвищу Серый.
+3960131	jpn	あなたはそれをデコード（復号）できますか?
+3960132	hun	A szememet négyszer kell borogatnom naponta.
+3960133	rus	Что ты им сказала?
+3960134	hun	A szememet négyszer kell bekenni ezzel a kenőccsel.
+3960135	jpn	光年は光が一年間に進む距離です。それは９兆５千億ｋｍです。
+3960136	jpn	あなたはそれに答えられますか?
+3960137	rus	Что ты ему рассказал?
+3960138	jpn	それを見てもいいですか?
+3960139	hun	A nővérem Nyírbátorba költözött a nagymamájához.
+3960140	jpn	プリズムの中では,紫の光は赤の光よりも速度が落ちます。
+3960141	rus	Я собираюсь его удивить.
+3960142	hun	A bátyám Nyírbátorban nyitott tegnap egy kávézót.
+3960143	hun	A sógorom Nyírbátorban vett egy szép házat.
+3960144	hun	A húgom Nyírbátorban vett egy lakást.
+3960145	hun	Nyírbátorban most mínusz két fok van.
+3960146	hun	Mariska Nyírbátorban született.
+3960147	jav	Aku ya ora ngerti
+3960148	jpn	あなたは、今出発できますか？
+3960149	jpn	紫の光は、赤の光よりも短い波長です。
+3960150	jav	Kowe ngerti lagu iki?
+3960151	jav	Tom kenal aku
+3960152	jpn	あなたには私を撃てない。
+3960153	tur	Umarım yakında eve geleceksin.
+3960154	rus	Жадность — корень всех зол.
+3960155	jav	Kabeh kenal aku
+3960156	ind	Semua orang mengenalku
+3960157	tur	O kadar çok içtiğimi hatırlamıyorum.
+3960158	jav	Padha ngandani aku kudu nunggu ing kene
+3960159	ind	Mereka memberitahuku untuk menunggu di sini
+3960160	tur	Orada birinin olduğunu sanmıyorum.
+3960161	tur	Tanıştırıldığımızı sanmıyorum.
+3960162	ind	Tom mengolesi sepotong roti dengan mentega
+3960163	tur	Gerçekten anladığını sanmıyorum.
+3960164	jav	Tom ngolesi roti nganggo mentega
+3960165	tur	Sadece senin aramanı beklemiyordum.
+3960166	jav	Ya iya
+3960167	ind	Tentu saja
+3960168	rus	Покажите нам комнату.
+3960169	jav	Sapa sing ngandhani kowe mrene?
+3960170	jpn	銀河系の大きさは、横断するのに少なくとも千光年か百万光年かかるだろう。
+3960171	ind	Siapa yang memberitahumu untuk datang kemari?
+3960172	jav	Kowe aman ing kene
+3960173	ind	Kamu akan aman di sini
+3960174	tur	Onu yapmamış olmanı diliyorum.
+3960175	jav	Dhewekke ngecat rambute ireng
+3960176	ind	Dia mengecat hitam rambutnya
+3960177	tur	Bu çocuk oyuncağı.
+3960179	tur	Sadece bavullarımızı burada bırakalım.
+3960180	jpn	銀河系は,お互いに重力によってお互いに引きつけ合っている星や塵そしてガスの塊です。
+3960181	jav	Kowe kudu mangerti yen dhewekke lagi lara ning kasur
+3960182	jav	Aku pembantune Tom
+3960183	tur	Yeni arabanla gezmeye gidelim.
+3960184	jav	Kula pembantunipun Tom
+3960185	jav	Kowe ra bisa meksa Tom nulungi Mary
+3960186	tur	Bu görevin başarılı olmasını istiyor musun?
+3960187	jav	Bocah-bocah dolanan nganggo dolanan
+3960188	jav	Lare-lare dolanan ngangge dolanan
+3960189	ind	Anak-anak bermain dengan mainan
+3960190	tur	Gerçekten kim olduğumu öğrenmek ister misin?
+3960191	ind	Mobil yang dikendarainya bukan miliknya
+3960193	tur	Hiç bu konuda konuşmak ister misin?
+3960194	jav	Mobil sing ditumpaki dhewekke dudu nggonane dhewekke
+3960195	tur	Bir şey hakkında konuşmak ister misin?
+3960196	jav	Kowe kepingin daktukokake tuak sepira?
+3960197	tur	Şimdi bu konuda konuşmak istemiyorum.
+3960198	ukr	Давайте обговоримо це все як слід.
+3960199	ind	Berapa banyak anggur yang kamu ingin aku belikan?
+3960200	jpn	星雲は宇宙全体に散らされ、それらは全くバラバラの大きさです。
+3960201	tur	Onların hepsi ne olduğunu bilmek istiyor.
+3960202	jpn	星雲はその形や見え方によって科学者が分類しています。
+3960203	epo	Tiam mi ĉesis legi.
+3960204	jpn	星雲は,その形や見え方によって科学者が分類しています。
+3960205	ita	Qual è la posa?
+3960206	rus	Ищите кошку.
+3960207	tur	Çok sık ziyaret ederek kabak tadı vermek istemiyorum.
+3960208	jpn	私に買ってもらいたいワインはいくらのモノですか?
+3960209	tur	Gerçekten siz arkadaşların geçinmesini istiyorum.
+3960210	ita	Non perdiamoci di vista, ragazzi.
+3960211	jpn	彼らは何が起こったのか知りたがっている。
+3960212	tur	Sanırım bunu duymak isteyebilirsin.
+3960213	jpn	それで私は読むのを止めた。
+3960214	ita	Leggete l'articolo prima di commentare, grazie.
+3960215	ita	Hai letto l'articolo o ti sei fermato a leggere solo il titolo?
+3960216	ita	Si capisce che niente è come appariva.
+3960217	tur	Ben bir dayatma olmak istemiyorum.
+3960218	ita	Ad un certo punto ho preferito rinunciare!
+3960219	ita	Mangiavano anche i piatti!
+3960220	ita	Aggiornatemi, mi sono persa qualcosa?
+3960221	tur	Peki, ne hakkında konuşmak istiyordun?
+3960222	tur	Peki, yarın ne yapmak istiyorsun?
+3960223	ita	No, non rimpiango niente.
+3960224	ita	No, non rimpiango nulla.
+3960225	tur	Bunu kendileri yapmak istemiyor.
+3960226	epo	La virinoj akiris la rajton voĉdoni.
+3960227	tur	Şimdi bir avukat aramak isteyebilirsin.
+3960228	epo	Ĉu mi rajtas danci kun vi tiun dancon?
+3960229	tur	Bütün parayı almak istemedim.
+3960230	tur	Bir süre hâlâ yalan söylemeni istiyorum.
+3960231	tur	Birkaç pound kaybetmek isteyebilirsin.
+3960232	tur	Bunu senin için yapmaktan mutlu olurdum.
+3960233	tur	O güzel bir düğün töreniydi.
+3960234	tur	Bar bu akşam oldukça yoğundu.
+3960235	tur	Daha dikkatli bakmalıydım.
+3960236	tur	Yerinde olsam aynı şeyi yaparım.
+3960237	tur	İşte sana vermek istediğim bir şey.
+3960238	tur	Bu her zaman istediğim bir şey.
+3960239	ita	Li voglio da te gli aggiornamenti!
+3960240	tur	Odamın dışında kalmanı istedim.
+3960241	tur	Seni her zaman buluştuğumuz yerde karşılayacağım.
+3960242	tur	Sanırım gitme zamanın.
+3960243	eng	It's another kettle of fish.
+3960244	tur	Asla buraya tekrar gelmeyeceğim.
+3960245	ita	È su quella che bisogna lavorare!
+3960246	ita	È su quella che bisogna lavorare?
+3960247	ita	Esistono altri sport.
+3960248	ita	Esistono altri sport?
+3960249	tur	Sınıf başkanlığına aday olmalısın.
+3960250	tur	Neden burada olduğumuzu biliyorsun, değil mi?
+3960251	tur	Bu broşürlere baktınız mı?
+3960253	fra	Tu es tiré d'affaire.
+3960254	ita	Non sapevo che fosse malata.
+3960255	fra	Tu es tirée d'affaire.
+3960256	ita	Io non sapevo che fosse malata.
+3960258	ita	Non sapevo che lei fosse malata.
+3960259	ita	Io non sapevo che lei fosse malata.
+3960260	fra	Vous êtes tiré d'affaire.
+3960261	tur	Hâlâ yapacak çok işin var.
+3960262	fra	Vous êtes tirées d'affaire.
+3960263	fra	Vous êtes tirés d'affaire.
+3960264	tur	Bir halterci gibi görünmüyorsun.
+3960265	fra	Vous êtes tirée d'affaire.
+3960266	ita	L'ho sentita cantare nella sua stanza.
+3960267	fra	Le téléphone était décroché.
+3960269	ita	Io l'ho sentita cantare nella sua stanza.
+3960270	ita	L'ho sentita cantare nella sua camera.
+3960271	ita	Io l'ho sentita cantare nella sua camera.
+3960272	ita	La sentii cantare nella sua camera.
+3960273	ita	Io la sentii cantare nella sua camera.
+3960274	ita	La sentii cantare nella sua stanza.
+3960275	ita	Io la sentii cantare nella sua stanza.
+3960276	tur	Bunu bize kimin gönderdiğini bulalım.
+3960277	tur	Bunlardan birini denemek ister misin?
+3960278	tur	Onu yapman için sana kim izin verdi.
+3960279	fra	Je vais laisser pisser pour cette fois.
+3960280	tur	Gerçekten bütün gece evde kaldın mı?
+3960281	ukr	Зі мною вони будуть у безпеці.
+3960282	ita	Chi vuole venire a cena?
+3960283	tur	Konuşmaya çalışma. Enerjini sakla.
+3960284	tur	Kendini suçlama. Bu benim hatam.
+3960285	tur	Sadece kızmayacağına dair bana söz ver.
+3960286	tur	Beni aramanı taktir ediyorum.
+3960288	ita	Sono fidanzato con lei.
+3960289	ita	Io sono fidanzato con lei.
+3960290	ita	Sono fidanzata con lei.
+3960291	tur	Sana işini geri önermek istiyorum.
+3960292	ita	Io sono fidanzata con lei.
+3960293	ukr	Ходімо додому поки не зтемніло.
+3960294	ita	Sono impegnato con lei.
+3960295	ita	Io sono impegnato con lei.
+3960296	ita	Sono impegnata con lei.
+3960297	ita	Io sono impegnata con lei.
+3960298	tur	Ben senin grubun bir parçası olmak istiyorum.
+3960299	ita	Ti dispiacerebbe ripetere la domanda?
+3960300	ita	Vi dispiacerebbe ripetere la domanda?
+3960301	ita	Le dispiacerebbe ripetere la domanda?
+3960302	tur	Biz daha fazla kayıpları göze alamıyoruz.
+3960303	ita	Metti le uova nell'acqua che bolle.
+3960304	ita	Metta le uova nell'acqua che bolle.
+3960305	ita	Mettete le uova nell'acqua che bolle.
+3960306	ell	Στις προστατευόμενες περιοχές απαγορεύεται η θήρα.
+3960307	ind	Dimana Anda mencairkannya?
+3960308	spa	En las zonas protegidas está prohibida la caza.
+3960309	epo	Oni ne kompliku neutile simplajn aferojn.
+3960310	ind	Saya sangat puas dengan penampilan Tom.
+3960311	ita	La macchina si è bloccata nel fango.
+3960312	ind	Saya menyikat gigi saya; saya menyisir rambut saya.
+3960313	ita	La macchina si bloccò nel fango.
+3960314	ita	L'auto si è bloccata nel fango.
+3960315	ita	L'auto si bloccò nel fango.
+3960316	ita	L'automobile si è bloccata nel fango.
+3960317	ita	L'automobile si bloccò nel fango.
+3960318	ita	Dammi quello che hai in mano.
+3960319	ind	Saya akan bertemu dengannya di sana.
+3960320	ita	Mi dia quello che ha in mano.
+3960321	epo	Tomo ne konsentas kun vi.
+3960322	hrv	Oni žele znati što se dogodilo.
+3960323	ind	Aku tidak tahu apakah itu benar atau tidak.
+3960324	epo	Mi vivas en Bjalistoko.
+3960325	ind	Gajah itu dibawa ke kebun binatang.
+3960326	epo	Neniu volas turmenti vin.
+3960327	ind	Maukah kamu berdansa denganku?
+3960328	tur	Artık hiçbir şeyden emin olamıyorum.
+3960329	ind	Haruskah aku menemanimu pergi?
+3960330	ind	Apa kamu tahu kenapa Tom tidak hadir pada rapat tadi siang?
+3960331	tur	Bu defa senin kayıplarını karşılayamıyorum.
+3960332	ind	Jenis musik apa yang Anda inginkan pada pernikahan Anda?
+3960333	hrv	Nikad nisam volio biologiju.
+3960334	hrv	Nikad nisam voljela biologiju.
+3960335	tur	Uğrayacağımı ve merhaba diyeceğimi düşündüm.
+3960336	tur	Burada rahat olacağını düşündüm.
+3960337	tur	Bu konuda mutlu olacağını düşündüm.
+3960338	tur	Şimdiye kadar Boston'da olacağını düşündüm.
+3960339	tur	Başın yine belada, değil mi?
+3960340	hrv	Mi to možemo popraviti.
+3960341	hun	Veszélyes autóversenyzőnek lenni.
+3960342	hrv	Mi ih nikad nećemo koristiti.
+3960343	epo	Ni iris al la viandovendejo por aĉeti bifstekojn.
+3960344	epo	La trajno jam estis for, kiam mi atingis la stacion.
+3960345	hun	Az ifjúkori autóvezetés veszélyes.
+3960346	ind	Tom duduk dan menyilangkan kakinya.
+3960347	ind	Apa kamu mau pinjam punyaku?
+3960348	ind	Dia punya selera seni yang tinggi.
+3960349	hun	A vőlegényem autóbolond.
+3960350	hun	A vőlegényemnek két autója van.
+3960351	hun	A vőlegényem autóversenyző.
+3960352	deu	Wie hoch ist die Versicherungsprämie?
+3960353	nld	Toen ik in het station aankwam, was de trein al vertrokken.
+3960354	hun	Több autót is akar venni a vőlegényem.
+3960355	nld	We gingen naar de beenhouwerij om biefstuk te kopen.
+3960356	hun	Magyar állampolgárságot kapott Ulrich.
+3960357	mar	असं म्हणतात की ती गंभीररीत्या आजारी आहे.
+3960358	mar	मी त्याबद्दल तितका विचार करत नाही.
+3960359	hun	A vőlegény az oltár előtt hagyta el menyasszonyát.
+3960360	mar	बॉस्टन शिकागोपासून किती लांब आहे?
+3960361	hun	A menyasszony az oltár előtt hagyta el a vőlegényét.
+3960362	deu	Je mehr man besitzt, desto mehr begehrt man.
+3960363	deu	Begehre nicht die Frau deines Nächsten.
+3960364	tur	Neden onlara gitmelerini söylemedin?
+3960365	eng	The more you possess, the more you desire.
+3960366	tur	Neden bunu bize daha önce söylemedin?
+3960367	tur	Sana söylediğim bu.
+3960368	tur	Sana söylemem gereken çok şey var.
+3960369	tur	Sana söylemeye çalıştığım bu.
+3960370	tur	Onlara bir bomba aradığımızı söyle.
+3960371	tur	Bana onun geldiğini görmediğini söyle.
+3960372	tur	Bunu neden yaptığımızı bana tekrar söyle.
+3960373	tur	Lütfen bana akşam yemeğinin ne zaman hazır olduğunu söyle.
+3960374	tur	Ne yaptığımızı kimseye söylemeyelim.
+3960375	tur	Bir şey bilirsek sana söyleriz.
+3960376	tur	Gerçekten farkı söyleyemem.
+3960377	tur	Bana söylemediğine inanamıyorum.
+3960378	tur	Onu burada sevmediğini söyleyebilirim.
+3960379	tur	En azından bana adını söyleyebilir misin?
+3960380	tur	Bana meşgul olmadığını mı söylüyorsun?
+3960381	rus	До Тома дошло, что он не оплатил счёт, поэтому он вернулся в ресторан.
+3960382	tur	Umarım aptalca bir şey yapmam.
+3960383	tur	Sadece akşam yemeği için oturuyoruz.
+3960384	tur	Daha güvenli bir yere taşınmalıyız.
+3960385	tur	Bunu yemenin güvenli olduğundan emin misiniz?
+3960386	tur	Senden büyük bir iyilik istemek için buraya geldim.
+3960387	tur	Bunun büyük bir anlaşma olduğunu fark etmedim.
+3960388	tur	Sana sandvicimin yarısını verebilirim.
+3960389	tur	Beni istasyona bırakabilir misin?
+3960390	tur	Ne söylediğimi anlayabiliyor musun?
+3960391	tur	Lütfen bir dakika buraya gelebilir misin?
+3960392	tur	Onun hakkında bir şey hatırlayabiliyor musun?
+3960393	dan	Dan tog fire sovepiller.
+3960394	tur	Bu malzemeyi buradan çıkarabilir misin?
+3960395	rus	Никто не может подвергаться произвольному вмешательству в его личную и семейную жизнь, произвольным посягательствам на неприкосновенность его жилища, тайну его корреспонденции или на его честь и репутацию. Каждый человек имеет право на защиту закона от такого вмешательства или таких посягательств.
+3960396	tur	Bu çöpü buradan çıkarabilir misin?
+3960397	rus	Что ты знаешь о Бостоне?
+3960398	rus	Что вы знаете о Бостоне?
+3960399	rus	Сегодня я видел сам знаешь кого на рынке.
+3960400	fra	Ai-je besoin d'une raison ?
+3960401	fra	Pourquoi n'avons-nous pas commencé ?
+3960402	fra	Portes-tu une arme ?
+3960403	fra	Portez-vous une arme ?
+3960404	rus	В девять я не могу пойти.
+3960405	tur	Bana bir öpücük vermeyecek misin?
+3960406	tur	Bana herhangi bir alternatif vermedin.
+3960407	tur	Pekala, bunu kesinlikle deneyeceğim.
+3960408	tur	Neden bunu bir daha denemiyoruz?
+3960409	tur	Bu bize çok zaman kazandırmaz.
+3960410	tur	Verebileceğim sadece bir cevap var.
+3960411	pol	Tom wypił trochę whiskey Mary.
+3960412	tur	Buralarda yiyecek bir şey yok.
+3960413	pol	Nie wiem o uniwersytecie absolutnie nic, więc zapytaj kogoś innego.
+3960414	tur	Alabileceğimiz tüm yardımı kullanabiliriz.
+3960415	pol	Nie ma tu nic do jedzenia.
+3960416	pol	To będzie długa zima.
+3960417	tur	Bu sırrı saklamak zorundasın, tamam mı?
+3960418	tur	Aradığımız kişi o.
+3960419	epo	Tio estas en la ŝranko.
+3960420	epo	Ĉu tio ne estas kutima?
+3960421	epo	Ĉu tio estas la nova lampo?
+3960422	pol	Nie zrywaj ze mną.
+3960423	epo	Ĉu ĉiu malsatas?
+3960424	tur	Kendine ait birini almak zorundasın.
+3960425	pol	Nie kupuj mi już prezentów.
+3960426	epo	Mi iom malsatas.
+3960427	pol	Nie przezywaj mnie kretynem.
+3960428	pol	Nie nazywaj mnie kretynem.
+3960429	tur	Bunu düşünmek zorunda kalacağız.
+3960430	epo	Mi fartas perfekte bone.
+3960431	epo	Eĉ la kuracisto tusas dum la vintro.
+3960432	pol	Nie wracaj zbyt szybko.
+3960434	tur	Yardım etmek için yapabileceğim tek şey var.
+3960435	pol	Nie wracaj bez informacji.
+3960436	epo	Kiel ili foriris?
+3960437	pol	Nie rób tego dla mnie.
+3960438	epo	Kiel vi alvenas?
+3960439	tur	Sanırım hangisini alacağımı biliyorsun.
+3960440	nld	Jen, gustumu.
+3960441	epo	Amuziĝu, ularo.
+3960442	tur	Son kez dediğin bu.
+3960443	epo	Surgrimpu viajn ĉevalojn.
+3960444	tur	Uyumak için bir yer arıyoruz.
+3960445	pol	Nie rób mi tego.
+3960446	epo	Situu en viaj lokoj.
+3960447	pol	Nie rób sobie tego.
+3960449	epo	Ĉu vi estas malliberulo?
+3960450	tur	Dün gece ağlaya ağlaya uyudum.
+3960451	epo	Ĉu tio estas nur revo?
+3960452	pol	Zacznijmy od prostych pytań, możemy?
+3960453	epo	Bonvolu eklabori.
+3960454	tur	Terk etmek istememizin nedeni bu.
+3960455	pol	Tom, nigdy nie byliśmy zbyt blisko, prawda?
+3960456	pol	Ile jeszcze możemy zakonserwować?
+3960457	pol	Czego to dowiodło?
+3960458	tur	Dövüşmek zorunda olmamızın nedeni bu.
+3960459	pol	Czemu nie mogę się ruszyć?
+3960460	pol	Zamknąłeś ten zawór?
