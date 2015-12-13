@@ -375,7 +375,6 @@
 389	deu	Wie lange braucht man bis zum Bahnhof?
 390	deu	Das wird eine gute Erinnerung an meine Reise durch die Vereinigten Staaten sein.
 391	deu	Entschuldigung, erlauben Sie mir, auf drei Fehler in dem obigen Artikel hinzuweisen.
-392	deu	Eure Namen sind mir egal. Sobald diese Arbeit vorbei ist, bin ich weg.
 393	deu	Es ist schwierig, ein Gespräch mit jemandem zu führen, der nur "Ja" und "Nein" sagt.
 394	deu	Sprichst du Italienisch?
 395	deu	"Ich kann bei diesem Lärm nicht denken", sagte sie auf die Schreibmaschine starrend.
@@ -500,7 +499,7 @@
 522	deu	Ich fühle mich nicht gut.
 523	deu	Rufen Sie die Polizei!
 524	deu	Das ist zu teuer!
-525	deu	Sie gibt vor zu schlafen, deswegen schnarcht sie nicht.
+525	deu	Sie gibt nur vor zu schlafen, deswegen schnarcht sie nicht.
 526	deu	Meine Schuhe sind zu klein, ich brauche neue.
 527	deu	Hauen wir ab von hier, die Bullen kommen.
 528	deu	Fröhliche Weihnachten!
@@ -1455,7 +1454,6 @@
 1504	eng	Would you like something to drink?
 1505	eng	"Who is it?" "It's your mother."
 1506	eng	"When will you be back?" "It all depends on the weather."
-1507	eng	"What's the matter?" asked the little white rabbit.
 1508	eng	"What's going on in the cave? I'm curious." "I have no idea."
 1509	eng	We must learn to live together as brothers, or we will perish together as fools.
 1510	eng	Uh... How's that working?
@@ -1530,7 +1528,6 @@
 1585	eng	How long does it take to get to the station?
 1586	eng	This will be a good souvenir of my trip around the United States.
 1587	eng	Excuse me; allow me to point out three errors in the above article.
-1588	eng	I don't care what your names are. Once this job's over, I'm out of here.
 1589	eng	It is difficult to keep up a conversation with someone who only says "Yes" and "No".
 1590	eng	Do you speak Italian?
 1591	eng	"I can't think with that noise," she said, as she stared at the typewriter.
@@ -1939,7 +1936,7 @@
 2007	eng	I like my job very much.
 2008	eng	Ray was willing to corroborate Gary's story, but the police were still unconvinced that either of them were telling the truth.
 2009	eng	The murderer was convicted and sentenced to life in prison.
-2010	eng	Sometimes, hockey players get so contentious with each other that fights break out.
+2010	eng	Sometimes hockey players get so competitive that fights break out.
 2011	eng	There was a feeling of constraint in the room; no one dared to tell the king how foolish his decision was.
 2012	eng	The consensus indicates that we are opposed to the proposed idea.
 2013	eng	A small forest fire can easily spread and quickly become a great conflagration.
@@ -2257,7 +2254,7 @@
 2334	eng	I'm going to take my car.
 2335	eng	It's too good to be true.
 2336	eng	You cannot achieve the impossible without attempting the absurd.
-2337	eng	You must only count on yourself. And yet, not a lot.
+2337	eng	You should only count on yourself--but even then, not too much.
 2338	eng	To be quiet in class is to respect other people's sleep.
 2339	eng	Logic is a systematic method of coming to the wrong conclusion with confidence.
 2340	eng	Cole's Axiom: The sum of the intelligence on the planet is a constant; the population is growing.
@@ -2992,7 +2989,7 @@
 3090	spa	Florencia es la ciudad más bonita de Italia.
 3091	fra	Essayons quelque chose !
 3093	fra	Qu'est-ce que tu fais ?
-3094	fra	Qu’est ce que c’est ?
+3094	fra	Qu’est-ce que c’est ?
 3095	fra	Aujourd'hui nous sommes le 18 juin et c'est l'anniversaire de Muiriel !
 3096	fra	Joyeux anniversaire Muiriel !
 3097	fra	Muiriel a 20 ans maintenant.
@@ -3275,7 +3272,7 @@
 3378	fra	Je t'ai manqué ?
 3380	fra	Sont-ils tous identiques ?
 3381	fra	Merci beaucoup !
-3382	fra	S'il vous plaît, où sont les oeufs ?
+3382	fra	S'il vous plaît, où sont les œufs ?
 3383	fra	Je le prends.
 3384	fra	C'est une surprise.
 3385	fra	C’est une bonne idée !
@@ -3297,7 +3294,6 @@
 3402	fra	Combien de temps cela prend-il pour arriver à la station ?
 3403	fra	Ça sera un bon souvenir de mon voyage à travers les États-Unis.
 3404	fra	Excusez-moi, permettez-moi de signaler trois erreurs dans l'article ci-dessus.
-3405	fra	Je m'en fiche de vos noms. Une fois ce travail terminé, je m'en vais d'ici.
 3406	fra	C'est difficile d'entretenir une conversation avec quelqu'un qui ne dit que « oui » et « non ».
 3407	fra	Est-ce que tu parles italien ?
 3408	fra	"Je ne peux pas réfléchir avec ce bruit", dit-elle, en fixant des yeux la machine à écrire.
@@ -3429,7 +3425,7 @@
 3536	fra	Comment vas-tu ? As-tu fait un bon voyage ?
 3537	fra	Je ne me sens pas bien.
 3538	fra	Appelez la police !
-3539	fra	C'est trop cher !
+3539	fra	C'est trop cher !
 3540	fra	Elle fait semblant de dormir, c'est pour ça qu'elle ne ronfle pas.
 3541	fra	Mes chaussures sont trop petites, j'en ai besoin de nouvelles.
 3542	fra	On s'tire d'ici, les flics arrivent.
@@ -4483,7 +4479,7 @@
 4603	ita	È una persona perbene.
 4606	ita	Hanno un bello studiare, sono sempre bocciati.
 4607	ita	Amor dà per mercede gelosia e rotta fede.
-4608	ita	Non c'era un'anima viva.
+4608	ita	Non c'era anima viva.
 4609	ita	Lontano dagli occhi, lontano dal cuore.
 4610	ita	I muri hanno orecchie.
 4611	ita	Faccia come se fosse a casa sua.
@@ -4501,7 +4497,7 @@
 4623	ita	Non so se l'avrebbe fatto per me.
 4624	ita	Ti piacerebbe venire?
 4625	ita	Sapevo che avrebbe accettato.
-4626	ita	Sarebbe venuta volentieri ma era in vacanza.
+4626	ita	Sarebbe venuta volentieri, ma era in vacanza.
 4627	ita	Credevo fosse vero.
 4628	ita	Ecco la città di cui ti parlavo.
 4629	ita	Ecco il ragazzo a cui penso.
@@ -4860,7 +4856,6 @@
 4989	jpn	あなたが駅に着くのにどのくらいかかりますか。
 4990	jpn	アメリカ旅行のよい記念になりました。
 4991	jpn	失礼だが、上記の記事にある３つの誤りを指摘しておきたい。
-4992	jpn	あんたらの名前なんか興味ないね。どうせこの仕事が終わるとお別れだ。
 4993	jpn	「はい」と「いいえ」しか言わない人と会話を続けるのは難しい。
 4994	jpn	イタリア語を話せますか？
 4995	jpn	「あの音で考え事ができないわ」と、彼女はタイプライターを見つめながら言った。
@@ -5295,7 +5290,7 @@
 5437	rus	Иногда он очень странен.
 5438	rus	Я постараюсь не мешать тебе учиться.
 5439	rus	Я могу только догадываться, так ли это и для всех остальных.
-5440	rus	Я полагаю это будет выглядеть несколько иначе, когда ты подумаешь об этом в долгосрочном плане.
+5440	rus	Я полагаю, это будет выглядеть несколько иначе, когда ты подумаешь об этом в долгосрочном плане.
 5441	rus	Не беспокойся.
 5442	rus	Я скучаю по тебе.
 5443	rus	Я позвоню им завтра, когда вернусь домой.
@@ -5569,9 +5564,9 @@
 5712	vie	Bạn muốn nói với tôi về sự tự do hả?
 5713	vie	Có nhiều chữ tôi không hiểu.
 5714	vie	Tôi cần hỏi một câu hỏi ngớ ngẩn.
-5715	vie	Tôi cũng không biết bày tỏ ra lam sao, tại vì cái đấy rõ ràng quá rồi.
+5715	vie	Tôi không biết phải trình bày thế nào, bởi vì nó đã quá rõ ràng rồi.
 5716	vie	Có thể nói cách khác được không?
-5717	vie	Tôi kiếm được cách giải, nhưng không thể nào đúng được tại vì tôi kiếm được nhanh quá.
+5717	vie	Tôi đã tìm ra cách, nhưng mà tìm ra nhanh thế này thì chắc hẳn đó không phải là cách hay rồi.
 5718	vie	Cái này rất là hấp dẫn!
 5719	vie	Nhưng ở đây, không dễ dàng như vậy đâu.
 5720	vie	Không, anh ấy không phải bạn trai mới của tôi.
@@ -5586,116 +5581,115 @@
 5730	vie	Tôi còn có sự chọn lựa nào khác nữa?
 5731	vie	Tôi không có gì tốt hơn để làm hết.
 5732	vie	Người nào cũng có cái hay và cái dở của họ.
-5733	vie	Tôi không biết tôi vẫn còn hay không.
+5733	vie	Không biết là tôi còn không nữa.
 5734	vie	Bạn nghĩ tôi đang làm gì?
 5735	vie	Mẹ của tôi không nói tiếng Anh giỏi lắm.
-5736	vie	Sao bạn tìm đồ ăn trên không gian được hả.
+5736	vie	Làm sao để tìm được thức ăn khi đang ở ngoài không gian?
 5737	vie	Mọi người muốn gặp bạn vì bạn nổi tiếng!
 5738	vie	Tôi rất ghét phải viết theo khuôn mẫu!
 5739	vie	Bạn làm gì mà thức khuya quá vậy?
 5740	vie	Bạn không đủ nhanh.
-5741	vie	Cuộc đời khó nhưng tôi khó hơn.
-5742	vie	Đừng! Mày đang làm cô ấy bực bội.
+5741	vie	Cuộc sống thì khó khăn đấy, nhưng tôi mạnh mẽ hơn nó nhiều.
+5742	vie	Đừng! Mày đang làm cô ấy bực bội đấy.
 5743	vie	Chỉ có sự thật là tốt đẹp.
 5744	vie	Tôi không biết nói tiếng Nhật.
 5745	vie	Không ai hiểu được tôi hết.
 5746	vie	Đừng coi tôi như người "bình thường"!
 5747	vie	Khong thế nào!
-5748	vie	"Trong hang động đang xẩy ra chuyện gì vậy? Tôi rất là ham biết." "Tôi cũng không biết nữa."
+5748	vie	"Trong hang đang xảy ra chuyện gì vậy? Tôi rất là tò mò." "Tôi cũng không biết nữa."
 5749	vie	Con thỏ trắng và bé hỏi, "Ước bạn là gì?"
 5750	vie	Ờ... cái đó sao rồi?
-5751	vie	"Nói thiệt chứ, tôi rất là sợ chiều cao." "Bạn nhát quá!"
+5751	vie	"Nói thật là tôi rất là sợ độ cao." "Bạn nhát quá!"
 5752	vie	"Tin tôi đi," anh ấy nói.
-5753	vie	"Cái này tôi đã đang kiếm," anh ta kêu lên.
-5754	vie	Có một ngày tôi sẽ chạy như gió.
+5753	vie	"Đây đúng là thứ mà tôi đang tìm" anh ta kêu lên.
+5754	vie	Sẽ có một ngày tôi sẽ chạy nhanh như gió.
 5755	vie	Cần gì thì cứ việc nói với tôi.
-5756	vie	Cái đó không bắt đầu tới lúc tám giờ rưỡi.
-5757	vie	"Tôi có cảm giác muốn chơi bài." "Tôi cũng vậy."
-5758	vie	Tôi sẽ không bao giờ nhìn thấy cộng sản trong cuộc đời tôi.
-5759	vie	Làm ơn để sắp bài trên bàn gỗ sồi.
+5756	vie	Nó sẽ không bắt đầu cho tới lúc tám giờ rưỡi.
+5757	vie	"Tôi muốn đánh bài." "Tôi cũng vậy."
+5758	vie	Cộng sản sẽ chẳng bao giờ tồn tại đến đời của tôi.
+5759	vie	Làm ơn để bộ bài trên bàn gỗ sồi.
 5760	vie	Sao mình không đi về đi?
-5761	vie	Một triệu người chết trong cái chiến tranh đó.
-5762	vie	Trong các chính phủ, đảng dân chủ là bết nhất, chừ mọi chính phủ mà đả tồn tại từ xưa đến giờ.
+5761	vie	Một triệu người đã ngã xuống trong cuộc chiến đó.
+5762	vie	Trong tất cả các loại hình chính phủ, dân chủ là tệ nhất, trừ mọi chính phủ mà đã tồn tại từ xưa đến giờ.
 5763	vie	Sếp à, không phải tôi đâu!
-5764	vie	Trời, quần trắng của tôi! Mới đây còn mới!
+5764	vie	Kìa mấy cái quần trắng của mình! Vẫn còn mới!
 5765	vie	Khi tôi ra khỏi ga xe lửa, tôi gặp một gã đàn ông.
 5766	vie	Đêm cũng dài quá ha?
 5767	vie	Có nhớ tôi không?
 5768	vie	Cám ơn bạn nhiều nghe!
 5769	vie	Ý định tốt!
 5770	vie	Vé khứ hồi phải không? Một chiều thôi.
-5771	vie	Giạt xong rồi, kéo cho giãn.
+5771	vie	Xếp gọn gàng sau khi giặt xong.
 5772	vie	Giặt trước khi mặc lần đầu.
 5773	vie	Đừng mở trước khi xe lửa ngừng lại.
 5774	vie	Ờ, xin lỗi nghe.
-5775	vie	Nghèo không phải là người có ít quá, nhưng người mướn nhiều quá.
-5776	vie	Thấy anh không ngạc nhiên, chắc anh đả biêt trước rồi.
+5775	vie	Người nghèo không phải là người có quá ít mà là người muốn quá nhiều.
+5776	vie	Anh có vẻ không bất ngờ nhỉ, chắc anh đã biết cả rồi.
 5777	vie	Mất bao nhiêu thời gian để đi từ đay tới ga?
 5778	vie	Cái này sẽ là một kỷ niệm tốt của cuộc du ngoạn xung quanh nước Mỹ.
-5779	vie	Tên chúng mày không mắc mớ đên tao. Xong việc này, tao không có ở lại nữa đâu.
-5780	vie	Rất là khó để tò chuyện với một người luôn luôn trả lời "Có" hay "Không" thôi.
+5780	vie	Rất là khó để nói chuyện với một người luôn luôn trả lời "Có" hay "Không".
 5781	vie	"Má, con có thể ăn một miếng bánh quy được không?" "Không. Con không nên ăn giữa bữa ăn."
-5782	vie	"Bạn cảm thấy làm sao," anh ấy hỏi.
-5783	vie	Rất là khó để học thành tiếng Pháp trong hai hay ba tháng.
+5782	vie	"Bạn thấy sao?" anh ấy hỏi.
+5783	vie	Rất là khó để thành thạo tiếng Pháp trong hai hay ba năm.
 5784	vie	Tôi không thế nào giải nghĩa cho bạn được.
-5785	vie	Tôi không mướn hối hận hết kiếp này.
+5785	vie	Tôi không muốn cả đời hối tiếc vì chuyện này.
 5786	vie	Tôi cũng không đoán được.
-5787	vie	Sự tưởng tượng ảnh hưởng mọi khía cạnh cuộc đời chúng ta.
+5787	vie	Sự tưởng tượng ảnh hưởng đến mọi khía cạnh cuộc sống của chúng ta.
 5788	vie	Chúng tôi không ngủ được vì ồn quá.
 5789	vie	Tốt nhất là hãy làm theo mọi thứ anh ấy nói với bạn.
-5790	vie	Tôi tốn hơn hai tiếng đồng hồ để dịch hai ba trang tiếng Mỹ.
+5790	vie	Tôi tốn hơn hai tiếng để dịch vài trang tiếng Anh.
 5791	vie	Đã mười một giờ rồi.
 5792	vie	Paris là một thành phố đẹp nhất thế giới.
 5793	vie	Tôi có ước mơ.
 5794	vie	Đây là bạn tôi tên Rachel, chúng tôi học trường trung học với nhau.
 5795	vie	Giá sinh hoạt đã nhất loạt tăng.
-5796	vie	Nhưng thế giới bao la mà.
+5796	vie	Nhưng mà vũ trụ là vô tận.
 5797	vie	Nhưng, sự trái ngược cũng luôn luôn có lý.
-5798	vie	Bạn bên cạnh tôi thì bây giờ mọi thứ êm suôi rồi.
-5799	vie	Bạn nói cái gì; bạn không biết hả?!
+5798	vie	Có em bên cạnh thì bây giờ mọi thứ đều ổn cả rồi.
+5799	vie	Ý cậu là cậu không biết hả?!
 5800	vie	Bạn nhìn ngốc quá.
-5801	vie	Tôi phải đi mua đồ. Một tiếng dồng hồ sau trở lại.
+5801	vie	Tôi đi mua sắm một chút. Một tiếng sau trở lại.
 5802	vie	Trong tiếng Ý cái đó nói thế nào?
 5803	vie	Cám ơn. Thôi nhé.
-5804	vie	Không phải lỗi tôi!
+5804	vie	Không phải lỗi của tôi!
 5805	vie	Mở miệng ra!
 5806	vie	Có nhiều thứ để làm quá!
 5807	vie	Đừng nghĩ là ăn sôcôla của tôi được nghe!
 5808	vie	Nhờ ơn của bạn tôi hết còn thèm ăn.
-5809	vie	Tôi rất là cần đập ai.
+5809	vie	Tôi muốn đấm ai đó cho thỏa thích.
 5810	vie	Ai lại không biết về vấn đề này?!
-5811	vie	Nóng đến nỗi mà có thể đun trái trứng trên ngóc xe được.
+5811	vie	Nóng đến nỗi mà có thể luộc trứng trên nóc xe.
 5812	vie	Không ai tới hết.
 5813	vie	Làm ơn nhìn mặt tôi khi nói chuyện!
-5814	vie	Nếu bạn tính đọc một bài diễn văn nhưng không ai tới thì sao?
+5814	vie	Nếu bạn phát biểu nhưng không ai tới thì sao?
 5815	vie	Tôi không hiểu.
 5816	vie	Còn chúng tôi làm gì?
 5817	vie	Tôi bị nhức đầu.
 5818	vie	Tôi phải nhận là tôi có ngáy...
 5819	vie	Giày của tôi bé quá, tôi cần đôi mới.
-5820	vie	Chúng mình chạy đi. Cảnh sát tới bay giờ.
+5820	vie	Mau rời khỏi đây. Cảnh sát tới bây giờ.
 5821	vie	Chúc mừng giáng sinh!
-5822	vie	"Nếu bạn buồn ngủ thì sao không ngủ đi?" "Tại vì nêu tôi ngủ bây giờ thì tôi sẽ thức dậy sớm quá.
-5823	vie	Hồi lúc chứng tỏ cái gì, tốt nhất nếu biết nó là sự thật.
-5824	vie	Cái gì hiểu lầm được thì dần dần sẽ bị hiểu lầm thôi.
+5822	vie	"Nếu mệt thì ngủ một chút đi?" "Bây giờ mà ngủ thì sẽ dậy sớm lắm."
+5823	vie	Nếu muốn chứng minh điều gì thì trước hết phải biết là nó đúng đã.
+5824	vie	Cái gì dễ bị hiểu lầm thì sẽ luôn như vậy thôi.
 5825	vie	Tôi đói quá rồi!
-5826	vie	Tôi nhiều việc làm quá phải ở thêm một tiếng đồng hồ nữa.
+5826	vie	Tôi còn nhiều việc phải làm quá, chắc phải ở lại thêm một tiếng đồng hồ nữa.
 5827	vie	Tôi có chồng và hai đứa con.
-5828	vie	Tôi đang ham biết.
+5828	vie	Tôi muốn đi du học ở Paris.
 5829	vie	Sao không ăn rau vậy?
 5830	vie	Cái xe đã đụng vô tường.
 5831	vie	Tìm thì sẽ thấy.
-5832	vie	"Có xong chưa?" "Tôi còn chưa bắt đầu nữa."
-5833	vie	"Xin chào," Tom nói với nụ cười.
+5832	vie	"Xong chưa vậy?" "Tôi còn chưa bắt đầu nữa mà."
+5833	vie	"Chào buổi sáng" Tom mỉm cười và nói.
 5834	vie	Tôi hứa.
-5835	vie	Tôi nghĩ mấy thứ tiếng ngoại quốc rất là thú vị.
+5835	vie	Tôi thấy ngoại ngữ rất thú vị.
 5836	vie	Đối mặt sự sống với một nụ cười!
-5837	vie	Bạn làm tôi mơ.
+5837	vie	Bạn khiến tôi mơ đấy.
 5838	vie	Kỳ nghỉ từ đây kết thúc.
-5839	vie	Tốt nhất mặc đồ láng một chút.
+5839	vie	Đầm dạ hội luôn được mong chờ.
 5840	vie	Lạnh.
 5841	vie	Tôi khát nước.
-5842	vie	Hồi tôi hỏi người ta cái gì tiếc nhất thời lúc học trường cao trung, phần đông trả lời rằng họ phí quá nhiều thì giờ.
+5842	vie	Khi tôi hỏi mọi người điều gì khiến họ cảm thấy tiếc nuối khi còn đi học thì phần đông đều trả lời rằng họ đã lãng phí quá nhiều thời gian.
 5843	vie	Bạn cố ý làm phải không!
 5844	vie	Bạn không nói với anh ấy cái gì à?
 5845	vie	Bạn có thể gọi lại được không?
@@ -5723,76 +5717,76 @@
 5867	vie	Nếu không có phép giải, thì không co vấn đề để giải.
 5868	vie	Rất nhiều người ngại dậy sớm, cho dù họ phải làm điều đó.
 5869	vie	Có lý tưởng là điều tốt... bạn nghĩ sao?
-5870	vie	Hồi máy bay gặp phải cơn gió, người phi công giạn hành khách buộc vào chỗ ngồi.
+5870	vie	Lúc máy bay gặp gió xoáy, phi công yêu cầu hành khách thắt dây an toàn.
 5871	vie	Tùy theo bạn cách nghĩa sự "tin" Chúa là sao.
-5872	vie	Các người lên chuyền đài Maury Povich luôn luôn tự phụ vấn đề ngươi yêu họ đi với người khác.
+5872	vie	Những người tham gia chương trình Maury Povich thường giả vờ rằng người yêu đang lừa dối họ.
 5873	vie	Bạn bè tôi nói tôi là người viết nhiều nhưng mấy tháng rồi tôi chưa viết cái gì hêt.
-5874	vie	Johnson là một người ẩn dật; anh ấy thích cách xa học sinh khác trong lớp.
+5874	vie	Johnson là người hơi tự kỉ; anh ấy thích tách biệt mình với các học sinh khác trong lớp.
 5875	vie	Tôi muốn lấy lại lời tuyên bố của tôi.
 5876	vie	Tim rất thích truyện cười mỉa mai.
-5877	vie	Jimmy cố khuyên ba má của anh để cho anh có thể đi vòng quanh đất nước với bạn của anh.
+5877	vie	Jimmy cố thuyết phục bố mẹ để anh có thể đi vòng quanh đất nước với bạn.
 5878	vie	Một bước Salsa tôi cũng không nhảy được.
 5879	vie	Thằng giết người bị xử tù chung thân.
-5880	vie	Đồng lòng đồng ý la chúng mình không ủng hộ quan niệm đề nghị.
-5881	vie	Tôi thấy chữ mà giải nghĩa ngắn gọn dễ nhớ nhất.
+5880	vie	Cuộc biểu quyết chỉ ra rằng chúng ta phản đối ý kiến được đưa ra.
+5881	vie	Tôi thấy những từ mà giải thích ngắn gọn thì luôn dễ nhớ nhất.
 5882	vie	Tôi mơ đến bạn.
 5883	vie	Tôi không thua đâu!
-5884	vie	Trường lớp sắp sửa bắt đầu lại rồi.
+5884	vie	Sắp vô tiết rồi.
 5885	vie	Nhưng bạn chưa nói tôi về chuyện này mà!
 5886	vie	Tôi phải giặt đồ trong khi trời còn nắng.
-5887	vie	Bạn có biêt bao nhiêu thì giờ.
-5888	vie	Làm ơn đi! Nói chuyện với tôi Trang.
+5887	vie	Bạn còn rất nhiều thời gian.
+5888	vie	Thôi nào! Nói chuyện với mình đi Trang.
 5889	vie	Tôi sắp xong rồi.
-5890	vie	Cái này sắp lam cho tôi điên rồi!
-5891	vie	Bạn mới nói tôi không có thể thắng được hả?
-5892	vie	Ở ngoài đang tối tăm.
-5893	vie	Tôi già quá cho thế gian này.
+5890	vie	Cái này làm tôi phát điên mất!
+5891	vie	Bạn vừa nói rằng tôi không thể thắng được à?
+5892	vie	Bên ngoài trời rất tối.
+5893	vie	Tôi đã quá già cho thế giới này.
 5894	vie	Không bao giờ trễ quá để học hỏi.
 5895	vie	Anh ấy nói với tôi chuyện đời của anh.
 5896	vie	Bạn đang nói cái gì vậy?
 5897	vie	Tôi có lớp ngày mai.
 5898	vie	Tôi không tin!
 5899	vie	"Cám ơn." "Không có chi."
-5901	vie	Bạn từ nước nào vậy?
-5902	vie	Chúng mình đi bộ nhiều.
+5901	vie	Bạn đến từ nước nào vậy?
+5902	vie	Chúng tôi đã đi bộ rất nhiều.
 5903	vie	Chờ tí, có ai đang gõ cửa.
-5904	vie	Bạn bị ốm rồi, nghỉ cho nhiều đi.
-5905	vie	Mọi người cũng muốn tin rằng giấc mơ có thể thành thiệt.
-5906	vie	Có phải bạn nói cuộc đời tôi đang nguy ngập không?
-5907	vie	Nếu tôi lại cái thì sao? Cái đó phạm pháp gì?
-5908	vie	Tôi tốn hết buổi chiều tò chuyện với bạn bè.
-5909	vie	Tôi muốn độc lập độc thân hơn.
-5910	vie	Bạn chỉ có đứng đó hết cả ngày hay sao?
-5911	vie	Con thỏ có lỗ tai dài và đuôi ngắn.
-5912	vie	Tim tôi đầy tràn tình vui.
-5913	vie	Tao không muốn nghe mày kêu rêu nữa.
+5904	vie	Bạn bị ốm rồi, nghỉ ngơi cho nhiều đi.
+5905	vie	Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực.
+5906	vie	Cậu nói rằng tôi đang gặp nguy hiểm đến tính mạng sao?
+5907	vie	Bị gay thì sao? Cái đó cũng là tội à?
+5908	vie	Tôi tốn hết buổi chiều tán chuyện với đám bạn.
+5909	vie	Tôi muốn tự lập hơn.
+5910	vie	Cậu định đứng đó cả ngày hay sao?
+5911	vie	Thỏ có tai dài và đuôi ngắn.
+5912	vie	Tim tôi tràn ngập hạnh phúc.
+5913	vie	Tôi không muốn nghe thêm bất kì lời than vãn nào từ cậu nữa.
 5914	vie	Hay quá! Tôi thắng hai lần liền!
-5915	vie	Tôi mệt ăn đồ ăn fast food quá rồi.
+5915	vie	Tôi ngán thức ăn nhanh quá rồi.
 5916	vie	Tôi không đợi được tới lúc nghỉ hè.
-5917	vie	Bạn có thể tin tưởng cuộc đời sẽ làm sao nếu không có điện đuộc không?
+5917	vie	Bạn có thể hình dung được cuộc sống sẽ như thế nào nếu không có điện không?
 5918	vie	Một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười.
-5919	vie	Cầu tiêu đâu?
-5920	vie	Chuyện anh ấy tào lao đến nỗi không ai tin được.
-5921	vie	Bạn cần bao nhiêu tiếng đồng hồ để ngủ hả?
-5922	vie	Bạn thực sự nghĩ rằng người có thể định cư trên mặt trang hả?
-5923	vie	Tôi không biết cái gì xấu hơn nửa.
-5924	vie	Sắc đẹp nằm trong mắt người đang nhìn xem.
+5919	vie	Nhà vệ sinh ở đâu vậy?
+5920	vie	Chuyện của nó tào lao đến nỗi chẳng ai tin được.
+5921	vie	Bạn cần bao nhiêu tiếng đồng hồ để ngủ vậy?
+5922	vie	Bạn thực sự nghĩ rằng con người một ngày nào đó có thể định cư trên Mặt trăng không?
+5923	vie	Tôi không biết cái gì có thể xấu hơn nữa.
+5924	vie	Vẻ đẹp chỉ tồn tại trong mắt của những người hiểu được nó.
 5925	vie	Tôi lười làm bài quá.
-5926	vie	Tôi cảm thấy giống như có tự do.
+5926	vie	Tôi cảm thấy mình rất tự do.
 5927	vie	Tự do cũng không phải hoàn toàn tự do.
-5928	vie	Tôi muốn máy chơi MP3!
+5928	vie	Tôi muốn có máy MP3!
 5929	vie	Em trai tôi rất là tự tin. Ít nhất chính nó nghĩ như vậy.
 5930	vie	Không, tôi không cho bạn vào được. Đã nhiều người quá rồi.
 5931	vie	Mày làm tao tức quá!
 5932	vie	Chia sẻ đam mê của ai đó chính là sống thật trọn vẹn với nó.
 5933	vie	Cuộc đời không dài nhưng rộng!
-5934	vie	Hồi lúc tao tuổi mày, Diêm Vương mới thành hành tinh.
+5934	vie	Hồi tôi bằng tuổi cậu, Diêm Vương vẫn còn là một hành tinh.
 5935	vie	Tôi thường tắm vào buổi tối.
 5936	vie	Bạn đã suy nghĩ về vấn đề này hết cả buổi sáng rồi. Đi ăn trưa đi.
 5937	vie	Nếu tôi không làm bay giờ thì tôi sẽ không bao giờ làm hết.
 5938	vie	Ngủ ngon. Chúc bạn nhiều giấc mơ đẹp.
-5939	vie	Có lẽ bạn nói đúng, tôi đả ích kỷ.
-5940	vie	Tôi sắp hết kế rồi.
+5939	vie	Có lẽ bạn nói đúng, tôi đã quá ích kỷ.
+5940	vie	Tôi sắp cạn ý tưởng rồi.
 5941	vie	Tôi cần lời chỉ bảo của bạn.
 5942	eng	We have to take him to the hospital immediately; he is seriously injured!
 5943	eng	Go and speak to my colleague.
@@ -8468,7 +8462,7 @@
 8716	fra	La liberté de parole est limitée dans certains pays.
 8717	fra	Continuez de nager jusqu'à vos limites.
 8718	fra	L'acquisition du langage demande de la créativité.
-8719	eng	You must drill in grammar.
+8719	eng	You must practice grammar.
 8720	eng	You had better go to the infirmary.
 8721	fra	Il n'y aurait pas de pensées s'il n'y avait pas de langage.
 8722	fra	Inutile de dire que je suis venu ici pour t'aider.
@@ -9951,7 +9945,7 @@
 10256	fra	Voici une lettre pour vous.
 10257	fra	J'aimerais que tu sois mon partenaire.
 10258	fra	Je t'ai donné un livre.
-10259	fra	Quel âge a ton grand-père ?
+10259	fra	Quel âge a ton grand-père ?
 10260	fra	Quel âge a votre oncle ?
 10261	fra	Je vais le faire comme tu l'as dit.
 10262	fra	Je suis d'accord avec vous.
@@ -11344,7 +11338,7 @@
 11693	fra	Mais tu n'es pas là-bas.
 11694	fra	Mais je n'avais pas peur.
 11695	fra	Mais les gens ont peu d'espoir.
-11696	fra	Cela, cependant, vous dit juste à peu près autant de choses que vous voudriez savoir sur l'eau que si l'on vous disait qu'elle est mouillée !
+11696	fra	Cela, cependant, vous dit juste à peu près autant de choses que vous en sauriez sur l'eau si l'on vous disait qu'elle est mouillée !
 11697	fra	Mais la lumière ne voyage pas à la même vitesse à travers toutes les substances ; elle va plus lentement dans certaines que dans d'autres.
 11698	fra	Mais nul ne pouvait m'aider.
 11699	fra	Mais ses amis l'appellent Ken.
@@ -11653,7 +11647,7 @@
 12010	fra	Et j'avais 14 ans quand j'ai touché un piano pour la première fois.
 12011	fra	Et Tony était le plus âgé.
 12012	fra	Une pelleteuse arriva peu de temps après et commença à creuser une route dans la colline pleine de pâquerettes.
-12013	fra	Et dispose de tuyaux dans le sol pour éliminer l'eau souillée.
+12013	fra	La maison dispose de tuyaux dans le sol pour éliminer l'eau souillée.
 12014	fra	Et me voici, toujours en vie.
 12015	fra	Et maintenant, représente-toi un comté, n'importe lequel, et imagine que ce comté est divisé en cinq ou six zones différentes.
 12016	fra	Et il n'y a même pas assez d'eau.
@@ -12251,7 +12245,7 @@
 12632	fra	Un écran séparait la pièce en deux.
 12633	fra	Finalement, Œdipe répondit.
 12634	fra	Finalement, en 1314, ces jeux devinrent si violents et dangereux que le roi Edouard II créa une loi.
-12635	fra	John et Sue décidèrent enfin de couper la pomme en moitiés.
+12635	fra	John et Sue décidèrent enfin de couper la pomme en deux.
 12636	fra	Il a enfin commencé à pleuvoir.
 12637	fra	L'été est finalement arrivé.
 12638	fra	Enfin nous avons eu l'information.
@@ -12315,7 +12309,7 @@
 12696	fra	En fait, ce serait une bonne idée de commencer tout de suite.
 12697	fra	On servit des pommes comme dessert.
 12698	fra	Je veux de la crème glacée pour le dessert.
-12699	fra	Après l'examen, nous avons comparés les réponses que nous avions écrites.
+12699	fra	Après l'examen, nous avons comparé les réponses que nous avions écrites.
 12700	fra	Comment s'est passé ton test ?
 12701	fra	Ted aime son épouse Elizabeth.
 12702	fra	Detroit est célèbre pour son industrie automobile.
@@ -12333,7 +12327,7 @@
 12714	fra	Mais je ne pense pas que la piscine soit ouverte ce week-end.
 12715	fra	Mais j'étais toujours trop feignant.
 12716	fra	Que vas-tu faire s'il ne vient pas ?
-12717	fra	Oh, mais il est venu à Tokyo seul ?
+12717	fra	Oh, mais il est venu à Tokyo seul  ?
 12718	fra	Je vais rejoindre une manifestation.
 12719	fra	Mais nous l'appelons Tony à la maison.
 12720	fra	Mais vous n'êtes pas obligés de rester jusqu'à la fin.
@@ -12529,7 +12523,7 @@
 12928	fra	Tous les pays ont leurs légendes.
 12929	fra	Mme Thomas nous apprend l'Histoire.
 12930	fra	Je m'attends à ce que Tom ait son examen.
-12931	fra	Je n'ai pas seulement emprunté de l'argent à Tom mais à sa femme également.
+12931	fra	J'ai emprunté de l'argent non seulement à Tom, mais aussi à sa femme.
 12932	fra	D'après Tom, Jane s'est mariée le mois dernier.
 12933	fra	Il semble que Tom soit incapable de résoudre le problème.
 12934	fra	J'aime Tom parce qu'il est honnête.
@@ -12586,7 +12580,7 @@
 12989	fra	Je n'ai pas idée de la raison pour laquelle elle s'est autant énervée.
 12990	fra	Je ne peux pas justifier son absence à l'école.
 12991	fra	Connaissez-vous quelques mythes grecs ?
-12992	fra	Trouvons quelque chose pour s'asseoir dessus.
+12992	fra	Trouvons quelque chose pour nous asseoir.
 12993	fra	Tout est prêt.
 12994	fra	Essuyez vos lèvres sur la serviette.
 12995	fra	Puis-je avoir une serviette, s'il vous plaît ?
@@ -12732,7 +12726,7 @@
 13138	fra	Le pain est fait à partir de la farine.
 13139	fra	Le pain est fait avec de la farine, de l'eau et de la levure.
 13140	fra	Le pain et le lait sont de la bonne nourriture.
-13141	fra	Un piano est dispendieux.
+13141	fra	Un piano coûte cher.
 13142	fra	Peter paraît très jeune.
 13143	fra	Peter en avait assez des filles puériles.
 13144	fra	Peter a décidé de partir demain.
@@ -12856,7 +12850,7 @@
 13269	fra	Après avoir demandé ma clé à la réception, j'ai pris l'ascenseur jusqu'à mon étage.
 13270	fra	Mademoiselle Baker savait que le jeune homme devrait partir très bientôt, elle décida alors de lui demander de bouger un peu sa voiture, afin qu'elle puisse garer la sienne à une bonne place pour la nuit avant d'aller se coucher.
 13271	fra	Les Bakers ont une ferme en amont de la rivière.
-13272	fra	Mrs. Baker s'est fait voler son porte-monnaie.
+13272	fra	Madame Baker s'est fait voler son porte-monnaie.
 13273	fra	Lis le bas de la page.
 13274	fra	Beethoven alla au piano, s'assit et commença à jouer.
 13275	fra	Dans ses dernières années Beethoven était sourd.
@@ -13085,7 +13079,7 @@
 13507	fra	Tout est vendu.
 13508	fra	Tout le monde était passionné par son histoire.
 13509	fra	Tout le monde est amical avec elle.
-13510	fra	Il était une fois, un vieil homme vivait là.
+13510	fra	Il était une fois un homme qui vivait là.
 13511	fra	Je vois Marie jouer du piano.
 13512	fra	Mary et moi sommes devenues bonnes amies.
 13513	fra	Mary et sa sœur ont gardé tour à tour leur mère malade.
@@ -13350,7 +13344,6 @@
 13786	fra	Cinq gallons d'ordinaire s'il vous plait.
 13787	fra	Une fête de bienvenue a eu lieu au restaurant.
 13788	fra	Les citrons sont acides.
-13789	fra	Le citron est acide.
 13790	fra	Puis-je acheter uniquement les lentilles ?
 13791	fra	J'aimerais louer une voiture.
 13792	fra	Selon les rayons X, vous n'avez pas de problèmes.
@@ -13503,7 +13496,7 @@
 13950	fra	Une seule erreur, et vous avez échoué.
 13951	fra	Je vais te raconter une histoire.
 13952	fra	Un mot est assez pour un homme sage.
-13953	fra	Prenons une pause.
+13953	fra	Vous n'avez pas d'adresse mél ?
 13954	fra	À première vue, la question semble simple.
 13955	spa	Comprendo lo que usted dice, pero no puedo estar de acuerdo.
 13956	fra	Le moindre mot de critique la rend nerveuse.
@@ -14151,7 +14144,7 @@
 14801	fra	J'ai abandonné l'idée d'acheter une maison.
 14802	fra	En été, je nage.
 14803	fra	Il faut que je décide quoi faire.
-14805	eng	You are diligent in contrast with her.
+14805	eng	Unlike her, you are diligent.
 14806	eng	You are not less pretty than her.
 14807	fra	J'entends quelque chose.
 14808	fra	Je veux acheter quelque chose à manger.
@@ -14818,7 +14811,6 @@
 15494	fra	Il a traversé la route en courant, la laissant toute seule.
 15495	fra	Il est malade et alité.
 15496	fra	Il était mal à l'aise devant son père.
-15497	fra	Il a honte de la pauvreté de son père.
 15498	fra	Il a obéi sans mot dire à la décision de son père.
 15499	fra	Il a pris la suite des affaires de son père.
 15500	fra	En face de son père, il ne peut rien dire.
@@ -15566,7 +15558,7 @@
 16286	eng	It is necessary for you to stop smoking.
 16287	eng	Are you not able to speak English?
 16289	eng	Do you study English?
-16290	eng	All you have to do is to try hard to master English.
+16290	eng	All you have to do is try hard to master English.
 16291	eng	Did you try to review the English lessons?
 16292	eng	Can you make yourself understood in English?
 16296	eng	You can't speak English, can you?
@@ -16440,7 +16432,7 @@
 17241	eng	I don't get what you mean.
 17242	eng	Your study will bear fruit.
 17243	eng	Your dog may be really depressed.
-17244	eng	What has become of your dog?
+17244	eng	What's become of your dog?
 17246	eng	I have been anxious about your health.
 17247	eng	I envy your good health.
 17248	eng	Your conclusion is highly arguable.
@@ -18023,7 +18015,6 @@
 18961	eng	I am confused by your frenzied behaviour.
 18962	eng	Look out for the wild dog!
 18963	eng	It is no use trying to separate the sheep from the goats while in a state of madness.
-18964	eng	The furious rainstorm had passed.
 18965	eng	Are you mad?
 18966	eng	Mr. Hashimoto is fair to us.
 18967	eng	Mr Hashimoto was confused by Ken's question.
@@ -18286,7 +18277,6 @@
 19234	eng	A strong yen is shaking the economy.
 19235	eng	I was drenched to the skin because of the heavy rain.
 19236	eng	It is hard to wake up without a strong cup of coffee.
-19237	eng	I'm shouting out loud as insanity takes hold over me.
 19238	eng	The sound of shouting grew faint.
 19240	eng	You'll get a reward for your cooperation.
 19241	eng	When you want cooperation, share over many hands.
@@ -18934,7 +18924,7 @@
 19932	eng	Smoking will do more harm than good.
 19933	eng	You must give up smoking, as it is unhealthy.
 19934	eng	Smoking may be harmful to his heart.
-19935	eng	Smoking has an ill effect upon the health.
+19935	eng	Smoking has an ill effect upon health.
 19936	eng	It is said that smoking is bad for your health.
 19937	eng	Smoking is strictly prohibited.
 19938	eng	Smoking means suicide.
@@ -19112,7 +19102,7 @@
 20126	eng	You like balls.
 20127	eng	You are a tennis player.
 20128	eng	We'll leave as soon as you are ready.
-20129	eng	Let us know when you will arrive.
+20129	eng	Let us know when you'll arrive.
 20130	eng	Put your affairs in order.
 20131	eng	What's your shoe size?
 20132	eng	Your shoes want mending.
@@ -19748,7 +19738,6 @@
 20799	eng	A person with weak eyes can't see far.
 20800	eng	The cancer has spread to her stomach.
 20801	eng	Cancer can be cured if discovered in time.
-20802	eng	Riddled with the cancer how does your life revolve.
 20803	eng	We have yet to discover an effective remedy for cancer.
 20804	eng	Silence grows like cancer.
 20805	eng	Can you hear the noise of the waves on the beach?
@@ -19890,7 +19879,7 @@
 20949	eng	Canned food doesn't interest her.
 20950	eng	The can is empty.
 20951	eng	Check all the loose knots and fasten them tight.
-20952	eng	You must begin with books like these that you can understand easily.
+20952	eng	You must begin with books like these that are easily understood.
 20953	eng	I had no difficulty in finding his office.
 20954	eng	That which is easily acquired is easily lost.
 20955	eng	To make a long story short, we married.
@@ -20200,7 +20189,7 @@
 21281	eng	We are having a good time.
 21282	eng	Singing merrily, they started for home.
 21283	eng	Let's have some fun.
-21284	eng	I hope you are having fun.
+21284	eng	I hope you're having fun.
 21285	eng	Are you having a good time?
 21287	eng	Enjoy your trip.
 21289	eng	I wish you a pleasant voyage.
@@ -20669,7 +20658,7 @@
 21784	eng	Generally speaking, the climate of Japan is mild.
 21785	eng	As a rule we have much rain in June in Japan.
 21787	eng	As a rule, twins have a lot in common.
-21788	eng	In general people were against the consumption tax.
+21788	eng	In general, people were against the consumption tax.
 21789	eng	As a rule, man is inclined to be lazy.
 21790	eng	Generally speaking, women are better linguists than men.
 21791	eng	Generally speaking girls are better linguists than boys.
@@ -21726,7 +21715,7 @@
 22888	eng	We began on a new project.
 22889	eng	Now that we are established in our new house we shall be glad to receive visitors.
 22890	eng	We've got to move very carefully.
-22891	eng	We enjoyed ourselves to the full.
+22891	eng	We enjoyed ourselves to the fullest.
 22892	eng	We live in a three-bedroom house.
 22893	eng	We must pay attention to traffic signals.
 22894	eng	We went into a shop to get some food.
@@ -21928,7 +21917,7 @@
 23097	eng	We didn't help him, so he did it off his own bat.
 23098	eng	We had the luck to win the battle.
 23099	eng	We set out when the rain had eased.
-23100	eng	We take a meal three times a day.
+23100	eng	We eat a meal three times a day.
 23101	eng	We have three meals a day.
 23103	eng	We painted the house once, then we went over it again.
 23104	eng	We are facing a violent crisis.
@@ -22436,7 +22425,6 @@
 23623	eng	Don't dwell on your past mistakes!
 23624	eng	Don't dwell on your past failures.
 23625	eng	Don't grieve about your past errors.
-23626	eng	My past indiscretions are coming back to haunt me.
 23627	eng	Stop clinging to your glory days, or you'll be left behind.
 23628	eng	Don't worry about the past.
 23633	eng	One day I strolled into the woods.
@@ -22836,7 +22824,7 @@
 24051	eng	How much is the monthly rate?
 24052	eng	Our rent is four times as much as it was ten years ago.
 24053	eng	You're a month behind with your rent.
-24054	eng	In the matter of house-rent I have come to terms with him.
+24054	eng	Regarding the matter of house-rent, I have come to terms with him.
 24055	eng	The dog had the liberty of the entire house.
 24056	eng	I rear cattle.
 24057	eng	The cattle starved to death.
@@ -23889,7 +23877,7 @@
 25218	eng	Is there anything else you want me to do?
 25219	eng	What was invented by Bell?
 25220	eng	Do you have any pets?
-25221	eng	I will give you a present.
+25221	eng	I'll give you a present.
 25222	eng	I'm afraid there's been some awful news.
 25223	eng	The doctors said he would never again be able to walk without some support.
 25224	eng	Complaining about something is one way to adapt yourself to a new environment.
@@ -23927,7 +23915,6 @@
 25260	eng	Something is being looked for.
 25261	eng	It's no good waiting for something to happen; you must take action at once.
 25262	eng	Has anything strange happened?
-25263	eng	Something is hiding me off.
 25264	eng	Something happened and he couldn't keep his promise.
 25265	eng	I hope I can be of some help to you.
 25266	eng	Can I do anything for you?
@@ -24139,7 +24126,6 @@
 25490	eng	Don't make light of me.
 25492	eng	I guess I've reached the age where I have to dispense advice to my underlings.
 25493	eng	Am I slipping?
-25494	eng	I started running into the night to find the truth in me.
 25495	eng	Was I really boring?
 25496	eng	I have her in my pocket.
 25497	eng	I gotta keep on movin'.
@@ -25521,7 +25507,6 @@
 26977	eng	The rain being over, they went on with the game.
 26978	eng	Scarcely had the rain stopped before a rainbow appeared.
 26979	eng	If only it would stop raining!
-26980	eng	If the rain stops, tears clean the scars of memory away.
 26981	eng	Wait till the rain stops.
 26982	eng	Let's wait for the rain to stop.
 26983	eng	We shall leave for home as soon as it stops raining.
@@ -27266,7 +27251,7 @@
 28870	eng	Our plane was flying over the Pacific Ocean.
 28871	eng	Our plane was flying above the clouds.
 28872	eng	Our feelings towards him are mixed.
-28873	eng	Not a day passes but we use electricity in our daily life.
+28873	eng	Not a day passes in which we don't use electricity in our daily lives.
 28874	eng	You stood out in our circle.
 28875	eng	The records of our discussions are kept by the secretary.
 28876	eng	Language as we know is a human invention.
@@ -27388,7 +27373,7 @@
 28994	eng	I managed to get there in time.
 28995	eng	As far as I'm concerned, I will not approve of the plan.
 28996	eng	I was appalled at the sight.
-28997	eng	I am learning how to type.
+28997	eng	I'm learning how to type.
 28998	eng	I doubt whether it is true or not.
 28999	eng	I have nothing to say against it.
 29000	eng	I didn't consider the subject seriously.
@@ -28288,7 +28273,7 @@
 29935	eng	A sound sleep made me feel better.
 29936	eng	The pencil which writes well is mine.
 29937	eng	I urinate involuntarily.
-29938	eng	Much as we resemble one another, we are none of us exactly alike.
+29938	eng	Much as we resemble one another, none of us are exactly alike.
 29939	eng	In a similar situation, the company was held liable.
 29940	eng	Hard use has worn this bag.
 29941	eng	Give me another couple of days to think it over.
@@ -28614,7 +28599,6 @@
 30284	eng	The time will soon come when his words will come true.
 30285	eng	Before long he came into the room.
 30286	eng	It will not be long before the winter vacation ends.
-30287	eng	The dirty rain started to fall on me.
 30288	eng	It will not be long before we can know the truth of the matter.
 30289	eng	It was not long before I caught up with him.
 30290	eng	By and by, the bitter north wind began to blow.
@@ -28625,7 +28609,6 @@
 30295	eng	It may rain soon.
 30296	eng	Love will come in time.
 30297	eng	By and by the party ended and everyone went home.
-30298	eng	Jealousy embellishes a page of the epic.
 30299	eng	In time, Tom came to love her.
 30300	eng	The day will soon come when there will be no more wars in the world.
 30301	eng	It will not be long before the cherry blossoms on our campus come out.
@@ -29418,7 +29401,6 @@
 31145	eng	It's already ten o'clock at night.
 31146	eng	Even at nighttime, it was not quiet and peaceful any more.
 31147	eng	There's no turning back.
-31148	eng	Can't go back; no place to go back to.
 31149	eng	I'm so full.
 31150	eng	I really must say good-bye.
 31151	eng	Have you read the book yet?
@@ -29467,7 +29449,6 @@
 31198	eng	We'd better roll now.
 31199	eng	Now that the weather is warmer, I can go outdoors.
 31200	eng	No one trusts him any more.
-31201	eng	Nobody can stop me from turning to madness.
 31202	eng	Now that you are grown-up, it is up to you to decide what to do.
 31203	eng	It's OK now. Don't worry. You can depend on me one hundred percent.
 31204	eng	Now that you're a college student, you should study harder.
@@ -29540,7 +29521,7 @@
 31278	eng	If you had been a little more patient, you would have succeeded.
 31279	eng	Would you like to turn it down a little?
 31280	eng	A little heavier rain might cause a flood.
-31281	eng	A little more to the right, so!
+31281	eng	A little more to the right, just like so!
 31282	eng	We would have bought the plane tickets if the price had been a little lower.
 31283	eng	Can you give me a discount?
 31284	eng	Can't you bring down the price a bit?
@@ -29575,7 +29556,6 @@
 31319	eng	You must put some life into your work.
 31320	eng	The jig is up; let's face the music like men.
 31321	eng	I gave up all hope of survival.
-31322	eng	Spring is come.
 31323	eng	I guess we should leave now.
 31324	eng	Can I leave now?
 31325	eng	I may as well go now.
@@ -30498,7 +30478,6 @@
 32308	eng	Stop beating around the bush.
 32309	eng	Because the surroundings were so dark, he could not see anything.
 32310	eng	Malaysia came into existence in 1957.
-32311	eng	I did two hours solid of work today.
 32312	eng	I spent a whole day in cleaning up my room.
 32313	eng	I felt as if I were in a dream.
 32314	eng	I felt as if I were dreaming.
@@ -30564,7 +30543,7 @@
 32378	eng	Mayuko called me back.
 32379	eng	Mayuko could not answer my question.
 32380	eng	Mayuko came running to meet us.
-32381	eng	Mayuko got a cut on the finger.
+32381	eng	Mayuko got a cut on her finger.
 32382	eng	Mayuko made a fair copy of the draft.
 32383	eng	Mayuko appears wise.
 32384	eng	Mayuko wore a flower crown.
@@ -30608,7 +30587,7 @@
 32422	eng	It was not long before she came back.
 32423	eng	It was not long before they made their appearance.
 32424	eng	It won't be long before he is up and about.
-32425	eng	It won't be long before he realizes the fault.
+32425	eng	It won't be long before he realizes the mistake.
 32426	eng	It will not be long before he turns up.
 32427	eng	It was not long before he was appointed professor.
 32428	eng	It won't be long before he returns home.
@@ -33060,7 +33039,7 @@
 34985	eng	How many days will it take until the swelling goes down?
 34986	eng	Halley's Comet comes round once every eighty years.
 34987	eng	Halley's Comet will come back in 2061.
-34988	eng	A ballet theater is a place in which I can study motion well.
+34988	eng	A ballet theater is a place in which I can study motion.
 34989	eng	He stands alone as a conductor of ballet music.
 34990	eng	I play volleyball a lot.
 34991	eng	Do you like playing volleyball?
@@ -35301,7 +35280,7 @@
 37393	eng	It's none other than Tom!
 37394	eng	Tom's wife keeps him on such a short rope.
 37395	eng	Not only Tom but I have to study.
-37396	eng	I borrowed money not only from Tom but from his wife too.
+37396	eng	I borrowed money not only from Tom, but from his wife, too.
 37397	eng	Tom was singled out for praise.
 37398	eng	Please give my best regards to Tom.
 37399	eng	It was at Oxford University that Tom studied history.
@@ -35396,7 +35375,6 @@
 37490	eng	Every pupil was asked one question.
 37491	eng	Every student has to leave school by six.
 37492	eng	Whichever way we choose will involve danger.
-37493	eng	What truths are lies?
 37494	eng	Any paper you read will tell the same story.
 37495	eng	His courage was celebrated in all the newspapers.
 37496	eng	A full description of him has been circulated in every newspaper.
@@ -35441,7 +35419,6 @@
 37541	eng	Every family has a skeleton in the closet.
 37542	eng	Which house did you live in?
 37543	eng	Every house had a garden.
-37545	eng	What lies are truth?
 37546	eng	How soon will the meeting begin?
 37547	eng	How do you want them?
 37548	eng	He explained how the accident came about.
@@ -35978,7 +35955,6 @@
 38134	eng	Do you know where I might find small cowboy boots?
 38135	eng	I have to take a bus to go anywhere.
 38138	eng	Where will we eat?
-38140	eng	I don't know where I'm leaving for.
 38141	eng	You know where everything is.
 38143	eng	When we discussed where to go on a picnic, some wanted to go to the forest, others wanted to go to the sea.
 38144	eng	I'm just another man.
@@ -36005,7 +35981,7 @@
 38167	eng	Where do you think I met her?
 38168	eng	Where can I try this on?
 38169	eng	Where do I pay for the gas?
-38170	eng	Where did miss your umbrella?
+38170	eng	Where did you miss your umbrella?
 38171	eng	Where shall I drop you?
 38172	eng	Where would I find shoes?
 38173	eng	We haven't decided where to take a rest.
@@ -37271,7 +37247,7 @@
 39589	eng	Would you wipe the table for me?
 39590	eng	Table manners vary from one country to another.
 39591	eng	If I don't know the table manners, it doesn't really matter.
-39592	eng	The table was coated with dust.
+39592	eng	The table was covered with dust.
 39593	eng	Clear away the table things.
 39595	eng	The cat on the table is sleeping.
 39596	eng	The calculator on the table is mine.
@@ -37637,7 +37613,6 @@
 39968	eng	Just a moment, please.
 39969	eng	Now just hold on a minute.
 39970	eng	Wait a second. Do you just think that all's well that ends well? That's not the way it is.
-39972	eng	Be waiting a little.
 39973	eng	Just a moment. I haven't made up my mind.
 39974	eng	Would you mind waiting a few minutes?
 39975	eng	Hold on a second, I'll be right back. Don't hang up!
@@ -37749,7 +37724,7 @@
 40085	eng	May I interrupt you?
 40087	eng	Could you please help me?
 40089	eng	Can I bother you for something?
-40090	eng	I was wondering if you could do me a favor?
+40090	eng	I was wondering if you could do me a favor.
 40091	eng	Would you do something for me?
 40092	eng	Excuse me, but may I ask you something.
 40093	eng	The waist is a little small.
@@ -38051,7 +38026,7 @@
 40406	eng	Not everybody succeeds in life.
 40407	eng	Everybody loves music.
 40408	eng	Everybody knows the news.
-40409	eng	Everyone and everything moved much faster now then before.
+40409	eng	Everyone and everything moved much faster now than before.
 40410	eng	Anyone can use this dictionary.
 40411	eng	Everyone is not honest.
 40412	eng	Give it to whoever needs it.
@@ -38401,7 +38376,7 @@
 40796	eng	Even if the performance is good, I still say we drop the project.
 40797	eng	You must do it even if you don't want to.
 40798	eng	Even though you don't like this, you must eat it.
-40799	eng	If I were rich, I would not give money to him.
+40799	eng	Even if I were rich, I wouldn't give money to him.
 40800	eng	You must do the work, even if you do not like it.
 40801	eng	Whenever you visit him, you will find him playing video games.
 40802	eng	The millionaire insisted on acquiring the masterpiece no matter how much it cost.
@@ -38511,7 +38486,6 @@
 40914	eng	The octopus is in the sea.
 40916	eng	The kite got caught in the tree.
 40917	eng	But I never had you.
-40918	eng	But my mind is still in chaos.
 40919	eng	But I have an appointment with my client tomorrow.
 40920	eng	Takeshi promised to help me with my homework, but at the last minute he let me down.
 40921	eng	Takeshi raised his hand to ask a question.
@@ -40659,7 +40633,6 @@
 43195	eng	I can not seem to explain to you how difficult it is.
 43196	eng	We hardly realize how important it is.
 43197	eng	I gained a clear picture of how it works.
-43198	eng	I do not know where it is.
 43199	eng	I have a rough idea where it is.
 43200	eng	He did not realize where it had come from.
 43201	eng	Is this Canadian money?
@@ -42387,7 +42360,6 @@
 44992	eng	The trees that line the street have lovely blossoms in spring.
 44993	eng	There are large houses along the street.
 44994	eng	The street is named for President Madison.
-44995	eng	Exactly!
 44996	eng	The pain was more than he could stand.
 44997	eng	There are various ways of enduring the pain.
 44998	eng	The touching episode came home to me.
@@ -44320,7 +44292,7 @@
 47015	eng	It wasn't until then that I felt really frightened.
 47016	eng	Only then did I see the danger we were in.
 47017	eng	It wasn't until then that we knew her address.
-47018	eng	Don't forget to let me know when it's time!
+47018	eng	Don't forget to let me know when it's time.
 47019	eng	I would have done it at that time.
 47020	eng	It'll be too late then.
 47021	eng	Then I met your father and we moved to the town.
@@ -45531,7 +45503,7 @@
 48291	eng	That dog made for me.
 48292	eng	Make sure that the dog does not escape.
 48293	eng	I like the dog.
-48294	eng	Don't play with that gun, it is not a toy.
+48294	eng	Don't play with that gun. It's not a toy.
 48295	eng	I found it easy to find the building.
 48296	eng	The building exhibits signs of dilapidation.
 48297	eng	That building can easily be seen from the other side of the room.
@@ -47853,7 +47825,7 @@
 50796	eng	And the teams competed with each other to try to kick the ball through this hole.
 50797	eng	And after a long time the boy came back again.
 50798	eng	And we had spent hours talking together.
-50800	eng	And had pipes under the ground to carry dirty water away.
+50800	eng	The house has pipes under the ground to carry dirty water away.
 50801	eng	And if we have time, I'd like to take a look at their cosmetics.
 50802	eng	And if you see Tom, say hello to him for me.
 50803	eng	And a tall man dressed in black reading a newspaper.
@@ -47865,7 +47837,6 @@
 50809	eng	Then, finally, she opened her mouth.
 50810	eng	And then, it took them far from home.
 50811	eng	And they will continue to influence the world through the excitement of their literature, movies and music.
-50813	eng	And then I went down to the subway.
 50815	eng	And I was fourteen years old before I touched a piano for the first time.
 50816	eng	Although I modified this extravagance later by including the beautiful life among the works of art that alone gave a meaning to life, it was still beauty that I valued.
 50817	eng	And the tree was often alone.
@@ -47888,7 +47859,6 @@
 50838	eng	And so the man came in.
 50839	eng	And the tree was happy.
 50840	eng	And it is only a very short step from there, to perception which occurs in the absence of all immediate signals and has to be labeled extrasensory.
-50841	eng	And when he was tired, he would sleep in her shade.
 50842	eng	And unlike Oshin, they do complain although certainly not at work and generally not in public.
 50843	eng	And he worked very hard for Mr Wood.
 50844	eng	And like many small towns in England, it has quite a long history.
@@ -48632,7 +48602,7 @@
 51646	eng	Some people like sports, and others don't.
 51647	eng	I love sports. I get that from my father.
 51648	eng	The spokesman confirmed that the report was true.
-51649	eng	Could you spell it please?
+51649	eng	Could you spell it, please?
 51650	eng	Everything is on schedule.
 51651	eng	Everything happened all at once.
 51653	eng	You must be doing wonderfully in everything.
@@ -49998,3 +49968,33 @@
 53091	eng	Jack bought a present for his friend.
 53092	eng	Jack was never to see his sister again.
 53093	eng	Jack explained to me how to change the wheel of the car.
+53094	eng	Jack was caught for setting fire to the house.
+53095	eng	Jack broke his mother's valuable vase, but he didn't do it on purpose, so she wasn't angry.
+53096	eng	Jack was pacing up and down in the room, lost in thought.
+53097	eng	Jack resembles his father.
+53098	eng	It seems that Jack is sick.
+53099	eng	Jack was looking well although tired.
+53100	eng	Scarcely had Jack seen her, he burst out crying.
+53101	eng	It is hard to convince Jack.
+53102	eng	Jack reached out for the magazine on the shelf.
+53103	eng	Jack tried to evade paying his taxes.
+53104	eng	Jack is wise beyond all others.
+53105	eng	Jack is an early riser.
+53106	eng	Jack resigned from his job in despair.
+53107	eng	Jack made no mistakes in the math test.
+53108	eng	Jack collects stamps.
+53109	eng	Jack has no object in life.
+53110	eng	Jack was laughed at by all the boys.
+53111	eng	Jack has a cat under his arm.
+53112	eng	Jack is very severe with his children.
+53113	eng	Jack exchanged the cow for the seeds.
+53114	eng	Jack is one of my friends.
+53115	eng	Jack is three years senior to me.
+53116	eng	Jack played a dirty trick on me.
+53117	eng	Jack is busy cooking for us.
+53118	eng	Jack made a lot of mistakes in his composition.
+53119	eng	Jack is bound to succeed this time.
+53120	eng	Jack is now either in London or Paris.
+53121	eng	Jack said he had never told a lie, but he was lying.
+53122	eng	Jack was lost sight of in the crowd.
+53123	eng	Jack insisted on having a living room to himself.
