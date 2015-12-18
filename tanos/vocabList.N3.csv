@@ -1,0 +1,1835 @@
+1,,,あっ,,"Ah!,Oh!"
+2,,愛,あい,,love
+3,,挨拶,あいさつ,,"greeting,salutation"
+4,,愛情,あいじょう,,"love,affection"
+5,,合図,あいず,,"sign,signal"
+6,,,アイスクリーム,,ice cream
+7,,愛する,あいする,,to love
+8,,相手,あいて,,"companion,partner,company"
+9,,,あいにく,,"unfortunately,Sorry, but...."
+10,,,アイロン,,(electric) iron
+11,,,アウト,,out
+12,,明かり,あかり,,"lamplight,light (in general),brightness"
+13,,空き,あき,,"room,time to spare,emptiness"
+14,,明らか,あきらか,,"obvious,evident,clear"
+15,,諦める,あきらめる,,"to give up,to abandon"
+16,,飽きる,あきる,,"to get tired of,to lose interest in,to have enough"
+17,,握手,あくしゅ,,handshake
+18,,悪魔,あくま,,"devil,demon,evil spirit"
+19,,明ける,あける,,"to dawn,to become daylight"
+20,,,あした,,tomorrow
+21,,預ける,あずける,,"to give into custody,to entrust,to deposit"
+22,,汗,あせ,,"sweat,perspiration"
+23,,与える,あたえる,,"to give,to present,to award"
+24,,暖かい,あたたか(い),,"warm,mild"
+25,,辺り,あたり,,"vicinity,nearby"
+26,,当たる,あたる,,"to be hit,to be successful,to be equivalent to"
+27,,,あちこち,,here and there
+28,,扱う,あつかう,,"to handle,to deal with,to treat"
+29,,集まり,あつまり,,"gathering,meeting,assembly,collection"
+30,,当てる,あてる,,"to hit,to apply a patch"
+31,,跡,あと,,"(1) trace,tracks,mark,sign,(2) remains,ruins,(3) scar"
+32,,,あと,,"(1) trace,tracks,(2) remains,ruins,(3) scar"
+33,,穴,あな,,hole
+34,,浴びる,あびる,,"to bathe,to bask in the sun,to shower"
+35,,油,あぶら,,oil
+36,,余り,あまり,,"not very (used as adverb),not much"
+37,,誤り,あやまり,,error
+38,,粗,あら,,"defect,flaw,blemish,weak point"
+39,,嵐,あらし,,"storm,tempest"
+40,,新た,あらた,,"new,fresh,novel"
+41,,,あらゆる,,"all,every"
+42,,表す,あらわす,,"to express,to show,to reveal"
+43,,現す,あらわす,,"to show,to indicate,to display"
+44,,現れ,あらわれ,,"embodiment,materialization"
+45,,現れる,あらわれる,,"(1) to appear,to come in sight,to become visible,(2) to express oneself"
+46,,,ありがとう,,"(conj,exp,int) Thank you"
+47,,有る,ある,,"to be,to have"
+48,,或,ある,,"a certain...,some..."
+49,,,あるいは,,"or,possibly"
+50,,,アルバム,,album
+51,,泡,あわ,,"bubble,foam,froth,head on beer"
+52,,合わせる,あわせる,,"to join together,to be opposite,to face,to unite"
+53,,哀れ,あわれ,,"helpless,pity,sorrow,grief"
+54,,案,あん,,"plan,suffix meaning draft"
+55,,暗記,あんき,,"memorization,learning by heart"
+56,,安定,あんてい,,"stability,equilibrium"
+57,,案内,あんない,,"information,guidance,leading"
+58,,,あんなに,,"to that extent,to that degree"
+59,,,あんまり,,"not very,not much,remainder,rest"
+60,,胃,い,,stomach
+61,,,いい,,good
+62,,,よい,,"good,nice,pleasant,ok"
+63,,いえ,いえ,,TODO same as いいえ?
+64,,委員,いいん,,committee member
+65,,言う,ゆう,,to say
+66,,意外,いがい,,"unexpected,surprising"
+67,,行き,いき,,going
+68,,行き,ゆき,,going
+69,,息,いき,,"breath,tone"
+70,,勢い,いきおい,,"force,vigor,energy,spirit"
+71,,生き物,いきもの,,"living thing,animal"
+72,,幾つ,いくつ,,"how many?,how old?"
+73,,幾ら,いくら,,"how much?,how many?"
+74,,,いけない,,"must not do,bad,wrong,not good"
+75,,医師,いし,,"doctor,physician"
+76,,意思,いし,,"intention,purpose"
+77,,意志,いし,,"will,volition"
+78,,維持,いじ,,"maintenance,preservation"
+79,,意識,いしき,,"consciousness,senses"
+80,,異常,いじょう,,"strangeness,abnormality,disorder"
+81,,椅子,いす,,chair
+82,,泉,いずみ,,"spring,fountain"
+83,,,いずれ,,"where,which,who"
+84,,以前,いぜん,,"ago,since,before,previous"
+85,,板,いた,,"board,plank"
+86,,偉大,いだい,,greatness
+87,,抱く,いだく,,"(sl) to embrace,to hug,to harbour,to entertain"
+88,,,いたずら,,"tease,prank,trick,practical joke"
+89,,,いただきます,,expression of gratitude before meals
+90,,頂く,いただく,,"to receive,to take food or drink (hum)"
+91,,痛み,いたみ,,"pain,ache,sore,grief,distress"
+92,,至る,いたる,,"to come,to arrive"
+93,,,いち,,"market,fair"
+94,,位置,いち,,"place,situation,position,location"
+95,,一時,いちじ,,"moment,time"
+96,,一度に,いちどに,,all at once
+97,,市場,いちば,,(the) market (as a concept)
+98,,一番,いちばん,,"best,first,number one"
+99,,,いつか,,"sometime,someday,one day"
+100,,一家,いっか,,"a house,a home,a family,a household"
+101,,一種,いっしゅ,,"a species,a kind,a variety"
+102,,一瞬,いっしゅん,,"a moment,an instant"
+103,,一生,いっしょう,,"whole life,a lifetime,all through life"
+104,,一層,いっそう,,"much more,still more,all the more"
+105,,一体,いったい,,"(1) one object,one body,(2) what on earth?,really?,(3) generally"
+106,,一致,いっち,,"(1) coincidence,agreement,(2) conformity"
+107,,,いつでも,,"(at) any time,always,at all times,never (neg)"
+108,,一般,いっぱん,,"general,liberal,universal,ordinary,average"
+109,,一方,いっぽう,,"(1) on the other hand,(2) meanwhile,(3) only,simple,in turn"
+110,,,いつまでも,,"forever,for good,eternally,as long as one likes,indefinitely"
+111,,いつも,いつも,,"always,usually,every time,never (with neg. verb)"
+112,,移動,いどう,,"removal,migration,movement"
+113,,従兄弟,いとこ,,cousin (male)
+114,,稲,いね,,rice-plant
+115,,居眠り,いねむり,,"dozing,nodding off"
+116,,命,いのち,,"command,decree,life,destiny"
+117,,違反,いはん,,"violation (of law),transgression,infringement,breach"
+118,,衣服,いふく,,clothes
+119,,居間,いま,,living room (western style)
+120,,今に,いまに,,"before long,even now"
+121,,今にも,いまにも,,"at any time,soon"
+122,,否,いや,,"no,the noes"
+123,,以来,いらい,,"since,henceforth"
+124,,依頼,いらい,,"(1) request,commission,dispatch,(2) dependence,trust"
+125,,,いらいら,,"getting nervous,irritation"
+126,,,いらっしゃい,,welcome
+127,,医療,いりょう,,"medical care,medical treatment"
+128,,岩,いわ,,"rock,crag"
+129,,祝い,いわい,,"celebration,festival"
+130,,祝う,いわう,,"to congratulate,to celebrate"
+131,,言わば,いわば,,so to speak
+132,,,いわゆる,,"the so-called,so to speak"
+133,,,インク,,ink
+134,,印刷,いんさつ,,printing
+135,,印象,いんしょう,,impression
+136,,引退,いんたい,,retire
+137,,引用,いんよう,,"quotation,citation"
+138,,,ウイスキー,,whisky
+139,,上,うわ,,"upper,outer,surface"
+140,,魚,うお,,fish
+141,,,うがい,,"gargle,rinse mouth"
+142,,伺う,うかがう,,"(hon) to visit,to ask,to inquire"
+143,,受け取る,うけとる,,"to receive,to get,to accept,to take"
+144,,動かす,うごかす,,"to move,to shift"
+145,,兎,うさぎ,,"rabbit,hare,cony"
+146,,牛,うし,,"cattle,cow"
+147,,失う,うしなう,,"to lose,to part with"
+148,,後,うしろ,,"afterwards,since then,in the future"
+149,,嘘,うそ,,"lie,falsehood,incorrect fact,inappropriate"
+150,,疑う,うたがう,,"to doubt,to distrust,to be suspicious of,to suspect"
+151,,内,うち,,inside
+152,,宇宙,うちゅう,,"universe,cosmos,space"
+153,,撃つ,うつ,,"to attack,to defeat,to destroy"
+154,,移す,うつす,,"to remove,to transfer,to infect"
+155,,訴える,うったえる,,"to sue (a person),to resort to,to appeal to"
+156,,,うなる,,"to groan,to moan"
+157,,奪う,うばう,,to snatch away
+158,,馬,うま,,"(1) horse,(2) promoted bishop (shogi)"
+159,,うまい,うまい,,delicious
+160,,生まれ,うまれ,,"birth,birth-place"
+161,,梅,うめ,,"plum,plum-tree,lowest (of a three-tier ranking system)"
+162,,裏切る,うらぎる,,"to betray,to turn traitor to,to double-cross"
+163,,,うるさい,,"noisy,loud,fussy"
+164,,嬉しい,うれしい,,"happy,glad,pleasant"
+165,,売れる,うれる,,to be sold
+166,,噂,うわさ,,"rumour,report,gossip,common talk"
+167,,うん,（感）,,"fortune,luck"
+168,,運,うん,,"fortune,luck"
+169,,運転,うんてん,,"operation,motion,driving"
+170,,運動,うんどう,,"motion,exercise"
+171,,柄,え,,"handle,grip"
+172,,永遠,えいえん,,"eternity,perpetuity,immortality,permanence"
+173,,永久,えいきゅう,,"eternity,perpetuity,immortality"
+174,,影響,えいきょう,,"influence,effect"
+175,,営業,えいぎょう,,"business,trade,management"
+176,,衛星,えいせい,,satellite
+177,,栄養,えいよう,,"nutrition,nourishment"
+178,,笑顔,えがお,,smiling face
+179,,描く,えがく,,"to draw,to paint,to sketch,to depict,to describe"
+180,,餌,えさ,,"feed,bait"
+181,,,エネルギー,,(n) energy (de: Energie)
+182,,得る,える,,"to get,to gain,to win"
+183,,得る,うる,,"to get,to gain,to win"
+184,,円,えん,,"circle,money"
+185,,延期,えんき,,"postponement,adjournment"
+186,,演技,えんぎ,,"acting,performance"
+187,,援助,えんじょ,,"assistance,aid,support"
+188,,,エンジン,,engine
+189,,演説,えんぜつ,,"speech,address"
+190,,演奏,えんそう,,musical performance
+191,,遠慮,えんりょ,,"diffidence,restraint,reserve"
+192,,御,お,,honourable
+193,,老い,おい,,"old age,old person,the old,the aged"
+194,,追い付く,おいつく,,"to overtake,to catch up (with)"
+195,,王,おう,,"king,ruler,sovereign,monarch"
+196,,追う,おう,,"to chase,to run after"
+197,,王様,おうさま,,king
+198,,王子,おうじ,,prince
+199,,応じる,おうじる,,"to respond,to satisfy,to accept,to comply with,to apply for"
+200,,横断,おうだん,,crossing
+201,,終える,おえる,,to finish
+202,,大いに,おおいに,,"very,much,greatly"
+203,,覆う,おおう,,"to cover,to hide,to conceal,to wrap,to disguise"
+204,,,オーバー,,"(1) overcoat,(2) over"
+205,,大家,おおや,,"rich family,distinguished family"
+206,,丘,おか,,"hill,height,knoll,rising ground"
+207,,沖,おき,,open sea
+208,,奥,おく,,"interior,inner part"
+209,,贈る,おくる,,"to send,to give to,to award to,to confer on"
+210,,起こる,おこる,,"to occur,to happen"
+211,,幼い,おさない,,"very young,childish"
+212,,収める,おさめる,,"to obtain,to reap,to pay,to supply,to accept"
+213,,,おじいさん,,"grandfather,male senior-citizen"
+214,,,おしゃべり,,"chattering,talk,idle talk"
+215,,汚染,おせん,,"pollution,contamination"
+216,,,おそらく,,perhaps
+217,,恐れる,おそれる,,"to fear,to be afraid of"
+218,,恐ろしい,おそろしい,,"terrible,dreadful"
+219,,お互い,おたがい,,"mutual,reciprocal,each other"
+220,,穏やか,おだやか,,"calm,gentle,quiet"
+221,,男の人,おとこのひと,,man
+222,,劣る,おとる,,"to fall behind,to be inferior to"
+223,,お腹,おなか,,stomach
+224,,鬼,おに,,"ogre,demon,it (i.e., in a game of tag)"
+225,,帯,おび,,"band (e.g. conduction, valence)"
+226,,お昼,おひる,,"lunch,noon"
+227,,,オフィス,,office
+228,,溺れる,おぼれる,,"to be drowned,to indulge in"
+229,,,おまえ,,"(fam) you (sing),presence (of a high personage)"
+230,,,おめでとう,,"Congratulations!,an auspicious occasion!"
+231,,お目に掛かる,おめにかかる,,
+232,,思い出,おもいで,,"memories,recollections,reminiscence"
+233,,主に,おもに,,"mainly,primarily"
+234,,思わず,おもわず,,"unintentional,spontaneous"
+235,,,おや,,parents
+236,,泳ぎ,およぎ,,swimming
+237,,,およそ,,"about,roughly,as a rule,approximately"
+238,,及ぼす,およぼす,,"to exert,to cause,to exercise"
+239,,居る,おる,,"to be (animate),to be,to exist"
+240,,下す,おろす,,"to lower,to let go down"
+241,,降ろす,おろす,,"to take down,to launch,to drop"
+242,,終,おわり,,the end
+243,,音,おん,,"sound,note"
+244,,恩,おん,,"favour,obligation,debt of gratitude"
+245,,温暖,おんだん,,warmth
+246,,温度,おんど,,temperature
+247,,可,か,,passable
+248,,課,か,,counter for chapters (of a book)
+249,,,カー,,car
+250,,,カード,,"card,curd"
+251,,会,かい,,"meeting,assembly,party,association,club"
+252,,回,かい,,counter for occurrences
+253,,害,がい,,"injury,harm,evil influence,damage"
+254,,会員,かいいん,,"member,the membership"
+255,,絵画,かいが,,picture
+256,,海外,かいがい,,"foreign,abroad,overseas"
+257,,会計,かいけい,,"account,finance,accountant"
+258,,解決,かいけつ,,"settlement,solution,resolution"
+259,,会合,かいごう,,"meeting,assembly"
+260,,外交,がいこう,,diplomacy
+261,,開始,かいし,,"start,commencement,beginning"
+262,,解釈,かいしゃく,,"explanation,interpretation"
+263,,外出,がいしゅつ,,"outing,going out"
+264,,改善,かいぜん,,"betterment,improvement"
+265,,快適,かいてき,,"pleasant,agreeable,comfortable"
+266,,回復,かいふく,,"recovery (from illness),improvement,rehabilitation,restoration"
+267,,飼う,かう,,"to keep,to raise,to feed"
+268,,替える,かえる,,"to exchange,to interchange,to substitute,to replace"
+269,,換える,かえる,,"to exchange,to interchange,to substitute,to replace"
+270,,香り,かおり,,"aroma,fragrance,scent,smell"
+271,,画家,がか,,"painter,artist"
+272,,抱える,かかえる,,to hold or carry under or in the arms
+273,,価格,かかく,,"price,value,cost"
+274,,化学,かがく,,chemistry
+275,,輝く,かがやく,,"to shine,to glitter,to sparkle"
+276,,係,かかり,,"official,duty,person in charge"
+277,,掛かる,かかる,,"to take (e.g. time, money, etc),to hang"
+278,,罹る,かかる,,to suffer from
+279,,鍵,かぎ,,key
+280,,限る,かぎる,,"to restrict,to limit,to confine"
+281,,描く,かく,,"to draw,to paint,to sketch,to depict,to describe"
+282,,家具,かぐ,,furniture
+283,,学,がく,,"learning,scholarship,erudition,knowledge"
+284,,額,がく,,"forehead,brow"
+285,,覚悟,かくご,,"resolution,resignation,readiness,preparedness"
+286,,確実,かくじつ,,"certainty,reliability,soundness"
+287,,学者,がくしゃ,,scholar
+288,,学習,がくしゅう,,"study,learning"
+289,,隠す,かくす,,"to hide,to conceal"
+290,,拡大,かくだい,,"magnification,enlargement"
+291,,確認,かくにん,,"affirmation,confirmation"
+292,,学問,がくもん,,"scholarship,study,learning"
+293,,隠れる,かくれる,,"to hide,to be hidden,to conceal oneself,to disappear"
+294,,影,かげ,,"shade,shadow,other side"
+295,,陰,かげ,,"shade,shadow,other side"
+296,,欠ける,かける,,to be lacking
+297,,加減,かげん,,"addition and subtraction,allowance for"
+298,,過去,かこ,,"the past,bygone days,the previous"
+299,,籠,かご,,"basket,cage"
+300,,囲む,かこむ,,"to surround,to encircle"
+301,,火災,かさい,,"conflagration,fire"
+302,,貸し,かし,,"loan,lending"
+303,,菓子,かし,,pastry
+304,,家事,かじ,,"housework,domestic chores"
+305,,賢い,かしこい,,"wise,clever,smart"
+306,,歌手,かしゅ,,singer
+307,,数,かず,,"number,figure"
+308,,稼ぐ,かせぐ,,"to earn income,to labor"
+309,,数える,かぞえる,,to count
+310,,型,かた,,"mold,model,style,shape,data-type"
+311,,肩,かた,,shoulder
+312,,硬い,かたい,,"solid,hard (esp. metal, stone),unpolished writing"
+313,,方々,かたがた,,"persons,this and that,here and there,everywhere"
+314,,刀,かたな,,"sword,saber,knife,engraving tool"
+315,,語る,かたる,,"to talk,to tell,to recite"
+316,,勝ち,かち,,"win,victory"
+317,,価値,かち,,"value,worth,merit"
+318,,,がっかり,,"feel disappointed,be dejected,lose heart"
+319,,活気,かっき,,"energy,liveliness"
+320,,学期,がっき,,term (school)
+321,,格好,かっこう,,"shape,form,posture,suitability"
+322,,活動,かつどう,,"action,activity"
+323,,活用,かつよう,,"conjugation,practical use"
+324,,悲しむ,かなしむ,,"to be sad,to mourn for,to regret"
+325,,必ずしも,かならずしも,,"(not) always,(not) necessarily,(not) all,(not) entirely"
+326,,,かなり,,"considerably,fairly,quite"
+327,,金,かね,,"(1) gold,(2) gold general (shogi) (abbr)"
+328,,金持ち,かねもち,,rich man
+329,,可能,かのう,,"possible,practicable,feasible"
+330,,株,かぶ,,"share,stock,stump (of tree)"
+331,,被る,かぶる,,to suffer
+332,,構う,かまう,,"to mind,to care about,to be concerned about"
+333,,我慢,がまん,,"patience,endurance,perseverance"
+334,,上,かみ,,"(1) first volume,(2) superior quality,(3) governmental"
+335,,神,かみ,,god
+336,,雷,かみなり,,thunder
+337,,髪の毛,かみのけ,,hair (head)
+338,,科目,かもく,,"(school) subject,curriculum,course"
+339,,,かもしれない,,"may,might,perhaps,may be,possibly"
+340,,火曜,かよう,,(abbr) Tuesday
+341,,空,から,,sky
+342,,柄,がら,,"hilt (of a sword),haft (of a dagger),handgrip"
+343,,刈る,かる,,"to cut (hair),to mow (grass),to harvest"
+344,,彼等,かれら,,they (usually male)
+345,,川,かわ,,river
+346,,河,かわ,,"river,stream"
+347,,皮,かわ,,"skin,hide,leather,fur,pelt,bark,shell"
+348,,革,かわ,,leather
+349,,,かわいそう,,"poor,pitiable,pathetic"
+350,,,かわいらしい,,"lovely,sweet"
+351,,缶,かん,,"can,tin"
+352,,勘,かん,,"perception,intuition,the sixth sense"
+353,,考え,かんがえ,,"thinking,thought,ideas,intention"
+354,,感覚,かんかく,,"sense,sensation"
+355,,観客,かんきゃく,,"audience,spectator(s)"
+356,,環境,かんきょう,,"environment,circumstance"
+357,,歓迎,かんげい,,"welcome,reception"
+358,,観光,かんこう,,sightseeing
+359,,観察,かんさつ,,"observation,survey"
+360,,感じ,かんじ,,"feeling,sense,impression"
+361,,感謝,かんしゃ,,"thanks,gratitude"
+362,,患者,かんじゃ,,a patient
+363,,勘定,かんじょう,,"calculation,counting,consideration"
+364,,感情,かんじょう,,"emotion(s),feeling(s),sentiment"
+365,,感じる,かんじる,,"to feel,to sense,to experience"
+366,,感心,かんしん,,"admiration,Well done!"
+367,,関心,かんしん,,"concern,interest"
+368,,関する,かんする,,"to concern,to be related"
+369,,完成,かんせい,,"(1) complete,completion,(2) perfection,accomplishment"
+370,,完全,かんぜん,,"perfection,completeness"
+371,,感動,かんどう,,"being deeply moved,excitement,impression,deep emotion"
+372,,監督,かんとく,,"supervision,control,superintendence"
+373,,管理,かんり,,"control,management (e.g. of a business)"
+374,,完了,かんりょう,,"completion,conclusion"
+375,,関連,かんれん,,"relation,connection,relevance"
+376,,議員,ぎいん,,"member of the Diet, congress or parliament"
+377,,記憶,きおく,,"memory,recollection,remembrance"
+378,,気温,きおん,,temperature
+379,,機械,きかい,,"machine,mechanism"
+380,,議会,ぎかい,,"Diet,congress,parliament"
+381,,期間,きかん,,"period,term"
+382,,機関,きかん,,"organ,mechanism,facility,engine"
+383,,企業,きぎょう,,"enterprise,undertaking"
+384,,効く,きく,,to be effective
+385,,機嫌,きげん,,"humour,temper,mood"
+386,,気候,きこう,,climate
+387,,岸,きし,,"bank,coast,shore"
+388,,生地,きじ,,birthplace
+389,,記事,きじ,,"article,news story,report,account"
+390,,技師,ぎし,,"engineer,technician"
+391,,記者,きしゃ,,reporter
+392,,傷,きず,,"wound,injury,hurt,cut"
+393,,期待,きたい,,"expectation,anticipation,hope"
+394,,帰宅,きたく,,returning home
+395,,貴重,きちょう,,"precious,valuable"
+396,,議長,ぎちょう,,chairman
+397,,,きちんと,,"precisely,accurately"
+398,,,きつい,,"tight,close,intense"
+399,,気付く,きづく,,"to notice,to recognize,to become aware of"
+400,,気に入る,きにいる,,"to be pleased with,to suit"
+401,,記入,きにゅう,,"entry,filling in of forms"
+402,,記念,きねん,,"commemoration,memory"
+403,,機能,きのう,,"function,faculty"
+404,,気の毒,きのどく,,"pitiful,a pity"
+405,,寄付,きふ,,"contribution,donation"
+406,,希望,きぼう,,"hope,wish,aspiration"
+407,,基本,きほん,,"foundation,basis,standard"
+408,,決まり,きまり,,"settlement,conclusion,regulation,rule"
+409,,気味,きみ,,"-like,-looking,-looked"
+410,,奇妙,きみょう,,"strange,queer,curious"
+411,,義務,ぎむ,,"duty,obligation,responsibility"
+412,,疑問,ぎもん,,"question,problem,doubt,guess"
+413,,逆,ぎゃく,,"reverse,opposite"
+414,,,キャプテン,,captain
+415,,,キャンプ,,camp
+416,,九,きゅう,,nine
+417,,旧,きゅう,,ex-
+418,,級,きゅう,,"class, grade, rank,school class, grade"
+419,,球,きゅう,,"globe,sphere,ball"
+420,,休暇,きゅうか,,"holiday,day off,furlough"
+421,,休憩,きゅうけい,,"rest,break,recess,intermission"
+422,,急激,きゅうげき,,"sudden,precipitous,radical"
+423,,吸収,きゅうしゅう,,"absorption,suction,attraction"
+424,,救助,きゅうじょ,,"relief,aid,rescue"
+425,,急速,きゅうそく,,rapid (e.g. progress)
+426,,急に,きゅうに,,
+427,,給料,きゅうりょう,,"salary,wages"
+428,,器用,きよう,,"skillful,handy"
+429,,教科書,きょうかしょ,,text book
+430,,競技,きょうぎ,,"game,match,contest"
+431,,行儀,ぎょうぎ,,manners
+432,,供給,きょうきゅう,,"supply,provision"
+433,,教師,きょうし,,teacher (classroom)
+434,,教授,きょうじゅ,,"teaching,instruction,professor"
+435,,強調,きょうちょう,,"emphasis,stress,stressed point"
+436,,共通,きょうつう,,"commonness,community"
+437,,共同,きょうどう,,"cooperation,association,collaboration,joint"
+438,,恐怖,きょうふ,,"be afraid,dread,dismay,terror"
+439,,協力,きょうりょく,,"cooperation,collaboration"
+440,,強力,きょうりょく,,"herculean strength,mountain carrier-guide"
+441,,許可,きょか,,"permission,approval"
+442,,局,きょく,,"court lady,lady in waiting"
+443,,巨大,きょだい,,"huge,gigantic,enormous"
+444,,嫌う,きらう,,"to hate,to dislike,to loathe"
+445,,霧,きり,,"fog,mist"
+446,,切れ,きれ,,"cloth,piece,cut,chop"
+447,,切れる,きれる,,"(1) to cut well,to be sharp,(2) to break (off)"
+448,,,キロ,,"(abbr) kilo-,kilogram,kilometre,10^3"
+449,,記録,きろく,,"record,minutes,document"
+450,,議論,ぎろん,,"argument,discussion,dispute"
+451,,金,きん,,"(1) gold,(2) gold general (shogi) (abbr)"
+452,,銀,ぎん,,"(1) silver,silver coin,silver paint"
+453,,禁煙,きんえん,,No Smoking!
+454,,金額,きんがく,,amount of money
+455,,金庫,きんこ,,"safe,vault,treasury,provider of funds"
+456,,禁止,きんし,,"prohibition,ban"
+457,,金銭,きんせん,,"money,cash"
+458,,金属,きんぞく,,metal
+459,,近代,きんだい,,present day
+460,,緊張,きんちょう,,"tension,mental strain,nervousness"
+461,,筋肉,きんにく,,"muscle,sinew"
+462,,金融,きんゆう,,"monetary circulation,credit situation"
+463,,金曜,きんよう,,(abbr) Friday
+464,,九,く,,nine
+465,,句,く,,sentence
+466,,食う,くう,,(male) (vulg) to eat
+467,,偶然,ぐうぜん,,"(by) chance,unexpectedly,suddenly"
+468,,臭い,くさい,,"odour,scent,smell,stench"
+469,,鎖,くさり,,chain
+470,,腐る,くさる,,"to rot,to go bad"
+471,,癖,くせ,,"a habit (often a bad habit),peculiarity"
+472,,管,くだ,,"pipe,tube"
+473,,具体,ぐたい,,"concrete,tangible,material"
+474,,下さる,くださる,,"(hon) to give,to confer"
+475,,下り,くだり,,down-train (going away from Tokyo)
+476,,苦痛,くつう,,"pain,agony"
+477,,,ぐっすり,,"sound asleep,fast asleep"
+478,,区別,くべつ,,"distinction,differentiation,classification"
+479,,組,くみ,,"class,group,team,set"
+480,,組合,くみあい,,"association,union"
+481,,組む,くむ,,to put together
+482,,曇,くもり,,"cloudiness,cloudy weather,shadow"
+483,,位,くらい,,"grade,rank,about"
+484,,暮らし,くらし,,"living,livelihood,subsistence,circumstances"
+485,,,クラシック,,classic(s)
+486,,暮らす,くらす,,"to live,to get along"
+487,,,グラス,,"(1) glass,(2) grass"
+488,,,グランド,,"gland,grand,(electrical) ground"
+489,,,クリーム,,cream
+490,,繰り返す,くりかえす,,"to repeat,to do something over again"
+491,,,クリスマス,,Christmas
+492,,狂う,くるう,,"to go mad,to get out of order"
+493,,,グループ,,group
+494,,苦しい,くるしい,,"painful,difficult"
+495,,苦しむ,くるしむ,,"to suffer,to groan,to be worried"
+496,,暮れ,くれ,,"year end,sunset,nightfall,end"
+497,,苦労,くろう,,"troubles,hardships"
+498,,加える,くわえる,,"to append,to sum up,to add (up)"
+499,,詳しい,くわしい,,"knowing very well,detailed,full,accurate"
+500,,加わる,くわわる,,"to join in,to accede to,to increase,to gain in (influence)"
+501,,訓,くん,,native Japanese reading of a Chinese character
+502,,軍,ぐん,,"army,force,troops"
+503,,軍隊,ぐんたい,,"army,troops"
+504,,訓練,くんれん,,"practice,training"
+505,,下,げ,,"under,below,beneath"
+506,,計,けい,,plan
+507,,敬意,けいい,,"respect,honour"
+508,,経営,けいえい,,"management,administration"
+509,,計画,けいかく,,"plan,project,schedule,scheme,program"
+510,,景気,けいき,,"condition,state,business (condition)"
+511,,経験,けいけん,,experience
+512,,傾向,けいこう,,"tendency,trend,inclination"
+513,,警告,けいこく,,"warning,advice"
+514,,計算,けいさん,,"calculation,reckoning"
+515,,掲示,けいじ,,"notice,bulletin"
+516,,刑事,けいじ,,"criminal case,(police) detective"
+517,,芸術,げいじゅつ,,"(fine) art,the arts"
+518,,契約,けいやく,,"contract,compact,agreement"
+519,,経由,けいゆ,,"go by the way,via"
+520,,,ケース,,case
+521,,,ゲーム,,game
+522,,怪我,けが,,"injury (to animate object),hurt"
+523,,劇,げき,,"drama,play"
+524,,劇場,げきじょう,,"theatre,playhouse"
+525,,化粧,けしょう,,make-up (cosmetic)
+526,,,けち,,"stinginess,miser,miserliness"
+527,,結果,けっか,,"result,consequence"
+528,,欠陥,けっかん,,"defect,fault,deficiency"
+529,,結局,けっきょく,,"after all,eventually"
+530,,決心,けっしん,,"determination,resolution"
+531,,欠席,けっせき,,"absence,non-attendance"
+532,,決定,けってい,,"decision,determination"
+533,,欠点,けってん,,"faults,defect,weakness"
+534,,月曜,げつよう,,Monday
+535,,結論,けつろん,,conclusion
+536,,煙,けむり,,"smoke,fumes"
+537,,券,けん,,"ticket,coupon,bond,certificate"
+538,,県,けん,,prefecture
+539,,軒,けん,,eaves
+540,,喧嘩,けんか,,"quarrel,(drunken) brawl,failure"
+541,,見解,けんかい,,"opinion,point of view"
+542,,限界,げんかい,,"limit,bound"
+543,,現金,げんきん,,"cash,ready money,mercenary,self-interested"
+544,,言語,げんご,,language
+545,,健康,けんこう,,"health,sound,wholesome"
+546,,検査,けんさ,,"inspection (e.g. customs, factory),examination"
+547,,現在,げんざい,,"present,up to now,nowadays,modern times,current"
+548,,現実,げんじつ,,reality
+549,,現象,げんしょう,,phenomenon
+550,,現状,げんじょう,,"present condition,existing state,status quo"
+551,,建設,けんせつ,,"construction,establishment"
+552,,現代,げんだい,,"nowadays,modern times,present-day"
+553,,建築,けんちく,,"construction,architecture"
+554,,見当,けんとう,,"be found,aim,estimate,guess,approx"
+555,,検討,けんとう,,"consideration,examination,investigation,study,scrutiny"
+556,,現場,げんば,,"actual spot,scene,scene of the crime"
+557,,憲法,けんぽう,,constitution
+558,,権利,けんり,,"right,privilege"
+559,,後,ご,,"afterwards,since then,in the future"
+560,,語,ご,,"language,word"
+561,,恋,こい,,"love,tender passion"
+562,,濃い,こい,,"thick (as of color, liquid),dense,strong"
+563,,恋人,こいびと,,"lover,sweetheart"
+564,,幸運,こううん,,"good luck,fortune"
+565,,講演,こうえん,,"lecture,address"
+566,,効果,こうか,,"effect,effectiveness,efficacy,result"
+567,,硬貨,こうか,,coin
+568,,高価,こうか,,high price
+569,,豪華,ごうか,,"wonderful,gorgeous,splendor,pomp,extravagance"
+570,,合格,ごうかく,,"success,passing (e.g. exam),eligibility"
+571,,交換,こうかん,,"exchange,interchange,reciprocity"
+572,,航空,こうくう,,"aviation,flying"
+573,,光景,こうけい,,"scene,spectacle"
+574,,合計,ごうけい,,"sum total,total amount"
+575,,攻撃,こうげき,,"attack,strike,offensive,criticism,censure"
+576,,貢献,こうけん,,"contribution,services"
+577,,広告,こうこく,,advertisement
+578,,交際,こうさい,,"company,friendship,association,society,acquaintance"
+579,,後者,こうしゃ,,the latter
+580,,工場,こうば,,"factory,plant,mill,workshop"
+581,,構成,こうせい,,"organization,composition"
+582,,高速,こうそく,,"high speed,high gear"
+583,,行動,こうどう,,"action,conduct,behaviour,mobilization"
+584,,強盗,ごうとう,,"robbery,burglary"
+585,,幸福,こうふく,,"happiness,blessedness"
+586,,公平,こうへい,,"fairness,impartial,justice"
+587,,候補,こうほ,,candidacy
+588,,考慮,こうりょ,,"consideration,taking into account"
+589,,越える,こえる,,"to exceed,to cross over,to cross"
+590,,,コーチ,,coach
+591,,,コード,,"code,cord,chord"
+592,,氷,こおり,,"ice,hail"
+593,,凍る,こおる,,"to freeze,to be frozen over,to congeal"
+594,,,ゴール,,goal
+595,,誤解,ごかい,,misunderstanding
+596,,語学,ごがく,,language study
+597,,呼吸,こきゅう,,"breath,respiration"
+598,,故郷,こきょう,,"home town,birthplace,old village,historic village"
+599,,極,ごく,,"quite,very"
+600,,国語,こくご,,national language
+601,,黒板,こくばん,,blackboard
+602,,克服,こくふく,,"subjugation,conquest"
+603,,国民,こくみん,,"national,people,citizen"
+604,,穀物,こくもつ,,"grain,cereal,corn"
+605,,ここ,ここ,,here
+606,,腰,こし,,hip
+607,,故障,こしょう,,"break-down,failure,accident,out of order"
+608,,個人,こじん,,"individual,private person,personal,private"
+609,,越す,こす,,to go over (e.g. with audience)
+610,,国家,こっか,,"state,country,nation"
+611,,国会,こっかい,,"National Diet,parliament,congress"
+612,,国境,こっきょう,,national or state border
+613,,骨折,こっせつ,,bone fracture
+614,,小包,こづつみ,,"parcel,package"
+615,,事,こと,,"thing,matter,fact,circumstances"
+616,,異なる,ことなる,,"to differ,to vary,to disagree"
+617,,諺,ことわざ,,"proverb,maxim"
+618,,断る,ことわる,,"to refuse,to decline,to dismiss"
+619,,粉,こな,,"flour,meal,powder"
+620,,この,この,,this
+621,,好み,このみ,,"liking,taste,choice"
+622,,好む,このむ,,"to like,to prefer"
+623,,,コピー,,"(1) a (photo)copy,(2) blurb on a book jacket"
+624,,塵,ごみ,,"dust,dirt"
+625,,小麦,こむぎ,,wheat
+626,,,ごめんなさい,,"I beg your pardon,excuse me"
+627,,小屋,こや,,"hut,cabin,shed,(animal) pen"
+628,,,これら,,these
+629,,頃,ころ,,"time,about,toward,approximately (time)"
+630,,殺す,ころす,,to kill
+631,,転ぶ,ころぶ,,"to fall down,to fall over"
+632,,今回,こんかい,,"now,this time,lately"
+633,,今後,こんご,,"from now on,hereafter"
+634,,混雑,こんざつ,,"confusion,congestion"
+635,,,こんなに,,"so,like this,in this way"
+636,,困難,こんなん,,"difficulty,distress"
+637,,今日,こんにち,,"today,this day"
+638,,,こんにちは,,"hello,good day (daytime greeting, id)"
+639,,,コンピューター,,computer
+640,,婚約,こんやく,,"engagement,betrothal"
+641,,混乱,こんらん,,"disorder,chaos,confusion,mayhem"
+642,,差,さ,,"difference,variation"
+643,,,サービス,,"(1) service,support system,(2) goods or services without charge"
+644,,際,さい,,"on the occasion of,circumstances"
+645,,最高,さいこう,,"highest,supreme,the most"
+646,,財産,ざいさん,,"property,fortune,assets"
+647,,最終,さいしゅう,,"last,final,closing"
+648,,最中,さいちゅう,,in the middle of
+649,,最低,さいてい,,"least,lowest,worst"
+650,,才能,さいのう,,"talent,ability"
+651,,裁判,さいばん,,"trial,judgement"
+652,,材料,ざいりょう,,"ingredients,material"
+653,,幸い,さいわい,,"happiness,blessedness"
+654,,,サイン,,"(1) autograph,(2) sign,(3) sine"
+655,,境,さかい,,"border,boundary,mental state"
+656,,逆らう,さからう,,"to go against,to oppose,to disobey,to defy"
+657,,盛り,さかり,,"helping,serving"
+658,,作業,さぎょう,,"work,operation,manufacturing,fatigue duty"
+659,,昨,さく,,"last (year),yesterday"
+660,,作品,さくひん,,"work,opus,performance,production"
+661,,作物,さくもつ,,"produce (e.g. agricultural),crops"
+662,,桜,さくら,,"cherry blossom,cherry tree"
+663,,酒,さけ,,"alcohol,sake"
+664,,叫ぶ,さけぶ,,"to shout,to cry"
+665,,避ける,さける,,"(1) to avoid (physical contact ),(2) to ward off,to avert"
+666,,支える,ささえる,,"to be blocked,to choke,to be obstructed"
+667,,指す,さす,,"to point,to put up umbrella,to play"
+668,,座席,ざせき,,seat
+669,,誘う,さそう,,"(1) to invite,to ask,(2) to tempt,to lure,to induce"
+670,,札,さつ,,"(1) token,label,(2) ticket,(3) charm"
+671,,作家,さっか,,"author,writer,novelist,artist"
+672,,作曲,さっきょく,,"composition,setting (of music)"
+673,,,ざっと,,"roughly,in round numbers"
+674,,,さっぱり,,"feeling refreshed,feeling relieved,neat,trimmed"
+675,,,さて,,"well,now,then"
+676,,砂漠,さばく,,desert
+677,,差別,さべつ,,"discrimination,distinction,differentiation"
+678,,作法,さほう,,"manners,etiquette,propriety"
+679,,様々,さまざま,,"varied,various"
+680,,覚ます,さます,,to awaken
+681,,覚める,さめる,,"to wake,to wake up"
+682,,左右,さゆう,,"(1) left and right,(2) influence,control,domination"
+683,,皿,さら,,"plate,dish"
+684,,更に,さらに,,"furthermore,again,after all,more and more,moreover"
+685,,去る,さる,,"to leave,to go away"
+686,,猿,さる,,monkey
+687,,騒ぎ,さわぎ,,"uproar,disturbance"
+688,,参加,さんか,,participation
+689,,参考,さんこう,,"reference,consultation"
+690,,賛成,Uӣ[い,,"approval,agreement,support,favour"
+691,,酸素,さんそ,,oxygen
+692,,散歩,さんぽ,,"walk,stroll"
+693,,四,し,,four
+694,,氏,し,,"family name,lineage,birth"
+695,,詩,し,,"poem,verse of poetry"
+696,,幸せ,しあわせ,,"happiness,good fortune,luck,blessing"
+697,,,ジーンズ,,jeans
+698,,ジェット機,ジェットき,,jet aeroplane
+699,,直に,じかに,,"immediately,readily,directly"
+700,,,しかも,,"moreover,furthermore,nevertheless,and yet"
+701,,叱る,しかる,,to scold
+702,,式,しき,,"equation,formula,ceremony"
+703,,直,じき,,"earnestly,immediately,exactly"
+704,,時期,じき,,"time,season,period"
+705,,支給,しきゅう,,"payment,allowance"
+706,,,しきりに,,"frequently,repeatedly,incessantly,eagerly"
+707,,刺激,しげき,,"stimulus,impetus,incentive"
+708,,資源,しげん,,resources
+709,,事件,じけん,,"event,affair,incident"
+710,,時刻,じこく,,"instant,time,moment"
+711,,自殺,じさつ,,suicide
+712,,事実,じじつ,,"fact,truth,reality"
+713,,支出,ししゅつ,,"expenditure,expenses"
+714,,事情,じじょう,,"circumstances,consideration,conditions,situation,reasons"
+715,,詩人,しじん,,poet
+716,,自身,じしん,,"by oneself,personally"
+717,,沈む,しずむ,,"to sink,to feel depressed"
+718,,自然,しぜん,,"nature,spontaneous"
+719,,思想,しそう,,"thought,idea"
+720,,舌,した,,tongue
+721,,次第,しだい,,"(1) order,precedence,(2) circumstances,(3) immediate(ly)"
+722,,事態,じたい,,"situation,present state of affairs"
+723,,従う,したがう,,"to abide (by the rules),to obey,to follow,to accompany"
+724,,したがって,したがって,,"therefore,consequently,in accordance with"
+725,,支度,したく,,preparation
+726,,親しい,したしい,,"intimate,close (e.g. friend)"
+727,,七,しち,,seven
+728,,質,しつ,,"quality,nature (of person)"
+729,,失業,しつぎょう,,unemployment
+730,,実験,じっけん,,experiment
+731,,実現,じつげん,,"implementation,materialization,realization"
+732,,実行,じっこう,,"practice,performance,execution (e.g. program),realization"
+733,,実際,じっさい,,"practical,actual condition,status quo"
+734,,実施,じっし,,"enforcement,enact,put into practice,carry out,operation"
+735,,,じっと,,"fixedly,firmly,patiently,quietly"
+736,,実に,じつに,,"indeed,truly,surely"
+737,,実は,じつは,,"as a matter of fact,by the way"
+738,,失望,しつぼう,,"disappointment,despair"
+739,,支店,してん,,branch store (office)
+740,,指導,しどう,,"leadership,guidance,coaching"
+741,,自動,じどう,,"automatic,self-motion"
+742,,品,しな,,"thing,article,goods,dignity,article (goods),counter for meal courses"
+743,,支配,しはい,,"rule,control,direction"
+744,,芝居,しばい,,"play,drama"
+745,,,しばしば,,"often,again and again,frequently"
+746,,芝生,しばふ,,lawn
+747,,支払,しはらい,,payment
+748,,支払う,しはらう,,to pay
+749,,死亡,しぼう,,"death,mortality"
+750,,資本,しほん,,"funds,capital"
+751,,しまい,（終わり）,,sisters
+752,,姉妹,しまい,,sisters
+753,,しまう,（終わる）,,"to finish,to close,to do something completely"
+754,,しまった,（感）,,Damn it!
+755,,自慢,じまん,,"pride,boast"
+756,,事務,じむ,,"business,office work"
+757,,示す,しめす,,"to denote,to show,to point out,to indicate"
+758,,占める,しめる,,"(1) to comprise,to account for,to make up (of),(2) to hold,to occupy"
+759,,下,しも,,"under,below,beneath"
+760,,霜,しも,,frost
+761,,,じゃあ,,"well,well then"
+762,,借金,しゃっきん,,"debt,loan,liabilities"
+763,,,しゃべる,,"to talk,to chat,to chatter"
+764,,邪魔,じゃま,,"hindrance,intrusion"
+765,,週,しゅう,,week
+766,,州,しゅう,,sandbank
+767,,十,じゅう,,"10,ten"
+768,,銃,じゅう,,gun
+769,,周囲,しゅうい,,"surroundings,circumference,environs"
+770,,収穫,しゅうかく,,"harvest,crop,ingathering"
+771,,週間,しゅうかん,,"week,weekly"
+772,,宗教,しゅうきょう,,religion
+773,,重視,じゅうし,,"importance,stress,serious consideration"
+774,,就職,しゅうしょく,,"finding employment,inauguration"
+775,,,ジュース,,"juice,soft drink,deuce"
+776,,修正,しゅうせい,,"amendment,correction,revision,modification"
+777,,渋滞,じゅうたい,,"congestion (e.g. traffic),delay,stagnation"
+778,,重大,じゅうだい,,"serious,important,grave,weighty"
+779,,住宅,じゅうたく,,"resident,housing"
+780,,集団,しゅうだん,,"group,mass"
+781,,集中,しゅうちゅう,,"concentration,focusing the mind"
+782,,収入,しゅうにゅう,,"income,receipts,revenue"
+783,,住民,じゅうみん,,"citizens,inhabitants,residents,population"
+784,,重要,じゅうよう,,"important,momentous,essential,principal,major"
+785,,修理,しゅうり,,"repairing,mending"
+786,,主義,しゅぎ,,"doctrine,rule,principle"
+787,,宿泊,しゅくはく,,lodging
+788,,手術,しゅじゅつ,,surgical operation
+789,,首相,しゅしょう,,Prime Minister
+790,,手段,しゅだん,,"means,way,measure"
+791,,主張,しゅちょう,,"claim,request,insistence,assertion"
+792,,出身,しゅっしん,,"graduate from,come from"
+793,,出席,しゅっせき,,"attendance,presence"
+794,,出発,しゅっぱつ,,departure
+795,,出版,しゅっぱん,,publication
+796,,首都,しゅと,,capital city
+797,,主婦,しゅふ,,"housewife,mistress"
+798,,主要,しゅよう,,"chief,main,principal,major"
+799,,需要,じゅよう,,"demand,request"
+800,,種類,しゅるい,,"variety,kind,type"
+801,,順,じゅん,,"order,turn"
+802,,瞬間,しゅんかん,,"moment,second,instant"
+803,,順調,じゅんちょう,,"favourable,doing well,O.K.,all right"
+804,,順番,じゅんばん,,"turn (in line),order of things"
+805,,準備,じゅんび,,"preparation,arrangements,provision,reserve"
+806,,使用,しよう,,"use,application,employment,utilization"
+807,,小,しょう,,
+808,,章,しょう,,"(1) chapter,section,(2) medal"
+809,,賞,しょう,,"prize,award"
+810,,上,じょう,,"(1) first volume,(2) superior quality,(3) governmental"
+811,,障害,しょうがい,,"obstacle,impediment (fault),damage"
+812,,奨学金,しょうがくきん,,scholarship
+813,,乗客,じょうきゃく,,passenger
+814,,上京,じょうきょう,,proceeding to the capital (Tokyo)
+815,,状況,じょうきょう,,"state of affairs,situation,circumstances"
+816,,条件,じょうけん,,"conditions,terms"
+817,,正午,しょうご,,"noon,mid-day"
+818,,正直,しょうじき,,"honesty,integrity,frankness"
+819,,常識,じょうしき,,common sense
+820,,少女,しょうじょ,,"daughter,young lady,virgin,maiden,little girl"
+821,,少々,しょうしょう,,"just a minute,small quantity"
+822,,症状,しょうじょう,,"symptoms,condition"
+823,,生じる,しょうじる,,"to produce,to yield,to result from,to arise,to be generated"
+824,,招待,しょうたい,,invitation
+825,,状態,じょうたい,,"condition,situation,circumstances,state"
+826,,上達,じょうたつ,,"improvement,advance,progress"
+827,,冗談,じょうだん,,"jest,joke"
+828,,承知,しょうち,,"consent,acceptance,assent,admitting"
+829,,上等,じょうとう,,"superiority,first class,very good"
+830,,衝突,しょうとつ,,"collision,conflict"
+831,,商人,しょうにん,,"trader,shopkeeper,merchant"
+832,,承認,しょうにん,,"recognition,acknowledgement,approval,consent,agreement"
+833,,少年,しょうねん,,"boys,juveniles"
+834,,商売,しょうばい,,"trade,business,commerce,transaction,occupation"
+835,,消費,しょうひ,,"consumption,expenditure"
+836,,商品,しょうひん,,"commodity,article of commerce,goods,stock,merchandise"
+837,,消防,しょうぼう,,"fire fighting,fire department"
+838,,情報,じょうほう,,"information,(military) intelligence"
+839,,証明,しょうめい,,"proof,verification"
+840,,女王,じょおう,,queen
+841,,職,しょく,,employment
+842,,職業,しょくぎょう,,"occupation,business"
+843,,食事,しょくじ,,meal
+844,,食卓,しょくたく,,dining table
+845,,食品,しょくひん,,"commodity,foodstuff"
+846,,植物,しょくぶつ,,"plant,vegetation"
+847,,食物,しょくもつ,,"food,foodstuff"
+848,,食欲,しょくよく,,appetite (for food)
+849,,食料,しょくりょう,,food
+850,,食糧,しょくりょう,,"provisions,rations"
+851,,書斎,しょさい,,study
+852,,女子,じょし,,"woman,girl"
+853,,助手,じょしゅ,,"helper,helpmeet,assistant,tutor"
+854,,徐々に,じょじょに,,"slowly,little by little,gradually,steadily,quietly"
+855,,署名,しょめい,,signature
+856,,書物,しょもつ,,books
+857,,女優,じょゆう,,actress
+858,,処理,しょり,,"processing,dealing with,treatment,disposition,disposal"
+859,,書類,しょるい,,"documents,official papers"
+860,,知らせ,しらせ,,notice
+861,,尻,しり,,"buttocks,bottom"
+862,,印,しるし,,"(1) mark,(2) symbol,(3) evidence"
+863,,城,しろ,,castle
+864,,進学,しんがく,,going on to university
+865,,神経,しんけい,,"nerve,sensitivity"
+866,,真剣,しんけん,,"seriousness,earnestness"
+867,,信仰,しんこう,,"(religious) faith,belief,creed"
+868,,信号,しんごう,,"traffic lights,signal,semaphore"
+869,,人工,じんこう,,"artificial,manmade,human work,human skill,artificiality"
+870,,深刻,しんこく,,serious
+871,,診察,しんさつ,,medical examination
+872,,人種,じんしゅ,,race (of people)
+873,,信じる,しんじる,,"to believe,to place trust in"
+874,,人生,じんせい,,(human) life (i.e. conception to death)
+875,,親戚,しんせき,,relative
+876,,新鮮,しんせん,,fresh
+877,,心臓,しんぞう,,heart
+878,,身体,しんたい,,the body
+879,,身長,しんちょう,,"height (of body),stature"
+880,,慎重,しんちょう,,"discretion,prudence"
+881,,心配,しんぱい,,"worry,concern,anxiety,care"
+882,,審判,しんぱん,,"refereeing,trial,judgement,umpire,referee"
+883,,人物,じんぶつ,,"character,personality,person,man,personage,talented man"
+884,,進歩,しんぽ,,"progress,development"
+885,,親友,しんゆう,,"close friend,buddy"
+886,,信用,しんよう,,"confidence,dependence,credit,faith"
+887,,信頼,しんらい,,"reliance,trust,confidence"
+888,,心理,しんり,,mentality
+889,,人類,じんるい,,"mankind,humanity"
+890,,巣,す,,"nest,rookery,breeding place,beehive,cobweb"
+891,,図,ず,,"figure (e.g. Fig 1),drawing,picture,illustration"
+892,,水準,すいじゅん,,"(1) water level,(2) level,standard"
+893,,推薦,すいせん,,recommendation
+894,,,スイッチ,,switch
+895,,随分,ずいぶん,,extremely
+896,,睡眠,すいみん,,sleep
+897,,数,すう,,"number,figure"
+898,,数字,すうじ,,"numeral,figure"
+899,,,スープ,,(Western) soup
+900,,末,すえ,,"the end of,powder"
+901,,姿,すがた,,"figure,shape,appearance"
+902,,,スキー,,skiing
+903,,空く,すく,,"(1) to open,to become empty,(2) to be less crowded"
+904,,救う,すくう,,"to rescue from,to help out of"
+905,,優れる,すぐれる,,"to surpass,to outstrip,to excel"
+906,,,スケート,,"skate(s),skating"
+907,,,すごい,,"terrible,dreadful,terrific,amazing,great"
+908,,少しも,すこしも,,"anything of,not one bit"
+909,,過ごす,すごす,,"to pass,to spend,to go through,to tide over"
+910,,筋,すじ,,"muscle,string,line"
+911,,進める,すすめる,,"to advance,to promote,to hasten"
+912,,勧める,すすめる,,"to recommend,to advise,to encourage,to offer (wine)"
+913,,,スター,,star
+914,,,スタイル,,style
+915,,,スタンド,,stand
+916,,頭痛,ずつう,,headache
+917,,,ずっと,,"consecutively,throughout,a lot"
+918,,,すてき,,"lovely,dreamy,beautiful,great"
+919,,既に,すでに,,"already,too late"
+920,,,すなわち,,"that is,namely,i.e."
+921,,素晴らしい,すばらしい,,"wonderful,splendid,magnificent"
+922,,,スピーチ,,speech
+923,,全て,すべて,,"all,the whole,entirely,in general,wholly"
+924,,済ませる,すませる,,to be finished
+925,,角,すみ,,horn
+926,,すみません,（感）,,"sorry,excuse me"
+927,,為る,する,,"to change,to be of use,to reach to"
+928,,すると,すると,,"thereupon,hereupon"
+929,,鋭い,するどい,,"pointed,sharp"
+930,,背,せい,,"height,stature"
+931,,正,せい,,"(logical) true,regular"
+932,,生,せい,,"(1) draft (beer),(2) raw,unprocessed"
+933,,性,せい,,"sex,gender"
+934,,所為,せい,,"cause,reason,fault"
+935,,税,ぜい,,
+936,,性格,せいかく,,"character,personality"
+937,,正確,せいかく,,"accurate,punctuality,exactness,authenticity,veracity"
+938,,世紀,せいき,,"century,era"
+939,,請求,せいきゅう,,"claim,demand,application,request"
+940,,税金,ぜいきん,,"tax,duty"
+941,,清潔,せいけつ,,clean
+942,,制限,せいげん,,"restriction,restraint,limitation"
+943,,成功,せいこう,,"success,hit"
+944,,生産,せいさん,,"production,manufacture"
+945,,正式,せいしき,,"due form,official,formality"
+946,,精神,せいしん,,"mind,soul,heart,spirit,intention"
+947,,成人,せいじん,,adult
+948,,精々,せいぜい,,"at the most,at best,to the utmost,as much (far) as possible"
+949,,成績,せいせき,,"results,record"
+950,,製造,せいぞう,,"manufacture,production"
+951,,贅沢,ぜいたく,,"luxury,extravagance"
+952,,成長,せいちょう,,"growth,grow to adulthood"
+953,,制度,せいど,,"system,institution,organization"
+954,,青年,せいねん,,"youth,young man"
+955,,製品,せいひん,,"manufactured goods,finished goods"
+956,,政府,せいふ,,"government,administration"
+957,,生物,せいぶつ,,raw food
+958,,生命,せいめい,,"life,existence"
+959,,整理,せいり,,"sorting,arrangement,adjustment,regulation"
+960,,咳,せき,,cough
+961,,石炭,せきたん,,coal
+962,,責任,せきにん,,"duty,responsibility"
+963,,石油,せきゆ,,"oil,petroleum,kerosene"
+964,,世間,せけん,,"world,society"
+965,,説,せつ,,theory
+966,,積極的,せっきょくてき,,"positive,active,proactive"
+967,,設計,せっけい,,"plan,design"
+968,,絶対,ぜったい,,"absolute,unconditional,absoluteness"
+969,,,セット,,set
+970,,設備,せつび,,"equipment,device,facilities,installation"
+971,,絶滅,ぜつめつ,,"destruction,extinction"
+972,,節約,せつやく,,"economising,saving"
+973,,是非,ぜひ,,"certainly,without fail"
+974,,責める,せめる,,"to condemn,to blame,to criticize"
+975,,世話,せわ,,"looking after,help,aid,assistance"
+976,,善,ぜん,,"good,goodness,right,virtue"
+977,,全,ぜん,,"all,whole,entire,complete,overall,pan"
+978,,全員,ぜんいん,,"all members (unanimity),all hands,the whole crew"
+979,,専攻,せんこう,,"major subject,special study"
+980,,全国,ぜんこく,,"country-wide,nation-wide,whole country,national"
+981,,先日,せんじつ,,"the other day,a few days ago"
+982,,前者,ぜんしゃ,,the former
+983,,選手,せんしゅ,,"(1) player (in game),(2) team"
+984,,前進,ぜんしん,,"advance,drive,progress"
+985,,全然,ぜんぜん,,"(1) wholly,entirely,completely,(2) not at all (with neg. verb)"
+986,,,センター,,a center
+987,,全体,ぜんたい,,"whole,entirety,whatever (is the matter)"
+988,,選択,せんたく,,"selection,choice"
+989,,そう,そう,,so
+990,,象,ぞう,,elephant
+991,,騒音,そうおん,,noise
+992,,増加,ぞうか,,"increase,addition"
+993,,操作,そうさ,,"operation,management,processing"
+994,,掃除,そうじ,,"cleaning,sweeping"
+995,,想像,そうぞう,,"imagination,guess"
+996,,相続,そうぞく,,"succession,inheritance"
+997,,相談,そうだん,,"consultation,discussion"
+998,,装置,そうち,,"equipment,installation,apparatus"
+999,,相当,そうとう,,"suitable,fair,tolerable,proper"
+1000,,速度,そくど,,"speed,velocity,rate"
+1001,,そこ,そこ,,"bottom,sole"
+1002,,底,そこ,,"bottom,sole"
+1003,,,そこで,,"so (conj),accordingly,now,then,thereupon"
+1004,,組織,そしき,,"(1) organization,(2) structure,construction,(3) tissue,(4) system"
+1005,,,そして,,and
+1006,,注ぐ,そそぐ,,"to pour (into),to irrigate,to pay,to fill,to feed (e.g. a fire)"
+1007,,育つ,そだつ,,"to raise (child),to be brought up,to grow (up)"
+1008,,,そっくり,,"all,altogether,entirely,be just like,the splitting image of"
+1009,,,そっと,,face of the earth
+1010,,袖,そで,,sleeve
+1011,,備える,そなえる,,"to furnish,to provide for,to equip,to install"
+1012,,その,その,,"the,that"
+1013,,,そのうち,,"eventually,sooner or later,of the previously mentioned"
+1014,,,そのまま,,"without change,as it is (i.e. now)"
+1015,,側,そば,,"side,edge,third person"
+1016,,,ソファー,,"sofa,couch"
+1017,,粗末,そまつ,,"crude,rough,plain,humble"
+1018,,それ,（接。感）,,"it,that"
+1019,,,それぞれ,,"each,every,either,respectively,severally"
+1020,,,それでも,,"but (still),and yet,nevertheless,even so,notwithstanding"
+1021,,,それと,,
+1022,,,それとも,,"or,or else"
+1023,,損,そん,,"loss,disadvantage"
+1024,,損害,そんがい,,"damage,injury,loss"
+1025,,尊敬,そんけい,,"respect,esteem,reverence,honour"
+1026,,存在,そんざい,,"existence,being"
+1027,,尊重,そんちょう,,"respect,esteem,regard"
+1028,,田,た,,rice field
+1029,,他,た,,other (esp. places and things)
+1030,,対,たい,,"pair,couple,set"
+1031,,大,だい,,
+1032,,台,だい,,"stand,rack,table,support"
+1033,,題,だい,,"title,subject,theme,topic"
+1034,,体育,たいいく,,"physical education,gymnastics,athletics"
+1035,,体温,たいおん,,temperature (body)
+1036,,大会,たいかい,,"convention,tournament,mass meeting,rally"
+1037,,大気,たいき,,atmosphere
+1038,,代金,だいきん,,"price,payment,cost,charge"
+1039,,退屈,たいくつ,,"tedium,boredom"
+1040,,滞在,たいざい,,"stay,sojourn"
+1041,,大使,たいし,,ambassador
+1042,,大した,たいした,,"considerable,great,important,significant,a big deal"
+1043,,対象,たいしょう,,"target,object (of worship, study, etc),subject (of taxation, etc)"
+1044,,大臣,だいじん,,cabinet minister
+1045,,対する,たいする,,"to face,to confront,to oppose"
+1046,,大戦,たいせん,,"great war,great battle"
+1047,,大抵,たいてい,,"usually,generally"
+1048,,態度,たいど,,"attitude,manner"
+1049,,大統領,だいとうりょう,,"president,chief executive"
+1050,,大半,たいはん,,"majority,mostly,generally"
+1051,,代表,だいひょう,,"representative,representation,delegation,type,example,model"
+1052,,大部分,だいぶぶん,,"most part,greater part,majority"
+1053,,,タイプライター,,typewriter
+1054,,大変,たいへん,,"awful,dreadful,terrible,very"
+1055,,逮捕,たいほ,,"arrest,apprehension,capture"
+1056,,,ダイヤ,,"(1) dyer,(2) diagram,(3) (railway) schedule,(4) diamond"
+1057,,太陽,たいよう,,"sun,solar"
+1058,,平ら,たいら,,"flatness,level,smooth,calm,plain"
+1059,,代理,だいり,,"representation,agency,proxy,deputy,agent"
+1060,,大陸,たいりく,,continent
+1061,,倒す,たおす,,"to throw down,to beat,to bring down,to blow down"
+1062,,,タオル,,(hand) towel
+1063,,だが,だが,,
+1064,,互い,たがい,,"mutual,reciprocal"
+1065,,宝,たから,,treasure
+1066,,だから,だから,,"so,therefore"
+1067,,宅,たく,,"house,home,husband"
+1068,,,だけど,,however
+1069,,確かめる,たしかめる,,to ascertain
+1070,,多少,たしょう,,"more or less,somewhat,a little,some"
+1071,,助ける,たすける,,"to help,to save,to rescue"
+1072,,,ただ,,"free of charge,mere,only"
+1073,,唯,ただ,,"free of charge,mere,sole,only,usual,common"
+1074,,戦い,たたかい,,"battle,fight,struggle,conflict"
+1075,,戦う,たたかう,,"to fight,to battle,to combat"
+1076,,叩く,たたく,,"to strike,to clap,to dust,to beat"
+1077,,直ちに,ただちに,,"at once,immediately,directly,in person"
+1078,,立ち上がる,たちあがる,,to stand up
+1079,,立場,たちば,,"standpoint,position,situation"
+1080,,経つ,たつ,,"to pass,to lapse"
+1081,,達する,たっする,,"to reach,to get to"
+1082,,唯,たった,,"free of charge,mere,sole,only,usual,common"
+1083,,,だって,,"but,because,even,also,too"
+1084,,,たっぷり,,"full,in plenty,ample"
+1085,,縦,たて,,"length,height"
+1086,,,たとえ,,"simile,metaphor,allegory"
+1087,,谷,たに,,valley
+1088,,他人,たにん,,"another person,unrelated person,outsider,stranger"
+1089,,種,たね,,"(1) seed,(2) material,(3) cause,source"
+1090,,束,たば,,"handbreadth,bundle"
+1091,,度,たび,,counter for occurrences
+1092,,旅,たび,,"travel,trip,journey"
+1093,,,たびたび,,"often,repeatedly,frequently"
+1094,,多分,たぶん,,"perhaps,probably"
+1095,,玉,たま,,"ball,sphere,coin"
+1096,,球,たま,,"globe,sphere,ball"
+1097,,弾,たま,,"bullet,shot,shell"
+1098,,偶,たま,,"even number,couple,man and wife,friend"
+1099,,偶々,たまたま,,"casually,unexpectedly,accidentally,by chance"
+1100,,,たまらない,,"intolerable,unbearable,unendurable"
+1101,,黙る,だまる,,to be silent
+1102,,駄目,だめ,,"useless,no good,hopeless"
+1103,,試し,ためし,,"trial,test"
+1104,,試す,ためす,,"to attempt,to test"
+1105,,便り,たより,,"news,tidings,information,correspondence,letter"
+1106,,頼る,たよる,,"to rely on,to have recourse to,to depend on"
+1107,,誰か,だれか,,"someone,somebody"
+1108,,段,だん,,"step,stair,flight of steps,grade,rank,level"
+1109,,単位,たんい,,"unit,denomination,credit (in school)"
+1110,,単語,たんご,,"word,vocabulary,(usually) single-character word"
+1111,,男子,だんし,,"youth,young man"
+1112,,単純,たんじゅん,,simplicity
+1113,,誕生,たんじょう,,birth
+1114,,,ダンス,,dance
+1115,,団体,だんたい,,"organization,association"
+1116,,担当,たんとう,,(in) charge
+1117,,単なる,たんなる,,"mere,simple,sheer"
+1118,,単に,たんに,,"simply,merely,only,solely"
+1119,,地,ち,,earth
+1120,,地位,ちい,,"(social) position,status"
+1121,,地域,ちいき,,"area,region"
+1122,,,チーズ,,cheese
+1123,,,チーム,,team
+1124,,知恵,ちえ,,"wisdom,wit,sagacity,sense,intelligence,advice"
+1125,,地下,ちか,,"basement,underground"
+1126,,違い,ちがい,,"difference,discrepancy"
+1127,,違いない,ちがいない,,"(phrase) sure,no mistaking it,for certain"
+1128,,近頃,ちかごろ,,"lately,recently,nowadays"
+1129,,地球,ちきゅう,,the earth
+1130,,地区,ちく,,"district,section,sector"
+1131,,遅刻,ちこく,,"lateness,late coming"
+1132,,知事,ちじ,,prefectural governor
+1133,,知識,ちしき,,"knowledge,information"
+1134,,父親,ちちおや,,father
+1135,,知能,ちのう,,"intelligence,brains"
+1136,,地平線,ちへいせん,,horizon
+1137,,地方,ちほう,,"area,locality,district,region,the coast"
+1138,,茶,ちゃ,,tea
+1139,,,チャンス,,"chance,opportunity"
+1140,,,ちゃんと,,"perfectly,properly,exactly"
+1141,,中,ちゅう,,"inside,middle,among"
+1142,,注,ちゅう,,"annotation,explanatory note"
+1143,,中央,ちゅうおう,,"centre,central,center,middle"
+1144,,中学,ちゅうがく,,"middle school,junior high school"
+1145,,中古,ちゅうこ,,"(1) used,second-hand,old"
+1146,,中止,ちゅうし,,"suspension,stoppage,discontinuance,interruption"
+1147,,駐車,ちゅうしゃ,,parking (e.g. car)
+1148,,昼食,ちゅうしょく,,"lunch,midday meal"
+1149,,中心,ちゅうしん,,"center,core,heart,pivot,emphasis,balance"
+1150,,注目,ちゅうもく,,"notice,attention,observation"
+1151,,注文,ちゅうもん,,"order,request"
+1152,,長期,ちょうき,,long time period
+1153,,調査,ちょうさ,,"investigation,examination,inquiry,survey"
+1154,,調子,ちょうし,,"tune,tone,key"
+1155,,頂上,ちょうじょう,,"top,summit,peak"
+1156,,,ちょうだい,,"(1) please do for me (preceded by -te),(2) reception,being given,get"
+1157,,貯金,ちょきん,,(bank) savings
+1158,,直接,ちょくせつ,,"direct,immediate,personal,firsthand"
+1159,,著者,ちょしゃ,,"author,writer"
+1160,,遂に,ついに,,"finally,at last"
+1161,,通過,つうか,,"passage through,passing"
+1162,,通学,つうがく,,commuting to school
+1163,,通行,つうこう,,"passage,passing"
+1164,,通じる,つうじる,,"to run to,to lead to,to communicate,to understand"
+1165,,通信,つうしん,,"correspondence,communication,news,signal"
+1166,,捕まる,つかまる,,"to be caught,to be arrested"
+1167,,掴む,つかむ,,"to seize,to catch,to grasp"
+1168,,疲れ,つかれ,,"tiredness,fatigue"
+1169,,月,つき,,"moon,month"
+1170,,付き合い,つきあい,,"association,socializing,fellowship"
+1171,,次々,つぎつぎ,,"in succession,one by one"
+1172,,就く,つく,,"to settle in (place),to take (seat, position),to study (under teacher)"
+1173,,注ぐ,つぐ,,"to pour (into),to irrigate,to pay"
+1174,,付ける,つける,,"to attach,to join,to add,to append"
+1175,,土,つち,,"earth,soil"
+1176,,続き,つづき,,"sequel,continuation"
+1177,,包み,つつみ,,"bundle,package,parcel,bale"
+1178,,勤め,つとめ,,"(1) service,duty,business,responsibility,task,(2) Buddhist religious services"
+1179,,務め,つとめ,,"(1) service,duty,(2) Buddhist religious services"
+1180,,繋ぐ,つなぐ,,"to tie,to fasten,to connect,to transfer (phone call)"
+1181,,常に,つねに,,"always,constantly"
+1182,,翼,つばさ,,wings
+1183,,,つまり,,"in short,in brief,in other words"
+1184,,罪,つみ,,"crime,fault,indiscretion"
+1185,,詰める,つめる,,"to pack,to shorten,to work out (details)"
+1186,,積もる,つもる,,to pile up
+1187,,梅雨,つゆ,,"rainy season,rain during the rainy season"
+1188,,辛い,つらい,,"painful,heart-breaking"
+1189,,釣,つり,,
+1190,,連れ,つれ,,"companion,company"
+1191,,,で,,"outflow,coming (going) out,graduate (of)"
+1192,,出会い,であい,,"meeting,rendezvous,encounter"
+1193,,出会う,であう,,"to meet by chance,to come across,to happen to encounter"
+1194,,提案,ていあん,,"proposal,proposition,suggestion"
+1195,,定期,ていき,,fixed term
+1196,,抵抗,ていこう,,"electrical resistance,resistance,opposition"
+1197,,提出,ていしゅつ,,"presentation,submission,filing"
+1198,,程度,ていど,,"degree,amount,grade,standard,of the order of (following a number)"
+1199,,停留所,ていりゅうじょ,,bus or tram stop
+1200,,,デート,,"date,go on a date"
+1201,,敵,てき,,"enemy,rival"
+1202,,出来事,できごと,,"incident,affair,happening,event"
+1203,,適する,てきする,,"to fit,to suit"
+1204,,適切,てきせつ,,"pertinent,appropriate,adequate,relevance"
+1205,,適度,てきど,,moderate
+1206,,適用,てきよう,,applying
+1207,,できる,（可能。出現。発生）,,"to be able to,to be ready,to occur"
+1208,,出来るだけ,できるだけ,,if at all possible
+1209,,,できれば,,
+1210,,手品,てじな,,"sleight of hand,conjuring trick,magic,juggling"
+1211,,,ですから,,therefore
+1212,,鉄,てつ,,iron
+1213,,哲学,てつがく,,philosophy
+1214,,手伝い,てつだい,,"help,helper,assistant"
+1215,,徹底,てってい,,"thoroughness,completeness"
+1216,,鉄道,てつどう,,railroad
+1217,,徹夜,てつや,,"all night,all night vigil,sleepless night"
+1218,,では,では,,"chance of going out,opportunity (to succeed),moment of departure,beginning of work"
+1219,,手間,てま,,"time,labour"
+1220,,でも,でも,,"but,however"
+1221,,,デモ,,"(abbr) demo,demonstration"
+1222,,典型,てんけい,,"type,pattern,archetypal"
+1223,,天候,てんこう,,weather
+1224,,電子,でんし,,electron
+1225,,,テント,,tent
+1226,,伝統,でんとう,,"tradition,convention"
+1227,,天然,てんねん,,"nature,spontaneity"
+1228,,度,ど,,counter for occurrences
+1229,,問い,とい,,"question,query"
+1230,,党,とう,,party (political)
+1231,,塔,とう,,"tower,pagoda"
+1232,,どう,（接。副）,,"child,servant,foolishness"
+1233,,答案,とうあん,,"examination paper,examination script"
+1234,,同一,どういつ,,"identity,sameness,similarity"
+1235,,,どうか,,copper coin
+1236,,当時,とうじ,,"at that time,in those days"
+1237,,動詞,どうし,,verb
+1238,,同時,どうじ,,"simultaneous(ly),concurrent,same time,synchronous"
+1239,,,どうしても,,"by all means,at any cost,no matter what"
+1240,,到着,とうちゃく,,arrival
+1241,,道徳,どうとく,,morals
+1242,,投票,とうひょう,,"voting,poll"
+1243,,同様,どうよう,,"identical,equal to,same (kind),like"
+1244,,同僚,どうりょう,,"coworker,colleague,associate"
+1245,,道路,どうろ,,"road,highway"
+1246,,十,とお,,"10,ten"
+1247,,通す,とおす,,"to let pass,to overlook,to continue"
+1248,,通り,とおり,,"in accordance with ~,following ~,~ Street,~ Avenue"
+1249,,通り過ぎる,とおりすぎる,,"to pass,to pass through"
+1250,,都会,とかい,,city
+1251,,時,とき,,"(1) time,hour,(2) occasion,moment"
+1252,,解く,とく,,to unfasten
+1253,,毒,どく,,"poison,toxicant"
+1254,,得意,とくい,,"pride,triumph,prosperity"
+1255,,読書,どくしょ,,reading
+1256,,独身,どくしん,,"bachelorhood,single,unmarried,celibate"
+1257,,特徴,とくちょう,,"feature,characteristic"
+1258,,独特,どくとく,,"peculiarity,uniqueness,characteristic"
+1259,,独立,どくりつ,,"independence (e.g. Ind. Day),self-support"
+1260,,解ける,とける,,"to come untied,to come apart"
+1261,,,どこか,,"somewhere,anywhere"
+1262,,,ところが,,"however,while,even if"
+1263,,,ところで,,"by the way,even if,no matter what"
+1264,,登山,とざん,,mountain-climbing
+1265,,都市,とし,,"town,city,municipal,urban"
+1266,,年月,としつき,,months and years
+1267,,図書,としょ,,books
+1268,,年寄,としより,,"old people,the aged"
+1269,,閉じる,とじる,,"to close (e.g. book, eyes),to shut"
+1270,,途端,とたん,,"just (now, at the moment, etc.)"
+1271,,土地,とち,,"plot of land,lot,soil"
+1272,,突然,とつぜん,,"abruptly,suddenly,unexpectedly,all at once"
+1273,,,トップ,,top
+1274,,届く,とどく,,to reach
+1275,,,とにかく,,"anyhow,at any rate,anyway,somehow or other,generally speaking,in any case"
+1276,,飛ばす,とばす,,"to skip over,to omit"
+1277,,飛び出す,とびだす,,"to jump out,to rush out,to fly out"
+1278,,留める,とめる,,"to fasten,to turn off,to detain"
+1279,,友,とも,,"friend,companion,pal"
+1280,,共に,ともに,,"sharing with,participate in"
+1281,,土曜,どよう,,Saturday
+1282,,虎,とら,,tiger
+1283,,,ドライブ,,"drive,trip by car,driving"
+1284,,,トラック,,"(1) truck,(2) (running) track"
+1285,,,ドラマ,,drama
+1286,,,トランプ,,playing cards (lit: trump)
+1287,,取り上げる,とりあげる,,"to take up,to pick up,to disqualify,to confiscate,to deprive"
+1288,,努力,どりょく,,"great effort,exertion,endeavour,effort"
+1289,,どれ,どれ,,"well,now,let me see,which (of three or more)"
+1290,,,ドレス,,dress
+1291,,取れる,とれる,,"to come off,to be taken off,to be removed"
+1292,,泥,どろ,,mud
+1293,,とん,（1000,,ton
+1294,,,とんでもない,,"unexpected,offensive,What a thing to say!,No way!"
+1295,,,どんな,,"what,what kind of"
+1296,,,どんなに,,"how,how much"
+1297,,,トンネル,,tunnel
+1298,,名,な,,"name,reputation"
+1299,,内容,ないよう,,"subject,contents,matter,substance,detail,import"
+1300,,,なお,,"straight,mischief,ordinary,common"
+1301,,仲,なか,,"relation,relationship"
+1302,,流す,ながす,,"to drain,to float,to shed (blood, tears),to cruise (e.g. taxi)"
+1303,,,なかなか,,"very,considerably,easily"
+1304,,半ば,なかば,,"middle,half,semi,halfway,partly"
+1305,,仲間,なかま,,"company,fellow,colleague,associate"
+1306,,眺め,ながめ,,"scene,view,prospect,outlook"
+1307,,眺める,ながめる,,"to view,to gaze at"
+1308,,流れ,ながれ,,"stream,current"
+1309,,流れる,ながれる,,"to stream,to flow,to run (ink),to be washed away"
+1310,,無し,なし,,without
+1311,,,なぜなら,,because
+1312,,謎,なぞ,,"riddle,puzzle,enigma"
+1313,,納得,なっとく,,"consent,assent,understanding"
+1314,,等,など,,"et cetera,etc.,and the like"
+1315,,七,なな,,seven
+1316,,何,なに,,what
+1317,,何,なん,,what
+1318,,何か,なにか,,something
+1319,,,なにも,,nothing
+1320,,鍋,なべ,,"saucepan,pot"
+1321,,生,なま,,"(1) draft (beer),(2) raw,unprocessed"
+1322,,怠ける,なまける,,"to be idle,to neglect"
+1323,,波,なみ,,wave
+1324,,涙,なみだ,,tear
+1325,,悩む,なやむ,,"to be worried,to be troubled"
+1326,,為る,なる,,"to change,to be of use,to reach to"
+1327,,成る,なる,,to become
+1328,,縄,なわ,,"rope,hemp"
+1329,,何で,なんで,,"Why?,What for?"
+1330,,何でも,なんでも,,"by all means,everything"
+1331,,何とか,なんとか,,"somehow,anyhow,one way or another"
+1332,,似合う,にあう,,"to suit,to match,to become,to be like"
+1333,,匂い,におい,,"odour,scent,smell,stench"
+1334,,苦手,にがて,,"poor (at),weak (in),dislike (of)"
+1335,,握る,にぎる,,"to grasp,to seize,to mould sushi"
+1336,,日,にち,,"sun,sunshine,day"
+1337,,日常,にちじょう,,"ordinary,regular,everyday,usual"
+1338,,日曜,にちよう,,Sunday
+1339,,日光,にっこう,,sunlight
+1340,,日中,にっちゅう,,"daytime,broad daylight"
+1341,,,にっこり,,"smile sweetly,smile,grin"
+1342,,日本,にっぽん,,Japan
+1343,,日本,にほん,,Japan
+1344,,入院,にゅういん,,hospitalization
+1345,,入学,にゅうがく,,"entry to school or university,matriculation"
+1346,,入場,にゅうじょう,,"entrance,admission,entering"
+1347,,人気,にんき,,sign of life
+1348,,人間,にんげん,,"human being,man,person"
+1349,,抜く,ぬく,,"to extract,to omit,to surpass,to draw out,to unplug"
+1350,,抜ける,ぬける,,"to come out,to fall out,to be omitted"
+1351,,布,ぬの,,cloth
+1352,,濡れる,ぬれる,,to get wet
+1353,,ね,（感）,,"value,price,cost,worth,merit"
+1354,,根,ね,,root
+1355,,値,ね,,"value,price,cost"
+1356,,願い,ねがい,,"desire,wish,request"
+1357,,願う,ねがう,,"to desire,to wish,to request"
+1358,,鼠,ねずみ,,"(1) mouse,rat,(2) dark gray,slate color"
+1359,,値段,ねだん,,"price,cost"
+1360,,熱心,ねっしん,,"zeal,enthusiasm"
+1361,,熱帯,ねったい,,tropics
+1362,,熱中,ねっちゅう,,"nuts!,enthusiasm,zeal,mania"
+1363,,年間,ねんかん,,year
+1364,,年月,ねんげつ,,months and years
+1365,,年中,ねんじゅう,,"whole year,always,everyday"
+1366,,年代,ねんだい,,"age,era,period,date"
+1367,,年齢,ねんれい,,"age,years"
+1368,,野,の,,field
+1369,,能,のう,,"being skilled in,nicely,properly"
+1370,,農家,のうか,,"farmer,farm family"
+1371,,農業,のうぎょう,,agriculture
+1372,,農民,のうみん,,"farmers,peasants"
+1373,,能力,のうりょく,,"ability,faculty"
+1374,,ノー,（no）,,
+1375,,軒,のき,,eaves
+1376,,残す,のこす,,"to leave (behind, over),to bequeath,to save,to reserve"
+1377,,残り,のこり,,"remnant,residue,remaining,left-over"
+1378,,乗せる,のせる,,"to place on (something),to take on board,to give a ride"
+1379,,除く,のぞく,,"to remove,to exclude,to except"
+1380,,望み,のぞみ,,"wish,desire,(a) hope"
+1381,,望む,のぞむ,,"to desire,to wish for,to see,to command (a view of)"
+1382,,後,のち,,"afterwards,since then,in the future"
+1383,,,ノック,,"(1) knock,(2) fungo (baseball)"
+1384,,喉,のど,,throat
+1385,,伸ばす,のばす,,"to lengthen,to stretch,to reach out,to grow (beard)"
+1386,,伸びる,のびる,,"to stretch,to extend,to make progress,to grow (beard, body height)"
+1387,,述べる,のべる,,"to state,to express,to mention"
+1388,,昇る,のぼる,,"to arise,to ascend,to go up"
+1389,,,のんびり,,"carefree,at leisure"
+1390,,場,ば,,"place,field (physics)"
+1391,,はあ,（感）,,
+1392,,,パーセント,,percent
+1393,,はい,（感）,,"wear,put on (sword)"
+1394,,灰,はい,,ash
+1395,,梅雨,ばいう,,"rainy season,rain during the rainy season"
+1396,,,バイオリン,,violin
+1397,,,ハイキング,,hiking
+1398,,配達,はいたつ,,"delivery,distribution"
+1399,,,パイプ,,"(1) pipe,tube,(2) channels, official or otherwise"
+1400,,俳優,はいゆう,,"actor,actress,player,performer"
+1401,,,パイロット,,pilot
+1402,,墓,はか,,"grave,tomb"
+1403,,馬鹿,ばか,,"fool,idiot,trivial matter,folly"
+1404,,博士,はかせ,,"doctorate,PhD"
+1405,,計る,はかる,,"to measure,to weigh,to survey"
+1406,,履く,はく,,"to wear,to put on (lower body)"
+1407,,吐く,はく,,"(1) to breathe,(2) to tell (lies),(3) to vomit,to disgorge"
+1408,,拍手,はくしゅ,,"clapping hands,applause"
+1409,,莫大,ばくだい,,"enormous,vast"
+1410,,爆発,ばくはつ,,"explosion,detonation,eruption"
+1411,,博物館,はくぶつかん,,museum
+1412,,激しい,はげしい,,"violent,vehement,intense"
+1413,,,はさみ,,scissors
+1414,,破産,はさん,,(personal) bankruptcy
+1415,,端,はし,,"end (e.g. of street),edge,tip,margin,point"
+1416,,始まり,はじまり,,"origin,beginning"
+1417,,,パス,,"path,pass (in games)"
+1418,,外す,はずす,,"to unfasten,to remove"
+1419,,,パスポート,,passport
+1420,,旗,はた,,flag
+1421,,肌,はだ,,skin
+1422,,裸,はだか,,"naked,nude"
+1423,,畑,はたけ,,field
+1424,,二十,はたち,,"20 years old,20th year"
+1425,,働き,はたらき,,"work,labor"
+1426,,,バッグ,,"bag,bug"
+1427,,発見,はっけん,,"discovery,detection,finding"
+1428,,発行,はっこう,,issue (publications)
+1429,,発車,はっしゃ,,departure of a vehicle
+1430,,罰する,ばっする,,"to punish,to penalize"
+1431,,発達,はったつ,,"development,growth"
+1432,,,ばったり,,"with a clash (thud),with a bang,plump,flop"
+1433,,発展,はってん,,"development,growth"
+1434,,発表,はっぴょう,,"announcement,publication"
+1435,,発明,はつめい,,invention
+1436,,話し合う,はなしあう,,"to discuss,to talk together"
+1437,,離す,はなす,,"to part,divide,separate"
+1438,,放す,はなす,,"to separate,to set free"
+1439,,離れる,はなれる,,"to be separated from,to leave,to go away,to be a long way off"
+1440,,羽,はね,,"counter for birds,counter for rabbits"
+1441,,幅,はば,,"width,breadth"
+1442,,母親,ははおや,,mother
+1443,,省く,はぶく,,"to omit,to eliminate,to curtail,to economize"
+1444,,場面,ばめん,,"scene,setting (e.g. of novel)"
+1445,,腹,はら,,"abdomen,belly,stomach"
+1446,,原,はら,,"field,plain,prairie,tundra,moor,wilderness"
+1447,,針,はり,,"needle,hand (e.g. clock)"
+1448,,張る,はる,,"to stick,to paste"
+1449,,番,ばん,,
+1450,,,バン,,"bun,van (caravan),VAN (value-added network)"
+1451,,範囲,はんい,,"extent,scope,sphere,range"
+1452,,反抗,はんこう,,"opposition,resistance"
+1453,,犯罪,はんざい,,crime
+1454,,,ハンサム,,handsome
+1455,,判断,はんだん,,"judgement,decision"
+1456,,犯人,はんにん,,"offender,criminal"
+1457,,販売,はんばい,,"sale,selling,marketing"
+1458,,灯,ひ,,light
+1459,,,ビール,,beer
+1460,,被害,ひがい,,damage
+1461,,比較,ひかく,,comparison
+1462,,轢く,ひく,,"to run somebody over (with vehicle),to knock someone down"
+1463,,,ピクニック,,picnic
+1464,,悲劇,ひげき,,tragedy
+1465,,飛行,ひこう,,aviation
+1466,,膝,ひざ,,"knee,lap"
+1467,,非常,ひじょう,,"emergency,extraordinary,unusual"
+1468,,美人,びじん,,beautiful person (woman)
+1469,,額,ひたい,,"forehead,brow"
+1470,,,びっくり,,"be surprised,be amazed,be frightened,astonishment"
+1471,,日付,ひづけ,,"date,dating"
+1472,,必死,ひっし,,"inevitable death,desperation,frantic,inevitable result"
+1473,,,ぴったり,,"exactly,neatly,sharp"
+1474,,引っ張る,ひっぱる,,"(1) to pull,to draw,to stretch,to drag,(2) to pull the ball (baseball)"
+1475,,否定,ひてい,,"negation,denial,repudiation"
+1476,,,ビデオ,,video
+1477,,一言,ひとこと,,single word
+1478,,人込み,ひとごみ,,crowd of people
+1479,,等しい,ひとしい,,equal
+1480,,独り,ひとり,,"alone,unmarried"
+1481,,一人一人,ひとりひとり,,"one by one,each,one at a time"
+1482,,批判,ひはん,,"criticism,judgement,comment"
+1483,,批評,ひひょう,,"criticism,review,commentary"
+1484,,秘密,ひみつ,,"secret,secrecy"
+1485,,微妙,びみょう,,"delicate,subtle"
+1486,,紐,ひも,,"(1) string,cord,(2) pimp"
+1487,,費用,ひよう,,"cost,expense"
+1488,,表,ひょう,,"table (e.g. Tab 1),chart,list"
+1489,,秒,びょう,,second (60th min)
+1490,,評価,ひょうか,,"valuation,estimation,assessment,evaluation"
+1491,,表現,ひょうげん,,"expression,presentation,representation (math)"
+1492,,表情,ひょうじょう,,facial expression
+1493,,平等,びょうどう,,"equality (a),impartiality,evenness"
+1494,,評判,ひょうばん,,"fame,reputation,popularity,arrant"
+1495,,表面,ひょうめん,,"surface,outside,face,appearance"
+1496,,広がる,ひろがる,,"to spread (out),to extend,to stretch,to reach to,to get around"
+1497,,品,ひん,,"thing,article,goods,dignity,article (goods),counter for meal courses"
+1498,,瓶,びん,,bottle
+1499,,便,びん,,"way,means"
+1500,,,ピン,,pin
+1501,,不,ふ,,"un,non,negative prefix"
+1502,,不,ぶ,,"un,non,negative prefix"
+1503,,無,ぶ,,"nothing,naught,nil,zero"
+1504,,分,ぶ,,"dividing,part"
+1505,,不安,ふあん,,"anxiety,uneasiness,insecurity,suspense"
+1506,,風景,ふうけい,,scenery
+1507,,夫婦,ふうふ,,"married couple,husband and wife"
+1508,,笛,ふえ,,"flute,pipe"
+1509,,不可,ふか,,"wrong,bad,improper,unjustifiable,inadvisable"
+1510,,武器,ぶき,,"weapon,arms,ordinance"
+1511,,服装,ふくそう,,garments
+1512,,含む,ふくむ,,"to hold in the mouth,to bear in mind"
+1513,,袋,ふくろ,,"bag,sack"
+1514,,不幸,ふこう,,"unhappiness,sorrow,misfortune,disaster,accident,death"
+1515,,節,ふし,,"tune,tone,knot,knob,point"
+1516,,無事,ぶじ,,"safety,peace,quietness"
+1517,,不思議,ふしぎ,,"mystery,curiosity"
+1518,,不自由,ふじゆう,,"discomfort,disability,inconvenience,destitution"
+1519,,夫人,ふじん,,"wife,Mrs,madam"
+1520,,婦人,ふじん,,"woman,female"
+1521,,不正,ふせい,,"injustice,unfairness"
+1522,,防ぐ,ふせぐ,,"to defend (against),to protect,to prevent"
+1523,,不足,ふそく,,"insufficiency,shortage,deficiency,lack,dearth"
+1524,,舞台,ぶたい,,stage (theatre)
+1525,,双子,ふたご,,"twins,a twin"
+1526,,再び,ふたたび,,"again,once more,a second time"
+1527,,普段,ふだん,,"usually,habitually,ordinarily,always"
+1528,,縁,ふち,,"a means, e.g. of living"
+1529,,打つ,ぶつ,,"to hit,to strike"
+1530,,物価,ぶっか,,"prices of commodities,prices (in general)"
+1531,,物質,ぶっしつ,,"material,substance"
+1532,,物理,ぶつり,,physics
+1533,,筆,ふで,,writing brush
+1534,,ふと,（副）,,"suddenly,casually,accidentally,incidentally,unexpectedly,unintentionally"
+1535,,船,ふね,,"ship,boat,watercraft,shipping,vessel,steamship"
+1536,,部分,ぶぶん,,"portion,section,part"
+1537,,不平,ふへい,,"complaint,discontent,dissatisfaction"
+1538,,不満,ふまん,,"dissatisfaction,displeasure,discontent,complaints,unhappiness"
+1539,,,プラス,,plus
+1540,,,プラン,,plan
+1541,,不利,ふり,,"disadvantage,handicap,unfavorable,drawback"
+1542,,振る,ふる,,"(1) to wave,to shake,to swing,(2) to sprinkle,(3) to cast (actor),to allocate (work)"
+1543,,震える,ふるえる,,"to shiver,to shake,to quake"
+1544,,,ブレーキ,,a brake
+1545,,触れる,ふれる,,"to touch,to be touched,to touch on a subject,to feel,to violate (law, copyright, etc.),to perceive,t"
+1546,,風呂,ふろ,,bath
+1547,,,プロ,,professional
+1548,,分,ぶん,,"dividing,part,segment"
+1549,,文,ぶん,,sentence
+1550,,雰囲気,ふんいき,,"atmosphere (e.g. musical),mood,ambience"
+1551,,分析,ぶんせき,,analysis
+1552,,文明,ぶんめい,,"civilization,culture"
+1553,,分野,ぶんや,,"field,sphere,realm,division,branch"
+1554,,塀,へい,,"wall,fence"
+1555,,平均,へいきん,,"equilibrium,balance,average,mean"
+1556,,平和,へいわ,,"peace,harmony"
+1557,,別に,べつに,,"(not) particularly,nothing"
+1558,,減らす,へらす,,"to abate,to decrease,to diminish,to shorten"
+1559,,減る,へる,,"to decrease (in size or number),to diminish,to abate"
+1560,,,ベルト,,Belt for western clothes
+1561,,変化,へんか,,"goblin,ghost,apparition,bugbear"
+1562,,,ペンキ,,(n) paint (nl: pek)
+1563,,勉強,べんきょう,,"study,diligence,discount,reduction"
+1564,,変更,へんこう,,"change,modification,alteration"
+1565,,,ベンチ,,bench
+1566,,弁当,べんとう,,box lunch
+1567,,方,ほう,,side
+1568,,法,ほう,,Act (law: the X Act)
+1569,,棒,ぼう,,"pole,rod,stick"
+1570,,冒険,ぼうけん,,"risk,venture,adventure"
+1571,,方向,ほうこう,,"direction,course,way"
+1572,,報告,ほうこく,,"report,information"
+1573,,宝石,ほうせき,,"gem,jewel"
+1574,,放送,ほうそう,,"broadcast,broadcasting"
+1575,,豊富,ほうふ,,"abundance,wealth,plenty,bounty"
+1576,,方法,ほうほう,,"method,manner,way,means,technique"
+1577,,方々,ほうぼう,,"persons,this and that,here and there,everywhere"
+1578,,訪問,ほうもん,,"call,visit"
+1579,,吠える,ほえる,,"to bark,to bay,to howl,to bellow,to roar,to cry"
+1580,,,ボーイ,,boy
+1581,,,ボート,,rowing boat
+1582,,,ホーム,,"(1) platform,(2) home"
+1583,,,ボール,,"ball,bowl"
+1584,,他,ほか,,other (esp. places and things)
+1585,,外,ほか,,"other place,the rest"
+1586,,誇り,ほこり,,pride
+1587,,埃,ほこり,,dust
+1588,,保証,ほしょう,,"guarantee,security,assurance,pledge,warranty"
+1589,,保存,ほぞん,,"preservation,conservation,storage,maintenance"
+1590,,程,ほど,,"degree,extent,bounds,limit"
+1591,,歩道,ほどう,,"footpath,walkway,sidewalk"
+1592,,仏,ほとけ,,"Buddha,merciful person,Buddhist image,the dead"
+1593,,骨,ほね,,bone
+1594,,炎,ほのお,,flame
+1595,,頬,ほほ,,cheek (of face)
+1596,,頬,ほお,,cheek (of face)
+1597,,,ほぼ,,"almost,roughly,approximately"
+1598,,微笑む,ほほえむ,,to smile
+1599,,褒める,ほめる,,"to praise,to admire,to speak well"
+1600,,濠,ほり,,moat
+1601,,本当,ほんと,,"truth,reality"
+1602,,本当,ほんとう,,"truth,reality"
+1603,,本人,ほんにん,,the person himself
+1604,,本物,ほんもの,,genuine article
+1605,,,ぼんやり,,"absent-minded,block-head,dim,faint,vague"
+1606,,間,ま,,"space,room,time,pause"
+1607,,,まあ,,(female) you might say
+1608,,,マーケット,,market
+1609,,,マイク,,mike
+1610,,迷子,まいご,,lost (stray) child
+1611,,任せる,まかせる,,"to entrust to another,to leave to"
+1612,,幕,まく,,"curtain,bunting,act (in play)"
+1613,,負け,まけ,,"defeat,loss,losing (a game)"
+1614,,孫,まご,,grandchild
+1615,,,まさか,,by no means
+1616,,,まさに,,"correctly,surely"
+1617,,真面目,まじめ,,"diligent,serious,honest"
+1618,,増す,ます,,"to increase,to grow"
+1619,,先ず,まず,,"first (of all),to start with,about,almost,hardly (with neg. verb)"
+1620,,貧しい,まずしい,,"poor,needy"
+1621,,,マスター,,"proprietor,manager,barowner,master (e.g. arts, science)"
+1622,,,ますます,,"increasingly,more and more"
+1623,,又,また,,"again,and"
+1624,,未だ,まだ,,"yet,still,more,besides"
+1625,,街,まち,,"(1) town,(2) street,road"
+1626,,間違い,まちがい,,mistake
+1627,,松,まつ,,"(1) pine tree,(2) highest (of a three-tier ranking system)"
+1628,,真っ赤,まっか,,"deep red,flushed (of face)"
+1629,,真っ直ぐ,まっすぐ,,"straight (ahead),direct,upright"
+1630,,全く,まったく,,"really,truly,entirely,completely"
+1631,,祭,まつり,,"festival,feast"
+1632,,学ぶ,まなぶ,,"to study (in depth),to learn,to take lessons in"
+1633,,真似,まね,,"mimicry,imitation,behavior,pretense"
+1634,,招く,まねく,,to invite
+1635,,,ママ,,Mama
+1636,,豆,まめ,,"beans,peas"
+1637,,守る,まもる,,"to protect,to obey,to guard,to abide (by the rules)"
+1638,,丸,まる,,"circle,full (month),perfection,purity,suffix for ship names"
+1639,,円,まる,,"circle,money"
+1640,,丸い,まるい,,"round,circular,spherical"
+1641,,,まるで,,"quite,entirely,completely"
+1642,,回す,まわす,,"to turn,to revolve"
+1643,,回り,まわり,,"circumference,surroundings,circulation"
+1644,,万一,まんいち,,"by some chance,by some possibility,if by any chance,10E4:1 odds"
+1645,,満足,まんぞく,,satisfaction
+1646,,身,み,,"body,main part,oneself,sword"
+1647,,実,み,,"fruit,nut,seed,content,good result"
+1648,,見送り,みおくり,,"seeing one off,farewell,escort"
+1649,,味方,みかた,,"friend,ally,supporter"
+1650,,見事,みごと,,"splendid,magnificent,beautiful,admirable"
+1651,,,ミス,,"miss (mistake, error, failure),Miss"
+1652,,満ちる,みちる,,"to be full,to rise (tide),to mature,to expire"
+1653,,密,みつ,,
+1654,,認める,みとめる,,"to recognize,to appreciate,to approve,to admit,to notice"
+1655,,皆,みんな,,"all,everyone,everybody"
+1656,,見舞い,みまい,,"enquiry,expression of sympathy,expression of concern"
+1657,,土産,みやげ,,"present,souvenir"
+1658,,都,みやこ,,capital
+1659,,妙,みょう,,"strange,unusual"
+1660,,明後日,みょうごにち,,day after tomorrow
+1661,,未来,みらい,,"future (life, tense)"
+1662,,魅力,みりょく,,"charm,fascination,glamour"
+1663,,見る,みる,,"to see,to watch"
+1664,,,ミルク,,milk
+1665,,無,む,,"nothing,naught,nil,zero"
+1666,,向かい,むかい,,"facing,opposite,across the street,other side"
+1667,,迎え,むかえ,,"meeting,person sent to pick up an arrival"
+1668,,向く,むく,,to face
+1669,,向ける,むける,,"to turn towards,to point"
+1670,,無視,むし,,"disregard,ignore"
+1671,,虫歯,むしば,,"cavity,tooth decay,decayed tooth,caries"
+1672,,寧ろ,むしろ,,"rather,better,instead"
+1673,,結ぶ,むすぶ,,"to tie,to bind,to link"
+1674,,無駄,むだ,,"futility,uselessness"
+1675,,夢中,むちゅう,,"daze,(in a) trance,ecstasy,delirium,engrossment"
+1676,,胸,むね,,"breast,chest"
+1677,,無料,むりょう,,"free,no charge"
+1678,,芽,め,,sprout
+1679,,明確,めいかく,,"clear up,clarify,define"
+1680,,命じる,めいじる,,"to order,to command,to appoint"
+1681,,名人,めいじん,,"master,expert"
+1682,,命令,めいれい,,"order,command,decree,directive,(software) instruction"
+1683,,迷惑,めいわく,,"trouble,bother,annoyance"
+1684,,飯,めし,,"(sl) meals,food"
+1685,,滅多に,めったに,,"rarely (with neg. verb),seldom"
+1686,,,メモ,,memorandum
+1687,,面,めん,,"face,mug,surface,facial features,mask,face guard,side or facet,corner,page"
+1688,,綿,めん,,"cotton,padding"
+1689,,免許,めんきょ,,"license,permit,licence,certificate"
+1690,,面倒,めんどう,,"trouble,difficulty,care,attention"
+1691,,,メンバー,,member
+1692,,申し込む,もうしこむ,,"to apply for,to make an application"
+1693,,申し訳,もうしわけ,,"apology,excuse"
+1694,,毛布,もうふ,,blanket
+1695,,燃える,もえる,,to burn
+1696,,目的,もくてき,,"purpose,goal,aim,objective,intention"
+1697,,目標,もくひょう,,"mark,objective,target"
+1698,,木曜,もくよう,,Thursday
+1699,,文字,もじ,,"letter (of alphabet),character"
+1700,,文字,もんじ,,"letter (of alphabet),character"
+1701,,,もしも,,if
+1702,,持ち上げる,もちあげる,,"to raise,to lift up,to flatter"
+1703,,用いる,もちいる,,"to use,to make use of"
+1704,,勿論,もちろん,,"of course,certainly,naturally"
+1705,,最も,もっとも,,"most,extremely"
+1706,,尤も,もっとも,,"quite right,plausible,natural,but then,although"
+1707,,元,もと,,"(1) origin,original,(2) former"
+1708,,基,もと,,basis
+1709,,素,もと,,prime
+1710,,戻す,もどす,,"to restore,to put back,to return"
+1711,,基づく,もとづく,,"to be grounded on,to be based on,to be due to,to originate from"
+1712,,求める,もとめる,,"to seek,to request,to demand,to want,to wish for,to search for,to pursue (pleasure),to hunt (a job),"
+1713,,者,もの,,person
+1714,,物音,ものおと,,sounds
+1715,,物語,ものがたり,,"tale,story,legend"
+1716,,物事,ものごと,,"things,everything"
+1717,,模様,もよう,,"pattern,figure,design"
+1718,,貰う,もらう,,to receive
+1719,,文句,もんく,,"phrase,complaint"
+1720,,,やがて,,"before long,soon,at length"
+1721,,役,やく,,"use,service,role,position"
+1722,,約,やく,,"approximately,about,some"
+1723,,訳,やく,,"meaning,reason,circumstances,can be deduced,situation"
+1724,,役割,やくわり,,"part,assigning (allotment of) parts,role,duties"
+1725,,家賃,やちん,,rent
+1726,,厄介,やっかい,,"trouble,burden,care,bother"
+1727,,宿,やど,,"inn,lodging"
+1728,,雇う,やとう,,"to employ,to hire"
+1729,,屋根,やね,,roof
+1730,,,やはり,,"also,as I thought,still,in spite of,absolutely,of course"
+1731,,破る,やぶる,,"to tear,to violate,to defeat,to smash,to destroy"
+1732,,辞める,やめる,,to retire
+1733,,,やや,,"a little,partially,somewhat,a short time,a while"
+1734,,唯一,ゆいいつ,,"only,sole,unique"
+1735,,勇気,ゆうき,,"courage,bravery,valour,nerve,boldness"
+1736,,有効,ゆうこう,,"validity,availability,effectiveness"
+1737,,優秀,ゆうしゅう,,"superiority,excellence"
+1738,,優勝,ゆうしょう,,"overall victory,championship"
+1739,,友情,ゆうじょう,,"friendship,fellowship"
+1740,,友人,ゆうじん,,friend
+1741,,有能,ゆうのう,,"able,capable,efficient,skill"
+1742,,郵便,ゆうびん,,"mail,postal service"
+1743,,夕べ,ゆうべ,,evening
+1744,,,ユーモア,,humor
+1745,,有利,ゆうり,,"advantageous,better,profitable,lucrative"
+1746,,床,ゆか,,floor
+1747,,愉快,ゆかい,,"pleasant,happy"
+1748,,輸出,ゆしゅつ,,export
+1749,,譲る,ゆずる,,"to turn over,to assign,to hand over"
+1750,,豊か,ゆたか,,"abundant,wealthy,plentiful,rich"
+1751,,,ゆっくり,,"slowly,at ease"
+1752,,輸入,ゆにゅう,,"importation,import,introduction"
+1753,,許す,ゆるす,,"to permit,to allow,to approve"
+1754,,夜,よ,,"evening,night"
+1755,,夜明け,よあけ,,"dawn,daybreak"
+1756,,様,よう,,"way,manner,kind"
+1757,,酔う,よう,,"to get drunk,to become intoxicated"
+1758,,容易,ようい,,"easy,simple,plain"
+1759,,陽気,ようき,,"season,weather,cheerfulness"
+1760,,要求,ようきゅう,,"request,demand,requisition"
+1761,,用心,ようじん,,"care,precaution,guarding,caution"
+1762,,様子,ようす,,"aspect,state,appearance"
+1763,,要するに,ようするに,,"in a word,after all,the point is ..,in short .."
+1764,,要素,ようそ,,element
+1765,,要点,ようてん,,"gist,main point"
+1766,,曜日,ようび,,day of the week
+1767,,,ヨーロッパ,,Europe
+1768,,予期,よき,,"expectation,assume will happen,forecast"
+1769,,横切る,よこぎる,,"to cross (e.g. arms),to traverse"
+1770,,予算,よさん,,"estimate,budget"
+1771,,止す,よす,,"to cease,to abolish,to resign,to give up"
+1772,,予測,よそく,,"prediction,estimation"
+1773,,,ヨット,,yacht
+1774,,夜中,よなか,,"midnight,dead of night"
+1775,,世の中,よのなか,,"society,the world,the times"
+1776,,余分,よぶん,,"extra,excess,surplus"
+1777,,予報,よほう,,"forecast,prediction"
+1778,,予防,よぼう,,"prevention,precaution,protection against"
+1779,,読み,よみ,,reading
+1780,,嫁,よめ,,"bride,daughter-in-law"
+1781,,余裕,よゆう,,"surplus,composure,margin,room,time,allowance,scope,rope"
+1782,,,より,,"twist,ply"
+1783,,,よると,,according to
+1784,,喜び,よろこび,,"(a) joy,(a) delight,rapture,pleasure,gratification,rejoicing,congratulations,felicitations"
+1785,,宜しい,よろしい,,"(hon) good,OK,all right,fine,very well,will do,may,can"
+1786,,よろしく,（感）,,"well,properly,suitably,best regards,please remember me"
+1787,,四,よん,,four
+1788,,来,らい,,",for (10 days),next (year)"
+1789,,,ライター,,"lighter,rider,writer"
+1790,,楽,らく,,"comfort,ease"
+1791,,,ラケット,,"paddle,racket"
+1792,,利益,りえき,,"profits,gains,(political, economic) interest"
+1793,,理解,りかい,,"understanding,comprehension"
+1794,,陸,りく,,six (used in legal documents)
+1795,,利口,りこう,,"clever,shrewd,bright,sharp,wise,intelligent"
+1796,,離婚,りこん,,divorce
+1797,,理想,りそう,,ideal
+1798,,率,りつ,,"rate,ratio,proportion,percentage"
+1799,,立派,りっぱ,,"splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate"
+1800,,留学,りゅうがく,,studying abroad
+1801,,流行,りゅうこう,,"fashionable,fad,in vogue,prevailing"
+1802,,量,りょう,,"quantity,amount,volume,portion (of food)"
+1803,,両替,りょうがえ,,"change,money exchange"
+1804,,料金,りょうきん,,"fee,charge,fare"
+1805,,例,れい,,"instance,example,case"
+1806,,礼,れい,,expression of gratitude
+1807,,礼儀,れいぎ,,"manners,courtesy,etiquette"
+1808,,冷静,れいせい,,"calm,composure,coolness,serenity"
+1809,,列,れつ,,"queue,line,row"
+1810,,列車,れっしゃ,,train (ordinary)
+1811,,,レポート,,"report,paper"
+1812,,練習,れんしゅう,,practice
+1813,,連想,れんそう,,"association (of ideas),suggestion"
+1814,,連続,れんぞく,,"serial,consecutive,continuity,continuing"
+1815,,老人,ろうじん,,"the aged,old person"
+1816,,労働,ろうどう,,"manual labor,toil,work"
+1817,,,ロケット,,"locket,rocket"
+1818,,論じる,ろんじる,,"to argue,to discuss,to debate"
+1819,,論争,ろんそう,,"controversy,dispute"
+1820,,論文,ろんぶん,,"thesis,essay,treatise,paper"
+1821,,輪,わ,,"ring,hoop,circle"
+1822,,,ワイン,,wine
+1823,,,わがまま,,"selfishness,egoism,wilfulness,disobedience,whim"
+1824,,別れ,わかれ,,"parting,separation,farewell"
+1825,,脇,わき,,side
+1826,,分ける,わける,,"to divide,to separate"
+1827,,,わざと,,on purpose
+1828,,僅か,わずか,,"only,merely,a little,small quantity"
+1829,,綿,わた,,"cotton,padding"
+1830,,話題,わだい,,"topic,subject"
+1831,,笑い,わらい,,"laugh,laughter,smile"
+1832,,割る,わる,,"to divide,to cut,to break,to halve"
+1833,,悪口,わるくち,,"abuse,insult,slander,evil speaking"
+1834,,我々,われわれ,,we
+1835,,湾,わん,,"bay,gulf,inlet"
