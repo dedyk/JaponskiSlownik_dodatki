@@ -563,7 +563,6 @@
 590	deu	Ich verstehe kein Deutsch.
 591	deu	Ich habe meine Entscheidung getroffen.
 592	deu	Ich gebe dir mein Wort.
-593	deu	"Irren ist menschlich, aber um etwas wirklich zu vermasseln, benötigt es einen Computer." - Farmers Almanac, 1978
 594	deu	Du bist die große Liebe meines Lebens.
 595	deu	Objektiv sein heißt, nicht zu verraten, zu wem man hält.
 596	deu	Wir haben einen Papst.
@@ -1716,7 +1715,6 @@
 1784	eng	I don't understand German.
 1785	eng	I made my decision.
 1786	eng	I give you my word.
-1787	eng	"To err is human, but to really foul things up requires a computer." - Farmers Almanac, 1978
 1788	eng	You are the great love of my life.
 1789	eng	Being objective means not telling everybody whose side you are on.
 1790	eng	We have a Pope.
@@ -3573,7 +3571,7 @@
 3684	fra	Je ne veux pas aller à l'école.
 3685	fra	C'est fini entre nous, rends-moi ma bague !
 3686	fra	Il pleut.
-3687	fra	J'avais prévu d'aller à la plage aujourd'hui, mais à ce moment il commença à pleuvoir.
+3687	fra	J'avais prévu d'aller à la plage aujourd'hui, mais il a commencé à pleuvoir.
 3688	fra	Elle est vraiment intelligente, n'est-ce pas ?
 3689	fra	Une opinion n'est choquante que lorsque c'est une conviction.
 3690	fra	Les gens qui aiment ne doutent de rien, ou doutent de tout.
@@ -4268,7 +4266,7 @@
 4385	ita	Non è importante.
 4386	ita	Mi piacerebbe tanto andare in Giappone.
 4387	ita	Mi volevi parlare di libertà?
-4388	ita	Salvo che qui, non è così semplice.
+4388	ita	Salvo che qui non è così semplice.
 4389	ita	Ti amo.
 4390	ita	Congratulazioni!
 4391	ita	Neanch'io lo posso spiegare.
@@ -12177,7 +12175,7 @@
 12558	fra	Un double s'il vous plaît.
 12559	fra	Il va probablement neiger demain.
 12560	fra	Peut-être qu'il ne sera jamais célèbre.
-12561	fra	Pour bien faire (comme cela arrive), je n'avais pas d'argent sur moi.
+12561	fra	Comme cela est arrivé, je n'avais pas d'argent sur moi.
 12562	fra	Ce n'est pas un crime de paresser toute la journée une fois de temps en temps.
 12563	fra	Les oignons cuisent plus vite que les pommes de terre.
 12564	fra	Non ! Tu pourras regarder la télévision après avoir fait tes devoirs.
@@ -12200,7 +12198,7 @@
 12582	fra	Personne ne lui prêtait attention.
 12583	fra	Personne ne l'a encouragée.
 12584	fra	Chaque mouvement du danseur était parfait.
-12585	fra	Profitez de la soirée de danse.
+12585	fra	Profitez de la soirée au bal.
 12586	fra	Aimez-vous danser ?
 12587	fra	Il fera de plus en plus chaud.
 12588	fra	Dan est venu accueillir Julie à six heures.
@@ -12322,7 +12320,7 @@
 12709	fra	À plus tard !
 12710	fra	Alors je vais le lui demander demain.
 12711	fra	Mais tu l'aimes !
-12712	fra	Mais bien sûr c'était il y a longtemps.
+12712	fra	Mais bien sûr, c'était il y a longtemps.
 12713	fra	« Mais tu es juste arrivé durant l'été ! » Dit Tony.
 12714	fra	Mais je ne pense pas que la piscine soit ouverte ce week-end.
 12715	fra	Mais j'étais toujours trop feignant.
@@ -12418,7 +12416,7 @@
 12815	fra	Vas-y.
 12816	fra	Je vous en prie, prenez votre temps.
 12817	fra	Servez-vous s'il vous plaît.
-12818	fra	Tout le monde s'assoie, je vous prie.
+12818	fra	Que tout le monde s'assoie, je vous prie !
 12819	fra	Allume-le, s'il te plait.
 12820	spa	"Mi padre no bebe alcohol." "El mío tampoco."
 12822	fra	Ouvrez la porte, s'il vous plaît.
@@ -12427,7 +12425,7 @@
 12827	fra	N'hésitez pas à faire des suggestions.
 12828	fra	Partageons mon parapluie, je vous en prie.
 12829	fra	S'il te plaît, prends bien soin de toi.
-12830	fra	Marchez s'il vous plaît à l'intérieur.
+12830	fra	Entrez, je vous prie !
 12831	fra	Laissez-moi passer, s'il vous plaît.
 12832	fra	Chante la chanson encore une fois, s'il te plaît.
 12833	fra	Finalement elle a choisi un autre chaton.
@@ -12435,8 +12433,8 @@
 12835	fra	Le bébé s'est enfin endormi.
 12836	fra	Enfin nous avons atteint la Californie.
 12837	fra	J'ai finalement terminé mes devoirs, maintenant je peux aller au lit.
-12838	fra	Au moins il a pu finir ce travail.
-12839	fra	Finalement il a dévoilé ses plans pour le futur.
+12838	fra	Au moins a-t-il pu finir ce travail.
+12839	fra	Il a finalement dévoilé ses projets pour le futur.
 12840	fra	Finalement, elle n'est pas venue.
 12841	fra	À la fin, elle a eu une bonne idée.
 12842	fra	J'ai peur qu'il pleuve.
@@ -12516,7 +12514,7 @@
 12921	fra	Peux-tu me conseiller un bon jeu ?
 12922	fra	Chaque garçon a un vélo.
 12923	fra	Son courage fut célébré dans tous les journaux.
-12924	fra	Quel que soit le journal que tu lises l'histoire est la même.
+12924	fra	Quelque journal qu'on lise conte la même histoire.
 12925	fra	On a posé à chaque élève une question.
 12926	fra	Chaque étudiant dispose d'un casier.
 12927	fra	Toutes les chaises étaient occupées.
@@ -12529,19 +12527,19 @@
 12934	fra	J'aime Tom parce qu'il est honnête.
 12935	fra	Personne à part Tom ne connaît son adresse.
 12936	fra	En tout cas je vais le voir.
-12937	fra	C'est un problème quelle que soit la façon de le voir.
+12937	fra	C'est un problème, de quelque manière qu'on le voie.
 12938	fra	Tout conducteur doit observer les règles de la circulation.
 12939	fra	Les conducteurs doivent faire attention aux enfants qui traversent la route.
 12940	fra	Je vais à une école de conduite.
 12941	fra	Un poids-lourd se tenait au milieu de la chaussée.
 12943	fra	Un tigre est plus gros et plus fort qu'un chat.
-12944	fra	J'ai mille dollars en traveler checks et cinq cents dollars en liquide.
+12944	fra	J'ai mille dollars en chèques de voyage et cinq cents dollars en liquide.
 12945	fra	J'aimerais encaisser un chèque de voyage.
 12946	fra	C'est mal de tricher aux jeux de cartes.
 12947	fra	Je vous donnerai un traitement provisoire.
 12948	fra	Surtout, la logique nécessite des définitions précises.
 12949	fra	Par-dessus tout, les enfants ont besoin d'amour.
-12950	fra	Plus particulièrement remarquable était son visage ovale.
+12950	fra	Son visage oval était sa marque de fabrique.
 12951	fra	Combien de temps peux-tu retenir ta respiration ?
 12952	fra	Je ne sais pas combien de temps il faudra.
 12953	fra	Dis-lui lequel prendre.
@@ -12551,7 +12549,7 @@
 12958	fra	Aussi rapide que tu sois capable de courir, tu ne rattraperas jamais une moto.
 12959	fra	Malgré tous mes efforts, je ne pourrai pas rendre le rapport vendredi.
 12960	fra	Peu importe que tu sois fatigué, tu dois le faire.
-12961	fra	Comment une chose si étrange a pu arriver ?
+12961	fra	Comment une chose tellement étrange a-t-elle pu se produire ?
 12962	fra	Je dois l'aider à tout prix.
 12963	fra	Il était déterminé à finir le travail à n'importe quel prix.
 12964	fra	Il voulait le faire, quelles qu'en soit les conséquences.
@@ -12727,7 +12725,7 @@
 13139	fra	Le pain est fait avec de la farine, de l'eau et de la levure.
 13140	fra	Le pain et le lait sont de la bonne nourriture.
 13141	fra	Un piano coûte cher.
-13142	fra	Peter paraît très jeune.
+13142	fra	Pierre paraît très jeune.
 13143	fra	Peter en avait assez des filles puériles.
 13144	fra	Peter a décidé de partir demain.
 13145	fra	Je suis sorti dehors en laissant le chauffage allumé.
@@ -12741,7 +12739,7 @@
 13153	fra	Il est tout neuf.
 13155	fra	Acceptez-vous les cartes Visa ?
 13156	fra	Puis-je utiliser ma carte VISA ?
-13157	fra	Un business prospère est une affaire de gestion financière prudente.
+13157	fra	Un commerce prospère est affaire de prudence dans la gestion financière.
 13158	fra	Je ne veux pas que tu m'appelles tout le temps.
 13159	fra	Un pic est un outil à long manche utilisé pour entamer les surfaces de sol dur.
 13160	fra	C'est l'heure de nourrir les moutons.
@@ -12808,7 +12806,7 @@
 13227	fra	Cela a pris plusieurs heures à Brian pour écrire une carte.
 13228	fra	Brian a acheté un rouge à lèvres pour Kate.
 13229	fra	Brian a l'air déprimé.
-13230	fra	Un certain Monsieur Brown vous demande a l'appareil.
+13230	fra	Un certain Monsieur Brun vous demande au téléphone.
 13231	fra	M. Brown était malade à cette époque.
 13232	fra	Madame Brown a écrit un livre sur la politique.
 13233	fra	Connaissez-vous monsieur Brown ?
@@ -12825,7 +12823,7 @@
 13244	fra	La France est au sud de l'Angleterre.
 13245	fra	La France est en Europe de l'Ouest.
 13246	fra	J'espère que votre voyage d'affaires en France a été une réussite.
-13247	fra	Pour nous l'anglais était la langue de repli lorsque nous ne pouvions nous faire comprendre en français.
+13247	fra	L'anglais était pour nous la langue de repli, lorsque nous ne pouvions nous faire comprendre en français.
 13248	fra	Le français a beaucoup plus de voyelles que le japonais.
 13249	fra	Le français est parlé en quelques endroits d'Italie et en France.
 13250	fra	Le français s'est développé à partir du latin.
@@ -12851,7 +12849,7 @@
 13270	fra	Mademoiselle Baker savait que le jeune homme devrait partir très bientôt, elle décida alors de lui demander de bouger un peu sa voiture, afin qu'elle puisse garer la sienne à une bonne place pour la nuit avant d'aller se coucher.
 13271	fra	Les Bakers ont une ferme en amont de la rivière.
 13272	fra	Madame Baker s'est fait voler son porte-monnaie.
-13273	fra	Lis le bas de la page.
+13273	fra	Lis le bas de la page !
 13274	fra	Beethoven alla au piano, s'assit et commença à jouer.
 13275	fra	Dans ses dernières années Beethoven était sourd.
 13276	fra	Faites de votre mieux.
@@ -12887,7 +12885,7 @@
 13307	fra	Paula doit aider son père dans la cuisine.
 13308	fra	Je me demande ce qui est arrivé à Paul.
 13309	fra	Paul est une personne tellement plaisante que tout le monde l'aime de suite.
-13310	fra	Paul est de loin le plus charmant garçon de l'école.
+13310	fra	Paul est, de loin, le plus charmant garçon de l'école.
 13311	fra	Paul a gagné beaucoup d'argent l'année dernière.
 13312	fra	Passe la balle rapidement à la personne derrière toi.
 13313	fra	Puis-je vous apporter autre chose ?
@@ -13409,10 +13407,8 @@
 13857	fra	Je n'ai pas pris part à la conversation.
 13859	fra	Je n'ai pas sérieusement pensé au sujet.
 13860	fra	Je n'ai rien à dire contre cela.
-13861	fra	Je préférerais ne pas manger ça.
 13862	fra	Je ne peux assister à la fête, mais merci en tout cas de m'avoir invité.
 13863	fra	J'aime la musique, et j'en écoute tous les jours.
-13864	fra	Je suis de Kyoto.
 13865	fra	Je veux y aller avec toi.
 13866	fra	Je n'ai pas de quoi me vanter.
 13867	fra	J'aurai seize ans le mois prochain.
@@ -13496,7 +13492,7 @@
 13950	fra	Une seule erreur, et vous avez échoué.
 13951	fra	Je vais te raconter une histoire.
 13952	fra	Un mot est assez pour un homme sage.
-13953	fra	Vous n'avez pas d'adresse mél ?
+13953	fra	Vous n'avez pas de mél ?
 13954	fra	À première vue, la question semble simple.
 13955	spa	Comprendo lo que usted dice, pero no puedo estar de acuerdo.
 13956	fra	Le moindre mot de critique la rend nerveuse.
@@ -15216,7 +15212,7 @@
 15922	eng	You will be up against many difficulties.
 15923	eng	You mustn't depend on others for help.
 15924	eng	You are too inquisitive about other people's affairs.
-15925	eng	You are too critical of other's shortcomings.
+15925	eng	You are too critical of others' shortcomings.
 15926	eng	Can you throw a fastball?
 15927	eng	You depend too much on others.
 15928	eng	You have foul breath.
@@ -15576,7 +15572,6 @@
 16308	eng	Did you read it at all?
 16309	eng	You have only to study hard, and you will pass the test.
 16310	eng	You have only to study hard.
-16312	eng	You have only to try hard.
 16313	eng	Being a teacher, you must learn to keep a tight rein on your emotions.
 16314	eng	You'll never be alone.
 16315	eng	You should follow the doctor's advice.
@@ -15950,7 +15945,7 @@
 16720	eng	What ever are you doing here?
 16721	eng	How long did it take you to drive from here to Tokyo?
 16722	eng	You had better get away from here at once.
-16723	eng	You have drunk three cups of coffee.
+16723	eng	You've drunk three cups of coffee.
 16724	eng	Have you had any experience with this kind of work?
 16727	eng	You have to study hard to catch up with your class.
 16728	eng	You must be mentally exhausted.
@@ -16039,7 +16034,7 @@
 16821	eng	You must be here till five.
 16822	eng	You look the way your father did thirty years ago.
 16824	eng	You must keep quiet for a few days.
-16825	eng	You will able to drive a car in a few days.
+16825	eng	You'll be able to drive a car in a few days.
 16826	eng	You may as well have a day off, because you have been overworking those days.
 16827	eng	I would rather you had a day off.
 16828	eng	Can you do it in one day?
@@ -17567,7 +17562,7 @@
 18483	eng	A dance will be held on Friday.
 18484	eng	Is there a table available for two on Friday?
 18485	eng	A fiscal tightening policy is being enacted.
-18486	eng	Interest rates will move up due to monetary tightening.
+18486	eng	Interest rates will rise due to monetary tightening.
 18487	eng	Costs of financial services are rising in every country.
 18488	eng	The Golden Gate Bridge is made of iron.
 18489	eng	How long is the Golden Gate Bridge?
@@ -18649,7 +18644,7 @@
 19629	eng	All of a sudden, large drops of rain began falling from the dark sky.
 19630	eng	I've suddenly lost weight.
 19631	eng	Don't brake suddenly.
-19632	eng	Suddenly Jim pulled up the car in front of the bank.
+19632	eng	Suddenly Jim pulled the car up in front of the bank.
 19633	eng	The storm broke.
 19634	eng	All of a sudden, three dogs appeared in front of us.
 19635	eng	Suddenly, it started to look almost nice and warm.
@@ -20361,7 +20356,7 @@
 21464	eng	Scholarly as he is, he can't be relied on.
 21465	eng	A man of learning is not always a man of sense.
 21466	eng	He is proud of his scholarship.
-21467	eng	In point of learning he is superior to all his friends.
+21467	eng	In terms of learning, he is superior to all of his friends.
 21468	eng	Learning is one thing, and common sense another.
 21469	eng	He was very learned, but he didn't know it.
 21470	eng	It should be clear that the curriculum reform is mandatory in order to enhance interdisciplinary research.
@@ -21167,7 +21162,6 @@
 22313	eng	It was twenty years ago as I look back on it.
 22314	eng	I order you to turn right.
 22315	eng	About face!
-22316	eng	Being able to revolve, it is merry-go-round.
 22317	eng	If it isn't out of your way, please take this letter to the post office.
 22318	eng	There was a thick fog around.
 22319	eng	Don't talk around it.
@@ -21592,7 +21586,7 @@
 22760	eng	We expect much of him.
 22761	eng	We showed him some pictures of the Alps.
 22762	eng	We are expecting him any moment.
-22763	eng	We are in large measure responsible for students' success in the entrance exam.
+22763	eng	We are, in large measure, responsible for students' success in the entrance exam.
 22764	eng	We took his success for granted.
 22765	eng	We could not but give him up for dead.
 22766	eng	We received word of his death.
@@ -26971,7 +26965,7 @@
 28553	eng	Bad weather upset our plans to go on a hike.
 28554	eng	Thanks to the bad weather, the game was canceled.
 28555	eng	The senior citizens' spirits were high in spite of the bad weather.
-28556	eng	They made up their minds to go to by car in spite of bad weather.
+28556	eng	They made up their minds to go by car in spite of bad weather.
 28557	eng	Bad weather prevented us from starting.
 28558	eng	The plane was delayed on account of bad weather.
 28559	eng	Farmers suffered crop losses from poor weather.
@@ -29394,7 +29388,7 @@
 31138	eng	It's about time you were independent of your parents.
 31139	eng	You can leave now. I'll see to our luggage.
 31140	eng	Have you eaten your dinner already?
-31141	eng	I have already had my supper.
+31141	eng	I've already had my supper.
 31142	eng	Have you eaten dinner yet?
 31143	eng	It's time you had a dose of your medicine.
 31144	eng	It's midnight already.
@@ -36042,7 +36036,7 @@
 38233	eng	Are you going anywhere?
 38234	eng	In this town, if anywhere, you will find old Japan at her best.
 38235	eng	Where can I get hold of a good tax lawyer?
-38236	eng	That rings a bell somewhere.
+38236	eng	That rings a bell.
 38237	eng	I remember seeing her somewhere.
 38239	eng	We have to draw a line somewhere.
 38241	eng	I must have made a mistake somewhere.
@@ -38381,7 +38375,7 @@
 40801	eng	Whenever you visit him, you will find him playing video games.
 40802	eng	The millionaire insisted on acquiring the masterpiece no matter how much it cost.
 40803	eng	Even if you go far away, let's keep in touch with each other over the phone.
-40804	eng	No matter where you go, I will follow you.
+40804	eng	No matter where you go, I'll follow you.
 40805	eng	Even if it takes you three years, you must accomplish your goal.
 40806	eng	Even if it costs 10,000 yen, I must buy the dictionary.
 40807	eng	Even if it takes me ten years, I am determined to accomplish the job.
@@ -38499,7 +38493,7 @@
 40929	eng	Takuya told me to start at once.
 40930	eng	Have you ever been to Hawaii, Takuya?
 40931	eng	I will share with you in the cost of the taxi.
-40932	eng	It will be quicker to walk than to take a taxi.
+40932	eng	It'll be quicker to walk than to take a taxi.
 40933	eng	It's faster to reserve a taxi.
 40934	eng	I had a little difficulty in getting a taxi.
 40935	eng	I had trouble getting a taxi.
@@ -38556,7 +38550,7 @@
 40993	eng	A host of friends came to see me off.
 40994	eng	A lot of trees were cut down.
 40995	eng	Many a book is published, but of them only a very few are worth reading.
-40996	eng	Though many books are published, the thing which will be of value soon is just little.
+40996	eng	Though many books are published, hardly a few of them are of value.
 40997	eng	A lot of treasure was brought over to this country.
 40998	eng	There used to be a pond here where you could see many swans.
 40999	eng	Many beautiful flowers bloom in spring.
@@ -39814,7 +39808,7 @@
 42314	eng	It is not a matter to laugh about.
 42315	eng	It's quite distinct from the smell of burning.
 42316	eng	Is it baked?
-42317	eng	It will cost at least five dollars.
+42317	eng	It'll cost at least five dollars.
 42318	eng	That didn't help them any.
 42319	eng	It was a pretty little house, strong and well-built.
 42320	eng	It became his habit by degrees.
@@ -40278,7 +40272,7 @@
 42814	eng	That is not your knife.
 42815	eng	That will give you a vivid impression.
 42816	eng	That's too small to fit on your head.
-42818	eng	That's a job of your own a choosing, isn't it?
+42818	eng	That's a job of your own choosing, isn't it?
 42819	eng	That depends on whether you are interested or not.
 42820	eng	It begins at six-thirty.
 42821	eng	It's enough for five days.
@@ -40291,7 +40285,7 @@
 42828	eng	That reads two different ways.
 42829	eng	It was a ship with a crew of 25 sailors.
 42830	eng	It was about twenty dollars.
-42831	eng	It will cost around 10000 yen.
+42831	eng	It will cost around 10,000 yen.
 42832	eng	I'll be able to finish it in a day or two.
 42833	eng	It can be done in a day.
 42834	eng	It will be finished in a day or two.
@@ -44025,7 +44019,7 @@
 46734	eng	The hand of the magician was quicker than our eyes. Before we could say Jack Robinson, the cards he was holding between his fingers disappeared.
 46735	eng	The glove has a hole in the thumb.
 46736	eng	It took the doctor eight hours to do the operation.
-46738	eng	The operation is accompanied with a lot of pain.
+46738	eng	The operation is accompanied by a lot of pain.
 46740	eng	The letter informed her of his death.
 46741	eng	I didn't feel uneasy when I read the letter.
 46742	eng	Bruce chuckled to himself as he read the letter.
@@ -49998,3 +49992,9 @@
 53121	eng	Jack said he had never told a lie, but he was lying.
 53122	eng	Jack was lost sight of in the crowd.
 53123	eng	Jack insisted on having a living room to himself.
+53124	eng	Jack may have taken my umbrella by mistake.
+53125	eng	Jack is interested in painting.
+53126	eng	Everybody laughed at Jack.
+53127	eng	Jack is a powerful acquisition for our team.
+53128	eng	Jack hid the dish he had broken, but his little sister told on him.
+53129	eng	Jack keeps a cat and a parrot at home.
