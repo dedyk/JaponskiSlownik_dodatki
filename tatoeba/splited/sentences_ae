@@ -1,11 +1,3 @@
-206211	jpn	その良さがわからぬばかではない。
-206212	jpn	その良い知らせを聞いて気が楽になった。
-206213	jpn	その療法は少し痛むのでしょうか。
-206214	jpn	その猟銃は鳥をねらって撃ったが当たらなかった。
-206215	jpn	その猟師は森の中深く入り込み、二度と帰らなかった。
-206216	jpn	その料理人は彼の信じられないほどの食欲に驚いた。
-206217	jpn	その料理は私の胃にこたえた。
-206218	jpn	その料理はおいしそうなにおいがする。
 206219	jpn	その料理はいつもこのように芸術的に盛りつけられる。
 206220	jpn	その料理は、とてもおいしそうだ。
 206221	jpn	その両親は息子に期待しすぎだ。
@@ -12232,7 +12224,6 @@
 218526	jpn	これはポケット型の辞書だ。
 218527	jpn	これはペンですかそれとも鉛筆ですか。
 218528	jpn	これはほかのどの木よりも高い。
-218529	jpn	これはペンです。
 218530	jpn	これはヘミングウエイによって書かれた小説です。
 218531	jpn	これはプラスチック製の額縁です。
 218532	jpn	これはブラウンさんが書いた手紙です。
@@ -20227,7 +20218,6 @@
 226555	jpn	お目にかかれてうれしく存じます。
 226556	jpn	お目にかかるのを楽しみにしていました。
 226557	jpn	お目にかかるのは４年ぶりですね。
-226558	jpn	お目にかかるのに時間はありません。
 226559	jpn	お目にかかってたいへんうれしい。
 226560	jpn	お名前を聞いてもいいですか。
 226561	jpn	お名前を教えていただけますか。
@@ -20351,7 +20341,6 @@
 226679	jpn	お腹をすかせて来て下さい。
 226680	jpn	お腹をすかせている人がいればその人達のために食べ物を乞うた。
 226681	jpn	お腹にガスがたまっています。
-226682	jpn	お腹が痛いです。
 226683	jpn	お腹が空いてきたよ。
 226684	jpn	お腹が空いているのですか。
 226685	jpn	お腹が空いていたばかりでなく、私達は喉の渇きにも苦しんでいた。
@@ -25902,23 +25891,22 @@
 232293	jpn	あなたは英語が好きですか。
 232294	jpn	あなたは英語かフランス語のどちらかを習ったほうがいいです。
 232295	jpn	あなたは英語がしゃべれますか。
-232296	jpn	あなたは泳げますね。
+232296	jpn	あなたは泳げますよね。
 232297	jpn	あなたは泳げるしかしわたしは泳げません。
 232298	jpn	あなたは泳ぐ事が出来ますか。
 232299	jpn	あなたは泳ぎかたを知っていますか。
-232300	jpn	あなたは泳いで渡ることができますか。
-232301	jpn	あなたは永久に日本を去るのではないでしょうね。
+232300	jpn	向こうまで泳いで渡ることができますか。
+232301	jpn	永久に日本を去るわけではないですよね。
 232302	jpn	あなたは映画に行きたい気分ですか。
 232303	jpn	あなたは運がいい。
 232304	jpn	あなたは運の強い人よ。
 232305	jpn	あなたは一日中働いた後で疲れきっているにちがいない。
 232306	jpn	あなたは一日で世界を回ることが出来ますか。
 232307	jpn	あなたは一体彼女を知っているのですか。
-232308	jpn	あなたは一度に三冊の本を借りる事が出来ます。
-232309	jpn	あなたは一体全体何をしているんですか。
-232310	jpn	あなたは一生懸命働く必要がある。
-232311	jpn	あなたは一生懸命働くことが必要である。
-232312	jpn	あなたは一生懸命働かなければなりません。
+232308	jpn	本は一度に３冊借りる事が出来ます。
+232309	jpn	あなたは一体何をしているんですか。
+232310	jpn	あなたは一所懸命働かないといけない。
+232311	jpn	あなたが一所懸命働くことが必要だ。
 232313	jpn	あなたは一生懸命英語を勉強しなければならない。
 232314	jpn	あなたは一人部屋が好きですか。
 232315	jpn	あなたは一人で旅をするつもりですか。
@@ -48554,7 +48542,6 @@
 256876	eng	I took a trip across Canada last April.
 256877	eng	I remember last summer's adventure.
 256879	eng	I went to America last fall.
-256880	eng	I intended to visit Rome last year.
 256881	eng	I didn't see a doctor last year.
 256882	eng	I graduated from high school last year.
 256883	eng	I did not live in Sanda last year.
@@ -49998,3 +49985,16 @@
 258493	eng	I like autumn best.
 258494	eng	I'm going to Paris in the fall.
 258495	eng	I prefer spring to autumn.
+258496	eng	I like spring better than fall.
+258497	eng	I missed the last bus, and was obliged to walk home in the rain.
+258499	eng	I was late for the last train.
+258500	eng	I spent the whole day reading a novel.
+258501	eng	I work out in a gym two or three times a week.
+258502	eng	I jog twice a week.
+258503	eng	I visit my grandparents twice a week.
+258504	eng	I visit my grandmother twice a week.
+258505	eng	I meet her once a week.
+258506	eng	I'll be going shopping in the latter part of the week.
+258507	eng	I bought a weekly magazine.
+258509	eng	I'm going to Izu over the weekend.
+258510	eng	I never work on weekends.

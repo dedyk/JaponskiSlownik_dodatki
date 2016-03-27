@@ -1,19 +1,3 @@
-365500	pol	Biegają po parku.
-365501	deu	Jane starb keines natürlichen Todes.
-365502	deu	Dies ist die Stadt, in der er geboren wurde.
-365503	pol	15 marca będzie 20. rocznica naszego ślubu.
-365504	deu	Sie sollte nicht alleine gehen.
-365505	pol	Musisz robić tak, jak mówię.
-365506	deu	Er hatte Glück, den Zug zu erreichen.
-365507	pol	Nigdy nic nie osiągnie, jeśli nie weźmie się do pracy.
-365508	deu	Sie macht sich Sorgen wegen ihrer Prüfungen.
-365509	pol	Zadanie jest łatwiejsze niż to.
-365510	deu	Er ist mit einer Warnung davongekommen.
-365511	pol	Zjadłem już kolację.
-365512	pol	Podwiozę cię na dworzec.
-365513	deu	Es passierte zwischen acht und zehn.
-365514	pol	Jest niezwykle zwinny.
-365515	deu	Zwei Fliegen mit einer Klappe schlagen.
 365516	deu	Es ist 20 Minuten nach 10.
 365517	pol	Masz całkowitą słuszność.
 365518	pol	Nie mogę podejść do egzaminu, bo jestem chory.
@@ -825,7 +809,7 @@
 366344	ind	Perjodohan adalah suatu bentuk pelanggaran terhadap hak asasi manusia.
 366345	ind	Pernikahan yang indah adalah pernikahan yang didasari oleh kasih sayang dan cinta yang tulus.
 366346	eng	It's better to give than to receive.
-366347	ind	Ada gula, ada semut (non-literal equivalent phrase). Ada asap, ada api (literal translation).
+366347	ind	Ada gula, ada semut.
 366348	deu	Wie fühlt sich das Papier an?
 366349	deu	Ich füttere meinen Hund zweimal am Tag.
 366350	deu	Er warf einen Stein in den See.
@@ -5125,7 +5109,7 @@
 370808	deu	Ich freue mich, von deinem Erfolg zu hören.
 370809	deu	Ich bin zur Luftwaffe gegangen.
 370810	deu	Er ist besorgt, den Arbeitsplatz zu verlieren.
-370811	deu	Ihr Verlust erreichte eine Millionen Yen.
+370811	deu	Ihr Verlust erreichte eine Million Yen.
 370812	deu	Er hat sein Wissen aus verschiedenen Büchern zusammengetragen.
 370813	deu	In letzter Zeit komme ich einen Zug früher.
 370814	deu	Ihre Augen waren voll von Tränen.
@@ -6135,7 +6119,7 @@
 371858	deu	Er besitzt eine lebendige Einbildungskraft.
 371859	deu	Die Unterhaltung während des Essens ist lebendig und interessant.
 371860	deu	Der Buddhismus nahm seinen Ursprung in Indien.
-371861	deu	Er erforscht die Enstehung des Jazz in Amerika.
+371861	deu	Er erforscht die Entstehung des Jazz in Amerika.
 371862	deu	Über die Entstehung des Lebens gibt es viele wissenschaftliche Theorien.
 371863	deu	Das Parlament hat seinen Ursprung im England des 14. Jahrhunderts.
 371864	deu	Darwin schrieb "Die Entstehung der Arten durch natürliche Zuchtwahl".
@@ -6211,7 +6195,7 @@
 371935	deu	Er verbrachte ein glückliches Leben.
 371936	eng	Look for a sign with a big "one" on it.
 371937	ara	أحتاج بصلة واحدة فقط لهذه الوصفة.
-371938	deu	Er war zeit seines Lebens arm.
+371938	deu	Er war Zeit seines Lebens arm.
 371939	eng	I only need one onion for this recipe.
 371941	ara	لو كان عندي سيارة لذهبت إلى المكتبة.
 371942	eng	I would go to the library if I had a car to get there.
@@ -7143,7 +7127,7 @@
 372887	deu	Welche Stadt ist die Hauptstadt der USA, Washington oder New York?
 372888	deu	Ausnahmen bestätigen die Regel.
 372889	deu	Es ist ganz klar, dass er durch die Prüfung fällt, wenn er so faul ist.
-372890	deu	Ich habe gestern einen Gewinn von 200.000 Yen erziehlt.
+372890	deu	Ich habe gestern einen Gewinn von 200.000 Yen erzielt.
 372891	deu	Du solltest mit solchen Leuten keinen Umgang pflegen.
 372892	deu	Mary möchte Lehrerin werden.
 372893	deu	Das Wetter war herrlich.
@@ -8517,7 +8501,7 @@
 374355	rus	Наша команда выиграла партию.
 374356	rus	Я встретил твоего друга.
 374357	rus	Он мне пишет раз в неделю.
-374358	rus	Я его спросил, каково его имя.
+374358	rus	Я спросил у него, как его зовут.
 374359	rus	Ты наконец написал своё домашнее задание?
 374360	rus	Он живёт на квартире.
 374361	rus	Ему играть не с кем.
@@ -13384,7 +13368,6 @@
 379420	ukr	Палити дуже шкідливо для здоров’я.
 379421	nld	Tot uw dienst.
 379422	nld	Ze is gekleed als een bruid.
-379423	ukr	Скільки це коштує?
 379424	nld	Roken is erg slecht voor de gezondheid.
 379425	nld	Ik had bijna mijn paraplu in de trein laten liggen.
 379426	por	A história não está de acordo com os fatos.
@@ -17988,7 +17971,7 @@
 384104	deu	Wir treffen uns am Sonntag.
 384105	isl	Englendingarnir mátu frelsið mikils.
 384106	isl	Við urðum svolítið leið hvort á öðru.
-384107	isl	Allur þessi skaði er orsök óveðursins.
+384107	isl	Allur þessi skaði er afleiðing óveðursins.
 384108	isl	Jane hefur náð miklum framförum í japönsku.
 384109	isl	Tíminn líður hratt þegar þú skemmtir þér vel.
 384110	isl	Hjálpaðu mér að lyfta pakkanum.
@@ -20993,7 +20976,7 @@
 387142	fra	Démontrez que P est un ensemble partiellement ordonné.
 387143	deu	Ich ging ungefähr 1,6 km.
 387144	jpn	Ｐが半順序集合であることを証明せよ。
-387145	deu	Letzlich wurde er der Vorstandsvorsitzende von IBM.
+387145	deu	Letztlich wurde er der Vorstandsvorsitzende von IBM.
 387146	deu	Kann er Französisch sprechen?
 387147	deu	Es ist zweifelhaft, ob dieses Material vertrauenswürdig ist.
 387148	deu	Ich habe vergessen, die Parkscheibe einzustellen.
@@ -22272,7 +22255,7 @@
 388459	fra	Elle détestait son mari.
 388460	ita	Lo odiava.
 388462	ita	Ha un piano?
-388463	isl	Þolinmæðin þrautir vinnur allar. [Málsháttur]
+388463	isl	Þolinmæðin þrautir vinnur allar.
 388464	isl	Hún gegnur í næturskóla.
 388465	ita	Il tuo inglese lascia molto a desiderare.
 388466	ita	Ha messo un francobollo sulla lettera.
@@ -25455,7 +25438,7 @@
 391695	bel	Можа, і мне падабаўляць сказаў без перакладу? Так можна вельмі хутка падняць рэйтынг сваёй мовы.
 391696	eng	Maybe I should add some sentences without translations too. It’s a very quick way to improve the rating of your language.
 391697	rus	Может, и мне подобавлять предложений без перевода? Так можно очень быстро поднять рейтинг своего языка.
-391698	ukr	Може, і мені подобавлять речень без перекладу? Так можна дуже швидко підняти рейтинг своєї мови.
+391698	ukr	Може, і мені подобавляти речень без перекладу? Так можна дуже швидко підняти рейтинг своєї мови.
 391699	bel	Калі знойдзеш якуюсь цікавую кнігу, калі ласка, купі яе для мяне.
 391700	bel	Спадарожнік знаходзіцца на калямесячнай арбіце.
 391701	rus	Спутник находится на окололунной орбите.
@@ -27165,7 +27148,7 @@
 393440	deu	Ich teile deinen Gedanken.
 393441	deu	Wer ist euer Lehrer?
 393442	deu	Ich bin einsam ohne dich.
-393443	deu	Wie einsam ich ohne dich bin.
+393443	deu	Wie einsam ich ohne dich bin!
 393444	deu	Ich bin bereit, wann immer du kommst.
 393445	deu	Ziehen Sie bitte Ihre Socken aus.
 393446	ita	I numeri primi sono come la vita, sono del tutto logici, ma è impossibile trovarne le regole, anche se si consacra tutto il proprio tempo a rifletterci.
@@ -29904,7 +29887,7 @@
 396223	eng	You should listen to his advice.
 396224	eng	You should have flatly refused his request.
 396225	deu	Mein Vater raucht nicht nur, er trinkt auch.
-396226	deu	Bitte kochen sie mein Ei hart.
+396226	deu	Bitte kochen Sie mein Ei hart.
 396227	deu	Ich stehe vor diesem Problem.
 396228	deu	Ich glaube, dass du ehrlich bist.
 396229	deu	Ich mag dein Auto.
@@ -32490,7 +32473,7 @@
 398865	fra	Nous sommes presque du même avis.
 398866	fra	C'est l'heure de nous coucher.
 398867	fra	Il connaît bien l'histoire de l'Angleterre.
-398868	fra	Tu devrais être sûr qu'il est chez lui avant que tu l'appelles.
+398868	fra	Tu devrais être sûr qu'il est chez lui avant de lui rendre visite.
 398869	uig	ئۇ مىھرىبان بولغاچقا، ھەممە ئادەم ئۇنى ياخشى كۆرىدۇ.
 398870	uig	بۇ مىش-مىشنىڭ راست بولماسلىقى كېرەك.
 398871	uig	تاپشۇرۇقۇمنى يېزىپ بولدۇم.
@@ -33162,7 +33145,7 @@
 399549	deu	Er hat viele Freunde im Parlament.
 399550	deu	Viele Menschen nahmen an seiner Beerdigung teil.
 399552	deu	Er hat viele begeisterte Unterstützer.
-399553	spa	Lo nuestro terminó, devuélveme el anillo!
+399553	spa	Lo nuestro terminó. ¡Devuélveme el anillo!
 399554	deu	Er ließ von diesem Schlüssel einen Zweitschlüssel anfertigen.
 399555	deu	Ich erinnere mich, die Tür abgeschlossen zu haben.
 399556	deu	Vergiss nicht, die Tür abzuschließen.
@@ -39373,7 +39356,7 @@
 406296	pol	Wszystko z tobą w porządku.
 406297	pol	Dostał z angielskiego 90 procent.
 406298	pol	Zdarli korę z drzewa.
-406299	hun	Vettem 1 táskát.
+406299	hun	Vettem egy táskát.
 406300	pol	Szedłem po cichutku, aby mnie nie usłyszeli.
 406301	pol	Wyniósł krzesła z pokoju.
 406302	pol	Podwiózł mnie swoim wózkiem bagażowym.
@@ -47648,7 +47631,6 @@
 414761	ukr	Де прибиральня?
 414762	ukr	Цей знак показує, що відповідь правільна.
 414763	ukr	Мені шкода, що я туди пішов.
-414764	ukr	Я вивчаю англійську.
 414765	ukr	Я не можу згодитися з цим планом.
 414766	ukr	Він скучає по своїй сім'ї.
 414767	ukr	Його велосипед синій.
@@ -47725,7 +47707,6 @@
 414838	eng	I will show that it's possible to be reborn from one's ashes.
 414839	rus	Он — член комитета.
 414840	ukr	Я планую поїхати наступного тижня в Європу.
-414841	ukr	Він біолог.
 414842	eng	It won't start before eight-thirty.
 414843	ukr	Ми використали все вугілля.
 414844	rus	Я купил часы, а на следующий день их потерял.
@@ -47990,7 +47971,7 @@
 415105	deu	Mutter wacht morgens als erste auf.
 415107	deu	Nimm welche du willst.
 415108	deu	Die Feiertage stehen an.
-415109	deu	Falls es regnen sollte, wird die Gartenfeier nicht statt finden.
+415109	deu	Falls es regnen sollte, wird die Gartenfeier nicht stattfinden.
 415110	deu	Das was du gesagt hast, erinnert mich an ein altes Sprichwort.
 415111	deu	Ken läuft schneller als du.
 415112	deu	Tue das, was du für richtig hältst.
@@ -48407,7 +48388,6 @@
 415540	eng	The castle is beautiful.
 415541	eng	The word "impossible" isn't in the French language.
 415543	fra	Elle est partie en Amérique avant-hier.
-415545	eng	More haste, less speed.
 415547	fra	Elle n'a pas été mieux malgré le traitement.
 415553	fra	Il n'a pas approuvé le mariage de sa fille.
 415554	eng	This castle is beautiful.
@@ -48943,7 +48923,6 @@
 416305	tat	«Яндекс» эзләү системасы татарча да эшли башлады.
 416306	rus	Поисковая система «Яндекс» начала поддерживать и татарский язык.
 416307	eng	“Yandex” search engine started supporting Tatar language too.
-416308	ukr	Пошукова система «Яндекс» почала підтримувати і татарську мову.
 416309	bel	Пашуковая сістэма «Яндекс» стала падтрымліваць і татарскую мову.
 416310	fra	Montrons maintenant comment ce lemme peut être utilisé pour démontrer notre théorème principal.
 416311	fra	Le lemme 5 ne peut pas être généralisé pour les anneaux artiniens quelconques.
@@ -49958,7 +49937,7 @@
 417338	cmn	他們兩個人都是好學生。
 417339	cmn	她們兩個人都是好學生。
 417340	rus	Он пошёл туда, чтобы помочь мусорщикам мирно бастовать для повышения зарплаты и улучшения условий труда.
-417341	rus	Иногда, я ему не доверяю.
+417341	rus	Иногда я ему не доверяю.
 417342	cmn	你和我都是這個學校的學生們。
 417343	rus	Нам дали тяжёлую работу.
 417344	rus	Бабушка прислала нам ящик с яблоками.
@@ -49998,3 +49977,24 @@
 417378	eng	I couldn't understand anything that he said.
 417379	eng	Both of those students didn't pass the test.
 417380	eng	Both of the students passed all their tests.
+417381	eng	Since I walked very fast, I was in time for the last train.
+417382	fra	Il frappa à la porte.
+417383	eng	He understood the negative outcomes of being wasteful.
+417384	uig	ئۇ ئىسراپچىلىقنىڭ يامان ئاقىۋىتىنى چۈشەندى.
+417385	rus	После долгих праздников не хочется выходить на работу.
+417386	rus	Правительству придётся иметь дело с финансовыми трудностями.
+417387	rus	Мы не уверены, что сможем прийти вечером.
+417388	rus	Солнце встаёт.
+417389	rus	Земля покрыта лесами.
+417390	rus	Официантка, которая обычно меня обслуживает, не стала бы со мной связываться.
+417391	rus	Ты его переоцениваешь.
+417392	rus	Она любит слушать музыку.
+417393	rus	Ты теперь взрослый.
+417394	rus	Когда он на короткое время остался с ней наедине, он попросил её о свидании.
+417395	rus	Я отказываюсь обсуждать этот вопрос.
+417396	rus	Он не может позволить себе новую машину.
+417397	rus	Сегодня годится. Давайте в шесть.
+417398	rus	Он сделал всё, чтобы спасти её.
+417399	rus	Мы женимся в июне.
+417400	fra	Il a la liberté de faire ce qu'il croit correct de faire.
+417401	rus	Мы отлично провели время у моря.

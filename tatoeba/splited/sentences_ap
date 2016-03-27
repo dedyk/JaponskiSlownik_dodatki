@@ -1,67 +1,3 @@
-785079	por	O carro foi destruído em um acidente de trânsito ontem à noite.
-785080	cmn	這個週末去紐約對你來說是不可能的事。
-785081	por	O novo prédio da escola está em construção.
-785082	por	As ações estão em vias de cair hoje.
-785083	por	Você não viu o musical?
-785084	cmn	她抓緊時間地閱讀一本暢銷小說。
-785085	spa	El presidente de la república es elegido por el pueblo.
-785086	por	Eu encontrei uma fonte termal do nada.
-785087	lat	Marcum paenitet erroris sui.
-785088	cmn	這輛公車會載你去博物館。
-785089	por	O seu marido é chato com a comida?
-785090	epo	Tiu historio baziĝas sur veraj faktoj.
-785091	ita	Marco si pente del suo errore.
-785092	cmn	讓我們放輕鬆吧。
-785093	por	Aquela palha pega fogo fácil.
-785094	spa	¿Ella también viene?
-785095	epo	Marko pentas sian eraron.
-785096	fin	Sana tulee kreikan kielestä.
-785097	por	A carteira está coberta de poeira.
-785098	fin	Tykkään kummastakin.
-785099	por	Como não tenho dinheiro suficiente, não posso fazer isso.
-785100	spa	¿Os importa si fumo?
-785101	epo	Mi konsideras lin granda sciencisto.
-785102	por	Meu avô fez que sim com a cabeça para mim.
-785103	spa	¿Cuándo fue construido?
-785104	por	Meu avô meneou para mim dizendo sim.
-785105	cmn	她寫了一手漂亮的好字。
-785106	por	Ela estuda medicina na faculdade.
-785107	cmn	今天沒有人能想像一個沒有電視的生活。
-785108	por	O futon é a nossa cama.
-785109	fin	Pidän häntä suurena tiedemiehenä.
-785110	por	Este é um evento especial.
-785112	cmn	他戴著面具以至於沒有人認出他。
-785113	spa	Te llamaré hacia las 5.
-785114	cmn	他參加攝影社。
-785115	por	A platéia deu um enorme aplauso ao cantor.
-785116	cmn	他們不斷地摸索。
-785117	por	Pode pegar o que quiser de dentro da geladeira.
-785118	spa	Este vestido es muy barato.
-785119	por	Ele logo voltou.
-785121	fin	Anteeksi, mutta saisinko näyttää kolme virhettä yllä olevasta artikkelista.
-785122	por	Aonde você foi no Japão?
-785123	epo	Ne metu ĉiujn ovojn en la saman korbon.
-785124	fin	Kuunteletko ollenkaan minua?
-785125	cmn	孩子因糖果受騙, 大人因誓言上當。
-785126	spa	Cerca de mi casa hay un parque muy bonito.
-785127	cmn	我們的車配備了空調。
-785128	fin	Sakko sylkemisestä on viisi puntaa.
-785129	por	Caso a bagagem atrase, nós temos um seguro especial para atrasos.
-785130	cmn	你看起來很高興。
-785131	jpn	彼は伏兵に会って惨死しました。
-785132	epo	Tiu demandaro tro longas por rapide fini ĝin.
-785133	fin	Tom on asunut Chicagossa jo vuoden.
-785134	cmn	如果我年輕的時候努力工作, 我現在就成功了。
-785135	fin	Varmaankin hän tulee.
-785136	cmn	她在樹林裡迷路了。
-785137	fin	En usko, että sellaisia on olemassa.
-785138	deu	Er geriet in einen Hinterhalt und starb eines gewaltsamen Todes.
-785139	cmn	她非常注意地看著他打開了珠寶盒。
-785140	spa	¿Puedes adivinar lo que tengo?
-785141	fin	Joka poika ja tyttö opetetaan lukemaan ja kirjoittamaan.
-785142	deu	Computer können eine sehr komplexe Aufgabe im Bruchteil einer Sekunde erledigen.
-785143	spa	En agosto no hay clase.
-785144	cmn	他按照字面上的意思。
 785146	cmn	我的頭皮非常癢。
 785147	epo	Komputiloj kapablas efektivigi tre komplikan taskon en ono de sekundo.
 785148	spa	¿Has encontrado ya al señor Smith?
@@ -2529,8 +2465,7 @@
 787695	epo	Ŝi bakis tri kukojn.
 787696	epo	La trajno ekveturas je naŭa horo.
 787697	epo	En la laborejo mi estas la plej juna.
-787698	ita	Dio esiste ma ha dimenticato la password.
-787699	eng	God exists but he forgot the password.
+787698	ita	Dio esiste, ma ha dimenticato la password.
 787700	fra	Dieu existe mais il a oublié le mot de passe.
 787701	epo	Li elĵetis ŝian patron.
 787702	deu	Piraten, Seeräuber und Freibeuter sind keine Synonyme.
@@ -2783,7 +2718,7 @@
 787961	fra	Quelle merveilleuse idée !
 787962	bul	Това е прекалено дълго.
 787963	bul	Моля те, не питай.
-787964	fra	Nous avons dîné un steak et une salade.
+787964	fra	Nous avons dîné d'un steak et d'une salade.
 787965	fra	Il aime lire les journaux.
 787966	bul	Пробвай го пак.
 787967	bul	Опитай това пак.
@@ -4262,7 +4197,7 @@
 789495	spa	El precio de la gasolina sube.
 789496	spa	Mejor deberíais hablar con él personalmente.
 789497	spa	Mejor debería hablar con él personalmente.
-789498	tur	O, genç ile evlendi.
+789498	tur	Gençken evlendi.
 789499	ita	Il poliziotto ha incolpato il tassista per l'incidente.
 789500	deu	Sie bezichtigte mich, ihr Geld gestohlen zu haben.
 789501	deu	Er ging zur Armee.
@@ -8752,19 +8687,16 @@
 794163	eng	Do you want a new world to live in, mirror of your deepest and most truthful desires?
 794165	cmn	我想要订房。
 794166	eng	He repeated the price to him.
-794167	eng	For a temporary taste of another world and a look at your own desires you must pay everything you own, and ten years off your life.
 794168	eng	All that's required is one injection and some electronic devices.
 794169	eng	Is it really worth it?
 794170	eng	He greeted the man, and came back home, to his normal, boring routine.
 794171	eng	He was bored with his family.
 794172	eng	He was bored with his wife, an excellent woman he didn’t deserve.
-794175	eng	He was bored with his job, which made him pass his days closed in an office reflecting about the stock market, business and money.
 794176	eng	He came home soon.
 794177	eng	He finally decided to try.
 794178	eng	He went back to the store.
 794179	eng	The result was really satisfying.
 794181	cmn	我乘几路车去怀基基？
-794182	eng	If he doesn't hurry, he’ll miss the evening potato ration.
 794183	eng	He needs to forget about that woman and his children.
 794184	eng	His own survival is more important now.
 794185	cmn	请帮我叫宾馆保安。
@@ -12060,7 +11992,7 @@
 797581	epo	Ĉu vi havas solvon?
 797582	deu	Darf ich nach Ihrem Gewicht fragen?
 797584	deu	Worüber lachen Sie, bitte schön?
-797585	fra	Une approche plus robuste est certainement possible.
+797585	fra	Une approche plus rigoureuse est certainement possible.
 797586	eng	A more robust approach is certainly possible.
 797587	srp	Čemu se Vi smejete, molim lepo?
 797588	epo	Pri kio ili ridas, mi petas?
@@ -12959,7 +12891,7 @@
 798530	epo	Ĉu vi havas iun ĉemizon blankan?
 798531	deu	Das Auto hatte eine Panne.
 798532	isl	Brúðurin hló skyndilega.
-798533	deu	Viele Soldaten erlitten schreckliche Verwundungen in der Schlacht
+798533	deu	Viele Soldaten erlitten schreckliche Verwundungen in der Schlacht.
 798534	deu	Sie zogen ihr Boot auf den Strand.
 798536	pes	زمستان سردترین فصل است.
 798537	pes	در حال حاضر برای تعطیلات برنامه‌ریزی می‌کنیم.
@@ -16170,7 +16102,7 @@
 801839	fra	Le problème est que je ne peux pas me souvenir où j'ai garé la voiture.
 801840	epo	El serio de nuloj oni facile faras ĉenon.
 801841	fra	Le grand incendie réduisit toute la ville en cendres.
-801842	deu	Ich schloß die Tür leise, um das Baby nicht zu wecken.
+801842	deu	Ich schloss die Tür leise, um das Baby nicht zu wecken.
 801843	deu	Das schwächste Glied einer Kette ist ihr stärkstes. An ihm reisst die Kette.
 801844	epo	Ĉeno estas tiel forta, kiel ĝia plej malforta ĉenero. Tie la ĉeno ŝiriĝas.
 801845	deu	Es gab Zeiten, da man Sklaven legal kaufen konnte.
@@ -16214,7 +16146,7 @@
 801883	epo	Dum jaroj Tom suferis de migrenaj kapdoloroj.
 801884	epo	Mi malamas vidi bestojn suferi.
 801885	cmn	我们今天不是要去公园吗？
-801886	fra	Après un bref discours, le maire pris quelques questions des journalistes.
+801886	fra	Après un bref discours, le maire prit quelques questions des journalistes.
 801887	cmn	啊？我们说过要去公园吗？我没有印象。
 801888	fra	Ce qu'il voyait n'était pas un fantôme mais juste le fruit de son imagination.
 801889	eng	Eh? We said we'd go to the park? I didn't realise.
@@ -22034,7 +21966,7 @@
 807819	epo	Estis en la dumila jaro.
 807820	epo	Ĉi-semajnfine, se eblas.
 807821	nds	Öösterriek is al 1978 ut de Atomenergie utstegen.
-807822	deu	Der Hund wird von der Famlie "Spot" genannt.
+807822	deu	Der Hund wird von der Familie "Spot" genannt.
 807823	nds	De Sellschop hett en Kaptaal von 500.000.
 807824	nds	He is na de Swiez föhrt.
 807825	nds	Wo lang duurt dat?
@@ -23579,7 +23511,7 @@
 809447	nld	Men moet minstens één vreemde taal leren.
 809448	nds	Ken is öller as Seiko.
 809449	fra	Un beau mensonge est plus facile à croire que la vérité.
-809450	deu	Lisa spricht nicht nur englisch, sondern auch französisch.
+809450	deu	Lisa spricht nicht nur Englisch, sondern auch Französisch.
 809451	nds	Twee Schölers fehlt vondaag.
 809452	fra	Ne fais rien que je ne ferais.
 809453	deu	Diese Insel war französisch gewesen.
@@ -23970,7 +23902,7 @@
 809846	deu	Wenn Ufos die Welt angriffen, was würde aus uns werden?
 809847	fra	C'est une offre tentante mais je crains de devoir vous la décliner.
 809848	eng	Some of the roses in my garden are white, and others are red.
-809849	fra	L'injection du tétanos fait plus mal que la morsure du chien.
+809849	fra	L'injection du tétanos fit plus mal que la morsure du chien.
 809850	deu	Ich seh' die Mutter und ihr Kind, seh' allergrößte Not; weil Lieb' und Sorg' abhanden sind, ist kleine Seele tot.
 809851	fra	L'instituteur remplaçant était sympa mais pas très futé.
 809852	fra	La rue principale était bouclée toute la matinée pour la parade.
@@ -24393,7 +24325,6 @@
 810295	rus	Люди могут быть счастливы, только если счастье не является целью их жизни. (Оруэлл)
 810296	eng	Feel free to stay.
 810298	rus	Много говорить и много сказать — не одно и то же. (Софокл)
-810299	rus	Молодость счастлива тем, что у неё есть будущее. (Гоголь)
 810301	rus	Люди едят, чтобы жить, а не живут, чтобы есть.
 810302	epo	Ni scias, kio ni estas, sed ni ne scias, kio ni povas esti.
 810303	rus	Мы знаем, кто мы, но не знаем, кем можем быть.
@@ -25669,7 +25600,7 @@
 811597	ukr	Евріка!
 811598	rus	Хелен по натуре оптимистка.
 811599	eng	Their attitude is very ridiculous!
-811600	rus	Он выпил чашку чая, и попросил другую.
+811600	rus	Он выпил чашку чая и попросил другую.
 811601	rus	Я боюсь, твой план не сработает.
 811602	rus	У меня нет возражений против твоего плана.
 811603	rus	Большое спасибо! Я жив.
@@ -28751,7 +28682,7 @@
 814800	fra	Dans certaines cultures, un rot retentissant après un repas est considéré comme un compliment au chef.
 814801	fra	J'ai demandé au boucher de dégraisser la viande.
 814802	fra	La puanteur de la viande en décomposition nous submergea tandis que nous pénétrions dans la pièce.
-814803	fra	Ce modèle particulier à une durée de vie de la batterie très faible.
+814803	fra	Ce modèle particulier a une durée de vie de la batterie très faible.
 814804	fra	Les amoureux tombaient dans les bras l'un de l'autre à chaque occasion qui leur était donnée.
 814805	fra	Tracez deux cercles concentriques de diamètres différents.
 814806	fra	Je donnai dix balles de pourboire au taxi pour m'avoir emmené à l'heure à l'aéroport.
@@ -30332,7 +30263,7 @@
 816430	cmn	他在20岁的时候写了这本书。
 816431	cmn	他感觉就好像有东西爬上了他的腿。
 816432	cmn	他们任命他为经理。
-816433	hun	Büszke arra, hogy szép volt az Ifjúkora.
+816433	hun	Büszke arra, hogy ifjúkorában szép volt.
 816434	cmn	那辆车十分新。
 816435	fra	Votre question ne concerne pas le sujet discuté.
 816436	cmn	大多数男生喜欢电脑游戏。
@@ -32453,7 +32384,7 @@
 818636	nld	Kom mij een bezoek brengen.
 818638	bul	Млечният път е един огромен пояс от далечни звезди, които приличат на нашето слънце.
 818639	bul	Ти пристигна преди три дена.
-818640	nld	Spinnen maken graag spinnewebben.
+818640	nld	Spinnen maken graag spinnenwebben.
 818641	ina	Ille progrede multo ben con su anglese.
 818642	spa	Ella llevaba un hermoso vestido.
 818643	nld	Deze zomer ga ik naar Frankrijk.
@@ -32938,7 +32869,7 @@
 819135	nld	Ik wacht al urenlang.
 819136	epo	Li ploris pro malsato.
 819137	nld	Ik zal je schrijven of volgende week opbellen.
-819138	rus	Борьба за гражданские права началась в 1954ом году в Соединённых Штатах, когда государство заявило, что школа должна быть доступна всем.
+819138	rus	Борьба за гражданские права в Соединённых Штатах началась в 1954 году, когда государство заявило, что школа должна быть доступна всем.
 819139	nld	Als hij vloeiend Engels spreekt, neem ik hem aan.
 819140	nld	Als je blauw en rood mengt, krijg je paars.
 819141	nld	Je moet vertrekken.
@@ -33423,7 +33354,7 @@
 819636	fra	Bon maintenant regarde, nous avons risqué notre peau pour toi. Tu pourrais au moins montrer un peu de reconnaissance.
 819637	fra	Avec un peu d'huile de coude, on va remettre ça en état en un rien de temps.
 819638	fra	Tu vois, je n'ai aucun doute qu'au pire, elle jouera du galon sur toi pour parvenir à ses fins.
-819639	fra	L'information sera délivrée sur la base de la nécessité.
+819639	fra	L'information sera délivrée en fonction de la nécessité.
 819640	epo	Vi nepre iru tien.
 819641	epo	Ŝi ofte matenmanĝas tie.
 819642	fra	J'ai un ongle de pied incarné qui me fait vraiment chier.
@@ -34886,7 +34817,7 @@
 821147	ina	Le can espaventava via le infantes.
 821148	nld	Laat eens zien hoe je dat doet.
 821149	ina	Nemo pote facer duo cosas simul.
-821150	nld	Dit hoofstuk gaat over de begrippen van de meetkunde.
+821150	nld	Dit hoofdstuk gaat over de begrippen van de meetkunde.
 821151	nld	Leen me alsjeblieft je mes.
 821152	ina	Iste torta es multo dulce.
 821153	nld	De temperatuur is 70 graden.
@@ -34995,7 +34926,7 @@
 821260	ina	Un juvene can es appellate un "puppy".
 821261	nld	Zij wilde liefst meteen trouwen.
 821262	nld	Het materiële bepaalt niet ons leven, maar het spirituele.
-821263	nld	Natuurlijk hebben ze locale ziekenhuizen.
+821263	nld	Natuurlijk hebben ze lokale ziekenhuizen.
 821264	nld	Handen uit de mouwen!
 821265	nld	Nu is alles in orde.
 821266	nld	Hoe meer je eet, hoe dikker je wordt.
@@ -36301,7 +36232,7 @@
 822602	deu	Niemand sah den Vogel fliegen.
 822603	fra	Tom parle deux langues étrangères.
 822604	deu	Obwohl ich die letzten sechs Jahre Englisch in der Schule hatte, kann ich es immer noch nicht sprechen.
-822605	fra	Après des années, on trouve leurs squelettes enlacés.
+822605	fra	Après des années, on a retrouvé leurs squelettes enlacés.
 822606	deu	Es hängt von deiner Entscheidung ab.
 822607	swe	Den här är ny.
 822608	deu	Was auch immer geschieht, ich werde bis zum bitteren Ende an meinen Prinzipien festhalten.
@@ -37249,7 +37180,7 @@
 823581	eng	My new can opener is sturdier than the old one, so hopefully it won't take 2 minutes to get at my beans anymore.
 823582	fra	Votre numéro de chambre, s'il vous plait ?
 823583	nld	Ze heeft de hele nacht dat boek gelezen.
-823584	epo	Sen lia neagemo li estus simpatiulo.
+823584	epo	Sen sia neagemo li estus simpatiulo.
 823585	fra	Il est le meilleur pour ce projet.
 823586	eng	Simmer the butter and garlic in a small saucepan.
 823587	ara	تبدأ الملاعق الخشبية بالتعفن، إنْ تُرِكتْ في المغسلة وقتًا طويلا.
@@ -38000,7 +37931,7 @@
 824371	fin	He puhuivat rakkaudesta.
 824372	cmn	突然刮起一陣風，走鋼索的人失去了平衡便摔死了。
 824373	jpn	トーニー君の本です。
-824374	fin	Se on ääni jonka kuulet kun kaikki on hiljaista.
+824374	fin	Se on ääni, jonka kuulet, kun kaikki on hiljaista.
 824375	fra	Elle brosse ses cheveux.
 824376	fra	Elle se brosse les cheveux.
 824377	fin	Gordon on kiinnostunut japanilaisesta elämäntavasta.
@@ -40147,7 +40078,6 @@
 826598	ita	Quando vi sposerete?
 826599	eng	There was a rap at the door.
 826600	deu	Versuchen wir's!
-826601	eng	Jo got a rap on the knuckles for not spotting the problem sooner.
 826602	eng	There's no way I’m taking the rap for his mistakes.
 826603	deu	Ich möchte einen Kaffee trinken.
 826604	eng	A strange figure suddenly came through the door.
@@ -43557,9 +43487,9 @@
 830148	ita	Sono felice di incontrarvi.
 830149	bul	Тази фабрика прави играчки.
 830150	bul	Аз съм нощна птица.
-830151	hun	Ne hazudj. Legyél őszinte.
+830151	hun	Ne hazudj! Legyél őszinte!
 830152	bul	Аз ще се присъединя към вас по-късно.
-830153	hun	Ne hazudjon. Legyen őszinte.
+830153	hun	Ne hazudjon! Legyen őszinte!
 830154	bul	Приключихме със закуската.
 830155	bul	Той ще дойде скоро.
 830156	ita	Non siamo riusciti a persuaderlo.
@@ -43812,7 +43742,7 @@
 830409	pol	Keats należy do romantyków.
 830410	epo	Li ebrietis, kio malbone impresis la policiston.
 830411	cmn	那個地點的書店無法賺足夠的錢生存下去。
-830412	epo	Kiam li ekvidis la policiston, li forkuris.
+830412	epo	Ekvidante la policiston, li tuj forkuris.
 830413	cmn	十七歲的男孩常常長得和他父親一樣高。
 830414	epo	Li forkuris, kiam li ekvidis la policiston.
 830415	cmn	一個句子以一個大寫字母開始。
@@ -44037,7 +43967,7 @@
 830637	deu	Einige freuen sich, das Volk leidet.
 830638	eng	Latest census data shows that the total population of the country is slightly above 7 million people.
 830639	deu	Es ist nützlich, jeden Morgen und jeden Abend einen Apfel zu essen.
-830640	deu	Es ist sehr angenehm, an duftenden Blumen zu riechen
+830640	deu	Es ist sehr angenehm, an duftenden Blumen zu riechen.
 830641	bul	За десетте години от последното преброяване, населението е намаляло със 7.15%
 830642	eng	For the ten years since the last census the population has shrunk by 7.15%.
 830643	deu	Im Dschungel gibt es viele hohe Bäume und verschiedene Gräser.
@@ -45161,7 +45091,7 @@
 831779	rus	Когда я бываю печальным, друзья снова делают меня весёлым.
 831780	rus	Когда я бываю печальным, друзья возвращают меня к веселью.
 831781	rus	У страуса есть крылья, но он не может летать.
-831782	rus	Первая мировая война была начата в 1914 году.
+831782	rus	Первая мировая война началась в 1914 году.
 831783	rus	Её волосы очень короткие.
 831784	rus	Я спросил его об аварии.
 831786	lat	Peccavi.
@@ -47069,7 +46999,7 @@
 833756	hun	Ha jó egészségben lennék, tudnám folytatni a tanulmányaimat.
 833757	hun	Apámnak sok könyve van.
 833758	hun	Azt mondják, a golf nagyon népszerű Japánban.
-833759	hun	A fiú testvéred nem fogja megvenni.
+833759	hun	A fiútestvéred nem fogja megvenni.
 833760	hun	A napenergia egy új forrása az energiának.
 833761	hun	Nagyon jó, köszönöm.
 833762	hun	Csuklom.
@@ -47408,7 +47338,7 @@
 834109	jbo	la janlik. cu dunda lo cukta be fi la ceikspir. la bevrlis.
 834110	rus	Если ты свободен, то я хотел бы тебя пригласить на чашку кофе.
 834111	nds	Jean-Luc gifft Beverly dat Book vun Shakespeare.
-834112	rus	На кухне есть кошка.
+834112	rus	На кухне кошка.
 834113	fra	La fréquence des tremblements de terre récemment nous rend nerveux.
 834114	nds	He deed sien Mund wied apen.
 834115	nds	Sütt ut, as wenn he de Wohrheid wüsst hett.
@@ -49918,7 +49848,7 @@
 836722	hun	Szeretnél még kávét?
 836723	hun	Csak vásárolni megy.
 836724	nds	He snackt en beten Greeksch.
-836725	hun	A bárány meg lett ölve, a farkas tette.
+836725	hun	A bárányt egy farkas ölte meg.
 836726	nds	Dit is en Bispeelsatz.
 836727	fra	Il a des rudiments de grec.
 836728	fra	Il a quelques notions de grec.
@@ -49998,3 +49928,73 @@
 836805	ita	Lo sportello della macchina non chiude bene.
 836806	eng	The car door doesn't close properly.
 836807	nds	Ji staht nich so froh op as joon öllere Süster, ne?
+836808	ita	Andiamo a visitare un convento?
+836809	ita	Siamo appena andati a visitare un convento.
+836810	nds	Wenn du dien Plicht nich deist, denn doot de Lüüd op di rafkieken.
+836811	pes	تلفن اختراع بل در سال 1876 بود.
+836812	pes	عینک شما افتاد زمین.
+836813	nds	Dat is dien Book.
+836814	nds	Ik heff dree Maand later en Breev kregen.
+836815	nds	As he den Hund fodert harr, hett he sik sülvens hensett un Avendeten hatt.
+836816	nds	Ik heff en Poor Schoh köfft.
+836817	nds	Em weer, dat dat ne’e Gesett sien Freeheid minnern schull.
+836818	nds	Ik kunn mien Ohren kuum glöven, as ik de Narichten höört heff.
+836819	nds	Wat maakt Tony?
+836820	nds	He deed Ann freen.
+836821	nds	Wo smeckt disse Supp?
+836822	nds	Dat is mien CD.
+836823	nds	Dat gifft na ’e Arbeid en Party.
+836824	nds	Wetenschop hett de Atoombumm bröcht.
+836825	nds	Ik wull lever dood wesen as di to freen!
+836826	nds	’Keen is de Schriever von dissen Romaan?
+836827	nds	He mag geern Appelsienen.
+836828	vie	Tôi không thích anh đâu.
+836829	vie	Ông ấy đóng một vai trò quan trọng trong doanh nghiệp.
+836830	nds	Gifft nix, wat beter is as en hitt Bad.
+836831	nds	Beter as nix.
+836832	nds	Treck dien Schoh ut.
+836833	vie	Bob hỏi giáo viên một vài câu hỏi.
+836834	nds	De Lamp deed utgahn un allens weer düüster.
+836835	nds	Ik weer jüst in ’t Bedd gahn, as dat Telefoon klingel.
+836836	nds	Dat Kleed is ut Sied.
+836837	fra	Le pilote a couru pour Ferrari de 1995 à 1999.
+836838	fra	L'Italien moyen existe-t-il réellement ?
+836839	fra	T'as gagné à la loterie ? Impossible !
+836840	rus	Она усмехнулась с грустным всепрощающим превосходством.
+836841	fra	Je ne possède pas cette phrase.
+836842	fra	Je possède cette phrase.
+836843	epo	Ŝi subridis kun malgaja ĉionindulga supereco.
+836844	tur	İğne onun parmağına battı ve kanamaya başladı.
+836845	nld	Zij kleedt zich altijd in het zwart.
+836846	eng	I don't like you.
+836847	tur	Ne var ne yok!
+836848	tur	Ya yağmur yağarsa ne yaparız.
+836849	nld	Waarom kom je mij eens niet opzoeken?
+836850	tur	Nihayet doktor olma hayali gerçekleşti.
+836851	wuu	搿生活看上去蛮简单个，不过花了我一个礼拜。
+836852	nld	Ik droomde dat ik een vogel was.
+836853	tur	Sonunda yüz yüze geldiler.
+836854	rus	Она сидела в тени изнывая от жары и обмахивалась глянцевым журналом.
+836855	wuu	侬勿想闭一歇嘴巴吗？
+836856	epo	Ŝi sidis en ombro suferante pro la varmego kaj svingante por ventumo per magazino.
+836857	rus	Он искоса поглядывал на её ноги.
+836858	epo	Li oblikve rigardetis al ŝiaj kruroj.
+836859	rus	Он говорил на эсперанто с сильным русским акцентом.
+836860	epo	Li parolis Esperante kun forta rusa misprononco.
+836861	rus	Упругая, гибкая, смуглая Аня слывёт отменным специалистом рукопашного боя.
+836862	epo	Elasta, fleksema, brunhaŭta Anjo famas kiel perfekta specialisto pri miksbatalo.
+836863	isl	Mig dreymdi að ég væri fugl.
+836864	fra	La thermos de thé a été remplie jusqu'à ras bord.
+836865	rus	Мальчик стоял столбом.
+836866	epo	La knabo staris kiel fosto.
+836867	rus	Он держал себя победителем.
+836868	epo	Li tenis sin kiel venkinto.
+836869	fra	Le roi de la blague n'est donc pas venu ?
+836870	rus	Он пришел гостем.
+836871	fra	Le roi du mytho n'est donc pas venu ?
+836872	epo	Li venis kiel gasto.
+836873	eng	I think there's a balance to be had.
+836874	rus	Она будет выбрана жертвой.
+836875	epo	Ŝi estos elektita kiel viktimo.
+836876	fra	Je pense qu'il faut trouver un équilibre.
+836877	tur	Onun ne söylediğini hatırlıyorum.
