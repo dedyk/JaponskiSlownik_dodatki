@@ -1,5 +1,3 @@
-53130	eng	Jack speaks English.
-53131	eng	Jack is an evil boy full of evil ideas.
 53132	eng	Jack once gave a helping hand to Robert, who was in trouble; and now Robert, in turn, is of great help to Jack.
 53133	eng	Jack made me go there against my will.
 53134	eng	Jack can speak French.
@@ -94,7 +92,7 @@
 53228	eng	Jim awoke and found himself alone in the room.
 53229	eng	Jim drove too fast, which was reckless.
 53230	eng	Jim is not a lawyer but a doctor.
-53231	eng	Jim is master of French and German.
+53231	eng	Jim mastered French and German.
 53232	eng	Jim went fishing from the pier.
 53233	eng	Jim accompanied her on the piano.
 53234	eng	Jim went back to London for the purpose of seeing her.
@@ -1345,7 +1343,6 @@
 54558	eng	A computer is an absolute necessity now.
 54559	eng	Computers are capable of doing extremely complicated work.
 54560	eng	Computers have made rapid progress.
-54562	eng	The computer is often compared to the human brain.
 54563	eng	Computers are of great use.
 54564	eng	Computers are constantly being improved.
 54565	eng	Computers have invaded every field.
@@ -3578,7 +3575,7 @@
 56949	eng	This book is within the capacity of children.
 56950	eng	This book is meant for children.
 56951	eng	This book is divided into four parts.
-56952	eng	This book costs 3000 yen.
+56952	eng	This book costs 3,000 yen.
 56953	eng	The last leaf of this book is missing.
 56954	eng	This book is selling well these days.
 56955	eng	This book is too expensive. I can't afford to buy it.
@@ -3830,7 +3827,6 @@
 57223	eng	Can he write this character?
 57227	eng	Let's learn this sentence by heart.
 57228	eng	This sentence is grammatically correct.
-57229	eng	This sentence is capable of being interpreted two ways.
 57230	eng	You should rewrite this sentence. It does not make sense.
 57232	eng	The meaning of this sentence is ambiguous.
 57233	eng	Make this sentence a little shorter.
@@ -12238,7 +12234,7 @@
 66280	eng	How ever did you find it?
 66281	eng	Why should you think so?
 66282	eng	How come he is going to accept the proposal?
-66283	eng	What ever do you mean?
+66283	eng	Whatever do you mean?
 66285	eng	How on earth did you get it?
 66289	eng	Why on earth did you give him such a name?
 66290	eng	Where the hell are you going?
@@ -26245,7 +26241,7 @@
 81006	jpn	眠いから帰ります。
 81007	jpn	眠いですか？
 81008	jpn	眠い！
-81009	jpn	民族的少数派は偏見、貧困、抑圧と戦っている。
+81009	jpn	少数民族は偏見、貧困、抑圧と戦っている。
 81010	jpn	民生用・産業用を含めて、ゴミのかさをコンパクト化する機器の今後の市場成長性が法制度の動向と関連して注目される。
 81011	jpn	民衆は支配者たちに反抗した。
 81012	jpn	民衆は残酷な暴君によって虐げられていた。
@@ -27437,7 +27433,7 @@
 82215	jpn	僕の時計はどこだ。
 82216	jpn	僕の時計はどこか具合が悪い。
 82217	jpn	僕の時計どこにあるか知らない。
-82218	jpn	僕の事好き？
+82218	jpn	僕のこと好き？
 82219	jpn	僕の姿を見ると、彼らは急に話をやめた。
 82220	jpn	僕の姉が大躍進だよ。
 82221	jpn	僕の錆付いたフォードが故障して、交差点を塞いでしまった。
@@ -30307,7 +30303,7 @@
 85128	jpn	不運にもＡＬＳにかかってしまったことは別として、私は、他のほとんどすべての天で幸運であった。
 85129	jpn	不運にも、彼はその事故で脚を折ってしまった。
 85130	jpn	不運なことに彼はパスポートを無くしてしまった。
-85131	jpn	不意打ちを食う。
+85131	jpn	不意打ちを食らった。
 85132	jpn	不意を討たれて私は何も言う事を思い付かなかった。
 85133	jpn	不意を打たれて、私は返事に困った。
 85134	jpn	不意をつかれて、私は一言も言えなかった。
@@ -49998,3 +49994,7 @@
 104898	jpn	彼は自分の成功は努力の結果だといった。
 104899	jpn	彼は自分の成功は努力したせいだと言った。
 104900	jpn	彼は自分の身辺を整理した。
+104901	jpn	彼は自分の成功に決して満足していなかった。
+104902	jpn	彼は自分の真意を漏らしてしまった。
+104903	jpn	彼は自分の神を堅く信じていた。
+104904	jpn	彼は自分の新車を見せびらかせた。
