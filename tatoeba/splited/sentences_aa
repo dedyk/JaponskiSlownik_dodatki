@@ -119,7 +119,7 @@
 124	deu	Die meisten Leute denken, ich sei verrückt.
 125	deu	Nein, ich bin es nicht, du bist es!
 126	deu	Das war mein Satz!
-127	deu	Er tritt mich!!
+127	deu	Er tritt mich!
 128	deu	Bist du sicher?
 129	deu	Dann haben wir ein Problem...
 130	deu	Oh, da ist ein Schmetterling!
@@ -481,7 +481,7 @@
 500	deu	Die Mathematik ist der Teil der Wissenschaft, den man weiter betreiben könnte, wenn man morgen aufwachen würde und entdecken würde, dass das Universum weg ist.
 501	deu	Meine Augen sind ein Ozean, in dem sich meine Träume spiegeln.
 502	deu	Ihr kennt den Satz, wir ernten, was wir säen. Ich habe den Wind gesät und hier ist mein Sturm.
-503	deu	Schau' mich an, wenn ich mit dir rede!
+503	deu	Schau mich an, wenn ich mit dir rede!
 504	deu	Was wäre die Welt ohne Frauen?
 505	deu	Was wäre, wenn du eine Rede halten würdest, und niemand käme?
 506	deu	Ich weiß nicht, was ich sagen soll, um dich zu trösten.
@@ -724,7 +724,7 @@
 755	deu	Jason war ein wortkarges Individuum, daher war es immer eine echte Überraschung, wenn er etwas sagte.
 756	deu	Der König war seiner Schmeichler, die ihn beständig anpriesen, müde, also schickte er sie weg.
 757	deu	Wenn Spenser nicht weiterhin Sätze hinzufügt und übersetzt, werden die anderen Mitwirkenden ihn sicher übertreffen.
-758	deu	In seinen Aufsätzen war immer zuviel Überflüssiges geschrieben.
+758	deu	In seinen Aufsätzen war immer zu viel Überflüssiges geschrieben.
 759	deu	Sein Aufsatz gab nur eine oberflächliche Analyse des Problems, daher war es eine richtige Überraschung für ihn, als er die beste Note in der Klasse bekam.
 760	deu	Es kommt darauf an, was du mit an Gott "glauben" meinst.
 761	deu	Professoren sollten alles im Detail erklären, nicht knapp sein und immer ihren Studenten auftragen, heimzugehen und ihre Bücher zu lesen.
@@ -2109,7 +2109,7 @@
 2186	eng	The elevators in a skyscraper are vital systems.
 2187	eng	Fruits and vegetables are essential to a balanced diet.
 2188	eng	Cheese is a solid food made from the milk of cows, goats, sheep, and other mammals.
-2189	eng	I still don't like Cavalieri, Tonelli and Fubini... and tomorrow I already have my calculus oral exam.
+2189	eng	I still don't like Cavalieri, Tonelli, or Fubini... and my oral calculus exam is already tomorrow.
 2190	eng	I usually take a shower in the evening.
 2191	eng	He spent the evening reading a book.
 2192	eng	You have been thinking about this problem the whole morning. Take a break; go eat lunch.
@@ -6110,7 +6110,7 @@
 6271	fra	J'étudie les mathématiques plus sérieusement que l'anglais.
 6272	fra	J'espère partir de Tokyo pour quelques jours.
 6273	fra	Le chef de service a modifié le plan.
-6274	fra	C'est les math que j'aime le moins.
+6274	fra	Ce sont les maths que j'aime le moins.
 6275	fra	Je n'aime pas les maths, encore moins la physique.
 6276	fra	Je l'ai rencontré plusieurs fois.
 6277	fra	Je suis fait pour chanter en public.
@@ -7326,7 +7326,6 @@
 7548	fra	Le passe-temps de mon père est la pêche.
 7549	fra	J'ai l'habitude de prendre une douche le matin.
 7550	fra	Je suis humain.
-7551	fra	Je suis un étudiant.
 7552	fra	J'ai perdu mon appareil photo l'autre jour.
 7553	fra	Je n'avais pas conscience qu'un homme me regardait.
 7554	fra	J'ai commandé de nouveaux meubles.
@@ -10713,7 +10712,7 @@
 11052	fra	La mère de Cookie mourut d'un cancer.
 11053	fra	Cookie a été élevé par Kate.
 11054	fra	Il dort profondément.
-11055	fra	Sois calme et met l'autre personne à l'aise.
+11055	fra	Sois calme et mets l'autre personne à l'aise.
 11056	fra	Kumi joue au tennis maintenant.
 11057	fra	Clive veut être ingénieur en électronique.
 11058	fra	Mme Crouch, avez-vous un emploi ?
@@ -12472,7 +12471,7 @@
 12874	fra	Au fait, où habitez-vous ?
 12875	fra	Au fait, serais-tu libre ce soir ?
 12877	fra	Il est plutôt optimiste.
-12878	fra	Je ferai mieux de ne pas partir.
+12878	fra	Je ferais mieux de ne pas partir.
 12879	fra	Je ferais mieux de sortir.
 12880	fra	Je n'arrive pas à me rappeler laquelle est ma raquette.
 12881	fra	Mangez celui qui vous plait.
@@ -12978,11 +12977,11 @@
 13404	fra	Mike a été élu président.
 13405	fra	Mike a appelé son chien Spike.
 13406	fra	Tout le monde sauf Mike étaient présents à la fête.
-13407	fra	Michael, voici le restaurant ou ton père et moi avons eu notre premier rendez-vous.
+13407	fra	Michael, voici le restaurant où ton père et moi avons eu notre premier rendez-vous.
 13408	fra	Michael a été vu en train de partir par la porte latérale.
 13409	fra	Mac Beth leva une armée pour attaquer son ennemi.
 13410	fra	Mère Thérésa était une sœur catholique qui vivait et travaillait à Calcutta en Inde.
-13411	fra	Je n'irais pas jusqu'à dire de telles choses.
+13411	fra	Je n'irai pas jusqu'à dire de telles choses.
 13412	fra	Crois-le ou non, elle a trois enfants.
 13413	fra	C'était la dernière personne que je m'attendais à voir.
 13414	fra	Masaru s'est marié aujourd'hui.
@@ -13009,7 +13008,7 @@
 13435	fra	J'espère que nous nous reverrons un jour.
 13436	fra	Au revoir !
 13437	fra	J'espère que je te reverrai.
-13438	fra	Je dois t'avertir que si tu refais ça à nouveau, tu seras puni.
+13438	fra	Je dois t'avertir que si tu refais ça, tu seras puni.
 13439	fra	Êtes-vous encore dans les parages ?
 13440	fra	Oh, viens.
 13441	fra	Quel plaisir d'être à Hawaii à nouveau.
@@ -13450,7 +13449,7 @@
 13905	fra	Ce n'est pas bon de lire dans une pièce sombre.
 13906	fra	Il commence à faire nuit. Tu ferais mieux de rentrer chez toi.
 13907	fra	Reviens à la maison avant que la nuit tombe.
-13908	fra	Je veux arriver à l'hôtel avant qu'il fasse nuit.
+13908	fra	Je veux arriver à l'hôtel avant qu'il ne fasse nuit.
 13909	fra	Il fait trop sombre pour jouer dehors.
 13910	fra	Une lumière rouge luisait dans l'obscurité.
 13911	fra	J'avais peur de me perdre dans le noir.
@@ -13734,7 +13733,7 @@
 14263	fra	Je pense que je n'y perdrai pas sur le long terme.
 14264	fra	Il faisait nuit quand nous sommes arrivés au village.
 14265	fra	Je dois à mes parents d'être qui je suis aujourd'hui.
-14266	fra	C'est grâce à ma mère que je suis qui je suis aujourd'hui.
+14266	fra	Tout ce que je suis aujourd'hui, c'est grâce à ma mère.
 14269	fra	Je suis en bons termes avec lui.
 14270	fra	Laissez-moi voir un peu, s'il vous plaît.
 14271	fra	En ce qui me concerne, je ne lui fais pas du tout confiance.
@@ -13888,7 +13887,7 @@
 14520	fra	Il peut parfaitement élever la voix quand il est en colère.
 14522	fra	Il était absent pour cause de maladie.
 14524	fra	Il a survécu à un crash aérien.
-14526	fra	Il s'est retourné sur moi avant d'embarquer dans l'avion.
+14526	fra	Il s'est retourné vers moi avant d'embarquer dans l'avion.
 14528	fra	Pouvez-vous vous débrouiller sans dictionnaire d'anglais ?
 14529	fra	Il a tenu un carnet de voyage pendant son périple.
 14530	eng	You told her that you had finished the work three days before.
@@ -15409,7 +15408,7 @@
 16128	eng	You have a little fever today, don't you?
 16129	eng	It would be better for you to stay in bed today.
 16130	eng	You look pale today.
-16131	eng	You had better not go out today.
+16131	eng	You'd better not go out today.
 16132	eng	You must not go out today.
 16133	eng	You had better not see her today.
 16136	eng	You look very charming today.
@@ -15523,7 +15522,7 @@
 16250	eng	You may go anywhere.
 16251	eng	What time are you going on duty?
 16252	eng	What time will you get to the station?
-16253	eng	You are too suspicious about everything.
+16253	eng	You're too suspicious about everything.
 16254	eng	How many books do you have?
 16255	eng	What are you looking for?
 16256	eng	What are you looking at?
@@ -19317,7 +19316,7 @@
 20355	eng	I want to get away from the rat race.
 20356	eng	The barometer is falling. It is going to rain.
 20357	eng	I had enough sense to get out of there.
-20358	eng	Look out! There is a car coming.
+20358	eng	Look out! There's a car coming.
 20359	eng	Look out! There's a hole in the road.
 20361	eng	She'll get the better of you if you aren't careful.
 20362	eng	Take care.
@@ -23654,7 +23653,7 @@
 24968	eng	Please get whatever you like.
 24969	eng	Jack of all trades, and master of none.
 24970	eng	You can't hope to have your own way in everything.
-24971	eng	It is not possible to do if there is not every motivation.
+24971	eng	Without motivation, nothing can be achieved.
 24972	eng	It was nothing.
 24973	eng	I'll do anything.
 24975	eng	Stop making a fuss over nothing.
@@ -23804,7 +23803,6 @@
 25139	eng	Had he known what was about to happen, he would have changed his plan.
 25140	eng	What would happen?
 25141	eng	It is unexpected what breaks out.
-25142	eng	You never know what will happen.
 25143	eng	There is no predicting what may happen.
 25144	eng	There is no telling what will happen.
 25145	eng	There is no knowing what may happen.
@@ -24541,7 +24539,7 @@
 25934	eng	His pride didn't allow him to ask for help.
 25935	eng	I need somebody to help me.
 25936	eng	I am very grateful to you for your help.
-25937	eng	Hatreds never cease by hatreds in this world.
+25937	eng	Hatred is never appeased by hatred in this world.
 25938	eng	There was a continuous line of cars.
 25939	eng	Procrastination is the thief of time.
 25940	eng	The banquet was in full swing.
@@ -26983,7 +26981,6 @@
 28573	eng	The instant I open the lid an offensive smell greets my nose.
 28574	eng	It is not easy to get rid of a bad habit.
 28575	eng	It's easy to fall into bad habits.
-28576	eng	Pernicious propaganda.
 28577	eng	Bad drivers should have their licenses taken away from them.
 28579	eng	Malicious gossip spreads like wildfire. I guess that's why they say bad news travels fast.
 28580	eng	Well, they say bad news travels fast.
@@ -28086,7 +28083,7 @@
 29745	eng	It's easy to lose track of time when you are in Las Vegas.
 29746	eng	Last call!
 29747	eng	Listening to the radio, I heard the telephone ring.
-29748	eng	While listening the radio, I fell asleep.
+29748	eng	While listening to the radio, I fell asleep.
 29749	eng	I'm listening to the radio.
 29750	eng	I had my radio repaired by him.
 29751	eng	Who is the inventor of the radio?
@@ -29079,7 +29076,7 @@
 30801	eng	If I were a boy, I could join a baseball team.
 30802	eng	If I had worked hard in my youth, I would be successful now.
 30803	eng	If I knew the truth, I would tell you.
-30804	eng	If I were to die, what would my family do.
+30804	eng	If I were to die, what would my family do?
 30805	eng	If I were in your place, I would lend him a hand.
 30806	eng	Were I in your position, I would oppose that plan.
 30807	eng	If I were in your place, I would not do so.
@@ -29327,7 +29324,7 @@
 31068	eng	If he had been with me then, I would not have done such a thing.
 31069	eng	If he had not met with that accident, he would be alive now.
 31070	eng	If I had been in time for the train, I would be there now.
-31071	eng	Were it not for you help, I could never succeed.
+31071	eng	Were it not for your help, I could never succeed.
 31072	eng	If it had not been for your help, I would have failed.
 31073	eng	If it had not been for your help, I would have lost the game.
 31074	eng	But for your help, I could not have done it.
@@ -29488,7 +29485,7 @@
 31248	eng	A little louder.
 31249	eng	Don't you have another one that's a little larger?
 31250	eng	Could you give me a few more minutes?
-31251	eng	You may as well wait for while. It'll clear up soon.
+31251	eng	You may as well wait for a while. It'll clear up soon.
 31252	eng	Had you come a little earlier, you could have met her.
 31253	eng	Had they left a little earlier, they would have avoided the traffic jam.
 31254	eng	If I had left a little earlier, I would have caught the last train.
@@ -29583,7 +29580,7 @@
 31355	fra	Le Gouvernement Japonais a pris une importante décision.
 31356	eng	I've made up my mind.
 31357	eng	Please don't write letters to me anymore.
-31358	eng	It is time for us to go home.
+31358	eng	It's time for us to go home.
 31360	eng	I'd better get going. My father is really strict.
 31361	eng	There's no need to cry like a child.
 31362	eng	Since you are no longer a child, you should be responsible for what you do.
@@ -29642,7 +29639,7 @@
 31420	eng	It's all over for you.
 31422	eng	You'd better go home now.
 31423	eng	May I go home now?
-31424	eng	You had better go back home now.
+31424	eng	You'd better go back home now.
 31425	eng	How many times are you going to make me say it? Do you know how many times I've tried to wake you up?
 31426	eng	I'm sure that family is familiar with Japanese tastes in food. They've hosted quite a few Japanese exchange students.
 31427	eng	It already has taken me hours.
@@ -31410,7 +31407,7 @@
 33291	eng	Almost everything that is great has been done by youth.
 33292	eng	It was nearly noon.
 33293	eng	Seeing that we have little time, we have to hurry.
-33294	eng	There is very little paper left.
+33294	eng	There's very little paper left.
 33295	eng	He's almost as tall as me.
 33296	eng	You hardly ever work, do you?
 33297	eng	I need to put some gas in the car, as it's almost empty.
@@ -39561,7 +39558,7 @@
 42054	eng	It's out of the question.
 42055	eng	It may give rise to serious trouble.
 42056	eng	That is out of the question.
-42057	eng	That will complicate matters more.
+42057	eng	That'll complicate matters more.
 42058	eng	Is it made of wood or metal?
 42059	eng	It is more than I can stand.
 42060	eng	That sounds interesting.
@@ -39883,7 +39880,7 @@
 42395	eng	That's one of the conventions of our daily life.
 42396	eng	It is not acceptable to our moral code.
 42397	eng	Does that mean you want to break up?
-42398	eng	It is like the air we breath.
+42398	eng	It is like the air we breathe.
 42399	eng	That was the most interesting film that we had ever seen.
 42400	eng	It's me.
 42401	eng	It is not because I hate him, but because I love him.
@@ -39963,7 +39960,7 @@
 42482	eng	It is merely a matter of form.
 42483	eng	That's your funeral.
 42484	eng	That won't help you.
-42485	eng	You're better able do it than I am.
+42485	eng	You're better able to do it than I am.
 42486	eng	It will disturb you in your studies.
 42487	eng	That is a fruit of your effort.
 42488	eng	That's your responsibility.
@@ -46147,7 +46144,7 @@
 48986	eng	The picture set her wondering.
 48987	eng	When I saw the picture, I remembered the story.
 48988	eng	Please let me have a look at those pictures.
-48989	eng	I have seen that picture before.
+48989	eng	I've seen that picture before.
 48990	eng	The picture is true to life.
 48991	eng	The pictures are of her own painting.
 48992	eng	The drawing was mounted in a fancy frame.
@@ -49998,3 +49995,6 @@
 53129	eng	Jack keeps a cat and a parrot at home.
 53130	eng	Jack speaks English.
 53131	eng	Jack is an evil boy full of evil ideas.
+53132	eng	Jack once gave a helping hand to Robert, who was in trouble; and now Robert, in turn, is of great help to Jack.
+53133	eng	Jack made me go there against my will.
+53134	eng	Jack can speak French.

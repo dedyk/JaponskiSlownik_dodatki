@@ -1,23 +1,3 @@
-574584	cmn	这是吃的。
-574586	dan	Om morgenen begyndte fuglene at synge.
-574588	spa	Leí el libro en mi segundo año en la preparatoria.
-574589	spa	¿Por qué llegaste temprano?
-574590	spa	No acepto tu excusa.
-574591	spa	Lo que más necesita es un buen trabajo.
-574593	deu	Ich hätte dich am Flughafen treffen können.
-574594	deu	Ich hätte euch am Flughafen treffen können.
-574595	deu	Ich hätte Sie am Flughafen treffen können.
-574596	spa	Su bolsa estaba llena de agua.
-574597	dan	Fuglene er så tamme at de vil spise af din hånd.
-574598	deu	Ich fuhr 120 Stundenkilometer, als die Polizei mich anhielt.
-574599	dan	Hvide duer er smukke fugle.
-574600	deu	Er mag Schokoladenkuchen.
-574601	deu	John ist eine Tratschtante.
-574602	dan	En due og en struds er begge fugle; den ene af dem er i stand til at flyve, den anden ikke.
-574603	deu	Wird auf diesem Flug eine Mahlzeit serviert?
-574604	deu	Ich glaube, es wird heute Abend frieren.
-574605	dan	Fugle synger i træerne.
-574606	dan	Fugle lægger æg.
 574607	dan	Fugle sang i himlen.
 574608	dan	De hvide duer er smukke fugle.
 574609	deu	Eine Sicherung ist durchgebrannt.
@@ -942,7 +922,7 @@
 575582	hun	Abba kellene hagynod az ivást.
 575583	epo	Mi hazarde renkontis ŝin en la trajno antaŭhieraŭ.
 575584	epo	Mi ne havas amikojn por helpi al mi.
-575585	hun	Ne űzz tréfát a külföldiekkel.
+575585	hun	Ne űzz tréfát a külföldiekből.
 575586	hun	Bocsánatot kellene kérned.
 575587	fra	Il a démenti avoir dit une telle chose.
 575588	uig	ئەپۇ سورىشىڭ لازىم.
@@ -1307,7 +1287,7 @@
 575955	rus	Ваша вставная челюсть так хорошо держится! А каким клеем вы пользуетесь?
 575956	rus	Какой же Новый год без ёлки?
 575957	heb	כל שבוע אבי חוסך חלק מהכנסותיו.
-575958	rus	Окошко открыто, а муха бьется о зеркало или сидит на стене. Так и мы, порой, не видим открытого мира.
+575958	rus	Окошко открыто, а муха бьется о зеркало или сидит на стене. Так и мы порой не видим открытого мира.
 575959	heb	בקרוב ימלאו לאבי ארבעים .
 575960	heb	התרחצתי לפני ארוחת הבוקר.
 575961	heb	כל האנשים שנמצאים לבד עושים זאת מפני שהם מפחדים מזולתם.
@@ -1341,10 +1321,10 @@
 575989	rus	Люсины бигуди валялись по всей комнате.
 575990	rus	Люся накручивает волосы на бигуди.
 575991	heb	אנו שמים את העולם קרוב אליך.
-575992	rus	Люся подстриглась налысо, поэтому бигуди ей в ближайшее время не понадобятся.
+575992	rus	Люся постриглась налысо, поэтому бигуди ей в ближайшее время не понадобятся.
 575993	heb	הוא נעשה עיוור בעקבות תאונה.
 575994	heb	אני מאמין שהוא רוצה לקנות מילון חדש.
-575995	rus	С тех пор, как Люся подстриглась налысо, у нее все время мерзнут уши.
+575995	rus	С тех пор как Люся постриглась налысо, у нее все время мерзнут уши.
 575996	heb	אתמול שיחקתי עם טוני.
 575997	rus	Люся отморозила уши.
 575998	heb	"יש לך אחים?" "לא, אני בן יחיד".
@@ -1357,7 +1337,7 @@
 576005	heb	אתה לא יכול להחנות את הרכב כאן.
 576006	rus	Люся начиталась Льва Толстого и возомнила себя самой умной.
 576007	heb	איזה צירוף מקרים!
-576008	rus	Люся воображала себя Львом Толстым, когда слушала Адажио из балета Чайковского "Щелкунчик".
+576008	rus	Люся воображала себя Львом Толстым, когда слушала адажио из балета Чайковского "Щелкунчик".
 576009	rus	Люся - увлекающаяся личность.
 576010	heb	סקי הוא הספורט האהוב עליי.
 576011	rus	Люсины шутки всех достали.
@@ -1627,7 +1607,7 @@
 576278	heb	אני חושב שזה מוזר שהוא לא דיבר איתך.
 576279	spa	Lo que es lícito para Júpiter, no es lícito para el buey.
 576280	fra	Je l'ai attendu ici depuis ce matin.
-576281	rus	Он не звонил? Да нет, звонил.
+576281	rus	«Он не звонил?» — «Да нет, звонил».
 576282	heb	קשה לי להבין את השאלה הזו.
 576283	fra	Savoir est une chose, enseigner en est une autre.
 576284	deu	Wissen ist eine Sache, Unterrichten eine andere.
@@ -2775,7 +2755,7 @@
 577506	heb	אוי, איך שהוא החוויר פתאום...
 577507	epo	Enrigardos la suno ankaŭ en nia fenestreto.
 577508	deu	Ich gebe meinem Baby die Brust.
-577509	deu	"Tatoeba" bedeutet "zum Beispiel" auf Japanisch.
+577509	deu	„Tatoeba“ bedeutet „zum Beispiel“ auf Japanisch.
 577511	epo	Ŝajne pluvos. Al vi estus pli bone kunporti ombrelon.
 577512	epo	Ĝuu.
 577513	rus	Развлекайтесь.
@@ -3455,7 +3435,7 @@
 578237	rus	Он утверждает, что придет.
 578238	hun	Köszönettel elfogadta az ajánlatunkat.
 578239	rus	У нас две собаки, три кота и шесть цыплят.
-578240	fra	Tu sais tellement de chose sur le chinois qu'on dirait que tu l'es.
+578240	fra	Tu sais tellement de choses sur le chinois qu'on dirait que tu en es un.
 578241	hun	Egy nap sem hagyja ki az újságolvasást.
 578242	eng	Do you recognize the man in this photo?
 578243	eng	He gave his camera to his friend.
@@ -4405,7 +4385,7 @@
 579240	lit	Ana mėgsta rašyti eilėraščius.
 579241	deu	Er macht nicht viel Federlesens.
 579242	epo	Carlos turniĝis.
-579243	deu	Carlos wendet.
+579243	deu	Carlos wendete.
 579244	epo	Li tuj solvas la problemon.
 579245	deu	Er hat sein ganzes Geld auf den Kopf gehauen.
 579246	epo	Li foruzis sian tutan monon.
@@ -5782,7 +5762,7 @@
 580676	rus	Война забрала у них счастье.
 580677	rus	Вы тут учитель или ученик?
 580678	rus	У него до сих пор есть три слуги.
-580679	epo	La boato estis plenigita per forkurintoj de Kubo.
+580679	epo	La boato estis plena de rifuĝintoj el Kubo.
 580680	rus	Он такой всегда.
 580681	rus	Он в своём репертуаре.
 580682	rus	Что? Ты снова будешь на её стороне?
@@ -7546,7 +7526,7 @@
 582540	epo	Mi havas inviton al la festo de Claudia.
 582541	epo	Bonvolu plialtigi la klimatizilon.
 582542	deu	Was stellt die Firma her?
-582543	hun	Megásta a saját sírját.
+582543	hun	A saját sírját ássa.
 582544	epo	La panoramo el ĉi tiu ĉambro estas mirinda.
 582545	hun	Bármelyik könyvet elolvashatod, ami közülük neked tetszik.
 582546	hun	Rendelkezik szakmai tapasztalattal?
@@ -10824,7 +10804,6 @@
 585959	spa	Sus proezas con las mujeres son legendarias.
 585960	eng	There's nothing like close combat to test one's mettle.
 585961	rus	Играть на фортепиано трудно.
-585962	ron	Eşti un înger!
 585963	fra	Je n'aime pas porter les affaires d'autres gens.
 585964	eng	At the age of fifty she embarked on a new career.
 585965	fra	Chacun espérait qu'elle gagnât.
@@ -11747,7 +11726,7 @@
 586910	ara	العصافير تطير.
 586911	ara	تحلق الطيور.
 586912	epo	Mi iros al Usono morgaŭ.
-586913	epo	Ŝi pasis la semajnfinon sola.
+586913	epo	Ŝi pasigis la semajnfinon sola.
 586914	ara	لا تتحرك.
 586915	epo	Mi neniam vidis lin porti ĝinzon.
 586916	ara	عفواً.
@@ -12524,7 +12503,7 @@
 587727	fra	Garde la turne pendant que je suis parti.
 587728	fra	Garde la bicoque pendant que je suis parti.
 587729	epo	Ĉu vi bonvole povus mallonge atenti pri mia valizo?
-587731	epo	Ŝi skribis al mi KM.
+587731	epo	Ŝi skribis al mi tekstmesaĝon.
 587732	epo	En Singapuro estas krimo kraĉi sur la grundon.
 587733	deu	Wir bewundern den Mond für sein Licht, dabei ist es die Sonne, die ihn durch ihre Strahlen zum Leuchten bringt.
 587735	epo	Mi estas tre impresita.
@@ -12599,7 +12578,7 @@
 587805	deu	Ich schätze Ihren Rat sehr.
 587806	epo	Ju pli da fromaĝo, des pli da truoj. Ju pli da truoj, des malpli da fromaĝo. Do, ju pli da fromaĝo, des malpli da fromaĝo.
 587807	deu	Sie hat mit Roy Karten gespielt.
-587808	deu	Ich würde lieber zu Hause bleiben, als in den Regen hinaus zu gehen.
+587808	deu	Ich würde lieber zu Hause bleiben als in den Regen hinausgehen.
 587809	spa	Oí algo caerse al suelo.
 587810	deu	Er hat in Cambridge mit Auszeichnung abgeschlossen.
 587811	deu	Harry schaffte es, den Fluss schwimmend zu überqueren.
@@ -15155,7 +15134,7 @@
 590481	eng	The victims of the genocide were buried in mass graves spread over 25 square kilometers.
 590482	epo	Antaŭhieraŭ li forvojaĝis al Londono.
 590483	eng	The vacant stare of dolls' eyes has always creeped me out.
-590484	spa	La mirada vacía de los ojos de las muñecas siempre me sacado de onda.
+590484	spa	La mirada vacía de los ojos de las muñecas siempre me ha sacado de onda.
 590485	ukr	Усі її люблять.
 590486	eng	I roll my own cigarettes.
 590487	deu	Das Bettenhaus des Universitätsklinikums muss dringend saniert werden.
@@ -17179,7 +17158,7 @@
 592614	rus	Я предпочитаю футбол бейсболу.
 592615	rus	Она управляет обувным магазином.
 592616	hun	Egy ilyen lehetőséget vétek lenne kihagyni.
-592617	ara	ما أكثر الذين يدخلون المستشفى للعلاج و يخرجون منها جثة هامدة.
+592617	ara	ما أكثر الذين يدخلون المستشفى للعلاج و يخرجون منها جثة هامدة!
 592618	rus	Она внезапно замолчала.
 592619	hun	Ő egy cipőboltot vezet.
 592620	spa	¿Dónde está mi asiento?
@@ -17893,7 +17872,7 @@
 593371	fra	Tu penses que tout va rentrer ?
 593372	spa	¿Piensas que todo cabe?
 593373	epo	Ne donu kontraŭvortojn al via patrino.
-593374	deu	Im allgemeinen sind japanische Autos im Ausland beliebt.
+593374	deu	Im Allgemeinen sind japanische Autos im Ausland beliebt.
 593376	deu	Wir haben Angst, unseren Zug zu verpassen.
 593377	epo	Mia onklo loĝas en Londono.
 593378	deu	Männer wie ihn mag ich nicht.
@@ -25074,7 +25053,7 @@
 601044	ara	الكثير يأخذ الأمور على محمل الجد و أدب البعض يفسح المجال للبعض الآخر لإساءة التصرف.
 601045	epo	Li malŝatas araneojn.
 601046	deu	Die widrigen Umstände in der Welt brachten ihn dazu, sich das Leben zu nehmen.
-601047	epo	Estas tempo ke mi ekiras.
+601047	epo	Estas tempo, ke mi ekiras.
 601048	epo	En la aŭtobuso estis kvindek pasaĝeroj.
 601049	epo	Ni volonte restus dum la nokto ĉi tie.
 601050	deu	Sie starb, bevor ich dort ankam.
@@ -25591,7 +25570,7 @@
 601612	deu	Das ist selbstverständlich. Du brauchst es nicht erklären.
 601613	deu	Ich mag ja Tomatensauce zu meinen Fritten.
 601614	deu	Ja, ja. Ich werde mit euch Zweien mitkommen.
-601615	deu	Nein, niemals esse ich nun.
+601615	deu	Nein, ich esse jetzt nichts.
 601616	epo	Ŝajne la patrino de la algebro ne kontraŭis plezuron, konsiderante la grandan kvanton da viroj, kiuj estas nomataj "patro de la algebro".
 601617	deu	Nein, niemals werde ich das vorbringen.
 601618	epo	Ŝi estas paralizita je ambaŭ gamboj.
@@ -25641,14 +25620,14 @@
 601662	deu	Wann wirst du umziehen?
 601663	deu	Du hast eine leicht zu merkende E-Mail-Adresse.
 601664	eng	Huh, you've got the experience?! Don't get me started. I have underwear older than you.
-601665	deu	Warum wechselst du unaufhörlich deine Email-Adresse?
+601665	deu	Warum wechselst du unaufhörlich deine E-mail-Adresse?
 601666	deu	Ich habe eine neue E-Mail-Adresse.
 601667	deu	Ich kann deine Homepage nicht finden.
 601668	deu	Ich kann Ihre Internetpräsenz nicht ermitteln.
 601669	eng	Tatoeba: We've got sentences older than you.
 601670	deu	Bitte mail mir deine Webadresse.
 601672	fra	Tu pourras prendre ce livre tant que tu le gardes propre.
-601673	deu	Seit einiger Zeit erhalte ich sehr merkwürdige Emails.
+601673	deu	Seit einiger Zeit erhalte ich sehr merkwürdige E-mails.
 601674	spa	¿Dónde están mis anteojos?
 601675	deu	Mail mir heute dein Foto.
 601676	epo	Ŝi estis tiel ĝoja, ke ŝi verŝis larmojn.
@@ -25971,7 +25950,7 @@
 602009	eng	You have to paint the whole house all by yourself? You sure have your work cut out for you.
 602010	nld	Er zijn meer en meer zinnen.
 602011	epo	Pacienco estas la rizo, de kiu sin nutras la amo, kaj espero estas la akvo, de kiu ĝi trinkas.
-602012	deu	Der Teller entglitt meinen Händen weil sie feucht waren.
+602012	deu	Der Teller entglitt meinen Händen, weil sie feucht waren.
 602013	nld	Tot morgen.
 602014	epo	La hundo estas malviva.
 602015	ita	A domani.
@@ -27187,7 +27166,7 @@
 603307	heb	יכולנו להתגבר על הקושי.
 603308	pol	Nikt nigdy nie widział boga.
 603309	spa	El médico controló las pulsaciones del corazón y la presión arterial.
-603310	deu	Dies hier hat die selbe Identität wie das Auto welches mir gehört.
+603310	deu	Dies hier hat dieselbe Identität wie das Auto, welches mir gehört.
 603312	heb	הוא החליט להפסיק לעשן.
 603313	jpn	ここでしゃべらない方がいい。
 603314	hun	Az anyám mérges.
@@ -28720,7 +28699,7 @@
 604905	cmn	去美国学习对我来说是否有益处，还有待考虑。
 604906	deu	Oh! Das tut mir leid.
 604907	deu	Er ist kleiner als Tom.
-604908	nld	Zij is teveel geneigd tot zelfstandigheid om onder iemands toezicht te werken.
+604908	nld	Zij is te veel geneigd tot zelfstandigheid om onder iemands toezicht te werken.
 604909	deu	Die Polizei untersucht das.
 604910	cmn	我没有强烈的欲望去学习。
 604914	nld	Nu zijn ze in het Zuiden van Frankrijk.
@@ -29942,7 +29921,7 @@
 606222	deu	Wenn du mit mir sprechen willst — bitte rufe mich an.
 606223	deu	Wenn ihr mich sprechen wollt, ruft mich bitte an.
 606224	deu	Der Kaffee kommt nach dem Essen.
-606225	deu	Er kroch auf allen Vieren wie eine Katze.
+606225	deu	Er kroch auf allen vieren wie eine Katze.
 606226	deu	Matematik ist nicht das bloße Auswendiglernen von Formeln.
 606227	deu	Ich achte nicht darauf, was die Leute reden.
 606228	deu	Ich verbrachte länger als einen Monat in Nagoya.
@@ -30319,7 +30298,7 @@
 606626	epo	Kompare al nia domo la ŝia estas palaco.
 606627	deu	Ich habe deine E-Mail noch nicht erhalten. Hast du dich vielleicht bei meiner E-Mail-Adresse vertippt?
 606628	hun	"Írt tegnap egy levelet?" "Igen"
-606630	epo	Mi ne estas pli bone ol mia patrino rilate la kuiradon.
+606630	epo	Mi ne estas pli bona ol mia patrino rilate la kuiradon.
 606631	hun	"Az öreg halász és a tenger" Hemingway regénye.
 606632	epo	Mono ne estas ĉio sed se vi ne havas monon vi povas fari nenion.
 606633	epo	Mi havas kelkajn malfacilaĵojn kompili tiun programon.
@@ -31508,7 +31487,7 @@
 607884	heb	הזמר החדש הזה באמת טוב.
 607885	epo	Kion vi faras ĉivespere?
 607886	ara	الدّالّتان جا وجتا تأخذان قِيمًا بين -1 و1 (تدخل -1 و1 أيضًا).
-607887	deu	Vorsicht vor Betrugs-Emails.
+607887	deu	Vorsicht vor Betrugs-E-mails.
 607888	ara	أعارض استخدام الموت عقوبةً. وأعارض استخدامه مكافأةً كذلك.
 607889	ara	النصف الثاني من حياة الإنسان لا يتكون إلا من العادات التي اكتسبها في النصف الأول.
 607890	spa	¿Qué hace usted esta tarde?
@@ -32112,7 +32091,7 @@
 608509	deu	Darf ich diesen Pullover mal anprobieren?
 608510	pes	سوخت های فسیلی علت اصلی گرم شدن زمین است.
 608511	pes	بیائید پیش من (اگر نه) من خواهم آمد پیش شما.
-608512	deu	Ich machte ihr ein für alle mal klar, dass ich keinen Einkaufsbummel mit ihr machen würde.
+608512	deu	Ich machte ihr ein für alle Mal klar, dass ich keinen Einkaufsbummel mit ihr machen würde.
 608513	deu	Da ist ein Mann am Rand des Teiches.
 608514	pes	هنوز ایمیل شما را دریافت نکردم. آیا احتمالاً آدرس مرا اشتباه تایپ کردید؟
 608515	deu	Ich mag ihr Gesicht nicht.
@@ -32860,7 +32839,6 @@
 609307	epo	Li donis neklaran respondon.
 609308	epo	Li legis vere multe.
 609309	epo	Mi petas pardonon, mia patro ne estas hejme.
-609310	epo	1) Hodiaŭ mi manĝas pomon. 2) Hieraŭ mi manĝis pomon. 3) Morgaŭ mi manĝos pomon.
 609311	hun	A levegő kipufogógáztól volt szennyezett.
 609312	hun	Megmutatta nekem fiatalkorában írt verseit.
 609313	epo	Mi baldaŭ estos reveninta.
@@ -32879,7 +32857,6 @@
 609329	hun	Figyeljen oda az úton lévő kisebb-nagyobb kövekre!
 609330	wuu	侬啊是新来个𠲎？
 609331	hun	Jobb, ha nem hozzá fordulsz tanácsért.
-609332	ita	1) Oggi mangio una mela. 2) Ieri ho mangiato una mela. 3) Domani mangerò una mela.
 609333	heb	תשעים ותשע תמיד מצחיק אותי.
 609334	heb	99 תמיד מצחיק אותי.
 609335	hun	A mostani utunk során eléggé megismertük egymást.
@@ -33168,7 +33145,7 @@
 609635	rus	Ерунда!
 609636	ita	Ha fatto delle facce a quella donna.
 609637	rus	Мы прошли сквозь лес и пришли к озеру.
-609638	rus	У неё есть больше книг.
+609638	rus	У неё больше книг.
 609639	ita	Quante persone erano presenti alla riunione?
 609641	epo	Li ne faris malbonon.
 609642	heb	הסיסמא היא: "מיוריאל".
@@ -33315,7 +33292,7 @@
 609790	spa	Hizo que la sangre me hirviera al oír eso.
 609791	spa	Escúchame con atención, y entenderás lo que en realidad trato de decir.
 609792	spa	El señor Davis luce muy cansado.
-609794	spa	Usted no tiene nada para temer.
+609794	spa	Usted no tiene nada que temer.
 609795	spa	No tienes nada que temer.
 609796	spa	Quiero montar a caballo.
 609798	spa	Acostumbramos caminar en este parque los sábados.
@@ -34961,7 +34938,7 @@
 611517	rus	Радио изобрёл Маркони.
 611518	rus	Она обеспокоена здоровьем своего сына.
 611519	rus	Не пью и не курю.
-611520	rus	Я вегетарианец, который есть много мяса.
+611520	rus	Я вегетарианец, который ест много мяса.
 611521	rus	В этой комнате слишком жарко, чтобы учиться. Я больше не могу выносить этого.
 611522	rus	Что-то не так?
 611523	rus	Я ложусь рано, чтобы проснувшись застать восход солнца.
@@ -35822,7 +35799,7 @@
 612413	epo	La vero naskas la malamon.
 612414	epo	“Tre volonte, mia bona,” diris la bela knabino.
 612415	epo	Tre volonte, mia bona.
-612416	deu	Nach dem Sturm waren die Straße von umgestürzten Bäumen blockiert.
+612416	deu	Nach dem Sturm war die Straße von umgestürzten Bäumen blockiert.
 612417	dan	Vi har langt mere end bare biceps i armene, Per.
 612418	deu	Er scheint sich meiner Gefühle bewusst zu sein.
 612419	dan	Da jeg var lille fik jeg meget gratis.
@@ -38746,7 +38723,7 @@
 615482	epo	Multan dankon por ĉio.
 615483	dan	Hvis det regner i morgen, bliver jeg hjemme.
 615484	spa	Muchas gracias por todo.
-615485	deu	Ich liebe ihn, vielleicht auch wegen seiner Fehler
+615485	deu	Ich liebe ihn, vielleicht auch wegen seiner Fehler.
 615486	dan	Det er vanskeligt at forudsige hvordan vejret vil blive i morgen.
 615487	dan	Hvor er toilettet?
 615489	rus	Спасибо за всё.
@@ -39725,7 +39702,7 @@
 616507	arz	هاكل هنا.
 616508	arz	بحب الأفلام.
 616509	arz	جين بتحب تلعب تنس كمان.
-616510	arz	جين بردو بتحب تلعب تنس.
+616510	arz	جين بردو بتلعب تنس.
 616511	arz	بيحبها.
 616512	arz	جريس كان شكلها معصبة.
 616513	arz	فين باباك؟
@@ -40335,7 +40312,7 @@
 617143	ara	أين المصعد؟
 617144	ara	لا أفهم الموسيقى.
 617145	ara	تبدو هتُمي سعيدة جداً.
-617146	toki	moku li pona. jan pali moku ni li pona.
+617146	toki	moku li pona. jan li pali pona lon ni.
 617147	ara	أريدك.
 617148	ara	ذلك كلب ماري.
 617149	ara	املئها.
@@ -43802,7 +43779,7 @@
 620758	deu	Dieses Holz wird nicht brennen.
 620759	jbo	mi jinvi gi'e ni'i zasti
 620760	deu	Unser Lehrer gibt uns viele Hausaufgaben.
-620761	deu	Das ist zuviel!
+620761	deu	Das ist zu viel!
 620762	deu	Ich unterrichte.
 620764	deu	Jetzt reicht's!
 620765	deu	Wir müssen die deutschen Verbformen lernen.
@@ -44574,7 +44551,7 @@
 621548	deu	Welches Team wird wahrscheinlich gewinnen?
 621549	dan	Det vil sandsynligvis sne i morgen.
 621550	deu	Ich bin dabei, für die nächste Prüfung zu lernen.
-621551	deu	Das kleine Mädchen gab dem Jungen, der ihm eine Blume brachte, ein Küßchen.
+621551	deu	Das kleine Mädchen gab dem Jungen, der ihm eine Blume brachte, ein Küsschen.
 621552	deu	Der Pilot beschrieb die Szene detailliert.
 621553	deu	Ihre Hände waren kalt wie Marmor.
 621554	fra	C'est un danger pour ta santé.
@@ -44970,7 +44947,7 @@
 621961	spa	Ken le dijo a su perro que esperara allá.
 621962	spa	Jugamos a baloncesto en el gimnasio.
 621963	dan	Sport har gjort ham til hvad han er.
-621964	deu	In einer Familie kann man finden: einen Großvater und eine Großmutter, einen Vater und eine Mutter, einen Sohn und eine Tochter, einen Enkelsohn und eine Enkeltochter, weiteres einen Bruder und eine Schwester, einen Onkel und eine Tante, einen Neffen und eine Nichte, einen Cousin und eine Cousine.
+621964	deu	In einer Familie kann man finden: einen Großvater und eine Großmutter, einen Vater und eine Mutter, einen Sohn und eine Tochter, einen Enkelsohn und eine Enkeltochter, des Weiteren einen Bruder und eine Schwester, einen Onkel und eine Tante, einen Neffen und eine Nichte, einen Cousin und eine Cousine.
 621965	epo	Ni ludis korbopilkon en la gimnastikejo.
 621966	deu	Wir haben Basketball in der Turnhalle gespielt.
 621967	epo	Kie ni povos renkontiĝi ?
@@ -45034,7 +45011,7 @@
 622029	epo	Kiam mi aŭdis tion, mi ekemis plori.
 622030	epo	Mi supozis ke povus esti bona ideo.
 622031	epo	Infanoj vere rapide kreskas.
-622032	epo	Tiun kranon oni ne povas uzi. Ĝi estas difekta.
+622032	epo	Tiun kranon oni ne povas uzi. Ĝi estas difektita.
 622033	spa	Necesito trabajo.
 622034	fra	Mon oncle est mince, mais ma tante est grosse.
 622035	epo	La bebo bezonas sian patrinon.
@@ -46505,7 +46482,7 @@
 623579	ita	Sono diventato amico con almeno 10 americani.
 623580	pol	Za dużą wagę przywiązujesz do takich szczegółów.
 623581	epo	Kiel vi difinus "feliĉon"?
-623582	nld	Je hecht teveel waarde aan zulke details.
+623582	nld	Je hecht te veel waarde aan zulke details.
 623583	pol	Ubiegałeś się już o pracę?
 623584	nld	Heb je al eens gesolliciteerd?
 623585	pol	Mam z sześciu wujków i gdzieś tyle cioć.
@@ -47969,8 +47946,8 @@
 625110	epo	Ŝi vivis sola, de kiam ŝia edzo mortis.
 625111	ita	Quanto costa questa cravatta?
 625112	ita	Ho la pelle estremamente bianca e non mi abbronzo del tutto.
-625113	ita	Abbassa il volume per piacere.
-625114	ita	Abbassate il volume per piacere.
+625113	ita	Abbassa il volume, per piacere.
+625114	ita	Abbassate il volume, per piacere.
 625115	ita	Le piacciono gli animali, sai?
 625116	ita	Paul ha guadagnato un sacco di soldi l'anno scorso.
 625117	ita	Puoi dirmi cosa sta succedendo?
@@ -49998,3 +49975,26 @@
 627290	eng	Her questions indicate that she understands the subject very well.
 627291	deu	Ich habe ein Buch mitgebracht.
 627293	spa	¿Este sombrero es tuyo?
+627294	deu	Ich trug ein Buch.
+627295	spa	No quiero leer este libro.
+627296	fra	Je ne veux pas lire ce livre.
+627297	eng	Take a paper and write!
+627298	deu	Ich dachte, ich würde rauchen können.
+627299	eng	I think that my girlfriend leaves tomorrow for Scotland.
+627300	spa	Estudié chino en la universidad de Venecia.
+627301	eng	This evening I'd stay at home.
+627302	spa	Puedo leer sin gafas.
+627303	eng	I'm sure that he'll succeed.
+627304	deu	Sie vergaß ihren Schirm, also lieh ich ihr meinen.
+627305	spa	Pensé que podría fumar.
+627306	epo	Mi povas legi sen okulvitroj.
+627307	spa	Estoy seguro de que triunfará.
+627308	heb	אני יכול לקרוא בלי משקפיים.
+627309	deu	Was ist dir gestern passiert?
+627310	eng	I look at people walking.
+627311	heb	אני יכולה לקרוא בלי משקפיים.
+627312	spa	¿Qué te pasó ayer?
+627314	deu	Alle sind glücklich.
+627315	ita	Riesco a leggere senza occhiali.
+627316	deu	Ich würde gern etwas essen.
+627317	eng	Tomorrow the teacher will not attend the class.
