@@ -1,11 +1,3 @@
-258519	eng	I took to drinking when I was eighteen.
-258520	eng	I had a good sleep.
-258521	eng	I have enjoyed myself to the full.
-258522	eng	I accepted the offer after due consideration.
-258523	eng	I am sixteen years old.
-258525	eng	I like to sleep on a soft bed.
-258526	eng	I dragged the heavy baggage to the airport.
-258527	eng	I made a serious mistake.
 258528	eng	I am charged with an important mission.
 258529	eng	I'm in debt to my uncle for $10,000.
 258530	eng	I was given a camera by my uncle.
@@ -6218,7 +6210,7 @@
 265477	eng	Why don't you give me a ride?
 265478	eng	Will you give me a ride?
 265479	eng	Could you give me a lift in your car?
-265480	eng	I was wondering if you could give me a lift?
+265480	eng	I was wondering if you could give me a lift.
 265481	eng	Get into the car.
 265482	eng	I asked if you wanted a ride.
 265483	eng	Look out for the car.
@@ -6998,7 +6990,6 @@
 266350	eng	Leaves collect on the sidewalk in the fall.
 266351	eng	Leaves fall in the autumn.
 266352	eng	The leaves turn brown in the autumn.
-266353	eng	The leaves fall in autumn.
 266354	eng	In autumn, leaves change their color and fall.
 266355	eng	In the fall, covers are put over the fans in trains.
 266356	eng	In the fall, the leaves turn red and gold.
@@ -21984,7 +21975,7 @@
 282846	eng	Too much humility is pride.
 282847	eng	Don't be a dog.
 282848	eng	In the country, the colors of the sky and of the foliage are entirely different from those seen in the city.
-282849	eng	He was not of an age but for all time.
+282849	eng	Shakespeare was not of an age but for all time.
 282850	eng	He is into the Internet.
 282851	eng	He, and he alone, must go.
 282852	eng	Isn't he gorgeous? - So tall and smart-looking.
@@ -27856,7 +27847,6 @@
 289266	eng	He went to see her reluctantly.
 289267	eng	He is an unpleasant fellow.
 289268	eng	He was listening to the radio with his earphone.
-289269	eng	He thought irritably.
 289270	eng	He has apple-polished in vain.
 289271	eng	He has so many calls on his time, it is very difficult to make an appointment to see him.
 289272	eng	He's had many bad experiences.
@@ -33527,7 +33517,7 @@
 295421	eng	He signed off from wine.
 295422	eng	He has been working out to develop his muscles.
 295423	eng	He lived in a town near by.
-295424	eng	He lived in a small town near by.
+295424	eng	He lived in a small town nearby.
 295425	eng	It is rumored that he will shortly resign.
 295426	eng	I hear he is in bad health these days.
 295427	eng	He is a hard man to get at.
@@ -34138,7 +34128,7 @@
 296100	eng	He came early, as he had been asked to do.
 296101	eng	He had no choice but to do as he was told.
 296102	eng	He did what he had been told; otherwise he would have been scolded.
-296103	eng	He did the way he was told.
+296103	eng	He did what he was told.
 296104	eng	He is at home in phonetics as well as linguistics.
 296105	eng	He is absorbed in the study of linguistics.
 296106	eng	He has a great knowledge of the linguistic field.
@@ -37827,7 +37817,7 @@
 300177	eng	He was proud that he was selected by the people.
 300178	eng	He was praised for saving a life.
 300179	eng	He lived in a house remote from the village.
-300180	eng	Living as he did in remote countryside, he seldom came up to town.
+300180	eng	Living as he did in the remote countryside, he seldom came into town.
 300181	eng	He lives in a farmhouse remote from the world.
 300182	eng	He illustrated his theory with diagrams.
 300183	eng	He explained by means of diagrams.
@@ -38553,7 +38543,7 @@
 300980	eng	He made his son a doctor.
 300981	eng	He could not send his son to school.
 300982	eng	He made his son a wealthy man.
-300983	eng	He is takes pride in his son.
+300983	eng	He takes pride in his son.
 300984	eng	He bound his son to a tailor.
 300985	eng	He prides himself on his son.
 300986	eng	He established his son in trade.
@@ -46985,7 +46975,7 @@
 310138	eng	She is two years old, but she can already count to 100.
 310139	eng	She did not come until two.
 310140	eng	She waited for a taxi for two hours but couldn't get one.
-310141	eng	She took two weeks leave and visited China.
+310141	eng	She took two weeks' leave and visited China.
 310142	eng	She was never to see her children again.
 310143	eng	She was disqualified from the race for two false starts.
 310144	eng	She passed away two days ago.
@@ -49998,3 +49988,13 @@
 313353	eng	She mended her socks.
 313354	eng	She bought two pairs of socks.
 313355	eng	She froze at the sight of the bear.
+313356	eng	She is not what you think she is.
+313357	eng	She is not what you suppose her to be.
+313359	eng	She left here long before you arrived.
+313360	eng	She is almost as tall as you.
+313361	eng	She is as tall as you.
+313362	eng	Did she show you the picture?
+313363	eng	She has three times as many dictionaries as you do.
+313365	eng	She knows your mother very well.
+313366	eng	She did so for her own sake, not for your sake.
+313367	eng	She will be a good companion for you.
