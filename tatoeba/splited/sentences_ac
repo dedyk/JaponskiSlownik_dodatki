@@ -1,6 +1,3 @@
-104911	jpn	彼は自分の将来について自信がない。
-104912	jpn	彼は自分の将来に思いをめぐらしていた。
-104913	jpn	彼は自分の将来について思い巡らせていた。
 104914	jpn	彼は自分の商売を発展させた。
 104915	jpn	彼は自分の助言を求める人にはみんな面会できるようにしている。
 104916	jpn	彼は自分の書く物語の材料はたいてい子供時代の体験に頼っている。
@@ -9037,7 +9034,7 @@
 113986	jpn	彼はきのう何をしましたか。
 113987	jpn	彼はきのう一日中病気で寝ていた。
 113988	jpn	彼はきのうの午後いそがしかった。
-113989	jpn	彼はきのうここへきた少年ではない。
+113989	jpn	彼は昨日ここへきた少年ではない。
 113990	jpn	彼はきっぱり煙草を止めようと決心した。
 113991	jpn	彼はきっぱりと断った。
 113992	jpn	彼はきっぱりと企てを諦めた。
@@ -16411,6 +16408,7 @@
 121407	jpn	白黒を明らかにしよう。
 121408	jpn	白黒ぶちの犬を飼っている。
 121409	jpn	白黒テレビは、時代遅れになった。
+121410	jpn	白黒つけろ。
 121411	jpn	白ワインは魚料理にはつきものだ。
 121412	jpn	白ワインと赤ワイン、どちらになさいますか。
 121413	jpn	白ペンキを塗ると部屋が明るくなるでしょう。
@@ -21595,11 +21593,11 @@
 126656	jpn	遅刻して申し訳ありません。
 126657	fra	Malheureusement il a refusé de venir.
 126658	fra	Où est-ce que c'est caché ?
-126659	fra	"Avez-vous regardé la télévision la semaine dernière ?" "Non."
+126659	fra	« Avez-vous regardé la télévision la semaine dernière ? » « Non. »
 126660	fra	« J'imagine que votre travail vous plaît. » « Pas du tout, je le déteste. »
 126661	fra	« Que voudriez-vous ? » « Je voudrais un chien. »
-126662	fra	« À quelle heure vous levez-vous ? » « À 8 heures. »
-126663	fra	"Puis-je utiliser votre dictionnaire ?" "Oui, je vous en prie."
+126662	fra	« À quelle heure vous levez-vous ? » « À 8 heures. »
+126663	fra	« Puis-je utiliser votre dictionnaire ? » « Oui, je vous en prie. »
 126664	fra	Dites "ah".
 126665	fra	Le symbole '&' signifie 'et'.
 126666	fra	Ce chapeau est trop serré pour moi.
@@ -22317,9 +22315,9 @@
 127390	fra	Il manque de motivation.
 127391	fra	Il fait bon aujourd'hui donc on peut nager dans la mer.
 127392	fra	"Tu ne peux pas sortir maintenant." "Pourquoi cela ?"
-127393	fra	"Quelle heure est-il maintenant ?" "Il est dix heures."
+127393	fra	« Quelle heure est-il ? » « Il est dix heures. »
 127394	fra	"Ne pleure pas", dit-elle.
-127395	fra	"Est-ce que je peux vous aider ?" "Oui, je cherche une robe."
+127395	fra	« Est-ce que je peux vous aider ? » « Oui, je cherche une robe. »
 127396	fra	« Est-ce qu'il va bientôt s'arrêter de pleuvoir ? » - « J'ai bien peur que non. »
 127397	fra	"Où habitez-vous ?" "J'habite à Tokyo."
 127398	spa	La imaginación afecta a todos los aspectos de nuestra vida.
@@ -22432,7 +22430,7 @@
 127509	fra	Je trouve beaucoup de plaisir à pêcher.
 127510	fra	J'ai mis un appât sur l'hameçon.
 127511	fra	J’ai donné un dictionnaire à mon frère.
-127512	fra	Je ne suis aussi grand que mon frère, mais plus grand que mon père.
+127512	fra	Je ne suis pas aussi grand que mon frère, mais je suis plus grand que mon père.
 127513	fra	J'attends que le magasin ouvre.
 127514	fra	J'ai fait réparer ma montre au magasin.
 127515	fra	J'ai parcouru le magasin sans pouvoir trouver ce que j'avais en tête.
@@ -22440,7 +22438,7 @@
 127517	fra	On m'a volé mon portefeuille dans le bus.
 127518	fra	Je lui ai parlé au téléphone.
 127519	fra	Je cherche son numéro de téléphone dans l'annuaire.
-127520	fra	Je l'ai rencontré en allant à l'école.
+127520	fra	Je l'ai rencontrée en allant à l'école.
 127521	fra	J'aimerais quitter la ville et redécouvrir la nature.
 127522	fra	Je ne suis pas en colère, loin de là.
 127523	fra	Je ne pouvais pas contrôler ma colère.
@@ -22640,7 +22638,7 @@
 127726	fra	Je suis sûr de son succès.
 127727	fra	Je suis sceptique sur son succès.
 127728	fra	J'étais convaincu par son explication.
-127729	fra	Je lui ai cablé un message de félicitations pour l'obtention de son diplôme.
+127729	fra	Je lui ai envoyé un télégramme de félicitations pour l'obtention de son diplôme.
 127730	fra	J'ai été surpris par la nouvelle de son décès soudain.
 127731	fra	Je ne peux pas répondre de sa malhonnêteté.
 127732	fra	J'ai seulement moitié moins de livres qu'elle.
@@ -23061,7 +23059,7 @@
 128172	fra	Certains vont à l'école à bicyclette, d'autres en bus.
 128173	fra	Je vais au travail à bicyclette.
 128174	fra	Tu ne sais pas faire de la bicyclette ?
-128175	fra	J'ai réglé les freins de ma bicyclette.
+128175	fra	J'ai fait ajuster les freins de mon vélo.
 128176	fra	C'est dangereux d'être à deux sur un vélo.
 128177	fra	Ne laissez pas la bicyclette sous la pluie.
 128178	fra	Les voitures ont remplacé les charrettes.
@@ -23117,7 +23115,7 @@
 128232	fra	En fait, c'est vrai.
 128233	fra	En fait, ce n'était qu'une rumeur.
 128234	fra	En fait, il va en Amérique.
-128235	fra	En réalité, je lui ai écrite une carte.
+128235	fra	En réalité, je lui ai écrit une carte.
 128236	fra	Il est bien meilleur que moi en tant qu'homme d'affaires.
 128237	fra	Les faits valent mieux que les mots.
 128238	fra	Nul ne pourrait contester, son cours était ennuyeux.
@@ -23171,8 +23169,8 @@
 128286	fra	Excusez-moi de vous interrompre.
 128287	fra	J'aimerais voir la voiture avant de la louer.
 128288	fra	Je dois rembourser la dette.
-128289	fra	Je vous conseille d'aller à l'étranger tant que (vous êtes) jeune.
-128290	fra	Entraine ton corps tant que tu es jeune.
+128289	fra	Je vous conseille d'aller à l'étranger tant que vous êtes jeune.
+128290	fra	Entraîne ton corps tant que tu es jeune.
 128291	fra	Jeune comme il l'est, il peut travailler toute la journée.
 128292	fra	Rien ne reste aussi vivant dans notre esprit que les impressions que nous avons reçues dans notre jeunesse.
 128293	fra	Comme ses parents sont morts quand il était jeune, c'est son oncle qui l'a élevé.
@@ -23240,7 +23238,6 @@
 128356	fra	Nom et adresse, s'il vous plait.
 128357	fra	Les prix de l'immobilier sont restés stables pendant plusieurs mois.
 128358	fra	Dix personnes, dix opinions.
-128359	fra	Décembre est le dernier mois de l'année.
 128360	fra	Amuse-toi autant que tu peux !
 128361	fra	Une bonne suée guérira un rhume.
 128362	fra	Je le reprends.
@@ -23403,7 +23400,7 @@
 128526	fra	J'ai toujours faim.
 128527	fra	Un homme sensé devrait avoir honte d'une telle conduite.
 128528	fra	Je ne me souviens plus de ce qui s'est passé.
-128529	fra	Merci pour m'avoir aidé à corriger la situation.
+128529	fra	Merci de m'avoir aidé à corriger la situation.
 128530	fra	Un moteur à vapeur transforme la chaleur en énergie.
 128531	fra	Les plantes poussent.
 128532	fra	Toutes les plantes ont besoin d'eau et de lumière.
@@ -23424,7 +23421,7 @@
 128549	fra	Il y eut un superbe dessert à la fin du repas.
 128550	fra	Je t'ai laissé ton dîner dans le four.
 128551	fra	Le dîner peut attendre.
-128552	fra	Ne mangez pas pendant trois heures au moins.
+128552	fra	Ne mangez pas pendant au moins trois heures.
 128553	fra	Ne parle pas affaires tant que nous dînons.
 128554	fra	Prenez ce médicament avant chaque repas.
 128555	fra	Ne te penche pas sur la table.
@@ -23516,7 +23513,7 @@
 128648	fra	Mademoiselle Kanda sait bien nager.
 128649	fra	Un gentleman ne ferait pas une chose pareille.
 128650	fra	Un gentleman est toujours prévenant envers les autres gens.
-128651	fra	Les enfants dont les parents sont décédés sont enregistrés comme "orphelins".
+128651	fra	Les enfants dont les parents sont décédés sont appelés « orphelins ».
 128652	fra	Les parents aiment leurs enfants.
 128653	fra	Les parents assurent la protection de leurs enfants.
 128654	fra	Comme il est gentil, il est aimé de chacun.
@@ -23548,7 +23545,7 @@
 128681	fra	On doit toujours tenir ses promesses.
 128682	fra	Un homme est plus ou moins ce à quoi il ressemble.
 128683	fra	Une personne ne peut pas faire plusieurs choses à la fois.
-128684	fra	En vieillissant on se fait plus silencieux.
+128684	fra	En vieillissant, on se fait plus silencieux.
 128685	fra	L'homme est mortel.
 128686	fra	Tous les hommes ont été créés égaux.
 128687	fra	Vous plaisantez ?
@@ -23557,7 +23554,6 @@
 128690	fra	Les hommes, les chiens, les poissons et les oiseaux sont tous des animaux.
 128691	fra	Toute personne a un besoin psychologique de sentir que ce qu'elle fait a une quelconque importance.
 128692	fra	La valeur d'un homme réside dans ce qu'il est.
-128693	fra	Un homme ne ment pas pire sur ce qu'il possède que sur lui-même.
 128694	fra	Les désirs des hommes croissent à mesure que leurs revenus augmentent.
 128695	fra	L'homme mourra tôt ou tard.
 128696	fra	Les gens aiment parler, parler, parler.
@@ -23617,7 +23613,7 @@
 128750	fra	Une éruption cutanée se développa sur son cou.
 128751	fra	Ce sont des vacances spéciales pour les gens qui aiment les histoires policières.
 128752	fra	Il est impossible de camper là où il n'y a pas d'eau.
-128753	fra	Je ne peux avaler ces cachets sans un verre d'eau.
+128753	fra	Je ne peux pas avaler ces cachets sans un verre d'eau.
 128754	fra	Donne-moi un verre d'eau, s'il te plaît.
 128755	fra	Un verre d'eau vous fera du bien.
 128756	fra	Je prendrais bien un verre d'eau.
@@ -23679,7 +23675,7 @@
 128818	fra	Selon les astres, nous ne sommes pas compatibles.
 128819	fra	Regardez le ciel clair.
 128820	fra	C'était une belle journée et il n'y avait pas de nuages dans le ciel.
-128821	fra	Par beau temps on peut voir le Mt Fuji.
+128821	fra	Par beau temps, on peut voir le Mt Fuji.
 128822	fra	Fais ce qui est juste.
 128823	fra	Faites ce qui vous paraît juste.
 128824	fra	Barrez les mots incorrects.
@@ -23807,7 +23803,7 @@
 128948	fra	Je veux que tu me rendes le livre que je t'ai prêté l'autre jour.
 128949	fra	Elle est allée au cinéma l'autre jour.
 128950	fra	Et le nom de votre correspondant, je vous prie ?
-128951	fra	Pouvez-vous déchirer un billet de 1000 yens.
+128951	fra	Pouvez-vous déchirer un billet de 1000 yens ?
 128952	fra	Une rivière divise la ville.
 128953	fra	Quelques enfants se baignent dans la rivière.
 128954	fra	Gardez le cap au sud jusqu'à ce que vous atteigniez la rivière.
@@ -23849,7 +23845,7 @@
 128990	fra	J'ai décidé de prendre son parti contre les autres.
 128991	fra	Un couvre-feu a été imposé dans la ville.
 128992	fra	Dans l'ensemble, le plan semble être bon.
-128993	fra	Un tout est fait de (petites) parties.
+128993	fra	Un tout est fait de parties.
 128994	fra	Mettez tout dans mon panier.
 128995	fra	Mange tout.
 128996	fra	Bats-toi de toutes tes forces.
@@ -23965,7 +23961,7 @@
 129110	fra	Il y avait beaucoup de jeunes à la fête.
 129111	fra	Plusieurs consommateurs se sont révoltés contre la taxe à la consommation.
 129112	fra	Beaucoup de gens travaillent dans des cités industrielles.
-129113	fra	Un certain nombre de tickets sont pré-vendus.
+129113	fra	Un certain nombre de tickets sont vendus à l'avance.
 129114	fra	Beaucoup de villageois ont été tués par des soldats.
 129115	fra	De nombreux jeunes gens au Japon mangent du pain au petit déjeuner.
 129116	fra	De nombreux livres sont publiés chaque année.
@@ -23975,16 +23971,16 @@
 129120	fra	Je mène une vie prenante.
 129121	fra	Osamu Dazai s'est suicidé.
 129122	fra	Et si nous parlions de l'énergie solaire.
-129123	fra	Le soleil en se levant dissipait le brouillard.
+129123	fra	Le soleil, en se levant, dissipait le brouillard.
 129124	fra	Taro, le dîner est prêt !
 129125	fra	Taro est le plus grand des 2 garçons.
-129126	fra	Taro est mort il a y deux ans.
+129126	fra	Taro est mort il y a deux ans.
 129127	fra	Taro est resté au Japon pendant trois jours.
 129128	fra	Comme Taro court vite !
 129129	fra	Se sentant malade, il est resté au lit.
 129130	fra	La température du corps est plus élevée l'après-midi.
 129131	fra	J'ai pris ma température, mais elle était normale.
-129132	fra	Avez-vous pris votre température avec un thermomètre dans votre bouche ?
+129132	fra	Avez-vous pris votre température en mettant un thermomètre dans votre bouche ?
 129133	fra	Je perds du poids.
 129134	fra	Je prends du poids.
 129135	fra	Je peux facilement arrêter le chocolat pour perdre du poids.
@@ -24190,7 +24186,7 @@
 129349	fra	La Chine est riche en ressources naturelles.
 129351	fra	Les investissements directs en Chine s'élevaient à 3 milliards de dollars l'année dernière.
 129352	fra	Mon mari est un expert dès qu'il s'agit de cuisiner chinois.
-129353	fra	Les petites affaires (entreprises) devront se serrer la ceinture pour survivre.
+129353	fra	Les petites entreprises devront se serrer la ceinture pour survivre.
 129354	fra	La nuit suit toujours le jour.
 129355	fra	J'ai une après-midi assez remplie qui m'attend.
 129356	fra	Un de mes amis vint me voir pendant la journée.
@@ -24211,7 +24207,7 @@
 129372	fra	Je ne suis pas matinal.
 129373	fra	Il est huit heures du matin.
 129374	fra	Je préfère du café et des toasts au petit-déjeuner.
-129375	fra	Le petit déjeuner est servi de 7 :30 à 11 :00 le matin.
+129375	fra	Le petit déjeuner est servi de 7h30 à 11h00 le matin.
 129376	fra	Une promenade avant le petit déjeuner est rafraîchissante.
 129377	fra	Un avion vole au-dessus de la ville.
 129378	fra	Un feu éclata au milieu de la ville.
@@ -24229,7 +24225,7 @@
 129392	fra	J'espère que vous n'attendrez pas de résultats dans l'immédiat.
 129393	fra	L'honnêteté paie à long terme.
 129395	fra	À cause de la longue récession beaucoup de travailleurs sont sans travail.
-129396	fra	Si vous voulez vivre longtemps ne fumez pas.
+129396	fra	Si vous voulez vivre longtemps, ne fumez pas.
 129397	fra	Les vieilles habitudes ont la vie dure.
 129398	fra	Les cheveux longs sont démodés.
 129399	fra	Les oiseaux volent dans le ciel.
@@ -24249,7 +24245,7 @@
 129414	fra	Un oiseau peut planer dans les airs sans bouger ses ailes.
 129415	fra	J'aimerais trois livres de poulet.
 129416	fra	Il semble qu'il va pleuvoir bientôt.
-129417	fra	Un angle droit a 90 degrés.
+129417	fra	Un angle droit mesure 90 degrés.
 129419	fra	Naoko est en train de nager.
 129420	fra	Naoko est une coureuse rapide.
 129421	fra	Puis-je faire le numéro directement ?
@@ -24294,7 +24290,7 @@
 129462	fra	Ne piétinez pas dans la salle de séjour avec des pieds boueux.
 129463	fra	Un cambrioleur prit le large avec la bague en diamant de ma femme.
 129464	fra	Donnez assez de corde à un voleur et il se pendra lui-même.
-129465	fra	Une voleuse s'échappa lorsqu'elle vit le policier.
+129465	fra	La voleuse s'échappa lorsqu'elle vit le policier.
 129466	fra	Faites jouer du canon à l'approche de l'ennemi.
 129467	fra	Arrêtez l'avancée de l'ennemi.
 129468	fra	L'amour a remplacé l'hostilité.
@@ -24307,7 +24303,7 @@
 129476	fra	Le temps est orageux.
 129477	fra	C'est un jour ensoleillé.
 129478	fra	Selon la météo, le typhon s'approche d'Okinawa.
-129479	fra	Selon les prévisions météorologiques le typhon s'approche probablement de la côte.
+129479	fra	Selon les prévisions météorologiques, le typhon s'approche probablement de la côte.
 129480	fra	Selon les prévisions météorologiques, cela s'éclaircira demain.
 129481	fra	Selon les prévisions météorologiques, il neigera demain.
 129482	fra	Il n'a pas pu venir à cause du mauvais temps.
@@ -24342,18 +24338,18 @@
 129513	fra	J'ai oublié ma raquette de tennis dans le train.
 129514	fra	J'ai failli oublier mon parapluie dans le train.
 129515	fra	Je l'ai rencontré par hasard dans le train.
-129516	fra	Quelques personnes lisent quelques magazines dans le train.
+129516	fra	Certaines personnes lisent des magazines dans le train.
 129517	fra	J'ai laissé mon sac dans le compartiment à bagages du dessus dans le train.
 129518	fra	Pourriez-vous me dire où je peux prendre un train ?
 129519	fra	On a besoin de nouvelles batteries.
 129520	fra	Un courant électrique peut générer du magnétisme.
-129521	fra	Ne pas avoir le téléphone est un inconvénient.
+129521	fra	Ne pas avoir de téléphone est un inconvénient.
 129522	fra	Je mangeais mon déjeuner quand le téléphone a sonné.
 129523	fra	Je m'apprêtais à partir quand le téléphone sonna.
 129524	fra	Anne était sur le point de quitter la maison lorsque le téléphone a sonné.
 129525	fra	Répondez au téléphone !
 129526	fra	Restez à la maison afin que vous puissiez répondre au téléphone.
-129527	fra	Pouvez-vous me dire comment on utilise le téléphone ?
+129527	fra	Pouvez-vous me dire comment utiliser le téléphone ?
 129528	fra	Il n'y a aucun téléphone qui ne fonctionne.
 129529	fra	Avoir un téléphone l'a aidée à trouver plus de clients.
 129531	fra	Puis-je utiliser ton téléphone ?
@@ -24365,13 +24361,13 @@
 129539	fra	Ne touche pas à la peinture fraîche.
 129540	fra	Je suis capable d'obtenir gratuitement un formulaire d'enregistrement.
 129541	fra	N'abandonne pas en chemin.
-129542	fra	Les habitants des villes ont un taux de mortalité supérieur à celui des gens de la campagne.
+129542	fra	Les citadins ont un taux de mortalité supérieur à celui des gens de la campagne.
 129543	fra	Il était toujours ennuyé en ville par un bruit ou un autre.
 129544	fra	Mes efforts n'ont produit aucun résultat.
 129545	fra	C'était samedi soir.
-129546	fra	C'est samedi. Il n'était pas utile de me réveiller.
+129546	fra	Nous sommes samedi. Il n'était pas utile de me réveiller.
 129547	fra	Ça te dirait d'aller voir un film samedi ?
-129548	fra	Les samedis soirs chaque membre de la famille prenait un bain, l'un après l'autre, dans une vielle baignoire en étain en face du feu.
+129548	fra	Les samedis soir, chaque membre de la famille prenait un bain, l'un après l'autre, dans une vieille baignoire en étain en face du feu.
 129549	fra	La colère le faisait trembler.
 129550	fra	Bouillante de colère, elle le gifla.
 129551	fra	La colère est une forme de folie.
@@ -24385,14 +24381,14 @@
 129559	fra	Vois-tu ce bateau près de l'île ?
 129560	fra	Faisons un vote.
 129561	fra	Pouvez-vous me montrer votre carte d'embarquement ?
-129562	fra	Sais-tu où se trouve la Tokyo Tower ?
+129562	fra	Sais-tu où se trouve la tour de Tokyo ?
 129563	fra	J'espère vous voir la prochaine fois que vous serez à Tokyo.
 129564	fra	Toutes sortes de gens vivent à Tokyo.
 129565	fra	Pendant l'heure de pointe, la circulation à Tokyo est dense.
 129566	fra	J'ai rencontré par hasard mon vieil ami à la gare de Tokyo.
 129567	fra	La Banque de Tokyo a fusionné avec la Banque Mitsubishi.
-129568	fra	Je me demande quel train je dois prendre pour TOKYO.
-129569	fra	La voie rapide "Tomei" relie Tokyo a Nagoya.
+129568	fra	Je me demande quel train je dois prendre pour Tokyo.
+129569	fra	La voie rapide « Tomei » relie Tokyo à Nagoya.
 129570	fra	Seul un miracle pourrait le sortir de là .
 129571	fra	Je réside avec mon oncle pour le moment, mais plus tard j'emménagerai dans un petit appartement.
 129572	fra	L'art était alors à son sommet.
@@ -24417,7 +24413,7 @@
 129592	fra	Même un enfant intelligent ne pouvait pas comprendre ça.
 129593	fra	Tout intelligent qu'il est, il peut malgré tout se tromper.
 129594	fra	J'ai cogné ma tête contre la porte et j'ai eu une bosse.
-129595	fra	J'ai pris deux aspirines pour mon mal de tête.
+129595	fra	J'ai pris deux cachets d'aspirine pour mon mal de tête.
 129597	fra	J'ai mal à la tête et je souffre de toux.
 129598	fra	Il a pris prétexte d’un mal de tête pour rentrer plus tôt.
 129599	fra	Il est dangereux de sauter d'un train en marche.
@@ -24463,7 +24459,7 @@
 129645	fra	Soudainement le ciel devenait sombre.
 129646	fra	Sa conscience s'est soudainement réveillée en lui.
 129647	fra	Tu captes tout ce qu'il dit ?
-129648	fra	Tout à coup toutes les lumières se sont éteintes.
+129648	fra	Tout à coup, toutes les lumières se sont éteintes.
 129649	fra	Tout à coup, toutes les lampes s'éteignirent.
 129650	fra	Pork n'est pas d'accord avec moi.
 129651	fra	Le temps est couvert.
@@ -24487,7 +24483,7 @@
 129669	fra	Viande ou poisson ?
 129670	fra	Combien de tranches de viande voudriez-vous ?
 129671	fra	Je ne veux pas de viande.
-129672	fra	Certaines étoiles sont difficilement observables à l'oeil nu.
+129672	fra	Certaines étoiles sont difficilement observables à l'œil nu.
 129673	fra	Le corps et l'esprit sont des jumeaux, Dieu seul sait les reconnaître.
 129674	fra	Le corps meurt, mais l'âme est immortelle.
 129675	fra	Un arc-en-ciel est un phénomène naturel.
@@ -24495,7 +24491,7 @@
 129677	fra	Combien de temps faudra-t-il ?
 129678	fra	Ça va dépendre de quand.
 129679	fra	Il semblait aller mieux de jour en jour.
-129680	fra	La lumière du soleil et l'eau sont les facteurs (agents) qui font pousser (croitre) les plantes.
+129680	fra	La lumière du soleil et l'eau sont les facteurs qui font pousser les plantes.
 129681	fra	Décidons d'un jour et d'une heure pour déjeuner ensemble.
 129682	fra	Il fait plus frais de jour en jour.
 129683	fra	Les intérêts japonais et américains ont divergé sur ce point.
@@ -24601,7 +24597,7 @@
 129784	fra	Un réseau de chemin de fer s'étend sur tout le Japon.
 129785	fra	Ce qui suit le dimanche, c'est le lundi.
 129786	fra	Sont-ils ouverts le dimanche ?
-129787	fra	Dimanche je joue avec Emi au tennis.
+129787	fra	Le dimanche, je joue au tennis avec Emi.
 129788	fra	Je joue souvent au tennis le dimanche.
 129789	fra	J'ai travaillé dimanche alors j'ai eu mon lundi.
 129790	fra	Faites-vous la livraison le dimanche ?
@@ -24660,8 +24656,8 @@
 129845	fra	Notre avion n'a pas pu atterrir en raison d'un épais brouillard.
 129846	fra	Chaque contribuable est en droit de savoir où va son argent.
 129847	fra	Les natto sentent affreusement mauvais mais à manger le goût est délicieux.
-129848	fra	Le Natto est collant.
-129849	fra	Le Nô est un art traditionnel japonais.
+129848	fra	Le natto est collant.
+129849	fra	Le nô est un art traditionnel japonais.
 129850	fra	J'ai eu une attaque cérébrale.
 129851	fra	Les fermiers sèment des graines au printemps.
 129852	fra	L'agriculture est l'économie du pays.
@@ -24686,7 +24682,7 @@
 129871	fra	Pouvez-vous me faire les courses ?
 129872	fra	Je t'appelle quand j'ai fini mon shopping.
 129873	fra	À toi de voir si tu l'achètes ou pas.
-129874	fra	Alors l'oncle demanda : "Combien font trois plus quatre ?"
+129874	fra	Mon oncle demanda : « Combien font trois plus quatre ? »
 129875	fra	Une bombe atomique est une arme terrible.
 129876	fra	L'explosion fut telle que le toit fut soufflé.
 129877	fra	Je ne pouvais pas résister à l'attrait des grands profits.
@@ -24795,7 +24791,7 @@
 129986	fra	Quelques personnes seulement comprirent ce qu'il disait.
 129987	fra	Je l'apprécie.
 129988	fra	Son succès réjouissait ses parents.
-129989	fra	J'ai copié sur mon livre de notes tout ce qu'il a écrit au tableau (noir).
+129989	fra	J'ai copié tout ce qu'il a écrit au tableau sur mon cahier.
 129990	fra	Sais-tu pourquoi il a séché aujourd'hui ?
 129991	fra	Il est le premier à être arrivé.
 129992	fra	Il est mort il y a trois ans.
@@ -25443,7 +25439,7 @@
 130654	fra	Il était impatient de retourner à l'école en septembre.
 130655	fra	Il a dit qu'il était neuf heures.
 130656	fra	C'est quelqu'un au FBI.
-130657	fra	Il donna une série de conférences sur la littérature japonaise à UCLA.
+130657	fra	Il donna une série de cours sur la littérature japonaise à l'UCLA.
 130658	fra	Je n'ai eu d'autre choix que de le faire.
 130659	fra	Il est plus fort que jamais.
 130660	fra	Il m'a répondu vaguement.
@@ -25517,7 +25513,7 @@
 130729	fra	Il est arrivé en retard comme d'habitude.
 130730	fra	Ne tombe pas dans ses vieux pièges.
 130731	fra	Il est arrivé en retard comme toujours.
-130732	fra	Il prie toujours bien.
+130732	fra	Il fait toujours bien sa prière.
 130733	fra	Il est arrivé plus tôt que d'habitude.
 130734	fra	Comme il avait travaillé plus longtemps que d'habitude, il se sentait fatigué.
 130735	fra	Il a travaillé plus dur que jamais.
@@ -25585,7 +25581,7 @@
 130800	fra	Il a coupé la branche avec une hache.
 130801	fra	Il a sauvé un garçon de la noyade.
 130802	fra	Il nous amuse avec ses drôles d'histoires.
-130803	fra	C'est la copie conforme de son père.
+130803	fra	C'est le portrait craché de son père.
 130804	fra	Il a tué l'oie comme un imbécile.
 130805	fra	Il n'avait pas d'argent.
 130806	fra	Il n'avait pas d'argent et n'a donc pas pu acheter de nourriture.
@@ -25601,7 +25597,7 @@
 130818	fra	Il était accompagné de sa petite amie.
 130819	fra	Il portait un parapluie sous le bras.
 130820	fra	Il a attrapé froid.
-130821	fra	Sa voiture a été lavée à la station de gaz.
+130821	fra	Il a fait laver sa voiture à la station-essence.
 130822	fra	Il a regardé le match tout en retenant son souffle.
 130823	fra	Une fois il a remonté la Tamise.
 130825	fra	Il était plutôt ivre, ce qui fit mauvaise impression au policier.
@@ -25657,7 +25653,7 @@
 130875	fra	Il va rarement à l'église.
 130876	fra	Il vida son verre.
 130877	fra	Il a pris Connie pour ma sœur.
-130878	fra	C'est un client régulier des bars et des pubs dans le coin.
+130878	fra	C'est un client régulier des bars et des pubs du coin.
 130879	fra	Il m'a montré comment se servir de son appareil photo.
 130880	fra	Il a pris du poids.
 130881	fra	Il est resté couché pendant une semaine.
@@ -25666,7 +25662,7 @@
 130884	fra	Il est revenu en août dernier.
 130885	fra	Il n'était pas venu à la dernière réunion.
 130886	fra	Il a fait mieux que la dernière fois.
-130887	fra	Il est plus gros que la dernière fois que je l'ai vue.
+130887	fra	Il est plus gros que la dernière fois que je l'ai vu.
 130888	fra	Il est plus riche que n'importe qui dans cette ville.
 130889	fra	Les gens disent qu'il est l'homme le plus riche de la ville.
 130890	fra	En ville, tout le monde connaît son nom.
@@ -26560,7 +26556,7 @@
 131813	fra	Il a bonne mémoire.
 131814	fra	Il pense vouloir devenir ingénieur.
 131815	fra	Il est membre de la Diète.
-131816	fra	Il fut célèbre à cause de son discours fleuve (marathon) eu Parlement.
+131816	fra	Il était célèbre pour ses discours fleuves au Parlement.
 131818	fra	Il tua le temps dans un café en regardant les filles passer.
 131819	fra	Il envisage de rentrer à la maison pendant ses congés.
 131820	fra	Il sortit du taxi en vitesse.
@@ -26671,8 +26667,8 @@
 131929	fra	Il a réalisé son rêve de devenir un artiste.
 131930	fra	Il a été élevé dans une famille d'artistes.
 131931	fra	Il réussit bien comme artiste.
-131932	fra	Il n'arrive jamais avant 9 heures.
-131933	fra	Il est tout sauf un menteur.
+131932	fra	Il n'arrive jamais avant neuf heures.
+131933	fra	Il est tout sauf menteur.
 131934	fra	C'est le dernier homme à faire une chose pareille.
 131935	fra	Il ne compte jamais sur mon aide.
 131937	fra	Il est tout sauf érudit.
@@ -26751,7 +26747,7 @@
 132012	fra	Il aime marcher dans le parc.
 132013	fra	Il porte des verres épais.
 132014	fra	Il a rasé sa moustache.
-132015	fra	Dès qu'il ouvre la bouche c'est pour se plaindre.
+132015	fra	Dès qu'il ouvre la bouche, c'est pour se plaindre.
 132016	fra	Il siffla son chien.
 132017	fra	Il a eu un examen oral.
 132018	fra	Il se laissa aller à la curiosité.
@@ -26827,7 +26823,7 @@
 132090	fra	À l’annonce de la naissance de son premier enfant, il sauta de joie.
 132091	fra	Il a fait de son mieux, autrement il n'aurait pas eu le premier prix.
 132092	fra	Il a fait de son mieux, ou il n'aurait pas gagné le premier prix.
-132093	fra	Il s'est mis à boire à partir de la mort de sa femme.
+132093	fra	Il s'est mis à boire à la mort de sa femme.
 132094	fra	Il vit séparé de sa femme.
 132095	fra	Il a demandé à sa femme si elle venait avec lui.
 132096	fra	Il a rappelé à sa femme de le réveiller à 7 heures du matin.
@@ -26893,7 +26889,7 @@
 132159	fra	Il a été élu maire.
 132161	fra	Il s'adressa au maire.
 132162	fra	Il va se présenter aux élections municipales.
-132163	fra	Il a osé lui proposer.
+132163	fra	Il a osé le lui proposer.
 132164	fra	Il s'est perdu dans ses pensées.
 132165	fra	Il était proche de sa fin.
 132166	fra	Il a peur de la mort.
@@ -27151,7 +27147,7 @@
 132429	fra	Il lave sa voiture.
 132430	fra	Il est incapable d'acheter une voiture.
 132432	fra	Il se comporte comme s'il était quelqu'un.
-132433	fra	Il pense qu'il est quelqu'un, Mais actuellement il n'est personne.
+132433	fra	Il pense qu'il est quelqu'un, mais en réalité il n'est personne.
 132434	fra	Il a reconnu ses fautes.
 132435	fra	Il a admis avoir eu tort.
 132436	fra	Il maintenait qu'il était innocent.
@@ -27170,7 +27166,7 @@
 132449	fra	Il mit le feu à sa propre maison.
 132450	fra	Il a mis le feu à sa maison.
 132451	fra	Il n'arrive pas à entretenir sa propre famille, encore moins toute une nation !
-132452	fra	Il a travaillé jour et nuit pour que sa famille vive dans le confort.
+132452	fra	Il a travaillé jour et nuit pour que sa famille puisse vivre dans le confort.
 132453	fra	Il a caché ses émotions et a prétendu être enthousiaste.
 132454	fra	Il est conscient de sa faute.
 132457	fra	Il va regretter ses propres mots.
@@ -27271,7 +27267,7 @@
 132561	fra	Il a réussi à entrer à l'université.
 132562	fra	Il est toujours en train de faire la sieste à l'école.
 132563	fra	Il n'a aucune conscience religieuse.
-132564	fra	Il a refusé poliment l'offre d'emploi.
+132564	fra	Il a poliment refusé l'offre d'emploi.
 132565	fra	Il était juste à l'heure pour le dernier train.
 132566	fra	Il est arrivé juste à temps pour le dernier train.
 132567	fra	Il m’écrit une fois par semaine.
@@ -27289,7 +27285,7 @@
 132581	fra	Il resta à la maison toute la journée au lieu de sortir.
 132582	fra	Il s'écria "dehors"
 132583	fra	Il avança son départ de deux jours.
-132584	fra	Il a grimpé au rang de sergent.
+132584	fra	Il a été promu au rang de sergent.
 132585	fra	Il gagne sa vie en écrivant.
 132586	fra	Il est dans sa bibliothèque.
 132587	fra	Il dit au tenant de la boutique de livres qu'il désirait revenir là cet après-midi pour acheter le livre.
@@ -27577,11 +27573,11 @@
 132883	fra	Il nous fit signe de nous arrêter et de prendre un moment de repos.
 132884	fra	Il est en bonne condition physique.
 132885	fra	Il était trempé des pieds à la tête.
-132886	fra	Il ne pouvait attendre plus longtemps c'est pourquoi il est rentré.
+132886	fra	Il ne pouvait attendre plus longtemps, c'est pourquoi il est rentré.
 132887	fra	C'est un type paresseux.
 132888	fra	Il n'est pas fainéant. Au contraire, je crois que c'est un grand bosseur.
 132889	fra	C'est un étudiant paresseux.
-132890	fra	Il a repris le jardinage à sa retraite.
+132890	fra	Il a commencé le jardinage après avoir pris sa retraite.
 132891	fra	Il a proposé un autre plan.
 132892	fra	Il bâilla bruyamment.
 132893	fra	Il possédait une grande maison et deux voitures.
@@ -28207,7 +28203,7 @@
 133545	fra	Il est méthodique.
 133546	fra	En grandissant, il apprit à mettre les choses en perspective.
 133547	fra	Il se fait vieux.
-133548	fra	Je n'arrive pas à comprendre pourquoi est-ce qu'ils sont d'aussi bons amis : ils ont peu de points communs.
+133548	fra	Je n'arrive pas à comprendre pourquoi ils sont si bons amis : ils ont peu de points communs.
 133549	fra	Demande-lui s'ils vivent toujours à Tokyo.
 133550	fra	Les avez-vous déjà vus arriver à l'heure ?
 133551	fra	Dix minutes après qu'ils aient passé Nara, l'auto s'est retrouvée sans essence.
@@ -28247,7 +28243,7 @@
 133587	fra	Ils ne sont pas tous présents.
 133588	fra	Ils ont habité ici ?
 133589	fra	Cinq ans ont passé depuis qu'ils sont venus au Japon.
-133590	fra	Il a pris une chambre au Yaesu hotel.
+133590	fra	Il a pris une chambre au Yaesu Hotel.
 133591	fra	Il est dans notre obligation de les aider.
 133594	fra	Bien qu'ils soient jumeaux, ils ont peu d'intérêts en commun.
 133595	fra	Je ne peux m'empêcher de me moquer de lui.
@@ -28289,7 +28285,7 @@
 133633	fra	Sais-tu où elle est  ?
 133634	fra	Je l'ai vue jouer du piano.
 133635	fra	Je trouve étrange qu'elle ne soit pas encore arrivée.
-133636	fra	L'aide financière qu'elle peut apporter est indispensable à notre projet.
+133636	fra	Son soutien financier est indispensable à ce projet qui est le nôtre.
 133637	fra	J'ai découvert où elle était.
 133638	fra	Demande-lui si elle est à la maison ou pas.
 133639	fra	Je l'ai entendue chanter.
@@ -28402,7 +28398,7 @@
 133751	fra	Je la connais de vue, mais je ne lui ai jamais parlé.
 133753	fra	Son souhait est d'étudier à l'étranger, un jour.
 133754	fra	Tous ses espoirs ont disparu.
-133755	fra	Prenez en compte ses sentiments. Pensez à ses sentiments.
+133755	fra	Prenez en compte ses sentiments.
 133756	fra	Ses idées sur l'éducation sont très différentes des miennes.
 133758	fra	Ne l'écoute pas.
 133759	fra	Ses paroles m'ont donné l'espoir.
@@ -28437,7 +28433,7 @@
 133789	fra	Son fils a été tué dans un accident de la route.
 133790	fra	Son fils est mort dans l'accident.
 133791	fra	Son fils est un génie.
-133792	fra	Ses nombreux chiots courent le jardin tous les jours.
+133792	fra	Ses nombreux chiots courent dans le jardin tous les jours.
 133793	fra	Son attitude me dégoûte.
 133794	fra	Son ambition est de devenir ballerine.
 133795	fra	Son ambition est de devenir ambassadeur.
@@ -28475,7 +28471,7 @@
 133827	fra	Après une crise cardiaque, son père est devenu invalide.
 133828	fra	Son père ne la laissait jamais aller en ville avec ses amis.
 133829	fra	Sa manière de parler me tape sur les nerfs.
-133830	fra	Sa mère arrivera dans le train de 9 :10.
+133830	fra	Sa mère arrivera par le train de 9h10.
 133831	fra	Sa mère était une Kennedy.
 133832	fra	Sa mère vit à la campagne toute seule.
 133834	fra	Sa mère est une bonne pianiste.
@@ -28504,7 +28500,7 @@
 133859	fra	Des deux filles, elle est la plus jeune.
 133860	fra	Elle dit qu'elle n'a pas l'intention d'avoir de bébés jusqu'à ce qu'elle soit dans sa trentaine.
 133861	fra	Elle n'est pas elle-même aujourd'hui.
-133862	fra	Elle a perdu son fils unique dans un accident de circulation.
+133862	fra	Elle a perdu son fils unique dans un accident de la circulation.
 133863	fra	Elle n'est pas aussi âgée que Marie.
 133864	fra	Elle est médecin.
 133865	fra	Elle est allée à Ibaragi.
@@ -28526,7 +28522,7 @@
 133882	fra	Elle gagne 30 dollars par jour.
 133883	fra	Elle réfléchit pendant quelques minutes.
 133884	fra	Elle s'est mariée avec lui à 20 ans.
-133885	fra	Elle se maquilla la figure en 20 minutes.
+133885	fra	Elle se maquilla en 20 minutes.
 133886	fra	Elle appela du bas des escaliers pour savoir ce que c'était que ce bruit.
 133887	fra	Elle ne peut avoir plus de trente ans.
 133888	fra	Je lui donne plus de trente ans.
@@ -28544,7 +28540,7 @@
 133900	fra	Elle est revenue avant 8 heures.
 133901	fra	Elle plaça ses CD dans une rangée sur l'étagère.
 133902	fra	Elle donna une réponse évasive.
-133903	fra	Elle vous a attendu pendant 2 heures.
+133903	fra	Elle vous a attendu pendant deux heures.
 133904	fra	Elle est capable de répondre à ta question.
 133905	fra	Connaît-elle votre numéro de téléphone ?
 133906	fra	Elle n'a pas beaucoup d'argent.
@@ -28581,7 +28577,7 @@
 133937	fra	Elle n'a pas réussi, mais c'était sa première tentative après tout.
 133938	fra	Discuter est ce qu'elle préfère.
 133939	fra	Elle conduisit la vieille dame à l'église par la main.
-133940	fra	Elle prévoit de descendre à l'Oriental Hôtel.
+133940	fra	Elle prévoit de descendre à l'Oriental Hotel.
 133941	fra	Elle aime les oranges, n'est-ce pas ?
 133942	fra	Elle était en train de faire du thé.
 133944	fra	Elle cuisine aussi bien que sa mère.
@@ -28615,7 +28611,6 @@
 133973	fra	Elle ne sait pas jouer au golf.
 133974	fra	Elle a deviné où Sam était et ce qu'il faisait.
 133975	fra	Elle aime le jazz, et moi aussi.
-133976	fra	Elle aime le Jazz, et j'en fais.
 133977	fra	Elle continua de parler.
 133978	fra	Elle est morte des suites d'un choc.
 133979	fra	Elle sait que John l'aimait.
@@ -28633,7 +28628,7 @@
 133992	fra	Elle est plus maigre qu'élancée.
 133993	fra	En tant que chef du service des ventes elle ne rapporte qu'au directeur général.
 133994	fra	Elle a vécu là-bas environ cinq années.
-133995	fra	Elle a gagné la course aux 100 mètres.
+133995	fra	Elle a gagné le 100 mètres.
 133996	fra	Elle agissait comme si elle n'était au courant de rien.
 133997	fra	Pendant ce temps, elle lavait la vaisselle.
 133998	fra	Elle fondit en larmes quand elle entendit les nouvelles.
@@ -28947,7 +28942,7 @@
 134319	fra	Elle a appris à faire de la bicyclette l'année dernière.
 134320	fra	Elle m'a appelé très tard la nuit dernière.
 134322	fra	Elle est occupée par son travail.
-134323	fra	Posez-lui des questions sur son travail, a-t-elle dit "Mon travail est trop compliqué pour le résumer en un mot".
+134323	fra	Interrogée sur son travail, elle a dit « mon travail est trop compliqué pour le résumer en un mot ».
 134324	fra	Elle partit de chez elle tôt le matin de peur de manquer le premier train.
 134325	fra	Elle est moins belle que sa sœur.
 134326	fra	Elle n'est pas moins charmante que sa sœur.
@@ -29096,7 +29091,7 @@
 134481	fra	Elle ne croit point en Dieu.
 134482	fra	Elle est indépendante de ses parents.
 134483	fra	Elle est la gentillesse même.
-134486	fra	Non seulement elle est gentille, mais elle est honnête.
+134486	fra	Non seulement elle est gentille, mais elle est aussi honnête.
 134488	fra	Elle fut assez aimable pour porter mes bagages.
 134489	fra	Elle a été assez gentille pour m'aider.
 134490	fra	Elle a consacré sa vie à l'aide aux handicapés.
@@ -29526,11 +29521,10 @@
 134926	fra	Mon père reviendra au début du mois prochain.
 134927	fra	Papa a dit qu'il était promu chef de section l'an prochain.
 134928	fra	Mon père a l'habitude de voyager.
-134929	fra	C'est le portrait craché de son père.
 134930	fra	Un père pourvoit à sa famille.
 134931	fra	Je n'aime pas voir de la nourriture gaspillée.
 134932	fra	Je pensais que Takeo réussirait l'examen et que Kunio le raterait, mais le résultat était tout le contraire.
-134933	fra	Un repas sans vin est comme une journée sans Soleil.
+134933	fra	Un repas sans vin est comme une journée sans soleil.
 134934	fra	Donne-moi une bouteille de vin.
 134935	fra	Portez-le sur le compte de ma chambre.
 134936	fra	Il était seul dans la salle.
@@ -29687,7 +29681,7 @@
 135094	fra	Un trou dans la législation lui a permis d'échapper à des poursuites.
 135095	fra	La loi contraint tous les citoyens à payer des impôts.
 135097	fra	Les abeilles volent de fleur en fleur.
-135098	fra	Tous les visiteurs retournaient chez eux un après l'autre.
+135098	fra	Tous les visiteurs retournaient chez eux les uns après les autres.
 135099	fra	Kunihiko atteignit la cible du premier coup.
 135100	fra	Pose ton chapeau et ton pardessus dans le hall.
 135101	fra	N'oubliez pas de poster cette lettre.
@@ -30256,13 +30250,13 @@
 135714	fra	«Ces gens-là vont-ils de nouveau entrer en grève ?» «Il semble bien que oui.»
 135715	fra	« Ce château est hanté », dit-il en frémissant.
 135716	fra	Comme on dit, l'amour est aveugle.
-135717	fra	"De quelle marque est ta voiture ?" "C'est une Ford."
+135717	fra	« De quelle marque est ta voiture ? » « C'est une Ford. »
 135718	jpn	誰も彼らの招待を断ることができなかった。
 135719	fra	Il ne faut pas se moquer de lui parce qu'il ne peut pas écrire son nom.
 135720	fra	Elle ferma la porte et monta au premier étage.
 135721	fra	Comment épelle-t-on "pretty" ?
 135722	fra	« Où sont vos livres ? » « Ils sont sur le bureau. »
-135723	fra	Le signe "&" signifie "et".
+135723	fra	Le signe « & » signifie « et ».
 135724	fra	"Non", répéta l'Anglais.
 135725	fra	«Êtes-vous étudiants ?» «Oui, en effet.»
 135726	jpn	誰も彼の話を信用しないだろう。
@@ -30278,7 +30272,7 @@
 135737	fra	"Mes dents sont trop fragiles pour manger des pommes", dit le garçon.
 135738	fra	"Je n'aime pas les carottes." "Moi non plus."
 135739	fra	"Non", dit-il d'un air catégorique.
-135740	fra	"Tu veux un T-shirt ?" "Oui, j'en voudrais un rouge."
+135740	fra	« Tu veux un T-shirt ? » « Oui, j'en voudrais un rouge. »
 135741	fra	"Je ne peux pas réfléchir avec ce bruit", dit-elle en regardant la machine à écrire.
 135742	deu	Ann hat eine Schwäche für Schokolade.
 135743	deu	Ann spielt sehr gut Tennis.
@@ -30311,8 +30305,8 @@
 135770	fra	On a dépensé plus d'argent que prévu.
 135771	spa	Depende de a lo que te refieras con "creer" en Dios.
 135772	spa	Él estaría contento de escuchar eso.
-135773	fra	"Qui est cette fille ?" "C'est Keiko."
-135774	fra	Que faut-il entendre par "There is a tide" ?
+135773	fra	« Qui est cette fille ? » « C'est Keiko. »
+135774	fra	Que faut-il entendre par « There is a tide » ?
 135775	fra	En général, je prends un bain après le dîner.
 135776	fra	"Que penses-tu des élections municipales ?" "Je ne sais pas."
 135777	fra	"Quand reviendras-tu ?" "Ca dépendra du temps qu'il fera."
@@ -30320,9 +30314,9 @@
 135779	spa	Estamos preocupados por el abuelito y la abuelita.
 135780	spa	No tenemos clase hoy.
 135781	spa	Mi reloj necesita una reparación.
-135782	fra	"As-tu terminé ?" "Loin de là, je viens juste de commencer."
-135783	fra	"Quand regardes-tu la télévision ?" "Après avoir dîné."
-135784	fra	"Est-ce vraiment là ton souhait ?", demanda le petit lapin blanc.
+135782	fra	« As-tu terminé ? » « Loin de là, je viens juste de commencer. »
+135783	fra	« Quand regardes-tu la télévision ? » « Après avoir dîné. »
+135784	fra	« Est-ce vraiment là ton souhait ? », demanda le petit lapin blanc.
 135785	fra	Mon père et moi sommes allés à ce musée pour la première fois.
 135786	fra	Fais-le pour toi-même, pas pour quelqu'un d'autre.
 135787	fra	Il est né en 1960.
@@ -30345,7 +30339,7 @@
 135804	fra	Pourriez-vous m'aider un petit peu ?
 135805	fra	"Quelle heure est-il ?" se demanda-t-il.
 135806	spa	Yamamoto también es uno de mis amigos.
-135807	fra	"Vous êtes enseignant ?" "Oui, c'est cela."
+135807	fra	« Vous êtes enseignant ? » « Oui, c'est cela. »
 135808	fra	« Quand vas-tu nager ? » « En juillet. »
 135809	fra	"Tu es l'enseignant d'Israël", dit Jésus.
 135810	fra	Je suis trop fatigué pour grimper.
@@ -33847,7 +33841,7 @@
 139382	fra	Cette table est pour six personnes.
 139383	fra	En cas d'accident, préviens-moi immédiatement.
 139384	fra	Cela va sans dire que la santé est plus importante que la richesse.
-139385	fra	Il a bon coeur.
+139385	fra	Il a bon cœur.
 139386	fra	On lui a reproché d'avoir menti à propos de cette histoire.
 139387	fra	La fille ressemblait à sa mère.
 139388	deu	Man darf nicht Homomorphismen mit Homöomorphismen verwechseln.
@@ -34250,15 +34244,15 @@
 139795	fra	J'étais très effrayé.
 139796	fra	Mon coeur se mit à palpiter à l'appel de mon nom.
 139797	fra	Mon cœur s'affole chaque fois que je la vois.
-139798	fra	Mon coeur s'emballa d'excitation.
+139798	fra	Mon cœur s'emballa d'excitation.
 139799	fra	Je sentais mon cœur battre après avoir un peu couru.
 139800	fra	Mon cœur battait plus fort à l'approche de mon tour.
-139801	fra	Mon coeur commença à battre la chamade.
+139801	fra	Mon cœur commença à battre la chamade.
 139802	fra	Elle sentit son cœur s'affoler.
-139803	fra	Elle lut la lettre le coeur palpitant.
-139804	fra	Le coeur battant elle ouvrit la porte.
+139803	fra	Elle lut la lettre, le cœur palpitant.
+139804	fra	Le cœur battant, elle ouvrit la porte.
 139805	fra	Je sentais mes mains trembler et mon coeur s'emballer.
-139806	fra	Le coeur du garçon effrayé palpitait de terreur.
+139806	fra	Le cœur du garçon effrayé palpitait de terreur.
 139807	fra	Ils étaient renvoyés d'un bureau à l'autre.
 139808	fra	Il déménageait d'un endroit à l'autre.
 139809	fra	Il pleuvait à verse.
@@ -34472,7 +34466,7 @@
 140022	deu	Wenn wir bloß einen Garten hätten!
 140023	deu	Vor meinem Haus ist ein kleiner Garten.
 140024	fra	Cela n'a rien à voir avec toi.
-140025	fra	Avez-vous appris le numéro par coeur ?
+140025	fra	Avez-vous appris le numéro par cœur ?
 140026	fra	T'es-tu brossé les dents ?
 140027	fra	Vous êtes-vous brossé les dents ?
 140028	fra	Elle a dit qu'elle se brosse les dents tous les matins.
@@ -34530,7 +34524,7 @@
 140082	jpn	息子に成り代わってお礼を申し上げます。
 140083	fra	Comme je n'ai pas de boulot, je ne peux pas faire d'économies.
 140084	fra	Personne ne sait ce qui le tracasse tant.
-140085	fra	J'attendais le lever de rideau le coeur palpitant.
+140085	fra	J'attendais le lever de rideau, le cœur palpitant.
 140086	fra	Aurai-je une cicatrice ?
 140087	fra	Je tiens à toi.
 140088	fra	Elle n'est pas encore arrivée.
@@ -39958,6 +39952,7 @@
 145590	jpn	心の痛みを感じたおまえを追うのが怖かった。
 145591	jpn	心の清い人たちは幸いである。
 145592	jpn	心の傷を癒してくれる愛を。
+145594	jpn	心の傷は深まるばかり。
 145596	jpn	心の奥からわきあがる。
 145598	jpn	心に留めてください、私たちが皆さんの決定の結果を見に受けるのです。
 145599	jpn	心に抱いた意志とともに。
@@ -47314,7 +47309,7 @@
 153032	jpn	私は普通六時までには帰宅する。
 153033	jpn	私は普通六時に目が覚めます。
 153034	jpn	私は普通夕食前にテレビを見る。
-153035	por	Eu normalmente passo o dia inteiro à toa no domingo.
+153035	jpn	私は普通日曜は１日ぼんやりやり過ごします。
 153036	jpn	私は普通十時に寝る。
 153037	jpn	私は普通七時に起きる。
 153038	jpn	私は普通九時に寝る。
@@ -49998,3 +49993,8 @@
 155728	jpn	私は新しい上着が気に入っている。
 155729	jpn	私は新しい商売に従事している。
 155730	jpn	私は新しい女中がたいへん気に入っている。
+155731	jpn	私は新しい手袋１組を図書館に置き忘れてきた。
+155732	jpn	新しい車を買おうかと思っている。
+155733	jpn	私は新しい高速道路をドライブして楽しかった。
+155734	jpn	私は新しい計画について彼と議論した。
+155735	jpn	私は新しい靴を一足買った。
