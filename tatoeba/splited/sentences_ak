@@ -1,15 +1,3 @@
-521789	rus	Разрешите мне представить вам мою жену.
-521790	ukr	Ми повністю усвідомлюємо усю важливість ситуації.
-521791	fra	Qu'est-ce que tu fais avant le petit-déjeuner ?
-521792	epo	Ŝtrumpetoj havu la ĝustan grandecon.
-521793	epo	Tenu la vazon en ambaŭ manoj.
-521794	epo	Li furiozis pro kolero.
-521795	epo	Ni devas tuj komenci.
-521798	epo	Sed mi ne timis.
-521799	rus	Господин, представьтесь, пожалуйста. Какая у вас специальность?
-521800	epo	Ĉu vi povus diri al mi kiel atingi la stacion?
-521801	epo	Ŝi ofte venis tro malfrue al la lernejo.
-521802	rus	Я познакомил Мари с моими родителями.
 521803	epo	Miaj amikoj vizitis min antaŭhieraŭ.
 521804	fra	S'il fait beau temps, ils y arriveront demain.
 521805	epo	Li estas pli bona ol mi en matematiko.
@@ -2426,7 +2414,6 @@
 524352	fra	Où sommes-nous ?
 524353	pol	Ona woli słuchać niż mówić.
 524354	pol	Kot gonił szczura.
-524357	eng	Where are we?
 524358	pol	Oto kot.
 524359	pol	To będzie pierwsza rzecz którą zrobię jutro.
 524360	pol	Kot wygiął grzbiet.
@@ -3026,7 +3013,7 @@
 524981	pol	Rozzłościłem go.
 524982	fra	Si ma femme appelle, dites-lui simplement que je suis en réunion importante et que je ne peux pas être dérangé.
 524983	pol	Wyniki badań były całkiem zadowalające.
-524984	fra	Si ma femme appelle, dis-lui simplement que je suis en réunion importante et que je ne peux pas être dérangé.
+524984	fra	Si ma femme appelle, dis-lui que je suis en pleine réunion importante et que je ne peux pas sortir.
 524985	pol	Będziesz w stanie grać w piłkę nożną.
 524986	fra	Je me suis levé tôt ce matin.
 524987	pol	Wyśmiała jego męża.
@@ -4561,7 +4548,7 @@
 526597	pol	"Czemu nie położysz się spać, jeśli jesteś zmęczony?" "Ponieważ, jeśli pójdę spać teraz, to obudzę się zbyt wcześnie."
 526598	epo	Li fieras esti muzikisto.
 526599	epo	Ĉu vi povos helpi al mi paki sabate?
-526600	hun	A hölgy tökéletessége csak egy hibán múlt.
+526600	hun	A tökéletessége csak egy hibán múlt.
 526601	epo	Kie vi do loĝas?
 526602	pol	Powinieneś był mnie posłuchać.
 526603	pol	To kompletny bałagan i działa mi na nerwy.
@@ -4667,7 +4654,7 @@
 526705	epo	Hieraŭ mi kverelis kontraŭ mia frato.
 526706	epo	Mi ne povis respondi ĉiujn demandojn.
 526707	epo	Tiom, kiom mi scias, ŝi ankoraŭ ne edziniĝis.
-526708	deu	Er verweigert es sein Älterwerden zu akzeptieren.
+526708	deu	Er weigert sich, sein Älterwerden zu akzeptieren.
 526709	pol	Czemu nie jesz warzyw?
 526710	epo	Hundoj estas fidelaj animaloj.
 526712	pol	Rozbieram się.
@@ -5829,7 +5816,7 @@
 527911	fra	À propos de langues étrangères, parlez-vous français ?
 527912	fra	À propos de langues étrangères, parles-tu français ?
 527913	epo	Hieraŭ estis mia deksepa naskiĝtagreveno.
-527914	yue	講到古典音樂，你最鐘意邊個作曲家呀？
+527914	yue	講起古典音樂，你最鍾意邊個作曲家呀？
 527915	fra	Ce bruit est insupportable.
 527916	fra	Mon père se plaignait du bruit de la circulation.
 527917	epo	Tom kaŝis sin sub la tablo.
@@ -6604,7 +6591,7 @@
 528732	epo	Ŝi promesis ne eliri sola.
 528733	spa	El ladrón encerró al niño en el armario.
 528734	epo	Ke ĉiuj viaj sonĝoj plenumiĝu.
-528735	epo	Kiu estas la knabo kiu kuras al ni?
+528735	epo	Kiu estas la knabo, kiu kuras al ni?
 528736	cmn	小偷從後門爬窗走進了房子裏。
 528737	eng	I live with a porcupine.
 528739	fra	Je vis avec un hérisson.
@@ -7904,7 +7891,7 @@
 530100	epo	Mi renkontis lin ĉe la fino de la kajo.
 530101	rus	Он такой весёлый!
 530102	rus	Это клуб для для педерастов или для нормальных людей?
-530103	rus	Как мне найти клуб гомосексуалистов?
+530103	rus	Как мне найти хороший гей-клуб?
 530104	eng	My mother told me to behave myself.
 530105	rus	Я слышал весёлые детские голоса.
 530107	epo	Ne allasu rektan sunlumon al tiu ĉi kemiaĵo.
@@ -11350,7 +11337,7 @@
 533757	deu	Ich werde dich morgen besuchen.
 533758	deu	Der Penis ist eines der männlichen Geschlechtsorgane.
 533760	yue	佢唔讀書，所以就俾人踢咗出校。
-533761	yue	佢鐘意淺色啲嘅綠色。
+533761	yue	佢鍾意淺色啲嘅綠色。
 533762	eng	He turned pale with fright.
 533763	eng	It's night and I'm still not asleep.
 533764	cmn	我是在一九六二年三月二十二日出生的。
@@ -12149,7 +12136,7 @@
 534598	eng	It is astonishing to witness that the Iranians, onto whom the Arabs imposed Islam through military defeat, have become its most zealous followers to the point of oppressing those of Zoroastrianism, though it is the religion of their own fathers. A kind of Stockholm syndrome on the national scale.
 534600	hun	Ez nem tetszett nekem.
 534601	epo	Ni deziras manĝi. Ĉu vi povos servi nin rapide? Ni devos foriri antaŭ la dek tria kaj duono.
-534603	hun	A hölgy azt kérdezi, ez hogyan lehetséges.
+534603	hun	Azt kérdezi, ez hogyan lehetséges.
 534604	epo	Post kiom da tempo tiu aŭtobuso foriros?
 534605	hun	Te egyszerűen elfutsz az élet problémái elől.
 534606	epo	Kie estas la plej proksima stacio de subtera fervojo, mi petas?
@@ -12653,7 +12640,6 @@
 535140	pol	Nazywam się Andrea.
 535141	epo	Nia teamo estis super la nuboj pro la venko.
 535142	eng	The cat sleeps on the table.
-535144	tur	Tebrikler!
 535145	eng	A year after saying those words, she succumbed to the illness she had been fighting.
 535146	deu	Ich war froh, von deinem Erfolg zu hören.
 535148	epo	Ili povus diri la veron al ni.
@@ -13563,7 +13549,7 @@
 536094	hun	Ó, ez most tényleg zavaros...
 536095	rus	Я люблю любовные романы.
 536096	fra	Bill se leva de bonne heure pour prendre le premier train.
-536097	hun	Ha meg akarnálak ijeszteni, elmesélném, hogy mit álmodtam néhány héttel ezelőtt.
+536097	hun	Ha meg akarnálak ijeszteni, elmesélném neked, hogy mit álmodtam néhány héttel ezelőtt.
 536098	hun	Nem lehet mindent az iskoláktól várni.
 536099	hun	Sok szó van, amit nem értek.
 536100	spa	Él tiene un auto.
@@ -14290,7 +14276,7 @@
 536847	epo	Dum ŝi kriis, ŝi svingis la tranĉilon.
 536848	epo	Ŝi bone parolis la japanan.
 536849	spa	Encantado de conocerte.
-536851	epo	En 1912 la aŭstra tajloro Franz Reichelt mortis kiam li saltis ekde la unua etaĝo de la Ejfelturo por testi sian novan inventaĵon, la paraŝut-mantelon, kiu ne funkciis...
+536851	epo	En 1912 la aŭstra tajloro Franz Reichelt mortis kiam li saltis de la unua etaĝo de la Ejfelturo por testi sian novan inventaĵon, la paraŝut-mantelon, kiu ne funkciis...
 536853	spa	Se le acercó con un disfraz de policía
 536854	spa	¿Damos un paseo?
 536855	spa	Y estoy seguro de que sé qué lo causó.
@@ -14737,7 +14723,7 @@
 537325	epo	Larmoj plenigis ŝiajn okulojn.
 537326	fra	John est très négligent avec ses vêtements.
 537327	epo	La vetero pliboniĝis.
-537328	yue	我鐘意游水多過滑雪。
+537328	yue	我鍾意游水多過滑雪。
 537329	epo	Ĉi tiu estas tiom daŭra ke eĉ la plej diligenta laboristo rezignos.
 537330	epo	Kiam ŝi estis studento ŝi iris al la diskoteko nur unufoje.
 537331	pol	Przepraszam, że musiałeś czekać.
@@ -16126,7 +16112,7 @@
 538780	rus	Я не мог понять, что он говорит.
 538781	nld	De schilderijen zijn erg veel waard.
 538782	fra	Nos enfants aiment les chiens, mais moi, je préfère les chats.
-538783	hun	Akármit teszek, a hölgy azt mondja, hogy jobban is meg tudom csinálni.
+538783	hun	Bármit teszek, azt mondja, hogy jobban is meg tudom csinálni.
 538784	epo	Kie troviĝas la plej proksima apoteko?
 538785	hun	Miért vagy még ébren ilyen későn?
 538786	rus	Зрители в едином порыве поднялись и аплодировали стоя.
@@ -16182,7 +16168,7 @@
 538836	por	Por favor abra o arquivo circulado em vermelho com um editor de texto.
 538837	ita	Tutti gli uomini devono morire.
 538838	por	O uso efetivo de desinfetantes é um assunto importante no controle de infecções nos hospitais.
-538839	hun	Hagyd abba! A hölgy emiatt kellemetlenül érzi magát.
+538839	hun	Hagyd abba! Kellemetlenül érzi magát emiatt.
 538840	por	A criança está alisando um gato.
 538841	por	A criança está fazendo carinho em um gato.
 538842	por	Eu conheço um atalho.
@@ -23818,7 +23804,7 @@
 546922	pol	Która godzina ci odpowiada?
 546923	hun	"Köszönöm a segítséget." "Nincs mit."
 546924	hun	Valamikor úgy futok majd, mint a szél.
-546925	hun	"A hölgy szereti a zenét." "Én is."
+546925	hun	"Ő szereti a zenét." "Én is."
 546926	hun	Tudasd velem, ha van valami, amit tehetek.
 546927	spa	¿Quién puede decirme cómo funciona una bombilla?
 546928	eng	Tell her to call me.
@@ -24394,7 +24380,7 @@
 547530	epo	Kie estas la klasĉambro de Tom?
 547531	epo	Tio estas bona ideo.
 547532	epo	Tio ne estas la kulpo de Jack.
-547533	epo	Estas negoco.
+547533	epo	Ĝi estas negoco.
 547534	epo	Ŝi portis altajn kalkanumojn.
 547535	epo	Mi sukcesos eniri.
 547536	epo	Ili malamis Tom.
@@ -26560,7 +26546,7 @@
 549869	epo	Havu bonan tagon!
 549870	fra	Son âge la rend apte à accomplir ce travail.
 549871	epo	Karlo grimpis la monton.
-549872	epo	Gardu viajn okulojn malfermaj.
+549872	epo	Tenu viajn okulojn malfermitaj.
 549873	epo	Li mensogis al ni.
 549874	epo	Mary parolis japane malrapide.
 549875	epo	Kio estas via hejmadreso?
@@ -27584,7 +27570,7 @@
 550970	epo	Tio estas freneza.
 550971	epo	Simple sekvu vian koron.
 550972	fra	Ils levèrent les yeux vers le ciel.
-550973	epo	Ne estas io grava.
+550973	epo	Ĝi ne estas io grava.
 550974	fra	C'est fou.
 550975	fra	C'est dingue.
 550976	epo	Ni manĝas pomojn.
@@ -29003,7 +28989,7 @@
 552473	spa	Conocer un idioma es algo que nos enseña algo más.
 552474	epo	Ni devas plenumi la kontrakton ĝis la jarfino.
 552475	epo	Mi estas la nigra ŝafo de la familio.
-552476	epo	La Unuiĝintaj Nacioj estas internacia organizaĵo.
+552476	epo	Unuiĝintaj Nacioj estas internacia organizaĵo.
 552477	fra	Le résultat découle maintenant de la proposition 1.3.
 552478	fra	Rappelle-toi les jours des vieilles cours d'écoles.
 552479	epo	Mi estas la propeka kapro de la familio.
@@ -29572,7 +29558,7 @@
 553073	eng	In the 1980s an opera production of "Hansel and Gretel" caused a furor because the part of the Witch was played by a man; nobody seemed to care that the part of Hansel, a trouser role, was played by a woman.
 553074	epo	Tio kostis al mi multajn horojn skribi ĝin.
 553075	epo	Lia provo fiaskis.
-553076	epo	En la 1980-aj jaroj opera prezentado de “Hansel kaj Gretel” kaŭzis indignon ĉar la persono de la sorĉistino estis rolata per viro; neniu ŝajnis zorgi ke la persono de Hansel, pantalonrolo, estis rolata de virino.
+553076	epo	En la 1980-aj jaroj opera prezentado de “Hansel kaj Gretel” kaŭzis indignon ĉar la persono de la sorĉistino estis rolata de viro; neniu ŝajnis zorgi ke la persono de Hansel, pantalonrolo, estis rolata de virino.
 553077	epo	Ni bezonas la monon.
 553078	rus	Не смотри в окно.
 553079	rus	Не выглядывай из окна.
@@ -30291,7 +30277,7 @@
 553825	fra	Nous avons monté une forte pente.
 553826	fra	Il a payé le double du prix du voyage.
 553827	cmn	有一次，我在树里迷路了。
-553828	fra	Elle a réussi à traverser le pacifique avec son bateau.
+553828	fra	Elle a réussi à traverser le Pacifique avec son bateau.
 553829	eng	Once, I got lost inside a tree.
 553830	fra	Une fois, je me suis perdu dans un arbre.
 553831	rus	Однажды, я заблудился внутри дерева.
@@ -31054,7 +31040,7 @@
 554631	epo	Li faris ĝin por mono.
 554632	yue	我做嘢好忙，所以冇時間寫信俾你。
 554633	epo	Ni havas katon; ni ĉiuj ŝategas ĝin.
-554634	yue	你鐘意就好喇。
+554634	yue	你鍾意就好喇。
 554635	cmn	這是因為日本人和美國人對禮貌的觀念有所不同。
 554636	cmn	這張桌子不錯，不過有一個美中不足的地方 ﹣ 我的房間放不下它。
 554637	eng	Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
@@ -32706,7 +32692,7 @@
 556419	epo	Ĉar ili televidas.
 556420	epo	La muzeo estas malfermita ekde la 9-a horo matene.
 556421	eng	In 1980 the Ontario Censor Board banned the film "The Tin Drum," adapted from the Günter Grass novel, but the media found this silly, and so the Canadian Broadcasting Corporation (CBC) showed the offending scene that night from coast to coast on the national news.
-556422	epo	En 1980 la komitato de filmcenzuristoj de Ontario malpermesis la filmon “La lada Tambureto” filmversio de la romano de Günter Grass, sed la medioj taksis tion stulta, kaj tial la Kanada Disaŭdiga Korporacio montris la ofendan scenon dum tiu vespero tra la tuta lando en la nacia novaĵprogramo.
+556422	epo	En 1980 la komitato de filmcenzuristoj de Ontario malpermesis la filmon “La lada Tambureto” filmversio de la romano de Günter Grass, sed la amaskomunikiloj taksis tion stulta, kaj tial la Kanada Disaŭdiga Korporacio montris la ofendan scenon dum tiu vespero tra la tuta lando en la nacia novaĵprogramo.
 556423	heb	אחרי המוות, הרופא.
 556424	heb	איך היה סוף השבוע שלך?
 556425	heb	הנבחרת שלנו מובילה בחמש נקודות.
@@ -32880,7 +32866,6 @@
 556604	epo	Li samopinias kun mi.
 556605	eng	His birthday is May 5th.
 556606	epo	Vi devas studi diligente.
-556607	epo	Estas senpage.
 556608	hun	Úgy megzabálnálak téged!
 556609	epo	Universitata laboro donus al vi pli da libera tempo.
 556610	epo	Li ŝatas vojaĝi sola.
@@ -33451,7 +33436,7 @@
 557208	ukr	Ти не забереш це з собою до раю!
 557209	epo	Mi bedaŭras, sed mi ne povas longe resti.
 557210	epo	Li manĝis la fruktojn, kvankam ili estis acidaj.
-557211	hun	A hölgy új regénye sikerkönyv lett.
+557211	hun	Sikerkönyv lett az új regénye.
 557212	deu	Ich mag Äpfel.
 557213	deu	Darf ich deinen Bleistift benutzen?
 557214	epo	Kvankam li maljunas, li vere viglas.
@@ -36177,7 +36162,7 @@
 560068	fra	Le garçon a peut-être dit un mensonge pour faire plaisir à ses parents.
 560069	ukr	Нам довелося важко працювати.
 560071	ukr	Нам дали важку роботу.
-560072	deu	Mein Wunsch Arzt zu werden, entstand, als ich mich um meinen kränkelnden Bruder kümmerte.
+560072	deu	Mein Wunsch, Arzt zu werden, entstand, als ich mich um meinen kränkelnden Bruder kümmerte.
 560073	hun	Vett neki egy kutyát.
 560074	epo	Mi estas certa, ke li venos.
 560075	epo	Ĉiam, kiam mi estas sola, mi pensas pri li.
@@ -38091,7 +38076,7 @@
 562098	spa	Cierra la puerta.
 562100	spa	"¿Te gustan las serpientes?" "Por supuesto que no."
 562101	spa	Quisiera información más detallada.
-562102	yue	「你鐘唔鐘意蛇㗎？」「梗係唔鐘意啦。」
+562102	yue	「你鍾唔鍾意蛇㗎？」「梗係唔鍾意啦。」
 562103	spa	Me gustan la geografía y la historia.
 562104	eng	He was surrounded by a throng of reporters.
 562105	spa	Él comenzó una nueva vida.
@@ -38882,7 +38867,7 @@
 562930	epo	Malmultaj personoj tiel pensas.
 562931	epo	Eble la klarigo estas multe pli komplika.
 562933	pol	Boże Narodzenie jest 25go grudnia.
-562934	pol	Jaki silny wiart!
+562934	pol	Jaki silny wiatr!
 562935	pol	Zapłacę rachunek.
 562936	pol	Będę jutro nieobecny.
 562937	pol	Ta fabryka robi zabawki.
@@ -40026,7 +40011,7 @@
 564126	epo	Mia komputilo difektiĝis kaj riparendas.
 564127	spa	Preferiría ir al museo de arte que ir al cine.
 564128	fra	Je ne m'oppose pas à ce que tu ailles travailler à l'extérieur, mais qui s'occupera des enfants ?
-564129	epo	Ili povus esti pli granda ol vi.
+564129	epo	Ili povus esti pli grandaj ol vi.
 564130	spa	Éstos son mis zapatos, y ésos son los tuyos.
 564131	epo	Kiam patrino revenos, patro?
 564132	fra	Je prendrai en charge vos responsabilités pendant que vous êtes loin du Japon.
@@ -41388,7 +41373,7 @@
 565588	rus	Я пошла домой.
 565589	epo	Mia kara kateto malaperis antaŭ unu semajno.
 565590	pol	Nancy pochodzi z Londynu.
-565591	epo	Estas la kulpo de la gepatroj, kaj ne de la infanoj.
+565591	epo	Tio estas la kulpo de la gepatroj, kaj ne de la infanoj.
 565592	epo	Ŝi riĉas, sed li malriĉas.
 565593	epo	Via horloĝo similas mian laŭ formo kaj koloro.
 565594	fra	Ce vieux couple n'avait pas de fils.
@@ -41406,7 +41391,7 @@
 565606	rus	Вы еще молоды.
 565607	epo	Sinjorino Smith aŭtomobilas al la preĝejo.
 565608	ita	Muiriel ha 20 anni adesso.
-565609	yue	我鐘意飲牛奶多過飲果汁。
+565609	yue	我鍾意飲牛奶多過飲果汁。
 565610	rus	Тебе следует выпустить животных из клетки.
 565611	epo	Nia bebo ankoraŭ ne parolas.
 565612	ita	Oggi è il 18 di giugno ed è il compleanno di Muiriel!
@@ -41769,7 +41754,7 @@
 565982	pol	Odwiedzę cię jutro.
 565983	eng	We were two, but only had one heart.
 565984	pol	Mistrzowskie opanowanie angielskiego jest trudne.
-565985	fra	Nous étions deux, mais n'avions qu'un coeur.
+565985	fra	Nous étions deux, mais n'avions qu'un cœur.
 565986	pol	Nikomu o tym nie mów.
 565987	pol	Czy możesz to znaleźć?
 565988	pol	Ożenił się z Ann.
@@ -48501,7 +48486,7 @@
 573057	hun	A teremben már nem volt egyetlen szabad hely sem.
 573058	spa	Mis padres se conocieron en las montañas.
 573059	hun	A kisgyerek még nem tudja a kanalat használni.
-573060	hun	Kérem, mondja hangosabban.
+573060	hun	Kérem, mondja hangosabban!
 573061	hun	Mondok neked valami érdekeset.
 573062	fra	La robe dans la vitrine m'a accroché l'œil.
 573063	fra	Il était disposé à s'occuper du chat.
@@ -49998,3 +49983,18 @@
 574628	dan	Fuglene sang.
 574629	dan	Fuglene lægger æg.
 574631	dan	Fuglene sang i skovene.
+574632	deu	Im Ausland sind wir alle Ausländer.
+574633	dan	Nogle af fuglene fløj ikke.
+574634	eng	He pushed his nose against the window.
+574635	deu	Mir fehlten die Worte.
+574636	eng	I worry that I have caught a cold.
+574637	dan	Fugle bygger reder i træer.
+574638	dan	En fugl har vinger.
+574639	deu	Das ist das schlechteste Buch, das ich je gelesen habe.
+574640	dan	Fuglen var halvt så stor som en ørn.
+574641	dan	Fuglen spredte sine vinger.
+574642	deu	Mögen sie lange leben!
+574643	epo	Ludi la violonon bezonas multe da ekzercado.
+574644	deu	Ich frage mich, warum Karaoke so beliebt ist.
+574645	dan	Fuglen var halvt så stor som en høg.
+574646	dan	Fuglen er i sin rede.
