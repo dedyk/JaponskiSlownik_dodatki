@@ -1,41 +1,3 @@
-732684	ukr	Вам одномісний чи двохмісний номер?
-732685	ukr	Це твоя найголовніша проблема.
-732686	ukr	Це твоя головна проблема.
-732687	ukr	В них урок англійської три рази на тиждень.
-732688	ukr	Усе листя на дереві стало жовтим.
-732689	ukr	Усе листя на дереві пожовтіло.
-732690	epo	La radiko de la problemo estas manko de komunikado inter la sekcioj.
-732691	ukr	Твоя машина швидка, але моя ще швидша.
-732692	ukr	В тебе машина швидка, але в мене - швидша.
-732693	ukr	Чому ви не хочете з нами пообідати?
-732694	ukr	Кажуть, що Анна вийде заміж у червні.
-732695	epo	Ni studu apartan ekzemplon.
-732696	ukr	Вони чудово підходять одне одному.
-732697	ukr	Ключ на столі.
-732698	ukr	Ключ лежить на столі.
-732699	ukr	Він знає багатьох.
-732700	ukr	Він знає багато людей.
-732701	ukr	Він знає багатьох людей.
-732702	ukr	В'язня звільнили вчора.
-732703	epo	Liajn romanojn tradukitajn en la anglan oni multe legas en Usono.
-732704	ukr	Собаки, що гавкають, не кусають.
-732705	epo	La alarmo sonis.
-732706	ukr	Пси, що гавкають, не кусають.
-732707	ukr	Вам слід дослухатися до його поради.
-732708	ukr	Тобі варто дослухатися до його поради.
-732709	ukr	Ви маєте прислухатися до його поради.
-732710	ukr	Тобі слід прислухатися до його поради.
-732711	hun	A rossz idő miatt a repülőnek három óra késése volt.
-732712	ukr	Тобі слід дотриматися його поради.
-732713	ukr	Вам слід дотриматися його поради.
-732714	ukr	Тобі варто дотриматися його поради.
-732715	ukr	Вам варто дотриматися його поради.
-732716	deu	Ich möchte deine Mutter sprechen.
-732717	hun	Az embernek mindig a legrosszabbra kell felkészülnie.
-732718	spa	No se puede fumar en el ascensor.
-732719	hun	A környezetvédelem nálam kezdődik.
-732720	epo	Mi volas paroli kun via patrino.
-732721	hun	Vizet iszom, mert szomjas vagyok.
 732722	hun	Mikor kezdődik a show?
 732723	epo	Bonvolu sciigi al mi, se mi povas liveri ajnan kompletigan informon, aŭ se vi dezirus kontakti min pri demandoj.
 732724	deu	Der Plan war ein Meisterwerk des Betruges.
@@ -933,13 +895,13 @@
 733658	spa	Le debo la vida.
 733659	deu	Er ist ein vielversprechender Junge.
 733660	epo	Ni bezonas kuri por alveni ĝustatempe.
-733664	tur	Tom, cüzdanını şifoniyerin üstüne koydu.
+733664	tur	Tom cüzdanını şifoniyerin üstüne koydu.
 733665	deu	Mutter war naiv genug zu fragen: „Möchtest du noch Bier trinken?“
 733666	epo	Germanlingvaj frazoj kun la skemo SPO, subjekto predikato objekto, estas ĝenerale pli facile kompreneblaj ol frazoj kun devianta sinsekvo.
 733668	eng	Can I visit the Madam Tussaud?
 733669	eng	Can I visit the London Eye?
-733670	tur	Madam Tussaud'ı gezebilir miyim?
-733671	tur	London Eye'ı gezebilir miyim?
+733670	tur	Madam Tussaud'yu ziyaret edebilir miyim?
+733671	tur	London Eye'ı ziyaret edebilir miyim?
 733672	deu	Er ist sehr naiv.
 733673	eng	He is resting on his laurels.
 733675	eng	He is not just kind, but honest too.
@@ -1655,7 +1617,7 @@
 734412	deu	Er ist nicht hoch genug gesprungen um einen Preis zu gewinnen.
 734413	deu	Er übernahm das Geschäft.
 734414	eng	Some learned writers have compared a Scorpion to an Epigram, because as the sting of the Scorpion lies in the tail, so the force and virtue of an epigram is in the conclusion.
-734415	deu	Es ist unhöflich sich über seinen Chef in der Öffentlichkeit lustig zu machen.
+734415	deu	Es ist unhöflich, sich über seinen Chef in der Öffentlichkeit lustig zu machen.
 734416	fra	Une langue est un dialecte avec une armée et une marine.
 734417	fra	Plus triste que le mendiant est l'homme qui mange seul en public.
 734418	deu	Wir können sie nicht von ihrer jüngeren Schwester unterscheiden.
@@ -1741,7 +1703,7 @@
 734500	deu	Die Stadt hat etwa 100.000 Einwohner.
 734501	deu	Übrigens, spielst du Violine?
 734502	deu	Kann sie Fahrrad fahren?
-734503	deu	Um abzunehmen habe ich damit angefangen das Mittagessen ausfallen zu lassen.
+734503	deu	Um abzunehmen, habe ich damit angefangen, das Mittagessen ausfallen zu lassen.
 734504	fra	Je ne savais pas qu'il avait autant bu.
 734505	hun	A fogyókúrát azzal kezdem, hogy kihagyom az ebédet.
 734506	hun	Nem tudtam, hogy ilyen sokat iszik.
@@ -2041,7 +2003,7 @@
 734808	tur	Çoğu genç yetişkin geceleyin dışarı çıkmaktan hoşlanır.
 734809	tur	2010 sayısında iki tane sıfır vardır.
 734810	tur	Küçük oğlan hayvanat bahçesinde.
-734811	tur	Zebralar ve zürafalar bir hayvanat bahçesinde bulundular.
+734811	tur	Zebralar ve zürafalar bir hayvanat bahçesinde bulunurlar.
 734812	tur	Dün okulun son günüydü.
 734813	tur	Köpek koşmaya başladı.
 734814	tur	Tom'un doğum günü dündü.
@@ -2049,7 +2011,7 @@
 734816	tur	Tom bütün gününü yatakta okuyarak geçirdi.
 734817	tur	Mississippi Nehri derin ve geniştir.
 734818	tur	Oturma odamda geniş pencereler var.
-734819	tur	Tom piyangoda 10,000$ kazandı.
+734819	tur	Tom piyangoda 10.000 dolar kazandı.
 734820	tur	Tom yarışı kazandı.
 734821	tur	Ben kışın doğdum.
 734822	tur	Doğum gününde dilek tutmak bir Amerikan geleneğidir.
@@ -2480,7 +2442,7 @@
 735277	eng	As long as you have someone you love from the heart, you have a motivating force and you can face the entire world.
 735278	deu	Ich traf ihn auf dem Weg, als ich von der Schule nach Hause kam.
 735279	deu	Er ist mir auf dem Heimweg von der Schule begegnet.
-735280	tur	Tom, Fransızca'yı İngilizce'den daha kötü konuşur.
+735280	tur	Tom, Fransızcayı İngilizceden daha kötü konuşur.
 735281	nld	Het was een boosaardig konijn.
 735282	nld	Dat zal nooit gedaan zijn.
 735284	cmn	让我安心工作。
@@ -4012,7 +3974,7 @@
 736871	isl	Sólin er ekki gul á kvöldin. Hún er appelsínugul.
 736872	epo	Fininte la laboron li tuj iras bierejon.
 736873	pol	Moje hobby to kolekcjonowanie starych butelek.
-736874	epo	Mi kisas kun malfermaj okuloj.
+736874	epo	Mi kisas kun malfermitaj okuloj.
 736875	eng	Some people only buy organic food; they think that in this way their body will not be damaged by pollutants.
 736876	pol	Był w kapeluszu na głowie.
 736877	pol	Lepiej posłać po lekarza.
@@ -6469,7 +6431,7 @@
 739443	epo	La unua sezono de la jaro estas printempo.
 739444	eng	The life lesson: giving people the benefit of the doubt can further your career and personal relationships!
 739445	deu	Wir machen eine kurze Pause.
-739446	deu	Das Altertümliche und das Moderne, die Gegenwart und die Zukunft sind alle eins.
+739446	deu	Das Altertümliche und das Moderne, die Vergangenheit und die Zukunft sind alle eins.
 739447	deu	Schließlich haben wir nichts eingestanden.
 739448	deu	Schließlich haben wir nicht gebeichtet.
 739449	deu	Ich habe ihr sofort geschrieben um nachzufragen, aber sie hat nicht geantwortet.
@@ -8344,7 +8306,7 @@
 741408	epo	Islamanoj entombigas siajn mortintojn en tomboj.
 741409	nld	Wat een mooi uitzicht!
 741410	deu	Maria trug einen schwarzen Pullover, als ich sie traf.
-741411	deu	Er gab alles um den Preis zu gewinnen.
+741411	deu	Er gab alles, um den Preis zu gewinnen.
 741412	nld	Ik speel graag piano.
 741413	deu	Meine Tochter schläft tief und fest.
 741414	nld	Ik studeer dikwijls met muziek.
@@ -9131,7 +9093,7 @@
 742232	deu	Es ist nicht gerade ein Szenelokal, eher eine Spelunke.
 742233	deu	Bill nahm seinen kleinen Bruder mit in den Zoo.
 742234	deu	Du solltest diesen Vertrag wirklich schriftlich festhalten.
-742235	deu	Ich habe Liz diesen Morgen gesehen.
+742235	deu	Ich habe Liz heute Morgen gesehen.
 742236	deu	David kann nicht zu Hause sein.
 742237	deu	David ist zu Hause.
 742238	jbo	mi nelci lo nu tadni lo citri
@@ -9197,7 +9159,7 @@
 742298	vol	Äbinob fenik, ab no äkanob slipön.
 742299	deu	Ich war müde, aber ich konnte nicht schlafen.
 742300	vol	Äbinos hitik ädelo.
-742301	deu	Es tat mir sehr Leid, dass ich ihnen so viel Ärger bereitete.
+742301	deu	Es tat mir sehr leid, dass ich ihnen so viel Ärger bereitete.
 742302	deu	Es war schwierig für mich, ihn zufrieden zu stellen.
 742303	deu	Guten Morgen, ich würde gerne ein Zimmer reservieren.
 742304	deu	Ich denke er ist ein netter Kerl.
@@ -12963,8 +12925,8 @@
 746267	fra	Les livres sont à l'esprit ce que la nourriture est au garçon.
 746268	eng	He has lived in Iceland for a long time.
 746269	fra	La colère se traduisait sur son visage.
-746270	tur	Dün yeni bir kişisel bilgisayar aldım.
-746271	tur	Dün yeni bir PC aldım.
+746270	tur	Dün yeni bir kişisel bilgisayar satın aldım.
+746271	tur	Dün yeni bir PC satın aldım.
 746272	fra	Je préfère les films intéressants.
 746273	fra	Il ne pouvait sous aucun prétexte manquer cette fête.
 746274	fra	Voulez-vous la verte ou la bleue ?
@@ -13001,7 +12963,7 @@
 746310	spa	Walt Whitman es mi poeta estadounidense favorito.
 746311	spa	Por ser muy inteligente y amable, este perro me es buena compañía.
 746312	spa	Él se acercaba a su fin.
-746313	tur	Bir sineğe bile zarar vermez.
+746313	tur	O bir sineğe bile zarar veremez.
 746314	spa	Todos los miembros esperan que Tatoeba tenga un millón de enunciados a finales del año.
 746315	nld	Ik hoop dat ze mij zal helpen.
 746316	fra	Susie aime la musique japonaise.
@@ -13881,7 +13843,7 @@
 747221	tur	Harika hediye için teşekkürler.
 747222	tur	Süt içiyordum.
 747223	tur	Bu odada düz oturmak için çok uzun.
-747224	tur	Evliliğinde ona tebrik ettiler.
+747224	tur	Evliliği için onu tebrik ettiler.
 747225	tur	Tony yeşil alanlar ve küçük, sessiz köyler gördü.
 747226	tur	Çin doğal kaynaklar bakımından zengindir.
 747227	tur	Tabela "Çık." diyor.
@@ -14367,7 +14329,7 @@
 747717	deu	Über die Schwierigkeit wurde diskutiert.
 747718	deu	Sie hatten niemanden, an den sie sich wenden konnte.
 747719	deu	Sie wird dir nur sagen, was du ihrer Meinung nach hören willst.
-747720	deu	Sie ist durch ihre Kreditkarten verschuldet bis zum geht nicht mehr.
+747720	deu	Sie ist durch ihre Kreditkarten verschuldet bis zum Gehtnichtmehr.
 747721	deu	Wir aßen bei einem Rasthaus an der Landstraße zu Mittag.
 747722	deu	Beim nächsten Dorf neigt sich die Landstraße gen Süden.
 747723	deu	Häuser reihten sich an der Landstraße.
@@ -14467,11 +14429,11 @@
 747819	tur	Merkezi ısıtma kışın yeterince ısıtıyor mu?
 747820	tur	Bir ev kiralamak istiyorum.
 747821	tur	Bu ev yakında, iki yatak odası ve bir oturma odası var, ve dekorasyonu kötü değil; ayda 1500.
-747822	tur	Tsez dili, Dağıstan'da yaklaşık 15,000 kişi tarafından konuşulan bir Kuzeydoğu Kafkasya dilidir.
-747823	tur	Dido dili, Dağıstan'da yaklaşık 15,000 kişi tarafından konuşulan bir Kuzeydoğu Kafkasya dilidir.
-747824	tur	Didoca, Dağıstan'da yaklaşık 15,000 kişi tarafından konuşulan bir Kuzeydoğu Kafkasya dilidir.
+747822	tur	Tsez dili, Dağıstan'da yaklaşık 15.000 kişi tarafından konuşulan bir Kuzeydoğu Kafkasya dilidir.
+747823	tur	Dido dili, Dağıstan'da yaklaşık 15.000 kişi tarafından konuşulan bir Kuzeydoğu Kafkasya dilidir.
+747824	tur	Didoca, Dağıstan'da yaklaşık 15.000 kişi tarafından konuşulan bir Kuzeydoğu Kafkas dilidir.
 747825	tur	O beni hatırlamayabilir ama ben onu hatırlarım.
-747826	tur	İngiltere'de ne kadar uzun yaşadılar?
+747826	tur	Onlar İngiltere'de ne kadar süre yaşadılar?
 747827	epo	Post la tempesto la maro estis kvieta.
 747828	tur	Tamam. Bunun üzerine ne tavsiye etmek istersin?
 747829	epo	La aktorino estis en sia loĝio antaŭ sia tualettablo kaj ĝustigis sian ŝminkon.
@@ -15853,7 +15815,7 @@
 749264	eng	I let go, so that he could walk through.
 749265	eng	He wields English well.
 749266	eng	Could you call me later?
-749267	epo	Mia patro estas ĵus ekstere en la ĝardeno.
+749267	epo	Mia patro estas nun ekstere en la ĝardeno.
 749268	hun	Linda most nem táncol gyakran, de tudom, hogy sokat szokott táncolni.
 749269	eng	Step back, Satan!
 749270	hun	Gyorsan beszélt.
@@ -16532,13 +16494,13 @@
 749990	fra	Il est en train de fouiller dans une poubelle parce qu'il a faim.
 749991	ita	Sta frugando in un cestino perché ha fame.
 749992	tur	Hata nasıl gözlendi?
-749993	tur	Hata normal mi yoksa düzensiz mi meydana geldi? Hata yeniden üretilebilir mi?
+749993	tur	Hata düzenli olarak mı yoksa ara sıra mı meydana geliyor? Hata yeniden üretilebilir mi?
 749994	ita	Quando è capitato l'errore?
 749995	tur	Hata baştan sağda mı yoksa sonradan mı meydana geldi? - Ne zaman?
 749996	tur	Nereden kitap alabilirim?
 749997	fra	Je travaille dans un centre d'appels.
 749998	ita	Lavoro in un call center.
-749999	tur	Kurosawa'nın filmlerinden bir çift görmüştüm.
+749999	tur	Kurosawa'nın filmlerinden birkaçını izledim.
 750000	tur	Bu sorun tartışılmaya değer.
 750001	fra	Je suis banquier.
 750002	ita	Sono un banchiere.
@@ -16779,7 +16741,7 @@
 750252	deu	Wir fuhren mit dem Aufzug auf und ab.
 750253	ita	Queste banane sono mature?
 750254	deu	Ist dir auf dem Weg hierher jemand begegnet, den du kennst?
-750255	tur	Hava kararmadan Londra'ya ulaşacağız.
+750255	tur	Hava kararmadan önce Londra'ya ulaşacağız.
 750256	ita	Raggiungeremo Londra prima che diventi buio.
 750257	deu	Ich wollte helfen, aber es gab nichts, das ich tun konnte.
 750258	deu	Kennst du die Bedeutung dieses Wortes?
@@ -18137,7 +18099,7 @@
 751710	cmn	他踮著腳尖走, 所以沒有人聽到他。
 751711	tur	O benim fikrim.
 751712	eng	This is my idea.
-751714	tur	O, onun arkadaşı.
+751714	tur	O, onun arkadaşıdır.
 751716	tur	Sen yüzebiliyor musun?
 751717	cmn	你咳嗽是因為你抽煙。
 751718	tur	John New York'ta yaşar.
@@ -18971,7 +18933,7 @@
 752619	epo	Mi malfermis la skatolon kaj rigardis en ĝin.
 752620	epo	Linda ŝategas ĉokoladon.
 752621	deu	Wer an Gewicht abnehmen will, muss erst einmal an Willen zunehmen!
-752622	tur	Onun teklifini reddeti.
+752622	tur	Onun teklifini reddetti.
 752623	deu	Wer einen Kater hat, muss noch lange kein Tierfreund sein!
 752624	deu	Er kommt oft in der Schule zu spät.
 752625	deu	Mache alles so, was du kannst, damit du später es nicht bedauern müsstest.
@@ -19709,7 +19671,7 @@
 753380	deu	Möchtest du bei uns zu Hause essen?
 753381	jbo	le ninmu cu melbi
 753382	deu	Ohne sein Glück und seine Luftfahrtkenntnisse hätte Lindbergh es nie geschafft, den Atlantik zu überqueren.
-753383	fra	Salut! Comment vas-tu?
+753383	fra	Salut ! Comment vas-tu ?
 753384	fra	Je suis né en 1988.
 753385	eng	She took me by the hand.
 753386	spa	Me encantan los videojuegos.
@@ -19982,7 +19944,7 @@
 753679	deu	Sie mag Kuchen.
 753680	tur	O, nasıl İngilizce mektup yazacağını bilmiyor.
 753681	tur	O, çeşitli ekinler büyüttü.
-753682	eng	In this restaurant, there are Adana and Urfa kebabs.
+753682	eng	This restaurant serves Adana and Urfa kebabs.
 753683	tur	Bu restoranda Adana ve Urfa kebabı var.
 753684	eng	In various Turkish restaurants, shishkabob is the main food.
 753685	tur	Çeşitli Türk restoranlarında, şiş kebap ana yemektir.
@@ -21712,7 +21674,7 @@
 755500	dan	Jeg ville gerne have batterier til dette apparat.
 755501	epo	Li tre ŝatas muzikon.
 755502	epo	Ĉi tiu urbo estas nomita la japana Danujo.
-755503	tur	Erken kalmak istemedim.
+755503	tur	Erken kalkmak istemedim.
 755504	cmn	英国的食物以炸鱼排加炸薯条最为有名。
 755505	epo	Bonvolu respondi min plej baldaŭ.
 755506	eng	Fish'n'chips is the most famous English food.
@@ -21974,7 +21936,7 @@
 755773	nld	Ik zal u met de auto naar huis brengen.
 755774	nld	Vraag hem waar hij zijn auto geparkeerd heeft.
 755775	nld	Breng uw broer mee.
-755776	nld	De Italiaanse Maffia is een onderschat probleem in Duitsland.
+755776	nld	De Italiaanse maffia is een onderschat probleem in Duitsland.
 755777	nld	Luid geklop op de deur maakte hem wakker.
 755778	nld	In Japan begint het nieuwe schooljaar in april.
 755779	cmn	昨天在餐馆里点了一盘京都排骨，一份铁板茄子，一份香苏鸭子，一盘八珍豆腐宝，一盘空心菜和两碗白饭，我们被喂饱了。
@@ -22421,7 +22383,7 @@
 756228	tur	Üçümüz de öğrenciyiz.
 756229	epo	Kian ajn ludon mi kun vi ludas, vi neniam gajnas.
 756230	eng	Would you like to have dinner with me tonight?
-756231	tur	Kore'yi görmek istiyorum.
+756231	tur	Kore'yi ziyaret etmek istiyorum.
 756232	tur	Futbol, ikinci yüzyılda Çin'de oynandı.
 756233	tur	Çin'de başka bir arkadaşım var.
 756234	tur	Bu akşam yemekte benimle olmak ister misin?
@@ -27461,13 +27423,13 @@
 761479	ita	Qual è la via più adatta per raggiungere la stazione di Tokyo?
 761480	ita	Non dimenticherò la tua gentilezza finché vivrò.
 761482	fra	Il va pleuvoir.
-761483	fra	"Quel âge as-tu ?" "J'ai seize ans."
+761483	fra	« Quel âge as-tu ? » « J'ai seize ans. »
 761484	deu	Manche Tiere besitzen spezielle Fähigkeiten.
 761485	fra	J'aime ma mère.
 761486	fra	Ma mère aime beaucoup le thé.
 761487	spa	Hay miles de millones de estrellas en el cielo.
 761488	deu	Ich mag den Film „Terminator“, da die Spezialeffekte hervorragend sind.
-761489	fra	Peut-être je devrais étudier l'allemand.
+761489	fra	Peut-être que je devrais étudier l'allemand.
 761491	fra	Vous êtes perdu ?
 761492	epo	Mi faras aferojn je mia propra rapideco.
 761493	fra	Est-ce que tu as vu mon père ?
@@ -29456,7 +29418,7 @@
 763585	fra	C'est facile à dire !
 763586	heb	אתה צריך לדאוג לאמך החולה.
 763587	deu	In den letzten Jahren begannen viele lokale Traditionen in Vergessenheit zu geraten.
-763588	fra	Un jour, une sorcière envoya le mauvais oeil à Christophe Colomb... et ne le vit jamais revenir.
+763588	fra	Un jour, une sorcière envoya le mauvais œil à Christophe Colomb... et ne le vit jamais revenir.
 763589	heb	אתה צריך לטפל באמך החולה.
 763590	jbo	no da le'ipli mi
 763591	deu	Halte hier nicht!
@@ -30479,7 +30441,7 @@
 764660	fra	J'ai marché seul.
 764661	fra	Du fait de la canicule, il est interdit d'arroser sa pelouse en journée.
 764662	hun	Játszhatok a zongorán?
-764663	fra	Que signifie "Tatoeba" ?
+764663	fra	Que signifie « Tatoeba » ?
 764664	isl	Það sat köttur á stólnum.
 764665	hun	Ki a zongorázó ember?
 764666	dan	Der sidder en kat på stolen.
@@ -32046,7 +32008,7 @@
 766293	deu	Sie ist beschäftigt, das Examen vorzubereiten.
 766294	deu	Sie konnte nicht auswärts studieren, weil das Geld fehlte.
 766295	fra	Excusez-moi, avez-vous ce modèle en magasin ?
-766296	fra	Pouvez-vous me mettre un exemplaire de ce produit de côté ? Je viendrais le chercher après-demain en fin de matinée.
+766296	fra	Pouvez-vous me mettre un exemplaire de ce produit de côté ? Je viendrai le chercher après-demain en fin de matinée.
 766297	deu	Sie musste ihren Zahn ziehen lassen.
 766298	deu	Sie praktizierte als Zahnärztin.
 766299	deu	Sie hat eine unregelmäßige Zahnstellung.
@@ -34849,7 +34811,7 @@
 769285	eng	It's going to be violent weather!
 769286	deu	Wenn das Herz voll ist, läuft der Mund über.
 769287	deu	Was für ein Glücksfall für mich, dich hier zu treffen!
-769288	fra	Il arrive à piquer du nez où qu'il soit. Dès lors ce qui me surprend c'est comment peut-il toujours manquer de sommeil ?
+769288	fra	Il arrive à piquer du nez où qu'il soit. Dès lors, ce qui me surprend, c'est comment peut-il toujours manquer de sommeil ?
 769289	deu	Der Mann fragte, wer ich sei, aber ich hielt es nicht für notwendig, seine Frage zu beantworten.
 769290	deu	Er ist viel größer als du.
 769291	deu	Die Uhr hat gerade drei geschlagen.
@@ -34960,7 +34922,7 @@
 769398	spa	¿Qué hora es en Tokio?
 769399	deu	Dieses Spiel wurde verschoben.
 769400	spa	¿A qué hora empezará el partido?
-769401	deu	Wir haben dieses Spiel auf Eis gelegt.
+769401	deu	Dieses Spiel spielen wir auf dem Eis.
 769402	spa	¿A qué hora empezará el juego?
 769403	spa	¿Qué tren vas a coger?
 769404	deu	Ich will dieses Spiel nicht verlieren.
@@ -35129,7 +35091,7 @@
 769575	tlh	vIqawchu'.
 769576	nld	We hebben nu meer dan ooit een hervorming nodig van het gezondheidssysteem.
 769578	nld	We nemen elke dag een bad.
-769579	tur	Açıkçası bu konu, onu hiç ilgilendirmez.
+769579	tur	Gerçeği söylemek gerekirse, bu konu onu hiç ilgilendirmez.
 769580	nld	John vloog met een vliegtuig naar Amerika.
 769581	nld	Ik drink geen koffie.
 769582	nld	Mijn broer is twee jaar ouder dan ik, maar hij is drie centimeter kleiner.
@@ -37503,7 +37465,7 @@
 772150	cmn	律師警告過他的當事人反對作證, 但是他還是這麼做了。
 772151	cmn	游泳很簡單。
 772152	por	Sua barriga fica cada vez mais gorda.
-772153	tur	Odanın bu köşesinde bir sera kurmak isterdim.
+772153	tur	Odanın bu köşesinde bir sera kurmak isterim.
 772154	por	Preciso de uma tesoura para cortar este papel.
 772155	cmn	我明天要死了，所以后天没空。
 772156	por	Por favor comporte-se honestamente.
@@ -37533,7 +37495,7 @@
 772181	deu	Mein Bruder ist finanziell von mir abhängig.
 772182	deu	Er bittet mich um Aufmerksamkeit.
 772183	fra	Il me demande d'être attentif.
-772184	fra	Mon oeil a gonflé.
+772184	fra	Mon œil a gonflé.
 772185	jbo	mi djica tu'a su'o .toiotas. zei karce
 772186	fra	Le Paraguay est un pays d'Amérique du Sud.
 772187	fra	C'était urgent.
@@ -40022,7 +39984,7 @@
 774800	por	Dizem que ele era músico quando era mais jovem.
 774801	jpn	「Tatoeba」ということはどういう意味をしていますか。
 774802	por	O que é que significa "Tatoeba"?
-774803	fra	Qu'est-ce que signifie "Tatoeba"?
+774803	fra	Qu'est-ce que signifie « Tatoeba » ?
 774804	eng	Christopher Columbus once started a revolution, and then crushed it.
 774805	eng	We would like to give a welcome party for the new members when it's convenient for them.
 774806	por	Nós gostaríamos de dar uma festa de boas-vindas para os novos membros quando for conveniente para eles.
@@ -40180,7 +40142,7 @@
 774960	deu	Benutze das Geländer.
 774961	deu	Die Tauben von Boston sind fett und stolz.
 774962	deu	Ich habe nur Bilder gemalt. Darüber hinaus hatte ich keine Absichten.
-774963	deu	Mach was du willst, geklatscht wird dennoch.
+774963	deu	Mach, was du willst, geklatscht wird dennoch.
 774964	deu	Komme nicht in die Schule, um Jux zu machen.
 774965	deu	Ich habe noch viel Zeit, um Spass zu haben.
 774966	deu	Der Lärm der spielenden Kinder wurde durch den Wind weiter getragen.
@@ -43011,7 +42973,7 @@
 777922	tur	Tom, bunun doğru olup olmadığını merak ediyor.
 777923	tur	Tom, iş yaparken yapılan hatalardan endişeleniyor.
 777925	tur	Artık "Tom" adından nefret ediyorum.
-777927	tur	Pringles ve süzme yoğurt, hoş bir tat çıkarır.
+777927	tur	Pringles ve süzme yoğurt, hoş bir tat yaratır.
 777928	ita	Mio marito guadagna 100.000 euro all'anno.
 777929	cmn	氣球的表面不是歐幾里得空間, 因此不遵守歐幾里德幾何的規則。
 777930	cmn	我要去打網球。
@@ -43949,9 +43911,8 @@
 778922	eng	I've quit using French with you.
 778923	cmn	我不会再跟你说法文了。
 778924	deu	Ich höre auf, mit dir Französisch zu sprechen.
-778925	tur	Seninle Fransızca'yı kullanmayı bırakırım.
-778926	tur	Onun adı bu kasabada herkesin kulağına tanıdık gelir.
-778927	tur	Onun adı bu kasabada herkesçe bilinmektedir.
+778925	tur	Seninle Fransızca kullanmayı bıraktım.
+778926	tur	Onun adı bu kasabada herkesçe bilinmektedir.
 778928	tur	Naçi dili, Güneybatı Çin'de konuşulmaktadır.
 778929	epo	Estas 3 dormoĉambroj, kuirejo, manĝoĉambro, salono kaj banĉambro.
 778930	fra	Je suis bourré, mais je sais encore parler allemand.
@@ -43961,16 +43922,15 @@
 778934	tur	Nepalce'nin yerel adı "नेपाली"'dir.
 778935	deu	Ich bin besoffen, aber ich kann noch Deutsch sprechen.
 778936	eng	The local name of Tsez is "cezyas mec".
-778937	tur	Tsezce'nin yerel adı "cezyas mec"'dir.
-778938	tur	Didoca'nın yerel adı "cezyas mec"'dir.
+778937	tur	Tsezcenin yerel adı "cezyas mec"'dir.
+778938	tur	Didocanın yerel adı "cezyas mec"'dir.
 778939	epo	Lia voĉo estas tiel alta kiel kondora flugalto.
 778941	epo	Aŭtomobiloj alvenis unu post alia.
-778942	tur	Recep İvedik, Türkiye ve Almanya'da popüler olan "Recep İvedik" serisi için hayalî bir karakterdir.
+778942	tur	Recep İvedik, Türkiye ve Almanya'da popüler olan "Recep İvedik" serisindeki hayali bir karakterdir.
 778943	tur	Bu senin bisikletin mi?
-778945	tur	Karabük'te, aynı zamanda SüperLig takımı Kardemir Karabükspor'un da sponsoru olan "Kardemir" adında bir demir-çelik fabrikası vardır.
+778945	tur	Karabük'te, aynı zamanda Süper Lig takımı Kardemir Karabükspor'un da sponsoru olan "Kardemir" adında bir demir-çelik fabrikası vardır.
 778946	cmn	中国是三人在中等餐馆吃火锅自助餐一共值五块人民币而汉堡包比它贵五倍唯一的国家。您去搞明白吧......
 778948	epo	Lin seniluziigis esti ne invitita.
-778949	tur	Bu çağ, gençlik için emo çağıdır.
 778950	fra	Et comme ceci, c'est correct ?
 778951	deu	Und so ist es richtig?
 778952	epo	Studentoj ofte studas kun fona muziko kaj homoj laborante endome kutime ŝaltas televidilon aŭ radion por havi kunularon.
@@ -44319,7 +44279,7 @@
 779316	tur	İngiltere'den bir hafta önce geldiler.
 779317	deu	Die Katze wurde beinahe von einem LKW überfahren.
 779318	epo	La nuntempa problemo estas, ke la estonteco ne plu estas, kiu ĝi estis.
-779319	tur	Şu, bir kişi için küçük bir adımdır ama insanlık için büyük bir sıçramadır.
+779319	tur	Bu, bir kişi için küçük bir adımdır ama insanlık için dev bir sıçramadır.
 779320	epo	Estas pomoj en la korbo.
 779321	tur	Haklı olabilirsin.
 779322	tur	Yağmur yağarsa beni ara.
@@ -44371,9 +44331,9 @@
 779369	eng	Jig, reel and hornpipe are the most popular irish dances.
 779370	tur	Herkes bir aydır, ve hiç kimseye göstermediği karanlık bir yüzü vardır.
 779371	deu	Jig, Reel und Hornpipe sind die bekanntesten irischen Tänze.
-779372	tur	Eğer mağlup gülümsediyse galip, zafer heyecanını kaybedecektir.
+779372	tur	Kaybeden gülümserse kazanan zaferin heyecanını kaybeder.
 779373	tur	1990'dan beri, on bir bayan öğrenci ödülü aldı.
-779374	tur	Son kocam gerçekten aptal.
+779374	tur	Son kocam gerçekten aptaldı.
 779375	tur	Konuşma otuz dakika sürdü.
 779376	spa	Jig, reel y hornpipe son las danzas más populares de Irlanda.
 779377	tur	Konuşma yarım saat sürdü.
@@ -44404,7 +44364,7 @@
 779403	fra	Je veux rester seul !
 779404	tur	Tom oyunda kaybetti.
 779405	epo	Li havas pli da libroj ol mi.
-779406	tur	Polise yönü sordum.
+779406	tur	Polise yol tarifi sordum.
 779407	tur	Güvenli bir mekândasın.
 779408	tur	Saçlarım çok karışık oldu.
 779409	tur	Ayrılmış olmalı.
@@ -44421,7 +44381,7 @@
 779420	tur	O, tenis oynamaya düşkün.
 779421	tur	Plan onun onayına tabidir.
 779422	hun	Miért mondtál ilyen ostobaságot?
-779423	tur	Sadece çeneni kapa ve işine bak!
+779423	tur	Çeneni kapa ve işine devam et.
 779424	hun	Naplót vezet.
 779426	tur	Bill çok erken kalktı ve ilk treni yakaladı.
 779427	hun	Ez egy életnagyságú szobor.
@@ -45644,7 +45604,7 @@
 780681	eng	It's possible that the drinking water has chlorine, lead, or similar contaminants in it.
 780683	epo	Li komplimentis min.
 780684	epo	Neniu scias tion, kio okazos en la estonteco.
-780685	epo	Kion vi diras pri eliri promeneti?
+780685	epo	Kion vi diras pri malgranda promenado?
 780686	epo	Ŝia haŭto pli blankas ol neĝo.
 780687	epo	Antaŭ nelonge mi aĉetis fotilon.
 780688	epo	Li estas valora akiraĵo por nia kompanio.
@@ -45663,9 +45623,9 @@
 780701	tur	Tom bunu duydu ve kızdı.
 780702	tur	Eski ev kötü bir şekildeydi.
 780703	epo	La "kunulo-sistemo" estas metodo de resti sekura dum marŝado en arbaro, krom kiam oni renkontas gravedajn ursinojn, kiuj manĝas por du, aŭ eĉ tri aŭ kvar.
-780704	tur	Hata onu kafasından etti.
+780704	tur	Hata onun kafasına mal oldu.
 780706	tur	Şarkıcı sadece Japonya'da değil, aynı zamanda Avrupa'da da ünlü.
-780707	tur	Bu şarkı bana tanıdık geliyor.
+780707	tur	O şarkı bana tanıdık geliyor.
 780708	pes	من باید یک کار نیمه‌وقت پیدا کنم.
 780709	tur	O, kardan dolayı geç kaldı.
 780710	pes	باید کاری پاره‌‌وقت بیابم.
@@ -46072,7 +46032,7 @@
 781131	eng	Lucy might be able to help you, if you can't cook dinner for ten people alone.
 781132	fra	Qui est en faute ?
 781133	cmn	我們承諾萬一他有麻煩的時候支持他。
-781134	eng	He might have not eaten for days.
+781134	eng	He might not have eaten for days.
 781135	eng	It might be a wedding.
 781136	ita	Hai appuntamento?
 781137	cmn	我們按照預定計劃研讀。
@@ -48401,7 +48361,7 @@
 783574	deu	Warum bist du wütend?
 783575	deu	Ich habe vor nichts Angst.
 783576	deu	Ich habe Angst.
-783579	deu	Dort war ein Unfall.
+783579	deu	Es gab einen Unfall.
 783580	deu	Sie liest nur die Prosa.
 783581	deu	Er liest nur die Prosa.
 783582	deu	Du kannst sogar ein Präsident sein!
@@ -49630,7 +49590,7 @@
 784865	epo	Katoj ne ŝatas malsekiĝi.
 784866	por	Eu não sei o que fazer.
 784867	rus	Протри зеркало.
-784868	cmn	母亲日我送给我的妈妈一束康乃馨。
+784868	cmn	母亲节我送给我的妈妈一束康乃馨。
 784869	bul	Не се чувствах добре, но отидох на работа.
 784870	por	Antigamente eles se comunicavam com sinais de fumaça.
 784871	cmn	你去过墨西哥吗？
@@ -49998,3 +49958,43 @@
 785247	spa	¿Vas en avión o en tren?
 785248	cmn	當我在我母親的子宮裡, 我從我母親的肚臍看到我將要出生的房子, 我心想: 我不要到那裡。"
 785249	cmn	如果持續疼痛, 你必須去看醫生。
+785250	epo	Vi ne devas ellitiĝi tiel frue.
+785251	epo	Unue vi fortigu vian korpon.
+785252	cmn	我甚至在週日工作。
+785253	cmn	我覺得我快昏倒了。
+785254	spa	No voy a volver a hablar en francés contigo.
+785255	epo	Mi scias nenion pri Sovetunio.
+785256	cmn	謀事在人, 成事在天。
+785257	cmn	我週日不工作。
+785258	epo	Mia frato sufiĉe aĝas por iri al la lernejo.
+785259	spa	Solo nos queda la muerte o la rendición.
+785260	cmn	科學還無法解決所有生活上的問題。
+785261	cmn	神田女士是一個非常快的跑者。
+785262	cmn	他自己做完的。
+785263	epo	Li diras, ke Usono proklamis sian sendependon en 1776.
+785264	deu	Bist du nicht Tom?
+785265	deu	Er kann den Rest der Familie imitieren.
+785266	deu	Er kann den Rest der Familie nachmachen.
+785267	epo	Formikoj svarmas ĉirkaŭ la sukero.
+785268	cmn	嫉妒讓他那樣做了。
+785269	deu	Das Stadion befindet sich neben der Schule.
+785270	epo	Rehejmiĝinte mi ĉiam brosas mian mantelon.
+785271	deu	Die Sportanlage befindet sich neben der Schule.
+785272	epo	Tiuj kamparanoj bezonegas terenojn por kultivi rizon.
+785273	deu	Er trat ein Feuer aus.
+785274	deu	Sie drohte damit, unser Haus anzustecken.
+785275	deu	Das Radio ist ein bisschen laut.
+785276	epo	Li forpasigas la tempon.
+785277	wuu	瀴唻!
+785278	epo	La radio estas iom laŭta.
+785280	cmn	沒有任何東西可以取代健康。
+785281	deu	Tom zeigte sich an dem Plan interessiert.
+785282	cmn	不可殺人!
+785283	fra	Le son de la radio est un peu fort.
+785284	cmn	電腦可以節省您的時間。
+785285	epo	Onidire nenio pli valoras ol tempo.
+785286	cmn	为了更好地理解一家公司的文化，你应该考虑下面的论点，并看公司把它们怎么处理。
+785287	eng	To better understand what a company’s culture is you should consider the following points and see how the company deals with them.
+785288	wuu	无线电个声音有点响。
+785289	spa	Esto es el resultado de nuestra investigación.
+785290	deu	Ich habe früher als Student Tennis gespielt.
