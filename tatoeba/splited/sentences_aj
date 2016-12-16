@@ -1,11 +1,3 @@
-469547	rus	Если у тебя есть другой вопрос, пожалуйста, отправь его через форму.
-469548	deu	Japan ist nicht reich an Bodenschätzen.
-469549	epo	Kiel vi akiris biletojn por la koncerto?
-469550	epo	Mi vidis ŝin ĉe la festo.
-469551	cmn	他们累得爬不动山了。
-469552	epo	Fiziko estas mia plej ŝatata fako.
-469553	cmn	这是什么意思？
-469554	cmn	您更喜欢哪条裙子？
 469555	est	Hoidke kõrgel tema au!
 469556	cmn	你更喜欢哪条裙子？
 469557	epo	Ĉi tiu ŝnuro fortas, ĉu ne?
@@ -2973,7 +2965,7 @@
 472614	rus	Как мы будем решать этот вопрос?
 472615	rus	Нет повода для паники. Еще достаточно времени.
 472616	rus	Меня почти сбила машина.
-472617	rus	Удостоверься, что дверь закрыта, перед уходом.
+472617	rus	Перед уходом удостоверься, что дверь закрыта.
 472618	rus	Это не твоя шляпа, не так ли?
 472619	rus	Школа в двух километрах впереди.
 472620	cmn	美國的罪犯大多是吸毒成癮的癮君子。
@@ -4035,7 +4027,7 @@
 473747	cmn	你必須認真學習。
 473748	uzb	Соғлиқ ва лаззат учун!
 473750	tur	Bu kim?
-473751	tur	Lee Leffingwell Austin Şehir Konseyi'nin başıdır.
+473751	tur	Lee Leffingwell, Austin Şehir Konseyi'nin başkanıdır.
 473752	cycl	(#$capitalCity #$France #$Paris)
 473753	tur	Paris Fransa'nın başkentidir.
 473754	hin	तुम्हें मन लगाकर पढ़ना होगा।
@@ -4286,7 +4278,7 @@
 474015	fra	Bien vu !
 474016	uig	نېمە ئۈچۈن؟
 474017	tur	O bu evleri kimin yaptığını bilmiyor.
-474018	tur	O, her hafta annesine yazmakta asla başarısız olmuyor.
+474018	tur	O her hafta annesine yazmaktan geri kalmaz.
 474019	tur	Günaydın.
 474020	uig	بۇ سېنىڭمۇ؟
 474021	uig	بۇ سىزنىڭمۇ؟
@@ -4694,13 +4686,13 @@
 474432	tur	Betty güzel bir kızdır, değil mi?
 474433	tur	O yanlışlıkla bana çarptı
 474434	epo	Mi demandas min mem, kio okazis al Paŭl.
-474435	tur	Kitabı, onu isteyen adama verir misin?
+474435	tur	Kitabı, onu isteyen adama ver.
 474436	epo	Kion vi ŝatus manĝi?
 474437	tur	Eşyalar dün geldi.
 474438	tur	Merhaba Mimi! Nasılsın?
 474439	fra	Parle-moi de ton plan.
 474440	fra	Parlez-moi de votre plan.
-474441	tur	Eğer zengin olursam, onu alacağım.
+474441	tur	Zengin olursam, onu satın alacağım.
 474442	tur	Kapta hiç su var mı?
 474443	tur	Üzgünüm, ama seni iyi duyamıyorum.
 474444	epo	Mi ŝatus starigi du demandojn.
@@ -4713,7 +4705,7 @@
 474451	epo	Jim rabis lian kameraon.
 474452	epo	Atentu, ke vi ne falu!
 474453	epo	Bob skribas al mi unufoje monate.
-474454	tur	Haberleri duyduğumuz anda hayal kırıklığına uğradık.
+474454	tur	Haberi duyunca hayal kırıklığına uğradık.
 474455	tur	Otel rezervasyonumu iptal ettirdim.
 474456	tur	Keklerden hiçbirini sevmiyorum.
 474458	tat	Ni xällär bar?
@@ -4724,7 +4716,7 @@
 474466	tur	O Taro'nun erkek kardeşi.
 474470	tur	Bu Brian Rock.
 474472	epo	Oni faras specialan oferton de peltaj manteloj.
-474473	tur	O Kazakistan'da yapıldı.
+474473	tur	Bu, Kazakistan'da yapıldı.
 474476	tur	Banka ona 500 dolar ödünç verdi.
 474477	urd	آپ کیسے ہو؟
 474478	deu	Ich stornierte meine Hotelreservation.
@@ -4756,7 +4748,7 @@
 474514	tur	Karaoke barda soju içtik.
 474515	tur	Bugün bir sürü ödevim var.
 474516	tur	Gözlüğüm nerede?
-474517	tur	Başka şarap yok.
+474517	tur	Onların başka şarapları yok.
 474518	epo	Li pezas pli ol okdek kilogramojn.
 474519	epo	Mi studas la korean.
 474520	deu	Ich studiere Koreanisch.
@@ -4768,7 +4760,6 @@
 474526	deu	Wäre ich jünger, würde ich im Ausland studieren.
 474527	epo	Se mi estus pli juna, mi studus eksterlande.
 474528	tur	Yağmur nedeniyle toplantı iptal edildi.
-474529	tur	Partiden nasıl hoşlandın?
 474530	deu	Wenn ich Zeit hätte, würde ich Französisch studieren.
 474531	epo	Havante tempon, mi studus la francan.
 474532	deu	Ich wünschte, ich hätte besser gelernt für den Test.
@@ -4948,7 +4939,7 @@
 474711	fra	Puis-je m'en aller maintenant ?
 474712	fra	Puis-je partir maintenant ?
 474713	deu	Meine Schwester sah es mit eigenen Augen.
-474714	epo	Pluvos ĉi-posttagmeze.
+474714	epo	Pluvos ĉiposttagmeze.
 474715	deu	Nein, ich habe es nicht dabei.
 474716	epo	La glacio en la akvo fandiĝis.
 474717	epo	Ho, jes, mi memoras.
@@ -5283,10 +5274,10 @@
 475065	tur	Bu minibüs 25 yolcu alıyor.
 475066	ara	أردت أن أضربه و لكنه هرب مني.
 475067	epo	Li demisiis de sia ofico.
-475068	tur	Çok yorgunum; Sanırım yatağa yatacağım.
+475068	tur	Çok yorgunum; Sanırım yatacağım.
 475069	ara	أغلقت النوافذ الستة كلها.
 475070	ara	أقفلت النوافذ الستة جميعها.
-475071	tur	O, ofisinden istifa etti.
+475071	tur	O, görevinden istifa etti.
 475072	ara	أبحث عن عمل يا سيدي.
 475073	epo	Li aspektas kiel bona knabo.
 475074	epo	Ĉu vi scias, kie mi loĝas?
@@ -5730,7 +5721,7 @@
 475525	tur	Yağmur bir hafta sürdü.
 475526	rus	Дождь продолжался неделю.
 475527	epo	Rigardu la libron kiun li kuŝigis sur la skribotablon.
-475528	tur	Hiçbir şeyi değiştirmeyecek.
+475528	tur	O hiçbir şeyi değiştirmeyecek.
 475529	spa	Ellos han perdido mucho.
 475530	cmn	他们的旅行因为下雨延期了。
 475531	epo	Mi ne atentas pri tio kion homoj diras.
@@ -5805,7 +5796,7 @@
 475611	ara	الطيور على أشكالها تقع.
 475612	ita	La produzione di questa fabbrica è aumentata del 20%.
 475613	spa	Esto es demasiado difícil para mí.
-475614	tur	Bu bana göre çok zor.
+475614	tur	Bu benim için fazla zordur.
 475615	tur	Burası bir acil.
 475617	epo	Aŭtomobiloj, busoj kaj kamionoj estas ĉiuj veturiloj.
 475618	tur	Bu kitaplar senin.
@@ -6396,7 +6387,7 @@
 476230	cmn	那不是猫。那是狗。
 476231	cmn	玛丽对她自己的美感到很自豪。
 476232	tur	5 ve 2'yi toplarsanız sonuç 7'dir.
-476233	tur	Gece yarısına kadar kalabilirsin.
+476233	tur	Akşama kadar kadar burada kalabilirsin.
 476234	cmn	美国人对威驰失去了信心。
 476235	tur	Mary artık onu asla görmemeye karar verdi.
 476236	cmn	这辆迷你巴士能容纳25个人。
@@ -6456,12 +6447,12 @@
 476294	tur	Mayıs'ta, tüm kuşlar yumurta bırakır.
 476295	hin	म्युज़ियम सोमवार से शुक्रवार तक खुला रहता है।
 476297	hin	उसने अपना नाम दोबारा धीरे से बोला।
-476298	tur	O yürüyüşe gitti.
+476298	tur	O, yürüyüşe gitti.
 476299	hin	यह आप सब के लिए एक बहुत महत्वपूर्ण मामला है।
 476300	tur	Ben bencil olmak niyetinde değilim.
 476301	tur	Senin yardımına ihtiyacım olacak.
 476302	hin	एक पुलिस अफ़सर उससे बात कर रहा है।
-476303	tur	Bu beni hiç sürprizlendirmedi.
+476303	tur	Beni hiç şaşırtmadı.
 476304	hin	उसकी मेरे लिए सलाह यह थी कि मैं ज़्यादा मन लगाकर काम करूँ।
 476305	rus	Николас хочет сказать, что латинизация кириллицы столь же прекрасна, сколь прекрасно солнце, которое обжигает глаза, когда на него смотришь.
 476306	tur	Ben hastayım.
@@ -6630,7 +6621,6 @@
 476470	eng	It's ached before, but never as badly as right now.
 476471	hin	जन्मदिन मुबारक हो!
 476473	tur	Teoride, teori ve pratik arasında hiçbir fark yoktur. Fakat pratikte, var.
-476474	tur	Herkes gerçekleşebilir bir rüyaya inanmak ister.
 476475	eng	It's still early. We should all just chill for a bit.
 476476	tur	Hayat kesin bir bilim değildir, bir sanattır.
 476477	tur	Bu günlerde aklımda çok şey var.
@@ -6849,14 +6839,14 @@
 476699	uig	سىز نەدىن كەلگەن؟
 476700	isl	Það mun kosta um tíu þúsund jen.
 476701	isl	Við þurfum að fresta samkundunni vegna rigningar.
-476702	tur	İngilizce konuşurken yaptığınız hatalardan korkmayın.
+476702	tur	İngilizce konuşurken hata yapmaktan korkmayın.
 476703	isl	Ef þú breytir fjörtíu og átta klukkustundum í mínútur, hversu margar mínútur gerir það?
 476704	tur	Sandalyeye oturabilirsin.
 476705	tur	Vergiyi ödemeliyiz.
-476706	tur	En son hafta 5 öğrenci sınıfta yoktu.
+476706	tur	Son hafta 5 öğrenci sınıfta yoktu.
 476707	fra	Je suis né le 23 mars 1969 à Barcelone.
 476708	tur	Nerelisin?
-476709	tur	Onun fiyatı 10,000 ¥'dir.
+476709	tur	Onun fiyatı 10.000 yendir.
 476710	isl	Það sem breytir heiminum eru samskipti; ekki upplýsingar.
 476711	tur	Ben 23 Mart 1969'da Barselona'da doğdum.
 476712	isl	Stærðfræði er sá hluti vísindanna sem þú gætir haldið áfram að stunda ef þú vaknaðir upp á morgun og uppgötvaðir að heimurinn væri horfinn.
@@ -6893,13 +6883,13 @@
 476743	isl	Ástríða veldur þjáningu.
 476744	tur	John şu an ne yapıyor?
 476745	tur	Onun parası yoktu ve herhangi bir yiyeceği alamıyordu.
-476746	tur	O bardağını boşalttı.
+476746	tur	O, bardağını boşalttı.
 476747	tur	Neden hayat acılarla dolu?
 476748	tur	Fiyatları aniden düştü.
-476749	tur	Burası yatman için uygun değil.
+476749	tur	Bu oda uyumak için uygun değil.
 476750	tur	Lütfen yarım saat bekle.
-476751	tur	O pencereden aşağı atladı.
-476752	tur	Otobüs on beş dakika sonra istasyona gelecek.
+476751	tur	O, pencereden dışarı atladı.
+476752	tur	Otobüs on beş dakika içinde istasyona gelecek.
 476753	epo	Trinku iom da teo.
 476754	eng	This room is not suitable for sleeping.
 476755	eng	Please wait for thirty minutes.
@@ -7152,7 +7142,7 @@
 477004	dan	Enhver by i USA har et bibliotek.
 477005	tur	Linux ücretsiz bir işletim sistemidir, denemelisiniz.
 477006	dan	Nemmere sagt end gjort.
-477007	tur	Hawaii'ye gitmeyi arzuluyorum.
+477007	tur	Hawaii'ye gitmeyi diliyorum.
 477008	cmn	松鼠忙着收集榛子。
 477009	dan	Takket være dig har jeg mistet min appetit.
 477010	tur	Amerika'daki her kasaba bir kütüphane bulundurur.
@@ -7174,7 +7164,7 @@
 477035	tur	"O genç mi?" "Evet, genç."
 477036	dan	Spørg ham, hvornår han kommer tilbage.
 477037	dan	Jeg foretrækker engelsk.
-477038	tur	Onun elleri buz kadar soğuk.
+477038	tur	Onun elleri buz kadar soğuktu.
 477039	dan	Hvad er dit telefonnummer?
 477040	epo	Bonvolu esti ĝentila.
 477041	dan	Min kære lille kat har nu været væk i en uge.
@@ -7184,7 +7174,7 @@
 477045	eng	Lisa Lillien is married to Dan Schneider.
 477046	tur	Lisa Lillien, Dan Schneider ile evlenmiştir.
 477047	eng	The mathematics class is good.
-477048	tur	Matematik iyi bir derstir.
+477048	tur	Matematik dersi iyidir.
 477051	eng	Sumatra is an island.
 477052	tur	Sumatra bir adadır.
 477053	eng	Pakistan is a Muslim country.
@@ -7200,7 +7190,7 @@
 477066	bel	Пакістан — мусульманская краіна.
 477067	eng	If you sign up to Facebook, your information will be sent to intelligence agencies.
 477068	ukr	Пакістан — мусульманська країна.
-477069	tur	Eğer Facebook'a üye olursanız, bilgileriniz istihbarat örgütlerine gidecektir.
+477069	tur	Facebook'a üye olursanız, bilgileriniz istihbarat örgütlerine gönderilecektir.
 477070	bel	Я не маю часу на чытанне кніг.
 477071	rus	У меня нет времени на чтение книг.
 477072	fra	Je vais étudier ton rapport.
@@ -7231,7 +7221,7 @@
 477098	tur	Auldey bir Çin markasıdır.
 477099	eng	The name of Marco's car is 'Thunder Giant'.
 477100	bel	Суматра — гэта выспа.
-477101	tur	Marco'nun arabasının adı "Thunder Giant"tır.
+477101	tur	Marco'nun arabasının adı "Thunder Giant"tir.
 477102	rus	Суматра — это остров.
 477103	tat	Суматра — утрау.
 477105	tur	Evli misin?
@@ -8322,7 +8312,7 @@
 478225	epo	La ĉambro plenegis per mebloj.
 478226	spa	Lo único que tienes que hacer es oprimir este botón para tomar la foto.
 478227	jpn	私の日本語の練習に付き合ってくれませんか。
-478228	tur	O çocuklarını kendi etrafına topladı.
+478228	tur	O, çocuklarını kendi etrafına topladı.
 478229	tur	Oda mobilyayla dolu.
 478230	epo	Memmortigo estas unu el la ĉefaj mortokaŭzoj en la lando kun la plej longa vivespero.
 478231	bos	Kako se kaže to na italijanskom?
@@ -8725,7 +8715,7 @@
 478703	fra	J'en ai assez d'écouter tes rodomontades.
 478704	fra	La serrure doit être brisée.
 478705	fra	Il faut casser la serrure.
-478706	tur	Ödemeyi alabilmek için bankada bir hesap açmalısın.
+478706	tur	Ödemeyi alabilmek için bankada bir hesap açman gerekir.
 478707	fra	De nombreuses personnes se frayèrent un chemin vers la sortie de derrière.
 478708	fra	De nombreuses personnes m'ont encouragé à réaliser mes ambitions.
 478709	fra	Le gouvernement promeut l'usage de produits fabriqués localement.
@@ -9019,7 +9009,7 @@
 479011	ukr	Губка Боб та Патрик — друзі.
 479012	eng	I would like to order a sandwich.
 479013	fra	Je voudrais acheter un sandwich.
-479014	tur	Bir sandviç almak istiyorum.
+479014	tur	Bir sandviç sipariş etmek istiyorum.
 479015	fra	Voici ma clef.
 479016	eng	Can you call a taxi for me?
 479017	tur	Bana bir taksi çağırabilir misiniz?
@@ -9149,7 +9139,7 @@
 479144	tur	Neden sen gelmedin?
 479145	tur	Neden ben?
 479146	fra	Ma recherche d'emploi s'avère plutôt rude. Je n'ai aucune relation.
-479147	tur	Lütfen İngilizce olarak söyle.
+479147	tur	Lütfen onu İngilizce olarak söyle.
 479148	tur	Ne yapıyorsun?
 479149	fra	Faire des films est un travail alléchant.
 479150	tur	Lütfen yerine otur.
@@ -9330,7 +9320,6 @@
 479343	tur	Ve şimdi?
 479344	rus	Я хотел бы стать учителем.
 479345	tur	Yediğim zamanda kitap okuyorum.
-479346	tur	Yediğim müddette kitap okuyorum.
 479347	tur	Benimle dans etmek ister misin?
 479348	rus	Мой дедушка умер вскоре после моего рождения.
 479349	rus	Полиция смогла найти преступника.
@@ -9359,7 +9348,6 @@
 479374	isl	Ertu gift?
 479375	tur	Bugün yağmur yağıyor.
 479376	isl	Ertu kvæntur?
-479378	tur	Muiriel şimdi yirmisinde.
 479379	fra	Peux-tu te charger du travail ?
 479380	epo	La loĝantaro de Japanujo estas okona tiu de Ĉinujo.
 479381	tur	O nedir?
@@ -9491,7 +9479,7 @@
 479515	tur	Kazan'da bir metro var.
 479516	tur	Bu otobüs Minsk'e gidiyor.
 479517	epo	Fred kaj George stiris laŭvice.
-479518	tur	Bu Japonya'nın bayrağı.
+479518	tur	Bu, Japonya'nın bayrağıdır.
 479519	tur	Bu Japonya.
 479520	tur	Biz Arap'ız.
 479521	tur	Çok fazla kitabın var.
@@ -9500,7 +9488,7 @@
 479526	tur	Şu anda havalimanındayım.
 479527	tur	Şimdi havaalanındayım.
 479528	tur	Şimdi havalimanındayım.
-479529	tur	Bana getir.
+479529	tur	Onu bana getir.
 479530	epo	Estas vi, kiu devas decidi, kio farendas.
 479531	epo	Ŝi ne plu loĝas ĉi tie.
 479532	epo	Lia oficejo tre proksimas al mia.
@@ -9508,7 +9496,7 @@
 479534	tur	Ken beni satrançta yendi.
 479535	tur	Röportajın nasıl gitti?
 479536	deu	Der Romanautor sprach vor einem großen Publikum.
-479537	tur	Plastik cerrahi bile çirkinliğiniz için bir şey yapmayacaktır.
+479537	tur	Plastik cerrahi bile çirkinliğiniz için hiçbir şey yapmayacaktır.
 479538	tur	Kavşaktan sağa dön.
 479539	tur	Neden bugün istasyonda taksi yok?
 479540	deu	Mini-Märkte verkaufen Schokoriegel.
@@ -9550,13 +9538,13 @@
 479576	tur	Eve dönerken onunla karşılaştım.
 479578	cmn	我覺得你應該繼續做這份工作。
 479579	fra	Il fut tout d'abord complètement perdu dans son nouveau travail.
-479580	tur	O zamanlar Meksika henüz bağımsız değildi, İspanya'nındı.
+479580	tur	O zaman, Meksika henüz İspanya'dan bağımsız değildi.
 479581	fra	Comment va ton boulot ?
 479582	fra	Comment va votre travail ?
 479583	fra	Comment vas-tu t'en sortir sans boulot ?
 479584	cmn	別忘了這年頭好工作已經很難找了。
 479585	fra	Ne sois pas aussi réservé.
-479586	tur	Öğrencilerin öğlen yemeği zamanı on ikiden bire kadar.
+479586	tur	Öğrencilerin öğlen yemeği zamanı saat on ikiden saat bire kadardır.
 479587	fra	Ne soyez pas aussi réservé.
 479588	tur	Öğrencilerin beslenme zamanı on ikiden bire kadar.
 479589	cmn	學生的午飯時間是十二點到一點。
@@ -10443,9 +10431,9 @@
 480494	epo	Donu al mi tempon por doni al vi ĉion, kion mi havas!
 480495	epo	Ĝi baldaŭ pretos.
 480496	epo	Miascie S-ro Suzuki ankoraŭ ne revenis el Havajo.
-480497	tur	Bir yabancı ülkeye gittin mi?
+480497	tur	Yabancı bir ülkeye gittin mi?
 480498	epo	Ŝi ĵus eliris.
-480499	tur	O uzakta çalıştı.
+480499	tur	O, yurt dışında eğitim aldı.
 480500	tur	Duş almam gerekiyor.
 480501	epo	Li mensogis al mi.
 480502	fra	Lequel prends-tu ?
@@ -11546,7 +11534,6 @@
 481638	ita	Sei un genio per la musica.
 481639	tur	Bugün Haziran'ın 18'i ve bugün Muiriel'in doğum günü!
 481640	ita	Mi hai dato dei buoni consigli.
-481641	tur	Mutlu yıllar Muiriel!
 481642	ita	Conoscerete la verità, un giorno.
 481643	tur	İyi ki doğdun Muiriel!
 481644	fra	Je le fais en reconnaissant que le changement ne peut se produire du jour au lendemain.
@@ -11560,7 +11547,7 @@
 481653	epo	Mi aŭdas ion.
 481654	eng	I appreciated your help.
 481655	ita	Apprezzo il tuo aiuto.
-481656	fra	Mais je suis convaincu que pour avancer, nous devons dire ouvertement les choses que nous avons sur le coeur, et qui sont trop souvent dites, seulement derrière des portes fermées.
+481656	fra	Mais je suis convaincu que pour avancer, nous devons dire ouvertement les choses que nous avons sur le cœur, et qui sont trop souvent dites, seulement derrière des portes fermées.
 481657	bos	On je Amerikanac.
 481658	ita	Il nostro obbiettivo finale è stabilire la pace mondiale.
 481659	hrv	On je Amerikanac.
@@ -11625,7 +11612,7 @@
 481719	epo	Legu laŭeble plej multajn librojn.
 481720	epo	Post diversaj problemoj ŝi sukcesis lerni ŝofori.
 481721	epo	Mi neniam forgesos vian afablecon.
-481722	epo	Ĉu vi estas sola?
+481722	epo	Ĉu vi estas tute sola?
 481723	deu	Das Unternehmen wird bald zahlungsunfähig sein.
 481724	fra	Je l'ai vendue pour dix dollars.
 481725	fra	En signant le traité de Tripoli en 1796, notre second Président John Adams écrivit : "Les États-Unis n'ont en eux-mêmes aucun caractère d'inimitié à l'encontre des lois, de la religion ou de la tranquillité des Musulmans.
@@ -11901,7 +11888,7 @@
 482000	spa	Éste es el castillo que visitamos la semana pasada.
 482001	tur	Bana yapacak bir şey ver.
 482002	epo	Li flaras ĉokoladon dum la tuta tago.
-482003	tur	Chopin'i oynayabilirim.
+482003	tur	Chopin çalabilirim.
 482004	spa	Éste es el lugar inolvidable en el que nos encontramos por primera vez.
 482005	tur	Caddede oynamak çocuklar için tehlikelidir.
 482006	spa	Éste es el restaurante en el que suelo comer.
@@ -11909,7 +11896,7 @@
 482008	epo	Li odoras je ĉokolado la tutan tagon.
 482009	tur	Tanrı sizi korusun.
 482010	tur	Allah korusun.
-482011	tur	Yakın bir gelecekte senin ziyaret etmen için ileriye bakıyorum.
+482011	tur	Yakın bir gelecekteki senin ziyaretini gerçekten dört gözle bekliyorum.
 482012	tur	Bakır elektriği iyi iletir.
 482013	fra	Que faisons-nous pour dîner ?
 482014	fra	Que faisons-nous pour souper ?
@@ -14023,7 +14010,7 @@
 484211	fra	Cela vous dérangerait-il de baisser la radio ?
 484212	deu	Erst als ich selber ein Baby bekommen habe, habe ich erfahren, was Mutterliebe bedeutet.
 484213	fra	Cela te dérangerait-il de baisser la radio ?
-484214	deu	Danke, dass sie den Hund jeden Tag füttern.
+484214	deu	Danke, dass Sie den Hund jeden Tag füttern.
 484215	deu	Das erklärt, wieso die Tür offen war.
 484216	deu	Es ist gut, ein Gewinner zu sein.
 484218	deu	Wir sind Schulfreunde.
@@ -14776,7 +14763,7 @@
 484984	eng	It's eleven and he's not coming.
 484985	fra	Le sumo est le sport traditionnel du Japon.
 484986	ukr	Неможливо розв'язати конфлікт.
-484987	eng	I work everyday save Sundays.
+484987	eng	I work every day save Sundays.
 484988	ukr	Як минули ваші вихідні?
 484989	eng	I work every day except for Sundays.
 484990	ukr	Моя хатня робота - мити посуд.
@@ -16067,7 +16054,7 @@
 486312	hin	मुझे वह अच्छा सा लगता है।
 486313	cmn	她年輕的時候說不定是個美女。
 486314	tur	Sağ omzum acıyor.
-486315	tur	Öğleden sonra ne iş yapacaksın?
+486315	tur	Öğleden sonra ne yapıyorsun?
 486316	tur	Öğleden sonra ne iş yapacaksınız?
 486317	hin	मुझे कल सोते समय दिमाग़ में एक अच्छा आयडिया आया।
 486318	hin	मैं कल तुम्हारे पिताजी से मिला।
@@ -16134,8 +16121,7 @@
 486396	deu	Die Pachtbauern rebellierten gegen den Lehnsherren.
 486397	jpn	そんなところで彼女と会うなんて、思ってもみなかった。
 486399	tur	Silahlar insanları öldürmez. İnsanlar insanları öldürür.
-486400	tur	Çinli misin Japon musun?
-486401	tur	Çinli misin yoksa Japon musun?
+486400	tur	Çinli misin yoksa Japon musun?
 486402	tur	Annem babamdan daha büyük.
 486403	tur	Annem babamdan daha yaşlı.
 486404	tur	Almanca konuşmuyorum.
@@ -16144,7 +16130,7 @@
 486407	tur	Sigara içmek kötü bir bağımlılıktır.
 486408	tur	Kanji'nin okunması zordur.
 486409	tur	Bu elma henüz olgunlaşmamış.
-486410	tur	O kompozisyonunda çok fazla imla hatası yaptı.
+486410	tur	tur O kompozisyonunda bir sürü imla hatası yaptı.
 486411	tur	O kompozisyonunda bir sürü imla hatası yaptı.
 486412	tur	Lütfen düğmeye tıklatın.
 486413	cmn	說起瑪莉，我已經有很久沒見過她了。
@@ -17028,7 +17014,7 @@
 487316	eng	Akiko has several friends in France.
 487317	ron	Noi adesea dăm peste turiștii japonezi în această zonă.
 487318	ron	Există librăriile puține în această zonă.
-487319	tur	Bu alanda çok az kitapçı var.
+487319	tur	Bu bölgede çok az kitapçı var.
 487320	swe	Akiko har flera vänner i Frankrike.
 487321	tur	Kadın bir portakal yiyor.
 487322	ron	Femeia mănâncă o portocală.
@@ -17039,7 +17025,7 @@
 487327	fra	Gardez vos distances.
 487328	ron	Este profesor?
 487329	ron	Voi veni și eu mai târziu.
-487330	tur	Size sonra katılacağım.
+487330	tur	Size daha sonra katılacağım.
 487332	ron	Nu se poate în ambele moduri.
 487333	fra	Sait-il parler le français ?
 487334	fra	Aimez-vous les vins français ?
@@ -17086,7 +17072,7 @@
 487376	tur	Bir günde 500 dolar harcadım.
 487377	kat	ფიქრებში დაიკარგა.
 487378	fra	Cet appareil est actionné par un interrupteur.
-487379	tur	Çay ve kahve günün başlamasına yardımcı olur.
+487379	tur	Çay ve kahve, güne başlamaya yardımcı olur.
 487380	kat	ამ წიგნმა ძალიან დამაინტერესა.
 487381	tur	Ken tenis oynuyor mu?
 487382	fra	L'expérience a confirmé sa théorie.
@@ -19233,10 +19219,8 @@
 489592	tur	Hitler Polonya'yı 1939'da işgal etti.
 489593	fra	Il s'est toujours consacré à l'étude de l'énergie atomique depuis qu'il a été diplômé de l'université.
 489594	tur	Koyun bize yün verir.
-489595	tur	Koyun bize sürü verir.
 489597	epo	Mi ne refaros ĝin.
-489598	tur	Napolyon, St. Helena adalarına sürüldü.
-489599	tur	Napolyon, St. Helena'ya sürüldü.
+489598	tur	Napolyon, St. Helena'ya sürüldü.
 489600	tur	Thomas Edison ampülü bulmuştur.
 489601	tur	Thomas Edison ampulü icat etmiştir.
 489602	tur	Futbol eski bir oyundur.
@@ -19589,7 +19573,7 @@
 489960	ukr	Незабаром повернуся.
 489961	ukr	Ось ваше меню.
 489962	wuu	似乎蛮便宜个。
-489963	tur	Sadece çay var.
+489963	tur	Sadece çayımız var.
 489964	ukr	Він знайшов свій загублений фотоапарат випадково.
 489965	wuu	我个皮夹子被偷脱了。
 489966	ukr	Зробивши свою роботу, він вийшов.
@@ -21873,7 +21857,7 @@
 492368	ukr	Я показав їй свою кімнату.
 492369	fra	J'ai entendu dire par quelqu'un qu'elle s'était mariée.
 492370	fra	Je vais aller voir la maison.
-492371	fra	Je vais aller jeter un coup d'oeil à la maison.
+492371	fra	Je vais aller jeter un coup d’œil à la maison.
 492372	ukr	Минулого року в нас було багато снігу.
 492373	deu	Rede nicht um den heißen Brei herum, ich will, dass du auf meine Frage antwortest.
 492374	epo	La vivo estas la arto tiri kompletajn konkludojn el nekompletaj premisoj.
@@ -22002,7 +21986,7 @@
 492503	ukr	В другому семестрі мої оцінки покращилися.
 492504	ukr	Я це дуже добре знаю.
 492505	ukr	Я з Сингапуру.
-492506	tur	Çok iyi biliyorum.
+492506	tur	Onu çok iyi biliyorum.
 492507	ukr	Мені щось попало в око.
 492508	tur	Ben Singapur'danım.
 492509	ukr	Я не можу запам'ятати так багато літер.
@@ -22241,7 +22225,7 @@
 492748	fra	Avez-vous déjà écrit dans votre journal aujourd'hui ?
 492749	fra	Quel que soit celui qui vient, n'ouvrez pas la porte.
 492750	fra	N'ouvre la porte à quiconque.
-492751	tur	Ödevimi yarından sonraki güne bitirmeliyim.
+492751	tur	Bu işi yarından sonraki güne kadar bitirmeliyim.
 492752	fra	Je parle tout seul.
 492753	fra	Je me parle.
 492754	fra	Je parle à moi-même.
@@ -23338,7 +23322,7 @@
 493870	ukr	У тебе ані краплі совісті нема!
 493871	ukr	Хіба так робиться?
 493872	ukr	Я лягаю спати!
-493873	rus	По рецепту были орехи, но я их не положил/а, потому что у Делии на них аллергия.
+493873	rus	По рецепту были орехи, но я их не положил, потому что у Делии на них аллергия.
 493874	rus	Мы купим новую машину на следующей неделе.
 493875	ukr	Як сказати "дякую" японською?
 493876	ukr	Велике спасибі за вашу допомогу.
@@ -24077,7 +24061,7 @@
 494636	eng	The teacher is angry, so please do not make noise in the classroom!
 494637	ukr	Раніше він розповідав мені історії про Індію.
 494638	epo	Ŝi ĉirkaŭrigardis en ĉiujn direktojn.
-494639	tur	Öğretmen kızgın, lütfen sınıfta gürültü yapmayın!
+494639	tur	Öğretmen kızgın, bu nedenle lütfen sınıfta gürültü yapmayın!
 494640	ukr	У мене повільний пульс.
 494641	ukr	Ну шуміть у класі, будь ласка, бо вчитель дуже злий!
 494642	epo	Li hontas pro la konduto de sia filo.
@@ -24527,7 +24511,7 @@
 495097	isl	Þú fórst yfir á rauðu ljósi.
 495098	jpn	丸ごと馬一匹を食べられるくらい腹が減っている。
 495099	deu	Er sollte kommen.
-495100	tur	O parti için giyindi.
+495100	tur	O, parti için giyindi.
 495101	ukr	Радіо було винайдено Марконі.
 495102	ukr	Джон є набагато кращим співаком ніж інші.
 495103	ukr	Ви проїхали на червоне світло.
@@ -25501,7 +25485,7 @@
 496114	tur	O, üç hafta New York'ta kaldı.
 496115	tur	Bu bisiklet benim.
 496116	tur	Çocuk cevap verdi: "Ben Japonum."
-496117	tur	Amerika Birleşik Devletleri'nde hangi diller konuşuluyor?
+496117	tur	Amerika Birleşik Devletleri'nde hangi dil konuşuluyor?
 496118	tur	ABD'de hangi diller konuşuluyor?
 496119	ukr	Сьогодні увечері ми розважалися тим, що складали своє родинне генеалогічне дерево.
 496120	ukr	Все більше людей пропонувало свою допомогу.
@@ -26416,7 +26400,7 @@
 497047	ukr	Немає нічого більш освіжаючого, аніж холодне пиво спекотнього дня.
 497048	rus	Я постоянно забываю имена людей.
 497049	deu	Er kletterte vom Baum herunter.
-497050	rus	Я бы хотел/а три двадцатки, шесть пятерок, а остальное по одной.
+497050	rus	Я бы хотел три двадцатки, шесть пятерок, а остальное по одной.
 497051	rus	Вбежал Том с письмом от Джуди.
 497052	rus	В комнате кто-то был?
 497053	rus	Эти места зарезервированы для пожилых людей.
@@ -26865,7 +26849,7 @@
 497509	rus	Какой был прогноз погоды?
 497510	rus	Как вы уже знаете.
 497512	tur	Kızın altın saçı var.
-497513	tur	Kız hiçbir şey yapmıyor fakat ağlıyor.
+497513	tur	Kız ağlamaktan başka bir şey yapmadı.
 497514	rus	Я взял себе за правило - никогда не занимать денег.
 497515	tur	Kız ağlamaktan başka bir şey yapmıyor.
 497516	tur	Kız hasta görünüyordu.
@@ -27044,13 +27028,13 @@
 497693	ita	Non posso far altro che aspettare.
 497694	ita	Sembra una proposta abbastanza buona.
 497695	vie	Bạn cho vào nhiều tiêu quá đấy.
-497696	tur	Geçen gece arabam çalındı.
+497696	tur	Dün gece arabam çalındı.
 497697	tur	Bizimle gelmek ister misiniz?
 497698	vie	Chúng ta phải làm gì với nữ phạm nhân này?
 497699	tur	Hastalığın nedir?
 497700	ita	Una soluzione l'ho trovata, ma l'ho trovata talmente in fretta che non può essere giusta.
-497701	tur	Hiç kimse bizi kontrol edemiyor.
-497702	tur	Kalıntıları görülmeye değer.
+497701	tur	Hiç kimse bizi kontrol edemez.
+497702	tur	Kalıntılar görülmeye değer.
 497703	tur	O iyi piyano çalar.
 497704	eng	He plays the piano well.
 497705	vie	Tôi đã phải mất nhiều ngày để quyết toán sổ sách của công ty.
@@ -27453,7 +27437,7 @@
 498121	deu	Er beraubte mich meiner Tasche.
 498122	deu	Er raubte mir meine Tasche.
 498123	epo	Li rabis de mi mian mansakon.
-498124	spa	No pensé que el vendría.
+498124	spa	No pensé que él vendría.
 498125	ukr	Він і не дотепний і не кмітливий.
 498126	spa	No quiero suspender mis exámenes.
 498127	ukr	Чим більш ерудованим і дотепним ти будеш, тим краще Сатані послужиш.
@@ -28498,7 +28482,7 @@
 499288	ukr	Де чай з молоком?
 499289	ukr	Він слухав музику.
 499290	ukr	Кожного разу як я заходив до нього, його не було вдома.
-499291	tur	Hindistan uzun yıllardır Büyük Britanya tarafından yönetildi.
+499291	tur	Hindistan uzun yıllar boyunca Büyük Britanya tarafından yönetildi.
 499292	rus	Весь день была хорошая погода.
 499293	tur	Hindistan uzun yıllardır Birleşik Krallık tarafından yönetildi.
 499294	epo	Mi esperas, ke Japanujo konformiĝos al artikolo 9 de sia konstitucio.
@@ -28568,7 +28552,7 @@
 499362	eng	May I have some more coffee?
 499363	tur	Kara kedileri sever misin?
 499364	tur	Kahveyi çaydan daha çok seviyorum.
-499365	tur	Ofisin kapısı sarı.
+499365	tur	Ofisin kapısı sarıdır.
 499366	tur	Büronun kapısı sarı.
 499367	tur	Bahçedeki tüm çiçekler sarı.
 499368	tur	Bahçedeki bütün çiçekler sarı.
@@ -28834,8 +28818,7 @@
 499647	ukr	Тримайтеся праворуч.
 499648	cmn	你要去哪个高中读书？
 499649	ukr	Не можу з вами погодитися стосовно нового плану.
-499650	tur	Bazıları Allah'a inanır, bazıları inanmaz.
-499651	tur	Bazıları tanrıya inanır, bazıları inanmaz.
+499650	tur	Bazıları tanrıya inanır, bazıları inanmaz.
 499652	ukr	Шекспіра надто важко читати.
 499653	ukr	Дозвольте вас представити містерові Вайту.
 499654	ukr	Життя коротке, отже не марнуйте ваш час.
@@ -30379,7 +30362,7 @@
 501257	eng	She has very good manners.
 501258	eng	She sat on the bench.
 501259	eng	He sat on the bench.
-501260	fra	Je veux remercier mon partenaire dans ce voyage, un homme qui a mené campagne avec son coeur, et parlé pour les hommes et les femmes avec lesquels il a grandi dans les rues de Scranton, et voyagé par le train de retour vers le Delaware, le Vice-Président élu des États-Unis, Joe Biden.
+501260	fra	Je veux remercier mon partenaire dans ce voyage, un homme qui a mené campagne avec son cœur, et parlé pour les hommes et les femmes avec lesquels il a grandi dans les rues de Scranton, et voyagé par le train de retour vers le Delaware, le Vice-Président élu des États-Unis, Joe Biden.
 501261	fra	Je le félicite, je félicite le Gouverneur Palin pour tout ce qu'ils ont fait. Et je me réjouis de travailler avec eux pour renouveler la promesse de cette nation dans les mois à venir.
 501262	fra	Un peu plus tôt ce soir, j'ai reçu un appel extraordinairement élégant du Sénateur McCain. Le Sénateur McCain a combattu longuement et durement dans cette campagne. Et il a combattu plus longtemps et durement encore pour le pays qu'il aime. Il a enduré des sacrifices pour l'Amérique que la plupart d'entre nous ne peuvent commencer à imaginer. Nous nous portons mieux grâce au service rendu par ce leader, brave et désintéressé.
 501263	eng	She felt herself being lifted up.
@@ -31195,7 +31178,7 @@
 502108	ukr	Я не курю.
 502109	ukr	Я б хотів сказати "так", але...
 502110	ukr	Він дублював один з голосів в "Аватарі".
-502111	tur	Seninle yaşamayı seviyorum.
+502111	tur	Seninle yaşamaktan hoşlanıyorum.
 502112	tur	Sizinle yaşamayı seviyorum.
 502113	spa	¿De quién es esta guitarra?
 502114	ukr	Вони посварилися.
@@ -31226,11 +31209,10 @@
 502139	ukr	Йому подобаються всі тварини, окрім коней.
 502140	tur	H kimyasal sembolü hidrojeni ifade eder.
 502141	tur	Bu, normal bir Japon erkek öğrencinin uzaylı öğretmeniyle evlendiği hakkında bir animedir. Japonya'da buna benzeyen şeyler oluyor.
-502142	tur	Bu, normal Japon bir erkek öğrencinin uzaylı öğretmeniyle evlendiği hakkında bir animedir. Japonya'da buna benzeyen şeyler oluyor.
 502143	ukr	Йому подобаються незвичайні тварини, такі як змії, наприклад.
 502144	ukr	Він поїхав до Африки, щоб побачити диких тварин.
 502145	ukr	Вони виживали, харчуючись кукурудзою, картоплею та м'ясом тварин.
-502146	tur	O garip hayvanları sever, örnek olarak yılan gibi.
+502146	tur	O, garip hayvanları sever, örneğin yılanlar.
 502147	tur	O acayip hayvanları sever, örnek olarak yılan gibi.
 502148	ukr	Там вони бачили дивовижну тварину.
 502149	tur	Vahşi hayvanları görmek için Afrika'ya gitti.
@@ -31847,7 +31829,7 @@
 502782	cmn	可惜我们不能像买土豆一样买奇迹。
 502783	cmn	我酷爱意大利宽面条。
 502784	cmn	质数就像生活，它们是完全符合逻辑的，但即使我们花所有时间来思考，也找不到规律。
-502785	tur	Bernard Kouchner, Medecins Sans Frontières'in kurucusu, Irak Savaşı'na karşı çıkmadı.
+502785	tur	Sınır Tanımayan Doktorlar'ın kurucusu Bernard Kouchner, Irak Savaşı'na karşı çıkmadı.
 502786	cmn	如果我们挑起一根眉毛，这可以解释为“我想跟你发生性关系”，但也可以解释为“我发现你刚才说的完全是傻话”。
 502787	cmn	大脑只是一个复杂的机器。
 502788	eng	A product has been launched that uses the power from the USB to keep hot drinks warm.
@@ -32437,13 +32419,13 @@
 503387	tur	Ona saygı gösteriyorlar.
 503388	rus	Где ты сейчас живешь?
 503389	rus	Он из Соединенных Штатов.
-503390	tur	O, ABD'den geldi.
+503390	tur	O, Amerika Birleşik Devletleri'nden geldi
 503391	tur	O, Amerika Birleşik Devletleri'nden geldi.
 503392	rus	Иди к чёрту!
 503394	tur	Siktir!
 503395	rus	Сколько он зарабатывает в месяц?
 503396	tur	Şimdi nerede yaşıyorsun?
-503397	tur	Bu hiçbir şey değil fakat bir şaka türü.
+503397	tur	Şakadan başka bir şey değil.
 503398	rus	Внимание!
 503399	spa	Le pedí a Ken que me ayudara.
 503400	rus	Это всего лишь шутка.
@@ -32705,7 +32687,7 @@
 503664	tur	Yağmur beş gün sürdü.
 503665	epo	Infuzu la teon dum dek minutoj.
 503666	eng	I think you will have done all the work soon.
-503667	tur	Sanırım yakında tüm işleri bitireceksiniz.
+503667	tur	Sanırım yakında tüm işleri bitirmiş olacaksınız.
 503668	ukr	Вона поїхала на прослуховування минулого тижня.
 503669	ukr	Вона пішла на проби минулого тижня.
 503670	deu	Wir nehmen unseren Tee mit Zucker.
@@ -33038,7 +33020,7 @@
 504004	fra	Je suis mort de fatigue.
 504005	deu	Du läufst Gefahr, ein guter Mensch zu werden.
 504006	ukr	Я краще помру, ніж зроблю це.
-504007	tur	Oyunu ilk kez başlattığınızda oyun yapılandırma seçeneklerinden ayarlayabilirsiniz.
+504007	tur	Oyunu ilk kez başlattığınızda oyun yapılandırma seçeneklerini ayarlayabilirsiniz.
 504008	fra	Je suis fourbu.
 504009	fra	Quand c'est l'anniversaire d'un membre de la classe, l'enseignante dessine toujours un drapeau sur le tableau.
 504010	tur	Hangi meyve yeşildir?
@@ -34364,7 +34346,7 @@
 505363	hin	मैं बस स्कूल पहुँचा ही था कि घंटी बज गई।
 505364	epo	Ŝi havas tiom da libroj, kiom mi.
 505365	epo	Tiu supo vere bonas.
-505366	hin	बैट्समेन आऊट हो गया था।
+505366	hin	बॅटर आऊट हो गया था।
 505367	rus	Пожалуйста, посмотрите на то здание с красной крышей.
 505368	hin	उसने अपने परिवार को छोड़ दिया।
 505369	hin	मुझे ज़ुकाम हो गया है।
@@ -36918,7 +36900,7 @@
 508023	fra	Elle aime sûrement les animaux.
 508024	ukr	Багато студентів присутні на зборах.
 508025	ukr	Я понад рік був на дієті.
-508026	fra	Il put de nouveau mais en vain.
+508026	fra	Il essaya de nouveau mais en vain.
 508027	ukr	Я просто занепокоєний моєю вагою.
 508028	ukr	Вони розчистили вулиці від снігу.
 508029	ukr	На столі лежить книга.
@@ -37568,7 +37550,7 @@
 508715	ukr	Інтерв'ю заплановано на 10-ту годину ранку завтра.
 508716	tur	Eğer adresini değiştiriyorsan, lütfen bana bildir.
 508717	orv	Слѹшахъ нъ нє почюхъ ничєго жє.
-508718	tur	Paris'e çalışmaya gitmeden önce Fransızca'mı tazelemeliyim.
+508718	tur	Paris'e çalışmaya gitmeden önce Fransızcamı tazelemeliyim.
 508719	tur	Paris'e çalışmaya gitmeden önce Fransızcamı tazelemek zorundayım.
 508720	eng	She has great respect for her homeroom teacher.
 508721	ukr	Усі прізвища розміщені в алфавітному порядку.
@@ -37877,7 +37859,6 @@
 509045	tur	Çalşmak sadece ekonomik yararlar ve maaş için önemli değildir, fakat aynı zamanda sosyal ve psikolojik ihtiyaçlar ve toplumun iyiliği için bir şey yapma duygusu için.
 509046	vie	Khách sạn này được một kiến trúc sư Nhật Bản thiết kế.
 509047	tur	Bu otel Japon bir mimar tarafından tasarlanmış.
-509048	tur	Bu otel bir Japon mimar tarafından tasarlanmış.
 509049	vie	Anh hãy kéo tay áo phải của anh lên.
 509050	vie	Lẽ ra anh ấy có thể làm điều đó.
 509051	tur	Kırmızı şarap, et ile iyi gider.
@@ -38065,7 +38046,7 @@
 509239	ukr	Я хотів би, щоб ти пішов туди.
 509240	ukr	Я можу собі дозволити пограти в теніс.
 509241	tur	O hep baktı, ama asla, mutlu değildi.
-509242	tur	Bir telefon konuşması yaptım.
+509242	tur	Bir telefon görüşmesi yapacağım.
 509243	deu	Unter den Flussfischen gibt es einige, die unter Artenschutz stehen. Es ist verboten, diese zu fangen oder zu erwerben.
 509244	ukr	Він слухав мене із сяючими очима.
 509245	ukr	Він любить автомобілі, а от його брат ненавидить їх.
@@ -38077,7 +38058,7 @@
 509251	ukr	Дітям подобається цей слон.
 509252	ukr	У неї завжди серйозний вигляд обличчя.
 509253	tur	Bir naif tilkisi yoktur. Aynı şekilde, kusursuz bir adam diye bir şey de yoktur.
-509254	tur	Bir naif tilkisi yoktur. Aynı şekilde, hatasız bir adam diye bir şey de yoktur.
+509254	tur	Naif bir tilki yoktur. Aynı şekilde, hatasız bir adam diye bir şey de yoktur.
 509255	ukr	Так, але ти не зобов'язаний залишатися до кінця.
 509256	ukr	У Каліфорнії вирощують апельсини.
 509257	tur	Senin oraya gitmeni istiyorum.
@@ -38314,13 +38295,11 @@
 509493	tur	Öl!
 509494	epo	Li vestiĝas kiel ĝentilulo, sed parolas kaj kondutas kiel arlekeno.
 509495	orv	Сє просто глѹмъ.
-509496	tur	Cinsel taciz artık şimdi bir sosyal sorun haline geldi.
+509496	tur	Cinsel taciz artık şimdi sosyal bir sorun haline geldi.
 509497	tur	Cinsel taciz artık şimdi bir sosyal soruna dönüştü.
 509498	fra	J'ai été en retard à la réunion, résultat j'en ai raté la majeure partie.
 509499	eng	Fresh-water fish include some designated as protected species. You're not allowed to catch or buy them.
 509500	orv	Ѹрозѹмѣлъ ли єси?
-509501	tur	Cinsel taciz artık şimdi sosyal bir sorun haline geldi.
-509502	tur	Cinsel taciz artık şimdi sosyal bir soruna dönüştü.
 509503	tur	Anladın mı?
 509504	fra	J'ai étudié pendant six mois en Angleterre quand j'étais étudiant.
 509505	tur	Bu iki mektubu kim yazdı?
@@ -39215,7 +39194,7 @@
 510466	pes	ما همگی با تو موافقیم.
 510467	eng	Na'vi language is used in Avatar.
 510468	epo	Estos relative malfacile por li.
-510469	tur	Na'vi dili Avatar'da kullanıldı.
+510469	tur	Na'vi dili Avatar'da kullanılır.
 510470	epo	Ili ne plenumis la kondiĉojn.
 510471	pes	من کشیدن سیگار و مصرف الکل را متوقف کردم.
 510472	epo	Kiuj estas la nepre vizitindaj turismaj lokoj en via urbo?
@@ -39316,7 +39295,7 @@
 510580	epo	Se morgaŭ pluvos, mi restos hejme.
 510581	eng	Dalida died from an overdose of sleeping pills.
 510582	pes	جمعیت این کشور در حال کم شدن است.
-510583	tur	Dalida, aşırı dozda uyku hapı yüzünden öldü.
+510583	tur	Dalida aşırı dozda uyku hapından öldü.
 510584	pes	ما برای امنیت آنها نگرانیم.
 510585	epo	Li iom surdetas, bonvolu do paroli pli laŭte.
 510586	pes	او بر روی کاناپه خوابید، با چشمانی بسته.
@@ -41785,7 +41764,7 @@
 513184	dan	Columbus opdagede Amerika i året 1492.
 513185	dan	Columbus opdagede Amerika i 1492.
 513186	spa	Mi lengua materna es el español.
-513187	tur	Tek bir pakete hem bir telefon hem de bir internet erişimi alın!
+513187	tur	Tek bir pakette hem bir telefon hem de bir internet erişimi alın!
 513188	dan	Dette bjerg er dækket af sne hele året.
 513189	ukr	Вона добре плаває.
 513190	spa	¡Consigue teléfono y acceso a internet en un solo paquete!
@@ -41899,7 +41878,7 @@
 513301	epo	Mike havas amikon, kiu vivas en Chicago.
 513302	dan	Jeg skal bo hos min onkel i en måned.
 513303	dan	John skriver til sine forældre en gang om måneden.
-513304	tur	John, her ayda bir ailesine bir mektup yazar.
+513304	tur	John ayda bir ailesine mektup yazar.
 513305	tur	Mike'ın Şikago'da yaşayan bir arkadaşı var.
 513306	ukr	Вона обмежує себе у спиртному.
 513307	tur	Bir aydır dayımla yaşıyorum.
@@ -42413,7 +42392,7 @@
 513826	ukr	Нам треба пройти ще десять миль.
 513827	eng	This hamburger is inexpensive for a Japanese hamburger.
 513828	deu	Für einen japanischen Hamburger ist er billig.
-513829	tur	Twitter kuşu kötü niyetlidir.
+513829	tur	Twitter kuşu kötüdür.
 513830	eng	France is the winner of the 1998 World Cup.
 513831	tur	Fransa, 1998 Dünya Kupası'nın galibidir.
 513832	eng	Twitter is not good enough.
@@ -43856,7 +43835,7 @@
 515339	eng	In my opinion, Twitter bird is the most evil bird in our world.
 515340	epo	La sago montras la sekvendan vojon.
 515341	deu	Es lebe die persische Sprache!
-515342	tur	Kendi görüşüme göre Twitter kuşu, dünyamızdaki en kötü niyetli kuştur.
+515342	tur	Kendi görüşüme göre, Twitter kuşu dünyamızdaki en kötü kuştur.
 515343	deu	Ich lebe in Weißrussland und ich bin stolz darauf.
 515344	epo	Ĉu vi povas helpi min traduki tiujn frazojn en la ĉinan?
 515347	deu	Er ist der einzige Mensch, den ich kenne, der tauchen, aber nicht schwimmen kann.
@@ -46248,7 +46227,7 @@
 517867	por	Eu comprei uma caneta, mas eu a perdi.
 517868	epo	Ili forlasis la sinkantan ŝipon.
 517869	por	Ele ensina a língua árabe.
-517870	epo	Tenu viajn okulojn malfermaj.
+517870	epo	Tenu viajn okulojn nefermitaj.
 517871	por	Eu acabei de terminar de ler o livro.
 517872	epo	Estas strange, ke ŝi tiel kondutas.
 517873	por	Esta é sua chave.
@@ -48036,7 +48015,7 @@
 519765	uig	ئاكام ساڭا سالام ئېيتىدۇ.
 519766	uig	ئاكام سىزگە سالام ئېيتىدۇ.
 519767	uig	ئاكام سىلەرگە سالام ئېيتىدۇ.
-519768	epo	Helpu min, ke mi trovu kravaton bone harmoniiĝantan kun tiu ĉi kompleto !
+519768	epo	Helpu min, ke mi trovu kravaton bone harmoniantan kun tiu ĉi kompleto.
 519769	uig	ئۇكام ساڭا سالام ئېيتىدۇ.
 519770	uig	ئۇكام سىزگە سالام ئېيتىدۇ.
 519771	uig	ئۇكام سىلەرگە سالام ئېيتىدۇ.
@@ -49153,7 +49132,7 @@
 520930	epo	Pia estas fiera posedantino de nova rultabulo.
 520931	epo	Neniu jaĥto estas pli rapida ol tiu.
 520932	epo	Li intence rompis la fenestron.
-520933	epo	Farmistoj partigas bonajn pomojn de malbonaj.
+520933	epo	Terkulturistoj partigas bonajn pomojn de malbonaj.
 520934	epo	Mi venos se necese.
 520935	uig	ئالدى بىلەن، رۇخسەت سورىشىڭ كېرەك.
 520936	eng	You should ask for permission first.
@@ -49998,3 +49977,24 @@
 521800	epo	Ĉu vi povus diri al mi kiel atingi la stacion?
 521801	epo	Ŝi ofte venis tro malfrue al la lernejo.
 521802	rus	Я познакомил Мари с моими родителями.
+521803	epo	Miaj amikoj vizitis min antaŭhieraŭ.
+521804	fra	S'il fait beau temps, ils y arriveront demain.
+521805	epo	Li estas pli bona ol mi en matematiko.
+521806	epo	Ĉu mi povas havi tiun oranĝon?
+521807	fra	Si tu sautes le petit déjeuner et que tu prends un repas de midi léger, alors tu peux manger ce que tu veux le soir.
+521808	epo	Ŝia beleco estis nepriskribebla.
+521809	cmn	我想和你共進早餐。
+521810	fra	Les oiseaux rentrent toujours au nid.
+521811	epo	Iam estis grava reĝo kiu vivis en Grekio.
+521812	rus	Теперь я представлю тебя своим родителям.
+521813	fra	Il s'éclaircit la gorge avant de commencer le cours.
+521814	epo	Neatendite mi ekhavis originalan ideon.
+521815	fra	Mon oncle m'a donné une paire de chaussures.
+521816	epo	Ĉu vi povas diri al mi kiun butonon mi premu?
+521817	fra	Rappelle-moi plus tard.
+521818	fra	J'ai juste commencé.
+521819	fra	J'ai réparé la voiture hier.
+521820	epo	Post la 6a horo la dungitoj komencis iri hejmen.
+521821	fra	Ce fut le son de la cloche qui l'éveilla.
+521822	epo	Vi portas vian t-ĉemizon inverse.
+521823	fra	Aujourd'hui, nous sommes à la maison.
