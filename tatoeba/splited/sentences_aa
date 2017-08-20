@@ -5712,7 +5712,7 @@
 5864	vie	Tôi cần thêm thì giờ.
 5865	vie	Cái đó không có ý nghĩa gì hết mà!
 5866	vie	Làm ơn kiên nhẫn một chút đi, cái này phải tốn thì giờ.
-5867	vie	Không tồn tại vấn đề mà không có giải pháp.
+5867	vie	Nếu không có phép giải, thì không co vấn đề để giải.
 5868	vie	Rất nhiều người ngại dậy sớm, cho dù họ phải làm điều đó.
 5869	vie	Có lý tưởng là điều tốt... bạn nghĩ sao?
 5870	vie	Lúc máy bay gặp gió xoáy, phi công yêu cầu hành khách thắt dây an toàn.
@@ -5771,7 +5771,7 @@
 5924	vie	Vẻ đẹp chỉ tồn tại trong mắt của những người hiểu được nó.
 5925	vie	Tôi lười làm bài quá.
 5926	vie	Tôi cảm thấy mình rất tự do.
-5927	vie	Tự do không đồng nghĩa với được tự do.
+5927	vie	Tự do cũng không phải hoàn toàn tự do.
 5928	vie	Tôi muốn có máy MP3!
 5929	vie	Em trai tôi rất là tự tin. Ít nhất chính nó nghĩ như vậy.
 5930	vie	Không, tôi không cho bạn vào được. Đã nhiều người quá rồi.
@@ -14457,7 +14457,7 @@
 15133	fra	Un homme est apparu derrière la porte.
 15134	fra	La télé ruine la vie de famille.
 15135	fra	Terry a été très heureux d'apprendre cette nouvelle.
-15136	fra	Je me suis fait une épicondylite.
+15136	fra	Je me suis fait un tennis elbow.
 15138	fra	Je sors un moment.
 15139	fra	Apporte-moi deux morceaux de craie.
 15140	fra	Personne n'a trouvé la bonne réponse.
@@ -14477,7 +14477,7 @@
 15155	fra	C'est certainement une perte de temps.
 15156	fra	Cette réunion était extrêmement longue.
 15157	fra	C'est assez pour cinq jours.
-15158	fra	C'est pourquoi je suis en colère après lui.
+15158	fra	C'est pourquoi, je suis en colère après lui.
 15159	fra	Si cela est vrai, il n'a pas causé l'accident.
 15160	fra	Cette question est en délibération.
 15161	fra	Son avis sur le sujet est très pertinent.
@@ -14520,7 +14520,7 @@
 15198	fra	Jack est soit à Londres soit à Paris.
 15199	fra	Monsieur Jackson a récemment été transféré de New York à Tokyo.
 15201	fra	Il va bientôt pleuvoir, regarde ces nuages noirs.
-15202	fra	Mais de nos jours, les choses ont énormément changé.
+15202	fra	Mais, de nos jours, les choses ont énormément changé.
 15203	fra	Jean et Kate sont jumeaux.
 15204	fra	Attachez votre ceinture de sécurité.
 15205	fra	Sally lui a offert un cadeau de Noël.
@@ -14648,7 +14648,7 @@
 15331	fra	Ses ancêtres sont venus d'Irlande.
 15332	fra	Son manque d'expertise lui interdit toute promotion.
 15333	fra	Sa proposition était inacceptable.
-15334	fra	Sa secrétaire a dit qu'elle n'avait pas révélé d'informations.
+15334	fra	Sa secrétaire a dit qu'elle n'a pas révélé d'information.
 15335	fra	Son nom est très difficile à se rappeler.
 15336	fra	Ses parents n'approuvaient pas son aspiration à devenir journaliste.
 15337	fra	Il a dit qu'il serait heureux s'il était là.
@@ -14662,7 +14662,7 @@
 15345	fra	Il est né au XIXe siècle.
 15346	fra	Il est parti pour New York il y a une semaine.
 15347	fra	Il n'est pas le plus intelligent des trois.
-15348	fra	Il possède quelque cinquante romans écrits en anglais.
+15348	fra	Il possède une bonne cinquantaine de romans écrits en anglais.
 15349	fra	Il fait plus de 80 kilos.
 15350	fra	Il a rassemblé des bouts d'informations.
 15351	fra	Il est constamment perdu dans des pensées nostalgiques.
@@ -14761,7 +14761,7 @@
 15447	fra	C'est un poète.
 15448	fra	Ce n'est qu'un poète.
 15449	fra	Il a fait un rapport détaillé sur l'accident.
-15450	fra	Il a été victime de sa propre ambition.
+15450	fra	Il a été la victime de sa propre ambition.
 15452	fra	Il l'a fait de son plein gré.
 15453	fra	Il ne sait même pas écrire son propre nom.
 15454	fra	Il a déchiré la photo en confettis.
@@ -14772,7 +14772,7 @@
 15459	fra	Cet homme possède une nouvelle voiture ainsi qu'une vieille voiture.
 15460	fra	Il m'a téléphoné à minuit.
 15461	fra	Il a eu la gentillesse de m'aider.
-15462	fra	En quelques années, il est devenu très expert en anglais.
+15462	fra	En quelques années, il est devenu expert en anglais.
 15463	fra	Il a vécu jusqu'à 90 ans.
 15464	fra	Il a un penchant naturel pour la musique.
 15465	fra	Il est naturellement paresseux.
@@ -15067,7 +15067,7 @@
 15770	fra	Je vais faire réparer cette radio demain.
 15771	fra	Je ne sais pas s'il pleuvra ou pas demain.
 15773	deu	Sie hat mit dem Rauchen aufgehört.
-15774	fra	La flèche indique la direction de Tokyo.
+15774	fra	La flèche indique la direction de Tôkyô.
 15775	fra	L'histoire se répète.
 15776	fra	La qualité importe plus que la quantité.
 15777	fra	Après la mort de ses parents, il a été élevé par sa tante.
@@ -16770,7 +16770,7 @@
 17608	eng	I'll take my chances with you.
 17609	eng	I'd love to go with you to the show, but I'm flat broke.
 17610	eng	I'd like to go with you, but as it is I can't.
-17611	eng	I'd like to go to the seaside with you.
+17611	eng	I would like to go to the seaside with you.
 17612	eng	I wish I could go to the party with you.
 17613	eng	It is a great pleasure being with you.
 17614	eng	I beg to differ, as I disagree with your analysis of the situation.
@@ -16862,7 +16862,7 @@
 17712	eng	I will have left here before you return.
 17713	eng	I take it from your silence that you are not satisfied with my answer.
 17714	eng	We thought we would write out the directions, in case you got lost.
-17715	eng	I want to know if you'll be free tomorrow.
+17715	eng	I want to know if you will be free tomorrow.
 17716	eng	I am glad that you have returned safe.
 17717	eng	What would you do if you were in my place?
 17720	eng	I would like you to think about what you would have done in my place.
@@ -23806,7 +23806,7 @@
 25143	eng	There is no predicting what may happen.
 25144	eng	There is no telling what will happen.
 25145	eng	There is no knowing what may happen.
-25147	eng	Nobody can foresee what'll happen.
+25147	eng	Nobody can foresee what will happen.
 25148	eng	There is no knowing what will happen.
 25149	eng	Had they known what was about to happen, they would have changed their plans.
 25150	eng	Whatever happens, keep calm.
@@ -28330,7 +28330,7 @@
 30008	eng	Europeans tried to civilize the tribe.
 30009	eng	While traveling in Europe, I was pickpocketed on a train.
 30010	eng	I traveled about Europe.
-30011	eng	I'd like to see you before I leave for Europe.
+30011	eng	I would like to see you before I leave for Europe.
 30012	eng	I've never been to Europe.
 30013	eng	Europe is a continent of energetic peoples.
 30014	eng	Europe has a smaller population than Asia.
@@ -29197,7 +29197,7 @@
 30937	eng	I am wondering if you would like to go and see Kabuki with me while staying in Japan.
 30938	eng	Please come to my house next Saturday if you care to.
 30939	eng	Until next weekend, if that's OK.
-30940	eng	I'd like to invite you to lunch, if you're not busy.
+30940	eng	I would like to invite you to lunch, if you're not busy.
 30941	eng	Would you mind terribly making me a cup of coffee?
 30943	eng	If it is free, please send me a copy.
 30944	eng	If they are not free, please let me know how much the catalogue and the postage to Japan are.
@@ -31518,7 +31518,7 @@
 33408	eng	There wasn't much sugar in the pot.
 33409	eng	I made a thermos full of coffee so you can take it along with your lunch.
 33410	eng	Is there any water in the pot?
-33412	fra	« J'aimerais parler à monsieur Smith. » « C'est lui-même à l'appareil. »
+33412	fra	"J'aimerais parler à monsieur Smith." "C'est lui-même à l'appareil."
 33413	eng	I'll have two hot dogs with mustard and ketchup.
 33414	eng	To our relief, he came back safe and sound.
 33415	eng	The pot is boiling over.
@@ -32673,7 +32673,7 @@
 34604	eng	Perhaps it will rain tomorrow.
 34605	eng	She might be seriously ill.
 34606	eng	She might not know that we are here.
-34607	eng	He cannot possibly believe her.
+34607	eng	He possibly cannot believe her.
 34608	eng	Perhaps he will come.
 34609	eng	He might be away at the moment.
 34610	eng	John might know something about Mr Black.
@@ -33274,7 +33274,7 @@
 35245	eng	The bus fares have been raised by 20 percent.
 35246	eng	Where can I catch a bus?
 35247	eng	Please tell me where the bus stop is.
-35249	eng	I'd rather walk than wait for a bus.
+35249	eng	I would rather walk than wait for a bus.
 35250	eng	The man waiting for the bus lost his temper.
 35251	eng	While waiting for bus, I was caught in a shower.
 35252	eng	While I was waiting for the bus, I saw a traffic accident.
@@ -34158,7 +34158,7 @@
 36206	eng	Nancy never fails to arrive on time.
 36207	eng	Nancy is the most beautiful of the four girls.
 36208	eng	Nancy seems to lack sincerity.
-36209	eng	Nancy and Jane had to go home at five-thirty.
+36209	eng	Nancy and Jane had to go home at five thirty.
 36210	eng	I hear that Nancy is very pretty.
 36211	eng	I know that Nancy likes music.
 36212	eng	Not knowing that Nancy had left him, I put my foot in my mouth when I asked Paul how she was.
@@ -37212,7 +37212,7 @@
 39565	eng	We'll get this as clear as possible.
 39566	eng	Enjoy life while you may.
 39567	eng	Enjoy your life while you are able to.
-39568	eng	I'd like to have a look at your stamp collection.
+39568	eng	I would like to have a look at your stamp collection.
 39569	eng	Do this work by tomorrow if possible.
 39570	eng	Come on Tuesday, if possible.
 39572	eng	This textbook is designed for beginners.
@@ -41552,7 +41552,6 @@
 44169	eng	The dress becomes you.
 44170	eng	That looks smart on you.
 44171	eng	Those clothes suit you well.
-44172	eng	The dress suit you very well.
 44173	eng	The balloon was carried away somewhere by the wind.
 44174	eng	That custom is quite foreign to the Japanese.
 44175	eng	The scenery is beautiful beyond description.
@@ -45384,7 +45383,7 @@
 48183	eng	The tone in which those words were spoken utterly belied them.
 48184	eng	That word describes it perfectly.
 48185	eng	The linguist is fluent in several Chinese dialects.
-48186	eng	I didn't study either of the languages.
+48186	eng	I did not study either of the languages.
 48187	eng	The argument quickly got out of control.
 48188	eng	There were ten police officers on the spot.
 48189	eng	The phenomenon is typical of our modern era.
@@ -47944,7 +47943,7 @@
 50948	eng	I have been warned against going there.
 50949	eng	I wish to know a landmark nearby so I can find my way there.
 50950	eng	We ran out of gas on the way there.
-50951	eng	I'd rather stay here than go there.
+50951	eng	I would rather stay here than go there.
 50952	eng	Stop going there.
 50954	eng	I made up my mind to go there.
 50955	eng	I may go there, but that depends.
@@ -48034,7 +48033,7 @@
 51048	eng	Socrates was accused of atheism because he did not believe in Zeus.
 51049	eng	I'd like the sauce on the side.
 51050	eng	I'd like to have the sauce on the side, please.
-51051	eng	"Is there any sauce left?" "No, there is none."
+51051	eng	Is there any sauce left? No, there is none.
 51052	eng	Do not be so critical.
 51053	eng	I'll tell him that.
 51054	eng	It doesn't take very long.
@@ -48263,7 +48262,7 @@
 51298	eng	Try by all means.
 51299	eng	We request your attendance at the meeting.
 51300	eng	Do come and see us again.
-51301	eng	I do hope you'll come again.
+51301	eng	I do hope you will come again.
 51302	eng	You have to have a piece of pie.
 51303	eng	You must come to the party by all means.
 51304	eng	If you must, you must.
@@ -48962,7 +48961,7 @@
 52038	eng	I like skating better.
 52039	eng	Which do you like better, skating or skiing?
 52041	eng	If you want to skate well, you should take it up seriously.
-52042	eng	I hope you'll soon get well.
+52042	eng	I hope you will soon get well.
 52043	eng	The skater spun around like a top.
 52044	eng	I telephoned him to come at once.
 52045	eng	Wait for me. I'll be back in no time.
@@ -49998,3 +49997,4 @@
 53138	eng	All Jack does is sleep.
 53139	eng	Jack is Mary's second cousin, I believe.
 53140	eng	Jack insists that he has nothing to do with the crime.
+53141	eng	Jack seems to regret it deeply.
