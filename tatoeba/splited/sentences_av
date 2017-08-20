@@ -1,3 +1,17 @@
+1100374	fra	Vous devez vous détendre.
+1100375	nld	Wie is de jongste, hij of ik?
+1100376	fra	On doit supposer que tout ce qu'on fait en ligne est public.
+1100377	fra	On devrait supposer que les courriels ne sont pas privés.
+1100378	tur	Ne oldu? Tüm apartman dairesinde su var.
+1100379	fra	Tu devrais supposer que nous n'aurons pas assez d'argent pour acheter tout ce que nous voulons.
+1100380	fra	Tu devrais manger davantage.
+1100381	fra	Vous devriez manger davantage.
+1100382	fra	Tu devrais aller consulter un dentiste.
+1100383	fra	Vous devriez aller chez un dentiste.
+1100384	epo	Tio devas esti lavata.
+1100385	nld	Dat moet gewassen worden.
+1100386	fra	Vous auriez dû me parler du problème plus tôt.
+1100387	fra	Tu aurais dû me parler du problème plus tôt.
 1100388	tur	Ona öyle bir şey söylememeliydin.
 1100389	fra	Tu devrais t'assurer que tu as assez d'argent en poche pour payer le billet.
 1100390	tur	Ona o tür şey söylememeliydin.
@@ -9055,7 +9069,7 @@
 1109957	fra	Les femmes qui cherchent à égaler les hommes manquent d'ambition.
 1109958	eng	You're amazing.
 1109959	tur	Tom yeni başladı fakat çabuk anlıyor.
-1109960	pol	Jak się czujesz?
+1109960	pol	Jak się czujesz ?
 1109961	fra	J'ai menti à ma petite amie au sujet de mon âge.
 1109962	fra	Tu es super.
 1109963	tur	Tom'a onun tarafından önemli bir görev verildi.
@@ -24619,13 +24633,13 @@
 1126439	por	A laranja dá numa laranjeira.
 1126440	fra	Sur un pamplemoussier pousse un pamplemousse.
 1126441	por	A toranja dá numa toranjeira.
-1126442	fra	Sur un pêcher poussent des pêches.
+1126442	fra	Sur un pêcher pousse une pêche.
 1126443	por	O pêssego dá num pessegueiro.
 1126444	fra	Sur un poirier pousse une poire.
 1126445	por	A pera dá numa pereira.
-1126446	fra	Sur un pommier poussent des pommes.
+1126446	fra	Sur un pommier pousse une pomme.
 1126447	por	A maçã dá numa macieira.
-1126448	fra	Sur un prunier poussent des prunes.
+1126448	fra	Sur un prunier pousse une prune.
 1126449	por	A ameixa dá numa ameixeira.
 1126450	por	O tomate dá num tomateiro.
 1126451	por	A melancia dá numa melancieira.
@@ -26114,6 +26128,7 @@
 1128017	spa	Mi ciclo menstrual es de aproximadamente cada 4 semanas.
 1128018	eng	All that was left to our country were regrets and miseries.
 1128019	eng	The wishes and ideas of a composer gravitate around a common point.
+1128020	eng	The work occupies the same note play in movements one and four.
 1128021	spa	Todas las mañanas ayuda a su madre a preparar el desayuno en la cocina.
 1128022	eng	Can you start again from bar thirty?
 1128023	spa	No tienes que agradecer. Estoy para servirte.
@@ -33943,7 +33958,7 @@
 1136350	por	Se meu irmão estivesse lá, saberia o que fazer.
 1136351	por	Ela perdeu seu relógio novo.
 1136352	por	A ação vem de você, a bênção, de Deus.
-1136353	ron	Sunteţi din Urmuqi?
+1136353	ron	Sunteţi din Urumqi?
 1136355	ron	Nu e prost.
 1136356	por	Esta montanha fica coberta de neve durante todo o ano.
 1136357	pol	Twój pies jest bardzo gruby.
@@ -36386,7 +36401,7 @@
 1138875	por	Não venha me buscar, não precisa.
 1138876	por	Esperem-me um momento. Vou buscar uma bolsa que esqueci em casa.
 1138877	por	Não vou ao supermercado buscar pêssegos, mas sim chocolate.
-1138878	por	Quando fomos buscar Mónica, vimos algo aterrador.
+1138878	por	Quando fomos buscar Mônica, vimos algo aterrador.
 1138879	por	Quando vai vir me buscar? Faz vinte minutos que o estou esperando.
 1138880	por	O menino queria ir buscar o balão que caíra na estrada, mas sua mãe não deixou.
 1138881	fra	Comment s’étaient-ils rencontrés ? Par hasard, comme tout le monde.
@@ -44816,7 +44831,7 @@
 1148328	qya	Méran tirë.
 1148329	eng	I wish to see.
 1148330	qya	Pólan quetë.
-1148331	eng	I'm able to speak.
+1148331	eng	I’m able to speak.
 1148332	qya	Á tirë taurë!
 1148333	eng	Watch the forest!
 1148334	qya	A lelya!
@@ -47695,6 +47710,8 @@
 1151540	fra	Excusez-moi, vous vous référez à moi ?
 1151541	cmn	好，馬上來！
 1151542	fra	Pardon, tu me vises ?
+1151543	fra	Que voulez-vous dire par là ?
+1151544	fra	Que veux-tu dire par là ?
 1151545	fra	Que m'en direz-vous ?
 1151546	fra	Que m'en diras-tu ?
 1151547	fra	Aujourd'hui est mercredi, n'est-ce pas ?
@@ -49981,20 +49998,3 @@
 1153977	srp	Ја сам црна овца у породици.
 1153978	tur	Diğer şirketler de tekliflerini sunacaklar.
 1153979	srp	Пољуби ме!
-1153980	eng	He had nothing to say, so he left.
-1153981	eng	He quickly runs out of breath.
-1153982	srp	"Хвала!" – "Живели!"
-1153983	tur	Bu sinir bozucu işte daha fazla kalamayacağım.
-1153984	heb	הוא מתלונן כל הזמן.
-1153985	srp	Немате због чега устајати тако рано.
-1153986	eng	Canada and Mexico both share a border with the USA.
-1153987	epo	Li plendas la tutan tempon.
-1153988	srp	То је знак да је одговор добар.
-1153989	eng	The thief does not believe in honest people.
-1153990	tur	Yıllar süren hüsranlardan sonra, nihayet çabalarım meyve verdi.
-1153991	eng	My son can already count up to one hundred.
-1153992	ara	يشكو طول الوقت.
-1153994	eng	They were extremely excited.
-1153995	srp	Демократија – најгора форма управљања, ако се не узму у обзир сви остали облици испробани до сада.
-1153996	eng	He is there for a few days.
-1153997	epo	Li nur plendas de mateno ĝis vespero.

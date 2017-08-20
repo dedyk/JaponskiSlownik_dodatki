@@ -1,3 +1,52 @@
+2647079	eng	That was Tom's fault.
+2647080	eng	That was predictable.
+2647081	eng	That was our problem.
+2647082	eng	That was my strategy.
+2647083	eng	That was my question.
+2647084	eng	Thanks for this, Tom.
+2647085	eng	Thanks for the party.
+2647086	eng	Thanks for the offer.
+2647087	eng	Thanks for the fruit.
+2647088	eng	Thank you for dinner.
+2647089	eng	Thank you for before.
+2647090	eng	Thank you for asking.
+2647091	eng	Tell Tom your theory.
+2647092	eng	Tell Tom he can't go.
+2647093	eng	Stop doing that, Tom.
+2647094	eng	Step in here, please.
+2647095	eng	Stay with us tonight.
+2647096	eng	Someone's in my room.
+2647097	eng	Somebody was in here.
+2647098	eng	Show Tom your bruise.
+2647099	eng	Show Tom the picture.
+2647100	eng	Shove it in the slot.
+2647101	eng	See you tomorrow, OK?
+2647102	eng	See you on the plane.
+2647103	eng	See you at Christmas.
+2647104	eng	Put it on Tom's desk.
+2647105	eng	Put it in the drawer.
+2647106	eng	Perhaps Tom is right.
+2647107	eng	One of them was mine.
+2647108	eng	None of this matters.
+2647109	eng	None of this is true.
+2647110	eng	None of this is real.
+2647111	eng	None of that matters.
+2647112	rus	Как называется столица Зимбабве?
+2647113	eng	My son's name is Tom.
+2647114	eng	My car's been stolen.
+2647115	eng	Maybe you were wrong.
+2647116	eng	Maybe you were right.
+2647117	eng	Maybe they're hungry.
+2647118	eng	Maybe that was wrong.
+2647119	eng	Many of us are upset.
+2647120	eng	Many of us are angry.
+2647121	eng	Make yourself useful.
+2647122	eng	Look at these prices.
+2647123	eng	Look at that drawing.
+2647124	eng	Listen to your heart.
+2647125	eng	Listen to me, please.
+2647126	eng	Let's go to the pool.
+2647127	eng	Leave it to the pros.
 2647128	eng	It's quiet, you know.
 2647129	eng	It's on the schedule.
 2647130	eng	It's not Tom's fault.
@@ -6540,7 +6589,7 @@
 2653998	jpn	トムは夕食からずっと部屋で勉強している。
 2653999	heb	אני רוצה להיות איתך לנצח.
 2654001	spa	La fiesta terminó con un discurso del organizador.
-2654002	swe	Du kommer att förstå att jag säger sanningen.
+2654002	swe	Du kommer att förstå att jag berättar sanningen.
 2654003	heb	אני רוצה לרדת בתחנה הקרובה.
 2654004	swe	Jag drack inte vattnet.
 2654005	jpn	トムはずっと勉強をしている。
@@ -6578,12 +6627,12 @@
 2654038	swe	Hassan gick till skolan.
 2654040	swe	Han åt äpplet.
 2654041	swe	Jag skall läsa boken.
-2654042	swe	Vetenskap är viktigt för våra liv.
+2654042	swe	Vetenskapen är viktig för våra liv.
 2654043	spa	Organizar los juegos olímpicos en un lugar con mucha contaminación atmosférica da lugar a un gran riesgo para los atletas.
 2654044	epo	Ŝi estas evidenta klaĉulino.
 2654045	swe	Jag tror inte att två språk är tillräckligt.
 2654046	epo	Ŝi provis naĝi.
-2654047	swe	Jag vill bo i staden.
+2654047	swe	Jag vill leva i staden.
 2654048	swe	Jag ser huset.
 2654049	spa	El príncipe organizará pronto un gran baile.
 2654050	swe	Hur gammal är din son?
@@ -6834,7 +6883,7 @@
 2654307	deu	Wenn er mich nicht abgeholt hätte, wäre ich jetzt nicht hier.
 2654308	eng	You must do your homework.
 2654309	eng	You're doing it ass backwards.
-2654310	swe	Du måste göra dina läxor.
+2654310	swe	Du måste göra din läxa.
 2654311	eng	Don't screw up. My ass is on the line.
 2654312	eng	I eat a book.
 2654313	swe	Jag äter en bok.
@@ -6888,7 +6937,7 @@
 2654363	eng	She tried to hide her anger.
 2654364	eng	I could not walk.
 2654365	deu	Sie versuchte, ihren Ärger zu verbergen.
-2654366	swe	Det är en katt i lådan.
+2654366	swe	Det finns en katt i lådan.
 2654367	epo	La problemo pri vi estas, ke vi tro parolas.
 2654368	hin	अपने पति की मृत्यु के बाद मित्रों के फोन और पत्रों से नेन्सी को काफी सांत्वना मिली।
 2654369	eng	He has a platinum credit card.
@@ -6896,7 +6945,7 @@
 2654371	eng	She has a gold credit card.
 2654372	eng	Nancy received much solace from the cards and phone calls received from friends in the weeks after her husband died.
 2654373	epo	Bonvolu depreni min de la hotelo je la sesa.
-2654374	swe	Jag ställer henne en fråga.
+2654374	swe	Jag frågar henne en fråga.
 2654376	eng	They both have a diamond credit card.
 2654377	hin	उनके खर्च घटाने के प्रयास ज़्यादा सफल नहीं हुए।
 2654378	swe	Det här är mitt hus.
@@ -6905,7 +6954,7 @@
 2654381	swe	Jag kan inte äta.
 2654382	epo	Mi jam delonge ne plu kradrostis.
 2654383	eng	I laid my new clothes on the bed.
-2654384	swe	Jag översätter programvaran.
+2654384	swe	Jag lokaliserar programvaran.
 2654385	swe	Jag har ett hjärta.
 2654386	dan	Det nye hus er her.
 2654387	swe	Jag har en katt.
@@ -6926,11 +6975,12 @@
 2654402	swe	Jag gick inte till skolan.
 2654403	swe	Den här dörren är inte låsbar.
 2654404	swe	Denna dörr är inte låsbar.
-2654405	swe	Jag ska äta äpplet.
+2654405	swe	Jag skall äta äpplet.
 2654407	hin	तथापि, यह नोट करना उपयुक्त है कि यह प्रक्रिया अगले वर्ष जारी रहेगी।
 2654408	eng	It is, however, apposite to note that this process will continue in the year ahead.
 2654409	dan	Hvor længe har du tænkt dig at blive her i Brasilien?
-2654410	swe	Kärleken är viktig.
+2654410	swe	Kärleken är en viktig sak.
+2654411	swe	Jag ska äta äpplet.
 2654412	epo	Mi ankoraŭ neniam vidis NIFOn.
 2654413	hin	इक्का-दुक्का गोलीबारी की आवाज सुनने के अलावा दिन भर काफी शांति बनी रही।
 2654414	por	Faze tua vida plena de amor e alegria.
@@ -7294,7 +7344,7 @@
 2654802	eng	We won the contest!
 2654803	swe	Vi vann tävlingen!
 2654804	eng	I understand your words.
-2654805	swe	Jag förstår vad du säger.
+2654805	swe	Jag förstår dina ord.
 2654806	eng	Do you have a dictionary?
 2654807	swe	Har du en ordbok?
 2654808	dan	Har du en ordbog?
@@ -8262,7 +8312,7 @@
 2655822	epo	Ni finas la kontrakton per reciproka konsento.
 2655823	deu	Was für Schmuck wirst du zu diesem Kleid tragen?
 2655824	deu	Was für Schmuck werden Sie zu diesem Kleid tragen?
-2655825	swe	Har du svårt att förstå vad kvinnor och barn säger till dig?
+2655825	swe	Har du svårt med att förstå vad kvinnor och barn säger till dig?
 2655826	bel	Я не магу жыць без цябе.
 2655827	epo	Humaneco konsistas el tio, ke neniam homo oferiĝas por iu celo.
 2655828	bel	Maju nadzieju, što ty heta razumieješ.
@@ -8931,7 +8981,7 @@
 2656540	por	Isto era dirigido indiretamente a mim.
 2656541	epo	La piroj nun ekmaturiĝas.
 2656542	ina	Le travalio es finite a medietate.
-2656543	swe	Var ligger ditt hus?
+2656543	swe	Var är ditt hus?
 2656544	epo	La piroj jam komencas iĝi maturaj.
 2656545	epo	La piroj jam komencas maturiĝi.
 2656546	por	Só a metade do trabalho é que está feita.
@@ -21573,7 +21623,7 @@
 2669703	deu	Er hatte einen Hund gekauft.
 2669704	deu	Das war peinlich.
 2669705	eng	This field is not well cultivated.
-2669706	swe	Detta fält är inte välodlat.
+2669706	swe	Detta fält är inte väl odlat.
 2669707	deu	Das war ungeschickt.
 2669708	cmn	你最好不要和那样的男人们交往。
 2669709	cmn	我昨天遇到的少年叫托尼。
@@ -29976,7 +30026,7 @@
 2678517	tur	Ciddi değildin, değil mi?
 2678518	nob	Hver eneste dag går jeg med en klump inni meg som gjør ubeskrivelig vondt.
 2678519	rus	Я не могу поверить, что она только что сказала это.
-2678520	epo	La rusto difektas la feron.
+2678520	epo	La rosto difektas la feron.
 2678521	tur	Uyuyordun, değil mi?
 2678522	epo	En ĉiu tago mian koron premas pezo, kaŭzanta nepriskribeblan doloron.
 2678523	spa	Estabas durmiendo, ¿verdad?
@@ -36816,7 +36866,7 @@
 2685708	eng	I want a town free of traffic.
 2685709	tur	Bunu asla önermezdim.
 2685710	ina	Ille ha facite le pace con su ex-sponsa.
-2685711	nld	Ik wou een verkeersloze stad.
+2685711	nld	Ik wil een verkeersloze stad.
 2685712	tur	Böyle yaşamayacağım.
 2685713	por	Ele fez as pazes com a ex-esposa.
 2685714	tur	Bu sefer başarısız olmayacağım.
@@ -49948,53 +49998,3 @@
 2699471	hun	Nem tudom megszokni a városi életet.
 2699472	deu	Klingelt das Telefon?
 2699473	swe	Var god fyll i enkäten och skicka in den till oss.
-2699474	mar	तुला जे योग्य वाटेल ते कर.
-2699475	mar	मी मागच्या आठवड्यात दोन गाणी लिहिली.
-2699476	mar	टॉमला तर थंड पिजासुद्धा आवडतो.
-2699477	mar	तुझ्याकडे इतके रुमाल का आहेत?
-2699478	mar	तुमच्याकडे इतके रुमाल का आहेत?
-2699479	hun	Szükségem van az elveszett papírokra.
-2699480	hun	Néha jobb, ha hallgatunk.
-2699481	hun	Tomnak szüksége van a segítségünkre.
-2699482	hun	Adjál hozzá több vizet.
-2699483	deu	Es tut mir leid, aber ich muss jetzt fort. Ich habe einen Termin in einer Stunde. Vergiss bitte nicht, mich wieder anzurufen, wenn ich nach Hause komme.
-2699484	hun	Légy szíves, adjál egy pohár vizet.
-2699485	hun	Elkészítetted már az ivólevet?
-2699486	hun	A levelet Bill fogalmazta.
-2699487	hun	Tom egy igaz ember.
-2699488	deu	Ich habe den Termin wegen dringender geschäftlicher Verpflichtungen abgesagt.
-2699489	hun	Kifogott három halat.
-2699490	hun	Van még egy kis víz az üvegben.
-2699492	hun	A falevelek megpirosodtak.
-2699493	deu	Bedauerlicherweise muss ich den Termin für den 27. Februar leider absagen.
-2699494	hun	Meséld el nekem, mit csináltál Havaiban.
-2699495	deu	Eine plötzliche Krankheit zwang sie, den Termin abzusagen.
-2699496	deu	Ich bedauere, Ihnen mitteilen zu müssen, dass ich nicht in der Lage bin, unsere Verabredung für den 27. Februar einzuhalten.
-2699497	ita	È importante che oggi sia una bella giornata.
-2699498	fra	Il est important qu'aujourd'hui soit une belle journée.
-2699499	eng	Some of the managers complained about him becoming the president of the company.
-2699500	eng	There were some managers who complained about him becoming the president of the company.
-2699501	deu	Auf dieser Straße besteht ein hohes Verkehrsaufkommen.
-2699502	deu	Da es auf dieser Straße keine Busverbindung gibt, werden wir laufen müssen.
-2699503	deu	Diese Straße führt in die Stadt.
-2699504	cmn	这是有目共覩的。
-2699505	deu	Dieses Werkzeug eignet sich für viele Zwecke.
-2699506	deu	Dieses Werkzeug ist sehr nützlich.
-2699507	deu	Dieses Werkzeug taugt überhaupt nichts.
-2699508	deu	Wenn es richtig angewendet wird, ist dieses Werkzeug sehr hilfreich.
-2699509	deu	Dieses Werkzeug kann sehr gefährlich sein, wenn es achtlos verwendet wird.
-2699510	nld	Sinds mijn dochter geboren is, heb ik geen tijd meer.
-2699511	deu	Sie können diese Straße nicht benutzen. Sie wird instand gesetzt.
-2699512	deu	Es gibt eine Bushaltestelle ein Stück die Straße hinunter.
-2699513	deu	Diese Straße führt Sie zum Museum.
-2699515	epo	Sur ĉi tiu strato regas intensa trafiko.
-2699516	deu	Komme ich zum Bahnhof, wenn ich diese Straße nehme?
-2699517	heb	איך הכרת את הורי?
-2699518	eng	Support from a native speaker would be appreciated.
-2699519	swe	Först visste jag inte vad jag skulle göra.
-2699520	deu	Komme ich auf dieser Straße zum Bahnhof?
-2699521	swe	Först visste jag inte vad jag skulle ta mig till.
-2699522	deu	Auf dieser Straße kommen Sie zum Bahnhof.
-2699523	swe	Hans frånvaro igår berodde på förkylning.
-2699524	deu	Diese Straße bringt Sie zum Bahnhof und ins Stadtzentrum.
-2699525	deu	Diese Straße bringt Sie zum Stadtzentrum.
