@@ -1,19 +1,3 @@
-1531402	por	Ele é meu professor.
-1531403	por	As maçãs estão deliciosas.
-1531404	por	Quanto ele ganha por mês?
-1531405	por	É perigoso escalar esta montanha.
-1531406	tur	O, sosyal hizmetler ile uğraşmaktadır.
-1531407	por	Você é italiana.
-1531408	por	Não os comprei.
-1531409	tur	O, bu gece bir parti veriyor.
-1531410	por	Acabo de receber a sua carta.
-1531411	por	Você acaba de ligar o rádio.
-1531412	por	O inglês é uma língua germânica.
-1531413	tur	O, bebeği yıkıyor.
-1531414	por	Do que se trata o texto?
-1531415	por	Ele fez um bom trabalho tanto em sua empresa como na universidade.
-1531416	tur	O, Chiba Stadyumu'na gidiyor.
-1531418	tur	O, bir Amerikalı ile evlidir.
 1531419	toki	tomo tawa li lon sinpin tomo.
 1531420	por	O jogador de futebol viu-se assediado por muitos jornalistas.
 1531421	tur	O, elbiseden memnundur.
@@ -539,7 +523,7 @@
 1531978	rus	Мне нравится английский.
 1531979	nld	Zonder zijn hulp had ik het niet voor elkaar gekregen.
 1531980	nld	De bank is breed genoeg, zodat vier personen erop kunnen zitten.
-1531981	nld	Heeft u niets minder duur?
+1531981	nld	Heeft u niets minder duurs?
 1531982	rus	Английский - мой родной язык.
 1531983	nld	Hij is heel vriendelijk.
 1531984	rus	Я никогда не бывал в Хиросиме.
@@ -1530,7 +1514,6 @@
 1533005	jpn	家に帰ってひと眠りした方がいいな。
 1533006	spa	Es porque no lo haces, no porque no puedas hacerlo.
 1533007	epo	Mi estus devinta aŭskulti pli zorge.
-1533008	spa	Es porque no la haces, no porque no puedes hacerla.
 1533010	spa	Hazlo ahora para que no te olvides.
 1533011	spa	Hazla ahora para que no te olvides.
 1533012	epo	Vi ne devus rompi vian promeson.
@@ -2552,7 +2535,7 @@
 1534063	eng	Her skin was warm.
 1534064	kaz	Құс үйдің төбесіне қонды.
 1534065	rus	Птица села на крышу дома.
-1534066	epo	Daŭros du semajnojn, ĝis kiam vi ricevos la artikolon.
+1534066	epo	Daŭros du semajnojn ĝis vi ricevos la artikolon.
 1534067	kaz	Балаларды төбелестірме!
 1534068	eng	Tom was court-martialed on the grounds of mutiny and disobeying orders.
 1534069	rus	Не позволяй детям драться!
@@ -4575,7 +4558,7 @@
 1536175	rus	Он сыграл очень важную роль в нашем исследовании.
 1536176	ita	Mio padre non me lo lasciò sposare.
 1536177	rus	Он оставил своим ученикам эти знаменитые слова.
-1536178	epo	Ŝi droniĝas kaj mi ne scipovas naĝi! Helpu ŝin!
+1536178	epo	Ŝi dronas kaj mi ne povas naĝi! Helpu ŝin!
 1536179	rus	Её смерть потрясла меня.
 1536181	rus	Он предложил сходить посмотреть фильм.
 1536182	ita	Anne stava per uscire di casa quando squillò il telefono.
@@ -4616,7 +4599,7 @@
 1536217	ita	Ha traslocato sei volte da quando è arrivata.
 1536218	eng	"I can't help it", she said, "I'm already in love with him".
 1536219	ita	Tutte le mattine va a fare una passeggiata.
-1536220	epo	La kavaliro uzis ŝtalan armaĵon kiun ŝajnis pezi unu tunon.
+1536220	epo	La kavaliro uzis ŝtalan armaĵon, kiu ŝajnis pezi unu tunon.
 1536221	rus	- Я не могу это исправить, - сказала она, - я уже влюблена в него.
 1536222	epo	La studento venis el Londono.
 1536223	eng	Do you live in this area?
@@ -4631,7 +4614,7 @@
 1536232	eng	Natasha was born in Russia, but she doesn’t speak Russian.
 1536233	eng	I am a French doctor.
 1536234	fra	Je suis un étudiant anglais.
-1536235	epo	La sangoĉeloj estas produktitaj de trunkoĉeloj.
+1536235	epo	La sangoĉeloj estas produktitaj de praĉeloj.
 1536236	fra	Je suis une étudiante anglaise.
 1536237	epo	Ĉu vi kaptis iun fiŝon en la rivero?
 1536238	rus	Я французский врач.
@@ -5490,7 +5473,7 @@
 1537136	epo	Mia avo kapjesis por mi.
 1537137	cmn	晚餐何時供應？
 1537138	epo	Kie vi estis en la pasinta nokto?
-1537139	epo	Kiom longe vi komencis lerni la germanan?
+1537139	epo	Kiam vi komencis lerni la germanan lingvon?
 1537140	epo	Kiajn bestojn mi povos trovi ĉi tie?
 1537141	epo	Sinjorino Harris havas multajn dubojn pri la destino de sia filo.
 1537143	epo	Kia estis la vetero, kiam vi eliris ĉi-matene?
@@ -5531,7 +5514,7 @@
 1537181	epo	Nia fridujo paneis.
 1537182	epo	Mi estas trista.
 1537183	epo	Mi tristas.
-1537184	epo	Ĉu al kio estas imputitaj la malfacilaĵoj?
+1537184	epo	Al kio estas imputitaj la malfacilaĵoj?
 1537185	epo	Mi ne povas permesi al mi tiun altan elspezon.
 1537186	epo	En koka korto blato ne pravas.
 1537187	epo	Mi ne povas permesi al mi elspezi tiom.
@@ -6148,11 +6131,11 @@
 1537833	fra	L'instinct de survie est commun à tout être vivant.
 1537834	fra	La police te mettra en prison.
 1537835	fra	C'est mon ami qui s'appelle Jack.
-1537836	epo	Ju pli mallonga estas la proverbo, des pli demandoj ĝi starigas.
+1537836	epo	Ju pli mallonga estas la proverbo, des pli da demandoj ĝi starigas.
 1537837	epo	Haltu tio, vi estas ridinda.
 1537838	epo	Ĉu vi povas veni al mia hejmo kiam vi finos?
 1537839	epo	Tute kompreneblas, ke ŝi koleras.
-1537840	epo	La iPhone estas eksterordinara poŝtelefono.
+1537840	epo	iPhone estas eksterordinara poŝtelefono.
 1537841	epo	Ne estas vivo sen muziko.
 1537842	epo	Toĉjo tondis la harojn.
 1537844	epo	Ĉi tiu estas mia ĉapelo dum somero.
@@ -6161,7 +6144,7 @@
 1537847	epo	Mi pridubas, ke ŝi amas vin.
 1537849	por	Seu filho da puta!
 1537850	epo	Kial vi havas tian mienon?
-1537851	epo	Mia patro kutimis legi por mi antaŭ ol mi endormiĝos.
+1537851	epo	Mia patro kutimis legi por mi antaŭ ol mi endormiĝis.
 1537852	epo	Tiu estas la domo, kie ili vivis.
 1537853	epo	Kiom aĝa ŝajnas esti via avo?
 1537854	epo	Ĉu vi estis ĉi tie pasintsemajne?
@@ -7355,7 +7338,7 @@
 1539079	deu	Haben Sie etwas in einer kleineren Größe?
 1539080	deu	Im Wald wimmelt es von Affen.
 1539081	cat	L'Aaron porta roba rara; la gent se'n riu sovint de la seva manera de vestir.
-1539082	cat	Quant de temps un heu estat aquí?
+1539082	cat	Quant de temps us heu estat aquí?
 1539083	deu	Er hat aus den Samen Tomatensämlinge gezogen.
 1539084	epo	Kristoforo Kolumbo ne ŝatis la hispanajn bordelojn, kiujn li rigardis malpuraj kaj tro multekostaj. Anstataŭe li iris sur la maron, volonte lasis allogi sin per la kantoj de la sirenoj, kaj sekve multe ĝuis.
 1539085	cat	Diuen que les balenes, fa molt de temps, vivien fora de l'aigua.
@@ -8912,7 +8895,7 @@
 1540699	heb	התרופה הזאת, האם היא פועלת במהירות?
 1540700	heb	לתרופה הזאת יש אפקט מהיר?
 1540701	heb	אל תשתה יותר מדי, בסדר?
-1540702	nld	Van op de berg Fuji heeft men een prachtig uitzicht.
+1540702	nld	Vanop de berg Fuji heeft men een prachtig uitzicht.
 1540703	heb	אל תשתי יותר מדי, אוקיי?
 1540704	heb	אני לא רואה דבר!
 1540705	eng	The structural integrity of the building is compromised.
@@ -10342,7 +10325,7 @@
 1542244	spa	Ayer, Tom llegó antes de lo usual.
 1542245	spa	He estado preocupado por tu salud.
 1542246	spa	Deseo que se acabe este trabajo.
-1542247	spa	Es verdad que el tiene el hábito de inventar mentiras.
+1542247	spa	Es cierto que él tiene el hábito de inventar mentiras.
 1542248	spa	¿Quién es tu amigo más interesante?
 1542249	tur	Ne güzel bir gül.
 1542250	tur	Masanın üstünde elma var.
@@ -10441,7 +10424,7 @@
 1542347	epo	Li fluglegis mian raporton.
 1542348	fra	Qu'en est-il de nous ?
 1542349	epo	Ni ĵus pasigis du semajnojn malkune.
-1542350	deu	Mary wäre am liebsten im Boden versunken.
+1542350	deu	Maria wäre am liebsten im Erdboden versunken.
 1542351	epo	La knabo kapablas memori ĉion, kion li legas.
 1542352	epo	Mi ŝatus mallonge paroli kun vi...
 1542353	deu	Marys Studentenbude sieht aus wie ein Schweinestall.
@@ -10474,7 +10457,7 @@
 1542380	spa	Dios envió una señal.
 1542382	spa	Tom es un macho alfa.
 1542383	spa	Brilla en la oscuridad.
-1542384	deu	Mary studiert seit drei Jahren Tiermedizin.
+1542384	deu	Maria studiert seit drei Jahren Tiermedizin.
 1542385	spa	La construcción tiene 20 pisos.
 1542387	eng	They killed Tom as an example to the other prisoners.
 1542388	deu	Ich hab’s doch geahnt!
@@ -10636,7 +10619,7 @@
 1542556	fra	Glacial.
 1542558	rus	«СССР» означает «Союз Советских Социалистических Республик».
 1542559	rus	Каким вам показался мой дом?
-1542560	epo	Malvarmega.
+1542560	epo	Ĝi estas malvarmega kiel glacio.
 1542561	rus	Как вы нашли мой дом?
 1542562	epo	Li ŝatus trovi eŭropaninon blondan bluokulan.
 1542563	fra	J'ai l'intention d'aller au magasin. Est-ce que je t’achète quelque chose ?
@@ -10996,7 +10979,7 @@
 1542933	fra	L'entreprise connaît des difficultés financières.
 1542934	vie	Tôi không bỏ bạn mà đi đâu.
 1542935	fra	Le connaissez-vous ?
-1542936	lat	Didymus reti utitur ut linguam Hispanicam discat.
+1542936	lat	Thomas reti ad linguam Hispanicam discendam utitur.
 1542937	vie	Một khi mọi chuyện đã xảy ra theo chiều hướng này, thì kết cục tất cả cũng như nhau thôi.
 1542938	vie	Bạn làm cách nào để trả tiền cho cái máy tính này?
 1542939	vie	Bài luận của bạn có vài lỗi, nhưng tổng thể thì làm rất tốt.
@@ -13243,7 +13226,7 @@
 1545282	spa	Hace mucho tiempo no la veía tan feliz.
 1545283	ita	Io l'ho utilizzato solamente una volta.
 1545284	ita	Io l'ho utilizzata solamente una volta.
-1545285	eng	One of answers is correct.
+1545285	eng	One of the answers is correct.
 1545286	spa	Las novelas brasileras son vendidas a diversos países.
 1545287	spa	El diez por ciento de las preguntas del examen son interdisciplinarias, o sea, engloban contenidos relacionados a más de una disciplina.
 1545288	ita	Che pessimismo!
@@ -14824,7 +14807,7 @@
 1546940	eng	I'm more worried about Mary now.
 1546941	eng	Mary is showing signs of severe depression.
 1546942	eng	I gave Mary some meds that should help.
-1546943	eng	Tom is showing no sings of brain activity.
+1546943	eng	Tom is showing no signs of brain activity.
 1546944	eng	It'll probably be easier for everyone if we don't tell Mary until after we shut the life support down.
 1546945	eng	They say Tom is gone.
 1546946	eng	They say Tom's brain isn't functioning anymore.
@@ -15300,7 +15283,7 @@
 1547447	tur	Her gün günlüğüme yazıyorum.
 1547448	nld	Het hagelt.
 1547449	tur	Bugün deniz sıcaktı.
-1547450	deu	Mary war sauer, weil Tom ihr zum Geburtstag einen Gutschein geschenkt hat.
+1547450	deu	Maria war sauer, weil Tom ihr zum Geburtstag einen Gutschein geschenkt hatte.
 1547451	tur	Hava güzel olduğundan, pikniğe gittik.
 1547452	deu	Er hat morgens schon eine Fahne.
 1547453	tur	Saat ikiden beri sizi bekliyorum.
@@ -15308,8 +15291,8 @@
 1547455	deu	Jon kann nicht Gitarre spielen.
 1547456	deu	Tom ist seit drei Jahren trocken.
 1547457	tur	Sadece Jim değil, annesi ve babası da hasta.
-1547458	deu	Tom und Mary sparen für ein Eigenheim.
-1547459	deu	Tom und Mary haben ihren Bausparvertrag aufgelöst.
+1547458	deu	Tom und Maria sparen für ein Eigenheim.
+1547459	deu	Tom und Maria haben ihren Bausparvertrag aufgelöst.
 1547461	deu	Wo ist Mississippi?
 1547462	fra	Où est le Mississippi ?
 1547463	deu	Wir hatten früher noch ein Telefon mit Wählscheibe.
@@ -15540,7 +15523,7 @@
 1547697	eng	He'll soon be about again.
 1547698	eng	Is it ok if I help you?
 1547699	eng	There's a lot of flu about.
-1547701	eng	People are about sitting on the grass.
+1547701	eng	People are sitting about on the grass.
 1547702	deu	Er widmete seine ganze Zeit dem Geschichtsstudium.
 1547703	deu	Die Belüftung in diesem Raum ist ziemlich schlecht.
 1547704	vie	Anh ta ở quanh quẩn đâu đây.
@@ -15573,7 +15556,7 @@
 1547736	nld	U bent rijk.
 1547737	nld	Jullie zijn rijk.
 1547738	eng	You kill me!
-1547741	epo	La konstruado de Ejfelturo markis la alveno de la 20-a jarcento.
+1547741	epo	La konstruado de Ejfelturo markis la alvenon de la 20a jarcento.
 1547742	hun	Apám ült és olvasta az esti újságot.
 1547743	nld	Dit geneesmiddel heeft geen bijwerkingen.
 1547744	eng	Every day has a continuation.
@@ -15587,12 +15570,12 @@
 1547754	ita	Sono una dottoressa.
 1547756	ita	Io sono una dottoressa.
 1547757	hun	Részletesen elmagyarázta, hogy mit döntött.
-1547758	epo	Ni devas profiti la maksimumo de suna energio.
+1547758	epo	Ni devas profiti maksimume el suna energio.
 1547759	ell	Όσο ζω ελπίζω.
 1547760	epo	Kelkaj religiistoj konsideras la doloron maniero de animoprovaĵo.
 1547761	kaz	Менде санақтар жоқ.
 1547762	kaz	Қазақ тiлiн үйрену үшiн менiң мақсаттарым, жоспарларым, себептерiм бар.
-1547763	epo	Mi necesas de korpan haŭtakvon.
+1547763	epo	Mi bezonas korpan haŭtakvon.
 1547764	kaz	Əрине, көп қателер болатын шығар.
 1547765	epo	Faru ĝin vi mem.
 1547766	kaz	Мен өзiм Қазақша жазуға тырыстым.
@@ -16765,7 +16748,7 @@
 1548961	deu	Nach dem Tod seiner Eltern kümmerten sich seine Großeltern um seine Ausbildung.
 1548962	heb	הוא שותה כוס מים מדי בוקר.
 1548963	heb	הוא התיישב ובמשך שעות הביט על הים.
-1548964	nld	Tom's bedrijf doet het heel goed.
+1548964	nld	Toms bedrijf doet het heel goed.
 1548965	heb	היא בערה מרוב קנאה.
 1548966	heb	היא בערה מקנאה.
 1548967	heb	הרכב הזה נוסע מעל למהירות המותרת כאן.
@@ -16886,7 +16869,7 @@
 1549088	deu	Die Vögel singen fröhlich.
 1549089	deu	Tom behauptete, er habe ein UFO gesehen.
 1549090	deu	Tom hat behauptet, er habe ein UFO gesehen.
-1549091	deu	Tom enttäuschte Mary.
+1549091	deu	Tom enttäuschte Maria.
 1549092	deu	Tom hat Maria enttäuscht.
 1549093	ita	Sono un'insegnante giapponese.
 1549094	ita	Sono un insegnante di giapponese.
@@ -19711,7 +19694,7 @@
 1552102	eng	That sounds like our tugboat horn.
 1552103	ell	Το νερό ακόμα είνα λίγο ζεστό.
 1552104	ell	Αυτός ζει στο νότιο τμήμα της πόλης.
-1552105	deu	Es ist seltsam, dass Sie über ihre Ehe nichts wissen .
+1552105	deu	Es ist seltsam, dass Sie über ihre Ehe nichts wissen.
 1552106	ell	Οι χειρότεροι φόβοι μου πραγματοποιήθηκαν.
 1552107	deu	Ich würde die USA gerne in einem Cabrio durchqueren.
 1552108	deu	Viele Leute warteten auf den Autobus.
@@ -20030,7 +20013,7 @@
 1552431	vie	Nó sẽ không thích cái này.
 1552432	vie	Anh ấy sẽ không thích cái này.
 1552433	vie	Nó sẽ không ưa cái này.
-1552434	pol	Czy chcesz iść pierwszy/a?
+1552434	pol	Czy chcesz iść pierwszy?
 1552435	vie	Ông ta sẽ không ưa cái này.
 1552436	pol	Tom i Mary grają w rosyjską ruletkę.
 1552437	vie	Nó sẽ không thích điều này.
@@ -21098,12 +21081,12 @@
 1553544	tur	Biz 50 dakikada oraya uçacağız.
 1553545	tur	Biz yakında mutlu olacağız, değil mi?
 1553546	eng	I am not guilty!
-1553547	eng	Ruminants are a kind of mammals
+1553547	eng	Ruminants are a group of mammals.
 1553548	tur	Biz duvarı boyayacağız.
 1553549	epo	Bonvolu veni je la plej oportuna tempo por vi.
 1553550	eng	Some medicines can be harmful for the body
 1553551	yue	隻雀仔好靚喎！
-1553552	eng	He enthusiastically engaged himself into this honorable undertaking
+1553552	eng	He enthusiastically engaged himself in this honorable undertaking.
 1553553	bel	Шмат хто любіць людзей, мала хто ведае.
 1553554	eng	The media doesn't distribute this news.
 1553555	bel	Гэта маё жыццё.
@@ -22606,7 +22589,7 @@
 1555156	fra	N'essaie pas de retenir chaque phrase du texte, c'est presque impossible.
 1555158	tur	Bizim çocuk arkadaşıyla oyun oynuyor.
 1555159	fra	Je doute qu'ils ne parviennent à résoudre ce problème sans mon aide.
-1555160	fra	la guerre fait rage entre les différents constructeurs automobiles.
+1555160	fra	La guerre fait rage entre les différents constructeurs automobiles.
 1555161	fra	La plupart des crimes liés à la drogue sont le fait de bandes organisées
 1555162	fra	Le chinois est une langue qui possède quatre tons.
 1555163	fra	La sonnerie de mon téléphone me sortit de ma torpeur.
@@ -22858,7 +22841,7 @@
 1555420	pes	انگار از دل برود هر آن که از دیده برفت.
 1555421	pes	ایدئولوژی های جزم اندیشانه جهان را به آتش خواهند کشید.
 1555422	epo	Homoj estas senpovaj antaŭ la naturo.
-1555423	eng	I went to the pawn shop and asked them to please appraise my 1980s style car
+1555423	eng	I went to the pawn shop and asked them to please appraise my 1980s style car.
 1555424	deu	Sie ist schlecht gelaunt.
 1555425	deu	Sie ist übellaunig.
 1555426	deu	Sie ist schlechter Laune.
@@ -23317,7 +23300,7 @@
 1555894	ita	È ora che ti alzi.
 1555895	ron	Mă faci fericit.
 1555896	epo	Lia laboro ne estas laŭ la normo.
-1555897	ron	Aceasta bere conține 5% de alcool.
+1555897	ron	Această bere conţine 5 % alcool.
 1555898	ita	I paesi sviluppati devono aiutare i paesi in via di sviluppo.
 1555899	ita	Ci conosciamo dall'infanzia.
 1555900	por	Eu confesso que ele tem razão.
@@ -23537,7 +23520,7 @@
 1556120	jpn	彼は家にいないんだよね。
 1556121	spa	Han pasado tres meses desde que se fue de Japón.
 1556122	eng	That would appear to be correct.
-1556123	epo	Pardonu min, mi devas respondi mesaĝon.
+1556123	epo	Pardonu min, mi devas respondi mesaĝojn.
 1556124	eng	Snap out of it!
 1556125	spa	Cometí un grave error en el test.
 1556126	eng	You have to believe in yourself.
@@ -24069,12 +24052,12 @@
 1556698	deu	Er war so wütend, dass er vergaß, das Abendessen einzunehmen.
 1556699	heb	זה גורם לי לבחילה.
 1556700	heb	לטום יש כוונות טובות.
-1556701	epo	Mi negocas kun aĉetanto de landoj.
+1556701	epo	Mi negocas kun aĉetanto de grundoj.
 1556703	heb	מרי התוודתה כי היא מכשפה.
 1556704	heb	טום מאמין שחדי-קרן הם אמיתיים.
 1556705	heb	לעתים טום מתקלח מקלחת ממושכת.
 1556706	heb	רוצה לזה צ'יפס?
-1556707	epo	La Leŭgo originale rilatis al distanco en kiu persono aŭ ĉevalo povis piediri en unu horo.
+1556707	epo	La leŭgo originale rilatis al distanco en kiu persono aŭ ĉevalo povis piediri en unu horo.
 1556708	heb	מרי גם רוצה וגם יכולה.
 1556709	por	Ele não está em casa, né?
 1556710	epo	Li donis al mi leteron en la lastaj momentoj de sia vivo.
@@ -24095,7 +24078,7 @@
 1556727	por	Nós saímos para passear depois da janta.
 1556728	kaz	Тұз жоқ.
 1556729	fra	L'électricité a été coupée.
-1556730	epo	Se vi turke kaj estonie verkas frazojn en Tatoeba, ekzistas granda ŝanco ke vi estas Boracasli.
+1556730	epo	Se vi turke kaj estone verkas frazojn en Tatoeba, ekzistas granda ŝanco ke vi estas Boracasli.
 1556731	epo	Ne parolu tiel kun li.
 1556732	kaz	Сен әлі тірісің ба, Сиско?
 1556733	epo	Ne parolu kun li tiamaniere.
@@ -24945,7 +24928,7 @@
 1557635	epo	La portugala kaj la hispana estas tre similaj ĉar ambaŭ devenas de la latina.
 1557636	eng	Tom likes ponies.
 1557637	eng	Tom likes making paper aeroplanes.
-1557638	epo	Ni malkovris ke tio, kion li diris ne estis vera.
+1557638	epo	Ni malkovris ke tio, kion li diris, ne estis vera.
 1557639	epo	Mi neniam respondas retmesaĝojn de personoj kiujn mi ne konas.
 1557640	epo	Ĉu oni povas aĉeti domon kun R$ 100.000,00?
 1557641	epo	Ĉiu lingvo estas submetita al variaĵoj.
@@ -24970,7 +24953,7 @@
 1557661	por	Esses cubos de gelo väo já derreter.
 1557662	por	É uma pena mesmo.
 1557663	por	Ele é desse Grupo?
-1557664	epo	Kvin eŭropaj landoj finis interkonsenton celante protekti la medion.
+1557664	epo	Kvin eŭropaj landoj faris interkonsenton celantan protekti la medion.
 1557665	por	O português e o espanhol são muito parecidos porque ambos vieram do latim.
 1557666	por	O Paträo dele o demitiu ontem.
 1557667	epo	La ŝipo malŝarĝas la kestojn.
@@ -24986,9 +24969,9 @@
 1557677	epo	Mi ne estas paranoja! Oni vere sekvas min!
 1557678	epo	Ĉi tiu superbazaro estas tiel granda ke mi ne povas trovi la eliron.
 1557679	epo	Toĉjo aranĝis la tablon.
-1557680	epo	Mi estas kvar jaroj pli juna ol li.
+1557680	epo	Mi estas kvar jarojn pli juna ol li.
 1557682	epo	Ĉu ŝi jam estas tie ĉi?
-1557683	epo	Li nur ŝatas kartunajn filmojn.
+1557683	epo	Li ŝatas nur desegnofilmojn.
 1557684	epo	Vi devas esti pli atenta en viaj lecionoj.
 1557685	epo	La instruisto, neaŭdinte la sonorilon, ne ĉesis paroli.
 1557686	epo	La energia kablo estis rompita.
@@ -25591,7 +25574,7 @@
 1558322	eng	Mary doesn't like eating at Applebee's.
 1558323	tur	Aşırı yemekten kaçınmalısın.
 1558324	eng	It doesn't go far enough.
-1558325	spa	Cuando la liebre piso el cepo, saltó y le atrapo la pata.
+1558325	spa	Cuando la liebre pisó el cepo, saltó y le atrapó la pata.
 1558326	tur	Daha mantıklı olmalısın.
 1558327	tur	Şimdi yatağa dönmelisin.
 1558328	epo	Ni ĉiuj estas mortontoj.
@@ -27037,7 +27020,7 @@
 1559870	spa	Una mula es un cruce entre un burro y un caballo.
 1559871	fra	La population mondiale augmente de manière soutenue.
 1559872	spa	Una mula es un híbrido entre un burro y un caballo.
-1559873	ita	Attenzione ai borseggiatori
+1559873	ita	Attenzione ai borseggiatori.
 1559874	ita	Come mangia quello!
 1559875	spa	La población mundial aumenta continuamente.
 1559876	ita	Questa sarà via Karl.
@@ -27168,7 +27151,7 @@
 1560008	deu	Tom ist wegen Diebstahls verhaftet worden.
 1560009	deu	Kennt ihr sie überhaupt?
 1560010	deu	Kennen Sie sie überhaupt?
-1560011	deu	Kate zieht ihre Puppe an.
+1560011	deu	Katrin zieht gerade ihre Puppe an.
 1560012	deu	Tom war Johns Mitbewohner.
 1560013	deu	Kumi ist das Mädchen, das Hunde mag.
 1560014	deu	Wann lernst du es endlich mal?
@@ -27209,7 +27192,7 @@
 1560051	eng	Man... you are one twisted fuck.
 1560052	hun	Ember... te őrült egy fasz vagy!
 1560053	pol	Tom lubi przesiadywać na plaży wczesnym rankiem.
-1560054	eng	I'm just an ordinary guy with nothing to loose.
+1560054	eng	I'm just an ordinary guy with nothing to lose.
 1560055	pol	Tom dzielił mieszkanie z Mary i trzema innymi przyjaciółmi.
 1560056	por	João disse: "Pessoal, vamos fazer uma pausa."
 1560057	por	João disse: "Gente, vamos fazer uma pausa."
@@ -27515,7 +27498,7 @@
 1560362	spa	Él robó mi billetera.
 1560363	eng	When the light is green, cars turning must yield to pedestrians.
 1560364	spa	De ahora en adelante me voy a vestir con indumentaria indígena.
-1560365	eng	I don't know where my crutches are, have you seen them?
+1560365	eng	I don't know where my crutches are. Have you seen them?
 1560366	eng	I prefer traveling on my own.
 1560367	spa	Esta flor huele tan bien.
 1560368	spa	Tuve que competir con él por un aumento.
@@ -28751,7 +28734,7 @@
 1561639	epo	Subite aperis viro ĉe la pordo.
 1561640	epo	Li finfine trovis sian destinon.
 1561641	epo	Tom kelkfoje portas sunokulvitrojn ene.
-1561642	epo	Li ne fumas kaj li ne drinkas vodkon.
+1561642	epo	Li ne fumas kaj li ne trinkas vodkon.
 1561643	epo	La bileto validos ĝis la 29. de Aprilo.
 1561644	epo	Tom jam de longe ne estis malsana.
 1561645	epo	Tom ne bezonas fari tion nun.
@@ -29130,7 +29113,7 @@
 1562039	ukr	Нічого не чую.
 1562040	orv	Ничєго жє нє чюѭ.
 1562041	orv	Ничєго жє нє слышѭ.
-1562042	ukr	Не трогай мій велосипед.
+1562042	ukr	Не чіпай мій велосипед.
 1562043	ukr	Не торкайся мого велосипеда.
 1562044	ukr	Не рухай мого ровера.
 1562045	ukr	Не займай мого велосипеда.
@@ -29275,7 +29258,7 @@
 1562195	eng	He is sure that he will come.
 1562196	ita	Visitai il villaggio in cui nacque.
 1562197	deu	Tom hat sich wacker geschlagen.
-1562198	deu	Mary hat auf den letzten Metern schlappgemacht.
+1562198	deu	Maria hat auf den letzten Metern schlappgemacht.
 1562199	deu	Es ist die Antwort gesprochen von Jung und Alt, von Arm und Reich, Demokraten und Republikanern, schwarz, weiß, Hispanos, Asiaten, Amerikanische Ureinwohner, homo, hetero, versehrt und unversehrt. Amerikaner die eine Nachricht an die Welt schickten, das wir niemals nur eine Ansammlung von Individuen oder von blauen und roten Staaten waren. Wir sind und werden immer die Vereinigten Staaten von Amerika sein.
 1562201	eng	Tom decided to study law.
 1562202	deu	Tom hat die Sache eingefädelt.
@@ -29307,7 +29290,7 @@
 1562229	eng	The match has been canceled due to heavy rain.
 1562230	deu	Es besteht noch Hoffnung.
 1562231	nld	Er is nog hoop.
-1562232	ukr	На яблуні росте яблуко.
+1562232	ukr	На яблуні ростуть яблука.
 1562233	deu	Das neue Modell hat noch Kinderkrankheiten.
 1562234	fra	Les mots savent de nous des choses que nous ignorons d'eux.
 1562235	ukr	Яблуня родить яблуко.
@@ -29577,7 +29560,7 @@
 1562509	ell	Όλα τα άλογα είναι ζώα, αλλά όλα τα ζώα δεν είναι άλογα.
 1562510	ell	Πότε κλείνει;
 1562511	ell	Τι ώρα κλείνει;
-1562512	epo	Por sukcesi en la vivo oni necesas rigore labori.
+1562512	epo	Por sukcesi en la vivo oni devas rigore labori.
 1562513	ell	Θα σου τηλεφωνήσω μόλις έρθω στο αεροδρόμιο.
 1562514	ell	Αυτός είχε τρεις γιους που έγιναν δικηγόροι.
 1562515	epo	Ne subtaksu vian oponanton.
@@ -29970,7 +29953,7 @@
 1562923	eng	I washed the car.
 1562924	spa	Parecía que estaban contando una mentira.
 1562925	jpn	その木は長い影を投げかける。
-1562926	epo	Sidante, li drinkis vinon.
+1562926	epo	Sidante, li trinkis vinon.
 1562928	spa	Ella le ignoró todo el día.
 1562929	oci	Ai lavat ma veitura
 1562930	spa	Nunca se me pasó por la cabeza que él podría ser un prisionero huído.
@@ -30155,7 +30138,7 @@
 1563135	eng	He donated countless pieces to the museum.
 1563136	eng	She donated countless pieces to the museum.
 1563138	epo	La malsato ŝteligis lin.
-1563139	epo	Depost la matenmanĝo mi nenion plu manĝis kaj nun malsategas.
+1563139	epo	De post la matenmanĝo mi nenion plu manĝis kaj nun malsategas.
 1563140	epo	Ĉiu portas sian naskiĝlokon en la koro.
 1563141	spa	Él no ha pagado la renta durante un buen tiempo.
 1563142	epo	La pluvo batis kontraŭ la fenestro.
@@ -30593,7 +30576,7 @@
 1563596	epo	Miaj oreloj ne elportas plu! Estas multaj knabinoj bruantaj en la festo de mia filino!
 1563597	epo	Ni studas en la sama lernejo.
 1563598	epo	Vi ne devas brui en la ĉambro.
-1563599	epo	Okazis brulego en la najbaro hieraŭ.
+1563599	epo	Okazis brulego en la najbaraĵo hieraŭ.
 1563600	spa	Los precios dependen de la oferta y la demanda.
 1563601	spa	Ella está intentando suicidarse.
 1563602	spa	El alumno fue castigado por fumar.
@@ -32134,7 +32117,7 @@
 1565228	ukr	Принца перетворили на жабу.
 1565229	ukr	Я можу відрізнити жабу від ропухи.
 1565230	ukr	Я не можу відрізнити жабу від ропухи.
-1565231	ukr	Французи їдять жаб і вони неввічливі!
+1565231	ukr	Французи їдять жаб, і вони неввічливі!
 1565232	ukr	Том не говорить французькою. Мері також не говорить французькою.
 1565233	ukr	У неї хлопець - турок.
 1565234	ukr	Ти говориш турецькою?
@@ -32419,9 +32402,9 @@
 1565535	epo	La matĉo finiĝis je nulo kaj nulo.
 1565536	spa	Tom murió en prisión hace diez años.
 1565537	epo	Ili ŝercas pri li.
-1565538	epo	Mi vidas nenian analogion inter via problemo kaj mian.
+1565538	epo	Mi vidas nenian analogion inter via problemo kaj mia.
 1565539	epo	Mi diris al li kion fari sed li min ne aŭdis.
-1565540	epo	Unu el la plej grandaj sekretoj de la feliĉeco estas moderigi la dezirojn kaj ami tion, kion vi jam havas.
+1565540	epo	Unu el la plej grandaj sekretoj de la feliĉo estas moderigi la dezirojn kaj ami tion, kion vi jam havas.
 1565541	epo	Mi aĉetos novan notblokon.
 1565542	epo	Mi korespondas kun ŝi.
 1565544	epo	La pomoj estas vendataj po dekoj.
@@ -32429,8 +32412,8 @@
 1565546	epo	Ĉu estas grava?
 1565547	spa	Habrá una recompensa para quien encuentre a mi perro.
 1565548	epo	Ne baziĝu sur la ĉambrohorloĝo por havi la certan horon.
-1565549	epo	Mi povas vidi neniun kiel nacia heroo krom Shigeo Nagashima.
-1565550	epo	Kiom longe vi vivis en Londonon?
+1565549	epo	Mi povas vidi neniun kiel nacian heroon krom Shigeo Nagashima.
+1565550	epo	Kiom longe vi loĝis en Londono?
 1565551	epo	Estas vere ke mi havas multan tempon, sed mi ne havas sufiĉan monon.
 1565552	epo	Mi klarigos la temon al vi poste.
 1565553	epo	Estis ĥolera epidemio en Haitio.
@@ -32450,17 +32433,17 @@
 1565568	epo	Restas iomete da viskio en tiu ĉi botelo.
 1565569	epo	La nova ponto estos kompletigita en marto.
 1565570	epo	Tia ĉi floro havas delikatan bonodoron.
-1565571	epo	Estas ebla ke mia patro venas en la proksima trajno.
+1565571	epo	Estas eble, ke mia patro venos en la proksima trajno.
 1565572	epo	Li povus fari tion!
 1565574	epo	Ili estos geedziĝintaj baldaŭ.
 1565575	epo	Ni eliru el tiu ĉi loko.
-1565576	epo	Ĉu vi estas certa ke tio funkcios?
+1565576	epo	Ĉu vi estas certa, ke tio funkcios?
 1565577	epo	La violonisto havas bonegan teknikon.
 1565578	epo	Sufiĉas al li manĝaĵo kaj kvieteco por vivi.
 1565579	kaz	Қонақ үй тәүлік бойы жұмыс істейді.
 1565580	epo	Estas li, ĉu ne?
 1565581	rus	Гостиница работает круглосуточно.
-1565582	epo	Estas facila fari brullignon de falita kverko.
+1565582	epo	Estas facile fari brullignon de falinta kverko.
 1565583	epo	Ĉu estas vivo en Marso?
 1565584	kaz	Байытылған тамақ өнімдері - бұл дәрумендер, минералдық заттар, микроэлементтер қосылған тағам өнімдері.
 1565585	rus	Обогащённые продукты питания - это продукты питания, включающие в себя витамины, минеральные вещества, микроэлементы.
@@ -32648,7 +32631,7 @@
 1565776	kaz	Бұған кім кінәлы?
 1565777	rus	Кто в этом виноват?
 1565778	rus	Кто за это в ответе?
-1565779	ukr	Скільки коштує експрес?
+1565779	ukr	Скільки коштує проїзд на експресі?
 1565780	ukr	На старт, увага... руш!
 1565781	ukr	Це довга історія.
 1565782	ukr	Екзамен був для мене заважким.
@@ -32668,7 +32651,7 @@
 1565796	kaz	Екінші дүниежүзілік соғыстың басында ағылшындар әскери министрлік өтіп кеткен соғысқа әзірленіп жатыр деп қалжыңдайды екен.
 1565797	rus	В начале второй мировой войны в Англии шутили, что военное министерство всегда готовится к прошлой войне.
 1565798	kaz	Мені қажақтағанды қой!
-1565799	ukr	Я стверджую, що ми обидва атеїсти. Просто я вірю на одного бога меньше, ніж ви. Коли ви зрозумієте, чому ви відкидаєте всіх інших можливих богів, тоді ви зрозумієте, чому я відкидаю вашого.
+1565799	ukr	Я стверджую, що ми обидва атеїсти. Просто я вірю в одного бога меньше, ніж ви. Коли ви зрозумієте, чому ви відкидаєте всіх інших можливих богів, тоді ви зрозумієте, чому я відкидаю вашого.
 1565800	rus	Прекращай шутить надо мной!
 1565801	kaz	Балаларды ләйлек алып келеді.
 1565802	rus	Детей приносит аист.
@@ -32678,13 +32661,13 @@
 1565806	kaz	Екінші рет қайталап сұраймын.
 1565807	rus	Второй раз спрашиваю.
 1565808	rus	«Ласковый май» — популярная музыкальная группа конца 80-х и начала 1990-х годов в СССР, играющая в стиле евродиско.
-1565809	ukr	«Ласковый май» — популярний музичний гурт кінця 80-х та початку 1990-х років у СРСР, яка грала в стилі євродиско.
+1565809	ukr	«Ласковый май» — популярний музичний гурт кінця 80-х та початку 1990-х років у СРСР, який грав у стилі євродиско.
 1565810	rus	Работа для меня - всё.
 1565811	ukr	Другий раз питаю.
 1565812	ukr	Дітей приносить лелека.
 1565813	ukr	Ті студенти знаходяться в класі.
 1565814	ukr	Том їсть лише органічну їжу.
-1565815	ukr	Поясни то простими словами.
+1565815	ukr	Поясни це простими словами.
 1565816	spa	Usted no es el responsable de lo que pasó.
 1565817	ukr	Ви не відповідаєте за те, що трапилося.
 1565818	nld	Hij is fier een kunstenaar te zijn.
@@ -32760,11 +32743,11 @@
 1565893	ita	Tra poco si riposerà.
 1565894	ukr	Я бачив це.
 1565895	epo	Cent dolaroj estas nenio.
-1565896	epo	Vi surpriziĝos pri kion vi povas lerni en unu semajno.
+1565896	epo	Vi surpriziĝos pri tio, kion vi povas lerni en unu semajno.
 1565897	epo	Ĉu li scias ke vi lin amas?
 1565898	epo	Eble ŝi venas.
 1565899	epo	Mi havas impreson ke mi jam spektis tiun ĉi filmon.
-1565901	epo	Mi pensis ke vi estus feliĉa pro scii ke mi estas graveda.
+1565901	epo	Mi pensis, ke vi estus feliĉa ekscii, ke mi estas graveda.
 1565902	ita	Non meravigliamoci.
 1565903	epo	La juneco nur okazas unufoje en la vivo.
 1565904	epo	Ĉio estos bona.
@@ -33066,7 +33049,7 @@
 1566220	epo	Kristo resurektiĝis!
 1566221	epo	Tom fakte ne loĝas ene de la urbolimoj de Bostono.
 1566222	epo	Kiu donis al Tom la tutan monon?
-1566223	epo	Mia onklino mortis antaŭ du jajrojn.
+1566223	epo	Mia onklino mortis antaŭ du jaroj.
 1566224	epo	Mi eĉ ne atendis dek minutojn, kiam Mary alvenis.
 1566225	epo	Ne forgesu ŝlosi la pordon!
 1566226	epo	Mankas al mi la vortoj por danki pro via granda helpo.
@@ -34022,7 +34005,7 @@
 1567232	ukr	Справжні чоловіки п'ють чай.
 1567233	fra	T'es-tu brossée les dents ?
 1567234	ukr	Не хочу говорити про погоду.
-1567235	ukr	Том - мій колега.
+1567235	ukr	Том — мій колега.
 1567236	ukr	Він винен у вбивстві.
 1567237	fra	Vous et moi devons nous comprendre et cela sans délai.
 1567238	ukr	У добі двадцять чотири години.
@@ -34634,7 +34617,7 @@
 1567921	por	Temos uma enorme quantidade de comida.
 1567922	por	Hoje é o melhor dia da minha vida.
 1567923	por	Não está quente hoje, está?
-1567924	por	Não está calor hoje, está?
+1567924	por	Está calor hoje, não está?
 1567925	por	Droga! Ele escapou outra vez!
 1567926	por	Tom teve um pressentimento de que o plano não funcionaria.
 1567927	fra	Je devrais visiter Kyoto.
@@ -35709,7 +35692,7 @@
 1569118	dan	Yumi er en af mine venner.
 1569121	spa	Es una famosa cantante japonesa de música pop.
 1569122	epo	Vi devas demeti viajn ŝuojn antaŭ ol eniri en la domojn.
-1569123	epo	Ŝi estas tre bela, kaj kio plibonas, tre saĝa.
+1569123	epo	Ŝi estas tre bela, kaj kio pli bonas, tre saĝa.
 1569124	dan	En dag kom mændene til hans landsby.
 1569125	epo	Toĉjo kaj Maria preskaŭ ĉiam ludas tenison post la lernejo.
 1569126	dan	Tom og Mary spiller næsten altid tennis efter skole.
@@ -35747,7 +35730,7 @@
 1569165	epo	Supreniru sur la katon.
 1569166	cmn	湯姆回到家的時候已經是夜晚了。
 1569167	fra	Donne-moi mes lunettes.
-1569168	epo	Tiu, kiu per glavo vundas, per glavo ĝi estos vundita.
+1569168	epo	Tiu, kiu per glavo vundas, per glavo estos vundita.
 1569170	fra	Je lui souhaitai un bon voyage.
 1569171	fra	Ma mėre lit un magazine.
 1569172	fra	Qui t'a dit que j'étais malade ?
@@ -36174,7 +36157,7 @@
 1569602	ukr	Що ти хочеш на обід?
 1569603	rus	Я не верю, что я это сделаю.
 1569604	rus	Вряд ли стоит это обсуждать.
-1569605	rus	Просто подожди меня здесь.
+1569605	rus	Просто подожди меня там.
 1569606	rus	Какова максимальная доза для взрослого?
 1569607	rus	Космонавты носят скафандры.
 1569608	rus	Я хочу сказать тебе одну странную вещь.
@@ -36280,7 +36263,7 @@
 1569711	rus	Она покинула школу по состоянию здоровья.
 1569712	rus	Наконец, он достиг своей цели.
 1569713	rus	Том взорвал мост.
-1569714	rus	Он очень музыкально одарён, может играть на 5 инструментах.
+1569714	rus	Он очень музыкально одарён, может играть по крайней мере на пяти инструментах.
 1569715	rus	Солнце испускает невероятное количество тепла и света.
 1569716	rus	Вам сложно понимать, что говорят вам женщины и маленькие дети?
 1569717	rus	Где вы сегодня обедаете?
@@ -37718,7 +37701,7 @@
 1571233	por	Ele gosta de viver naquele lugar.
 1571234	por	Sua filha fritou a carne.
 1571235	por	Comemos carne frita.
-1571236	por	Você gostaria de comer tomates fritos?
+1571236	por	Você gostaria de comer batatas fritas?
 1571237	por	Quando sua mãe voltará do hospital?
 1571238	por	Minha filha já voltou da escola.
 1571239	por	Ela nos pediu que ficássemos quietos.
@@ -37883,7 +37866,7 @@
 1571410	por	Nós sabemos que ela mora na cidade.
 1571411	por	Você pode consertar o nosso lava-louças?
 1571412	por	Tom está escondido debaixo da mesa.
-1571413	epo	Mi komprenis ke estas neebla superi lin en la angla.
+1571413	epo	Mi komprenis, ke estas neeble superi lin en la angla.
 1571414	por	Jogamos por nossa própria diversão.
 1571415	por	Ele quer exatamente o mesmo relógio que o seu.
 1571416	por	Anne gosta de chocolate mais do que qualquer coisa no mundo.
@@ -37969,7 +37952,7 @@
 1571500	por	Eu me lembro de você; nos conhecemos há três anos.
 1571501	por	Esta é a sua única oportunidade.
 1571503	vie	Có quá nhiều người tại buổi hòa nhạc.
-1571504	epo	Mi opiniis ke li estas genio pri kemio.
+1571504	epo	Mi opiniis, ke li estas geniulo pri kemio.
 1571505	epo	Ne tre bone.
 1571506	por	O que você acha do professor novo?
 1571507	por	Tenho que responder a carta dele.
@@ -38329,7 +38312,7 @@
 1571879	deu	Ich bin ein vorsichtiger Mensch.
 1571880	spa	No creo que ella esté de vuelta para las cinco.
 1571882	deu	Vielleicht ist das alles nichts weiter als Zeitverschwendung.
-1571883	deu	Der Hass, die Greuel, die Verleumdung haben meine Seele nicht erniedrigt.
+1571883	deu	Der Hass, die Gräuel, die Verleumdung haben meine Seele nicht erniedrigt.
 1571884	ara	لا ينبغي أن نضيع المزيد من الوقت.
 1571885	rus	Эта компания выступает за свободную торговлю.
 1571886	deu	Ich dachte, dass er ein Genie in Chemie ist.
@@ -38442,7 +38425,7 @@
 1571996	heb	כמה שאתה אינטליגנטי!
 1571997	heb	אתה כל כך חכם!
 1571998	heb	תעשה את בעצמך.
-1571999	eng	DIY
+1571999	eng	DIY.
 1572000	heb	עשה זאת בעצמך.
 1572001	heb	תסתלק מהבית שלי!
 1572002	heb	תעוף מהבית שלי!
@@ -39115,7 +39098,7 @@
 1572676	epo	Vi povas konsulti la lastajn informojn en nia reta paĝaro.
 1572677	bel	Магчыма ён сёння прыйдзе.
 1572678	epo	La tri plej gravaj unudiismaj religioj estas islamo, judismo kaj kristanismo.
-1572679	epo	Mi profunde miras la vivon kaj la laboron de Frida Kahlo.
+1572679	epo	Mi profunde admiras la vivon kaj la laboron de Frida Kahlo.
 1572680	epo	La tri plej gravaj monoteismaj religioj estas islamo, judismo kaj kristanismo.
 1572681	bel	Калі ласка, пазыч мне сваю кнігу.
 1572682	rus	Твои приготовления к путешествию завершены?
@@ -39124,7 +39107,7 @@
 1572685	epo	Estas unu detektivo inter ni.
 1572686	deu	Es ist ein Detektiv unter uns.
 1572687	epo	Ĉu vi povus diri kion li diris?
-1572688	epo	Jam estas kristnasko tie ĉi.
+1572688	epo	Jam estas Kristnasko tie ĉi.
 1572689	cmn	一個人並不等於孤獨。
 1572690	epo	Ĉu kompletiĝis viaj preparoj por la vojaĝo?
 1572691	epo	La soldato diris, ke oni ne devas timi la morton.
@@ -40092,24 +40075,24 @@
 1573706	spa	Un vampiro paraliza a una persona con solo mirarla.
 1573707	spa	Él dijo que quería ser científico.
 1573708	epo	Kion mi faras en mia libera tempo? Nenion! Ĝustadire, se mi farus ion, ĝi ne estus libera tempo, ĉu ne?
-1573709	epo	Ĝentileco naskigas ĝentilecon.
+1573709	epo	Ĝentileco naskas ĝentilecon.
 1573710	epo	Panjo, mi liberigis vin de 9 monatoj de menstruo. Do, mi opinias ke mi meritas novan poŝtelefonon!
 1573711	spa	El teléfono sonó un buen rato.
 1573712	epo	La bovo kiu unue alvenas, tiu trinkas puran akvon!
 1573713	spa	Normalmente duermen en esta habitación.
 1573714	spa	Sin tu ayuda, no hubiese podido terminar el trabajo.
 1573715	spa	Avisame si llegás a necesitar algo.
-1573716	epo	Mi volas iun por konversacii. Iu, kiu poste ne uzu kion mi diris kontraŭ mi.
+1573716	epo	Mi volas iun por konversacii. Iun, kiu poste ne uzos tion, kion mi diris, kontraŭ mi.
 1573717	spa	Tom sabía que Mary no se rendiría.
 1573718	spa	Las víctimas del huracán recibieron ayuda financiera del Gobierno.
-1573719	epo	Kiam oni lernas ami, la mondo iĝas sian.
+1573719	epo	Kiam oni lernas ami, la mondo iĝas sia.
 1573720	epo	Disciplino estas libereco.
 1573721	spa	Te daré una respuesta en uno o dos días.
 1573722	epo	Kvankam neniu povas reveni al la pasinteco kaj fari novan komencon, ĉiu ajn povas komenci nun kaj fari novan finon.
 1573723	por	O livro "O Pequeno Príncipe", de Antoine de Saint-Exupéry, é a obra mais traduzida depois da Bíblia, tendo sido traduzido para mais de 260 idiomas.
 1573724	epo	Kio plej forte afliktas mortontojn, estas la bedaŭro pri neŭzitaj ŝancoj.
 1573725	epo	Lasu kelkajn ĝojajn signojn, kie vi trairas.
-1573726	epo	La feliĉo ne eniras tra fermatajn pordojn.
+1573726	epo	La feliĉo ne eniras tra fermitaj pordoj.
 1573727	eng	The Chinese language is full of idioms that are commonly used in texts of different genres as an erudite style of writing.
 1573728	eng	A good mastery of these idiomatic expressions and skillful use of them in writing essays.
 1573729	eng	Younger brother is making a phone call.
@@ -40132,7 +40115,7 @@
 1573747	eng	That bad person was arrested.
 1573748	eng	Their house was burned down by fire.
 1573749	eng	He was fired by the school.
-1573750	eng	The policeman didn’t tow your car away.
+1573750	eng	The policeman didn't tow your car away.
 1573751	eng	Don’t let your friend cheat you.
 1573752	eng	We shouldn’t let other people know what we did.
 1573753	eng	My money was stolen by a thief.
@@ -42476,9 +42459,9 @@
 1576261	epo	Mi ludas en interregiona ĉampioneco. Ĝis nun ni nur perdis unu ludon.
 1576262	epo	Bonvolu ne grumbli.
 1576263	deu	Es ist offensichtlich, dass die Umsetzung der Energiewende noch große Anstrengungen erfordert.
-1576264	epo	Estas tre amuza vojaĝadi.
+1576264	epo	Estas tre amuze vojaĝadi.
 1576265	epo	Estas evidente, ke la realigo de la energireformo postulos ankoraŭ grandajn fortostreĉojn.
-1576267	epo	Kelkaj personoj kredas, ke sep estas feličiga nombro.
+1576267	epo	Kelkaj personoj kredas, ke sep estas feliĉiga nombro.
 1576268	epo	Ŝi volis diskuti kun li pri io.
 1576269	hun	Ezek a szalvéták különböző színűek.
 1576270	hun	Nagyon szeretek síelni.
@@ -43571,7 +43554,7 @@
 1577408	eng	He crept out of the room very carefully to avoid waking her up.
 1577409	deu	Niemand kann einem anderen die Tränen trocknen, ohne sich selbst die Hände nass zu machen.
 1577410	eng	She wrote down their name so as not to forget it.
-1577411	ukr	Разом із тисячею інших, він втік із країни.
+1577411	ukr	Разом із тисячами інших, він втік із країни.
 1577412	ukr	Те, що радикальне сьогодні, може стати завтра кліше.
 1577413	deu	Ich weinte, weil ich keine Schuhe hatte, bis ich einen sah, der keine Füße hatte.
 1577414	epo	Li por la infanoj reverkis la rakonton.
@@ -44193,7 +44176,7 @@
 1578190	fra	Je me suis lavé les dents et je me coiffe maintenant.
 1578191	rus	Ты не можешь отменить то, что уже сделано.
 1578192	fra	Tu peux t'y fier.
-1578193	epo	Por nia surprizo li estis venkita en la matĉo.
+1578193	epo	Je nia surprizo li estis venkita en la matĉo.
 1578194	deu	Schreibt einen Aufsatz über "Freundschaft".
 1578195	rus	Я знаю, какая их этих двух девушек тебе нравится больше.
 1578196	fra	La police s'attela à la résolution du crime.
@@ -44927,11 +44910,11 @@
 1579012	deu	Welche Insekten haben Sie gegessen?
 1579013	deu	Was ist eine Speise, die du dir nie abgewöhnen könntest?
 1579014	deu	Wie lernt man am besten Englisch wie ein Muttersprachler sprechen?
-1579015	deu	Welches Bier magst du trinken?
+1579015	deu	Welche Art von Bier trinkst du gern?
 1579016	epo	Kiu kune eniras boaton, dividas la saman intencon.
 1579017	epo	Kiel oni lernas plej bone paroli la anglan kiel denaska parolanto?
 1579018	epo	Kio estas la plej bona maniero por lerni paroli la anglan kiel denaska parolanto?
-1579020	epo	Kiun bieron vi ŝatas trinki ?
+1579020	epo	Kiun bieron vi ŝatas trinki?
 1579022	epo	Kian bieron vi ŝatas trinki?
 1579023	epo	Kiun bierospecon vi ŝatas trinki?
 1579025	deu	Wie sind die Klassenzimmer ausgestattet?
@@ -45049,7 +45032,7 @@
 1579170	epo	Apud la hundo, la libro estas la plej bona amiko de la homo. En la hundo estas tro mallume por legi.
 1579171	tur	Onun ne zaman döneceğinden emin değilim.
 1579172	ukr	Том не може собі дозволити такий комп'ютер.
-1579173	ukr	У мене болить нога.
+1579173	ukr	В мене болить нога.
 1579174	tur	Maalesef babam burada değil.
 1579175	ukr	Можна мені з'їсти цей гамбургер?
 1579176	hun	Mindennek ellen tudok állni, kivéve a kísértést.
@@ -45654,7 +45637,7 @@
 1579832	ara	نسى أن يعيد لي قاموسي.
 1579833	ara	بين قواعد النحو الصينية و الإيطالية فرق كبير.
 1579834	por	Nós contratamos ele para assistente.
-1579835	ukr	Вона плаває в грошах.
+1579835	ukr	Вона купається в грошах.
 1579836	ara	الإنجليزية لغة مستعملة في أمريكا.
 1579837	ukr	Поклади яйце в окріп.
 1579838	ara	قالت أنه ينبغي علي أن أعود للبيت مبكرا.
@@ -46827,7 +46810,7 @@
 1581099	por	Eu geralmente leio revista em quadrinhos em meu tempo livro durante o trabalho.
 1581100	spa	Vanidad de vanidades, todo es vanidad.
 1581101	por	Se ele soubesse a verdade, ele nos diria.
-1581102	epo	Mi ne volas šin vundi.
+1581102	epo	Mi ne volas ŝin vundi.
 1581103	epo	Bonvolu foriri!
 1581105	por	Música é a melhor das artes.
 1581106	por	Não existe vida sem música.
@@ -48893,7 +48876,7 @@
 1583363	cmn	我養了三隻狗，一隻是雄的，其餘兩隻是雌的。
 1583364	ita	Chiamami a questo numero.
 1583365	spa	Me da la impresión de que muchos de mis amigos dirigen su atención solo a los temas superficialmente interesantes.
-1583366	deu	Er erwischte sie beim Äpfel stehlen.
+1583366	deu	Er erwischte sie beim Äpfelstehlen.
 1583367	por	Eu não tenho tido tempo nem de comer e dormir direito, imagine então se vou ter tempo de me lembrar de carregar a bateria do celular.
 1583368	lat	Calefacta est in focum.
 1583369	rus	Климат здесь мягче, чем в Англии.
@@ -49406,7 +49389,7 @@
 1583932	fra	Elle s'est exercée à jouer du piano encore et encore.
 1583933	fra	Elle a cherché le pardon pour ses fautes.
 1583934	epo	Mi povas traduki sen kompreni.
-1583935	epo	Marie ankoraŭ ne ekis.
+1583935	epo	Manjo ankoraŭ ne ekis.
 1583936	ita	Tra non molto arrivo.
 1583937	epo	Marie ĉiam agas frenezete.
 1583938	fra	Savez-vous ce que fait Tom dans la vie ?
@@ -49998,3 +49981,20 @@
 1584562	hun	Üdvözölték egymást.
 1584563	ita	Cos'è popolare ora?
 1584564	ita	Cos'è popolare adesso?
+1584565	ita	Che cos'è popolare ora?
+1584566	ita	Che cos'è popolare adesso?
+1584568	eng	My children are in school.
+1584569	ita	A noi non ha mai dato niente.
+1584570	ita	L'alluvione ha fatto molti danni al villaggio.
+1584571	eng	It's a skilful card player.
+1584572	ita	È inutile parlarne.
+1584574	ita	I miei bambini sono a scuola.
+1584580	eng	He stayed here for a short time.
+1584581	ita	Com'è andata la notte?
+1584582	eng	We're under attack!
+1584583	rus	Нас атакуют!
+1584584	por	Onde foram parar as malas?
+1584586	ukr	Закон забороняє курити особам, що не досягли зрілого віку.
+1584587	ita	Tom era contento di sentire la voce di Mary.
+1584588	ukr	Він вже дві години вчиться.
+1584589	ita	Tom era felice di sentire la voce di Mary.

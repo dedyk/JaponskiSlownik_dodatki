@@ -1,48 +1,3 @@
-3614285	epo	Tom mortis en la lito.
-3614286	dan	Jeg kunne ikke længere holde støjen ud.
-3614287	epo	Dum tradukado oni atentu, ke la frazoj sonu nature, kaj ke la eldiro de la originalaj frazoj restu plejparte konservita.
-3614288	eng	A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-3614289	epo	Kia estas via patrino?
-3614290	eng	A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
-3614291	eng	A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
-3614292	nld	Ik heb geen hond.
-3614293	dan	Hvad er der galt med dig?
-3614294	epo	Mi ne kaptis vian nomon.
-3614295	nld	Laat ons gaan lunchen.
-3614296	rus	Поскорее возвращайся!
-3614297	dan	Jeg nåede ikke lige at fange dit navn.
-3614298	dan	Jeg har ingen hund.
-3614299	rus	Прости, что так поздно звоню. Я просто хотела услышать твой голос.
-3614300	rus	Прости, что так поздно звоню. Я просто хотел услышать твой голос.
-3614301	epo	Persistu kaj estu firma!
-3614302	nld	Ik heb liever koffie dan melk.
-3614303	rus	Я оставил свой зонтик в автобусе.
-3614304	nld	Ik heb liefst koffie met melk.
-3614305	rus	Что она вам сказала?
-3614306	rus	Что она тебе сказала?
-3614307	rus	Что он вам сказал?
-3614308	rus	Что он тебе сказал?
-3614309	epo	Mi preferas kafon kun lakto.
-3614310	nld	Hij heeft rode puntjes overal op zijn lichaam.
-3614311	dan	Jeg foretrækker kaffe med mælk.
-3614312	nld	Is aan het mensdom de macht over het dierenrijk gegeven?
-3614313	nld	Ik heb hem de brief in het geheim gegeven.
-3614314	dan	Jeg foretrækker kaffe frem for mælk.
-3614316	rus	Эти самые слова он и сказал.
-3614317	rus	Эти самые слова она и сказала.
-3614318	deu	Tom nahm etwas, was ihm nicht gehörte.
-3614319	nld	Hij stond gewoonlijk vroeg op.
-3614320	dan	Jeg foretrækker kaffe fremfor mælk.
-3614321	deu	Marias Ehemann ist reich.
-3614322	fra	Il n'est pas toujours possible, dans sa vie, de conserver la pureté de son enfance, ainsi que nous l'enseigne la voix en notre for intérieur.
-3614323	dan	Han stod sædvanligvis tidligt op.
-3614324	rus	Так в точности он и сказал.
-3614325	rus	Так в точности она и сказала.
-3614326	fra	Le garçon fondit en larmes.
-3614328	fra	Le garçon s'est mis à pleurer.
-3614329	nld	Een slecht geweten lost niets op.
-3614330	fra	Le gars a éclaté en sanglots.
-3614331	fra	Accroche-toi et sois ferme !
 3614332	rus	Я знаю, что отец мне поможет.
 3614333	deu	Tom wischte sich die Tränen weg.
 3614334	jpn	言いたいことはそれだけ？
@@ -181,7 +136,7 @@
 3614475	epo	Marika ne plu kundividas mian vivon.
 3614476	heb	הוא שר סופרן.
 3614477	heb	היא שרה סופרן.
-3614478	heb	אני מבוגר ממני.
+3614478	heb	אני מבוגר ממנו.
 3614479	heb	אני מבוגרת ממנו.
 3614480	hun	Emlékszel még rám?
 3614481	epo	Mi scias nek kien iri, nek kion fari.
@@ -7506,8 +7461,8 @@
 3622179	lat	Quid? Decem tantum?
 3622180	rus	Что? Только десять?
 3622181	fra	Maria voulait que je regarde ailleurs pendant qu'elle se changeait.
-3622182	lat	Iulius rursus pecuniam numerat.
-3622183	rus	Юлий снова считает деньги.
+3622182	epo	Tomaso denove kalkulas la monon.
+3622183	rus	Том снова считает деньги.
 3622184	fra	J'aime les montagnes plus que la mer.
 3622185	lat	Numerus nummorum non est centum, sed decem tantum.
 3622186	rus	Количество монет - не сто, а лишь десять.
@@ -7519,14 +7474,14 @@
 3622192	rus	Где остальные монеты?
 3622193	lat	Servi mei ubi sunt?
 3622194	rus	Где мои рабы?
-3622195	lat	Servus tuus Medus hic est.
-3622196	rus	Твой раб Мед - здесь.
+3622195	lat	Servus tuus Thomas hic est.
+3622196	rus	Твой раб Том - здесь.
 3622197	lat	Iulius servum suum Medum videt, Davum non videt.
 3622198	rus	Юлий видит своего раба Меда, а Дава - не видит.
-3622199	lat	Medus adest.
-3622200	rus	Мед присутствует.
-3622201	lat	Davus non adest, sed abest.
-3622202	rus	Дав не присутствует, а отсутствует.
+3622199	epo	Tomaso ĉeestas.
+3622200	rus	Том присутствует.
+3622201	epo	Tomaso ne ĉeestas, sed forestas.
+3622202	rus	Том не присутствует, а отсутствует.
 3622203	lat	Iulius et Aemilia et Medus adsunt.
 3622204	rus	Юлий, Эмилия и Мед присутствуют.
 3622205	lat	Davus ceterique servi absunt.
@@ -7534,8 +7489,8 @@
 3622207	epo	Ne neracie mi statas.
 3622208	lat	Quid? Unus servus tantum adest!
 3622209	rus	Что? Здесь только один раб!
-3622210	lat	Davum voca!
-3622211	rus	Зови Дава!
+3622210	epo	Voku Tomason!
+3622211	rus	Зови Тома!
 3622212	lat	Medus Davum vocat: "Dave!" sed Davus Medum non audit neque venit.
 3622213	rus	Мед зовёт Дава: "Дав!", но Дав не слышит Меда, и не приходит.
 3622214	lat	Iam duo servi adsunt.
@@ -7564,8 +7519,8 @@
 3622237	rus	В моём кошельке только десять монет.
 3622238	lat	Ubi sunt ceteri nummi mei?
 3622239	rus	Где остальные мои монеты?
-3622240	lat	Davus tacet, neque respondet.
-3622241	rus	Дав молчит и не отвечает.
+3622240	epo	Tomaso silentas kaj ne respondas.
+3622241	rus	Том молчит и не отвечает.
 3622242	lat	Responde, Dave!
 3622243	rus	Отвечай, Дав!
 3622244	lat	Dominus te interrogat.
@@ -7578,12 +7533,12 @@
 3622251	ita	Un altro pezzo di storia se ne va.
 3622252	lat	Interroga Medum!
 3622253	rus	Спроси у Меда!
-3622254	lat	Ubi sunt nummi mei, Mede?
-3622255	rus	Где мои монеты, Мед?
+3622254	epo	Kie estas miaj moneroj, Tomaso?
+3622255	rus	Где мои монеты, Том?
 3622256	lat	Medus nullum verbum respondet.
 3622257	rus	Мед ни слова не отвечает.
-3622258	lat	Iulius rursus eum interrogat: "Ubi est pecunia mea? Responde, serve!"
-3622259	rus	Юлий снова его спрашивает: "Где мои деньги? Отвечай, раб!"
+3622258	lat	Thomas rursus eum interrogat: "Ubi est pecunia mea? Responde, serve!"
+3622259	rus	Том снова его спрашивает: "Где мои деньги? Отвечай, раб!"
 3622260	lat	Medus Davum accusat.
 3622261	rus	Мед обвиняет Дава.
 3622262	lat	Pecunia tua in sacculo Davi est.
@@ -11675,7 +11630,7 @@
 3626547	heb	מה שמשנה הוא הדרך שבה הציבור רואה אותך.
 3626548	heb	מה שחשוב זו הדרך שבה הציבור תופש אותך.
 3626549	heb	מה שחשוב זו הדרך שבה הציבור רואה אותך.
-3626550	eng	Tom's prestige too is being eroded.
+3626550	eng	Tom's prestige is also being eroded.
 3626551	epo	Tio, kio gravas estas la maniero, en kiu la publiko rigardas vin.
 3626552	tur	Tom'un prestiji de erozyona uğruyor.
 3626553	eng	One speech, one particular stance, one wrong statement can change everything all of a sudden.
@@ -16589,7 +16544,7 @@
 3631851	rus	По-моему, ты преувеличиваешь.
 3631852	rus	По-моему, вы преувеличиваете.
 3631853	deu	Meiner Meinung nach übertreibt ihr.
-3631854	eng	he resumed his work after medical leave
+3631854	eng	He resumed his work after a medical leave.
 3631855	por	Ele voltou ao trabalho após a licença médica.
 3631856	ina	Ille reprendeva su labor post le congedo de maladia.
 3631857	tgl	Iba-iba ang mga epekto ng mababang grabidad sa Buwan sa mga hidroponikong halamang katulad ng kamatis at okrang naroon.
@@ -18083,7 +18038,7 @@
 3633445	fin	En halua mennä kouluun.
 3633446	rus	Милли слушает музыку.
 3633447	eng	They have explosives.
-3633448	eus	Ez dut eskolera joaten nahi.
+3633448	eus	Ez dut eskolara joan nahi.
 3633450	tuk	Mekdebe gitmek islemeýärin.
 3633451	fra	Ce texte est conçu pour les débutants.
 3633452	dan	Komælk er til kalve og indeholder væksthormoner som de har brug for. Jeg er ikke en kalv og ikke ønsker at vokse op som en.
@@ -19399,7 +19354,7 @@
 3634873	deu	Der Obstverkäufer verkauft Obst.
 3634874	epo	Sur la stratoj de la urbeto videblas multaj veturiloj.
 3634875	deu	Auf den Straßen des Städtchens sind viele Fahrzeuge zu sehen.
-3634876	eng	What matters the most to you and why
+3634876	eng	What matters the most to you and why does it matter to you?
 3634878	eng	The man is meditating.
 3634879	eng	Tom spent hours trying to nut out the reasons for the discrepancies in his company's books.
 3634880	eng	Tom said he'd had nothing to do with what had happened.
@@ -25018,27 +24973,27 @@
 3640757	lat	Sume sacculum tuum et discede, bone serve!
 3640758	rus	Возьми свой кошелёк и ступай, верный раб!
 3640759	ita	Oggi ho capito di essere circondata da persone meravigliose e non ho abbastanza parole per ringraziarvi per quello che avete fatto per me!
-3640760	lat	Davus sacculum suum sumit et discedit.
+3640760	epo	Tomaso prenas sian monujon kaj foriras.
 3640761	tur	Kararını yeniden düşünmeni öneririm.
-3640762	rus	Дав берёт свой кошелёк и уходит.
+3640762	rus	Том берёт свой кошелёк и уходит.
 3640763	lat	Medus baculum, quod in mensa est, videt.
 3640764	rus	Мед видит палку на столе.
-3640765	lat	Medus quoque discedit.
-3640766	rus	Мед тоже уходит.
-3640767	lat	Cur descedit Medus?
+3640765	lat	Thomas quoque discedit.
+3640766	rus	Том тоже уходит.
+3640767	lat	Cur descedit Thomas?
 3640768	rus	Почему Мед уходит?
 3640769	tur	Çocuklar kamp ateşinin etrafında oturup şarkı söylüyorlardı.
-3640770	lat	Medus discedit, quia is pecuniam domini in sacculo suo habet.
+3640770	epo	Tomaso foriras, ĉar en lia monujo estas la mono de la mastro.
 3640771	fra	L’hiver dernier, les pouvoirs locaux prorusses de Crimée avaient promis aux Tatars un quota de vingt pourcent des sièges au Parlement de Crimée et des postes dans les administrations. Mais dans la Constitution et la législation électorale, adoptées après le rattachement à la Russie, il n’en était plus question.
-3640772	rus	Мед уходит, потому что у него в кошельке деньги господина.
+3640772	rus	Том уходит, потому что у него в кошельке деньги господина.
 3640773	lat	Davus bonus servus est.
 3640774	rus	Дав - хороший раб.
 3640775	lat	Is non habet pecuniam meam.
 3640776	rus	У него нет моих денег.
 3640777	lat	Quis pecuniam meam habet?
 3640778	rus	У кого мои деньги?
-3640779	lat	Medus non respondet, quia abest.
-3640780	rus	Мед не отвечает, потому что его здесь нет.
+3640779	epo	Tomaso ne respondas, ĉar li forestas.
+3640780	rus	Том не отвечает, потому что его здесь нет.
 3640781	lat	Nullus servus adest.
 3640782	rus	Никого из рабов здесь нет.
 3640783	rus	Видимость на лётном поле не превышала триста пятьдесят метров.
@@ -25886,8 +25841,8 @@
 3641645	rus	Том не любит работать в ночную смену.
 3641646	hun	Tomnak nincs önbizalma.
 3641647	nld	De natuur is zijn dokter.
-3641648	epo	Estas bona politiko.
-3641649	epo	Estas bona aranĝo.
+3641648	epo	Ĝi estas bona politiko.
+3641649	epo	Tio estas bona aranĝo.
 3641650	nld	Vergeet niet tweemaal daags dit medicament in te nemen, 's morgens en 's avonds.
 3641651	fra	Les déracinés d'aujourd'hui engendreront les terroristes de demain.
 3641652	fin	Jeanne d'Arc kieltäytyi katsomasta kuulemansa äänet miksikään muuksi kuin Jumalan sanaksi.
@@ -26719,11 +26674,11 @@
 3642532	fra	La plage était bondée.
 3642533	fra	Où est la plage ?
 3642534	ita	Ho letto il libro dall'inizio alla fine.
-3642535	lat	Medus non venit, quia is habet pecuniam tuam.
+3642535	epo	Tomaso ne venas, ĉar via mono estas ĉe li.
 3642536	fra	Dans quelle direction est la plage ?
 3642537	tur	Beni sevdiğini söylediğinde bu bir yalan mıydı?
 3642538	fra	Elles sont allées à la plage.
-3642539	rus	Мед не приходит, потому что твои деньги - у него.
+3642539	rus	Том не приходит, потому что твои деньги - у него.
 3642540	fra	Notre maison est en face de la plage.
 3642541	fra	Notre maison est face à la plage.
 3642542	hin	उसने हर एक सवाल का जवाब नहीं दिया।
@@ -27111,7 +27066,7 @@
 3642934	fra	Ne vous tenez pas trop près !
 3642935	tur	Ne yazık ki beton yanmaz.
 3642937	tur	Bir kaşık suda fırtına!
-3642938	eng	I feel like a drink. Got any beer?
+3642938	eng	I feel like drinking. Got any beer?
 3642939	por	Estou com vontade de tomar algo. Tem cerveja aí?
 3642940	eng	We take out of bed an elderly person who is obviously suffering, dragging him into meetings.
 3642941	tur	Acı çektiği her hâlinden belli olan yaşlı bir insanı, zorla yatağından kaldırıp toplantılara sürüklüyoruz.
@@ -28503,7 +28458,7 @@
 3644383	srp	Ne potcenjuj moju snagu.
 3644384	hun	Azt hallottam, új házat vettél.
 3644386	srp	Moja majka ne govori baš dobro engleski.
-3644387	hun	Tom facér maradt egész életére.
+3644387	hun	Tom facér maradt egész életében.
 3644388	hin	टॉम ने पेड़ पर एक पत्थर फेंका।
 3644389	rus	Я не могу сделать это сегодня.
 3644390	mar	टॉमने झाडावर एक दगड फेकला.
@@ -29325,7 +29280,7 @@
 3645234	nld	Ik krijg het op de zenuwen als je vergeet "Dank je" te zeggen.
 3645235	hun	Ennek nem fogsz örülni, amit most mondok neked.
 3645236	nld	Het ziet er niet naar uit dat Tom nu veel hulp nodig heeft.
-3645237	eng	Tom has long hair which he wears in a ponytail.
+3645237	eng	Tom has long hair, which he wears in a ponytail.
 3645238	nld	Je kent haar sinds 1990?
 3645239	nld	Zijn guitigheid kent geen grenzen.
 3645240	hun	Ezt is számításba kell venni!
@@ -30494,7 +30449,7 @@
 3646481	rus	Они любят нас.
 3646483	rus	Они хотят еще.
 3646484	tur	O bir uyarıydı.
-3646485	tur	Am I not speaking English?
+3646485	eng	Am I not speaking English?
 3646486	rus	Нам часто приходится ждать.
 3646487	tur	Üniversiteden mezun olduktan sonra kameraman oldu.
 3646488	spa	Durante la noche, a la hora de las tinieblas, salía a caza de aventuras.
@@ -31427,7 +31382,7 @@
 3647461	fra	Tu n'es pas drôle.
 3647462	fra	Vous n'êtes pas drôle.
 3647463	rus	Она всегда говорит нет.
-3647464	fra	Il n'a aucun remord.
+3647464	fra	Il n'a aucun remords.
 3647465	rus	Природа не знает границ.
 3647466	fra	Elle n'a aucun remords.
 3647467	fra	Personne ne l'a cru.
@@ -33066,8 +33021,8 @@
 3649165	ita	Io diedi una bambola a mia sorella.
 3649166	lat	Pater et mater et tres liberi in villa habitant.
 3649167	rus	В поместьи живут отец, мать и трое детей.
-3649168	lat	Iulius et Aemilia tres liberos habent: duos filios et unam filiam.
-3649169	rus	У Юлия и Эмилии трое детей: двое сыновей и одна дочь.
+3649168	epo	Tomaso kaj Maria havas tri idojn: du filojn kaj unu filinon.
+3649169	rus	У Тома и Марии трое детей: двое сыновей и одна дочь.
 3649170	lat	In villa multi servi habitant.
 3649171	rus	В поместьи много рабов.
 3649172	lat	Dominus eorum est Iulius: is multos servos habet.
@@ -33768,7 +33723,7 @@
 3649886	fra	Golda Meir a été Premier Ministre durant les années mille-neuf-cent-soixante-neuf à mille-neuf-cent-soixante-quatorze.
 3649887	ina	Un grande numero de personas se ha reunite pro vider le parada.
 3649888	pms	Për piasì pulì 'l paviment ëspòrch.
-3649889	ita	Per favore pulite il pavimento sporco.
+3649889	ita	Per favore, pulite il pavimento sporco.
 3649890	fra	Un gardien a ramené dans la salle le petit garçon en chaise roulante après son opération chirurgicale, suivi d'une longue file de parents inquiets.
 3649891	fra	Il est parti d'ici il y a deux ou trois jours.
 3649892	pms	A l'é 'n test difìcil da capì.
@@ -34564,7 +34519,7 @@
 3650724	ita	Fa un buon uso dei suoi talenti.
 3650726	ita	Lui fa un buon uso dei suoi talenti.
 3650728	deu	Ich habe nicht getrunken.
-3650729	eng	I have not drunk.
+3650729	eng	I haven't been drinking.
 3650730	por	Este é o quarto do Tom.
 3650732	deu	Das ist wirklich nicht gerecht.
 3650733	ina	Prende le vetere nave de tu patre, e hasta te a evader te plus ultra novem mares e le medietate del decime, usque a un insula situate in medio del undas.
@@ -34800,7 +34755,7 @@
 3650986	eng	Global climate change is one of the greatest threats facing humanity.
 3650987	eng	The United States of America and the People’s Republic of China have a critical role to play in combating global climate change.
 3650988	epo	Senfina malkonsento pruvas, ke ambaŭ partioj malpravas.
-3650989	eng	The United States intends to achieve an economy-wide target of reducing its emissions by 26%-28% below its 2005 level in 2025 and to make best efforts to reduce its emissions by 28%. China intends to achieve the peaking of CO2 emissions around 2030 and to make best efforts to peak early and intends to increase the share of non-fossil fuels in primary energy consumption to around 20% by 2030.
+3650989	eng	The United States intends to achieve an economy-wide target of reducing its emissions by 26%-28% below its 2005 level in 2025 and to make best efforts to reduce its emissions by 28%. China intends to achieve the peaking of CO₂ emissions around 2030 and to make best efforts to peak early and intends to increase the share of non-fossil fuels in primary energy consumption to around 20% by 2030.
 3650990	eng	The global scientific community has made clear that human activity is already changing the world’s climate system.
 3650991	eng	Accelerating climate change has caused serious impacts. Higher temperatures and extreme weather events are damaging food production, rising sea levels and more damaging storms are putting our coastal cities increasingly at risk and the impacts of climate change are already harming economies around the world, including those of the United States and China. These developments urgently require enhanced actions to tackle the challenge.
 3650992	epo	La merkato de la kapitaloj ne plu estas tia, kia ĝi estis antaŭ kelkaj jaroj.
@@ -34870,14 +34825,14 @@
 3651057	eng	Since 1990, methane emissions have decreased by 11%.
 3651058	eng	In March 2014, the Administration released a Strategy to Reduce Methane Emissions from landfills, coal mining, agriculture, and oil and gas systems through voluntary actions and common-sense standards.
 3651059	deu	Ich freue mich, dass ich dich endlich getroffen habe.
-3651060	eng	Since 2008, federal agencies have reduced greenhouse gas pollution by more than 17 percent — the equivalent of permanently taking 1.8 million cars off the road.
+3651060	eng	Since 2008, federal agencies have reduced greenhouse gas pollution by more than 17 percent—the equivalent of permanently taking 1.8 million cars off the road.
 3651061	epo	Li helpis min stariĝi kaj akompanis min al malsanulejo.
 3651062	por	Há cura para tudo, exceto a morte.
 3651063	eng	On December 5 2013, President Obama signed a Presidential Memorandum directing the federal government to buy at least 20% of its electricity from renewable sources by 2020.
 3651064	eng	Even as we take new steps to reduce U.S. greenhouse gas emissions, we must also prepare for the impacts of a changing climate that are already being felt across the country.
 3651065	deu	Warum ist Liebe so schwierig?
 3651066	epo	Mi atendas, ke vi helpos min.
-3651067	eng	On May 6 2014, the Administration released the Third U.S. National Climate Assessment (NCA), the most authoritative and comprehensive source of scientific information to date about climate change impacts across all U.S. regions and on critical sectors of the economy.
+3651067	eng	On May 6, 2014, the Administration released the Third U.S. National Climate Assessment (NCA), the most authoritative and comprehensive source of scientific information to date about climate change impacts across all U.S. regions and on critical sectors of the economy.
 3651068	srp	Ja sam veoma zadovoljan sa drugim delom videa.
 3651069	epo	En la realo gorilo havas multe da komunaj sentoj kun la homoj.
 3651070	deu	Er ist nicht in der Stadt.
@@ -35035,7 +34990,7 @@
 3651225	por	Tom leu sobre o acidente de Mary no jornal.
 3651226	deu	Die Zahl der Todesopfer beträgt beinahe 500.
 3651227	eng	Businesses have created more than 9.7 million private sector jobs in the past 52 months.
-3651228	eng	After nearly collapsing, the U.S. auto industry has added nearly 250,000 jobs - the fastest pace of job growth in more than a decade.
+3651228	eng	After nearly collapsing, the U.S. auto industry has added nearly 250,000 jobs—the fastest pace of job growth in more than a decade.
 3651229	eng	American manufacturers have added more than 500,000 jobs since January 2012, the strongest period of job growth since 1989.
 3651230	eng	President Obama’s middle-class tax cuts, first signed into law in December 2010, are providing tax relief for 160 million workers to help jumpstart the economy. For the typical family, that's $40 extra with each pay check.
 3651231	eng	To prepare Americans for the jobs of the future and help restore middle-class security, we have to out-educate the world and that starts with a strong school system.
@@ -35477,7 +35432,7 @@
 3651684	rus	Вы имеете право на ваше мнение.
 3651685	tur	Otobüsle, metroyla veya yürüyerek gidebilirsin.
 3651687	ita	L'inquinamento di carbonio è il più grande motore del cambiamento climatico.
-3651688	eng	I must give it to him
+3651688	eng	I must give it to him.
 3651689	tur	Yanıtlanması gereken çok soru var.
 3651690	eng	I must go to Istanbul.
 3651691	tur	Tom benimle asla konuşmadı.
@@ -42577,8 +42532,8 @@
 3659192	hun	A kutyák egész éjjel ugattak valamiért.
 3659193	chv	Эпӗ кунта ҫиетӗп.
 3659194	chv	Эпӗ халӗ ҫиетӗп.
-3659195	ita	Non ho ma visto una cosa del genere.
-3659196	ita	Io non ho ma visto una cosa del genere.
+3659195	ita	Non ho mai visto una cosa del genere.
+3659196	ita	Io non ho mai visto una cosa del genere.
 3659197	chv	Эпӗ ҫиетӗп.
 3659198	ita	Perché ti stai comportando così?
 3659199	ita	Perché si sta comportando così?
@@ -42713,7 +42668,7 @@
 3659340	eng	Aren't you extremely busy preparing for your trip these days?
 3659341	pol	"Śniłem o tobie wczoraj." "Naprawdę? I co tam robiłam?"
 3659342	fra	C'est la maison d'Anita.
-3659343	fra	Peux-tu parler une autre langue que l'anglais ?
+3659343	fra	Peux-tu parler une autre langue que l'anglais ?
 3659344	fra	Pouvez-vous parler une autre langue que l'anglais ?
 3659345	pol	Jestem bez przerwy zajęty.
 3659346	pol	Pamiętam to dobrze.
@@ -44989,7 +44944,7 @@
 3661707	hin	ब्रह्मांड की आयु लगभग १३.७५ अरब साल हैं।
 3661708	fra	On ne trouve pas beaucoup de trombonistes par les temps qui courent.
 3661709	nld	Het universum is ongeveer 13,75 miljard jaar oud.
-3661710	eng	i like the black color
+3661710	eng	I like black.
 3661711	fra	Il y a des pays où il ne fait pas bon d’être une femme.
 3661712	spa	Quiero que vayas a ver si sigue ahí.
 3661713	spa	Quiero que vayas a ver si aún está ahí.
@@ -46564,11 +46519,11 @@
 3663382	deu	Ich habe meine Lieder selbst geschrieben.
 3663383	rus	Давай, Делия! Иди и спроси их!
 3663384	tur	Çağdaş sanat, gelişen teknolojiden de yararlanıyor.
-3663385	lat	Delia ex atrio venit et dominam vocat: "Veni, o domina! Veni!"
+3663385	lat	Maria ex atrio venit et dominam vocat: "Veni, o domina! Veni!"
 3663386	eng	I wrote my songs myself.
 3663387	pms	I veul andé voghe 'n film.
 3663388	epo	Mi volas iri spekti filmon.
-3663389	rus	Делия выходит из атриума и зовёт госпожу: "Сюда, о госпожа! Сюда!"
+3663389	rus	Мария выходит из атриума и зовёт госпожу: "Сюда, о госпожа! Сюда!"
 3663390	pms	Mi i son mai ëstat an Flòrida.
 3663391	lat	Quid agit puer in impluvio?
 3663392	epo	Mi neniam estis en Florido.
@@ -48898,7 +48853,6 @@
 3665834	ita	Tom ha detto che voi non sareste mai venuti.
 3665835	ita	Tom ha detto che non sareste mai venute.
 3665836	ita	Tom ha detto che voi non sareste mai venute.
-3665837	ita	Ora ho un po' paura dei belgi.
 3665838	ita	Sono in maglietta.
 3665839	ita	Sono in maglietta?
 3665840	ita	Ci voleva proprio una serata così!
@@ -49998,3 +49952,49 @@
 3666976	rus	Я не топлю их дом.
 3666977	chv	Ҫӗнӗ япала тунӑран пурте хӑраҫҫӗ.
 3666978	cat	Tens tota la raó.
+3666979	epo	Mi ne varmigas ilian domon.
+3666980	cat	Pel que sembla no vol que tingui èxit.
+3666981	cat	Porta això a la teva mare.
+3666982	cat	Em van demanar de sortir de l'aula.
+3666983	cat	La lluita continua.
+3666984	epo	Mi ne hejtas ilian domon.
+3666985	cat	Què fas els diumenges?
+3666986	tur	Tom yakışıklı değil mi?
+3666987	cat	Aquesta va ser una pregunta que ningú de nosaltres podia respondre.
+3666988	chv	Хушма ҫӑраҫҫи пур и?
+3666989	cat	Avui està ennuvolat.
+3666990	dan	Er du på biblioteket?
+3666991	cat	Tom organitzà els seus CDs per artistes.
+3666992	cat	Tinc la mateixa bicicleta.
+3666993	fra	Est-ce que Tom n'est pas beau?
+3666995	cat	Ella es va traslladar a Alemanya.
+3666996	tur	Kenara çekil!
+3666997	fra	Est-ce que tu es à la bibliothèque?
+3666998	cat	Aquest hivern va ser terriblement fred.
+3666999	dan	Ingen kunne finde hulen.
+3667000	cat	Està buscant una feina.
+3667001	cat	Miro la televisió abans d'estudiar.
+3667002	cat	Hem de complir amb les disposicions legals.
+3667003	tur	Bu bir masa değil.
+3667004	cat	Ell té tres fills que treballen a la mateixa oficina.
+3667005	fra	Ce n'est pas une table.
+3667006	cat	Cada país té el govern que es mereix.
+3667007	cat	Tom no volia ni parlar-ne.
+3667008	eng	Why do you treat Tom like this?
+3667009	cat	Vaig a l'escola amb autobús.
+3667010	eng	I've had enough of your lectures.
+3667011	cat	M'agrada veure els partits de fútbol.
+3667012	tur	Her ulus hak ettiği şekilde yönetilir.
+3667013	cat	De sobte va començar a ploure.
+3667014	chv	Пӗр сехет ҫитетех.
+3667015	eng	I'm going to Tokyo tomorrow.
+3667016	dan	Hvorfor er Tom herude?
+3667017	cat	Això fa que sigui encara millor.
+3667018	eng	That politician comes from Arizona.
+3667019	cat	Després de molta discussió, vam decidir passar les nostres vacances a Espanya.
+3667020	cat	Si vostè veu un error, corregir-lo, si us plau.
+3667021	fra	J'aime bien regarder les matches de football.
+3667022	cat	Ells no volien tenir res a veure amb això.
+3667023	cat	L'hi dono a ell.
+3667024	fra	Je vais partir à Tokyo demain.
+3667025	cat	Hi ha a Alemanya molts africans?

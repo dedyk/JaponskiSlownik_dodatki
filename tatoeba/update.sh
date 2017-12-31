@@ -4,9 +4,9 @@ rm -f jpn_indices.csv
 rm -f links.csv
 rm -f sentences.csv
 
-curl https://downloads.tatoeba.org/exports/sentences.tar.bz2
-curl https://downloads.tatoeba.org/exports/links.tar.bz2
-curl https://downloads.tatoeba.org/exports/jpn_indices.tar.bz2
+wget https://downloads.tatoeba.org/exports/sentences.tar.bz2
+wget https://downloads.tatoeba.org/exports/links.tar.bz2
+wget https://downloads.tatoeba.org/exports/jpn_indices.tar.bz2
 
 tar -xvf sentences.tar.bz2
 tar -xvf links.tar.bz2

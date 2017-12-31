@@ -1,34 +1,3 @@
-2435103	epo	La patrino metis kataplasmon sur la infanon.
-2435104	hun	Az anya borogtást tett a gyermekre.
-2435105	epo	Somere oni povas rikolti la maturan sinapon.
-2435106	hun	Nyáron le lehet aratni az érett mustárt.
-2435107	epo	Al la porko oni donas branon de tritiko.
-2435108	eng	There are few books without misprints.
-2435109	hun	A sertésnek búzakorpát adnak.
-2435110	epo	La juĝisto deklaris arbitran kondamnon.
-2435111	hun	A bíró önkényes ítéletet mondott ki.
-2435112	tur	Ne hoş bir çift.
-2435113	epo	La prudenta decido estiĝas malrapide.
-2435114	hun	A megfontolt ítélet lassan születik meg.
-2435115	epo	La fianĉo pretendis la doton.
-2435116	tur	Daha mütevazı bir şekilde giyinmelisin.
-2435117	hun	A vőlegény igényt tartott a hozományra.
-2435118	epo	La mastro portis furaĝon por bestoj.
-2435119	hun	A gazda takarmányt vitt az állatoknak.
-2435120	epo	La sagaca lernanto rapide solvis la taskon.
-2435121	hun	Az eszes diák gyorsan megoldotta a feladatot.
-2435122	epo	Paralizinta konvulsio baris la movon de la mano.
-2435123	hun	A bénító görcs meggátolta a kéz mozdulatát.
-2435124	epo	La knabino ĉantaĝis per denunco la fraŭlon.
-2435125	hun	A lány feljelentéssel zsarolta a legényt.
-2435126	epo	La flamo de kandelo flagretis pro la venteto.
-2435128	hun	A gyertya lángja lobogott a szellőben.
-2435129	epo	La ŝtelisto palpebrumis pro la subita lumo.
-2435130	hun	A tolvaj hunyorgott a hirtelen fényben.
-2435131	epo	Piratoj krozis sur maro.
-2435132	hun	Kalózok cirkáltak a tengeren.
-2435133	epo	La diligenta disĉiplo alvenis akurate.
-2435134	hun	A szorgalmas tanítvány pontosan érkezett.
 2435135	epo	La majstro laboris per pliiĝanta vervo.
 2435136	hun	A mester fokozódó lendülettel dolgozott.
 2435137	epo	La horloĝisto metis ebenan plakon sur la tablon.
@@ -2366,7 +2335,7 @@
 2437576	epo	Tom provas kompreni.
 2437577	tur	Bence Boston'a geri gitmeliyiz.
 2437578	epo	Kioton vizitas multaj turistoj.
-2437579	epo	Tom klopodas por kompreni.
+2437579	epo	Tomo klopodas kompreni.
 2437580	epo	Bonvolu skribi la nombrojn per ciferoj.
 2437581	epo	Tom elŝutas ludojn.
 2437582	tur	Bence dün Tom'un niçin burada olmadığını bulmalıyız.
@@ -2928,7 +2897,7 @@
 2438170	nob	Huset som Tom bygget er fantastisk.
 2438171	tur	Onun dahi olduğunu söylemek abartı değildir.
 2438172	nob	Hvis det ikke finnes noen løsning, så er det ikke noe problem.
-2438173	nob	Sammenlignet med din, bilen min er liten.
+2438173	nob	Bilen min er liten sammenlignet med din.
 2438174	nob	Vi snakket om mange ting.
 2438175	tur	Daha önce böyle inatçı bir kişiyle karşılaşmadım.
 2438176	nob	Han spør stadig dumme spørsmål.
@@ -3104,7 +3073,7 @@
 2438352	por	Quem será o líder?
 2438353	ita	Dolce notte mondo!
 2438354	por	Relacionamento pode ser complicado.
-2438355	eng	I have best job in the world.
+2438355	eng	I have the best job in the world.
 2438356	eng	I have worst job in the world.
 2438357	eng	They just have immense faith in each other which makes their relationship perfect.
 2438358	eng	You're the best dad in the world.
@@ -3700,7 +3669,7 @@
 2438973	rus	Я привык к холодной погоде.
 2438974	tur	Bu araba ötekinden daha iyi bir performansa sahip.
 2438975	tur	Bu araba ötekinden daha iyi bir çalışmaya sahip.
-2438976	epo	La malvarma verto iĝis kutima por mi.
+2438976	epo	La malvarma vetero iĝis kutima por mi.
 2438977	epo	Mi alkutimiĝis al la malvarma vetero.
 2438978	deu	Ich habe mich an das kalte Wetter gewöhnt.
 2438979	tur	O Kazak dilini bilmiyor.
@@ -4264,7 +4233,7 @@
 2439590	tur	Sanırım bunu açıklayabilirim.
 2439591	tur	Sanırım onu yapabilirim.
 2439592	deu	Tom und Maria lieben einander.
-2439593	epo	Tom kaj Maria amas unu la alian.
+2439593	epo	Tomo kaj Manjo amas unu la alian.
 2439594	spa	Estamos en el clímax de nuestra juventud.
 2439595	spa	Diles lo que yo te dije.
 2439596	tur	Açık konuşmak gerekirse teori doğru değil.
@@ -4886,7 +4855,7 @@
 2440287	spa	Seguí cavando.
 2440289	spa	Seguí escribiendo.
 2440290	spa	Investiguemos.
-2440291	eng	I fell over it and broke my leg
+2440291	eng	I fell over it and broke my leg.
 2440292	spa	Veamos.
 2440293	spa	Nadie es infalible.
 2440294	arq	علابالو واش راو حايب.
@@ -5175,7 +5144,7 @@
 2440619	cmn	关于这个订单，我们公司的报价比其他公司的报价都高出很多倍。
 2440620	jpn	私はドイツ語の正書法改革に賛成です。
 2440621	ukr	Маєш щось почитати?
-2440622	ukr	Гроші - це ще не все.
+2440622	ukr	Гроші — це ще не все.
 2440623	cmn	我们一定会积极配合您的要求，满足您的期望。
 2440624	ukr	Я знаю, що з тобою не так.
 2440625	ukr	Я знаю, що з вами не так.
@@ -6026,7 +5995,7 @@
 2441565	tur	Dün İskoçya'dan giden insanlar.
 2441566	heb	גיליתי היום פינה יפה מאוד.
 2441568	rus	В нашем институте занято более восьмидесяти сотрудников.
-2441569	deu	In unserem Institut sind mehr als achtzig Mitarbeiter beschäftigt .
+2441569	deu	In unserem Institut sind mehr als achtzig Mitarbeiter beschäftigt.
 2441570	tur	Onun kız kardeşi mükemmel bir eş ve annedir.
 2441571	epo	En nia instituto estas okupataj pli ol okdek kunlaborantoj.
 2441572	tur	Çok güzel saçların var. Ne tarz bir şampuan kullanıyorsun?
@@ -8358,7 +8327,7 @@
 2444092	spa	Mi ascenso depende de su decisión.
 2444094	fra	Je prends ma retraite.
 2444096	spa	Adoptaron dos niños de Asia.
-2444097	eng	Yes, it's possible
+2444097	eng	Yes, it's possible.
 2444098	deu	„Ich habe schon viele Frauen umgebracht.“ — „So? Und weshalb?“ — „Sie waren zu neugierig.“
 2444099	eng	He lost his wallet in the street. it didn't contain any money, but all of his documents were inside.
 2444100	fra	J'ai donné un coup de main.
@@ -8520,7 +8489,7 @@
 2444273	fra	Trop de mots tuent le propos.
 2444274	spa	Tiene las bolas por el piso.
 2444275	spa	El cirujano operó al paciente.
-2444276	eng	If you have the time, could you stop by my office around 3?
+2444276	eng	If you have the time, could you stop by my office around 3:00?
 2444278	deu	„Wer sind Sie?“ — „Das werden Sie gleich erfahren.“
 2444279	spa	Sé lo que puede pasar aquí.
 2444280	cmn	如果一段打结的绳子能换来风，如果淹死的人能再醒来，那么我相信伤了心的人会痊愈。
@@ -9972,7 +9941,7 @@
 2445845	tur	Niçin paydos etmiyoruz?
 2445846	epo	En la televido elpaŝis fama kinoreĝisoro, kies filmoj ricevis premiojn de internaciaj kinofestivaloj.
 2445848	epo	Ne estu tiom severa kontraŭ la infanoj.
-2445849	tur	Niçin Fransızca öğrenmeliyiz?
+2445849	tur	Niçin Fransızca öğrenmeliyim?
 2445850	rus	Что она там делала?
 2445851	eng	I am going on.
 2445852	rus	Почему ты думаешь, что это слишком амбициозная цель?
@@ -11433,12 +11402,12 @@
 2447370	epo	La lernejo mendis 500 personigitajn kruĉojn por la gelernantoj.
 2447371	epo	Mi protektos vin de la danĝero.
 2447372	epo	Uzu demandajn pronomojn por reskribi la subajn frazojn. Se necese, vi povas aldoni aŭ tiri kelkajn vortojn.
-2447373	epo	Vi devas ricevi permeson antaŭ eliri.
+2447373	epo	Vi devas ricevi permeson antaŭ ol foriri.
 2447374	epo	Tom estas viro malfacila por trakti.
 2447375	epo	Se ili trudos, vi ankaŭ trudos.
 2447376	epo	Ĉu la jako bone sidas al ŝi?
 2447377	deu	„Wie war das Überleben in der Wildnis?“ — „Schrecklich! Ich habe nur zwei Tage durchgehalten.“
-2447378	epo	Kiu estas la plej multekosta inter la du?
+2447378	epo	Kiu estas la pli multekosta inter la du?
 2447379	epo	Tom tre facile povis esti atendinta de ni.
 2447380	deu	Tom versteht anscheinend kein Französisch.
 2447381	deu	Tom sagte mir, er wolle Französisch lernen.
@@ -14687,7 +14656,7 @@
 2450808	tur	Hızlı düşünür müyüm?
 2450810	tur	Ben hırsız mıyım?
 2450811	tur	Hata yapar mıyım?
-2450815	tur	Sen satranç oynarken hamlelerini uzun süre planlarsın, ben yine de senden bir adım önde olurum.
+2450815	tur	Sen satranç oynarken hamlelerini uzun süre planlarsın ama ben yine de senden bir adım önde olurum.
 2450820	tur	Çoğalma güdüsü bizi yaşamda tutan ana etken mi?
 2450821	spa	Tom está en el aeropuerto.
 2450823	spa	¿Todavía necesitas mi ayuda?
@@ -17737,7 +17706,7 @@
 2454025	ber	Kemm meẓẓiyeḍ, ma d nekk, meɣɣreɣ aṭas.
 2454026	epo	Mi studos la francan venontan semestron.
 2454028	epo	Se vi parolos la francan, mi ne komprenos.
-2454029	tur	Ben nasıl ki saygı duyuyorsam onlar da bana saygı duymalı!
+2454029	tur	Ben onlara nasıl ki saygı duyuyorsam onlar da bana saygı duymalı!
 2454030	epo	Ĉu la franca estas malfacile lernebla lingvo?
 2454031	ber	Mi d-yuweḍ, nekk lliɣ la d-ttheyyiɣ taɣlust.
 2454032	tur	Neden pişman olacağın şeyler yapıyorsun?
@@ -20123,7 +20092,7 @@
 2456496	rus	Дикие животные живут в джунглях.
 2456497	rus	Дикие звери живут в джунглях.
 2456498	rus	Лев - это царь джунглей.
-2456499	rus	Лев - это король джунглей.
+2456499	rus	Лев — это король джунглей.
 2456500	jpn	高橋さんにはご多忙のことと拝察申し上げます。
 2456501	rus	Лев является царём джунглей.
 2456502	jpn	高橋さんは最近お忙しいことと存じます。
@@ -20656,7 +20625,7 @@
 2457055	tur	Cuma günü meslektaşım beni sohbete tuttu, bu yüzden toplantıyı kaçırdım.
 2457056	ita	Io credo che il crepacuore mi faccia impazzire.
 2457057	tur	Kim senin yasanı çiğnemedi ki söyle.
-2457058	tur	Günahsız bir ömrün tadı ne ki söyle.
+2457058	tur	Günahsız bir ömrün tadı ne ki, söyle.
 2457059	epo	Mi kredas, ke mi freneziĝos pro amdoloro.
 2457060	tur	Yaptığım kötülüğü kötülükle ödetirsen sen, sen ile ben arasında ne fark kalır ki söyle.
 2457061	nob	Jeg tror jeg blir gal av kjærlighetssorg.
@@ -21650,7 +21619,7 @@
 2458079	rus	У нас было расхождение во мнениях.
 2458080	pol	Tatoeba powinna być ważniejsza niż cokolwiek innego.
 2458081	fra	Il enfonça la main dans le nid de guêpes.
-2458082	deu	„Du bist ein wirklicher Meisterschüler“, lobte Maria Tom. „Ich habe dich so hart geprüft, und du hast alle meine Fragen zur vollsten Zufriedenheit beantwortet.“
+2458082	deu	„Du bist ein wirklicher Meisterschüler“, lobte Maria Tom. „Ich habe dich so hart geprüft, und du hast alle Fragen richtig beantwortet.“
 2458083	nob	Vi hadde en uoverenstemmelse.
 2458084	fra	Il dépenserait même le trésor de Darius.
 2458085	ita	L'amore prevarrà.
@@ -22180,7 +22149,7 @@
 2458624	epo	Malgraŭ sia riĉeco, li estas malfeliĉa.
 2458625	epo	Diana volas esti instruistino.
 2458626	eng	I'm sending Tom to Boston to help you.
-2458628	eng	I'll get Tom go to Boston to help you.
+2458628	eng	I'll get Tom to go to Boston to help you.
 2458629	eng	And I want to study many languages because I want to understand the world. Currently, I'm working on my degree in Classical Greek.
 2458630	epo	Kiam ajn la beletrema germano plonĝas en frazon, vi neniam vidos lin, ĝis li ekaperos je la alia flanko de sia Atlantiko kun sia verbo enbuŝe.
 2458631	eng	She lives in a small house.
@@ -23153,7 +23122,7 @@
 2459616	deu	Ich übernehme Tom.
 2459617	deu	Ich kümmere mich um Tom.
 2459618	ber	Ad d-lhuɣ ed tjejjigin-nni.
-2459619	rus	Я думаю, что ты знаешь о том.
+2459619	rus	Я думаю, ты знаешь об этом.
 2459620	rus	Я думаю, что ты со всеми здесь знаком.
 2459621	rus	Я думаю, что ты знаешь каждого здесь.
 2459622	nld	Wat is er hier gebeurd?
@@ -23670,8 +23639,8 @@
 2460158	rus	Он имел в виду что-то вроде этого.
 2460159	deu	Etwas Derartiges hatte er vor Augen.
 2460160	deu	Was er meinte, ist in etwa das.
-2460161	epo	Kiu panikiĝis?
-2460162	epo	Tom panikiĝis.
+2460161	epo	Kiun trafis paniko?
+2460162	epo	Paniko trafis Tomon.
 2460163	epo	Ni pasos.
 2460164	epo	Tom pasos.
 2460165	epo	Kiu pagas?
@@ -23985,7 +23954,7 @@
 2460496	rus	Существовал стабильный рост населения.
 2460497	deu	Moment, warte mal kurz! Ich verstehe das nicht.
 2460499	spa	¿Qué pasa, cariño?
-2460500	deu	Haben Sie eine Ahnung, welche Mengen an Geld mein Land ihrem Land gegeben hat?
+2460500	deu	Haben Sie eine Ahnung, welche Mengen an Geld mein Land Ihrem Land gegeben hat?
 2460501	rus	Существовал постоянный прирост населения.
 2460502	spa	Mañana por la tarde estará jugando al tenis.
 2460505	deu	Sie kommen in mein Land, leben von meinem Geld und haben nicht mal den Anstand, meine Sprache richtig zu lernen.
@@ -24141,14 +24110,14 @@
 2460660	deu	Ich glaube, du bist schon zu lange hier.
 2460661	deu	Ich glaube, du hast genug getan.
 2460662	deu	Ich glaube, du hast einen schrecklichen Fehler begangen.
-2460663	tur	Hepimizin bir süre sonra ölecek olması dramatik mi, trajikomik mi?
+2460663	tur	Hepimizin bir süre sonra ölecek olması dramatik mi yoksa trajikomik midir?
 2460664	tur	İnsanların vadesi dolunca ölecek olmasını bilmesi nasıl bir duygu?
 2460665	fra	Je veux juste savoir dans quoi je mets les pieds.
 2460667	tur	İnsanlar ölümden korktuğu için mi yoksa ölümden sonra ya ahiret varsa korkusu yüzünden mi ibadet eder?
 2460668	fra	Je veux juste savoir pourquoi tu m'as amené ici.
 2460669	tur	Tanrı neden bizi çeşit çeşit yarattı?
 2460670	por	Cada uma de sua músicas foi um sucesso.
-2460671	tur	Allah algısı ilk insan veya ilk insanlarda var mıydı?
+2460671	tur	Tanrı algısı, ilk insan veya ilk insanlarda var mıydı?
 2460672	tur	Nedenler ve sonuçlar ilişkili midir?
 2460673	tur	Müslüman mıyım?
 2460674	fra	Je veux juste savoir pourquoi tu m'as amenée ici.
@@ -24801,7 +24770,7 @@
 2461347	lit	Jei nesupranti, paklausk.
 2461348	eng	Danzig is a Polish town.
 2461349	ita	Danzica è una città polacca.
-2461350	epo	Mi kredis, ke Tom estas enamiĝinta al Maria.
+2461350	epo	Mi kredis, ke Tomo enamiĝis al Manjo.
 2461351	ita	Ti auguro un buon anno nuovo.
 2461352	ita	Vi auguro un buon anno nuovo.
 2461353	ita	Le auguro un buon anno nuovo.
@@ -25627,7 +25596,7 @@
 2462209	ita	C'è un gatto in casa mia.
 2462210	epo	La ŝtormo fariĝis eĉ pli forta.
 2462211	dan	Åbn øjnene!
-2462212	epo	Mi ne havas tempon malsani.
+2462212	epo	Mi ne havas tempon por malsani.
 2462213	epo	Mi devas trovi elirvojon.
 2462214	dan	Jeg har ikke tid til at være syg.
 2462215	epo	Vi devas trovi alian elirvojon el tiu situacio.
@@ -25649,7 +25618,7 @@
 2462231	epo	Mi ricevis de ŝi pecon de grafitaĵo por mia ĉukkrajono.
 2462232	rus	Не путай страсть с любовью.
 2462233	rus	Не путай вожделение с любовью.
-2462234	epo	La homa digneco estas netuŝebla. Ĝin respekti kaj protekti estas la devo de ĉiu ŝtata aŭtoritato.
+2462234	epo	La homa digneco estas netuŝenda. Ĝin respekti kaj protekti estas la devo de ĉiu ŝtata aŭtoritato.
 2462235	epo	Mi estis tia, kia vi estas; vi estos tia, kia mi estas.
 2462236	epo	La nupta ceremonio okazos en preĝejo de la deksepa jarcento.
 2462237	rus	Никогда не путай жалость с любовью.
@@ -26886,7 +26855,7 @@
 2463524	rus	У меня больше нет вопросов.
 2463525	epo	Diversaj laboroj postulas diversajn ilojn.
 2463526	eng	I don't appreciate unpunctuality.
-2463527	epo	Estas kiel magio.
+2463527	epo	Tio estas kiel magio.
 2463528	epo	Mi ne dormos kun vi.
 2463529	eng	They must believe in something.
 2463530	eng	The hen has eight chicks.
@@ -28247,7 +28216,7 @@
 2464965	fra	Tom, je suis dans le pétrin. Je veux que tu viennes me chercher.
 2464966	epo	Ovo ne estas ronda, sed ovala.
 2464967	fra	Je le ferai venir, afin qu'il m'aide.
-2464968	epo	Mia patrino ŝminkis sin antaŭ eliri.
+2464968	epo	Mia patrino ŝminkis sin antaŭ ol eliri.
 2464969	por	Neste quarto tem ar-condicionado.
 2464970	fra	Pouvez-vous essayer ?
 2464971	fra	Voulez-vous bien rester un moment ?
@@ -32639,7 +32608,7 @@
 2469637	tur	Konuşmayı sevdiğim kadar sessiz olmayı da seviyorum.
 2469638	tur	Sosyal yaşam beni yoruyor.
 2469640	tur	Tom'u kreşte indirdim.
-2469642	tur	Kime güvenip güvenmeyeceğimi biliyorum. Saatler yalan söylemez çünkü sen ayarladın.
+2469642	tur	Kime güvenip güvenmeyeceğimi biliyorum.
 2469644	tur	Tom'un ilgileneceğinden çok kuşku duyuyorum.
 2469646	tur	Yaşadığım yerin bahçe düzenlemesindeki insanları sen mi ayarladın?
 2469647	tur	Tom'un o kadar aptal olacağından kuşku duyuyorum.
@@ -33228,7 +33197,7 @@
 2470283	tur	Beni yanlış anladığın zamanlar oldu.
 2470284	tur	Beni unutmadığını biliyordum Sue.
 2470285	epo	De la frua mateno min plagadis stranga melankolio.
-2470286	tur	Sue, lütfen beni yanlış anlama. Anlamadığın noktada doğrudan sen sor.
+2470286	tur	Sue, lütfen beni yanlış anlama.
 2470287	ita	È via in vacanza.
 2470288	ita	Lei è via in vacanza.
 2470289	ita	Non deluderci.
@@ -33871,7 +33840,7 @@
 2470977	dan	Har du et psykisk problem?
 2470978	ita	Voglio che voi piacciate a Tom.
 2470979	ita	Io voglio che voi piacciate a Tom.
-2470980	tur	Bu kadar eğitiminize rağmen hâlâ kolay sinirlenmeniz çok şaşırtıcı bay Sato.
+2470980	tur	Bu kadar eğitimli olmanıza rağmen hâlâ kolay sinirlenmeniz çok şaşırtıcı, bay Sato.
 2470982	ita	Hai un problema mentale?
 2470983	ita	Tu hai un problema mentale?
 2470984	ita	Ha un problema mentale?
@@ -34421,11 +34390,11 @@
 2471562	tur	Anana babana bile güvenmicen bu devirde.
 2471563	epo	La instruisto severe skoldis siajn lernantojn.
 2471564	spa	No seas tan estricto. Solo son niños.
-2471565	tur	Neden lens taktığını anlamak zor olmadı.
+2471565	tur	Onun neden lens taktığını anlamak zor olmadı.
 2471566	tur	Neden lensleri çıkardığını anlamak zor olmadı.
-2471567	tur	Neden hasta numarası yaptığını anlamak zor olmadı.
+2471567	tur	Onun neden hasta numarası yaptığını anlamak zor olmadı.
 2471568	tur	Benim için zor var mı?
-2471569	tur	Köftenin de tadına baktım pek fena değildi.
+2471569	tur	Köftenin de tadına baktım, pek fena değildi.
 2471570	epo	Se mi ne scias, kion mi diru, tiam mi ruĝiĝas.
 2471571	tur	Beni aklınca yönlendirmeye devam et.
 2471572	epo	Hodiaŭ mi ellitiĝis frue.
@@ -34478,7 +34447,7 @@
 2471623	epo	La bonaj homoj ŝatas ĉiujn.
 2471624	tur	Gerçekten böyle bir yüze sahip olan kadın müşteri önüne çıkar mı?
 2471625	tur	Kolların ve dizin mor olsa onları saklamak mı istersin yoksa göstermek mi?
-2471626	tur	Şeytanı bu Dünya'da aramak gerekli mi?
+2471626	tur	Şeytanı bu dünyada aramak gerekli mi?
 2471627	tur	Neden beni çok hafife alıyorsun?
 2471628	epo	Ĉu eble en tio estas la problemo?
 2471629	epo	De tie venas mia familio.
@@ -34494,7 +34463,7 @@
 2471640	tur	Bu yüzleri hatırlıyorum.
 2471642	spa	Me duele el cuello.
 2471643	tur	Sen ne kadar basit oyunlar planlıyorsun.
-2471644	tur	Kasparov mu Karpov mu bilgisayara karşı yenilmişti?
+2471644	tur	Kasparov mu yoksa Karpov mu bilgisayara karşı yenilmişti?
 2471645	tur	Bilgisayara karşı satranç oynamak zor mu?
 2471646	epo	Mia kolo doloras.
 2471647	tur	Hepsine aynı miktarda vermek adaletli mi?
@@ -34584,8 +34553,8 @@
 2471739	tur	Beni öldürmek istesen şimdiye kadar öldürürdün neden senden korkayım.
 2471740	tur	Böyle yazdım diye belki de ölmeyeceğini bildiği için korkmuyordur diye düşünüyorsundur.
 2471741	por	Gosto de filmes com muitas cenas de ação.
-2471742	tur	Ülke çapında bir oyun var ama çözemedim mi acaba?
-2471743	tur	Yardım etmelerini beklemiyorum ve senden de bir şey beklemememe rağmen bana memeler sundun.
+2471742	tur	Ülke çapında bir oyun var.
+2471743	tur	Yardım etmelerini beklemiyorum.
 2471744	spa	Pese a parecer imposible, es cierto.
 2471745	spa	Eso cambió mi vida.
 2471746	tur	Senin yaptıklarının benim tarafımdan çözülmesi bunun başka insanlar tarafından da çözüleceği anlamına gelmez mi?
@@ -34594,7 +34563,7 @@
 2471750	tur	Gelirken bir gurup çıkarken bir gurup ne adamlarsınız ya madem benimle tanışmak istiyorlar söyle onlara aracı kullanmadan ya dinlenme odasındayım ya da çalışma yerinde olurum.
 2471751	spa	Cuando un espacio se divide en dos, nace un universo: se define una unidad. La descripción, la invención y la manipulación de unidades están en la base de toda indagación científica.
 2471752	tur	Kaldığım yer yol geçen hanı mı?
-2471753	tur	Doğru söylediğim çocuk hemen telefona sarılıp büyüklerine olayı anlattı.
+2471753	tur	Gerçeği söylediğim çocuk hemen telefona sarılıp olayı büyüklerine anlattı.
 2471754	fra	Bien sûr, je comprends.
 2471755	tur	Dişin ağrıyor bence kanal tedavisine ihtiyaç var.
 2471756	fra	Ça va être sympa !
@@ -34665,21 +34634,21 @@
 2471825	deu	Der Mensch ist Geist. Was aber ist Geist? Der Geist ist das Selbst. Was aber ist das Selbst? Das Selbst ist ein Verhältnis, das sich zu sich selbst verhält, oder ist dasjenige am Verhältnis, dass das Verhältnis sich zu sich selbst verhält; das Selbst ist nicht das Verhältnis, sondern dass das Verhältnis sich zu sich selbst verhält.
 2471826	dan	Mennesket er Aand. Men hvad er Aand? Aand er Selvet. Men hvad er Selvet? Selvet er et Forhold, der forholder sig til sig selv, eller er det i Forholdet, at Forholdet forholder sig til sig selv; Selvet er ikke Forholdet, men at Forholdet forholder sig til sig selv.
 2471827	epo	La homo estas spirito. Sed kio estas spirito? Spirito estas la memo. Sed kio estas la memo? La memo estas rilato, kiu rilatas al si mem, aŭ ĝi estas tio en la rilato, kio igas la rilaton rilati al si mem; la memo ne estas la rilato, sed tio, kio rilatigas la rilato al si mem.
-2471828	eng	Tom avoided Mary’s eyes.
+2471828	eng	Tom avoided Mary's eyes.
 2471829	eng	Tom called you?
-2471830	eng	Tom can’t walk on his own yet.
-2471831	eng	Tom couldn’t look at Mary.
+2471830	eng	Tom can't walk on his own yet.
+2471831	eng	Tom couldn't look at Mary.
 2471832	eng	Tom did not lift his head.
 2471833	eng	Tom did not raise his head.
-2471835	eng	Tom didn’t raise his voice.
-2471836	eng	Tom didn’t see a way out.
-2471837	eng	Tom didn’t take the hint.
+2471835	eng	Tom didn't raise his voice.
+2471836	eng	Tom didn't see a way out.
+2471837	eng	Tom didn't take the hint.
 2471838	eng	Tom gave a bitter laugh.
 2471839	eng	Tom glanced away from her.
 2471840	eng	Tom grimaced.
 2471841	eng	Tom grunted.
 2471842	eng	Tom had two choices.
-2471843	eng	Tom hasn’t turned up yet.
+2471843	eng	Tom hasn't turned up yet.
 2471844	eng	Tom held out a chair.
 2471845	eng	Tom just let Mary get away.
 2471846	eng	Tom let me go.
@@ -34693,7 +34662,7 @@
 2471854	eng	Tom pushed open the door.
 2471855	eng	Tom ran up into the woods.
 2471856	eng	Tom said he'd find her.
-2471857	eng	Tom says he’ll find her.
+2471857	eng	Tom says he'll find her.
 2471858	eng	Tom sighed heavily.
 2471859	eng	Tom sounded disappointed.
 2471860	eng	Tom stumbled after her.
@@ -34707,7 +34676,7 @@
 2471868	eng	Tom was never prosecuted.
 2471869	eng	Tom was on the way.
 2471870	eng	Tom was tired.
-2471871	eng	Tom wasn’t always there.
+2471871	eng	Tom wasn't always there.
 2471872	deu	Der Mensch ist Geist. Was aber ist Geist? Der Geist ist das Selbst. Was aber ist das Selbst? Das Selbst ist eine Beziehung, die sich auf sich selbst bezieht, oder es ist die Eigenheit der Beziehung, sich auf sich selbst zu beziehen. Das Selbst ist nicht die Beziehung, sondern die Selbstbezogenheit der Beziehung.
 2471873	spa	El defecto de la infancia es, en primer término, no conocer lo horrible y, en segundo término, temblar de aquello que no es de temer. Lo mismo le sucede al hombre natural; ignora dónde se halla realmente el horror, lo que no le exime de temblar, pero tiembla de lo que no es lo horrible.
 2471874	rus	У него больше книг, чем у меня.
@@ -34882,13 +34851,12 @@
 2472050	spa	Lo que más le asustaba a Tom era la idea de que tal vez no pudiera volver a caminar otra vez.
 2472051	hun	A fordítás hűen követi az eredetit.
 2472052	tur	Tom'un yardım edip edemeyeceğini bilmiyorum.
-2472053	spa	Yo no les temo.
+2472053	spa	Yo no les doy miedo.
 2472054	tur	Onun Tom'un istediği olup olmadığını bilmiyorum.
 2472055	hun	Úgy tűnik, a szomszédunk viszonyt folytat egy fiatalasszonnyal.
-2472056	spa	Yo no le temo a sus niños.
+2472056	spa	Yo no les doy susto a sus niños.
 2472057	tur	Tom'a güvenip güvenemeyeceğimi bilmiyorum.
 2472059	rus	Мы должны двигаться очень осторожно.
-2472060	spa	Yo no te temo.
 2472061	jbo	lo tsani pu tarci ckaji je cu carmi i tai bo fau lo nu da catlu ty vau da co'a retsku fi lo nei fe lo se du'u xukau lo se ke xlali je cunso cnitcini ke'e prenu ka'e xabju ni'a le tai tsani
 2472062	tur	Siz arkadaşlara nasıl teşekkür edeceğimi bilmiyorum.
 2472063	rus	Мы уезжаем завтра днём​​.
@@ -35167,7 +35135,7 @@
 2472349	tur	Ben devlet değilim sen de öyle.
 2472351	tur	Önce tarım toplumunu sonra sanayi toplumunu oluşturmak daha mantıklı değil miydi?
 2472353	tur	Sen vefalı biri değilsin. Seni sevmememin nedeni budur.
-2472354	tur	Beni yarı yolda bırakacaksın daha önce diğerlerine yaptığın gibi.
+2472354	tur	Daha önce diğerlerine yaptığın gibi beni yarı yolda bırakacaksın.
 2472356	tur	Organize olmanızda bir problem yok fakat yüz kaslarınız çok fazla çalışıyor.
 2472357	tur	Bir bakış veya bir kas hareketi bile düşünceyi belli eder.
 2472359	epo	Eble vi volas dek kvin fromaĝojn.
@@ -35255,7 +35223,7 @@
 2472447	tur	Ampül baştan beri çalışmıyor muydu yoksa gevşek miydi?
 2472448	jpn	トムはメアリーを信頼している。
 2472449	tur	Yaşadığı yeri güzelleştirmeyen insandan bir şey beklenmez mi?
-2472450	tur	Gel şu ampüle bakalım gevşek mi yoksa gerçekten bozuk mu?
+2472450	tur	Gel şu ampüle bakalım, gevşek mi yoksa gerçekten bozuk mu?
 2472451	tur	Alet çantası dediğin şey dinlenme odasında daha önceden durmuyordu değil mi?
 2472452	eng	That, I don't know.
 2472453	tur	O alet çantası mı yoksa ilk yardım çantası mı?
@@ -35407,7 +35375,7 @@
 2472606	tur	Burada hâlâ dayak var mı?
 2472607	tur	Benden yaşça büyüklerle dans edebilir miyim?
 2472608	tur	Sence ben büyük müyüm?
-2472609	tur	Bana bir gün çok büyüksün deme olur mu?
+2472609	tur	Bana bir gün çok büyüksün deme, olur mu?
 2472610	ile	Li puella in li blu jaque es mi filia.
 2472611	tur	Neden beni her durumda kendimi korumam için eğitiyorsun?
 2472612	tur	Eğitim ve öğretimim ne zaman bitecek?
@@ -36090,7 +36058,7 @@
 2473331	tur	Kürtaj yasaklanmalı mı?
 2473332	tur	İnsani duyguları dinle açıklayabilir misin?
 2473333	ita	Non ho qui il portatile per controllare, mi spiace.
-2473334	tur	Tek Tanrı'lı dinler kadınlara değer veriyor mu?
+2473334	tur	Tek tanrılı dinler kadınlara değer veriyor mu?
 2473335	tur	Sence dinsiz miyim?
 2473336	tur	Buradaki çocuk beş liraları çok harcıyor gelirken yanında beşlik getir.
 2473337	tur	Çak bir beşlik.
@@ -36242,7 +36210,7 @@
 2473497	eng	He knows what you're thinking.
 2473498	rus	Завтра он приедет в Париж.
 2473499	eng	She knows what you're thinking.
-2473501	tur	Maskelerinizi çıkaracak mısınız yoksa gelip tek tek ben mi çıkarayım?
+2473501	tur	Maskelerinizi çıkaracak mısınız, yoksa gelip tek tek ben mi çıkarayım?
 2473502	tur	Önce üniversite hocalarımdan başlamalıyım sonra ikinci üniversite hocalarımdan devam etmeliyim.
 2473503	tur	Her üstümün arkasından konuştuysam problem yok ayrıcalık yapmamışım demektir, değil mi?
 2473504	eng	This love will never end.
@@ -36260,7 +36228,7 @@
 2473516	epo	Estu singarda kiam vi purigas la rompitan vitron.
 2473517	eng	That is so true.
 2473518	eng	It doesn't taste very good.
-2473519	tur	Kaos insanların yeni fikirler üretmesini sağlar değil mi?
+2473519	tur	Kaos insanların yeni fikirler üretmesini sağlar, değil mi?
 2473520	eng	I never did it again.
 2473521	tur	Her aslanın gönlünde bir güzel yatmaz mı?
 2473522	tur	Benim kime aşık olduğumu tahmin yoluyla bulabilir misin?
@@ -36477,7 +36445,7 @@
 2473757	por	Um pouco mais de chocolate, por favor.
 2473759	por	Me diverti durante a viagem.
 2473761	epo	Mi ne povas diri kiel oni faras tion.
-2473764	tur	Burada çanak anten yok fakat orada çanak anten var garip değil mi?
+2473764	tur	Burada çanak anten yok fakat orada çanak anten var, garip değil mi?
 2473765	tur	Titaniği izlemeye dayanamam hele ki ilk kez yayınlanıyorsa.
 2473768	spa	Rompí el que estaba usando hasta ahora jugando con la pelota esta mañana en la habitación.
 2473769	spa	¿Podemos hacer un descanso?
@@ -36499,7 +36467,7 @@
 2473789	spa	Piensas que no importa caer eternamente si se logra escapar.
 2473790	deu	Der junge russische Geologe schlug mit dem Hammer ein Stück Stein ab und begann es aufmerksam zu betrachten. „Basalt!“, rief er beinahe verzückt aus und übergab das Gesteinsfragment seinem deutschen Kollegen.
 2473791	spa	¿No ves que vas cayendo ya?
-2473792	tur	Eski filmler, programlar, şarkılar ve yaşanmış olayların hepsinden ders almak lazım değil mi Tom?
+2473792	tur	Eski filmler, programlar, şarkılar ve yaşanmış olayların hepsinden ders almak lazım, değil mi Tom?
 2473793	spa	Limpia tu cabeza de prejuicio y moral.
 2473795	fra	Je pense que Tom en a trop vu.
 2473796	fra	Je pense que Tom a disparu.
@@ -36567,7 +36535,7 @@
 2473865	spa	Cae en risas.
 2473866	spa	Cae en música sobre el universo.
 2473867	tur	Dokunulmazlığı alamadım bu benim yaşayamayacağım anlamına mı gelir?
-2473868	tur	Fiziki şartlarım kötü biraz kas yapmam lazım.
+2473868	tur	Fiziki şartlarım kötü, biraz kas yapmam lazım.
 2473869	spa	Cae de tu cabeza a tus pies.
 2473870	spa	Cae de tus pies a tu cabeza.
 2473871	spa	Cae del mar a la fuente.
@@ -36605,7 +36573,7 @@
 2473914	tur	Duble çay ve fincan çay hep var mıydı?
 2473915	fra	Je pense que c'est drôle.
 2473918	tur	Saf saf hareket etmeyin olur mu?
-2473919	tur	Kişisel bilgilerimi daha iyi korumalıydın bu senin en büyük hatan.
+2473919	tur	Kişisel bilgilerimi daha iyi korumalıydın, bu senin en büyük hatan.
 2473920	tur	Madem herkes hakkımda her şeyi biliyor o kadar adilsen ben de hepinizin hakkında her şeyi bilmek istiyorum.
 2473921	por	Eu gosto da casa deles.
 2473923	fra	Je pense que ce manteau doit vous aller.
@@ -36661,7 +36629,7 @@
 2473982	tur	Şanslara inanmam.
 2473983	fra	Je pense que c'est exactement ce que je ferais.
 2473984	fra	Je crois que c'est tout.
-2473985	tur	Düşün ve benim yaptığım hareketleri analiz et olur mu?
+2473985	tur	Düşün ve benim yaptığım hareketleri analiz et, olur mu?
 2473986	fra	Je pense que c'est assez.
 2473987	tur	Bir kişiyi tanımak istersen gidip o kişiye direkt sor. En son sorma, olur mu?
 2473988	fra	Je pense que ce serait sage.
@@ -36739,8 +36707,8 @@
 2474067	fra	Il fait noir comme dans un sac, ici.
 2474068	spa	Casi me morí.
 2474069	fra	Je pense que quelque chose de terrible est arrivé à Tom.
-2474070	tur	Almanlar kazanınca biz de mi kazandık sayıldık?
-2474071	tur	Almanlar kaybedince biz de mi kaybettik sayıldık?
+2474070	tur	Almanlar kazanınca biz de mi kazanmış sayıldık?
+2474071	tur	Almanlar kaybedince biz de mi kaybetmiş sayıldık?
 2474072	nob	Da jeg kom hjem i dag hadde jeg en virkelig flott stund.
 2474073	deu	Als ich heute nach Hause kam, hatte ich eine wirklich tolle Zeit.
 2474076	tur	Sizin oyun çok kötüydü ne olur daha çok çalışmadan oynamayın.
@@ -36780,13 +36748,13 @@
 2474114	tur	Bana oyunlar oyna bana beni sevdiğini söyle Lavinya belki seni beklerim ölene kadar.
 2474115	tur	Herkes bizden ise bu ölümler ölüm değil.
 2474116	tur	Tabutu taşımadım ve onun dolu olup olmadığını bilmiyorum.
-2474117	tur	Kimse ölmese Dünya yaşanılabilir bir yer olurdu.
+2474117	tur	Kimse ölmese dünya yaşanılabilir bir yer olurdu.
 2474118	tur	Çemberleri ben çizeyim mi? Senin izin var mı?
 2474121	por	Eles não disseram nada.
 2474122	tur	Sen izin versen de bu çemberi çizeceğim izin vermesen de.
-2474123	tur	Çember veya çemberler işte bütün mesele bu.
+2474123	tur	Çember veya çemberler, işte bütün mesele bu.
 2474124	tur	İnsanların anlamsız ölümü beni derinden yaralıyor.
-2474125	tur	Beni Hitler ile karıştırma olur mu?
+2474125	tur	Beni Hitler ile karıştırma, olur mu?
 2474126	tur	Herkes bizden ise bu ölümler sahte ölüm.
 2474127	por	Elas não disseram nada.
 2474128	tur	Üçüncü sayfa haberi okumaktan bıktım.
@@ -37091,14 +37059,14 @@
 2474458	tur	Tiyatro çok basit hep zamanında geldiğiniz için olayları çözmek zor olmuyor.
 2474459	deu	Ich stehe allein an der Spitze des dahinsterbenden Jahres, das All bricht seine Wellen zu meinen Füße, die Planeten kreisen um meinen Kopf, und zerzausen mich vorübereilend mit dem Wind den sie entfachen, ohne eine Antwort zu geben, die den Abgrund füllen würde.
 2474460	tur	Hocam tezimi hemen onaylıyor o arada annemin diş problemi oluyor onun kaplaması değişirken doktorumuz birinin işe alınacağını söylüyor ben araştırıp tezde bana yardım eden kızı öneriyorum sonra sohbetimiz ilerliyor tezde bana yardım edeceğini söylüyor yardım ediyor ve okul bitiyor neyse ondan sonra atamalar açıklanıyor ben bana yardım edeni değil sevdiğimin hayatını kurtarmak istiyorum onu unutuyor muyum acaba?
-2474461	tur	Sana bir hikaye anlatacağımı söylemiştim değil mi?
+2474461	tur	Sana bir hikaye anlatacağımı söylemiştim, değil mi?
 2474462	tur	Her zaman yaşadığım olaylarda bit yeniğini aramayı unutmam.
 2474463	fra	Je pense que ça a dû arriver comme Tom l'a dit.
 2474464	tur	Gerçi bunları neden söylüyorum biliyor musun diyordun ya hayatın film şeridi gibi gözünün önüne gelecek diye ben de seni mahcub etmek istemedim.
 2474465	tur	Okulda öğrenilenler ve siyah beyaz film kayıtlarıyla bize gösterilenler ne kadar doğru?
 2474466	tur	Hitler diye bir adam yaşamış mıydı?
 2474467	epo	Mi staras sola ĉe la pinto de la agonianta jaro, la universo rompas siajn ondojn sub miaj piedoj, la planedoj flugas rondojn ĉirkaŭ mia kapo, taŭzante min per la vento, kiun ili pelas pasante sen doni respondon plenigontan la abismon.
-2474470	tur	Dünya'da öğrenilmesi gereken çok fazla bilgi var değil mi?
+2474470	tur	Dünya'da öğrenilmesi gereken çok fazla bilgi var, değil mi?
 2474471	fra	Je pense que ça pourrait fonctionner.
 2474472	fra	Je pense que j'ai vu ce film auparavant.
 2474473	fra	Je pense que j'ai déjà vu ce film.
@@ -37636,7 +37604,7 @@
 2475025	rus	Звёзды светят высоко в небе.
 2475026	tur	Tom hakkında konuşmaya geldim.
 2475027	epo	Nokta ĉielo steloplena sin etendis super la vilaĝo.
-2475028	eng	I'm disgusted with my life and my self but I'm not unhappy about that.
+2475028	eng	I'm disgusted with my life and myself but I'm not unhappy about that.
 2475029	tur	Tom'a sürpriz yapmaya geldim.
 2475030	deu	Ein sternenübersäter Nachthimmel breitete sich über das Dorf.
 2475031	deu	Gestern stand in unserer Zeitung, dass der Sommer dieses Jahr an einem Montag stattfindet.
@@ -38456,7 +38424,7 @@
 2475874	tur	Ben otoriter değil miyim?
 2475875	tur	Ben insanlara zarar vermek ve onları üzmek istemiyorum.
 2475876	fra	Marie est très sympathique.
-2475877	tur	Benim doğruları neden tek başıma bulmamı istiyorsun?
+2475877	tur	Doğruları neden tek başıma bulmamı istiyorsun?
 2475878	pol	Ona trzyma torebkę pod pachą.
 2475879	tur	Benim gerçekleri bulmamı neden istiyorsun?
 2475880	fra	Tokyo est considérée comme une ville très sûre.
@@ -38515,7 +38483,7 @@
 2475937	tur	Şimdiden Tom'u özlüyorum.
 2475938	fra	Nous avons collaboré sur la base d'intérêts réciproques.
 2475939	tur	Evet hastalıktan yeni yeni kurtuluyorum.
-2475940	tur	Herkes her şeyi biliyor değil mi?
+2475940	tur	Herkes her şeyi biliyor, değil mi?
 2475941	tur	Numaranı önceden Tom'a verdim.
 2475942	tur	Arkama bakmamı sağladın ve araba geçerken ne yapacağımı sana sordum.
 2475943	fra	La dame n'a menti, ni la première fois, ni la dernière.
@@ -38546,7 +38514,7 @@
 2475968	deu	Kyoto hat viele Universitäten.
 2475969	tur	Bugün neredeyse Tom'u tekrar arıyordum.
 2475970	ile	Kyoto have mult universitás.
-2475971	tur	Hatalarım olmasına rağmen beni sevdiniz bu çok mutlu eden bir şey.
+2475971	tur	Hatalarım olmasına rağmen beni sevdiniz, bu çok mutlu eden bir şey.
 2475972	tur	Parayı Tom'la paylaşmayı kabul ettim.
 2475973	ber	Yugad ɣef tezmert-nnek.
 2475974	ber	Yugad ɣef tezmert-nnem.
@@ -38554,7 +38522,7 @@
 2475976	tur	Faturayı Tom'la paylaşmayı kabul ettim.
 2475977	ber	Yugad ɣef tdawsa-nnem.
 2475978	eng	One can also mention his essays.
-2475979	tur	Sence kazandığım paranın hakkını verdiğimi düşünüyor musun?
+2475979	tur	Kazandığım paranın hakkını verdiğimi düşünüyor musun?
 2475980	tur	İstasyonun önünde Tom'u karşılamayı kabul ettim.
 2475981	tur	Ben kazandığım paranın hakkını vermek istiyorum.
 2475982	tur	Tom'a yardım etmeyi kabul ettim.
@@ -38585,11 +38553,11 @@
 2476007	tur	Yüzde yüzü seviyorum ama herkesi memnun edebilir miyim?
 2476008	tur	Tom'a bir hayli hayranım.
 2476009	fra	Un baiser sans barbe, c'est un peu comme une soupe sans sel.
-2476010	tur	Strese girdiğimde sigara içmek için dışarıya çıkacağımı biliyorsun değil mi?
+2476010	tur	Strese girdiğimde sigara içmek için dışarıya çıkacağımı biliyorsun, değil mi?
 2476011	tur	Tom'a soracağım bir şey var.
 2476012	fra	Je le ferais, si j'avais plus de temps.
 2476013	tur	Tom'un yalan söylemediğine gerçekten inanıyordum.
-2476014	tur	Herkes haberleri birbiriyle paylaşıp değerlendirme yapıyor değil mi?
+2476014	tur	Herkes haberleri birbiriyle paylaşıp değerlendirme yapıyor, değil mi?
 2476015	tur	Tom'u görmek istemiyordum.
 2476016	fra	Est-ce que tu dois faire un discours ?
 2476017	tur	Olduğu kadar yapamayız, elimizden geleni de yapamayız.
@@ -38713,7 +38681,7 @@
 2476139	eng	I know you'll do what needs to be done.
 2476140	tur	Ben oysaki hepinizi eşit sevdim. Neden bana ön yargılı davranıyorsunuz?
 2476141	deu	Ich kenne nicht die Wahrheit.
-2476142	tur	Bazı kadınlar çok tehlikeli.
+2476142	tur	Bazı kadınlar çok tehlikelidir.
 2476143	eng	I don't know the truth.
 2476144	eng	I know you'll do what's necessary.
 2476147	tur	Sence ben hırsız mıyım?
@@ -38796,7 +38764,7 @@
 2476242	tur	Sence benim amacım ne?
 2476243	tur	Bana açık açık sormadıkça beni anlayabilir misiniz?
 2476244	tur	Dolaşım sistemi, bir küçük ve bir büyük dolaşımdan meydana gelir.
-2476245	tur	Abdullah'a ne dedim bugün biliyor musun?
+2476245	tur	Abdullah'a bugün ne dedim biliyor musun?
 2476246	tur	Annesinin eski moda fikirleri var.
 2476248	tur	Hâlâ önyargılısınız, değil mi?
 2476249	tur	İş tamamlanmadan ayrılmak istemedim.
@@ -39059,14 +39027,14 @@
 2476525	eng	Tom balled his hands into fists.
 2476526	por	Eu guardo todas as minhas fotos antigas no andar de cima, em uma caixa de madeira.
 2476527	eng	Tom could have said it for all I knew.
-2476528	eng	Tom couldn’t be right about everything.
-2476529	eng	Tom didn’t notice the look of disdain on Mary's face.
+2476528	eng	Tom couldn't be right about everything.
+2476529	eng	Tom didn't notice the look of disdain on Mary's face.
 2476530	eng	Tom insisted on speaking to you alone.
 2476531	eng	Tom just would not speak to anyone but you.
 2476532	rus	Паводковая обстановка в России стабилизировалась.
 2476533	eng	Tom reached out and took Mary's hand in his.
 2476534	por	O Tom decidiu esperar mais uma hora.
-2476535	eng	Tom thinks they’ll all be here by noon.
+2476535	eng	Tom thinks they'll all be here by noon.
 2476536	eng	Tom tried the knob.
 2476537	eng	Tom turned and ran after Mary.
 2476538	tur	Silah kılıfımı, palaskamı ve kasaturamı isteyene bıraktım.
@@ -39117,7 +39085,7 @@
 2476585	por	O Tom está em coma.
 2476587	dan	Jeg har tilstået.
 2476588	epo	Ĉu vi jam ŝveligis baloneton tiom dikan kiel tiu ĉi?
-2476589	tur	Ah yalan Dünya diye bir şarkımızın olduğunu çok önceden beri biliyorum.
+2476589	tur	"Ah yalan dünya" diye bir şarkımızın olduğunu çok önceden beri biliyorum.
 2476592	epo	Mi pekkonfesis.
 2476593	por	O John é corajoso na aparência, mas na realidade é um covarde.
 2476594	tur	Tecrübem yok ama tecrübeyi kimseye zarar vermeden nasıl kazanabilirim?
@@ -39150,7 +39118,7 @@
 2476623	epo	Projektoj similaj al Tatoeba povas helpi al la berbera lingvo transvivi.
 2476624	tur	Başkalarına verdiğim zararlar için çok özür dilesem beni affederler mi?
 2476625	dan	Projekter som Tatoeba kan gøre det berbiske sprogs overlevelse muligt.
-2476626	tur	İçimde yıllarca süren bu pişmanlıklar dizisi bir gün sona erer mi?
+2476626	tur	İçimde yıllardır süren bu pişmanlıklar dizisi bir gün sona erer mi?
 2476627	epo	Mi preferas superbazarojn: la prezoj estas pli malaltaj.
 2476628	tur	Bir kadın gerçekten bana âşık olur mu?
 2476629	epo	Ĉu via amiko ĉiam bone kondutis?
@@ -39173,7 +39141,7 @@
 2476651	epo	Aro da birdoj flirtis en la blua ĉielo.
 2476652	spa	En el tapiz del cielo se juega nuestra suerte. Allí donde mueren las horas. Se juega nuestra alma. Y la suerte que se vuela todas las mañanas.
 2476653	dan	Vi hørte at vejret var dårligt så vi valgte at udskyde turen.
-2476656	eng	I want you to beat in his pasty, white face
+2476656	eng	I want you to beat in his pasty, white face.
 2476658	rus	Я хочу, чтобы ты навалял ему по пухлой белой роже.
 2476660	epo	Oni ne tuŝu la idolojn, alie la oro restos sur oniaj manoj.
 2476662	epo	Tio estas tasko, kiu postulas multe da tempo.
@@ -39221,7 +39189,7 @@
 2476706	tur	Türk'üm milletimi ve ülkemi seviyorum.
 2476707	tur	Ben de faydalı olmak istiyorum.
 2476708	tur	Sizce ben faydalı bir insan olabilir miyim?
-2476709	eng	Your maid is not the first one to get screwed
+2476709	eng	Your maid is not the first one to get screwed.
 2476710	tur	Dünya'yı da seviyorum ve aç insanlar olduğunun farkındayım.
 2476711	rus	Твоя горничная не первая, кого так наебали!
 2476712	tur	Galiba biraz dinlenmek istiyorum.
@@ -39265,10 +39233,10 @@
 2476751	eng	I dozed off and dreamed that I was dead.
 2476752	eng	I feel like an impostor.
 2476753	eng	I just can’t picture that.
-2476754	eng	I just can’t picture Tom in a dress.
+2476754	eng	I just can't picture Tom in a dress.
 2476755	eng	I just want all this to be over, you know.
 2476756	eng	I kept expecting her to call, but she didn't.
-2476757	eng	I kept trying to tell him, but Tom wouldn’t listen.
+2476757	eng	I kept trying to tell him, but Tom wouldn't listen.
 2476758	eng	I know all about cars.
 2476759	eng	I know how crazy that must sound.
 2476760	eng	I know what he’s capable of.
@@ -39301,14 +39269,14 @@
 2476787	eng	Tom could hardly breathe after the race.
 2476788	eng	Tom could hardly breathe.
 2476789	eng	Tom could smell gasoline.
-2476790	eng	Tom couldn’t see it, but he could feel it.
-2476791	eng	Tom couldn’t seem to control his anger.
-2476792	eng	Tom couldn’t talk me out of going to the party.
-2476793	eng	Tom couldn’t talk me out of it.
-2476794	eng	Tom didn’t look back.
-2476795	eng	Tom didn’t want to die.
-2476796	eng	Tom didn’t want to starve.
-2476797	eng	Tom didn’t want to think about what was going on behind that door.
+2476790	eng	Tom couldn't see it, but he could feel it.
+2476791	eng	Tom couldn't seem to control his anger.
+2476792	eng	Tom couldn't talk me out of going to the party.
+2476793	eng	Tom couldn't talk me out of it.
+2476794	eng	Tom didn't look back.
+2476795	eng	Tom didn't want to die.
+2476796	eng	Tom didn't want to starve.
+2476797	eng	Tom didn't want to think about what was going on behind that door.
 2476798	eng	Tom doesn't like me much.
 2476799	eng	Tom only began to feel safe after he moved.
 2476800	eng	Tom shifted uncomfortably in his seat.
@@ -39320,7 +39288,7 @@
 2476806	eng	Even though Tom left home early today, he was late for work.
 2476807	deu	Tom wandte sich um und rannte hinter Maria her.
 2476808	deu	Obwohl er zeitig von zu Hause wegging, kam Tom zu spät zur Arbeit.
-2476809	eng	That must be what love looks like
+2476809	eng	That must be what love looks like.
 2476810	rus	Наверное, это и есть любовь.
 2476811	spa	Tom está de mal humor hoy día.
 2476812	eng	Tom, where are we?
@@ -41027,7 +40995,7 @@
 2478570	ita	Io non sono una puttana.
 2478571	dan	Tom tror ikke Mary er lykkelig.
 2478572	ina	Illa faceva multe errores de orthographia.
-2478573	tur	Bayan ekonomist Ankara'dan geldi. Sizce o birinci oldu mu?
+2478573	tur	Bayan ekonomist Ankara'dan geldi.
 2478574	spa	No nos llame, nosotros lo llamaremos.
 2478575	spa	Su edad comienza a mostrar efecto.
 2478577	ina	Io le peteva de venir a octo horas, ma ille non arrivava ante novem.
@@ -41148,7 +41116,7 @@
 2478705	tur	Arkadan gelen boş geliyordu ona üzüldüm bea.
 2478706	tur	Sence bir araca üç şoför fazla mı?
 2478707	tur	Sence ben yenilgiye uğradım mı?
-2478708	eng	She has no clue who she's with
+2478708	eng	She has no clue who she's with.
 2478709	tur	Atatürk ve silah arkadaşlarını küçümsediğimi düşündün mü?
 2478710	rus	Она и понятия не имеет, с кем она.
 2478713	epo	Ŝi firme decidiĝis forlasi la entreprenon.
@@ -41162,7 +41130,7 @@
 2478724	heb	הוא לא אמריקני, אבל הוא אוהב את אמריקה.
 2478725	tur	O vatanseverler unutulur mu?
 2478726	heb	מה לגבי לשדרג אותי מסתם ידיד לחבר?
-2478727	tur	Sizce benim hayata bakışım hep aynı mıydı? Yoksa değişti mi?
+2478727	tur	Sizce benim hayata bakışım hep aynı mıydı?
 2478728	tur	Çok yağmur yağdığında da şemsiye taşımayı sevmem, az yağmur yağdığında da.
 2478730	epo	Ĉu mi povas peti vian atenton?
 2478732	eng	He likes abandoned buildings.
@@ -41635,7 +41603,7 @@
 2479239	epo	"Mi deziras ekscii, ĉu mia mendo jam estas preta." — "Jes ĝi estas preta. Jen ĝi."
 2479240	por	Que azar!
 2479241	epo	"Mi tuj parolos kun li." — "Ne parolu kun li hodiaŭ; estas pli bone lasi tion por morgaŭ."
-2479242	deu	Tom mag Maria leiden, Maria aber hat Johannes gern. Noch interessanter gestaltet sich die Sache dadurch, dass Johannes Adelheid, die aber Tom gern hat.
+2479242	deu	Tom hat Maria gern; der aber gefällt Johannes. Noch interessanter gestaltet sich die Sache dadurch, dass Johannes Elke leiden mag, die aber wiederum ein Auge auf Tom geworfen hat.
 2479243	epo	"Ĉu vi ĉiam venas al Brazilo por la karnavalo?" — "Mi venas ĉiam kaj mi ĉiam ĝuas multe da amuzo."
 2479244	por	Que inteligente!
 2479245	por	Que sabido!
@@ -41815,7 +41783,7 @@
 2479439	epo	Li diris, ke Raelismo estas lia religio.
 2479440	epo	Mi nun tre bone marŝas danke al mia nova kano.
 2479441	epo	Ŝi amegas kuiri.
-2479442	epo	Nikolao kaj Maria amas unu la alian.
+2479442	epo	Nikolao kaj Manjo amas unu la alian.
 2479443	epo	Ŝi ne eĉ rememoras min.
 2479444	epo	Li venas al la lernejo per buso aŭ trajno.
 2479445	epo	Li venas viziti min de tempo al tempo.
@@ -43628,7 +43596,7 @@
 2481345	eng	He doesn't live with his parents.
 2481346	eng	Have you a dog?
 2481347	eng	The judge pardoned him.
-2481348	eng	You two are not in agreement correct?
+2481348	eng	You two are not in agreement, correct?
 2481349	eng	Even if all goes well, we still can't finish before Saturday.
 2481351	eng	They try to do right and not look at what others are doing.
 2481352	eng	They try to do what's right and not worry about what others do.
@@ -44606,7 +44574,7 @@
 2482380	spa	Tom me dijo que hablaba francés.
 2482381	rus	Почему Том хотел учить французский?
 2482382	ber	Aqcic-nni ay la yessiriden takeṛṛust d gma.
-2482383	rus	Том сказал мне, что он говорил по-французски.
+2482383	rus	Том сказал мне, что он говорит по-французски.
 2482384	ber	Cikkeɣ winna d Mass Brown.
 2482385	deu	Sie sollten eigentlich nicht da sein.
 2482386	ber	Abeḥḥar-nni ur aɣ-yejji ad neddu ɣef tedxent.
@@ -44783,7 +44751,7 @@
 2482561	fra	J'ai loupé le souper.
 2482562	fin	Mitä te piditte eilisestä televisiofilmistä?
 2482563	pol	Nie zjadłem kolacji.
-2482564	fra	Nous devons être en train de faire quelque chose de travers.
+2482564	fra	Je dois être en train de faire quelque chose de travers.
 2482565	pol	Już za tobą tęsknię.
 2482566	deu	Kann man das essen?
 2482567	pol	Mógłbym zostać.
@@ -46437,7 +46405,7 @@
 2484345	deu	Das ist ziemlich ernst.
 2484346	epo	Bonvolu traduki tion ĉi en la francan.
 2484347	deu	Das Opfer wollte keine Anzeige erstatten.
-2484348	tur	Her insan bir kitap ve okunmaya değer. Ben de paylaşılanlardan olmak istiyorum. Ben de paylaşırım.
+2484348	tur	Her insan bir kitaptır ve okunmaya değerdir.
 2484350	tur	Olur, herhangi bir ücret talep etmeden evlerimi ve araçlarımı veririm; siz de bana sizin evlerinizi ve araçlarınızı verir misiniz?
 2484351	eng	This glistening little tulpa is a four-dimensional creature. The crown of his head is my biological mother squeezing me out, and the tips of his toes will be the death of me. We are about a quarter past his nipples at the moment. Tubular, man!
 2484353	deu	Tom faltet gerne Papierflieger.
@@ -46567,7 +46535,7 @@
 2484490	por	Eu te explico como chegar lá. A senhora segue por esta rua até chegar na Rua Sete de Abril. Então a senhora vira a direita e vai reto até chegar na Rua Onze de Setembro.
 2484492	tur	Benim için bir iyilik yapıp daha açık olun.
 2484493	spa	Pese a haber estudiado francés durante tres años, no lo hablo bien.
-2484494	tur	Evlilik kurumu diye bir şeye inanmıyorum, çünkü yeni nesilde gördüğüm eşler cana değil tene tapıyor.
+2484494	tur	Evlilik kurumu diye bir şeye inanmıyorum.
 2484495	spa	En la escuela aprendimos a leer en francés, pero la verdad es que no aprendimos cómo hablar.
 2484496	eng	Do you live in this neighborhood?
 2484497	por	Parece que é bem longe. Talvez seja melhor eu tomar um táxi.
@@ -46624,7 +46592,7 @@
 2484552	ita	Le lumache muoiono se gli si mette sopra del sale?
 2484553	rus	Обычно я возвращаюсь домой в четыре.
 2484554	eng	It's too early to leave.
-2484555	tur	kimse ölmez
+2484555	tur	Kimse ölmez.
 2484556	ita	Di solito vado a casa alle quattro.
 2484558	ita	Io di solito vado a casa alle quattro.
 2484559	rus	Обычно я хожу пешком.
@@ -46674,7 +46642,7 @@
 2484607	spa	He oído decir que el francés es una lengua difícil de hablar.
 2484608	mar	तो फ्रेंच व वेब डिजाइनचा अभ्यास करतोय.
 2484610	spa	Después de que los residentes se fueron, la casa quedó vacía.
-2484611	tur	Ben ne pişirdim görmediniz mi?
+2484611	tur	Ben ne pişirdim, görmediniz mi?
 2484612	mar	तो फ्रेंच व संकेतस्थळ संकल्पनाचा अभ्यास करतोय.
 2484613	mar	उजव्या बाजूचा रस्ता पकडा.
 2484614	eng	We won't get off this island alive.
@@ -47115,7 +47083,7 @@
 2485084	tur	peki neden birbirimizi ve diğer kültürleri küçümsediğimiz anlar oldu mu?
 2485085	por	Eu sempre vou estar com você.
 2485086	spa	Es un lame botas.
-2485088	tur	zehirli elmaları parlatıyor muyum?
+2485088	tur	Zehirli elmaları parlatıyor muyum?
 2485089	epo	Kial vi vestas la infanojn?
 2485090	por	O Tom, geralmente, vai pescar no rio.
 2485091	por	Eu acho que ela tem 40 anos.
@@ -47661,7 +47629,7 @@
 2485664	epo	Ĉu tio plaĉas al vi aŭ ne, vi devas fari viajn lernotaskojn.
 2485665	mar	तिने एका सुरीने आपला हात कापला.
 2485666	mar	तिने मदत करण्याचा प्रयत्नसुद्धा केला नाही.
-2485667	mar	ती अगदी बर्‍यापैकी गाता येतं.
+2485667	mar	तिला अगदी बर्‍यापैकी गाता येतं.
 2485668	mar	त्या अगदी बर्‍यापैकी गाऊ शकतात.
 2485669	mar	ती दहा मिनिटांपूर्वी घरातून निघाली.
 2485670	epo	La polico sukcesis lokalizi la krimulon.
@@ -48348,10 +48316,10 @@
 2486396	epo	Vi estas tre malavaraj.
 2486397	epo	Vi estas tre amuza.
 2486398	epo	Vi estas tre amuzaj.
-2486399	tur	İnsanların yüzüne nasıl bakacağım bilmiyorum ya onları kıracak şeyler düşünürsem?
+2486399	tur	İnsanların yüzüne nasıl bakacağımı bilmiyorum.
 2486402	tur	Bunlar hata ve yanlış olursa nasıl düzeltilebilir?
 2486403	tur	Neyi nasıl düşünmeliyim?
-2486404	tur	Nasıl olsa benim hakkımda her şeyi biliyorsunuz bana da öğretin yav.
+2486404	tur	Nasıl olsa benim hakkımdaki her şeyi biliyorsunuz.
 2486405	epo	Ĉu vi volas iri por trinki aŭ manĝi ion?
 2486406	epo	Li ĉiam iras al laboro je la oka matene.
 2486409	epo	Je kioma horo alvenos la venonta trajno?
@@ -49998,3 +49966,35 @@
 2488221	por	O Tom parou.
 2488222	eng	For someone like me, getting busted was the worst nightmare.
 2488223	fra	C'est ma bière.
+2488224	ita	Questa è la mia birra.
+2488226	por	O Tom não pôde esperar até o final de semana.
+2488228	ber	Asseɣli deg tfesna d nettat ay d taɣawsa tameqrant akk ay ttagadeɣ.
+2488231	por	Eu não vi um fantasma.
+2488232	eng	I would prefer to spend six months in jail rather than getting busted.
+2488233	por	Não seja porco.
+2488234	ber	Smenyafeɣ ad wteɣ sḍis n wayyuren deg tkurmut wala ad iyi-sseɣlin deg tfesna.
+2488235	ita	Tom ha dichiarato che non aveva niente a che fare con l'omicidio di Mary.
+2488236	eng	Getting busted isn't fun.
+2488237	ita	Tom dichiarò che non aveva niente a che fare con l'omicidio di Mary.
+2488238	ber	Asseɣli deg tfesna ur yelli d urar.
+2488239	ita	Tom ha dichiarato che non aveva nulla a che fare con l'omicidio di Mary.
+2488240	ita	Tom dichiarò che non aveva nulla a che fare con l'omicidio di Mary.
+2488241	eng	I was a second lieutenant in the special forces.
+2488242	por	Ele trabalhou duro para sustentar uma família grande.
+2488243	ber	Lliɣ d adugenses deg yiɣallen usligen.
+2488244	por	É muito generoso de sua parte me ajudar.
+2488245	ita	Farsi arrestare non è divertente.
+2488246	eng	I was busted to a sergeant.
+2488247	ber	Sseɣlin-iyi deg tfesna, qqleɣ d aseṛjan.
+2488248	eng	I hate to remember the day I was busted.
+2488249	ber	Keṛheɣ ad d-mmektiɣ ass aydeg ay iyi-sseɣlin deg tfesna.
+2488250	ita	Ho messo in moto la macchina.
+2488251	eng	I resigned from the army immediately after I got busted.
+2488252	ita	Io ho messo in moto la macchina.
+2488253	ita	Misi in moto la macchina.
+2488255	ber	Ffɣeɣ-d seg yigen akken kan ay iyi-sseɣlin deg tfesna.
+2488256	ita	Io misi in moto la macchina.
+2488257	eng	There was a sergeant that I particularly hated in the army.
+2488258	por	O teu gato está acima do peso.
+2488259	ber	Yella yiwen n useṛjan, d netta ay keṛheɣ akk deg yigen.
+2488260	eng	Everybody feared the lieutenant colonel.

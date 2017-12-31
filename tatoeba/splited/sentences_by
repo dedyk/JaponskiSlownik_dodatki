@@ -1,37 +1,3 @@
-2647079	eng	That was Tom's fault.
-2647080	eng	That was predictable.
-2647081	eng	That was our problem.
-2647082	eng	That was my strategy.
-2647083	eng	That was my question.
-2647084	eng	Thanks for this, Tom.
-2647085	eng	Thanks for the party.
-2647086	eng	Thanks for the offer.
-2647087	eng	Thanks for the fruit.
-2647088	eng	Thank you for dinner.
-2647089	eng	Thank you for before.
-2647090	eng	Thank you for asking.
-2647091	eng	Tell Tom your theory.
-2647092	eng	Tell Tom he can't go.
-2647093	eng	Stop doing that, Tom.
-2647094	eng	Step in here, please.
-2647095	eng	Stay with us tonight.
-2647096	eng	Someone's in my room.
-2647097	eng	Somebody was in here.
-2647098	eng	Show Tom your bruise.
-2647099	eng	Show Tom the picture.
-2647100	eng	Shove it in the slot.
-2647101	eng	See you tomorrow, OK?
-2647102	eng	See you on the plane.
-2647103	eng	See you at Christmas.
-2647104	eng	Put it on Tom's desk.
-2647105	eng	Put it in the drawer.
-2647106	eng	Perhaps Tom is right.
-2647107	eng	One of them was mine.
-2647108	eng	None of this matters.
-2647109	eng	None of this is true.
-2647110	eng	None of this is real.
-2647111	eng	None of that matters.
-2647112	rus	Как называется столица Зимбабве?
 2647113	eng	My son's name is Tom.
 2647114	eng	My car's been stolen.
 2647115	eng	Maybe you were wrong.
@@ -102,7 +68,7 @@
 2647180	eng	Fasten your seatbelt.
 2647181	eng	Everyone was so busy.
 2647182	eng	Everyone has to stay.
-2647183	eng	Does Tom have reason?
+2647183	eng	Does Tom have a reason?
 2647184	eng	Does Tom have a plan?
 2647185	eng	Does Tom have a boat?
 2647186	eng	Does Tom do it right?
@@ -1053,7 +1019,6 @@
 2648132	eng	Here, have a drink.
 2648133	eng	Here are my papers.
 2648134	eng	Help is on the way.
-2648135	eng	Have you seen, Tom?
 2648136	eng	Have fun, you guys.
 2648137	eng	Hang in there, Tom.
 2648138	eng	Go and have a look.
@@ -3626,7 +3591,7 @@
 2650837	mar	विमान बरोब्बर नऊ वाजता पोहोचलं.
 2650838	deu	Ich liebe Hamburger.
 2650839	mar	तुम्हाला ते का विकायचं आहे?
-2650840	rus	Мне нравятся гамбургеры.
+2650840	rus	Я обожаю гамбургеры.
 2650841	mar	तुला ते का विकायचं आहे?
 2650842	mar	तुम्ही ते का विकू इच्छिता?
 2650843	mar	तुझी बहीण तिथे शिकते का?
@@ -5360,7 +5325,7 @@
 2652700	epo	Mi vivas en Kataro.
 2652701	epo	Mi loĝas en Kataro.
 2652702	heb	אני חיה בקטאר.
-2652703	eng	The atrociticies of the king astounded his people
+2652703	eng	The atrociticies of the king astounded his people.
 2652704	eng	Her skin was white as milk and she had not a single blemish anywhere.
 2652705	pol	Wprawdzie znam ją z imienia, ale nie kojarzę jej twarzy.
 2652706	rus	Всё меняется.
@@ -5900,7 +5865,7 @@
 2653261	mar	माझं पेन वापरू नका.
 2653262	mar	परिपूर्ण!
 2653263	mar	ते अमेरिकन वाटतात.
-2653264	mar	ते अमेरिकन वाटतायत.
+2653264	mar	ते अमेरिकन वाटताहेत.
 2653265	deu	Wie verstehst du diese Sätze?
 2653266	mar	माझी सुरी धारधार आहे.
 2653267	deu	Wie verstehen Sie diese Sätze?
@@ -6589,7 +6554,7 @@
 2653998	jpn	トムは夕食からずっと部屋で勉強している。
 2653999	heb	אני רוצה להיות איתך לנצח.
 2654001	spa	La fiesta terminó con un discurso del organizador.
-2654002	swe	Du kommer att förstå att jag berättar sanningen.
+2654002	swe	Du kommer att förstå att jag säger sanningen.
 2654003	heb	אני רוצה לרדת בתחנה הקרובה.
 2654004	swe	Jag drack inte vattnet.
 2654005	jpn	トムはずっと勉強をしている。
@@ -6627,12 +6592,12 @@
 2654038	swe	Hassan gick till skolan.
 2654040	swe	Han åt äpplet.
 2654041	swe	Jag skall läsa boken.
-2654042	swe	Vetenskapen är viktig för våra liv.
+2654042	swe	Vetenskap är viktigt för våra liv.
 2654043	spa	Organizar los juegos olímpicos en un lugar con mucha contaminación atmosférica da lugar a un gran riesgo para los atletas.
 2654044	epo	Ŝi estas evidenta klaĉulino.
 2654045	swe	Jag tror inte att två språk är tillräckligt.
 2654046	epo	Ŝi provis naĝi.
-2654047	swe	Jag vill leva i staden.
+2654047	swe	Jag vill bo i staden.
 2654048	swe	Jag ser huset.
 2654049	spa	El príncipe organizará pronto un gran baile.
 2654050	swe	Hur gammal är din son?
@@ -6883,7 +6848,7 @@
 2654307	deu	Wenn er mich nicht abgeholt hätte, wäre ich jetzt nicht hier.
 2654308	eng	You must do your homework.
 2654309	eng	You're doing it ass backwards.
-2654310	swe	Du måste göra din läxa.
+2654310	swe	Du måste göra dina läxor.
 2654311	eng	Don't screw up. My ass is on the line.
 2654312	eng	I eat a book.
 2654313	swe	Jag äter en bok.
@@ -6937,7 +6902,7 @@
 2654363	eng	She tried to hide her anger.
 2654364	eng	I could not walk.
 2654365	deu	Sie versuchte, ihren Ärger zu verbergen.
-2654366	swe	Det finns en katt i lådan.
+2654366	swe	Det är en katt i lådan.
 2654367	epo	La problemo pri vi estas, ke vi tro parolas.
 2654368	hin	अपने पति की मृत्यु के बाद मित्रों के फोन और पत्रों से नेन्सी को काफी सांत्वना मिली।
 2654369	eng	He has a platinum credit card.
@@ -6945,7 +6910,7 @@
 2654371	eng	She has a gold credit card.
 2654372	eng	Nancy received much solace from the cards and phone calls received from friends in the weeks after her husband died.
 2654373	epo	Bonvolu depreni min de la hotelo je la sesa.
-2654374	swe	Jag frågar henne en fråga.
+2654374	swe	Jag ställer henne en fråga.
 2654376	eng	They both have a diamond credit card.
 2654377	hin	उनके खर्च घटाने के प्रयास ज़्यादा सफल नहीं हुए।
 2654378	swe	Det här är mitt hus.
@@ -6954,7 +6919,7 @@
 2654381	swe	Jag kan inte äta.
 2654382	epo	Mi jam delonge ne plu kradrostis.
 2654383	eng	I laid my new clothes on the bed.
-2654384	swe	Jag lokaliserar programvaran.
+2654384	swe	Jag översätter programvaran.
 2654385	swe	Jag har ett hjärta.
 2654386	dan	Det nye hus er her.
 2654387	swe	Jag har en katt.
@@ -6975,11 +6940,11 @@
 2654402	swe	Jag gick inte till skolan.
 2654403	swe	Den här dörren är inte låsbar.
 2654404	swe	Denna dörr är inte låsbar.
-2654405	swe	Jag skall äta äpplet.
+2654405	swe	Jag ska äta äpplet.
 2654407	hin	तथापि, यह नोट करना उपयुक्त है कि यह प्रक्रिया अगले वर्ष जारी रहेगी।
 2654408	eng	It is, however, apposite to note that this process will continue in the year ahead.
 2654409	dan	Hvor længe har du tænkt dig at blive her i Brasilien?
-2654410	swe	Kärleken är en viktig sak.
+2654410	swe	Kärleken är viktig.
 2654411	swe	Jag ska äta äpplet.
 2654412	epo	Mi ankoraŭ neniam vidis NIFOn.
 2654413	hin	इक्का-दुक्का गोलीबारी की आवाज सुनने के अलावा दिन भर काफी शांति बनी रही।
@@ -7021,7 +6986,7 @@
 2654449	eng	I am so disappointed.
 2654450	spa	Hace mucho que no hago una barbacoa.
 2654451	hin	भारत में आप हिमालय क्षेत्र में ऐसे अनेक साधुओं को देख सकते हैं जिन्हें भविष्यदर्शी कहा जा सकता है।
-2654452	eng	In India, you can found many saints in the Himalayan region who can be called as prescient.
+2654452	eng	In India, you can find many saints in the Himalayan region who could be called prescient.
 2654453	ina	Nos apprende del genitores como repeter lor errores con nove variationes.
 2654454	hin	न तो वन्य जीवों और न ही घरेलू जीवों को मृत्यु का पूर्वाभास होता है।
 2654455	epo	Jen la nova domo.
@@ -7344,7 +7309,7 @@
 2654802	eng	We won the contest!
 2654803	swe	Vi vann tävlingen!
 2654804	eng	I understand your words.
-2654805	swe	Jag förstår dina ord.
+2654805	swe	Jag förstår vad du säger.
 2654806	eng	Do you have a dictionary?
 2654807	swe	Har du en ordbok?
 2654808	dan	Har du en ordbog?
@@ -7724,7 +7689,7 @@
 2655201	deu	Gute Gedanken tragen gute Früchte; schlechte Gedanken tragen schlechte Früchte.
 2655202	hin	अपना हाथ आगे बढ़ाने से कभी मत हिचकिए।
 2655203	epo	La ekonomio estas bona.
-2655204	eng	Never Hesitate to hold out your hand.
+2655204	eng	Never hesitate to hold out your hand.
 2655205	hin	दूसरे का आगे बढ़ा हाथ थामने से भी कभी मत हिचकिए।
 2655206	eng	Never hesitate to accept the outstretched hand of another.
 2655207	deu	Man kann nicht alles haben. Wohin sollte man’s auch verstauen?
@@ -8312,7 +8277,7 @@
 2655822	epo	Ni finas la kontrakton per reciproka konsento.
 2655823	deu	Was für Schmuck wirst du zu diesem Kleid tragen?
 2655824	deu	Was für Schmuck werden Sie zu diesem Kleid tragen?
-2655825	swe	Har du svårt med att förstå vad kvinnor och barn säger till dig?
+2655825	swe	Har du svårt att förstå vad kvinnor och barn säger till dig?
 2655826	bel	Я не магу жыць без цябе.
 2655827	epo	Humaneco konsistas el tio, ke neniam homo oferiĝas por iu celo.
 2655828	bel	Maju nadzieju, što ty heta razumieješ.
@@ -8981,7 +8946,7 @@
 2656540	por	Isto era dirigido indiretamente a mim.
 2656541	epo	La piroj nun ekmaturiĝas.
 2656542	ina	Le travalio es finite a medietate.
-2656543	swe	Var är ditt hus?
+2656543	swe	Var ligger ditt hus?
 2656544	epo	La piroj jam komencas iĝi maturaj.
 2656545	epo	La piroj jam komencas maturiĝi.
 2656546	por	Só a metade do trabalho é que está feita.
@@ -9430,7 +9395,7 @@
 2657009	eng	He quickly disappeared in the crowd.
 2657010	spa	Yo haré que tú tengas un aumento de sueldo después del primer año.
 2657011	eng	Good always triumphs over evil.
-2657012	eng	I will make that you will have an increase of your salary after one year
+2657012	eng	I will ensure that your salary increases after one year.
 2657013	eng	Don't you dare come here again!
 2657016	eng	I have a little bit of money with me.
 2657017	srp	Добро увек побеђује зло.
@@ -10644,7 +10609,7 @@
 2658281	heb	אם תדבר בקלינגונית, לא אבין.
 2658282	deu	Tom, Maria hat schon einen Freund.
 2658283	heb	למה ללמוד קלינגונית?
-2658284	epo	Tom, Maria jam havas koramikon.
+2658284	epo	Tomo, Manjo jam havas koramikon.
 2658285	heb	אני חייל קלינגוני.
 2658286	eng	Klingon has to be the most useless language.
 2658287	por	Essas atividades escapam ao nosso controle.
@@ -11145,7 +11110,7 @@
 2658800	ukr	Двері відчинилися.
 2658801	ukr	Двері розчинилися.
 2658802	deu	Dieses Angebot endet am 15. August 1999.
-2658803	mar	त्याची बहीण अमेरिकेला जात नाही.
+2658803	mar	त्याची बहीण अमेरिकेला जात नाहीये.
 2658804	mar	हा ब्रेडचा एक प्रकार होता.
 2658805	mar	हा पावाचा एक प्रकार होता.
 2658806	deu	Tom war ein Schulfreund von mir.
@@ -11280,7 +11245,7 @@
 2658936	pol	Mówił bardzo głośno.
 2658937	deu	Tom sagte Maria, dass sie recht habe.
 2658938	pol	Przyjdę się z tobą spotkać w następną niedzielę.
-2658939	epo	Tom diris al Maria, ke ŝi pravas.
+2658939	epo	Tomo diris al Manjo, ke ŝi pravas.
 2658940	deu	Es bestand ein Freundschaftsvertrag zwischen den Vereinigten Staaten und Mexiko.
 2658941	deu	Mache dir keine Sorgen um den Laden! Ich schließe ab!
 2658942	pol	Jesteś gotowy do wyjścia?
@@ -12204,7 +12169,7 @@
 2659929	por	As árvores sombreiam a praça.
 2659930	ina	Il habeva un disproportion obvie inter le fortias del duo adversarios.
 2659931	fra	Il est intelligent, pas sage cependant.
-2659932	epo	Kiam vi legas la historion de krimegulo, antaŭ ol vi kondamnos lin, ĉiam danku la bonvolan ĉielon, kiu ne metis vin kun via honesta vizaĝo en la komenco de tia vico de cirkonstancoj.
+2659932	epo	Kiam vi legas la historion de krimegulo, antaŭ ol vi kondamnos lin, ĉiam danku la bonvolan ĉielon, kiu ne metis vin kun via honesta vizaĝo en la komencon de tia vico de cirkonstancoj.
 2659933	deu	Höflich tat Tom so, als bemerke er nicht, dass Maria geweint hatte.
 2659934	por	Havia uma desproporção evidente entre as forças dos dois adversários.
 2659935	fra	Il respecte son père.
@@ -13497,7 +13462,7 @@
 2661287	rus	Том не мог сдержать свой гнев.
 2661288	rus	Мой отец всегда говорил, что деньги - это не всё.
 2661289	rus	Могу я тебя поцеловать?
-2661290	rus	Я повредил мою левую руку.
+2661290	rus	Я повредил левую руку.
 2661291	hun	Mindig ez történik a zsarnokokkal!
 2661292	nob	Dessverre kan jeg ikke finne batteriet til kameraet mitt.
 2661293	epo	Bedaŭrinde mi ne povas trovi la baterion por mia kamerao.
@@ -13574,7 +13539,7 @@
 2661369	kor	나는 의사가 아닙니다.
 2661370	deu	Maria besuchte ihren Ehemann im Gefängnis.
 2661371	rus	Я не имею никакого отношения к аварии и ничего не знаю.
-2661372	epo	Maria vizitis sian edzinon en la malliberejo.
+2661372	epo	Manjo vizitis sian edzon en la malliberejo.
 2661373	rus	У меня есть ключ.
 2661374	nld	Het regent veel, het jaar door.
 2661376	hun	Tartsunk 10 perc szünetet.
@@ -14257,7 +14222,7 @@
 2662082	fin	Kuinka korkea luku!
 2662083	fin	Aion syödä omenan.
 2662084	fin	Syön omenan.
-2662085	epo	Neniu ekspektis, ke li anoncos sian kandidatiĝon denove.
+2662085	epo	Neniu atendis, ke li anoncos sian kandidatiĝon denove.
 2662086	fin	Rakkaus on tärkeä asia.
 2662087	nob	Den ene dagen var lik den andre.
 2662089	fin	Tätä ovea ei voi lukita.
@@ -14834,7 +14799,7 @@
 2662682	eng	If you have a problem with that, talk to the boss.
 2662683	eng	I'm too tired to deal with this problem right now.
 2662684	eng	I don't think you'll have the same problems I had.
-2662685	eng	I don't think Tom's going to be a problem anymore.
+2662685	eng	I don't think Tom is going to be a problem anymore.
 2662686	eng	Has Tom been having problems with anyone recently?
 2662687	eng	At first, I thought it might be a serious problem.
 2662688	eng	Were you aware Tom was having financial problems?
@@ -15011,7 +14976,7 @@
 2662859	eng	It's going to be a little bit of a problem.
 2662860	eng	Is that going to be a problem for you, too?
 2662861	eng	If you have any more problems, let me know.
-2662862	eng	I've no idea what's causing these problems.
+2662862	eng	I have no idea what's causing these problems.
 2662863	eng	I've never had this kind of problem at work.
 2662864	eng	I was unaware that Tom was having problems.
 2662865	eng	I think you're oversimplifying the problem.
@@ -21623,7 +21588,7 @@
 2669703	deu	Er hatte einen Hund gekauft.
 2669704	deu	Das war peinlich.
 2669705	eng	This field is not well cultivated.
-2669706	swe	Detta fält är inte väl odlat.
+2669706	swe	Detta fält är inte välodlat.
 2669707	deu	Das war ungeschickt.
 2669708	cmn	你最好不要和那样的男人们交往。
 2669709	cmn	我昨天遇到的少年叫托尼。
@@ -21737,7 +21702,7 @@
 2669821	epo	Ĉagrenas min, se oni subtaksas min.
 2669822	ukr	Я прийшов за Томом.
 2669823	rus	Он рубит лес в горах.
-2669824	ukr	Хто викладає у вас німецьку?
+2669824	ukr	Хто викладає вам німецьку?
 2669825	rus	Он выбежал из магазина.
 2669826	lit	Graži mergina atitraukė jo dėmesį.
 2669827	rus	Он мебельщик.
@@ -21822,7 +21787,7 @@
 2669914	ukr	Мені б дуже хотілося побачити будинок Тома зсередини.
 2669915	ukr	Цей письменник - росіянин.
 2669916	fin	Appelsiinit tarkoittavat onnellista rakkautta kun taas sitruunat vastakaiutonta.
-2669917	ukr	Креаціонізм - псевдонаука.
+2669917	ukr	Креаціонізм — псевдонаука.
 2669918	tur	Arapça öğreniyorum.
 2669919	fin	Ehkä minun ei pitäisi kertoa tätä sinulle, mutta olen täysin lumoutunut kauneudestasi.
 2669920	fin	Oli silkkaa nautintoa viettää ilta sinunlaisesi fiksun, hauskan ja kauniin tytön kanssa.
@@ -22450,7 +22415,7 @@
 2670573	fin	Nussin montaa ystävää.
 2670574	fin	Panin useita ystäviä.
 2670575	fin	Mitä vittua täällä oikein tapahtuu?
-2670576	epo	Hodiaŭ estas proksimume same varma, kiel hieraŭ.
+2670576	epo	Hodiaŭ estas proksimume same varme, kiel hieraŭ.
 2670577	ita	Dove siete andate tutte per Capodanno?
 2670578	rus	Том может починить обогреватель.
 2670579	fin	Me ollaan ihan poikki kun me pantiin koko päivä.
@@ -22518,7 +22483,7 @@
 2670644	ita	Porca merda! Il mio vecchio ex è un ladro!
 2670645	ita	Porca merda! La mia vecchia ex è una ladra!
 2670646	tur	Elbette bir arabaya ihtiyacım olacak.
-2670649	tur	Şunu yapmamalısın.
+2670649	tur	Şunu yapmaman gerekir.
 2670650	tur	Onun hiçbir şeye ihtiyacı yok.
 2670651	tur	Kanını istiyorum.
 2670652	epo	La familio White alvenos en Tokio je la deka kaj duono.
@@ -22538,7 +22503,7 @@
 2670666	tur	Onun neye ihtiyacı var?
 2670667	tur	O, neye sahip olmalı?
 2670668	epo	Ŝi estis tiel kompleza, pruntedoni monon al mi.
-2670669	tur	Bir arabam olmak zorunda.
+2670669	tur	Bir araba sahibi olmalıyım.
 2670670	fin	Nykyään on todella yleistä kuulla ihmisten sanovan: "Tuo nyt on aika loukkaavaa", ihan kuin se antaisi heille tiettyjä oikeuksia. Se on vain valitusta. Sillä ei ole merkitystä, ei tarkoitusta, eikä perusteita saada kunnioitusta lauseena. "Tuo on minusta loukkaavaa." Niin, mitä vittu sitten?
 2670671	ita	Sei sicuro di non volere aspettare fino a domani?
 2670673	ita	Sei sicura di non volere aspettare fino a domani?
@@ -22983,7 +22948,7 @@
 2671126	rus	Я выполню эту работу к десяти часам.
 2671127	nob	Etter denne skuffelsen jeg trenger trøst.
 2671128	epo	Post ĉi tiu elreviĝo mi bezonas konsolon.
-2671129	deu	Ich weiß nicht genau, ob er die Arbeit vor dem Urlaub gemacht haben wird.
+2671129	deu	Ich weiß nicht, ob er bis zum Urlaub mit dieser Arbeit fertig wird.
 2671130	rus	Я не знаю, сделает ли он эту работу до отпуска.
 2671131	deu	Es handelt sich um einen Betrag von 1000 Dollar.
 2671132	nld	Ik kom uit Rusland.
@@ -26059,7 +26024,7 @@
 2674366	epo	Mi havas paron da ruĝaj ŝuoj.
 2674367	deu	Zürich, die größte Stadt der Schweiz, ist ein schönes und bezauberndes Reiseziel.
 2674368	lit	Tomas galvoja parduoti namą.
-2674369	eng	I you don't fold your clothes or hang them, they will be wrinkled.
+2674369	eng	If you don't fold your clothes or hang them, they will be wrinkled.
 2674370	epo	Mi ĉiam petveturas.
 2674371	epo	Pri kio vi estas okupata?
 2674372	eng	I'm often here.
@@ -26511,7 +26476,7 @@
 2674861	por	O jogo de palavras foi, de algum modo, traduzido.
 2674862	deu	Tom wollte seinen Sohn Gandalf nennen.
 2674863	deu	„Wenn ich ein Kind bekomme, nenne ich es Tatoeba.“ – „Das halte ich für keine so gute Idee.“
-2674864	epo	Li estas nun jam dum dek du jaro sen akuzo aŭ verdikto en la fifama malliberejo en Golfo de Guantanamo sur Kubo.
+2674864	epo	Li estas nun jam dum dek du jaroj sen akuzo aŭ verdikto en la fifama malliberejo en Golfo de Guantanamo sur Kubo.
 2674865	nob	Flere ganger har han blitt lovet løslatelse.
 2674866	ina	Io spera que tu convalescentia progrede securmente.
 2674867	deu	Sie weinte und betete für die arme Inge.
@@ -30026,7 +29991,7 @@
 2678517	tur	Ciddi değildin, değil mi?
 2678518	nob	Hver eneste dag går jeg med en klump inni meg som gjør ubeskrivelig vondt.
 2678519	rus	Я не могу поверить, что она только что сказала это.
-2678520	epo	La rosto difektas la feron.
+2678520	epo	La rusto difektas la feron.
 2678521	tur	Uyuyordun, değil mi?
 2678522	epo	En ĉiu tago mian koron premas pezo, kaŭzanta nepriskribeblan doloron.
 2678523	spa	Estabas durmiendo, ¿verdad?
@@ -32048,7 +32013,7 @@
 2680625	pol	Lepiej weź parasol.
 2680626	rus	Кто твой любимый гонщик?
 2680627	pol	Może być.
-2680628	rus	Кто твой любимый автогонщик?
+2680628	rus	Кто у тебя любимый автогонщик?
 2680629	rus	Фома любит готовить для Маши.
 2680630	spa	No estoy seguro de querer ver esto.
 2680631	pol	Mam prośbę.
@@ -32105,7 +32070,6 @@
 2680683	por	Sua escrita é trabalhada cuidadosamente até os últimos detalhes.
 2680684	rus	Мне удалось успеть на последний поезд.
 2680685	rus	Мне удалось сесть на последний поезд.
-2680686	rus	Мне удалось поймать последний поезд.
 2680687	por	Apesar das aparências, Tom come muito.
 2680688	rus	Я поеду на переднем сиденье.
 2680689	por	Os irmãos Grimm reuniram contos de fadas de toda a Alemanha.
@@ -33484,19 +33448,19 @@
 2682153	eng	She has the beauty of a Greek statue.
 2682154	deu	Wir luden unsere neuen Nachbarn zu einem Umtrunk ein.
 2682155	eng	My father bathes before eating.
-2682156	cmn	吃晚饭以前我爸爸洗澡。(chi1 wan3fan4 yi3qian2, wo3ba4ba xi3zao3.)
+2682156	cmn	吃晚饭以前我爸爸洗澡。
 2682157	eng	His clock is more expensive than mine.
 2682158	eng	"I enjoy my life and make good money," said Tom.
 2682159	eng	"I work on a farm," said Tom.
-2682160	cmn	他的钟比我的贵。 （ta1de zhong1 bi3 wo3de gui4.)
+2682160	cmn	他的钟比我的贵。
 2682161	eng	He lives down on 4th avenue.
 2682162	eng	He was searched by the police.
 2682163	eng	She invited me to eat.
-2682164	cmn	她请我吃饭了。(ta1 qing3 wo3 chi1fan4 le.)
+2682164	cmn	她请我吃饭了。
 2682165	eng	How sexy she is!
-2682166	cmn	她真美丽。（ta1 zhen1 mei3li4.)
+2682166	cmn	她真美丽。
 2682167	eng	He has a pretty house.
-2682168	cmn	他的房子很漂亮。(ta1de fang2zi hen3piao4liang4.)
+2682168	cmn	他的房子很漂亮。
 2682169	cmn	我在读你的书。
 2682170	cmn	我在讀你的書。
 2682171	eng	All of your brothers and sisters are married. When are you going to get married?
@@ -33515,7 +33479,7 @@
 2682185	deu	Nein! Ich hasse Broccoli!
 2682186	cmn	你不该吸烟。
 2682187	cmn	我不要一辆车。
-2682188	cmn	明天你得来这儿。(ming2tian1 ni3 dei3 lai2 zher4.)
+2682188	cmn	明天你得来这儿。
 2682189	cmn	你以前在那儿，对不对？
 2682190	eng	I love your bag.
 2682191	eng	It's Saturday night.
@@ -33899,7 +33863,7 @@
 2682591	fin	Puhumme joko kiinaa tai sitten emme puhu ollenkaan.
 2682592	fin	He suorittivat asennetutkimuksen.
 2682595	fin	Minun pitäisi saada vähän lepoa.
-2682596	tur	Sen zeki bir çocuksun.
+2682596	tur	Sen zeki bir erkek çocuksun.
 2682597	fin	Hän on minun päällikköni.
 2682598	tur	Uzun süre burada olmayacağım.
 2682599	fin	Tiesin mitä tarkoitit.
@@ -36546,7 +36510,7 @@
 2685378	ita	Che ne dice di giocare a tennis?
 2685379	ara	هل سبق و أن استمعت لهذه الأغنية بالفرنسية؟
 2685380	ita	Che ne dite di giocare a tennis?
-2685381	ces	yaxshimisiz?
+2685381	uzb	Yaxshimisiz?
 2685382	rus	Я обожаю вкус грибов.
 2685383	epo	Lial studentoj jam ellitiĝas je la sesa horo? Ĉar la vendejego fermiĝas jam je la sesa kaj duono.
 2685384	deu	Soll ich Ihnen helfen mit der Kiste?
@@ -41372,7 +41336,7 @@
 2690418	est	Lähme joome teed ja sööme šokolaadi!
 2690419	eng	Let's drink tea and eat chocolate!
 2690420	epo	Ŝi ofte decidas instinkte.
-2690421	nld	Laten we drinken thee en eten chocola!
+2690421	nld	Laten we thee drinken en chocolade eten!
 2690422	tur	Yapmak istediğiniz her şeyi yapabilirsiniz, elbette.
 2690423	rus	Автобус ехал по длинной и извилистой дороге.
 2690424	epo	Via demando fakte iam stariĝis al mi.
@@ -44367,7 +44331,7 @@
 2693496	eng	The emperor Theodosius made Christianity the state religion and banned other religions.
 2693497	epo	Boligu tricent gramojn da rizo!
 2693498	eng	Tom works sloppily.
-2693499	epo	Tom perdis la fidon de siaj kolegoj.
+2693499	epo	Tomo perdis la fidon de siaj kolegoj.
 2693500	deu	Tom hat das Vertrauen seiner Kollegen verloren.
 2693501	eng	Louis the 14th, known as the "Sun King", brought about the golden age of the French absolute monarchy.
 2693502	epo	La infanoj kolektas semojn kun malsamaj formoj kaj koloroj.
@@ -45078,7 +45042,7 @@
 2694248	epo	Ĉe la elekto de aŭtunaj kaj vintraj ŝuoj por infanoj gravas konsideri, ke la ŝuo devas esti kaj akvorezista kaj spiranta, kaj prefere havu fortikan plandumon.
 2694249	dan	Ludvig den 14., kendt som "Solkongen", skabte det franske enevældes guldalder.
 2694250	eng	I am late because I overslept.
-2694251	eng	what did you do yesterday.
+2694251	eng	What did you do yesterday?
 2694252	jpn	雨は嫌いだけど、雨の匂いは好き。
 2694253	dan	Ludvig den fjortende, kendt som Solkongen, skabte det franske enevældes guldalder.
 2694254	dan	Ludvig den fjortende, kendt som Solkongen, skabte den franske enevældes guldalder.
@@ -45721,10 +45685,10 @@
 2694918	spa	Estoy bastante seguro de que Tom entiende francés.
 2694920	tur	Soğuk bir şeyler içmek istiyorum.
 2694921	yue	嗰個女人同佢老公離咗婚。
-2694922	tur	Tenis, öğrenciler arasında çok poülerdir.
+2694922	tur	Tenis, öğrenciler arasında çok popülerdir.
 2694923	tur	Çin hakkında bir kitap yazdım.
 2694924	lit	Esu gana tikras, kad Tomas supranta prancūziškai.
-2694926	tur	Pasaportumu bir yerde kaybettim.
+2694926	tur	Pasaportumu bir yerde bıraktım.
 2694927	lit	Aš nedirbsiu tau.
 2694928	rus	Я весьма уверен, что Том понимает французский.
 2694929	lit	Šis dizainas primena jo ankstyvesnįjį kūrinį.
@@ -47875,7 +47839,7 @@
 2697193	spa	Intentó darle más fueza a su voz.
 2697194	deu	Maria wünschte sich, dass man ihr Teddybären mit ins Grab legen möge.
 2697195	por	Tom percebeu que seria impossível chegar a um acordo com Mary.
-2697197	epo	Maria deziris, ke oni metu pluŝursojn en ŝian tombon.
+2697197	epo	Manjo deziris, ke oni metu pluŝursojn apud ŝi en ŝia tombo.
 2697198	epo	Nia instruisto ŝategas sian novan aŭton.
 2697200	epo	Donu la ŝlosilon, mi petas.
 2697202	epo	Kion pli vi havas en la poŝo?
@@ -49998,3 +49962,39 @@
 2699471	hun	Nem tudom megszokni a városi életet.
 2699472	deu	Klingelt das Telefon?
 2699473	swe	Var god fyll i enkäten och skicka in den till oss.
+2699474	mar	तुला जे योग्य वाटेल ते कर.
+2699475	mar	मी मागच्या आठवड्यात दोन गाणी लिहिली.
+2699476	mar	टॉमला तर थंड पिजासुद्धा आवडतो.
+2699477	mar	तुझ्याकडे इतके रुमाल का आहेत?
+2699478	mar	तुमच्याकडे इतके रुमाल का आहेत?
+2699479	hun	Szükségem van az elveszett papírokra.
+2699480	hun	Néha jobb, ha hallgatunk.
+2699481	hun	Tomnak szüksége van a segítségünkre.
+2699482	hun	Adjál hozzá több vizet.
+2699483	deu	Es tut mir leid, aber ich muss jetzt fort. Ich habe einen Termin in einer Stunde. Vergiss bitte nicht, mich wieder anzurufen, wenn ich nach Hause komme.
+2699484	hun	Légy szíves, adjál egy pohár vizet.
+2699485	hun	Elkészítetted már az ivólevet?
+2699486	hun	A levelet Bill fogalmazta.
+2699487	hun	Tom egy igaz ember.
+2699488	deu	Ich habe den Termin wegen dringender geschäftlicher Verpflichtungen abgesagt.
+2699489	hun	Kifogott három halat.
+2699490	hun	Van még egy kis víz az üvegben.
+2699492	hun	A falevelek megpirosodtak.
+2699493	deu	Bedauerlicherweise muss ich den Termin für den 27. Februar leider absagen.
+2699494	hun	Meséld el nekem, mit csináltál Havaiban.
+2699495	deu	Eine plötzliche Krankheit zwang sie, den Termin abzusagen.
+2699496	deu	Ich bedauere, Ihnen mitteilen zu müssen, dass ich nicht in der Lage bin, unsere Verabredung für den 27. Februar einzuhalten.
+2699497	ita	È importante che oggi sia una bella giornata.
+2699498	fra	Il est important qu'aujourd'hui soit une belle journée.
+2699499	eng	Some of the managers complained about him becoming the president of the company.
+2699500	eng	There were some managers who complained about him becoming the president of the company.
+2699501	deu	Auf dieser Straße besteht ein hohes Verkehrsaufkommen.
+2699502	deu	Da es auf dieser Straße keine Busverbindung gibt, werden wir laufen müssen.
+2699503	deu	Diese Straße führt in die Stadt.
+2699504	cmn	这是有目共覩的。
+2699505	deu	Dieses Werkzeug eignet sich für viele Zwecke.
+2699506	deu	Dieses Werkzeug ist sehr nützlich.
+2699507	deu	Dieses Werkzeug taugt überhaupt nichts.
+2699508	deu	Wenn es richtig angewendet wird, ist dieses Werkzeug sehr hilfreich.
+2699509	deu	Dieses Werkzeug kann sehr gefährlich sein, wenn es achtlos verwendet wird.
+2699510	nld	Sinds mijn dochter geboren is, heb ik geen tijd meer.

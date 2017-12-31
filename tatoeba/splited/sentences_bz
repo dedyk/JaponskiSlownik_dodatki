@@ -1,39 +1,3 @@
-2699474	mar	तुला जे योग्य वाटेल ते कर.
-2699475	mar	मी मागच्या आठवड्यात दोन गाणी लिहिली.
-2699476	mar	टॉमला तर थंड पिजासुद्धा आवडतो.
-2699477	mar	तुझ्याकडे इतके रुमाल का आहेत?
-2699478	mar	तुमच्याकडे इतके रुमाल का आहेत?
-2699479	hun	Szükségem van az elveszett papírokra.
-2699480	hun	Néha jobb, ha hallgatunk.
-2699481	hun	Tomnak szüksége van a segítségünkre.
-2699482	hun	Adjál hozzá több vizet.
-2699483	deu	Es tut mir leid, aber ich muss jetzt fort. Ich habe einen Termin in einer Stunde. Vergiss bitte nicht, mich wieder anzurufen, wenn ich nach Hause komme.
-2699484	hun	Légy szíves, adjál egy pohár vizet.
-2699485	hun	Elkészítetted már az ivólevet?
-2699486	hun	A levelet Bill fogalmazta.
-2699487	hun	Tom egy igaz ember.
-2699488	deu	Ich habe den Termin wegen dringender geschäftlicher Verpflichtungen abgesagt.
-2699489	hun	Kifogott három halat.
-2699490	hun	Van még egy kis víz az üvegben.
-2699492	hun	A falevelek megpirosodtak.
-2699493	deu	Bedauerlicherweise muss ich den Termin für den 27. Februar leider absagen.
-2699494	hun	Meséld el nekem, mit csináltál Havaiban.
-2699495	deu	Eine plötzliche Krankheit zwang sie, den Termin abzusagen.
-2699496	deu	Ich bedauere, Ihnen mitteilen zu müssen, dass ich nicht in der Lage bin, unsere Verabredung für den 27. Februar einzuhalten.
-2699497	ita	È importante che oggi sia una bella giornata.
-2699498	fra	Il est important qu'aujourd'hui soit une belle journée.
-2699499	eng	Some of the managers complained about him becoming the president of the company.
-2699500	eng	There were some managers who complained about him becoming the president of the company.
-2699501	deu	Auf dieser Straße besteht ein hohes Verkehrsaufkommen.
-2699502	deu	Da es auf dieser Straße keine Busverbindung gibt, werden wir laufen müssen.
-2699503	deu	Diese Straße führt in die Stadt.
-2699504	cmn	这是有目共覩的。
-2699505	deu	Dieses Werkzeug eignet sich für viele Zwecke.
-2699506	deu	Dieses Werkzeug ist sehr nützlich.
-2699507	deu	Dieses Werkzeug taugt überhaupt nichts.
-2699508	deu	Wenn es richtig angewendet wird, ist dieses Werkzeug sehr hilfreich.
-2699509	deu	Dieses Werkzeug kann sehr gefährlich sein, wenn es achtlos verwendet wird.
-2699510	nld	Sinds mijn dochter geboren is, heb ik geen tijd meer.
 2699511	deu	Sie können diese Straße nicht benutzen. Sie wird instand gesetzt.
 2699512	deu	Es gibt eine Bushaltestelle ein Stück die Straße hinunter.
 2699513	deu	Diese Straße führt Sie zum Museum.
@@ -217,7 +181,7 @@
 2699694	hun	Felismered ezt a férfit a fotón.
 2699695	hun	Pontosan tudom, mi történik.
 2699696	fra	Chaque texte joue de ces composantes soit en bousculant leur ordre de manifestation, soit en développant ou en effaçant certaines d'entre elles.
-2699697	tur	Bana sormak istediğin herhangi bir şey var mı?
+2699697	tur	Bana sormak istediğin bir şey var mı?
 2699698	fra	La thèse peut être formulée d'entrée et reprise ou non par une conclusion qui la redouble en fin de séquence.
 2699699	fra	La thèse antérieure peut être sous-entendue.
 2699700	ita	Mi dirai come arrivare a Shinjuku?
@@ -4053,10 +4017,10 @@
 2703702	ita	Ciao, mi sapreste dire dov'è una cabina telefonica?
 2703703	ita	Come posso ignorare un dolore così forte?
 2703704	epo	Mi ne scias, kion vi vere deziras.
-2703706	ita	Dopo essere sceso dal treno ha cercato una cabina telefonica.
-2703707	ita	Dopo essere sceso dal treno lui ha cercato una cabina telefonica.
+2703706	ita	Dopo essere sceso dal treno, ha cercato una cabina telefonica.
+2703707	ita	Dopo essere sceso dal treno, lui ha cercato una cabina telefonica.
 2703708	epo	Se vi havas monon, alpruntu al mi ioman.
-2703709	ita	Dopo essere sceso dal treno lui cercò una cabina telefonica.
+2703709	ita	Dopo essere sceso dal treno, lui cercò una cabina telefonica.
 2703710	epo	Li trompis lin, kredigante lin, ke tio estas vera.
 2703711	ita	Tengo tutte le mie ricevute telefoniche in questa scatola.
 2703712	ita	Io tengo tutte le mie ricevute telefoniche in questa scatola.
@@ -5737,7 +5701,7 @@
 2705457	deu	Tom hat Maria noch nie gemocht.
 2705458	eng	Since my boyfriend is more of an indoors person, we didn't go to the beach, nor to the mountains this summer.
 2705459	deu	Sie werden feststellen, dass die Wirklichkeit sich von ihrem Traum unterscheidet.
-2705460	epo	Tom neniam ŝatis Maria.
+2705460	epo	Tomo neniam ŝatis Manjon.
 2705461	eng	I'm afraid that I failed terribly.
 2705462	deu	Mein Freund ist ein Stubenhocker. Deswegen sind wir in diesem Sommer weder ans Meer noch in die Berge gefahren.
 2705463	epo	Pasis dudek jaroj kaj mi mallernis la germanan.
@@ -5818,7 +5782,7 @@
 2705540	tur	Bu adam Kenyalıdır.
 2705541	deu	Ist Tatoeba ein Hobby oder eine Epidemie? Der Untersuchungsausschuss konnte diese Frage nicht mit Bestimmtheit beantworten. Für mich ist es eine Herausforderung und eine Passion.
 2705542	tur	Onun arabası maviydi. Onun arabası kırmızıydı.
-2705543	tur	Nick ofisime gelmek zorunda değil.
+2705543	tur	Nick'in büroma gelmesi gerekmez.
 2705544	ron	Aceasta este familia ta?
 2705545	eng	My sister didn't say "hello" to me.
 2705546	tur	Onun neden karısını öldürdüğünün sır olduğunu düşünüyorum.
@@ -6253,7 +6217,7 @@
 2706001	heb	אני מדבר עלייך.
 2706002	ron	Sankt Petersburg este un oraș rusesc.
 2706003	heb	איפה החיילים?
-2706004	tur	Okumam gerek.
+2706004	tur	Okumak zorundayım.
 2706005	ron	Unde este restaurantul?
 2706006	jpn	トムはマフィアと縁を切って人生をやり直す決意をした。
 2706007	ron	Unde se află restaurantul?
@@ -6588,7 +6552,7 @@
 2706360	epo	Kial ni ne sukcesas flankenŝovi la malamikan envion, la interatakadon kaj dediĉi nian tutan energion al la laboro por nia komuna celo?
 2706361	por	Qual é o seu telefone?
 2706362	deu	Weshalb schaffen wir es nicht, den feindseligen Neid, die wechselseitigen Angriffe beiseitezuschieben und unsere ganze Kraft der Arbeit für unser gemeinsames Ziel zu widmen?
-2706363	rus	Он умолял о нашей помощи.
+2706363	rus	Он умолял нас о помощи.
 2706364	rus	Он взывал к нашей помощи.
 2706366	eng	Do you have any food?
 2706367	rus	Он умолял меня, чтобы я остался.
@@ -8768,7 +8732,7 @@
 2708681	epo	Ŝi neniam antaŭe tiel timis.
 2708682	ita	Non ci sono scuse per il suo comportamento.
 2708683	ita	Non ci sono scuse per il suo ritardo.
-2708684	por	Tom comprou uma câmera há apenas alguns dias, mas já a perdeu.
+2708684	por	Tom comprou uma câmera há bem poucos dias, e já a perdeu.
 2708686	rus	Тому осталось три месяца до выпуска.
 2708688	rus	Погоди-ка!
 2708689	rus	Завтра я еду в США.
@@ -12295,7 +12259,7 @@
 2712357	vie	Tôi muốn là một nhà báo.
 2712358	fra	Le pompier montra comment éteindre le feu.
 2712359	ita	Io so suonare Chopin.
-2712360	vie	Tôi muốn là một người bơi.
+2712360	vie	Tôi muốn trở thành vận động viên bơi lội.
 2712361	rus	Мы не можем просто сдаться.
 2712362	ita	Qual è il binario di partenza?
 2712363	fra	Cette carton est rempli de pommes.
@@ -12515,7 +12479,7 @@
 2712588	eng	Tom opened his desk drawer and took out a pen.
 2712589	eng	Tom meant it as a joke, but no one was amused.
 2712590	eng	Tom and Mary really seem to be hitting it off.
-2712591	eng	This clock must have belonged to Tom's father.
+2712591	eng	This clock must've belonged to Tom's father.
 2712592	eng	There's a large supermarket not far from here.
 2712593	eng	I can't finish painting this house in one day.
 2712594	eng	You're the very person I've been looking for.
@@ -15191,7 +15155,7 @@
 2715379	epo	Ne tiom da mustardo.
 2715381	epo	Oni envias al mi eĉ la plej etan feliĉon.
 2715382	epo	Eĉ la plej eta afero iritis lin.
-2715383	deu	Bestimme den Wertebereich der Konstanten k derart, dass für eine beliebige reelle Zahl x die quadratische Ungleichung x² + kx − 3k > 0 Bestand hat!
+2715383	deu	Bestimme den Wertebereich der Konstanten 𝑘 derart, dass für eine beliebige reelle Zahl 𝑥 die quadratische Ungleichung 𝑥² + 𝑘𝑥 − 3𝑘 > 0 Bestand hat.
 2715384	epo	En kolizio kun Volvo nia aŭto kompreneble ricevis la pli grandan damaĝon.
 2715385	epo	La grupo de volontuloj provizis manĝaĵon kaj medikamentojn al viktimoj de milito.
 2715386	epo	Nu vidu, vi ne devus labori tiel penade.
@@ -15218,7 +15182,7 @@
 2715407	eng	It's been ten years since I came to live in Shizuoka.
 2715408	eng	It's been forty years since I began to study Japanese.
 2715409	eng	It's been six years since I started to study English.
-2715410	deu	Bestimme die Lösungsmenge der kubischen Gleichung x³ + 2x² − x − 2 = 0.
+2715410	deu	Bestimme die Lösungsmenge der kubischen Gleichung 𝑥³ + 2𝑥² − 𝑥 − 2 = 0.
 2715412	eng	It's already been ten years since we got married.
 2715413	eng	It's already been five years since we began to study English.
 2715414	eng	It's been five years since we moved here.
@@ -15236,7 +15200,7 @@
 2715426	eng	It's been ten years since he came to Japan.
 2715427	eng	It's been ten years since I came to Japan.
 2715428	mar	"हे कोणाचे हेड्फोन आहेत?" "फातिमाचे आहेत."
-2715429	deu	Bestimme die Schnittpunkte des Kreises vom Radius 2 um den Ursprung mit der Geraden y = x − 1!
+2715429	deu	Bestimme die Schnittpunkte des Kreises vom Radius 2 um den Ursprung mit der Geraden 𝑦 = 𝑥 − 1.
 2715430	mar	"हे कोणाचे हेड्फोन आहेत?" "ते फातिमाचे आहेत."
 2715431	mar	"कोण आहे?" "तुझी आई."
 2715432	mar	"कोण आहे?" "तुमची आई आहे."
@@ -15244,7 +15208,7 @@
 2715434	eng	Thanks for the tip.
 2715435	mar	त्या आवाजाने बाळ घाबरलं.
 2715436	eng	We want a woman who's good at cooking.
-2715437	deu	Löse die kubische Gleichung x³ + 2x² − x − 2 = 0.
+2715437	deu	Löse die kubische Gleichung 𝑥³ + 2𝑥² − 𝑥 − 2 = 0.
 2715438	eng	The next time you enjoy filet mignon at the club, send word to the chef that it was excellently prepared, and when a tired salesperson shows you unusual courtesy, please mention it.
 2715439	deu	Wir suchen eine Frau, die gut kochen kann.
 2715440	eng	Both of my parents are still living.
@@ -15727,7 +15691,7 @@
 2715944	eng	Let us hope for the best.
 2715945	ita	Speriamo per il meglio.
 2715947	ita	Quanto sarà epico quel programma?
-2715948	epo	Mia avo estis veras "marurso", tempesthardita maristo, kiu surmare oldiĝis kaj griziĝis.
+2715948	epo	Mia avo estis vera "marurso", tempesthardita maristo, kiu surmare oldiĝis kaj griziĝis.
 2715949	ita	Speriamo per il meglio in ogni caso.
 2715950	ita	Io sono così pieno.
 2715951	ita	Io sono così piena.
@@ -16351,7 +16315,7 @@
 2716602	ben	আমার জন্য রান্না করো।
 2716603	ben	আমার জন্য রান্না কর।
 2716604	fra	Cuisinez pour moi.
-2716605	hun	Ha nem tudjuk egy szó jelentését, legjobb, ha megnézünk egy szótárt.
+2716605	hun	Ha nem tudjuk egy szó jelentését, legjobb, ha megnézzük a szótárban.
 2716606	deu	Von allen Körpern mit gleich großer Oberfläche ist derjenige mit dem größten Rauminhalt die Kugel.
 2716607	ita	Non so come si scrive la parola.
 2716608	ita	Io non so come si scrive la parola.
@@ -16374,7 +16338,7 @@
 2716625	hun	Mindent megiszunk.
 2716626	ben	এই লেখাটা হিব্রুতে, আরামাইকে নয়।
 2716627	hun	Mi történik ebben a városban?
-2716628	tur	Bu şapkanın fiyatı kaç?
+2716628	tur	Bu şapkanın fiyatı nedir?
 2716629	ell	Πόσο κάνει αυτό το καπέλο;
 2716630	tur	Köpeğim yok.
 2716631	tur	Bir bebek gibi yorgunum.
@@ -19004,7 +18968,7 @@
 2719372	jpn	トムは後悔ばかりしている。
 2719373	por	Tom é o típico inglês.
 2719374	por	Você realmente ama o Tom?
-2719375	por	Tom chegou às estação às 3 horas.
+2719375	por	Tom chegou à estação às 3 horas.
 2719376	eng	I should've just stayed home and read a book.
 2719377	por	Tom sempre senta na primeira fileira da sala de aula porque não enxerga bem.
 2719378	por	Você devia ter ido sozinho.
@@ -19874,7 +19838,7 @@
 2720282	deu	Diese Einflüsse förderten die Entwicklung esoterischer religiöser Lehren.
 2720283	fra	Le policier lança beaucoup de grenades lacrymogènes aux manifestants.
 2720284	ina	Io me senti ben quando io es con illa.
-2720285	tur	Polis göstericilere bir sürü biber gazı bombası attı.
+2720285	tur	Polis, göstericilere birçok göz yaşartıcı bomba attı.
 2720286	epo	Tiuj influoj favoris la evoluon de novaj poeziaj skoloj.
 2720287	deu	Diese Einflüsse haben die Entwicklung neuer Dichterschulen begünstigt.
 2720288	por	Sinto muito, mas não concordo.
@@ -23647,7 +23611,7 @@
 2724258	uzb	Мана, менинг телефон номерим.
 2724259	eng	"Where's the water?" "It evaporated."
 2724260	uzb	Тушунмайман.
-2724262	eng	Tom devoted his life to find a solution to the problem.
+2724262	eng	Tom devoted his life to finding a solution to the problem.
 2724263	rus	В этом поезде нет багажного вагона.
 2724264	fra	Aux innocents les mains pleines.
 2724265	rus	"Где вода?" - "Испарилась".
@@ -23892,7 +23856,7 @@
 2724511	eng	I never liked school.
 2724512	eng	I should never have thought, dear boy of mine, that you were so dainty and fussy about your food. Bad, very bad! In this world, even as children, we must accustom ourselves to eat of everything, for we never know what life may hold in store for us!
 2724513	eng	I will not eat the pears if they are not peeled. I don't like them.
-2724514	epo	La serena kaj pozitiva atmosfero en la teamo provizas ĉiujn per aldona energio.
+2724514	epo	La serena kaj favora atmosfero en la teamo provizas ĉiujn per aldona energio.
 2724515	deu	Die heitere und positive Stimmung im Team verleiht allen zusätzliche Energie.
 2724516	eng	"I promise you," answered the marionette, sobbing, "that from now on I'll be good—"
 2724517	eng	Boys always promise that when they want something.
@@ -25190,7 +25154,7 @@
 2725868	eng	As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.
 2725869	fra	Avez-vous aussi entendu miauler un chat ?
 2725870	spa	¿Qué haces para evitarlo?
-2725871	por	A melhor maneira de aprender Francês - residindo num país de língua francesa.
+2725871	por	A melhor maneira de aprender Francês é residir num país de língua francesa.
 2725872	fra	Quand as-tu entendu un chat miauler, la dernière fois ?
 2725873	fra	Quand avez-vous pour la dernière fois entendu un chat miauler ?
 2725874	eng	It's almost like magic.
@@ -27328,7 +27292,7 @@
 2728126	deu	Tom warf Maria ein Seil zu.
 2728127	deu	Tom hat Maria seit Wochen nicht gesehen.
 2728128	jpn	トムは未婚だった。
-2728129	spa	El tiene más suerte que inteligencia.
+2728129	spa	Él tiene más suerte que inteligencia.
 2728130	jpn	父は時間の使い方がうまい。
 2728131	deu	Als ich auf dem Lande lebte, konnte ich des Nachts Millionen von Sternen sehen, doch ich hatte niemanden, mit dem ich ihre Pracht teilen konnte.
 2728132	ina	Hodie nos ha carne rostite de agno.
@@ -27518,7 +27482,7 @@
 2728322	lit	Mano meilė tau yra sunkiai paaiškinama.
 2728323	lit	Jis didžiavosi savo punktualumu.
 2728324	rus	У меня только один брат.
-2728325	lit	Nepamiršk apie mus.
+2728325	lit	Nepamiršk mūsų.
 2728327	lit	Aš noriu, kad tai būtų staigmena.
 2728328	lit	Jis gydytojas, bet taip pat ir rašytojas.
 2728329	lit	Aš turiu tik vieną brolį.
@@ -30116,7 +30080,7 @@
 2731063	spa	A los soldados se les dijo que jamás se rindan.
 2731064	spa	Tony no quería trabajar en una tienda o una fábrica.
 2731065	ara	الجو ممطر
-2731066	eng	It is rainy
+2731066	eng	It is rainy.
 2731067	eng	Which do you like, green tea or black tea?
 2731068	eng	As is often the case with 13 to 19 year olds, she's conceited.
 2731069	eng	As is often the case with teenagers, she's conceited.
@@ -30344,7 +30308,7 @@
 2731309	rus	Я увидел моего дядю, когда шёл в школу.
 2731310	rus	Его жена пострадала в автомобильной аварии и находится в больнице.
 2731311	rus	Это ежедневная газета.
-2731312	eng	I appreciated your kindness
+2731312	eng	I appreciated your kindness.
 2731313	fra	Aucune personne portant ce nom n'est répertoriée dans le registre de l'école.
 2731314	spa	Paseaba cerca de la casa mientras mi amigo venía hacia mí.
 2731315	rus	Жена пилит его весь день напролёт.
@@ -31706,7 +31670,7 @@
 2732704	fra	Ils font les bistrots.
 2732705	fra	Je prends une douche quasiment chaque jour.
 2732706	eng	Adidas and Puma are Bavarian shoe companies started by two rival brothers: Adolf and Rudolf.
-2732707	eng	They are going on a bar-crawl.
+2732707	eng	They are going on a bar crawl.
 2732708	eng	The two brothers never reconciled.
 2732709	rus	Том попросил у Мэри денег в долг.
 2732711	hun	Segítesz majd nekik?
@@ -32519,7 +32483,7 @@
 2733553	deu	Sie können es immer noch machen, wenn Sie wollen.
 2733554	fin	Luulen, että aliarvioit Tomia.
 2733555	fin	Väittely kesti pitkän aikaa, koska kukaan ei myöntänyt olevansa väärässä.
-2733556	deu	Tom möchte, das Maria ihm Gesellschaft leistet.
+2733556	deu	Tom möchte, dass Maria ihm Gesellschaft leistet.
 2733557	eng	She bought a baby chick.
 2733558	deu	Tom möchte das einfach nicht hören.
 2733559	rus	Мы непосредственно никогда не встречались, только переписывались.
@@ -34061,7 +34025,7 @@
 2735165	spa	Es duro traducir una broma a otro idioma.
 2735166	rus	Вы можете дать мне рецепт?
 2735167	ita	È difficile tradurre una barzelletta in un'altra lingua.
-2735168	tur	Bir şakayı başka bir dile çevirmek zordur.
+2735168	tur	Bir fıkrayı başka bir dile çevirmek zordur.
 2735169	tur	Siz beni çıldırtmaktan başka bir şey yapmadınız.
 2735170	ita	Che film hai guardato oggi?
 2735171	epo	Vi devus pensi pri tio kiel ŝanco.
@@ -34914,7 +34878,7 @@
 2736061	spa	Serás famoso.
 2736062	spa	Seréis famosos.
 2736063	spa	Serás famosa.
-2736064	spa	Seréis famosa.
+2736064	spa	Seréis famosas.
 2736065	spa	¿Por qué se quedó en casa en vez de ir a la escuela?
 2736066	spa	Hoy yo visité un museo.
 2736067	ber	Maɣef ay yeqqim deg wexxam yerna ur yeddi ara ɣer uɣerbaz?
@@ -34976,7 +34940,7 @@
 2736128	rus	Чего-нибудь хотите?
 2736129	ara	"أشكرك على مساعدتك لي" "لا شكر على واجب."
 2736130	rus	Ты принимаешь душ каждый день?
-2736131	rus	О Боже, это же мой дом!
+2736131	rus	О боже, это же мой дом!
 2736132	ara	"شكرًا لمساعدتك لي" "عفوا."
 2736133	rus	Я выбежал наружу, и дверь за мной захлопнулась. Было почти минус сорок.
 2736134	rus	Я выбежал наружу, и дверь за мной захлопнулась.
@@ -35801,7 +35765,6 @@
 2737009	rus	Мэри тебя любит.
 2737010	nld	Hij is al een uur aan het spreken.
 2737011	eng	In Asia, French language is often associated with romantism.
-2737012	deu	das feet
 2737013	epo	La virino, staranta tie, estas Manjo.
 2737014	nld	Warmte verandert ijs in water.
 2737015	epo	Festoj estas amuzaj.
@@ -38414,7 +38377,7 @@
 2739736	eng	No news has come in from anywhere.
 2739737	pol	Pijesz herbatę.
 2739738	pol	Pan Smith pije kawę.
-2739739	deu	Kapitäne tragen die Verwantwortung für Schiff und Besatzung.
+2739739	deu	Kapitäne tragen die Verantwortung für Schiff und Besatzung.
 2739740	uig	بۇ نەرسىنىڭ ماڭا ھېچقانداق پايدىسى يوق.
 2739741	deu	Eines Tages wird der Sänger berühmt sein.
 2739742	pol	Tomasz nie pija kawy.
@@ -38811,7 +38774,7 @@
 2740152	rus	Я слишком красивая для этого мира.
 2740153	eng	My mom will freak out.
 2740154	kor	여기 종이와 펜이 있어요?
-2740155	eng	"Hi" "Hello" "What's up?" "Nothing."
+2740155	eng	"Hi." "Hello." "What's up?" "Nothing."
 2740156	rus	Здесь есть лист бумаги и шариковая ручка?
 2740157	eng	Tom is playing with his wooden toys.
 2740158	kor	당신은 어떻게 잤어요?
@@ -39165,7 +39128,7 @@
 2740518	rus	Он — сильный колдун.
 2740519	rus	Мы опасались худшего.
 2740520	rus	Бетти его убила.
-2740521	epo	En ĉinujo mi ofte ricevis jasmenan infuzaĵon.
+2740521	epo	En Ĉinujo mi ofte ricevis jasmenan infuzaĵon.
 2740522	rus	Новые люди — новые законы.
 2740523	epo	Krom malmola fromaĝo ankaŭ estas mola fromaĝo.
 2740524	rus	Пожалуйста, больше не плачь.
@@ -40351,7 +40314,7 @@
 2741793	ita	Io devo arrivare all'ospedale.
 2741794	ita	Non considero Milton bravo come Dante.
 2741795	ita	Io non considero Milton bravo come Dante.
-2741796	bre	Hon Tad a zo en neñv, Hoc’h anv bezet santelaet, Ho rouantelezh deuet dimp, Ho polontez bezet graet War an douar evel en Neñv, Roit dimp hiziv hor bara pemdeziek, Pardonit dimp hor pec’hedoù Evel ma pardonomp d’ar re O deus manket ouzhimp. Ha n’hon lezit ket da gouezhañ en temptadur, Met hon diwallit diouzh an droug.Evel-se bezet graet ! (Amen)
+2741796	bre	Hon Tad a zo en neñv, Hoc’h anv bezet santelaet, Ho rouantelezh deuet dimp, Ho polontez bezet graet War an douar evel en Neñv, Roit dimp hiziv hor bara pemdeziek, Pardonit dimp hor pec’hedoù Evel ma pardonomp d’ar re O deus manket ouzhimp. Ha n’hon lezit ket da gouezhañ en temptadur, Met hon diwallit diouzh an droug. Evel-se bezet graet ! (Amen)
 2741797	ita	Ho sempre voluto possedere una macchina sportiva.
 2741798	ita	Io ho sempre voluto possedere una macchina sportiva.
 2741799	ita	Ho sempre voluto possedere un'auto sportiva.
@@ -40531,7 +40494,7 @@
 2741985	ita	Avresti dovuto farlo con noi.
 2741986	ita	Avreste dovuto farlo con noi.
 2741987	ita	Avrebbe dovuto farlo con noi.
-2741988	spa	Volví de Pekín el mes pasado.
+2741988	spa	Llegué a Pekín el mes pasado.
 2741989	spa	¿Quién te ha contado eso?
 2741990	spa	¿Dónde os conocisteis?
 2741991	epo	Plua esplorado montris, ke la kranio estis frakasita de unu sola forta bato.
@@ -42059,8 +42022,8 @@
 2743604	rus	Она поделила пирог на двоих.
 2743605	epo	Li tondis la branĉetojn de la vinarbustoj kaj la freŝa frondo falis sur la grundon.
 2743606	deu	Er schnitt die Zweige der Weinstöcke und das frische Laub fiel auf den Boden.
-2743607	rus	Я был неправ?
-2743608	rus	Я была неправа?
+2743607	rus	Я был не прав?
+2743608	rus	Я была не права?
 2743609	tur	Tom'un taksi tutacak parası yoktu.
 2743610	tur	Tom ne isterse alabilecek kadar zengindir.
 2743611	eng	I went to the city yesterday, but I'm not going today nor will I tomorrow.
@@ -45753,7 +45716,7 @@
 2747437	tgl	Kapag ika'y kakain ng ganyang kadami, ika'y tataba.
 2747438	por	Ele foi o tipo de criança que sempre se mostrava para os colegas de classe dele.
 2747439	por	Ele foi o tipo de criança que sempre ficava se exibindo para os colegas de classe dele.
-2747440	por	Tom foi um sucesso.
+2747440	por	Tom foi bem-sucedido.
 2747441	eng	Whether you like it or not, you will really die someday.
 2747442	por	Ele é o homem que desenhou a figura.
 2747443	por	Eu ouvi falar que ele não estará nesse país por um longo tempo.
@@ -46865,7 +46828,7 @@
 2748579	ita	Non lo saprà nessuno.
 2748581	deu	Das ist ein ernstes Problem.
 2748582	deu	Der Hund hört auf den Namen John.
-2748583	deu	Bestimme das Volumen des größten geraden Kreiskegels, der sich einer Kugel vom Radius r einbeschreiben lässt.
+2748583	deu	Bestimme das Volumen des größten geraden Kreiskegels, der sich einer Kugel vom Radius 𝑟 einbeschreiben lässt.
 2748584	ita	Vai fuori dalla mia vita.
 2748585	ina	Assecura vos ben.
 2748586	por	Por favor, tenha cuidado.
@@ -49698,7 +49661,7 @@
 2751560	ita	Io ho sentito un'automobile fermarsi di fronte alla casa.
 2751561	ber	Ur ttɛeḍḍilet ara ɣef uɣerbaz.
 2751562	ber	Aɣerbaz ad yebdu deg Yebrir.
-2751563	spa	El me dio un álbum como regalo de cumpleaños.
+2751563	spa	Él me dio un álbum como regalo de cumpleaños.
 2751564	ita	Lascialo parlare.
 2751565	ita	Lasciatelo parlare.
 2751566	ita	Lo lasci parlare.
@@ -49998,3 +49961,40 @@
 2751870	deu	Im längsten Frieden spricht der Mensch nicht so viel Unsinn und Unwahrheit als im kürzesten Kriege.
 2751871	deu	Alle, die ihr eine Ernte wollt, setzt eine Hoffnung nicht bloß voraus, sondern handelt nach ihr.
 2751872	deu	Der Hagestolz hat das Unglück, dass ihm niemand seine Fehler frei sagt, aber der Ehemann hat das Glück.
+2751873	deu	Der kräftigen Jugend alles leichtmachen heißt schwache Anker schmieden.
+2751874	deu	Der vollendete Umgang mit Menschen ist die Fähigkeit, zugleich ehrlich und liebenswürdig zu sein.
+2751875	deu	Ernste Tätigkeit söhnt zuletzt immer mit dem Leben aus.
+2751876	deu	Ich möchte noch heute den Totenschädel des Mannes streicheln, der die Ferien erfunden hat.
+2751877	hun	Jól teljesítették a feladatukat.
+2751878	epo	Mi ŝatus mane karesi ankoraŭ hodiaŭ la kranion de la viro, kiu elpensis la feriojn.
+2751879	deu	In phantasiereichen Menschen liegen, wie in heißen Ländern oder auf Bergen, alle Extreme enger aneinander.
+2751880	deu	Individualität ist überall zu schonen und zu ehren als Wurzel jedes Guten.
+2751881	deu	Ich finde, wir sollten erst etwas Erfahrung sammeln und uns nicht zu früh festlegen.
+2751882	deu	Nur wer irgendein Ideal, das er ins Leben ziehen will, in seinem Inneren hegt und nährt, ist verwahrt gegen die Gifte und Schmerzen der Zeit.
+2751884	deu	Sie konnte ihre Gefühle nicht verbergen.
+2751885	deu	Er konnte seine Gefühle nicht verbergen.
+2751886	deu	Einen besseren Auftakt hätten wir uns nicht wünschen können.
+2751887	eng	We couldn't have wished for a better start of things.
+2751888	deu	Ich möchte, dass du nach Boston fährst.
+2751889	deu	Ich möchte, dass Sie nach Boston fahren.
+2751890	deu	Ich möchte, dass ihr nach Boston fahrt.
+2751891	deu	Das ist nicht, was ich sehen will.
+2751892	deu	Wann möchtest du Tom treffen?
+2751893	deu	Wann möchtet ihr Tom treffen?
+2751894	deu	Wann möchten Sie Tom treffen?
+2751895	nld	Veel mensen op de wereld lijden honger.
+2751896	deu	Was wolltest du mir zeigen?
+2751897	deu	Was wollten Sie mir zeigen?
+2751898	deu	Was wolltet ihr mir zeigen?
+2751899	deu	Wir möchten nur, dass du glücklich bist.
+2751900	deu	Wir möchten nur, dass Sie glücklich sind.
+2751901	deu	Wir möchten nur, dass ihr glücklich seid.
+2751902	deu	Ich möchte hier bei dir bleiben.
+2751903	deu	Ich möchte hier bei euch bleiben.
+2751904	deu	Ich möchte hier bei Ihnen bleiben.
+2751905	nld	Enkele mensen op de wereld lijden honger.
+2751906	deu	Ich möchte so glücklich wie Tom sein.
+2751907	deu	Ich möchte Tom ehrlich helfen.
+2751908	nld	Tom heeft veel vrienden.
+2751909	deu	Möchtest du wissen, wer ich bin?
+2751910	deu	Möchten Sie wissen, wer ich bin?

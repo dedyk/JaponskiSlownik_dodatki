@@ -1,29 +1,3 @@
-2115333	epo	Mi ne kontraŭdiras ilin.
-2115334	fin	Koeta pärjätä!
-2115335	heb	אינני מנתק אותם מהשטקר.
-2115337	fin	Pitäkää hauskaa!
-2115338	heb	אינני משכנע אותם.
-2115339	heb	אינני משכנעת אותם.
-2115340	heb	אינני משכנע אותן.
-2115341	heb	אינני משכנעת אותן.
-2115342	heb	אינני מתייחס אליהם כאל ידידיי.
-2115343	heb	אינני מתייחסת אליהם כאל ידידיי.
-2115344	fin	En uskalla luvata mitään.
-2115345	heb	אינני מתייחס אליהן כאל ידידותיי.
-2115346	epo	Ŝuoj ŝanĝas la vivon. Demandu Cindrulinon!
-2115347	heb	אינני מתייחסת אליהן כאל ידידותי.
-2115348	jpn	彼が走った。
-2115350	heb	הצטיידתי בשביל דייג תת-ימי.
-2115351	fin	Miten niin?
-2115352	heb	התגרתי.
-2115353	fin	Mikä sinua vaivaa?
-2115354	heb	כדי להגיע לגרמניה עברנו דרך שווייץ.
-2115355	epo	Mi neniam volis suferigi Tomon.
-2115357	heb	כולאי הברק מושכים את המטען החשמלי.
-2115358	dan	Sko ændrer dit liv. Spørg Askepot.
-2115359	epo	Manjo tiel belas!
-2115360	heb	חייל שיילחם.
-2115361	heb	אינני מחרים אותם.
 2115362	heb	אינני מחרים אותן.
 2115363	heb	אינני מחרימה אותם.
 2115364	heb	אינני מחרימה אותן.
@@ -691,7 +665,7 @@
 2116074	deu	Tom steht in der Ecke des Zimmers.
 2116075	deu	Tom steht in der Zimmerecke.
 2116076	deu	Tom betrat Marias Zimmer.
-2116077	epo	Tom eniris la ĉambron de Maria.
+2116077	epo	Tom eniris la ĉambron de Manjo.
 2116078	epo	Subite ekmallumiĝis ekstere.
 2116079	epo	Li evitas min.
 2116080	epo	Tom staras en la angulo de la ĉambro.
@@ -800,7 +774,7 @@
 2116188	epo	Ĉu tiuj homoj estas la samaj, kiujn vi vidis hieraŭ?
 2116189	eng	Not here!
 2116190	epo	Ĉu eblas, ke ekzistas komputilo, kiu estas sufiĉe saĝa por diri ŝercon?
-2116191	toki	jan Ton li kepeken e ko nasa li kama nasa.
+2116191	toki	jan Ton li kepeken e ilo nasa li kama nasa.
 2116192	dan	Fodbold er mere populær end tennis.
 2116193	deu	Das Saunabaden stimulierte mich.
 2116194	tur	Aynı fikirde değil gibi görünüyor.
@@ -2388,7 +2362,7 @@
 2117876	rus	Она моя старшая сестра.
 2117877	rus	Лед превращается в воду, когда нагревается.
 2117878	spa	Puedo venir a las tres.
-2117879	rus	В руке он держит ручку.
+2117879	rus	В руке он держал ручку.
 2117880	spa	El portón se cierra a las ocho.
 2117882	rus	Как по мне, я очень доволен результатом того теста.
 2117883	spa	No todo país es miembro de la ONU.
@@ -3828,6 +3802,7 @@
 2119429	por	Eu gosto disso.
 2119430	por	Curto isso.
 2119431	heb	זו הדרך שלי.
+2119432	por	Eu gosto disto.
 2119433	heb	זו השיטה שלי.
 2119434	heb	זה הסגנון שלי.
 2119435	heb	הגעתי מאוחר מהרגיל.
@@ -5724,16 +5699,16 @@
 2121485	epo	Estas danĝere purigi fenestrojn de konstruaĵo de apartamentoj.
 2121486	heb	אבל זה לא רלוונטי, כי העיקרון הוא מה שקובע.
 2121487	tur	Biraz para istiyorum.
-2121488	epo	Mi pensis ke mi estas feliĉa.
+2121488	epo	Mi pensis, ke mi estas feliĉa.
 2121489	tur	Bir şey daha istiyorum.
-2121490	epo	Mi pensis ke mi imagas aferojn.
+2121490	epo	Mi pensis, ke mi imagas aferojn.
 2121491	heb	הבה נעשה פסק זמן, ונסתכל על הסיפור מזווית שונה במקצת.
 2121492	tur	Avukat olmak istiyorum.
-2121493	epo	Mi pensis ke mi estis simple bonŝanca.
+2121493	epo	Mi pensis, ke mi estis simple bonŝanca.
 2121494	tur	Sana inanmak istiyorum.
 2121495	heb	מה היה אילו הפרשה הייתה מתרחשת בזירה ציבורית שונה?
 2121496	tur	İş değiştirmek istiyorum.
-2121497	epo	Mi pensis ke mi perdas la prudenton.
+2121497	epo	Mi pensis, ke mi perdas la prudenton.
 2121498	epo	Mi pensis, ke mi freneziĝas.
 2121500	epo	Kio estas via plano?
 2121501	heb	בעולם הזה שוררים כללי התנהגות שונים מכל מה שמקובל בחיים הציבוריים.
@@ -5924,7 +5899,7 @@
 2121694	epo	Ŝi revenis post du tagoj.
 2121696	ita	Gli dico che non so come si scrive.
 2121697	ita	Sembrano nomi in codice.
-2121698	rus	Попроси ее дать нам денег.
+2121698	rus	Попроси её дать нам денег.
 2121699	epo	Muso envenis en la ĉambron.
 2121700	heb	עכבר הגיע לחדר.
 2121701	heb	עכבר בא לחדר.
@@ -6885,7 +6860,7 @@
 2122781	heb	לטום יש זמן.
 2122782	epo	Tom malĝustas.
 2122784	epo	Tom enuas.
-2122785	epo	Tom estas morta.
+2122785	epo	Tom estas mortinta.
 2122787	epo	Tom estas surda.
 2122791	ukr	Мені потрібно папір.
 2122792	epo	Tom estas ebria.
@@ -7766,7 +7741,7 @@
 2123809	rus	Если ты не хочешь читать, то не читай.
 2123810	tur	Bu senin işin değil.
 2123811	tur	Tek başına seyahat etmek istiyor.
-2123812	deu	Wegen des heftgen Sturms musste ich mein Zelt abbauen.
+2123812	deu	Wegen des heftigen Sturms musste ich mein Zelt abbauen.
 2123814	tur	Amerika Birleşik Devletlerinde sivil haklar için mücadele 1954 yılında başladı, hükümetin herkese okul açılmak zorunda olduğunu söylediğinde.
 2123815	tur	Bu apartman binadaki diğerlerinden daha büyüktür.
 2123816	deu	Während des Abendessens sahen mich alle an, als sei ich ein Außerirdischer.
@@ -7987,7 +7962,7 @@
 2124082	hun	Fejezd be ezt a feladatot még ma.
 2124083	epo	Pasintsemajne estis vere varma vetero.
 2124084	hun	Múlt héten igazi meleg idő volt.
-2124085	rus	Ее отец посвятил свою жизнь науке.
+2124085	rus	Её отец посвятил свою жизнь науке.
 2124086	epo	Mi venis el la domo rigardi la straton.
 2124087	hun	Kimentem a házból megnézni az utcát.
 2124088	epo	Pli valora estas bona najbaro, ol malbona parenco.
@@ -9660,7 +9635,7 @@
 2125931	tur	Bir kişi bir şeyi ödünç alırken bir melek yüzüne sahip olur fakat onu geri getirirken şeytan yüzüne sahip olur.
 2125933	deu	Er ist ein ganz gewöhnlicher Bürohengst.
 2125934	tur	Biz başlamadan önce, bir şey kırmamak için çok dikkatli olmamız gerektiği konusunda herkesin dikkatini çekmek istiyorum.
-2125935	swe	Jag är kroppsarbetande.
+2125935	swe	Jag är kroppsarbetare.
 2125936	swe	Alice är min mamma.
 2125937	deu	„Tatoeba“ bedeutet auf Japanisch „zum Beispiel“.
 2125938	swe	Jag är inte kroppsarbetande.
@@ -9764,7 +9739,7 @@
 2126062	rus	Он имеет склонность к преувеличению.
 2126063	deu	Die Hauptstadt der Türkei ist Ankara.
 2126064	deu	Die Schere ist nicht scharf.
-2126065	rus	Он имеет склонность все преувеличивать.
+2126065	rus	Он имеет склонность всё преувеличивать.
 2126066	hun	Az ötleted hasonlít az enyémre.
 2126067	hun	A barátaimmal jöttem.
 2126068	rus	Он имеет тенденцию быть высокомерным.
@@ -16367,7 +16342,7 @@
 2133247	fra	As-tu de la religion ?
 2133248	fra	Avez-vous de la religion ?
 2133250	deu	Wir wohnen zehn Minuten von ihm entfernt.
-2133252	fra	Ne jetez pas ce magazine!
+2133252	fra	Ne jetez pas ce magazine !
 2133253	deu	Wir wohnen zehn Minuten von ihr entfernt.
 2133255	heb	אל תזרוק את הנייר הזה!
 2133256	heb	אל תשליך את הנייר הזה!
@@ -16447,7 +16422,7 @@
 2133365	swe	Koppen står på bordet.
 2133366	deu	Sie kann von allen in unserer Klasse am schnellsten laufen.
 2133367	spa	En el jardín botánico vimos muchas plantas exóticas.
-2133368	swe	Där finns en pojke.
+2133368	swe	Det finns en pojke.
 2133369	swe	Pojken har en tidning.
 2133371	swe	Vi bor på Parkgatan.
 2133372	heb	אכול, אם אתה רעב!
@@ -17110,7 +17085,7 @@
 2134080	heb	האם תוכל להלוות לאחי כסף?
 2134081	heb	האם תוכלי להלוות לאחי כסף?
 2134082	heb	האם תוכלו להלוות לאחי כסף?
-2134083	epo	Ŝi ĵaluzas nur pri via juneco.
+2134083	epo	Ŝi envias vin nur pri via juneco.
 2134084	heb	הקווים האלה נפגשים מאונך.
 2134085	heb	האם תתן לאחי הלוואה?
 2134086	heb	האם תוכלי לתת לאחי הלוואה?
@@ -17487,7 +17462,7 @@
 2134521	deu	Sie haben sich vertragen und wurden wieder Freunde.
 2134522	rus	Они помирились и стали снова друзьями.
 2134524	rus	Ты можешь присмотреть за детьми?
-2134529	eng	I can't help being thirsting
+2134529	eng	I can't help being thirsty.
 2134530	rus	Интересно, какой путь короче.
 2134531	fra	Beaucoup de pseudonymes de contributeurs de Tatoeba affirment soit une identité soit une mixité.
 2134532	fra	Le paradoxe de Tatoeba est de nécessiter des natifs tout en attirant des hybrides polyglottes.
@@ -20114,7 +20089,7 @@
 2137379	tur	O harika, değil mi?
 2137380	tur	O böyle başladı.
 2137381	tur	O sadece bir bahane.
-2137382	tur	O bile komik değil.
+2137382	tur	O komik bile değil.
 2137383	por	Todos lembram de seus dias felizes de juventude como a melhor época de sua vida.
 2137385	tur	Bu, bardağı taşıran son damla!
 2137386	por	Está um dia agradável, não é?
@@ -20179,7 +20154,7 @@
 2137446	tur	Kedi halının üstünde.
 2137447	tur	Çocuklar güvende.
 2137448	tur	Konteyner dolu.
-2137449	fra	Tous les hommes rêvent mais pas de la même façon. Ceux qui rêvent de nuit, dans les replis poussiéreux de leur esprit, s'éveillent le jour et découvrent que leur rêve n'était que vanité. Mais ceux qui rêvent de jour sont dangereux, car ils sont susceptibles, les yeux ouverts, de mettre en oeuvre leur rêve afin de pouvoir le réaliser.
+2137449	fra	Tous les hommes rêvent mais pas de la même façon. Ceux qui rêvent de nuit, dans les replis poussiéreux de leur esprit, s'éveillent le jour et découvrent que leur rêve n'était que vanité. Mais ceux qui rêvent de jour sont dangereux, car ils sont susceptibles, les yeux ouverts, de mettre en œuvre leur rêve afin de pouvoir le réaliser.
 2137450	tur	Kalabalık sakinleşti.
 2137451	rus	У него великолепное телосложение.
 2137452	tur	Mandıra çiftçisi öldü.
@@ -21046,7 +21021,7 @@
 2138405	tur	Tom bir muamma ile karşı karşıya.
 2138406	heb	לא הייתה לי אפשרות לענות על השאלה הזאת.
 2138407	spa	A Tom no le gusta el jazz.
-2138408	rus	Это трудный вопрос, чтобы на него ответить.
+2138408	rus	Это вопрос, на который трудно ответить.
 2138409	tur	Tom çamura düştü.
 2138410	heb	לא יכולתי לענות על השאלה הזאת.
 2138411	cmn	在你面前我說不出話來。
@@ -27180,7 +27155,7 @@
 2145075	deu	Willst du deinen Mantel nicht ausziehen?
 2145076	deu	Er sagt, rohes Gemüse sei gesünder.
 2145077	tur	Bana eşlik eder misin?
-2145078	pol	Nie lubi przegrywać
+2145078	pol	Nie lubi przegrywać.
 2145079	deu	Wie kannst du es wagen, Vermessener!
 2145080	tur	Bizimle gelir misin?
 2145081	tur	İşi alacak mısın?
@@ -28301,7 +28276,7 @@
 2146282	pol	Całe wybrzeże Bałtyku w Polsce składa się z piaszczystych plaż.
 2146283	pol	Ona jest twoją nauczycielką?
 2146284	spa	Me compré esta máquina de cabritas super rápida como regalo de navidad.
-2146285	pol	Rada Miejska Lwowa po raz kolejny zwraca uwagę na fałszywe informacje o zamiarze wprowadzenia zakazu rozmów we Lwowie, w języku rosyjskim.
+2146285	pol	Rada Miejska Lwowa po raz kolejny zwraca uwagę na fałszywe informacje o zamiarze wprowadzenia zakazu rozmów we Lwowie w języku rosyjskim.
 2146287	spa	La causa del accidente todavía no está clara.
 2146288	pol	Ona lubi wino.
 2146289	epo	Ili komprenos.
@@ -30475,7 +30450,7 @@
 2148541	hun	Bettynek szép hangja van.
 2148542	srp	Он је мој најбољи пријатељ.
 2148543	eng	The dominance of English is killing the European dialogue.
-2148544	swe	Den här cd kostar tio dollar.
+2148544	swe	Den här cd:n kostar tio dollar.
 2148545	spa	Quiero que encuentres a Tom.
 2148546	slv	On je moj najboljši prijatelj.
 2148547	spa	Quiero que llames a Tom.
@@ -31326,7 +31301,7 @@
 2149445	heb	הרוזן שרטט גרף; רוזן אחר צייר רוזן.
 2149446	rus	Её поведение заронило сомнение в его сердце.
 2149447	rus	Прежде чем смотреть телевизор, закончи домашнее задание.
-2149448	pol	Mieszka sam w tym domu.
+2149448	pol	Mieszkam sam w tym domu.
 2149449	pol	Nie jest bogaty, ale jest szczęśliwy.
 2149450	epo	Kelkaj homoj aŭdas voĉojn, kelkaj vidas spiritojn kaj al kelkaj tute mankas imagopovo.
 2149452	epo	Eĉ nostalgio ne estas kiel je la pasinto.
@@ -31835,7 +31810,7 @@
 2149974	rus	Что тебе нравится делать?
 2149975	rus	Я не могу тебе сказать, что мы делали вчера вечером.
 2149976	hun	Az volt az első benyomásom, hogy diplomatikus politus.
-2149977	hun	Csészébe öntötte a tejet.
+2149977	hun	Egy tálba öntötte a tejet.
 2149978	rus	Куда ты это положишь?
 2149979	rus	Мой брат меня достаёт!
 2149980	hun	Mennyi idő alatt ér a repülőtéri busz a repülőtérre?
@@ -37888,7 +37863,7 @@
 2156335	heb	אני יכול להציע לך סיגריה. או את מעדיפה מקטרת?
 2156336	heb	אני יכול להציע לכם סיגריה. או אתם מעדיפים מקטרת?
 2156337	fra	Il y a un grand cerisier dans le jardin.
-2156338	rus	О, Боже, я уже забыл как ты красива!
+2156338	rus	О боже, я уже забыл, как ты красива!
 2156339	heb	אנחנו חייבים להמתין בסבלנות ונוכל להמשיך במסענו רק כאשר נשתחרר מהשלג.
 2156340	pol	Współczesne koty nie jedzą szczurów.
 2156341	heb	אני רוצה שהוא יפסיק תמיד למחוק את ההערות שלו.
@@ -38127,7 +38102,7 @@
 2156602	epo	Kiom da personoj estas en la bildo?
 2156604	epo	Li estas bonega parolanto.
 2156605	fra	Une chose dont j'ai toujours eu envie, c'est d'aller faire du camping en famille.
-2156606	epo	Ili ĵus manĝas nun.
+2156606	epo	Ili manĝas ĝuste nun.
 2156607	epo	Mi forigis la ligon al la norvega esprimo, kiu kongruas nur kun la angla.
 2156608	epo	Mi ŝatus, ke vi iru.
 2156609	fra	Une chose dont j'ai toujours eu envie, c'est d'apprendre à piloter un avion.
@@ -39409,7 +39384,6 @@
 2157933	hun	Tom segített átöltözni.
 2157934	hun	Ott van néhány alma a kosárban.
 2157935	ita	Era straziante.
-2157936	ita	La mia carta si sta ancora lamentando!
 2157937	ita	Ha un sacco di traffico.
 2157938	lat	Ex luna, scientia.
 2157939	eng	From the Moon, knowledge.
@@ -40207,7 +40181,7 @@
 2158754	eng	Many, however, may wish to know more about this remarkable people from the outset, while some may not possess the earlier book.
 2158755	eng	International languages like English, Spanish, and French do not really have "countries" anymore, but people know their lands of origin.
 2158756	eng	Tagalog has no verbal tenses, but Spanish does. Tagalog, though, has verbal aspects.
-2158757	fra	Voulez-vous coucher avec moi ce soir?
+2158757	fra	Voulez-vous coucher avec moi ce soir ?
 2158758	deu	Wenn die Wissenschaft keine Antwort findet, schlägt die Stunde der Fantasie.
 2158759	lit	Čia yra žiurkė! Pašaukite katę!
 2158760	epo	Se la scienco ne trovas respondon, ekas horo de favoro por la fantazio.
@@ -40743,8 +40717,8 @@
 2159318	fra	Pourquoi êtes-vous venu ici ?
 2159319	fra	Pourquoi êtes-vous venue ici ?
 2159320	fra	Pourquoi êtes-vous venues ici ?
-2159321	fra	Pourquoi es-tu venu ici ?
-2159322	fra	Pourquoi es-tu venue ici ?
+2159321	fra	Pourquoi es-tu venu ici ?
+2159322	fra	Pourquoi es-tu venue ici ?
 2159323	fra	Pourquoi feriez-vous une telle chose ?
 2159324	fra	Pourquoi ferais-tu une telle chose ?
 2159327	fra	Vous ne pouvez pas nous le reprocher.
@@ -43226,7 +43200,7 @@
 2161931	ita	Sta ancora lavorando con Tom?
 2161932	ita	Lei sta ancora lavorando con Tom?
 2161933	ita	Stai ancora vivendo a Boston?
-2161934	deu	Ein Schreck durchzuckte Maria, als der Augenarzt plötzlich seine Sprechstundenhilfe anwies: „Skalpell bitte!“
+2161934	deu	Ein Schreck durchzuckte Maria, als der Augenarzt plötzlich die Worte „Skalpell bitte!“ erklingen ließ.
 2161935	ita	Tu stai ancora vivendo a Boston?
 2161936	epo	Tio estis okulmalferma sperto.
 2161937	ita	Sta ancora vivendo a Boston?
@@ -47201,7 +47175,7 @@
 2166172	rus	В её присутствии он был стеснителен.
 2166173	rus	Твоя мать находится в критическом состоянии.
 2166174	tgl	Di ko masisigurado kung narito siya bukas.
-2166175	tgl	Nilitratuhan ko ang koala.
+2166175	tgl	Nilitratuhan niya ang koala.
 2166176	tgl	Isang hamster na tumatakbo sa isang gulong na walang katigil-tigil sa pag-ikot.
 2166177	tlh	pIj qeS qab laj ghaH.
 2166178	tlh	DaHjaj ram nuqDaq maSop?
@@ -47351,7 +47325,7 @@
 2166332	epo	Vi ne povas eksiĝi nun.
 2166333	epo	Vi ne helpas.
 2166334	rus	Зазвонил дверной звонок.
-2166335	spa	¿A quién le escribiste una carta?
+2166335	spa	¿A quién le escribiste la carta?
 2166336	rus	Ты не помогаешь.
 2166337	rus	Вы не помогаете.
 2166338	spa	He estado solo estos meses.
@@ -49004,7 +48978,7 @@
 2168075	hun	A híd alatt van egy bódé.
 2168076	hun	Tegnap mentem oda.
 2168077	hun	A vulkán ma kétszer kitört.
-2168078	fin	Kurki on Lufthansan vertauskuva.
+2168078	fin	Kurki on Lufthansan symboli.
 2168079	deu	Der Kranich ist das Symbol der Lufthansa.
 2168080	epo	Ĉu vi projektas ion?
 2168081	hun	A foglakozások a jövő héten kezdődnek,
@@ -49365,7 +49339,7 @@
 2168449	deu	Was bezweckst du damit?
 2168450	deu	Ein leidenschaftlicher Raucher, der immer von der Gefahr des Rauchens für die Gesundheit liest, hört in den meisten Fällen auf - zu lesen.
 2168451	ita	Una possibilità gliela darei.
-2168452	deu	Die Kunst ist, einmal mehr aufzustehen, als man umgeworfen wird.
+2168452	deu	Kunst ist, einmal mehr aufzustehen, als man umgeworfen wird.
 2168453	ita	Questo è un romanzo epico.
 2168454	eng	That is an epic novel.
 2168455	ita	Quello è un romanzo epico.
@@ -49998,3 +49972,29 @@
 2169125	spa	Necesitamos nuevos zapatos.
 2169126	ber	Neḥwaj irkasen imaynuten.
 2169127	epo	Ŝi bezonas novajn ŝuojn.
+2169128	fra	Nous avons besoin de nouvelles chaussures.
+2169129	spa	Ustedes necesitan nuevos zapatos.
+2169130	epo	Ni bezonas novajn ŝuojn.
+2169131	por	Precisamos de sapatos novos.
+2169132	lat	Calceis novis egemus.
+2169133	fra	Vous avez besoin de nouvelles chaussures.
+2169134	epo	Vi bezonas novajn ŝuojn.
+2169135	ber	Teḥwajem irkasen imaynuten.
+2169136	lat	Calceis novis egetis.
+2169137	ber	Teḥwajemt irkasen imaynuten.
+2169138	por	Vocês precisam de sapatos novos.
+2169139	spa	Ellos necesitan nuevos zapatos.
+2169140	ber	Ḥwajen irkasen imaynuten.
+2169141	por	Eles precisam de sapatos novos.
+2169142	rus	Я ждал этого.
+2169143	spa	Ellas necesitan nuevos zapatos.
+2169144	lat	Calceis novis egent.
+2169145	rus	Я ожидал этого.
+2169146	epo	Ili bezonas novajn ŝuojn.
+2169147	fra	Ils ont besoin de nouvelles chaussures.
+2169148	eng	They need new shoes.
+2169149	fra	Elles ont besoin de nouvelles chaussures.
+2169150	ber	Ḥwajent irkasen imaynuten.
+2169152	por	Elas precisam de sapatos novos.
+2169153	lat	Eae calceis novis egent.
+2169154	fra	J'ai enlevé mes chaussures.

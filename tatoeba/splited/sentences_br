@@ -1,31 +1,3 @@
-2275365	eng	Don't worry. It's perfectly safe.
-2275366	eng	Don't you believe in miracles?
-2275367	eng	Don't you come near me.
-2275368	eng	Don't you dare answer that.
-2275369	eng	Don't you dare do that.
-2275370	eng	Don't you dare go there.
-2275371	eng	Don't you dare touch anything.
-2275372	eng	Don't you dare touch that.
-2275373	eng	Don't you ever forget that.
-2275374	eng	Don't you ever get lonely?
-2275375	eng	Don't you ever get tired?
-2275376	eng	Don't you ever give up?
-2275377	eng	Don't you ever question anything?
-2275378	eng	Don't you ever shut up?
-2275379	eng	Don't you find it interesting?
-2275380	eng	Don't you find me pretty?
-2275381	eng	Don't you guys feel great?
-2275382	eng	Don't you guys hang out?
-2275383	eng	Don't you have a husband?
-2275384	eng	Don't you have a meeting?
-2275385	eng	Don't you have an accountant?
-2275386	eng	Don't you have any beer?
-2275387	eng	Don't you have any skills?
-2275388	eng	Don't you have anything else?
-2275389	eng	Don't you have work tomorrow?
-2275390	eng	Don't you hear those sirens?
-2275391	eng	Don't you just love it?
-2275392	eng	Don't you just love that?
 2275393	eng	Don't you know the rules?
 2275394	eng	Don't you laugh at me.
 2275395	eng	Don't you lie to me.
@@ -3399,7 +3371,7 @@
 2278847	epo	La nomo devenas el antikvo.
 2278848	pol	Nazwa pochodzi ze starożytności.
 2278849	epo	La celo estis alporti tiun ideon al la mondo de la komputiloj.
-2278850	pol	Celem było przenieść tej idei do świata komputerów.
+2278850	pol	Celem było przenieść tę ideę do świata komputerów.
 2278851	epo	Mi estas tio, kio mi estas, dank' al tio, kio ni ĉiuj estas.
 2278852	pol	Jestem tym, kim jestem, dzięki temu, czym my wszyscy jesteśmy.
 2278853	deu	Weißt du, wie meine Freunde mich beschreiben?
@@ -3574,9 +3546,9 @@
 2279029	ita	Come sono arrivato a questa conclusione?
 2279030	spa	¿Cómo llegué a esa conclusión?
 2279031	eng	This place has not been the same since you left.
-2279033	eng	I`ve been working in this project since begining of September.
+2279033	eng	I've been working on this project since the beginning of September.
 2279034	epo	Tiu loko ne restis la sama post via foriro.
-2279035	epo	Mi laboris en tiu projekto ekde komence de septembro.
+2279035	epo	Mi laboras pri tiu ĉi projekto ekde la komenco de septembro.
 2279037	eng	Who was on the phone this morning?
 2279038	epo	Sinjoro White kaj mi ne estas amikoj. Ni nur estas konatoj.
 2279039	epo	Mi nun estas samalta kiel mia patro.
@@ -4020,7 +3992,7 @@
 2279504	spa	Ahora estoy tocando la guitarra.
 2279505	spa	Deme una oportunidad.
 2279506	hun	Nem vagyok jó németes.
-2279507	eng	The plain crashed breaking road gantries and scaring the drivers.
+2279507	eng	The plane crashed breaking road gantries and scaring the drivers.
 2279508	spa	¿Cuánto se tarda en ir de aquí hasta allí?
 2279509	eng	I have to walk slowly.
 2279510	hun	Nem tudom magam angolul nagyon jól megértetni.
@@ -5082,7 +5054,7 @@
 2280639	rus	Если я забуду, напомни мне, пожалуйста.
 2280640	epo	Mi ne komprenis la eraron.
 2280641	rus	В этом месяце ещё не было дождя.
-2280642	rus	Его нога была укушена крокодилом.
+2280642	rus	Его за ногу укусил крокодил.
 2280643	rus	Крокодил укусил его за ногу.
 2280644	rus	Работай быстро, ешь медленно!
 2280645	spa	Uno reconoce mejor a una persona inteligente por sus preguntas que por sus respuestas.
@@ -5188,7 +5160,7 @@
 2280750	swe	Jag har ingen kommentar.
 2280751	swe	Ett slukhål har bildats mitt i motorvägen.
 2280752	hun	Nyakig gombos blúzt visel.
-2280753	deu	Ein Kluger bemerkt alles, ein Dummer macht über alles seine Bemerkungen.
+2280753	deu	Ein Dummkopf findet immer noch einen Dümmeren, der ihn bewundert.
 2280754	eng	A sinkhole has appeared in the middle of the highway.
 2280756	hun	A szemle havonként kétszer jelenik meg.
 2280757	deu	Nur so viel will ich bemerken, dass, um vollendete Prosa zu schreiben, unter anderm auch eine große Meisterschaft in metrischen Formen erforderlich ist.
@@ -9150,7 +9122,7 @@
 2285058	epo	La lokaj lingvoj estas preskaŭ mortaj.
 2285059	ber	Yerna fell-ak ucebbub awezlan.
 2285060	ber	Yerna fell-am ucebbub awezlan.
-2285061	epo	Kiam ekos la instruado en via lernejo.
+2285061	epo	Kiam ekos la instruado en via lernejo?
 2285062	rus	Ничто не свято.
 2285063	epo	Mi estas en la foto kaj ankaŭ mia instruisto estas en la foto.
 2285064	epo	Kiu deziras lavi mian malpuran aŭton?
@@ -9888,7 +9860,7 @@
 2285841	deu	Warum legen Sie soviel Sturheit an den Tag?
 2285842	epo	Kial vi prezentas vin tiom obstina?
 2285843	deu	Warum führen sie sich so dickschädelig auf?
-2285844	spa	Si la pobreza entre por la puerta, el amor sale volando por la ventana.
+2285844	spa	Si la pobreza entra por la puerta, el amor sale volando por la ventana.
 2285845	epo	Kiu estas la virino kun la ruĝa ĉapelo?
 2285846	epo	Kiu komponis tiun sinfonion?
 2285847	spa	Si la cerveza está en el hombre, la cabeza está en la lata.
@@ -12094,7 +12066,7 @@
 2288297	rus	Он весит сто двадцать два килограмма.
 2288298	swe	Nyheten om de två företagens sammanslagning kom ut igår.
 2288299	swe	Mamma var allt som oftast väldigt upptagen.
-2288300	eng	we concurred with all you are saying
+2288300	eng	We concurred with all you are saying.
 2288301	swe	Jag ser honom ofta.
 2288302	swe	Jag träffar honom ofta.
 2288303	swe	Jag vet bara vad Tom berättade för mig.
@@ -17334,7 +17306,7 @@
 2293756	avk	Lorik sozilir, Lorik sodimzilir.
 2293757	avk	Tiyí bizakapaf.
 2293758	avk	Cué.
-2293759	eng	I admired the beauty of all the colorful flowers
+2293759	eng	I admired the beauty of all the colorful flowers.
 2293760	avk	Pu gadikeem pulviyí da diveon di djuvayá.
 2293761	dan	Da vi lagde an, så vi vores ven på molen.
 2293762	avk	Gomallaniv.
@@ -18961,7 +18933,7 @@
 2295536	deu	Ein Mädchen, hübsch, doch bübisch, war Maria.
 2295537	epo	Iu kun serioza mieno estas parolanta televide pri la problemoj de la estonteco de nia lando.
 2295538	epo	Kia beleta knabino!
-2295539	epo	Maria estis knabino beleta, sed maliceta.
+2295539	epo	Manjo estis knabino beleta, sed maliceta.
 2295540	eng	He talks a lot.
 2295541	deu	Füttere den Vogel!
 2295542	deu	Der Herbst ist meine Lieblingsjahreszeit.
@@ -28107,7 +28079,7 @@
 2305212	jbo	lo vi zdani cu mutce melbi
 2305213	rus	Мой преподаватель сказал мне, что мне следовало уделить больше времени на подготовку своего доклада.
 2305214	deu	Mein Lehrer sagte, ich hätte mehr Zeit auf die Vorbereitung meines Vortrages verwenden sollen.
-2305215	epo	Nun mi volas iom rakonti pri la Unio Eŭropa.
+2305215	epo	Nun mi volas iom rakonti pri Eŭropa Unio.
 2305216	rus	Не будь таким скромным.
 2305217	rus	Не скромничай!
 2305218	epo	Mia instruisto diris al mi, ke mi ne dediĉis sufiĉe da tempo al la preparo de mia prelego.
@@ -31102,11 +31074,11 @@
 2308330	dan	Da det var varmt, var hun våd af sved.
 2308331	epo	Ŝi estas lama je brakoj kaj gamboj.
 2308332	epo	Ne superu la limon de rapideco.
-2308333	epo	Ŝi estas paraplegia.
+2308333	epo	Li estas paraplegia.
 2308334	toki	ona li pali e pan suwi tawa mi.
 2308335	heb	אל תעבור את גבול המהירות המותרת.
 2308336	heb	אל תעברי את גבול המהירות המותרת.
-2308337	epo	Ŝi estas paralizita sube de la talio.
+2308337	epo	Li estas paralizita sube de la talio.
 2308338	heb	אל תעברו את גבול המהירות המותרת.
 2308339	heb	היא נכה בזרועותיה וברגליה.
 2308340	heb	הוא הלך לים.
@@ -31158,8 +31130,8 @@
 2308386	epo	Mi pensas, ke preskaŭ neeble por mi iam revidi mian motorciklon, kiun oni ŝtelis disde mi.
 2308387	spa	Yo estoy viviendo aquí.
 2308388	toki	o moku. sina wile moku anu seme?
-2308389	rus	Несмотря на его ошибки, все его уважали.
-2308390	eng	Despite his errors everyone respected him.
+2308389	rus	Несмотря на его ошибки, все его уважают.
+2308390	eng	Despite his errors everyone respects him.
 2308393	tur	Başarısından hiç memnun değildi.
 2308394	tur	O, iki kitap yazdı.
 2308395	tur	Doğruyu söylemek gerekirse, onun konuşma tarzından hoşlanmadım.
@@ -32105,7 +32077,7 @@
 2309399	ces	Drazí bratři a sestry!
 2309400	epo	Karaj fratoj kaj fratinoj!
 2309401	eng	Tom didn't think Mary would enjoy his party.
-2309402	eng	Tom didn't think Mary would enjoy his party so he didn't invite her.
+2309402	eng	Tom didn't think Mary would enjoy his party, so he didn't invite her.
 2309403	nld	Ik weet niet wat hij in zijn hoofd heeft, om zo een aantrekkelijk voorstel af te wijzen.
 2309404	eng	This is an unprecedented gesture.
 2309405	epo	Ĉi tiu estas senprecedenca gesto.
@@ -33966,7 +33938,7 @@
 2311384	epo	La hotelo havas hejmecan atmosferon.
 2311385	eng	How did you get here so fast?
 2311386	eng	We ate surf and turf.
-2311387	eng	We ate surf n turf.
+2311387	eng	We ate surf 'n' turf.
 2311388	eng	We ate lobster and steak.
 2311389	tur	Bol bol zamanım var ama yeterli param yok.
 2311391	fin	Tom on sairas.
@@ -34452,7 +34424,7 @@
 2311908	bul	Най-накрая спря да вали сняг и времето се затопли.
 2311909	spa	Hoy tengo muchas ganas de ir a pasear.
 2311910	spa	¿Qué lenguas hablas fluidamente?
-2311911	spa	El tiempo no podrías estar mejor.
+2311911	spa	El tiempo no podría estar mejor.
 2311912	bul	Най-накрая истината ни беше разкрита.
 2311913	bul	Най-накрая дойде и моят ред.
 2311914	epo	La kuko estas delikata.
@@ -35460,7 +35432,6 @@
 2312985	mar	कोणतं औषध द्यायचं हे ठरवण्याआधी डॉक्टर सावधगिरीने विचार करतो.
 2312986	mar	तुझं सगळं सामान उचल आणि निघून जा.
 2312987	mar	मला काही घाणेरडे जोक माहीत आहे, पण मी ते सांगत नाही.
-2312988	mar	आपण काय?
 2312989	mar	काय करणार आहोत?
 2312990	mar	कुत्रा तिचा आहे.
 2312991	mar	तो कुत्रा तिचा आहे.
@@ -37887,7 +37858,6 @@
 2315653	swe	Han fällde en grötmyndig kommentar.
 2315654	fra	Le lexique est le lieu dans lequel la culture s'inscrit.
 2315655	ber	Tessawaleḍ tafilippinit?
-2315657	fra	Les différentes langues n'expriment pas les mêmes choses du monde en manière différente.
 2315658	fra	On voit la réalité d'une manière différente.
 2315659	epo	Kontraŭ la stulteco eĉ la dioj estas senpotencaj.
 2315660	fra	Cette réalité peut être découpée de manière différente.
@@ -39203,7 +39173,7 @@
 2317020	pol	Dobra kuchnia jest dobrym lekarzem.
 2317021	epo	Tiu leĝo koncernas la enhavon de la frazoj.
 2317022	rus	Можем ли мы сказать "Нет" Америке?
-2317023	lat	Potemusne dicere "Non" Americae?
+2317023	lat	Possumusne dicere "Non" Americae?
 2317024	epo	Oni ne povas ordoni ion nefareblan.
 2317025	epo	Oni rajtas mensogi.
 2317026	deu	Ich rasiere mir nicht die Beine.
@@ -40686,7 +40656,7 @@
 2318569	epo	Provu cerbumi, almenaŭ ĉi-foje.
 2318570	jbo	mi na'e djuno lo du'u mi kakne lo nu ba xo kau roi zukte ko'a
 2318572	epo	Tom vere bone naĝas, ĉu ne?
-2318573	epo	Mi estas ĉi-tie por negocado.
+2318573	epo	Mi estas ĉi tie por negocado.
 2318574	jbo	mi nalju'o lo du'u lo rupnu be li xo kau mi kansa
 2318576	epo	Ŝi ŝajnis premata de la tempo kaj ofte rigardis al la murhorloĝo.
 2318577	epo	Ĝiru dekstren ĉe la vojkruciĝo.
@@ -44190,7 +44160,7 @@
 2322241	ber	Tettwalimt kan tiliẓri deg wass n Ljemɛa.
 2322242	deu	Hast du schon einmal die Magellanstraße durchquert?
 2322243	fra	Ils ne regardent la télé que le vendredi.
-2322244	epo	Kiajn libroj vi bezonas?
+2322244	epo	Kiajn librojn vi bezonas?
 2322245	ber	Ttwalin kan tiliẓri deg wass n Ljemɛa.
 2322246	fra	Elles ne regardent la télé que le vendredi.
 2322247	epo	He! kamaradoj, malfruiĝas.
@@ -47083,7 +47053,7 @@
 2325242	epo	Vi loĝas ĉe viaj gepatroj.
 2325243	epo	Ni loĝas ĉe niaj gepatroj.
 2325244	epo	Maria loĝas ĉe siaj gepatroj.
-2325245	epo	Ŝi loĝas ĉe siaj gepatroj.
+2325245	epo	Ŝi loĝas ankoraŭ ĉe siaj gepatroj.
 2325246	epo	Li loĝas ĉe siaj gepatroj.
 2325247	epo	Li restis envicigita.
 2325248	epo	Vi restis envicigita.
@@ -47970,7 +47940,7 @@
 2326185	ber	Jane ur tezmir ad d-tini s ttbut anda ay tezdeɣ Marie.
 2326186	fra	Nous ne pouvons dire avec certitude où habite Marie.
 2326187	ber	Ur nezmir ad d-nini s ttbut anda ay tezdeɣ Marie.
-2326188	epo	Mi ne povas diri kun certeco, kie loĝas Maria.
+2326188	epo	Mi ne povas diri kun certeco, kie loĝas Manjo.
 2326189	fra	Vous ne pouvez dire avec certitude où habite Marie.
 2326190	ber	Ur tezmirem ad d-tinim s ttbut anda ay tezdeɣ Marie.
 2326191	ber	Ur tezmiremt ad d-tinimt s ttbut anda ay tezdeɣ Marie.
@@ -48105,18 +48075,18 @@
 2326320	ber	Nessawal taswidit, yerna ula d Karima tessawal-itt.
 2326321	fra	Vous parlez suédois, et Karima aussi.
 2326322	ber	Tessawalem taswidit, yerna ula d Karima tessawal-itt.
-2326323	epo	Maria ne havis sufiĉe da mono.
+2326323	epo	Manjo ne havis sufiĉe da mono.
 2326324	ber	Tessawalemt taswidit, yerna ula d Karima tessawal-itt.
 2326325	fra	Ils parlent suédois, et Karima aussi.
 2326326	ber	Nitni ssawalen taswidit, yerna ula d Karima tessawal-itt.
 2326327	epo	Ni ne havis sufiĉe da mono.
 2326328	epo	Vi ne havis sufiĉe da mono.
 2326329	epo	Ili ne havis sufiĉe da mono.
-2326330	epo	Vi ne povas diri kun certeco, kie loĝas Maria.
+2326330	epo	Vi ne povas diri kun certeco, kie loĝas Manjo.
 2326331	fra	J'ai passé trois ans en prison.
-2326332	epo	Li ne povas diri kun certeco, kie loĝas Maria.
+2326332	epo	Li ne povas diri kun certeco, kie loĝas Manjo.
 2326333	ber	Kkiɣ kraḍ n yiseggasen deg tkurmut.
-2326334	epo	Ŝi ne povas diri kun certeco, kie loĝas Maria.
+2326334	epo	Ŝi ne povas diri kun certeco, kie loĝas Manjo.
 2326335	nld	Ik hoop dat het gebeurt.
 2326336	epo	Ŝi ne komprenis la demandon.
 2326337	epo	Manjo ne komprenis la demandon.
@@ -48212,7 +48182,7 @@
 2326431	epo	Li loĝas en Kairo.
 2326432	epo	Ŝi loĝas en Kairo.
 2326433	urd	انہیوں نے آج کیا کیا؟
-2326436	epo	Maria loĝas en Kairo.
+2326436	epo	Manjo loĝas en Kairo.
 2326437	epo	Mi ne scias, kiom da tempo estos je nia dispono.
 2326438	urd	تم نے پھول کہاں سے خریدے؟
 2326439	epo	Ni loĝas en Kairo.
@@ -48283,13 +48253,13 @@
 2326506	deu	Wir wissen nicht, wo Maria wohnt.
 2326507	epo	Mi provis resti kvieta.
 2326508	hun	Elmehetek a WC-re?
-2326509	epo	Ni ne povas diri kun certeco, kie loĝas Maria.
+2326509	epo	Ni ne povas diri kun certeco, kie loĝas Manjo.
 2326510	epo	Vi uzis la malĝustan buson.
 2326511	epo	Ni uzis la malĝustan buson.
 2326512	epo	Maria uzis la malĝustan buson.
 2326513	epo	Ŝi uzis la malĝustan buson.
 2326514	epo	Li uzis la malĝustan buson.
-2326516	epo	Ili ne povas diri kun certeco, kie loĝas Maria.
+2326516	epo	Ili ne povas diri kun certeco, kie loĝas Manjo.
 2326517	eng	I filled in the blanks.
 2326518	eng	I finally beat Tom at chess.
 2326519	eng	I finally beat Tom.
@@ -48634,7 +48604,7 @@
 2326882	deu	Maria will Bücher kaufen.
 2326883	ber	Ḥemmleɣ Marie akken kan tella.
 2326884	fra	Tu aimes Marie tout simplement comme elle est.
-2326885	epo	Maria volas aĉeti librojn.
+2326885	epo	Manjo volas aĉeti librojn.
 2326886	ber	Tḥemmled Marie akken kan tella.
 2326887	ber	Tḥemmleḍ Marie akken kan tella.
 2326888	fra	Il aime Marie tout simplement comme elle est.
@@ -49697,7 +49667,7 @@
 2328040	epo	Vi farbos la barilon morgaŭ.
 2328041	epo	Li farbos la barilon morgaŭ.
 2328042	epo	Ŝi farbos la barilon morgaŭ.
-2328043	epo	Maria farbos la barilon morgaŭ.
+2328043	epo	Morgaŭ Manjo farbos la barilon.
 2328044	epo	Ni farbos la barilon morgaŭ.
 2328045	spa	Sus padres dijeron que él debía ir a la universidad.
 2328046	deu	Sie kamen am Montag und reisten am nächsten Tag wieder ab.
@@ -49763,7 +49733,7 @@
 2328111	epo	Ŝi transiris la straton.
 2328112	epo	Ŝi iris trans la strato.
 2328113	epo	Maria transiris la straton.
-2328114	epo	Maria iris trans la strato.
+2328114	epo	Manjo iris trans la strato.
 2328115	epo	Ni iris trans la straton.
 2328116	epo	Ni transiris la straton.
 2328117	epo	Ili transiris la straton.
@@ -49771,7 +49741,7 @@
 2328119	epo	Ili malamas Tom.
 2328120	epo	Vi malamas Tom.
 2328121	epo	Ni malamas Tom.
-2328122	epo	Maria malamas Tom.
+2328122	epo	Manjo malamas Tomon.
 2328123	epo	Ken malamas Tom.
 2328124	epo	Ŝi malamas Tomon.
 2328125	epo	Li malamas Tom.
@@ -49789,7 +49759,7 @@
 2328138	deu	Ihr könnt genauso gut Ski fahren wie euer Bruder.
 2328139	deu	Sie können genauso gut Ski fahren wie Ihr Bruder.
 2328140	deu	Wir können genauso gut Ski fahren wie unser Bruder.
-2328141	deu	Maria kann genauso gut Skifahren wie ihr Bruder.
+2328141	deu	Maria kann genauso gut Ski fahren wie ihr Bruder.
 2328142	swe	Man stöter på japanska turister överallt.
 2328143	deu	Sie kann genauso gut Ski fahren wie ihr Bruder.
 2328144	deu	Er kann genauso gut Ski fahren wie sein Bruder.
@@ -49807,7 +49777,7 @@
 2328156	swe	Hon var fem i ett när jag gick och la mig.
 2328157	swe	Hon var fem i ett när jag gick och lade mig.
 2328158	epo	Ni povas skii same bone kiel nia frato.
-2328159	epo	Maria povas skii same bone kiel sia frato.
+2328159	epo	Manjo povas skii same bone kiel sia frato.
 2328160	epo	Ŝi povas skii same bone kiel sia frato.
 2328161	epo	Li povas skii same bone kiel sia frato.
 2328162	swe	Den tjocka tjejen äter för mycket sötsaker med mycket socker i.
@@ -49894,7 +49864,7 @@
 2328248	epo	Li flue parolas la germanan.
 2328249	epo	Tom flue parolas la germanan.
 2328250	epo	Ŝi flue parolas la germanan.
-2328251	epo	Maria flue parolas la germanan.
+2328251	epo	Manjo flue parolas la germanan lingvon.
 2328252	epo	Ni flue parolas la germanan.
 2328253	epo	Ili timas hundojn.
 2328254	deu	Sie haben Angst vor Hunden.
@@ -49904,7 +49874,7 @@
 2328261	deu	Maria hat Angst vor Hunden.
 2328262	deu	Wir haben Angst vor Hunden.
 2328263	epo	Ni timas hundojn.
-2328264	epo	Maria timas hundojn.
+2328264	epo	Manjo timas hundojn.
 2328268	deu	Sie gehen langsam.
 2328269	deu	Wir gehen langsam.
 2328270	deu	Maria geht langsam.
@@ -49912,7 +49882,7 @@
 2328272	deu	Du gehst langsam.
 2328273	deu	Ich gehe langsam.
 2328274	epo	Vi piediras malrapide.
-2328275	epo	Maria piediras malrapide.
+2328275	epo	Manjo piediras malrapide.
 2328276	epo	Ŝi piediras malrapide.
 2328277	epo	Mi piediras malrapide.
 2328278	epo	Ni piediras malrapide.
@@ -49998,3 +49968,33 @@
 2328360	deu	Wer ein WARUM zum Leben hat, erträgt fast jedes WIE.
 2328361	deu	Was der Vater schwieg, das kommt im Sohne zum Reden; und oft fand ich den Sohn als des Vaters entblößtes Geheimnis.
 2328362	deu	Menschen, welche man nicht leiden kann, sucht man sich zu verdächtigen.
+2328363	deu	Ungeliebten Personen rechnen wir die Artigkeiten, welche sie uns erweisen, zum Vergehen an.
+2328364	deu	Neid und Eifersucht sind die Schamteile der menschlichen Seele.
+2328365	deu	Der Gewissensbiss ist, wie der Biss des Hundes gegen einen Stein, eine Dummheit.
+2328366	deu	Der Asket macht aus der Tugend eine Not.
+2328367	deu	Jeder Meister hat nur einen Schüler und der wird ihm untreu, denn er ist zur Meisterschaft auch bestimmt.
+2328368	deu	Der Witz ist das Epigramm auf den Tod eines Gefühls.
+2328369	deu	In der Kunst heiligt der Zweck die Mittel nicht: aber heilige Mittel können hier den Zweck heiligen.
+2328371	deu	Die Mutter der Ausschweifung ist nicht die Freude, sondern die Freudlosigkeit.
+2328372	deu	Man kritisiert einen Menschen, ein Buch am schärfsten, wenn man das Ideal desselben hinzeichnet.
+2328373	deu	Und wenn einer durchs Feuer geht für seine Lehre, was beweist dies! Mehr ist's wahrlich, dass aus eignem Brande die eigne Lehre kommt!
+2328374	deu	So lange man dich lobt, glaube nur immer, dass du noch nicht auf deiner eigenen Bahn, sondern auf der eines andern bist.
+2328375	deu	Von seinen Feinden zu lernen ist der beste Weg dazu, sie zu lieben: denn es stimmt uns dankbar gegen sie.
+2328376	deu	Der Fantast verleugnet die Wahrheit vor sich, der Lügner nur vor andern.
+2328377	deu	Dem wird befohlen, der sich nicht selber gehorchen kann.
+2328378	deu	Deutsch denken, deutsch fühlen — ich kann alles, aber das geht über meine Kräfte.
+2328379	deu	Geld ist das Brecheisen der Macht.
+2328380	deu	Gar nicht von sich zu reden, ist eine sehr vornehme Heuchelei.
+2328381	deu	Wenn die Ehegatten nicht beisammen lebten, würden die guten Ehen häufiger sein.
+2328382	deu	Ja, das Leben ist ein Weib!
+2328383	deu	Alles Unvergängliche — das ist nur ein Gleichnis! Und die Dichter lügen zu viel.
+2328384	deu	Ohne Musik wäre das Leben ein Irrtum.
+2328385	deu	Der Mensch ist ein Seil, geknüpft zwischen Tier und Übermensch — ein Seil über einem Abgrunde.
+2328386	deu	Es ist furchtbar, im Meere vor Durst zu sterben. Müsst ihr denn gleich eure Wahrheit so salzen, dass sie nicht einmal mehr den Durst löscht?
+2328387	rus	Лисы - дикие животные.
+2328388	rus	Один мой друг учится за границей.
+2328389	rus	У меня есть один друг, который учится за границей.
+2328390	dan	De købte det.
+2328391	dan	De købte den.
+2328392	rus	Лягушка, живущая в колодце, не знает о море.
+2328393	epo	Ili aĉetis ĝin.

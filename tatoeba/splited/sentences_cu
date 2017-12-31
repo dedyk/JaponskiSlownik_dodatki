@@ -1,53 +1,3 @@
-3824445	eng	Don't forget to fill the tank with gasoline.
-3824446	eng	You seem to be out of gas.
-3824447	eng	This is a volatile gas.
-3824448	eng	Tom doesn't like working in the garden.
-3824449	eng	We walked around the garden.
-3824450	eng	How did Tom get you to help him clean the garage?
-3824451	eng	I was cleaning the house while Tom was cleaning the garage.
-3824452	eng	Tom is a gangster.
-3824453	eng	I like video games.
-3824454	eng	Do you know this game?
-3824455	eng	Are you ready for today's game?
-3824456	eng	Who won the game?
-3824457	eng	Are you watching the game?
-3824458	eng	Tom played a great game.
-3824459	eng	I'm not too good at this game.
-3824460	eng	Let me finish this game.
-3824461	eng	I'm tired of playing this game.
-3824462	eng	I'm tired of this game.
-3824463	eng	Tom gave me this game.
-3824464	eng	This is a rough game.
-3824465	eng	Dominos is my favorite game.
-3824466	eng	Enjoy the game.
-3824467	eng	I saw the game.
-3824468	eng	Stop talking about the game.
-3824469	eng	We're ready for the game.
-3824470	eng	Tom injured his right knee during the game.
-3824471	eng	Let's play a game.
-3824472	eng	We're going to play a game.
-3824473	eng	We'll plan for the future.
-3824474	eng	Let's go a little further.
-3824475	eng	What you said was very funny.
-3824476	eng	I didn't think it wasn't so funny.
-3824477	eng	Don't you ever have any fun?
-3824478	eng	Do you want to have fun?
-3824479	eng	Tom's party was a lot of fun.
-3824480	eng	Try to have some fun.
-3824481	eng	All the hotels in town are full.
-3824482	eng	The creek was frozen.
-3824483	eng	Where do I know you from?
-3824484	eng	What are you running from?
-3824485	eng	Who are you running from?
-3824486	eng	What's Tom running from?
-3824487	eng	Where's that smell coming from?
-3824488	eng	Who are you hiding from?
-3824489	eng	What's Tom hiding from?
-3824490	eng	I want to know where Tom is from.
-3824491	eng	I asked Tom where he's from.
-3824492	eng	Go back to where you came from.
-3824493	eng	Did you make any friends?
-3824494	eng	Are they your friends?
 3824495	eng	When did you become friends?
 3824496	eng	Why can't we be friends?
 3824497	eng	Are you three good friends?
@@ -170,7 +120,7 @@
 3824615	eng	Tom didn't know what it was for.
 3824616	eng	I'm sure that's what Tom would wish for.
 3824617	eng	Tom didn't find what he was looking for.
-3824618	eng	Tom helped me to buy everything I was looking for.
+3824618	eng	Tom helped me buy everything I was looking for.
 3824619	eng	Here's what you've been looking for.
 3824620	eng	I think those are what we've been looking for.
 3824621	eng	It looks like you've found what you were looking for.
@@ -1099,7 +1049,7 @@
 3825551	eng	Tom knew that he couldn't speak French as well as Mary could.
 3825552	eng	They did all they could.
 3825553	eng	I know you probably don't want to stay much longer, but it would be great if you could.
-3825554	eng	Tom would've stayed if he could.
+3825554	eng	Tom would've stayed if he could've.
 3825555	eng	I'd wait longer if I could.
 3825556	eng	What'll it cost?
 3825557	eng	How much does a bus ticket cost?
@@ -6816,7 +6766,7 @@
 3832396	deu	Ihr wisst, dass ich unrecht habe.
 3832397	rus	Туда им и дорога.
 3832398	por	Lembra-te sempre do tesouro que existe no fundo de tua alma: a clemente chama de compaixão que dá sentido a cada dia de vida.
-3832399	eng	Our students showed remarkable progress
+3832399	eng	Our students showed remarkable progress.
 3832400	cmn	活该。
 3832401	rus	Так им и надо.
 3832402	epo	Ĉiam memoru, ke ekzistas trezoro ĉe la fundo de via animo: la indulgema flamo de  kompato kiu donas signifon al ĉiu tago.
@@ -6833,7 +6783,7 @@
 3832413	deu	Meine Muttersprache ist das Polnische.
 3832414	hun	Ezt látnotok kellene, mert nem lehet szavakkal leírni.
 3832415	epo	La uzado de la angla por komuniki inter japanoj kaj ĉinoj ne nur estas ridinda kaj senefika, sed povas esti eĉ tre danĝera.
-3832416	hun	Ezt hallanotok kellett volna, hogy milyen szépen énekelt a kórus.
+3832416	hun	Hallanotok kellett volna, hogy milyen szépen énekelt a kórus.
 3832417	epo	Uzi la anglan por komuniki inter japanoj kaj ĉinoj ne nur estas ridinde kaj senefike, sed povas montriĝi tre danĝere.
 3832418	hun	Ezt csináljátok utánam, ha meritek!
 3832419	hun	Ezt csináljátok utánam, ha tudjátok.
@@ -7320,7 +7270,7 @@
 3833203	eng	What the mind can conceive, it can achieve.
 3833205	ita	Non ha ragione.
 3833206	ita	Lui non ha ragione.
-3833207	eng	teach your friend to keep smile while clicking picture
+3833207	eng	Tell your friend to keep smiling when someone is taking a picture of her.
 3833209	ita	Lei non ha ragione.
 3833210	ita	Tom non ha ragione.
 3833214	hun	Tomnak nincs igaza.
@@ -10407,7 +10357,7 @@
 3836651	ita	Tom è bellicoso.
 3836652	tur	Saçınız dökülmeye başlayacaktır.
 3836653	tur	Saçınız harika kokuyor.
-3836655	ita	Tom è blilingue.
+3836655	ita	Tom è bilingue.
 3836656	tur	Saçınız harika görünüyor.
 3836659	tur	Bu konudaki tahmininiz benimki kadar iyi.
 3836660	ita	Questo è praticamente impossibile per molti.
@@ -12744,7 +12694,7 @@
 3839345	vie	Tất cả các cậu phản bội tôi.
 3839346	vie	Tom đã bị sốc khi biết tin cha cậu ấy lên cơn đau tim.
 3839347	vie	Một tôn giáo lấy nỗi sợ hãi làm động lực thì không phải là một tôn giáo tốt.
-3839348	vie	Đây không phải cốc trà của tôi. Nó là cốc của Tom.
+3839348	vie	Đây không phải cốc trà của tôi. Nó là cốc của Tôm.
 3839349	vie	Tôi thích cốc trà của tôi.
 3839350	vie	Họ có chung sở thích về âm nhạc.
 3839351	vie	Cái này có thể sẽ làm cậu ngạc nhiên.
@@ -13221,7 +13171,7 @@
 3839833	pes	من به دوستانم خیانت نمی کنم.
 3839834	por	A sua mente não está ocupada com os seus próprios afazeres.
 3839835	pes	من به تو خیانت نکردم.
-3839836	pol	Byłoby pieknie zobaczyć Tomka znowu.
+3839836	pol	Byłoby pięknie znowu zobaczyć Tomka.
 3839837	pes	تمام تان به من خیانت کردید.
 3839838	tur	Tom resme tekrar bakmadı.
 3839839	por	Ninguém conseguiu sugerir uma solução.
@@ -14226,7 +14176,7 @@
 3841002	tur	Oğlan bir köpek satın alıyor.
 3841003	rus	Гляди на размер этого самолёта!
 3841004	tur	"Onu satın almak ister misin?" "Evet."
-3841005	deu	Versprecher.
+3841005	deu	Es war nur ein Versprecher.
 3841006	tur	Değişik kitaplar satın almak istiyor.
 3841007	rus	Я приму девушку на работу, потому что она знает французский.
 3841008	tur	Bu oyunu çocuklar için al.
@@ -14498,7 +14448,7 @@
 3841283	pol	Nie pozwolę na to.
 3841284	swe	Jag drack kaffe på kaféet.
 3841285	tur	Zamanım olduğunda, restorana giderim.
-3841286	swe	När jag har tid, går jag till restaurangen.
+3841286	swe	När jag har tid, går jag på restaurang.
 3841287	pol	Nie przyznam się do winy.
 3841288	swe	Jag drack en kopp kaffe på ett kafé i Stockholm.
 3841289	tur	Sen benim için 10 kitap okudun.
@@ -17797,7 +17747,7 @@
 3844802	deu	Doktor Zamenhof, der der Welt Esperanto verschaffte, sprach außer seiner erschaffenen Sprache noch dreizehn weitere Sprachen.
 3844803	deu	Er kam und ging fort, ohne auch nur „Guten Abend“ zu sagen.
 3844804	hun	Talán a rendőrségen tudnak segíteni.
-3844805	deu	Er kam und ging, ohne auch nur "Gute Nacht" zu sagen.
+3844805	deu	Er kam und ging, ohne auch nur „Gute Nacht!“ zu sagen.
 3844806	hun	Talán a portás tud segíteni.
 3844807	deu	Und sie ging fort, sogar ohne "Gute Nacht" zu sagen.
 3844808	hun	Talán a szomszéd tud segíteni.
@@ -19145,7 +19095,7 @@
 3846208	eng	Here is an apple.
 3846211	fra	Un groupe d'enfants jouent en bas.
 3846218	deu	Sonntags bin ich nicht zuhause.
-3846220	eng	On sundays, I'm not at home.
+3846220	eng	On Sundays, I'm not at home.
 3846223	spa	¿Con quién preferirías salir, con Tom o con John?
 3846224	ita	Non voglio giocare.
 3846225	ita	Io non voglio giocare.
@@ -20411,7 +20361,7 @@
 3847539	nld	Ik dacht dat ik iets hoorde.
 3847540	hun	Megbízhatunk a többiekben?
 3847541	lvs	Kas atļauts Jupiteram, nav atļauts vērsim.
-3847542	eng	How can it happened?
+3847542	eng	How could that have occurred?
 3847544	hun	Megbízhatunk a testvéredben?
 3847545	pol	Jak Tom mógł na to pozwolić?
 3847546	pol	Jak mogłeś na to pozwolić?
@@ -22807,7 +22757,7 @@
 3850358	pol	Potrzebuję pieniędzy, żeby kupić Tomowi prezent.
 3850359	tgl	Masarap ang pagkain sa Tokyo, sabi ko kay Adil.
 3850360	epo	Kiel atendite la prezoj de importitaj varoj plialtiĝis.
-3850361	rus	Ты думаешь можешь купить мою дружбу?
+3850361	rus	Ты думаешь, что можешь купить мою дружбу?
 3850362	hun	Meghalt tíz éve.
 3850363	rus	Это твой офис?
 3850364	rus	Это твой шкафчик?
@@ -23370,7 +23320,7 @@
 3850943	epo	Tomo volis, ke Maria aĉetu al Johano naskiĝtagan donacon.
 3850944	heb	טום רצה שמרי תקנה לג'ון מתנת יום הולדת.
 3850946	rus	Девочка получила награду за хорошее поведение.
-3850947	rus	Каталония маленькая страна по сравнению с другими.
+3850947	rus	Каталония - маленькая страна по сравнению с другими.
 3850948	rus	Том хотел, чтобы Мэри купила Джону подарок на день рождения.
 3850949	epo	Tomaso neniam estis preta.
 3850950	heb	צ'ק בלנקו? דבר כזה אפשר לראות רק בסרטים.
@@ -24127,7 +24077,7 @@
 3851732	pol	Nie wyglądasz zbyt dobrze.
 3851733	pol	Nie wyglądasz, jakbyś się dobrze bawił.
 3851734	pol	Nie wiesz, jaki jest Tom.
-3851735	epo	Ĉirkaŭ ducent tridek bildoj en la kolekto de la Ŝtata Muzeo estas aĵpentraĵoj.
+3851735	epo	Ĉirkaŭ ducent tridek pentraĵoj en la kolekto de la Ŝtata Muzeo estas aĵbildoj.
 3851736	hun	A szavamat adtam, hogy segítek neked.
 3851737	ina	Le patientia es de duo sortas: supportar calmemente le mancantia, e supportar tranquillemente le excesso.
 3851738	rus	Президент казался сильным.
@@ -24850,7 +24800,7 @@
 3852489	fin	Naapurisi ovat valittaneet kovaäänisistä juhlistasi.
 3852490	fra	Je ne lirai plus tes commentaires, ni ne traduirai tes phrases. Avec ton caractère arrogant, je préfère que chacun de nous s'occupe de sa merde séparément.
 3852491	fin	Neuvottelutaitosi eivät ole huonot.
-3852492	fra	J'ai décide de ne plus lire tes commentaires et ne plus traduire tes phrases. Je ne veux plus avoir quoi que ce soit à voir avec un type arrogant comme toi.
+3852492	fra	J'ai décidé de ne plus lire tes commentaires et ne plus traduire tes phrases. Je ne veux plus avoir quoi que ce soit à voir avec un type arrogant comme toi.
 3852493	fra	Tes commentaires ne sont pas uniquement arrogants, mais ils sont également blessants. C'est pour cela que je te prie de ne plus jamais m'écrire quoi que ce soit.
 3852494	fin	Kaulakorusi on kaunis.
 3852495	rus	Мужчины порой преувеличивают свои сексуальные способности.
@@ -26726,7 +26676,7 @@
 3854452	rus	«Ты хочешь быть миллионером?» — «Кто же не хочет?»
 3854454	deu	Das ist eine aus der Luft gegriffene Behauptung.
 3854455	deu	Diese Möbel waren schon in meiner Wohnung, als ich einzog.
-3854456	tur	Tom beceriksiz görünüyor.
+3854456	tur	Tom beceriksiz görünüyordu.
 3854458	tur	Onlar her yerde gibi görünüyor.
 3854460	deu	Tom und Maria mussten alle Möbel beseiterücken, damit die Handwerker den neuen Bodenbelag auslegen konnten.
 3854461	tur	Hiç kimse orada gibi görünmüyordu.
@@ -28576,7 +28526,7 @@
 3856439	pes	به دزدیدن دوچرخه متّهمش کردیم.
 3856443	rus	«123456» — часто используемый пароль.
 3856444	cmn	公司欢迎消费者对他们产品的反馈
-3856445	eng	The company welcomes feedback from consumers who use their products
+3856445	eng	The company welcomes feedback from consumers who use their products.
 3856446	rus	Если ты хочешь, чтобы я ушёл, я так и сделаю.
 3856447	hun	Nem igazán beteg. Ő csak egy lógós.
 3856448	hun	A karrierje elérte a mélypontját. Nem is sejtette, hogy a dolgok hamarosan javulni fognak.
@@ -30021,10 +29971,10 @@
 3857954	rus	Я бы хотел стакан пива.
 3857955	ita	Ormai i giochi per la scaletta sono fatti.
 3857956	ita	Ormai i giochi per la scaletta sono fatti?
-3857957	rus	Том мог бы гордиться вами.
+3857957	epo	Tom estus fiera por vi.
 3857958	ita	Ecco quali sono i brani più votati!
 3857959	tgl	Nilagyan ni Nellie ng malipukon ang mainit na tubig.
-3857960	rus	Том мог бы гордиться тобой.
+3857960	rus	Том був би гордий за вас.
 3857962	ita	Non li spiego.
 3857963	ita	Io non li spiego.
 3857964	ita	Non le spiego.
@@ -30400,7 +30350,7 @@
 3858348	tur	Emin değilim ama belki de Tom çoktan öldü.
 3858349	tur	Tom'un ölmediğine sevindim.
 3858350	epo	Neniu memoras.
-3858351	tur	Tom ve Mary her ikisi de öldü.
+3858351	tur	Tom ve Mary'nin her ikisinin de öldüğünü duydum.
 3858352	hun	Nehéz nekem ezt elhinni.
 3858353	fin	Minun täytyy varmaankin lähteä nyt.
 3858354	fin	Minun täytyy varmaankin miettiä sitä uudelleen.
@@ -30711,24 +30661,23 @@
 3858681	heb	אילצו אותה לוותר.
 3858682	eng	She was forced to give up.
 3858683	rus	Он выступил с обоснованием войны.
-3858684	eng	will you move here again?
-3858685	eng	at least, can i hug you?
+3858684	eng	Will you move back here again?
+3858685	eng	Can I at least hug you?
 3858686	eng	Will you listen to me for a minute?
 3858687	eng	Who defends him?
-3858689	eng	thank you for accepting to meet me.
 3858690	bul	Понеже обикновено могат да се намерят много уебсайтове на дадена тема, обикновено кликвам бутона "Назад", когато попадна на някоя уебстраница с изскачащи реклами. Просто отивам на следващата страница, която ми предлага Google, и се надявам тя да дразни по-малко.
 3858691	eng	Don't talk to your mother like that!
 3858692	bul	Том си разкопча ципа на якето.
 3858693	epo	Mi ne povas trovi la paĝon, kiun mi serĉis.
 3858694	fra	Je ne peux pas trouver la page que j'ai cherchée.
-3858695	eng	your request has been denied because you have no valid residential address
+3858695	eng	Your request has been denied because you have no valid residential address.
 3858696	eng	I cannot find the page I was looking for.
 3858697	eng	can you fix this or not?
 3858698	bul	Том си свали ципа на панталоните.
 3858699	heb	אני לא יכול למצוא את הדף שחיפשתי.
 3858700	heb	אני לא יכולה למצוא את הדף שחיפשתי.
 3858701	bul	Том си отвори раницата.
-3858702	eng	my wife quitted the job after her sister had died
+3858702	eng	My wife quit her job after her sister died.
 3858703	heb	אני לא מצליח למצוא את הדף שחיפשתי.
 3858704	bul	Тя си разкопча ципа на панталоните.
 3858705	heb	אני לא מצליחה למצוא את הדף שחיפשתי.
@@ -33649,7 +33598,6 @@
 3861855	tur	Tom'un yemek yemeyi bitirmek için zamanı yoktu.
 3861856	ita	Quando parte il prossimo autobus?
 3861857	tur	Tom yemek yemeyi bitirdi.
-3861858	ita	Lui!
 3861861	epo	Monumento estis konstruita memore al la mortintoj.
 3861862	tur	Hangisini yapmayı tercih edersin, evde yemek yemeyi mi yoksa yemek yemek için dışarı çıkmayı mı?
 3861863	tur	Yiyecek başka bir şeyimiz var mı?
@@ -34417,7 +34365,7 @@
 3862686	fra	J'aurai dû ajouter plus de sel.
 3862687	tur	Dün, Tom'un evini ziyaret ettim.
 3862688	fra	Tom s'est calmé que bien plus tard.
-3862689	epo	Se vi volas vidi NIFOn, direktu la okulon sur la ĉielo.
+3862689	epo	Se vi volas vidi nifon, direktu la okulon sur la ĉielo.
 3862690	fra	En quoi ça vous regarde?
 3862691	tur	Tom hararetli ve yorgun görünüyordu, ona soğuk bir içecek teklif edip, oturup dinlenmesini söyledim.
 3862692	rus	Я избран.
@@ -35601,7 +35549,7 @@
 3864068	swe	Okej då, du slipper.
 3864070	swe	Jag hann inte.
 3864071	pol	Tom i Mary byli sąsiadami, ale rzadko się widywali.
-3864075	swe	Han hann han.
+3864075	swe	Han hann, han.
 3864076	pol	Tom i Mary byli kolegami w szkole średniej, a zaczęli się spotykać kilka lat po jej ukończeniu.
 3864078	pol	Tom i Mary byli bliskimi przyjaciółmi.
 3864080	swe	Har du någon favoritchokladsort?
@@ -36484,7 +36432,7 @@
 3865055	ina	Inter homines bon, plen de anima, il es facile de portar le carga del vita.
 3865056	por	Entre as pessoas boas, espiritualizadas, é fácil carregar o fardo da vida.
 3865057	spa	Entre la gente buena, espiritualizada, es fácil de llevar la carga de la vida.
-3865058	ita	La fragola cresce selvatica in boschi.
+3865058	ita	La fragola cresce selvatica nei boschi.
 3865059	spa	La frutilla crece salvaje en los bosques.
 3865060	spa	¡Claro!
 3865061	tgl	Kinakain nila ang kalahati ng trigo ng buong mundo.
@@ -36807,7 +36755,7 @@
 3865397	tur	Bütün erkekler bir çocuktur ve bir aile. Aynı hikaye onları yatmaya gönderir ve onları sabah uyandırır.
 3865398	eng	Hello again!
 3865399	rus	Я плоховато играю в камень-ножницы-бумагу. Нет ли такого способа, чтобы обязательно выиграть?
-3865400	eng	None of them is driver.
+3865400	eng	None of them is a driver.
 3865402	eng	Unfortunately this is real.
 3865403	eng	We have some questions for you.
 3865404	eng	Were you born in the twentieth century?
@@ -37924,7 +37872,7 @@
 3866626	tur	Pazardan beri, dükkan kapalı.
 3866627	ita	Prova ad ascoltarlo e saprai ricrederti!
 3866629	rus	Я действительно чувствую себя ужасно.
-3866630	por	Tom e nós queremos que você vá conosco.
+3866630	por	Tom e eu queremos que você vá conosco.
 3866631	rus	Какое у Вас мнение о японской еде?
 3866632	tur	O zamandan beri ona ne oldu?
 3866633	por	Tom falava consigo mesmo.
@@ -38170,7 +38118,7 @@
 3866882	spa	Él perdió prestigio.
 3866883	por	Eis o problema.
 3866884	por	Ame todos, confie em poucos, não faça mal a ninguém.
-3866885	eng	I need to go to the bank to withdraw money
+3866885	eng	I need to go to the bank to withdraw money.
 3866886	por	Eu preciso ir ao banco para sacar dinheiro.
 3866887	por	Isso foi tudo o que você viu?
 3866888	por	Você me conhece muito bem, não é?
@@ -38181,7 +38129,6 @@
 3866893	fra	Tu veux manger quelque chose en particulier ?
 3866894	fra	Tu veux manger quelque chose en particulier, ce midi ?
 3866895	rus	В две недели обернется.
-3866896	eng	In two weeks it will result in.
 3866897	por	Hoje é o último dia de janeiro.
 3866898	rus	Сегодня последний день января.
 3866899	ukr	Сьогодні останній день січня.
@@ -43034,7 +42981,7 @@
 3872074	rus	Давай выпьем ещё пивка.
 3872075	rus	Где моё пиво?
 3872076	spa	¿Sabes quién es su papá?
-3872077	rus	Моя идея было гораздо лучше.
+3872077	rus	Моя идея была гораздо лучше.
 3872078	rus	Я могу ездить на мотоцикле.
 3872079	rus	Я могу ездить на велосипеде.
 3872080	rus	Ты мог сделать лучше.
@@ -43864,7 +43811,7 @@
 3872945	eng	The tunnel was closed to traffic.
 3872946	eng	After a lengthy inspection, the tunnel was reopened to traffic.
 3872947	hun	Nagy forgalmunk van ezen a területen.
-3872948	hun	Hosszas átvizsgálás után, az alagutat újra megnyitották a forgalom számára.
+3872948	hun	Hosszas átvizsgálás után az alagutat újra megnyitották a forgalom számára.
 3872949	hun	Az alagutat biztonságosnak nyilvánították.
 3872950	hun	Az alagutat elzárták a forgalomtól.
 3872951	eng	These rockets are designed for reuse.
@@ -43960,7 +43907,6 @@
 3873043	tur	Ders çalışmam gerek.
 3873044	tur	Köpekleriniz sizi yalıyorsa öldürün.
 3873045	deu	Die Orange schmeckte weder süß noch sauer.
-3873046	eng	they wont in the schoole :)
 3873047	spa	La materia es todo lo que percibimos a través de nuestro organismo.
 3873048	fra	Passe-m’en un bout.
 3873049	deu	Es war reizend von Ihnen, das für uns zu tun.
@@ -44707,7 +44653,7 @@
 3873859	deu	Tom ist der Letzte, den ich jetzt treffen will.
 3873860	deu	Ab Februar nächsten Jahres verbringe ich ein Studienjahr in Australien.
 3873861	deu	Nachdem er geduscht hatte, aß Tom zu Abend.
-3873862	deu	Nachdem er sich von Maria getrennt hatte, ging Tom eine Beziehung mit Adelheid ein.
+3873862	deu	Nachdem er sich von Maria getrennt hatte, ging Tom eine Beziehung mit Elke ein.
 3873863	spa	Él logró usar el vapor para propulsar barcos.
 3873864	spa	Él es un muchacho aplicado en su clase.
 3873865	eng	We had no school today!
@@ -46581,7 +46527,7 @@
 3875833	heb	המים זורמים מההר אל הבקעה.
 3875834	heb	המים בנהר לא זורמים בחזרה אל המעין.
 3875835	heb	זהו משחק משעשע כשכל אחד בתורו משחק תפקיד.
-3875836	fra	J'étais sur le lieu du crime quand c''est arrivé.
+3875836	fra	J'étais sur le lieu du crime quand c'est arrivé.
 3875837	heb	שאלתי אותה מה קרה אבל היא לא רצתה לומר לי.
 3875838	heb	בכל יום מעסיקים אותי הצחוק והדמע, עד שלא נותר לי זמן ללמוד.
 3875839	heb	שאלתי אותה מה קרה אך היא סרבה לספר לי.
@@ -46836,7 +46782,7 @@
 3876100	epo	Oni eksportas multajn varojn translimen.
 3876101	tur	Hiç bu kelimeyi telaffuz ettin mi?
 3876102	nld	Voor het stortbad kan men zijn naaktheid niet verbergen.
-3876103	tur	Hiç bir ağaç budadın mı?
+3876103	tur	Hiç ağaç budadın mı?
 3876104	tur	Hiç yabancı işçileri işe aldın mı?
 3876105	tur	Hiç kızını azarladın mı?
 3876106	tur	Hiç soğuktan titredin mi?
@@ -49033,7 +48979,7 @@
 3878462	cat	el cuc es va començar a rebullir al forat
 3878464	deu	Wahrlich, ich sage euch, was ihr dem geringsten meiner Brüder tut, das habt ihr mir getan.
 3878465	eng	Tom married Mary's sister and Mary married Tom's brother.
-3878466	eng	The most famous landmark in my country are pyramids
+3878466	eng	The most famous landmarks in my country are the pyramids.
 3878467	eng	Be the kindhearted man you always were.
 3878468	por	Você vai morrer em breve.
 3878469	epo	Vi mortos baldaŭ.
@@ -49203,7 +49149,7 @@
 3878639	rus	Это отличный компромисс. Никто не останется неудовлетворенным.
 3878640	deu	Jeder Fluss hat zwei Seiten.
 3878641	hun	Emlékeztetlek, hogy feltételeink pontosan csak hatvan napig érvényesek.
-3878642	rus	Множество людей по всему миру отмечают китайский новый год.
+3878642	rus	Множество людей по всему миру отмечают китайский Новый год.
 3878643	deu	Ich habe ihm nichts Wichtiges zu sagen.
 3878644	rus	Оставайся таким же добрым, как и всегда.
 3878645	rus	Присаживайтесь здесь, пожалуйста.
@@ -49998,3 +49944,57 @@
 3879475	tur	O, 42.caddede bir restoranın önünde.
 3879476	tur	Oraya bugün gidemedim.
 3879477	fra	Aujourd'hui, je n'ai pas pu aller là-bas.
+3879478	tur	İnsanların önünde konuşma hakkında çekingen olmayın.
+3879479	spa	No podía ir.
+3879480	eng	You're not going to shoot me.
+3879481	tur	Çok sayıda insan Royal Palace'nin önünde toplandı.
+3879482	tur	Şöminenin önünde bir masan var mı?
+3879483	eng	You need to be honest with us.
+3879484	rus	Германия хотела, чтобы Россия не принимала участия в войне.
+3879485	tur	O sadece kızların önünde gösteriş yapıyor.
+3879486	tur	Beni müzenin önünde bırakır mısın?
+3879487	ita	Devi essere onesto con noi.
+3879488	ita	Tu devi essere onesto con noi.
+3879489	ita	Devi essere onesta con noi.
+3879490	ita	Tu devi essere onesta con noi.
+3879491	ita	Deve essere onesta con noi.
+3879492	ita	Lei deve essere onesta con noi.
+3879493	ita	Deve essere onesto con noi.
+3879494	ita	Lei deve essere onesto con noi.
+3879495	ita	Dovete essere onesti con noi.
+3879496	ita	Voi dovete essere onesti con noi.
+3879497	ita	Dovete essere oneste con noi.
+3879498	ita	Voi dovete essere oneste con noi.
+3879499	epo	Ĉiu ricevos po du pecojn de la pico.
+3879500	ita	Ce lo dobbiamo portare da casa?
+3879501	tur	Tren istasyonunun önünde genellikle taksiler var.
+3879502	ita	Almeno il sapone mettetelo!
+3879503	ita	Non comprarla!
+3879504	tur	Tren istasyonunu önünde bir sıra var.
+3879505	ita	Non compratelo!
+3879506	ita	Non compratela!
+3879507	tur	Bir genç adam kapının önünde şarkı söylüyor.
+3879508	ita	Non la compri!
+3879509	ita	Non lo compri!
+3879510	eng	I just called you to tell you that I love you.
+3879511	eng	If anything happens, call me.
+3879512	rus	Мне надо выяснить, что на самом деле случилось с Томом.
+3879513	tur	Tom karısının onun önüne koyduğu her şeyi yer.
+3879514	epo	Vi ricevos duonon de la mono nun, kaj la ceteran duonon, kiam la laboro estos plenumita.
+3879515	rus	Том пошёл обратно спать, как будто ничего не случилось.
+3879516	tur	İstasyonun önünde bir kahve dükkanı var.
+3879517	eng	There's half a sandwich in the bag if you're hungry.
+3879518	tur	Bunu çocukların önünde tartışmayalım.
+3879519	eng	I'm doing what's necessary.
+3879520	tur	Onun önünde öfkemi bastırmak zorunda kaldım.
+3879521	tur	Dükkanın önünde uzun bir kuyruk oluştu.
+3879522	tur	Neden bizim binanın önünde itfaiyeler var?
+3879523	ita	Sono fiero di lavorare con te.
+3879524	ita	Io sono fiero di lavorare con te.
+3879525	ita	Sono fiera di lavorare con te.
+3879526	ita	Io sono fiera di lavorare con te.
+3879527	ita	Sono fiera di lavorare con voi.
+3879528	ita	Io sono fiera di lavorare con voi.
+3879529	tur	Seni postanenin önünde karşılayacağım.
+3879530	ita	Sono fiera di lavorare con lei.
+3879531	ita	Io sono fiera di lavorare con lei.
