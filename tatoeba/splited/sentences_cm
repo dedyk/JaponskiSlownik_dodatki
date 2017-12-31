@@ -1,68 +1,3 @@
-3400006	ita	Eccoci qua.
-3400008	ita	La notte è lunga.
-3400009	epo	Kial li provas trude anstataŭi sian fraton?
-3400010	fra	La différence est grande entre la sympathie née de la simple politesse et la sympathie sincèrement ressentie.
-3400013	fra	L'indicateur a ramassé tous les signataires.
-3400014	fra	Ne soyons pas trop sévèrement critiques envers autrui !
-3400016	epo	Mi volas, ke ĉio estu perfekta.
-3400017	fra	Il s'efforce toujours de faire de son mieux.
-3400018	deu	Trainiert eure Willenskraft!
-3400019	deu	Trainiere deine Willenskraft!
-3400020	deu	Trainieren Sie Ihre Willenskraft!
-3400022	ita	Si sforza sempre di fare del suo meglio.
-3400023	ita	Lui si sforza sempre di fare del suo meglio.
-3400024	ita	Sta vivendo alla giornata.
-3400025	ita	Lei sta vivendo alla giornata.
-3400026	dan	Der er ikke luft nok i dette dæk.
-3400027	epo	Li ne kapablis malfermi la skatolon.
-3400029	ita	Il moroso di mia cugina è molto scemo!
-3400031	jbo	a'unaicai
-3400032	ita	Tom è diventato un agente di polizia.
-3400033	ita	Tom diventò un agente di polizia.
-3400034	ita	Tom divenne un agente di polizia.
-3400035	epo	Voku min per tiu numero.
-3400036	epo	Tomo ne volas helpi vin.
-3400037	ita	A Tom non è piaciuto.
-3400038	ita	A Tom non è piaciuta.
-3400039	epo	Li ne bezonos monon.
-3400040	ita	A Tom non piacque.
-3400041	epo	Mi ĵus ricevis tion ĉi.
-3400043	epo	Ŝi vestas sin.
-3400044	ita	Dopo di voi!
-3400045	epo	Kiamaniere regi sian timon?
-3400046	epo	Li instruas.
-3400047	epo	Mi estos en Parizo dum du semajnoj.
-3400048	epo	Bonvolu instali vin sur tiun seĝon kaj atendi.
-3400051	epo	Io estas en mia okulo.
-3400052	epo	Ŝi nuntempe vojaĝas.
-3400053	epo	Mi simple diris, ke mi volas esti amiko de Manjo.
-3400054	epo	Ŝi ne estas tia knabino, kian vi kredas.
-3400055	ita	Non aiuta.
-3400057	ita	Quello non aiuta.
-3400058	deu	Trotz oder vielleicht gerade wegen der Warnung, die da lautete „Diesen Knopf nicht drücken!“, konnte Tom dem Drang, es doch zu tun, nicht widerstehen.
-3400059	fra	Quel taudis !
-3400060	fra	Nous ne vivons pas dans un monde parfait.
-3400061	fra	Je te traiterai en adulte lorsque tu te mettras à te comporter comme tel.
-3400062	fra	Je suis désolé pour ta perte.
-3400063	fra	Il ne capte simplement pas.
-3400064	fra	J'ai plus de problèmes que je peux en compter.
-3400065	epo	Vian tutan atenton vi centru en tio, kion vi faras nun.
-3400066	deu	Konzentrieren Sie Ihre ganze Aufmerksamkeit auf das, was Sie jetzt tun!
-3400067	epo	Tio estas lia sola plezuro!
-3400068	fra	Les recommandations de la commission bi-partisane furent ignorées.
-3400069	deu	Das ist sein einziges Vergnügen!
-3400070	fra	Ne vous frottez jamais les yeux après avoir coupé un piment.
-3400071	epo	Sen praktiko la teorio valoras nenion.
-3400072	deu	Ohne Praxis ist die Theorie wertlos.
-3400073	fra	Ne vous frottez jamais les yeux lorsque vos mains sont souillées.
-3400074	epo	Se iu flatas vin, li certe havas celon.
-3400075	deu	Wenn Ihnen jemand schmeichelt, hat er sicherlich ein Ziel.
-3400076	fra	Ce n'était pas votre intention, si ?
-3400077	fra	Ce n'était pas ton intention, si ?
-3400078	epo	Ekzistas afableco sincera — kaj estas afableco ekstera.
-3400079	fra	Il me supplia de l'accompagner.
-3400080	deu	Es gibt aufrichtige Freundlichkeit — und es gibt äußerliche Freundlichkeit.
-3400081	fra	Il me supplia d'y aller avec lui.
 3400082	fra	Il m'a supplié d'y aller avec lui.
 3400083	epo	La ŝipestro estas sperta konanto de la atmosferaj fenomenoj.
 3400084	fra	Il m'a supplié de l'accompagner.
@@ -1084,7 +1019,7 @@
 3401215	ita	Tu cos'hai deciso?
 3401216	deu	Trinken Sie keinen Alkohol, wenn Sie sich entschieden haben, keinen zu trinken.
 3401217	epo	La somero estas varmega, la vintro — frosta.
-3401218	deu	Der Sommer ist heiß, der Winter — frostig.
+3401218	deu	Der Sommer ist heiß, der Winter frostig.
 3401219	epo	Ne malvastigu la senliman universon, arbitre kreante leĝojn nenecesajn.
 3401220	deu	Verenge nicht das grenzenlose Weltall, indem du willkürlich unnötige Gesetze schaffst!
 3401221	epo	La plej granda malbono de nia tempo estas vanta teoriumado kaj la neglekto de spertoj gajnitaj en la realo.
@@ -1327,14 +1262,14 @@
 3401469	ita	Saresti un'ottima madre.
 3401470	eng	Tom and Mary had lunch at the Ikea restaurant.
 3401471	ita	Tu saresti un'ottima madre.
-3401472	ita	Tom e Mary hanno pranzato al ristorante dell'Ikea.
-3401473	ita	Tom e Mary pranzarono al ristorante dell'Ikea.
+3401472	ita	Tom e Mary hanno pranzato al ristorante dell'IKEA.
+3401473	ita	Tom e Mary pranzarono al ristorante dell'IKEA.
 3401474	eng	Do you know where I can find him?
 3401475	eng	Do you know where I can find her?
 3401476	eng	You owe me big-time.
-3401477	ita	Abbiamo preso due scaffali Billy all'Ikea.
-3401478	ita	Noi abbiamo preso due scaffali Billy all'Ikea.
-3401479	ita	Presumibilmente, un europeo su dieci è concepito in un letto Ikea.
+3401477	ita	Abbiamo preso due scaffali Billy all'IKEA.
+3401478	ita	Noi abbiamo preso due scaffali Billy all'IKEA.
+3401479	ita	Presumibilmente, un europeo su dieci è concepito in un letto IKEA.
 3401482	eng	We pitched our tent in a field.
 3401483	eng	Tom slipped the money in his pocket.
 3401484	eng	We pitched our tent on the bank of the river.
@@ -1350,14 +1285,14 @@
 3401494	ita	Speriamo per domani.
 3401495	eng	She touched the bruise on his arm.
 3401496	tur	Görüyorsun benim hatalarım oluyor, neden benimle gurur duyuyorsunuz?
-3401497	ita	Non sa montare i mobili dell'Ikea.
-3401498	ita	Lei non sa montare i mobili dell'Ikea.
-3401499	ita	Ti piacciono i mobili dell'Ikea?
-3401500	ita	Vi piacciono i mobili dell'Ikea?
-3401501	ita	Le piacciono i mobili dell'Ikea?
-3401502	ita	A te piacciono i mobili dell'Ikea?
-3401503	ita	A voi piacciono i mobili dell'Ikea?
-3401504	ita	A lei piacciono i mobili dell'Ikea?
+3401497	ita	Non sa montare i mobili dell'IKEA.
+3401498	ita	Lei non sa montare i mobili dell'IKEA.
+3401499	ita	Ti piacciono i mobili dell'IKEA?
+3401500	ita	Vi piacciono i mobili dell'IKEA?
+3401501	ita	Le piacciono i mobili dell'IKEA?
+3401502	ita	A te piacciono i mobili dell'IKEA?
+3401503	ita	A voi piacciono i mobili dell'IKEA?
+3401504	ita	A lei piacciono i mobili dell'IKEA?
 3401505	ita	Quale eroe sceglierai?
 3401506	fin	Tiedätkö mistä löydän hänet?
 3401507	ita	Grazie. Faremo del nostro meglio.
@@ -2017,7 +1952,7 @@
 3402207	jpn	彼女は彼を拒んだ。
 3402208	jpn	彼女は彼が誰だかすぐに分かった。
 3402209	jpn	彼女は彼を窓の外に押し出した。
-3402210	eng	Where have you been Tom? You're filthy!
+3402210	eng	Where have you been, Tom? You're filthy!
 3402211	eng	Where have you been Tom? You're filthy! I told you not to play in the mud.
 3402212	jpn	彼女は彼をぬかるみから引き上げた。
 3402213	por	Gratidão é sinal de almas nobres.
@@ -5531,7 +5466,7 @@
 3405866	deu	Wichtig ist, dass du am Leben bist.
 3405867	fin	Ajattelin maistaa tänään meksikolaista ruokaa.
 3405868	deu	Wichtig ist, dass Sie am Leben sind.
-3405869	rus	Ищешь кого-то?
+3405869	rus	Ты что-то ищешь?
 3405870	deu	Wichtig ist, dass ihr am Leben seid.
 3405871	deu	Seid ihr immer noch nicht fertig?
 3405872	deu	Sie sagten doch, das sei nicht ansteckend.
@@ -6079,7 +6014,7 @@
 3406439	nld	In het algemeen is Tom nooit laat.
 3406440	deu	Wie kann man nur so danebenliegen! Das ist kein Rumänisch, sondern Litauisch.
 3406441	rus	Ты должен остановиться.
-3406442	rus	"Гляди, какой большой!" — "О, Боже!"
+3406442	rus	"Гляди, какой большой!" — "О боже!"
 3406443	eng	Mary has a very fine feeling for language.
 3406444	nld	Tom ziet er verbaasd uit.
 3406445	rus	Ты можешь в это поверить? Мы во Франции!
@@ -7608,7 +7543,7 @@
 3408503	ita	È giustissimo!
 3408506	ita	Questa da dove viene fuori?
 3408507	ita	Mettiamo in carcere anche i maggiori stilisti mondiali, allora.
-3408508	ita	Infomati.
+3408508	ita	Informati.
 3408510	fin	Minulla on huono ruokahalu.
 3408511	ita	Essendo finita la scuola, siamo andati a nuotare in piscina.
 3408512	ita	Essendo finita la scuola, siamo andate a nuotare in piscina.
@@ -8821,7 +8756,7 @@
 3409771	pol	Powiedzieli mi, że to była twoja wina.
 3409772	deu	Du brauchst heute nicht weiter zu üben. Das setzt sich bis morgen.
 3409773	pol	Książka kosztuje pięć dolarów.
-3409774	hun	-Hogy vagy? -Jól vagyok, köszönöm.
+3409774	hun	- Hogy vagy? - Jól vagyok, köszönöm.
 3409776	fin	Tämä maksaa liikaa.
 3409777	fin	Tämä on liian kallis.
 3409778	fin	Tämä on liian kallista.
@@ -15496,7 +15431,7 @@
 3416915	eng	Tom is selfish, isn't he?
 3416916	eng	Tom is being a bit self-indulgent, isn't he?
 3416917	eng	Tom is very self-disciplined, isn't he?
-3416918	eng	Tom is self-centred, isn't he?
+3416918	eng	Tom is self-centered, isn't he?
 3416919	eng	Tom is very self-centered, isn't he?
 3416920	eng	Tom is still in high school, isn't he?
 3416921	eng	Tom is at school, isn't he?
@@ -15598,7 +15533,7 @@
 3417017	eng	Tom is pathetic, isn't he?
 3417018	eng	Tom is very passionate, isn't he?
 3417019	eng	Tom is passionate, isn't he?
-3417020	eng	Tom is planning to go be at the party, isn't he?
+3417020	eng	Tom is planning to be at the party, isn't he?
 3417021	eng	Tom is just a little overweight, isn't he?
 3417022	eng	Tom is really overweight, isn't he?
 3417023	eng	Tom is quite overweight, isn't he?
@@ -19687,7 +19622,7 @@
 3421292	jpn	電話が鳴っているよ。
 3421293	deu	Mein Vater hat mich verlassen, als ich jung war.
 3421294	deu	Mary ist Musiklehrerin.
-3421295	hun	Hogyhogy nem esik le a hold.
+3421295	hun	Hogyhogy nem esik le a hold?
 3421296	fin	Ethän odota välitöntä vaikutusta.
 3421297	deu	Und dann traf er ein Mädchen, das sein Leben für immer veränderte.
 3421298	deu	Was ist das hier?
@@ -20110,7 +20045,7 @@
 3421743	fra	Les dommages causés par l’inondation étaient négligeables.
 3421744	hun	Tetszik nekem, hogy tetszik neked.
 3421745	fra	Les yeux ne croient qu'en eux-mêmes, les oreilles croient les autres gens.
-3421746	fra	Aimez-vous le café?
+3421746	fra	Aimez-vous le café ?
 3421747	fra	Je vous rappellerai.
 3421748	spa	¿Tom es soltero?
 3421749	eng	I am happy to help.
@@ -20138,7 +20073,7 @@
 3421775	kor	어디 가고싶어요?
 3421776	eng	She is working at school.
 3421777	pol	Myślę, że może to była moja wina.
-3421778	fra	Où voulez-vous aller?
+3421778	fra	Où voulez-vous aller ?
 3421779	pol	To była najlepsza rzecz jaka mi się kiedykolwiek przytrafiła.
 3421781	tur	Ne olacaksa olsun, yapman gerekeni yap.
 3421782	fra	Il doit y avoir quelque chose qui cloche. Ça n’aurait pas dû se passer ainsi.
@@ -20931,7 +20866,7 @@
 3422592	fra	La cliente pousse la porte et entre dans la boutique.
 3422593	fra	La réception reçoit les appels téléphoniques.
 3422594	fra	Le réceptionniste reçoit les appels téléphoniques.
-3422595	fra	les parents attendent les enfants à la sortie de l'école.
+3422595	fra	Les parents attendent les enfants à la sortie de l'école.
 3422596	jpn	フランス語は全くと言っていいほど話せません。
 3422597	fra	Le postier dépose les lettres dans la boîte aux lettres.
 3422598	jbo	la tam djica lo nu mi klama
@@ -21056,7 +20991,7 @@
 3422722	fra	C'est une encyclopédie sur pattes.
 3422723	fra	Je n'ai pas la mémoire des noms.
 3422724	fra	Un nombre croissant de gens traversent et se font renverser en envoyant des SMS.
-3422725	fra	Le violeur ne montra aucun signe de remord, au cours du procès.
+3422725	fra	Le violeur ne montra aucun signe de remords, au cours du procès.
 3422726	fra	La cigarette électronique est mise en avant comme une saine alternative aux cigarettes, mais les autorités sanitaires s'inquiètent des effets à long terme sur la santé des consommateurs.
 3422727	fra	Le garçon arborait un petit sourire espiègle.
 3422728	fra	Les fraises nouvelles sont parties comme des petits pains.
@@ -21067,7 +21002,7 @@
 3422733	fra	« Es-tu fâché après moi ? » « Comment quiconque pourrait jamais être fâché contre toi ? »
 3422734	fra	« Es-tu fâchée après moi ? » « Comment quiconque pourrait jamais être fâché contre toi ? »
 3422735	deu	Wollen wir hier ein Foto machen?
-3422736	fra	L'institutrice chargée de surveiller la courre s'inquiéta lorsqu'elle vit un homme parler à des enfants par-dessus la grille de l'école.
+3422736	fra	L'institutrice chargée de surveiller la cour s'inquiéta lorsqu'elle vit un homme parler à des enfants par-dessus la grille de l'école.
 3422737	fra	La police indiqua aux manifestants qu'ils seraient arrêtés s'ils ne bougeaient pas immédiatement.
 3422738	fra	Si vous ne bougez pas immédiatement, vous serez arrêtés.
 3422739	fra	Les adolescents sont souvent embarrassés d'être vus en public avec leurs parents.
@@ -21512,7 +21447,7 @@
 3423203	eng	I prefer to text.
 3423206	por	Os turistas escutam atentamente as explicações do guia.
 3423207	fin	Tää leffa on sieltä ja syvältä.
-3423209	eng	It wasn’t working for me.
+3423209	eng	It wasn't working for me.
 3423210	eng	How do you feel about the violin?
 3423211	fin	Tää leffa on ihan paska.
 3423212	eng	Sometimes I don’t talk for days on end.
@@ -24420,7 +24355,7 @@
 3426353	eng	Why were you being so evasive?
 3426354	eng	Tom is almost always free in the early evening.
 3426355	eng	Tom takes a bath every evening.
-3426356	eng	Tom didn't come last evening.
+3426356	eng	Tom didn't come yesterday evening.
 3426357	eng	Tom has agreed to babysit the kids Monday evening.
 3426358	eng	Tom is usually at home in the evening.
 3426359	eng	What do you feel like doing this evening?
@@ -24582,7 +24517,7 @@
 3426519	rus	А у тебя есть?
 3426520	rus	А у вас есть?
 3426521	rus	А у Вас есть?
-3426522	deu	Hab' Sonne im Herzen, ob's stürmt oder schneit, ob Himmel voll Wolken, die Erde voll Streit.
+3426522	deu	Hab' Sonne im Herzen, ob's stürmt oder schneit, ob der Himmel voll Wolken, die Erde voll Streit.
 3426523	rus	То, что ты обнаружишь, может тебе не понравиться.
 3426524	deu	Hackenporsche heißen die rollenden Einkaufstaschen, mit denen die Omas wieselflink ihre Beute vom Wochenmarkt nach Hause schleppen.
 3426525	deu	„Saftschubsen“ werden umgangssprachlich die heutigen Stewardessen in den Flugzeugen genannt.
@@ -36796,7 +36731,7 @@
 3440161	fra	Quelque chose te trouble-t-il ?
 3440162	fra	Je ne pense pas que vous devriez vous faire trop de mouron à ce sujet.
 3440163	fra	Je ne pense pas que tu devrais te faire trop de bile à ce sujet.
-3440164	fra	Essayons !
+3440164	fra	Essayons !
 3440165	fra	Tentons-le !
 3440166	ita	Stiamo andando in spiaggia. Vuoi venire?
 3440167	ita	Noi stiamo andando in spiaggia. Vuoi venire?
@@ -37367,7 +37302,7 @@
 3440771	epo	Oni diras, ke krudaj legomoj pli favoras la sanon.
 3440772	deu	Man sagt, dass rohes Gemüse besser für die Gesundheit sei.
 3440773	spa	Sé quién es ella.
-3440774	eng	On the postcard you can see a church
+3440774	eng	On the postcard, you can see a church.
 3440775	epo	Ĉu senaga funebrado iam ŝanĝis sortoplanon? Ĉu rezigna atendado iam donis al vi panon?
 3440776	deu	Hat denn tatenloses Trauern Schicksalswandel je gebracht? Hat denn resigniertes Warten jemals dich schon satt gemacht?
 3440777	spa	En la postal puedes ver una iglesia.
@@ -39943,7 +39878,7 @@
 3443584	rus	Мы должны это делать ежедневно?
 3443585	ces	Něco takové se nezapomíná.
 3443586	rus	Планировочный район "Академический" в Екатеринбурге — самый крупный градостроительный проект Европы.
-3443587	spa	¿Dónde está tu miel que provoca a las abeja, Pyragy?
+3443587	spa	¿Dónde está tu miel que provoca a las abejas, Pyragy?
 3443588	epo	Mi dediĉas miajn libertempajn horojn al renovigado de mia ŝipo.
 3443589	epo	La planareo "Akademia kvartalo" en Jekaterinburg estas la plej granda urbokonstrua projekto de Eŭropo.
 3443590	epo	Li ne malpravas.
@@ -43722,7 +43657,6 @@
 3447671	epo	Min ne trafis araneofobio, sed ĉu vi bonvolas peti vian migalon, ke ĝi reiru en sian skatolon?
 3447672	deu	Tom ermahnte Maria, sich höflicher auszudrücken.
 3447673	deu	Wir alle sterben.
-3447674	epo	Mi sentas min, kvazaŭ mi dirus al li, kion mi opinias pri li.
 3447675	fra	Oh, je suis désolé.
 3447676	fra	Ils vont bientôt revenir.
 3447677	fra	Tom est fier de ses fils.
@@ -45720,7 +45654,7 @@
 3449757	nld	Ge zijt drie uur te laat.
 3449758	deu	Tom ist gleich da.
 3449759	hun	Tom mindjárt itt van.
-3449760	deu	Tom und Maria wollen an diesem Wochenende zusammen mit Johannes und Adelheid als Doppelpärchen ausgehen.
+3449760	deu	Tom und Maria wollen an diesem Wochenende zusammen mit Johannes und Elke als Doppelpärchen ausgehen.
 3449761	hun	Tom nem akar Bostonban élni.
 3449762	deu	Diese Tatsache scheint mir sehr aufschlussreich zu sein.
 3449763	hun	Tom nem akar Bostonban lakni.
@@ -45839,7 +45773,7 @@
 3449886	pol	To w ogóle nie zdarzyło się tak.
 3449887	spa	Esto no sucedió así en absoluto.
 3449888	epo	Bonvolu kanti tiun kanzonon plian fojon.
-3449889	pol	Ale to nie zmienia wymiar kary.
+3449889	pol	Ale to nie zmienia wymiaru kary.
 3449890	hun	Arra gondoltam, hogy szívesen tanulnál új dolgokat.
 3449891	epo	La milito minacas eksplodi.
 3449892	tur	Onu çok beğendim.
@@ -46111,7 +46045,7 @@
 3450173	jpn	トムは昨年の夏、九死に一生を得る経験をした。
 3450174	spa	De ese loco se puede esperar cualquier cosa.
 3450175	jpn	トムはこの間の夏、死にかけた。
-3450176	pol	Po tym szaleńcem można się wszystkiego spodziewać!
+3450176	pol	Po tym szaleńcu można się wszystkiego spodziewać!
 3450177	deu	Diesem Irren ist alles zuzutrauen!
 3450178	jpn	トムが家賃を期日までに払わないのには、それなりの理由があった。
 3450179	jpn	トムが期日までに宿題を終わらせなかったのには、それ相当の理由があった。
@@ -47294,7 +47228,7 @@
 3451412	rus	Может быть, Том не видел Мэри.
 3451413	rus	Джон ушлый.
 3451414	rus	Меня достала школа.
-3451415	rus	Том спросил Мэри, почему она несчастливая.
+3451415	rus	Том спросил Мэри, почему она несчастна.
 3451416	rus	Лгунья!
 3451417	spa	Le agradezco por su rápida respuesta.
 3451418	spa	Ella rara vez va al cine.
@@ -49680,7 +49614,7 @@
 3453976	pol	Jak on to robi?
 3453978	epo	Mi ĝojas, ke mi povis helpi al vi.
 3453979	srp	U Norveškoj postoji više od 1500 divljih i podivljalih cvetnih vrsta - bogatstvo za radovanje, ali i nasleđe da se sačuva!
-3453980	spa	La idea de que Dios es un hombre blanco muy grande, de larga barba, que está sentado en el cielo grabando la caída de cada gorrión es ridícula. Pero si por "Dios" se entiende el conjunto de las leyes físicas que gobiernan el universo, entonces es claro que ese Dios existe.
+3453980	spa	La idea de que Dios es un hombre blanco muy grande, de larga barba, que está sentado en el cielo anotando la caída de cada gorrión es ridícula. Pero si por "Dios" se entiende el conjunto de las leyes físicas que gobiernan el universo, entonces es claro que ese Dios existe.
 3453981	srp	Obrazovani vodiči pričaju o istoriji razvoja biljaka.
 3453982	srp	Moćićete da vidite uobičajene i ne tako uobičajene biljke.
 3453983	epo	Mi devas atenti, kiel mi sidas sur ĉi malmultekosta oficeja seĝo de IKEA, por eviti, ke la du ŝraŭboj, kiuj ronĝis truojn en la sintezan kovron, piku en miajn femurojn.
@@ -49998,3 +49932,69 @@
 3454342	eng	Let him rest in peace, but above all let us live with a good memory!
 3454343	fra	Nous devons compter chaque sou.
 3454344	tur	Mary genelde alay edilmeye alışkın değildir.
+3454345	eng	It rustled my jimmies.
+3454347	fra	Il m'a piqué mes pépites de chocolat.
+3454348	pol	Możesz poprawić swoje wyniki.
+3454349	rus	У тебя всего тридцать секунд на то, чтобы объясниться.
+3454350	eng	I will try to say it guardedly, I will only politely hint at it.
+3454351	pol	Usługi w hotelu są doskonałe.
+3454352	eng	It's not me who makes the rules.
+3454354	rus	С чего ты взял, что Том вообще подумает пойти на свидание с Мэри?
+3454355	tur	Reklam, insanları ihtiyacı olmayan şeylere, sahip olmadıkları paraları harcamaya ikna etme sanatıdır.
+3454356	rus	Я случайно услышал, что вы сказали.
+3454357	deu	„Was machen wir denn, wenn Tom nach wie vor nicht kommt?“ – „Was wir dann machen? Dann müssen wir so irgendwie zurechtkommen.“
+3454358	rus	Не позволяй эмоциям управлять собой. Будь спокоен!
+3454359	rus	Это как они так?
+3454360	eng	How're they doing that?
+3454361	deu	Vielleicht liebe ich gar nicht die Frauen, sondern nur ihre Stimmen.
+3454362	deu	Als ich die Tür öffnete, standen da zwei Jungen nebeneinander.
+3454363	rus	Зафоршмачился козырный фраер по незнанке.
+3454364	rus	Ты похож на кое-кого, с кем я ходил в старшую школу.
+3454365	deu	Wie heißt dieses Tier auf Französisch?
+3454366	epo	Kiel oni nomas ĉi tiun beston en la franca?
+3454368	eng	PDA is not allowed at school.
+3454369	rus	На контрольной на прошлой неделе мой результат был хуже, чем её.
+3454370	deu	Ich heiße mit Nachnamen Ikeda und mit Vornamen Kazuko.
+3454371	rus	Я соблюдал правила.
+3454372	deu	Verreisen Sie gerne?
+3454373	nld	Hoe noem je dat dier in het Frans?
+3454375	epo	Tom mortis heroe.
+3454376	epo	"Ĉu Ken estas okupata?" - "Jes li estas tia."
+3454378	epo	Mi elturniĝos mem.
+3454379	epo	Pro la varmo kaj la malsekeco mi ne bone dormis.
+3454380	deu	Wie viele Minuten ist man in etwa mit dem Taxi zum Bahnhof unterwegs?
+3454381	epo	Ĉu eblas atribui lian malsukceson al nekompetenteco aŭ malfeliĉa hazardo?
+3454382	deu	Wie lange braucht man mit dem Taxi zum Bahnhof?
+3454383	epo	Miaj hejmtaskoj postulis de mi pli da tempo, ol mi kredis.
+3454384	deu	Wenn es doch nur keine Prüfungen gäbe!
+3454385	deu	Wenn die Erinnerung auch verblasst – die Aufzeichnung verbleibt.
+3454386	rus	«А если Том так и не придёт, что делать будем?» — «Что делать будем? Как-нибудь сами тогда справимся, только и всего».
+3454387	deu	Haben Sie schon einmal im Ausland studiert?
+3454388	deu	Ist Ihnen mit den kurzen Ärmeln nicht zu kalt?
+3454389	rus	Нас послали на секретную миссию.
+3454390	hun	Soha nem voltam itt korábban.
+3454391	rus	Весьма вероятно, что кто-то будет ждать нас.
+3454392	hun	Mindenekelőtt ügyelj az étkezésedre.
+3454393	hun	Tomi érkezett utolsóként.
+3454395	hun	Házon kívül tartózkodtam.
+3454396	epo	Mi iros preni kelkajn glasojn.
+3454397	rus	Он говорил об этой неприятной истории два часа.
+3454398	epo	Vi ne povas havi la postenon.
+3454399	eng	It also forms a vital cornerstone of the strategy for sustainable development.
+3454400	rus	Уже десять лет, как мой дядя уехал в Канаду.
+3454401	epo	Mi havas tute novan biciklon.
+3454402	por	Constitui também um pilar decisivo da estratégia de desenvolvimento sustentável.
+3454403	epo	Montru vin homoj, ne stultaj bestoj.
+3454404	epo	Montru vin kiel homojn, ne kiel stultajn bestojn.
+3454405	rus	Я бы не подумал, что ты так рано придёшь.
+3454406	ell	Εγώ ψάχνω το διαβατήριό μου. Το είδατε;
+3454407	epo	La skribotabla fono estas implicite blua.
+3454409	epo	Tio supozeble estas ŝerco!
+3454410	ell	Η ζωή της είναι σε κίνδυνο.
+3454411	rus	Раскрой ладонь.
+3454412	ell	Δεν μπορώ να το κάνω μόνος μου.
+3454413	ell	Ζητώ συγνώμη για τον Τομ.
+3454415	ell	Κόψε τις πατάτες.
+3454417	tur	Kuralları koyan ben değilim.
+3454418	eng	Store at room temperature.
+3454419	fra	Ces bananes ont un goût exquis.

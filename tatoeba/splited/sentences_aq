@@ -1,14 +1,3 @@
-837054	pol	Cena wynajmu tego pokoju to 50 dolarów na tydzień.
-837055	pol	Mary dała mi amerykańską lalkę.
-837056	pol	Gdyby jeszcze trochę wytrzymała, dopięłaby swego.
-837057	pol	Nie pamiętam, jak wygląda Timothy, ale na pewno znam go z widzenia.
-837058	pol	Nie powinieneś był tak szybko rozgłaszać, że jestem w ciąży. Chciałam wszystkich zaskoczyć.
-837059	pol	Zrobiłem już wszystko, co miałem zrobić.
-837060	pol	Chris, jesteś przemoczony do suchej nitki!
-837061	pol	Dobrze ci tak, że nie zdałeś egzaminu. W ogóle się do niego nie uczyłeś.
-837062	pol	Nie trać czasu na przekonywanie Freda. On nigdy nie zmieni zdania.
-837063	tur	Benim bir evim var.
-837064	pol	Uważaj! Ten samochód omal cię nie potrącił.
 837065	pol	Był jednym z cichych bohaterów rewolucji.
 837066	epo	Ŝi havis puran konsciencon.
 837067	tur	Ben iyi değilim.
@@ -158,7 +147,7 @@
 837218	epo	La manĝaĵo ne estas eksterordinara.
 837219	rus	Он мне поручил новое задание.
 837220	uig	كەچۈرۈڭ، ئۇ ھازىر يوق.
-837221	epo	Tiuj ŝuoj ne taŭgas por kurado.
+837221	epo	Tiuj ĉi ŝuoj ne taŭgas por kurado.
 837222	epo	Kie estas la dogana oficejo?
 837223	epo	Li malŝaltis la televidilon kaj eklernis.
 837224	epo	Li foriris eksterlanden.
@@ -1388,12 +1377,12 @@
 838503	eng	One of our players scored a goal just five minutes after the match started.
 838504	eng	I have often observed how little young ladies are interested by books of a serious stamp, though written solely for their benefit. It amazes me, I confess; for, certainly, there can be nothing so advantageous to them as instruction.
 838505	cmn	我们九点上课，可是他九点一刻才来。
-838506	eng	We start class at nine o’clock, but he didn’t come until quarter past.
+838506	eng	We start class at nine o'clock, but he didn’t come until quarter past.
 838507	cmn	昨天晚上我的女儿一点半才回家。
 838508	cmn	雷聲嚇到孩子了。
-838509	eng	Last night my daughter didn’t come home until half past one.
+838509	eng	Last night my daughter didn't come home until half past one.
 838510	cmn	他二十八歲才拿到駕照。
-838511	eng	He didn’t get a driving licence until he was twenty-eight.
+838511	eng	He didn't get a driving licence until he was twenty-eight.
 838512	cmn	你住在這家旅館嗎？
 838513	cmn	你們有非吸煙區嗎？
 838514	fra	J’ai souvent remarqué que les jeunes filles ne savent pas s’intéresser aux œuvres sérieuses, écrites cependant pour leur bien. Cela me confond, je l’avoue, car rien ne peut leur faire plus de bien qu’une lecture instructive.
@@ -2587,12 +2576,12 @@
 839752	deu	Ich kenne niemanden dieses Namens.
 839753	fra	«Jamais !» «Si.»
 839754	fra	Je n'ai aucun argent.
-839755	fra	«Alors tu penses que c'était Jean qui a volé mon portefeuille ?» «Je ne sais pas, mais je pense qu'il en est capable.»
+839755	fra	« Alors tu penses que c'était Jean qui a volé mon portefeuille ? » « Je ne sais pas, mais je pense qu'il en est capable. »
 839756	fra	«Accusé, levez-vous !» «Oui, si c'est utile à l'établissement de la vérité.»
 839757	fra	Thomas est un génie du râteau.
 839758	fra	Thomas est un génie du calcul.
 839759	fra	Ce qu'elle préfère manger, ce sont des fraises avec de la crème.
-839760	deu	Mein Chef weiss alles besser, glaubt er.
+839760	deu	Mein Chef weiß alles besser, glaubt er.
 839761	fra	Il étudie l'informatique linguistique.
 839762	fra	Je commençai à douter de l'exactitude de sa déposition.
 839763	fra	Je commençai à douter de la justesse de sa déclaration.
@@ -3519,7 +3508,7 @@
 840709	deu	Ich werde dir zuhören, besonders wenn wir nicht der gleichen Meinung sind.
 840710	nds	Helsinki is de Hööftstadt vun Finnland.
 840711	ita	C'è più acqua di quanta ne serva.
-840712	epo	Ŝi naskis sanan infanon.
+840712	epo	Ŝi naskis sanan infaneton.
 840713	deu	Orangen wachsen in warmen Ländern.
 840714	yue	佢哋見親面都要嗌返場交先至安樂。
 840715	epo	Mi vidis vin kune kun granda knabo.
@@ -5969,7 +5958,7 @@
 843252	epo	Centoj da homoj umis en la stratoj.
 843253	tur	Yüzlerce ailenin evi yakılmıştı.
 843254	epo	Mi scivolas, kio estas la normala vivdaŭro de blatoj, kaj ĉu ili iam mortas pro maljuneco.
-843256	eng	Can you make me a Spanish omellete for dinner please?
+843256	eng	Can you make me a Spanish omelette for dinner please?
 843257	eng	They saw Pedro talking to the art teacher.
 843258	nds	Glöövst du, dat de Minschen in de Tokumst den Maand koloniseren schöölt?
 843259	nds	Schall de Sünn morgen schienen?
@@ -6392,7 +6381,7 @@
 843690	epo	Kia estas la diferenco inter la nova ĉefministro kaj telefona aŭskultilo? - La aŭskultilon oni povas pendigi, se oni fuŝelektis.
 843691	deu	Da kommt jemand die Stiegen herauf.
 843692	epo	Mi preferus pendigi min ol fariĝi ekzekutisto.
-843693	deu	Was sagst du dazu wenn wir jetzt eine Ausfahrt machen?
+843693	deu	Was sagst du dazu, wenn wir jetzt eine Ausfahrt machen?
 843694	deu	Ein neuer Direktor leitet die Schule.
 843695	deu	Du musst Englisch sprechen.
 843696	epo	Vi devas paroli la anglan.
@@ -7359,10 +7348,10 @@
 844701	cmn	我是不是五月出生的？
 844702	eng	Was it in May that I was born?
 844703	cmn	我们不是在巴黎认识的。
-844704	eng	It wasn’t in Paris that we met.
+844704	eng	It wasn't in Paris that we met.
 844705	fra	N'oubliez pas votre monnaie.
 844706	cmn	我的钱包不是被他偷走的。
-844707	eng	My wallet wasn’t stolen by him.
+844707	eng	My wallet wasn't stolen by him.
 844708	fra	On dirait qu'il est malade.
 844709	cmn	我在網路上賣衣服。
 844710	eng	I sell clothing online.
@@ -12413,7 +12402,7 @@
 849957	tur	Özel günümde kötü kramplarım oluyor.
 849958	tur	Fakat büyük olasılıkla sonuncu olacağım, bu acınacak bir durum.
 849959	deu	Bin ich mit Turnschuhen passend angezogen?
-849960	deu	Ist der Aussenminister schon da?
+849960	deu	Ist der Außenminister schon da?
 849961	deu	Unmögliches wird selbstverständlich sofort erledigt.
 849962	cmn	我們全都染上了流感，連老師也不例外。
 849963	cmn	我把她的電話號碼記了下來。
@@ -16036,7 +16025,7 @@
 853873	spa	El domingo va después del sábado.
 853874	eng	His father will not come, he is very busy.
 853875	spa	Si tienes tiempo podríamos quedar para tomar algo esta noche.
-853876	eng	His dad will not come, he is very busy,
+853876	eng	His dad will not come, he is very busy.
 853877	cat	Aquests llibres són molt vells.
 853879	eng	His dad won't come, he is very busy.
 853880	spa	El rumor no tenía fundamento alguno.
@@ -20819,7 +20808,7 @@
 858995	fra	Ma ville n'est plus ce qu'elle était.
 858996	fra	Ma ville n'est plus ce qu'elle fut.
 858997	fra	D'ailleurs, les Chinois aiment faire la sieste.
-858998	fra	Êtes-vous enseignant ? Oui, je le suis.
+858998	fra	« Êtes-vous enseignant ? » « Oui, je le suis. »
 858999	fra	Êtes-vous enseignante ? Oui, je le suis.
 859000	fra	En plus, les Chinois aiment faire la sieste.
 859001	fra	Trouver son bureau fut facile.
@@ -26783,7 +26772,7 @@
 865398	cmn	把你的字典借給我好嗎？
 865399	deu	Hast du das nicht gewusst?
 865400	rus	Ты как собираешься разбираться?
-865401	epo	Ĉu vi ne sciis tiun?
+865401	epo	Ĉu vi ne sciis tion?
 865402	rus	Брать камеру — бесполезно.
 865403	cmn	湯姆和蘇彼此相愛。
 865404	tur	Mary'ye göre o gelmiyor.
@@ -27967,7 +27956,7 @@
 866686	epo	Donu ŝancon al la paco.
 866689	epo	Mi estas ĉi tie ekde sabato.
 866690	fin	Puhu kovemmalla äänellä jotta kaikki voivat kuulla sinua.
-866691	tur	Tren hangi hattan Higashi-Kagowaka' ya hareket eder?
+866691	tur	Tren hangi hattan Higashi-Kakogava' ya hareket eder?
 866693	epo	Mia revo estas iĝi instruisto.
 866694	tur	Herkes hata yapar.
 866695	epo	Mi revas iĝi instruisto.
@@ -29912,7 +29901,7 @@
 868770	eng	His program had enormous success.
 868772	eng	We have ways of making women speak; we have none for shutting them up.
 868776	por	Apesar da proteção do governo, ele sofreu um atentado que o matou.
-868777	eng	Despite the government’s protection, he was the victim of an assassination attempt which killed him.
+868777	eng	Despite the government's protection, he was the victim of an assassination attempt which killed him.
 868778	por	Sua cara era pálida e suas vestes, humildes.
 868779	eng	His face was pale and his clothing humble.
 868780	por	A mãe ainda se lembra como se faz?
@@ -30010,7 +29999,7 @@
 868874	por	Ouvimo-la chorar.
 868875	eng	This is the driest month of june since the thirties.
 868876	por	Ventava muito.
-868877	epo	Ĉi tiu estas la plej seka junio depost la tridekaj jaroj.
+868877	epo	Ĉi tiu estas la plej seka junio ekde la tridekaj jaroj.
 868878	por	O cão sempre late para mim.
 868879	por	Emprestei-lhe 500 dólares sem interesses.
 868880	por	Tenho uma boa ideia.
@@ -30061,7 +30050,7 @@
 868927	nld	Wat doet de aarde draaien?
 868928	por	Ela superou a dificuldade.
 868929	por	Seu plano é construir uma ponte sobre esse rio.
-868930	por	Está tudo de ponta cabeça.
+868930	por	Está tudo de ponta-cabeça.
 868931	por	A fome é a melhor cozinheira.
 868932	por	Ele não ganha mais de 50 dólares por semana.
 868933	por	Ele chegará em dez minutos.
@@ -30780,7 +30769,7 @@
 869673	eng	They're fighting fiercely now but I assure you they'll bury the hatchet before long.
 869674	ita	È difficile conoscere se stessi.
 869675	pol	Teraz zajadle walczą, ale zapewniam cię, że niedługo zakopią topór wojenny.
-869676	eng	I can't believe how hard it is to find a decent grub around here.
+869676	eng	I can't believe how hard it is to find decent grub around here.
 869677	epo	Koni sin mem estas malfacile.
 869678	pol	Nie mogę uwierzyć jak trudno jest tu znaleźć przyzwoite żarcie.
 869679	tur	Konuşma gümüştür ama susma altındır.
@@ -31186,7 +31175,7 @@
 870095	tur	Hiç Kanada'ya gittin mi?
 870096	spa	Ella no volverá hasta las cinco.
 870097	deu	Der Streit eskaliert zu einer öffentlichen Schlammschlacht.
-870098	tur	Hobin hakkında konuştun mu?
+870098	tur	Hobinden bahsettin mi?
 870099	cmn	我可以用哪些信用卡？
 870100	cmn	你星期天都做什麼？
 870101	fra	Le patron était attiré par son charme.
@@ -32335,7 +32324,7 @@
 871286	por	Esse povo quase desapareceu.
 871287	eng	You should give this task to some other person.
 871288	por	Você deveria entregar essa tarefa a outra pessoa.
-871289	eng	The German domination didn’t last very long.
+871289	eng	The German domination didn't last very long.
 871290	por	A dominação alemã não se prolongou por muito tempo.
 871291	eng	In each beehive there can only be one queen.
 871292	por	Em cada colmeia só pode haver uma única rainha.
@@ -32638,7 +32627,7 @@
 871598	eng	Did you read the book that won the prize?
 871599	por	Você leu o livro que ganhou o prêmio?
 871600	gle	Ar léigh tú an leabhar a bhuaigh an duais?
-871601	eng	I’ll give a copy to anyone who asks for it.
+871601	eng	I'll give a copy to anyone who asks for it.
 871602	por	Eu darei uma cópia a qualquer um que pedir.
 871603	gle	Tabharfaidh mé cóip do dhuine ar bith a iarrann é.
 871604	eng	I live in the house my father built.
@@ -32648,7 +32637,7 @@
 871608	eng	I’ll give you that article.
 871609	gle	Tabharfaidh mé an t-alt sin duit.
 871610	por	Eu vou lhe passar aquele artigo.
-871611	eng	I’ll give you the article I wrote on that matter.
+871611	eng	I'll give you the article I wrote on that matter.
 871612	spa	Esta es la Embajada de los Estados Unidos.
 871613	por	Eu vou lhe passar o artigo que escrevi sobre esse tema.
 871614	gle	Tabharfaidh mé duit an t-alt a scríobh mé faoin gceist sin.
@@ -32666,7 +32655,7 @@
 871628	gle	An bhean atá ina cónaí béal dorais, tá sí ag obair sa Státseirbhís anois.
 871629	por	A mulher que mora ao lado está trabalhando como funcionária pública agora.
 871630	spa	¿Un extranjero? ¿De dónde es usted?
-871631	eng	There’s a man at the door who wants to talk to you.
+871631	eng	There's a man at the door who wants to talk to you.
 871632	por	Há um homem à porta que quer falar com você.
 871633	gle	Tá fear ag an doras atá ag iarraidh caint leat.
 871634	eng	He saw an old friend last week whom he hadn’t seen in years.
@@ -32863,7 +32852,7 @@
 871837	eng	Next week I’m going to the Balaton.
 871838	hun	Jövő héten lemegyek a Balatonra.
 871839	por	Semana que vem vou no Balaton.
-871840	eng	I’ll do my homework later.
+871840	eng	I'll do my homework later.
 871841	por	Vou fazer meu dever de casa depois.
 871842	hun	Később megírom a házi feladatomat.
 871843	eng	I go into the store, and who do I see? An American friend, who immediately begins to tell me what has been going on with him since we last met.
@@ -33468,7 +33457,7 @@
 872473	fra	Je mange toujours à l'extérieur.
 872474	cmn	我們喜歡在河裡游泳。
 872475	fra	Je mange toujours dehors.
-872476	epo	Mia aŭto ĵus estas riparata.
+872476	epo	Mia aŭto ĝuste nun estas riparata.
 872477	cmn	為這美好的晚餐謝謝你。
 872478	deu	Der Akku ist leer.
 872479	fra	Nous le fîmes avec le plus grand plaisir.
@@ -34023,7 +34012,7 @@
 873051	por	Comprei um carro em Derry ontem.
 873052	gle	Cheannaigh mé carr i nDoire inné.
 873053	fra	Cette région est riche en produits de la mer.
-873054	eng	It’s a car that I bought in Derry yesterday.
+873054	eng	It's a car that I bought in Derry yesterday.
 873055	gle	Is carr a cheannaigh mé i nDoire inné.
 873056	nds	Godd is dood. Un mi geiht dat ook nich besünners good.
 873057	por	É um carro que eu comprei em Derry ontem.
@@ -34034,16 +34023,16 @@
 873063	fra	Nous avons beaucoup de neige ici l'hiver.
 873064	por	Foi ontem que eu comprei um carro em Derry.
 873065	fra	Tu trouveras cette carte très utile.
-873066	eng	I’ll wear the blue dress.
+873066	eng	I'l wear the blue dress.
 873067	por	Usarei o vestido azul.
 873068	fra	Veux-tu mettre ce kimono ?
 873069	gle	Is é an gúna gorm a chaithﬁdh mé.
 873070	gle	An gúna gorm a chaithﬁdh mé.
-873071	eng	It’s your children who were late.
+873071	eng	It's your children who were late.
 873072	fra	Pourrais-tu mettre ce kimono ?
 873073	gle	Is iad do pháistíse a bhí mall.
 873074	por	São seus filhos que estão atrasados.
-873075	eng	We’ll be leaving tomorrow.
+873075	eng	We'll be leaving tomorrow.
 873076	por	Estaremos partindo amanhã.
 873077	nds	Opmaal bleev uns Tog stahn.
 873078	deu	Ruf mich später an!
@@ -34105,7 +34094,7 @@
 873135	fra	La richesse est un voile qui couvre bien des plaies.
 873136	por	O que eles fizeram foi quebrar a janela.
 873137	fra	Qu'on se le dise, la place est libre.
-873138	eng	What I’ll do is clean the room.
+873138	eng	What I'll do is clean the room.
 873139	por	O que eu vou fazer é limpar a sala.
 873140	fra	Mieux vaut se taire que parler pour ne rien dire.
 873141	gle	’Séard a dhéanfaidh mé ná an seomra a ghlanadh.
@@ -34420,7 +34409,7 @@
 873461	por	Eu conheci Mattias na Espanha.
 873462	cmn	當然，她接受了邀請。
 873463	gle	Sa Spáinn a bhuail mé le Mattias.
-873464	eng	It’s tomorrow that you’re leaving, isn’t it?
+873464	eng	It's tomorrow that you’re leaving, isn’t it?
 873465	por	É amanhã que você vai embora, não é?
 873466	cmn	我們認識他。
 873467	gle	Amárach atá tú ag imeacht, nach ea?
@@ -34434,7 +34423,7 @@
 873475	gle	Ní mise a d’ith an píosa cáca deireanach.
 873477	gle	Lá álainn is ea é.
 873478	por	Está um dia lindo.
-873479	eng	We’ll leave at eight o’clock.
+873479	eng	We'll leave at eight o’clock.
 873480	por	Partiremos às oito horas.
 873481	gle	Ag a hocht a chlog a imeoimid.
 873482	eng	I saw Eibhlín at the library, not Sorcha.
@@ -34460,13 +34449,13 @@
 873502	eng	That is the woman they stay with.
 873503	gle	Sin í an bhean a bhfanann siad léi.
 873504	por	Aquela é a mulher com quem eles ficam.
-873505	eng	Those are the children you’ll be giving the book to.
+873505	eng	Those are the children you'll be giving the book to.
 873506	por	Aquelas são as crianças a quem você dará o livro.
 873507	gle	Sin iad na gasúir a mbeidh tú ag tabhairt an leabhar dóibh.
 873508	eng	Who are the people I saw her with?
 873509	gle	Cé hiad na daoine a bhfaca mé leo í?
 873510	por	Quem são as pessoas que eu vi com ela?
-873511	eng	The man that you’ll get a letter from is on holiday now.
+873511	eng	The man that you'll get a letter from is on holiday now.
 873512	eng	Michael Jackson has died.
 873513	por	O homem de quem você receberá uma carta está de folga agora.
 873514	gle	Tá an fear a bhfaighidh tú litir uaidh ar saoire anois.
@@ -34476,11 +34465,11 @@
 873518	eng	Is that the woman who knows the answer?
 873519	por	É aquela a mulher que sabe a resposta?
 873520	gle	An í sin an bhean a bhfuil a fhios aici an freagra?
-873521	eng	That’s the man whose wife died.
+873521	eng	That's the man whose wife died.
 873522	fra	Michael Jackson est mort.
 873523	gle	Sin é an fear a bhfuair a bhean bás.
 873524	por	Aquele é o homem cuja mulher faleceu.
-873525	eng	That’s the woman whose son is sick.
+873525	eng	That's the woman whose son is sick.
 873526	jpn	マイケルジャクソンは死んでいる。
 873527	por	Aquela é a mulher cujo filho está doente.
 873528	gle	Sin iad na daoine ar bhuaigh a bpáiste an chéad duais.
@@ -34496,11 +34485,11 @@
 873538	eng	Those are the people whose car I repaired.
 873539	por	Aquelas são as pessoas cujos carros eu consertei.
 873540	gle	Sin iad na daoine ar chuir mé caoi ar a gcarr.
-873541	eng	That’s the house they were living in.
+873541	eng	That's the house they were living in.
 873542	gle	Sin é an teach a raibh siad ina gcónaí ann.
 873543	eng	Excuse me, I didn't catch your name.
 873544	por	Aquela é a casa em que eles estavam vivendo.
-873545	eng	That’s the woman I got a message from.
+873545	eng	That's the woman I got a message from.
 873546	por	Foi daquela mulher que eu recebi uma mensagem.
 873547	gle	Sin í an bhean a bhfuair mé teachtaireacht uaithi.
 873548	eng	The car is Brian’s.
@@ -34519,7 +34508,7 @@
 873561	eng	Which chair did you put the book on?
 873562	gle	Cén chathaoir ar chuir tú an leabhar uirthi?
 873563	por	Em qual cadeira você colocou o livro?
-873564	eng	Which woman’s son is sick?
+873564	eng	Which woman's son is sick?
 873565	por	O filho de qual mulher está doente?
 873566	gle	Cén bhean a bhfuil a mac tinn?
 873567	eng	Who do you stay with?
@@ -34885,7 +34874,7 @@
 873936	jpn	日本はアラブ諸国に石油を依存している。
 873937	spa	Los libros tienen éxito entre los estudiantes.
 873938	jpn	彼は私を脅迫した。
-873939	jpn	あなたは教師ですか? はい、そうです。
+873939	jpn	「あなたは教師ですか」「はい、そうです」
 873940	eng	It's no crime to steal from a thief.
 873941	jpn	あの影はまるで、長い首と歯の無い大顎を持った、巨大な恐竜のように見えた。
 873942	deu	Du hättest das seit langem erledigen können.
@@ -35754,7 +35743,7 @@
 874851	eng	Is German spoken too?
 874852	gle	An labhraítear Gearmáinis freisin?
 874853	por	Fala-se alemão também?
-874854	eng	They say it’s hot here.
+874854	eng	They say it's hot here.
 874855	por	Diz-se que aqui é quente.
 874856	gle	Deirtear go mbíonn sé te anseo.
 874857	eng	They get up early in this house.
@@ -35790,7 +35779,7 @@
 874887	eng	I think that someone went there.
 874888	por	Eu acho que alguém foi lá.
 874889	gle	Sílim go ndeachthas ann.
-874890	eng	Weren’t they satisfied?
+874890	eng	Weren't they satisfied?
 874891	gle	Nach rabhthas sásta?
 874892	por	Eles não estavam satisfeitos?
 874893	eng	People are rich here.
@@ -36440,14 +36429,14 @@
 875557	por	Ele ﬁcava levemente irritado quando era procurado por mendigos.
 875558	eng	The new law guarantees the same judicial and social rights to homosexual couples.
 875559	por	A nova lei garante os mesmos direitos jurídicos e sociais aos casais homossexuais.
-875560	eng	I don’t see the humor in anything.
+875560	eng	I don't see the humor in anything.
 875561	por	Não vejo graça em nada.
 875562	eng	This language has been in decline for several centuries until recently.
 875563	pol	Czy róże u ciebie już zakwitły?
 875564	por	Esta língua tem estado em declínio há vários séculos até recentemente.
 875565	eng	Cells have two methods of reproduction: mitosis and meiosis.
 875566	por	As células possuem dois meios de reprodução: a mitose e a meiose.
-875567	eng	They were there with some other motive in mind which she still didn’t know about.
+875567	eng	They were there with some other motive in mind which she still didn't know about.
 875568	por	Eles estavam ali por outro motivo que ela ainda não sabia.
 875569	pol	Kiedy się wymeldowujesz?
 875570	eng	In many cases, doing that is impossible.
@@ -36464,19 +36453,19 @@
 875581	por	Eles faziam uma visita geralmente aos domingos, depois do jantar.
 875582	eng	This relationship between Portugal and the United States is still maintained today.
 875583	por	Esta relação entre Portugal e os EUA se mantém até hoje.
-875584	eng	In the old man’s store, they worked day and night.
+875584	eng	In the old man's store, they worked day and night.
 875585	por	No estabelecimento do velho trabalhavam noite e dia.
-875586	eng	To tell the truth, I’ve only crossed the border once.
+875586	eng	To tell the truth, I've only crossed the border once.
 875587	por	Para falar a verdade, só atravessei uma vez a fronteira.
 875588	eng	I wrote that book.
 875589	por	Eu escrevi aquele livro.
-875590	eng	She didn’t have the courage to talk about her husband’s death.
+875590	eng	She didn't have the courage to talk about her husband’s death.
 875591	por	Ela não teve coragem de falar sobre a morte do marido.
 875592	eng	The first thing you have to do is take a bath.
 875593	por	A primeira coisa que você tem a fazer é tomar um banho.
 875594	eng	For a while you will stay here with us.
 875595	por	Por uns tempos você vai ficar aqui com a gente.
-875596	eng	The boss owes several months’ salary to the construction workers.
+875596	eng	The boss owes several months' salary to the construction workers.
 875597	por	O patrão deve vários meses de salário aos trabalhadores da construção civil.
 875598	eng	The prisoners would have to go through yet one more hardship.
 875599	por	Os presos teriam que passar ainda por outra provação.
@@ -36514,11 +36503,11 @@
 875644	por	Esta análise se divide em duas partes.
 875645	eng	One day I went to see her and told her that she should tell everything to her husband.
 875646	por	Um dia fui vê-la e disse-lhe que ela devia contar tudo ao marido.
-875647	eng	I didn’t want to go; I preferred to stay home, enjoying my solitude.
+875647	eng	I didn't want to go; I preferred to stay home, enjoying my solitude.
 875648	por	Eu não tinha vontade de ir; preferia ﬁcar em casa, curtindo minha solidão.
 875649	eng	Then speak now or forever hold your peace.
 875650	por	Então fale agora ou cale-se para sempre.
-875651	eng	I can’t remember what question I asked him.
+875651	eng	I can't remember what question I asked him.
 875652	por	Já não lembro que pergunta lhe ﬁz.
 875657	eng	The airplane was going to carry them to Bauru.
 875658	por	O avião ia levá-los a Bauru.
@@ -36570,9 +36559,9 @@
 875706	gle	Tá siad ar an taobh istigh.
 875707	eng	They're inside.
 875708	por	Eles estão dentro.
-875711	eng	Tomorrow, we’ll be starting school.
+875711	eng	Tomorrow, we'll be starting school.
 875712	gle	Le mí anuas, ní raibh sneachta ar bith againn.
-875713	eng	For the past month, we’ve had no snow at all.
+875713	eng	For the past month, we've had no snow at all.
 875714	por	No mês passado, nós não tivemos nem um pouco de neve.
 875715	gle	Thall i bPáras, labhraítear Fraincis.
 875716	por	Lá em Paris, fala-se francês.
@@ -37248,7 +37237,7 @@
 876422	epo	Ĉimatene mi ellitiĝis pli malfrue ol ĝenerale.
 876423	deu	Wann ist der Unterricht vorbei?
 876424	deu	Er hat jede Menge Bücher.
-876425	deu	Sie vermietet das Zimmer für 70.000 Yen an einen Studenten.
+876425	deu	Sie vermietet das Zimmer für 70 000 Yen im Monat an einen Studenten.
 876427	deu	Ich habe mich gegen die Grippe impfen lassen.
 876428	deu	Er war glücklich verheiratet.
 876430	deu	Erst zu diesem Zeitpunkt habe ich meinen Fehler bemerkt.
@@ -38644,7 +38633,7 @@
 877889	por	Quanto tempo se terá passado?
 877890	eng	How much time has passed?
 877891	por	Não lhe posso dizer mais nada. Já falei demais.
-877892	eng	I can tell you nothing more. I’ve already said too much.
+877892	eng	I can tell you nothing more. I've already said too much.
 877893	por	Os idiomas falados em Cabo Verde são o português e crioulos.
 877894	eng	The languages spoken in Cape Verde are Portuguese and creoles.
 877895	por	Ele casou duas vezes e teve mais de 20 filhos.
@@ -38654,7 +38643,7 @@
 877899	por	Vá buscar o remédio dela e um copo d'água.
 877900	eng	Go get her medicine and a glass of water.
 877901	por	Num país onde não querem defender os meus direitos, não quero viver.
-877902	eng	I don’t want to live in a country that doesn’t want to defend my rights.
+877902	eng	I don’t want to live in a country that doesn't want to defend my rights.
 877905	por	Mil perdões por eu entrar na sua casa tão tarde.
 877906	eng	A thousand pardons for coming into your house so late.
 877907	por	O problema é mais grave.
@@ -38681,7 +38670,7 @@
 877930	por	Deverão continuar até terminar o seu plano de estudos.
 877931	eng	You should all continue until you finish your course of study.
 877932	por	A ideia era tão avançada que eu não conseguia entender.
-877933	eng	The idea was so advanced that I couldn’t understand it.
+877933	eng	The idea was so advanced that I couldn't understand it.
 877934	por	Nunca consigo prever nada.
 877935	eng	I can never predict anything.
 877936	por	Há divisões dentro da própria organização.
@@ -41709,7 +41698,7 @@
 881093	cmn	你要這些花中的任何一朵嗎？
 881094	epo	Faktoj valoras pli ol vortoj.
 881095	cmn	我相信他是無辜的。
-881096	epo	Tiele mi ne povas pagi al vi.
+881096	epo	En la nuna stato mi ne povas pagi al vi.
 881097	cmn	我還沒有下定決心。
 881098	cmn	我還沒有拿定主意。
 881099	epo	La reala prezo pli malaltis ol mi pensis.
@@ -42513,7 +42502,7 @@
 881919	por	Ele está nadando agora.
 881920	por	Tom conheceu Maria numa festa, e foi amor à primeira vista.
 881921	deu	Auch schlechte Filme muss man sich anschauen, dann kann man sich ein besseres Urteil über die guten machen.
-881922	deu	Ich weiss, wie du heißt.
+881922	deu	Ich weiß, wie du heißt.
 881923	deu	Dieses Hotel ist besser als das andere.
 881924	deu	Ich dachte, dass das wahr ist.
 881925	deu	Du kannst kein Omelett machen, ohne ein paar Eier aufzuschlagen.
@@ -42747,7 +42736,7 @@
 882179	rus	Я работаю.
 882180	rus	В какое время ты просыпаешься утром?
 882181	rus	Это идеальная погода для пикника.
-882182	rus	Я слышал, что Джилл играет на пианино.
+882182	rus	Я слышал, как Джилл играет на пианино.
 882183	por	Isso está longe de acabar.
 882184	fra	Nous avons toutes les raisons de le croire innocent.
 882185	rus	Мы разговаривали на языке жестов.
@@ -42757,7 +42746,7 @@
 882189	rus	Некоторые студенты пренебрегают занятиями в угоду спорту.
 882190	fra	Le chien est mort de froid.
 882191	fra	Nous avons acheté nos billets d'avion deux mois à l'avance.
-882192	rus	На языке Наси говорят в юго-западном Китае.
+882192	rus	На языке наси говорят в юго-западном Китае.
 882193	ido	Me ne parolas la Japoniana linguo.
 882194	ido	Nulu komprenas me.
 882195	ido	Me lernis vivar sen el.
@@ -43940,7 +43929,7 @@
 883416	ita	Non posso seguirti.
 883417	ita	Non posso seguirvi.
 883418	ita	Non posso seguirla.
-883419	ukr	Він працює щодня крім неділі.
+883419	ukr	Він працює щодня, крім неділі.
 883420	ita	Sei pronto a cominciare la tua avventura?
 883421	ita	Siete pronti a cominciare la vostra avventura?
 883422	ita	Imparai presto a nuotare.
@@ -44533,7 +44522,7 @@
 884050	pol	Aby być ludźmi, musimy wyjść poza naszą naturę zwierząt.
 884051	nld	Ik sta altijd onder druk.
 884052	ido	Me devas irar dormar.
-884053	nld	De rivier die door Parijs stroomt is de Seine.
+884053	nld	De rivier die door Parijs stroomt, is de Seine.
 884054	ido	Por agar lo, oportas riskar.
 884055	ido	Ka tu esas certa?
 884056	por	Você sabe usar um computador?
@@ -45774,7 +45763,7 @@
 885364	cmn	這是三十年代以來最乾旱的六月。
 885365	cmn	我跑。
 885366	eng	Life is a long illness that rarely sleeps and can never be cured.
-885367	fra	Les chefs-d'oeuvre ne sont jamais que des tentatives heureuses.
+885367	fra	Les chefs-d'œuvre ne sont jamais que des tentatives heureuses.
 885368	eng	Masterpieces are only successful attempts.
 885369	fra	Le vrai est trop simple, il faut y arriver toujours par le compliqué.
 885370	eng	The truth is too simple, one can only go there by way of the complex.
@@ -47075,7 +47064,7 @@
 886732	por	Estou olhando o assunto por um ponto de vista diferente.
 886733	por	Estou me formando em medicina.
 886734	por	Fiz ao médico algumas perguntas.
-886735	por	Quero ser um médico, um enfermeiro ou um professor.
+886735	por	Quero ser médico, enfermeiro ou professor.
 886736	por	Eu sou médico.
 886737	por	Eu não sou médico, mas professor.
 886738	por	Eu quero ser médico.
@@ -49305,7 +49294,7 @@
 889016	fra	J'aimerais voir un spectacle de danse. Pourriez-vous m'informer?
 889017	fin	Voisit korvata väitöskirjassasi ainakin pari saksan sanaa englanninkielisillä vastineilla, jotta sitä ei liian selvästi huomattaisi plagiaatiksi.
 889018	tur	Yangın mutfakta başladı.
-889019	fra	Ce que je demande à mon lecteur, c'est qu'il voue sa vie entière à lire mes oeuvres.
+889019	fra	Ce que je demande à mon lecteur, c'est qu'il voue sa vie entière à lire mes œuvres.
 889020	tur	Ben bir elektrikçiyim.
 889021	epo	Tamen, kiam temas pri lingvo, nur la kapablon paroli kaj kompreni ni heredas per genoj. La lingvo aŭ lingvoj, kiujn ni propre parolas, transdoniĝas al ni ne per genoj sed per kulturo.
 889022	epo	Mia kato mortis jam antaŭ du tagoj.
@@ -49998,3 +49987,14 @@
 889723	isl	Hún bað hann um að vera eftir en hann vildi það ekki.
 889724	isl	Hún bað hann um að vera eftir en hann þurfti að fara í vinnuna.
 889725	isl	Hún bað hann um að fara ekki en hann þurfti að fara í vinnuna.
+889726	isl	Hún spurði hann hvar hann byggi en hann var of klár til að segja henni það.
+889727	isl	Hún spurði hann hvar hann byggi.
+889728	isl	Hún spurði hann hvar Jessie væri.
+889729	isl	Hún spurði hann af hverju hann væri að gráta en hann vildi ekki svara.
+889730	isl	Hún spurði hann af hverju hann væri að gráta.
+889731	isl	Hún spurði mig hvað hefði orðið af honum en ég vissi það ekki.
+889732	isl	Hún spurði mig hvað hefði orðið af honum.
+889733	isl	Hún sannfærði mig um að allt væri í lagi.
+889734	isl	Hún réðst á hann með hafnaboltakylfu.
+889735	isl	Hún réðst á hann með skærum.
+889736	isl	Hún réðst á hann með hnefunum.

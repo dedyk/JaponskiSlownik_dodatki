@@ -1,61 +1,3 @@
-4091727	hun	Tom bemenet a dolgozószobájába és magára zárta az ajtót.
-4091728	hun	Tom bement a szobájába és magára zárta az ajtót.
-4091729	hun	Tom nem nyitott ajtót.
-4091730	hun	A tanár azt mondta, hogy Mary kiegyensúlyozott gyerek, aki jól teljesít az iskolában.
-4091731	fra	Je rote beaucoup.
-4091732	epo	Tomo estis certa, ke vi ŝatus tion.
-4091733	hun	Tudsz maradni pár napig?
-4091734	hun	Nem bölcs dolog két kígyót tartani egy tartályban.
-4091735	epo	Kial vi diras "adiaŭ"?
-4091736	hun	Tom segítene nekünk, ha tudna.
-4091737	epo	Prenu trinkaĵon!
-4091738	deu	Gestern ist unwiederbringlich vorbei.
-4091739	hun	- Brokkoli vagyok, és úgy nézek ki, mint egy fa! - Dió vagyok, és úgy nézek ki, mint egy agy! - Gomba vagyok, és utálom ezt a játékot!
-4091740	hun	Szóljál, ha készen állsz.
-4091741	epo	Infanoj ŝategas ludi per Lego-briketoj.
-4091742	hun	Azt hittem, hogy neked már van.
-4091743	hun	Azt hittem, hogy Tom egyedülálló.
-4091744	hun	Akarod, hogy csináljak valamit?
-4091745	hun	Akarod, hogy felvegyelek?
-4091746	hun	Ti most rólam beszéltek?
-4091747	hun	Mire készültök?
-4091748	hun	Azt hittem, hogy Tom házas.
-4091749	hun	Most is hűvös szél fúj a tenger felől.
-4091750	hun	Hűvös szél fúj a tenger felől.
-4091751	hun	Rád kényszerítsük?
-4091752	hun	Tom megtörölte a lábát a lábtörlőn.
-4091753	epo	Vi estas la venkintoj!
-4091754	hun	Nagyon csalódott voltam.
-4091755	hun	Vegán vagyok.
-4091756	hun	Remélem, Tom nem olyasvalamit csinál, amit nem kellene.
-4091757	hun	Langyos szél fúj a tenger felől.
-4091758	hun	Tom minden reggel elviszi a gyerekeket az iskolába.
-4091759	ita	Mi sono arrabbiato.
-4091760	ita	Io mi sono arrabbiato.
-4091761	tur	Biri kapıyı açsın.
-4091762	ita	Mi sono arrabbiata.
-4091763	ita	Io mi sono arrabbiata.
-4091764	ita	Mi arrabbiai.
-4091765	ita	Io mi arrabbiai.
-4091766	hun	Nagyon csalódott vagy?
-4091774	tur	Ah, şimdi gerçekten garip ...
-4091775	epo	Kien vi iros ĉi-vespere?
-4091776	hun	Nem hiszek a tündérekben.
-4091777	tur	Ben boşandım
-4091778	tur	Ben dulum.
-4091779	epo	Ekkaptu mian karabenon!
-4091780	hun	Tegyünk egy próbát!
-4091782	tur	O başka bir şekilde ifade edilebilir mi?
-4091783	tur	Benim dört çocuğum var.
-4091784	tur	Senin kaç kız kardeşin var?
-4091785	epo	Se diri la veron, li estis relative timida.
-4091786	hun	Tettünk egy próbát.
-4091787	tur	Kitap okumak benim hobim.
-4091788	tur	Onun gözleri güzel.
-4091789	epo	Li estis feliĉa por certa tempo.
-4091790	hun	Elégtételt követelek!
-4091791	epo	Mi ne deziris kuiri.
-4091792	hun	Elégtételt követelünk!
 4091793	tur	Fransızcayı yeterince iyi konuşamıyorum!
 4091794	tur	Biz Macarız.
 4091795	hun	A zene jó ötlet.
@@ -5683,7 +5625,7 @@
 4097687	hun	Én nem javaslom.
 4097688	hun	Mi nem javasoljuk.
 4097689	hun	Tudom a folytatást.
-4097690	hun	Ha már ilyen szépen együtt vagyunk, miért ne érezzük jól magunkat!
+4097690	hun	Ha már ilyen szépen együtt vagyunk, miért ne érezzük jól magunkat?
 4097691	hun	Nézd, ne köntörfalazzunk.
 4097692	lit	Tu studijoji kiekviena dieną?
 4097693	epo	Marŝu apud mi.
@@ -6244,7 +6186,7 @@
 4098282	tur	Tom notlarına göz atıyor.
 4098283	hun	Nem lehet semmi közöd hozzá.
 4098284	tur	Tom bir roman yazmaya başladı.
-4098285	eng	Mary likes fashion and make-up.
+4098285	eng	Mary likes fashion and makeup.
 4098286	tur	Tom şimdi üç yıldır yurt dışında.
 4098287	tur	Tom bile artık daha endişeli görünüyor.
 4098288	hun	Majd megöl a kíváncsiság!
@@ -9308,7 +9250,7 @@
 4101529	pol	Nie planuję być tutaj tak długo.
 4101530	epo	Se eblus renkonti historian elstarulon, kiun vi volus renkonti?
 4101531	pol	Nie planuję ci nic mówić.
-4101533	pol	Moja żona mnie bije
+4101533	pol	Moja żona mnie bije.
 4101534	pol	Nie bardzo wiem, co powiedzieć.
 4101535	pol	Idę w sobotę do szkoły.
 4101536	epo	Tomo kaj Manjo ĝis nun al neniu diris, ke ili intencas geedziĝi.
@@ -17708,7 +17650,7 @@
 4110378	fra	Quelle en a été l'issue ?
 4110379	mkd	Том е наполно безопасен.
 4110380	mkd	Том е доста безопасен.
-4110381	fra	Quel en fut le résultat ?
+4110381	fra	Quel en fut le résultat ?
 4110382	mkd	Изгледа прилично безопасно.
 4110384	mkd	Оваа мува е сосем безопасна.
 4110385	mkd	Наваму, господа!
@@ -17811,7 +17753,7 @@
 4110488	mkd	Мери никогаш нема да ослабе затоа што не е способна да држи диета.
 4110489	nob	Jeg har funnet det.
 4110490	mkd	Медицинската сестра го седна малечкиот Том и го замоли да си го исплази јазикот.
-4110491	eng	The main shops are in the city centre
+4110491	eng	The main shops are in the city centre.
 4110492	nob	Han veier 10 kilo mer enn meg.
 4110493	ara	البيت الشعري القادم مؤثر اكثر .
 4110494	mkd	„Ова е волшебно стапче.“ „Сигурен ли си, Том? Мене ми личи на најобично стапче.“
@@ -20799,7 +20741,7 @@
 4113733	hun	Micsoda pökhendi népség!
 4113734	hun	Ha untatlak, inkább nem folytatom.
 4113735	hun	Nem vagyok én olyan mimóza!
-4113736	fra	Je me suis inquiété beaucoup pour toi.
+4113736	fra	Je me suis beaucoup inquiété pour toi.
 4113737	deu	Tom war nicht so dumm, Maria zu sagen, was er wirklich dachte.
 4113738	hun	Ez az ügy egyre jobban nyomaszt.
 4113739	epo	Tomo evitis la stultaĵon diri al Manjo, kion li vere opinias.
@@ -22394,7 +22336,7 @@
 4115366	eng	He has spent all his born days in the village.
 4115367	rus	Мы на углу повернули налево и поехали на север.
 4115368	fra	J'ignorais comment.
-4115369	rus	Мы на углу свернул влево и поехали на север.
+4115369	rus	На углу мы свернули налево и поехали на север.
 4115370	nld	De zevende dag rustte God.
 4115371	rus	Ты не мог бы меня подвезти на своей машине?
 4115372	rus	Том некомпетентен.
@@ -23298,7 +23240,7 @@
 4116339	aze	Mən qısqanmıram.
 4116340	tur	Eve güvenle geldiğine memnun oldum.
 4116341	aze	Tom gecə növbəsində işləyir.
-4116342	tur	Tom'un güvenle eve vardığına mutlu olduk.
+4116342	tur	Tom'un güvenle eve vardığına mutluyuz.
 4116343	epo	Mi esperas vin feliĉaj.
 4116344	tur	Ben de Yunan mitolojisi ile ilgileniyorum.
 4116345	fra	Ce film est ennuyeux.
@@ -23496,7 +23438,7 @@
 4116551	epo	Fortega oceana ŝtormo trafis Antilojn.
 4116552	epo	Ĉu vi tradukis tiun libron?
 4116554	epo	Nuntempe mia fratino estas vendistino en superbazaro.
-4116556	rus	Она — невероятно красивая женщина.
+4116556	rus	Она невероятно красивая женщина.
 4116560	rus	Он похож на свою тётю.
 4116562	epo	Mi ne scias, kial vi ĉiuj estas tiom koleraj.
 4116564	epo	Vi similas iun, kiun mi konas.
@@ -24046,7 +23988,7 @@
 4117136	tat	Ялгышу иреген дә үз эченә алмаган ирекнең әһәмияте юк.
 4117137	deu	Die Freiheit ist nichts wert, wenn sie keine Freiheit, Fehler zu machen, beinhaltet.
 4117138	rus	Свобода ничего не стоит, если она не включает в себя свободу ошибаться.
-4117139	epo	Ni nin retrovas ĵus en la sama loko.
+4117139	epo	Ni nin retrovas precize en la sama loko.
 4117140	por	Nós nos encontramos de novo exatamente no mesmo lugar.
 4117141	tat	Тормышта ни генә эшләсәң дә, артык әһәмияте булмас. Ләкин эшләвең үзе бик мөһим булыр.
 4117142	epo	Nia domo estas konstruita ĵus supre de la kaverno.
@@ -25279,7 +25221,7 @@
 4118425	ita	Perché non vieni a danzare con me?
 4118426	spa	¿Por qué me das dinero? Eso no es normal.
 4118427	tur	Tom kolayca pes etmeyecek.
-4118428	deu	Der bekannte Kinderschriftsteller Eduard Uspensky, Schöpfer der Zeichentrickcharakter Tscheburaschka, sagte in seinem Interview mit TV-Sender “Der Regen”, dass 90 Prozent der Russländer an Schwachsinn leiden.
+4118428	deu	Der bekannte Kinderbuchautor Eduard Uspenski, der Schöpfer der Zeichentrickfigur Tscheburaschka, sagte in einem Interview mit dem Fernsehsender „Der Regen“, dass 90 Prozent der Staatsbürger Russlands an Schwachsinn leiden.
 4118429	epo	Li tre bone kisas.
 4118430	spa	Le gustarán.
 4118431	tur	Tom kolayca vazgeçen insan türü değil.
@@ -28331,7 +28273,7 @@
 4121640	epo	Ĉu vi povas komenci morgaŭ?
 4121641	tur	Hem Tom hem de Mary benim meslektaşlarım.
 4121642	rus	Кому принадлежит этот автомобиль?
-4121643	tur	Bize bir fıkra anlat.
+4121643	tur	Bize bir fıkra anlat!
 4121645	tur	Tatoeba'ya kaç kişi katkıda bulunuyor?
 4121646	epo	Tiu diamanto ne estas aŭtenta.
 4121647	tur	Halam hem Çince hem de İngilizce konuşabilir.
@@ -28771,7 +28713,7 @@
 4122120	tur	Hem Tom hem de Mary hiç Fransızca anlamıyor.
 4122121	ita	Questo testo è difficile da leggere.
 4122122	pol	Nie wiem, o czym to wszystko jest.
-4122123	tur	Hem Tom hem de Mary tek seferde konuşmaya çalıştılar.
+4122123	tur	Hem Tom hem de Mary her ikisi de hemen konuşmaya çalıştılar.
 4122124	tur	Hem Tom hem de Mary aynı zamanda ayağa kalktılar.
 4122125	ita	Quel cappello sta bene addosso a Tom.
 4122126	ita	Quel cappello sta bene indosso a Tom.
@@ -31032,7 +30974,7 @@
 4124455	eng	Tom is just a platonic friend.
 4124456	rus	Вы должны отменить поездку.
 4124457	rus	Вам следует отменить поездку.
-4124458	eng	Tom has blonde hair and green eyes.
+4124458	eng	Tom has blond hair and green eyes.
 4124459	rus	Ты должен отменить поездку.
 4124460	rus	Ты должна отменить поездку.
 4124461	cat	No te'n vagis gaire lluny!
@@ -31441,7 +31383,7 @@
 4124875	deu	Es ist niemand anderes daran schuld als ich.
 4124876	rus	Хуан сегодня в плохом настроении.
 4124877	deu	Wir sind nur befreundet. Echt!
-4124878	deu	Maria und Katja sind untrennbar.
+4124878	deu	Maria und Katrin sind unzertrennlich.
 4124879	epo	Mi faris koncedojn.
 4124880	hun	Ezt színtiszta rasszizmus!
 4124881	deu	Tom behandelt mich wie eine Prinzessin.
@@ -31462,7 +31404,7 @@
 4124897	deu	Geht ihr jeden Sonntag zur Kirche?
 4124898	deu	Gehen Sie jeden Sonntag zur Kirche?
 4124899	deu	Tom ist nur ein platonischer Freund.
-4124900	deu	Tom hat blonde Haare und grüne Augen.
+4124900	deu	Tom hat blondes Haar und grüne Augen.
 4124901	deu	Tom kann nicht zwischen Phantasie und Wirklichkeit unterscheiden.
 4124902	tur	Hayvanlarına zarar vermedim.
 4124903	deu	Die meisten von Amerikanern getragenen Kleidungsstücke werden außerhalb Amerikas gefertigt.
@@ -33211,7 +33153,7 @@
 4126715	rus	Мудрец забывает оскорбления, как неблагодарный человек забывает добрые дела.
 4126716	tur	Ben kentten ayrılıyorum.
 4126717	tur	O birkaç kez uyarıldı.
-4126718	epo	Tiam Germanujo fariĝos respubliko, kontraŭ kiu Romo kaj Sparto estos monaĥejoj.
+4126718	epo	Iam Germanujo fariĝos respubliko, kontraŭ kiu Romo kaj Sparto estos monaĥejoj.
 4126719	mkd	Провери си ги одговорите двапати.
 4126720	mkd	И мама и тато појдоа на работа.
 4126721	mkd	Мама, а и тато, отидоа на работа.
@@ -34498,7 +34440,7 @@
 4128069	tur	O ne beyzbolu ne de futbolu sever.
 4128070	epo	Ŝi estas ne indiferenta kontraŭ li.
 4128071	tur	Babam ne içki içer ne de sigara içer.
-4128072	tur	kendi mezarını kazıyor.
+4128072	tur	Kendi mezarını kazıyor.
 4128073	ita	Non abbiamo il potere.
 4128074	ita	Noi non abbiamo il potere.
 4128075	tur	Ne Tanrı ne de Buda vardır.
@@ -36589,7 +36531,7 @@
 4130214	fra	Il lui a ouvert son cœur.
 4130215	eng	The President had the power to save the men from execution at the stroke of a pen.
 4130216	fra	J'aime la natation.
-4130217	hun	Tamás egyszerűen elragadó
+4130217	hun	Tamás egyszerűen elragadó.
 4130218	tur	Görülecek hiçbir şey yok.
 4130219	fra	Elle a fini par chercher un autre petit chat.
 4130220	fra	Je suis myope.
@@ -38518,7 +38460,7 @@
 4132209	rus	Эй, полегче на поворотах!
 4132210	eng	You may go where you please.
 4132211	deu	Sie können gehen, wohin Sie wollen.
-4132212	deu	Vous avez le clef des champs.
+4132212	fra	Vous avez le clef des champs.
 4132214	rus	Не зазнавайся, Том.
 4132215	rus	Хватит важничать, Том.
 4132216	rus	Том, спустись на грешную землю.
@@ -40247,7 +40189,6 @@
 4133975	ces	Bývali bychom se bavili, kdybychom bývali šli na tu párty.
 4133976	ces	Opravdu jsem to měl vědět.
 4133977	mkd	Го изгубивме облогот.
-4133978	ita	Ma come si fa a vivere con un morto sulla coscenza?
 4133979	mkd	Том ѕирна во кутијата да види што има внатре.
 4133980	pol	Szkoda, że cię z nami nie było.
 4133981	mkd	Знаев дека ќе дојде овој ден.
@@ -44436,7 +44377,7 @@
 4138316	rus	Ну, спасибо, шеф. Услужил.
 4138318	rus	Вот с кем теперь нам работать придётся.
 4138319	rus	Но главное, Том, кажется, успел выяснить.
-4138320	rus	Ну, что? Разобрались в проблеме? Нет? Я так и думал.
+4138320	rus	Ну что? Разобрались в проблеме? Нет? Я так и думал.
 4138321	rus	Этот документ — строго для служебного пользования.
 4138322	rus	Но это всё только теория.
 4138323	rus	Том знает, что его ищут.
@@ -46546,7 +46487,6 @@
 4140474	pol	Nigdy nie przestałem cię kochać.
 4140475	pol	Nigdy o tym nie myślę.
 4140476	pol	Nigdy wcześniej o tym nie myślałem.
-4140477	spa	Son manirrotos.
 4140478	pol	Nigdy o tym w ten sposób nie myślałem.
 4140479	pol	Nigdy tak o tym nie myślałem.
 4140480	rus	Они транжиры.
@@ -47328,8 +47268,8 @@
 4141325	rus	Это стол был слишком тяжёлым, чтобы его поднять.
 4141326	ind	Bunga lotus memiliki aroma yang tidak dapat diungkapkan dengan kata-kata.
 4141327	pol	Głupi byłem, że zaufałem Tomowi.
-4141328	rus	Первым делом, он развязал шнурки и снял свои ботинки.
-4141329	rus	Первым делом, он развязал шнурки и стянул с себя ботинки.
+4141328	rus	Первым делом он развязал шнурки и снял ботинки.
+4141329	rus	Первым делом он развязал шнурки и стянул с себя ботинки.
 4141330	ind	Semuanya tertawa, termasuk Tom.
 4141331	pol	Oskarżony próbował uzasadnić swoje postępowanie.
 4141332	ind	Apa kamu tahu apa yang sedang aku lakukan?
@@ -48633,7 +48573,7 @@
 4142681	aze	Boğuldu.
 4142682	tur	Tom benim Boston'daki tek arkadaşımdı.
 4142683	lit	Nekenčiu savo kompiuterio.
-4142684	deu	Meri arzudan soluk soluğa.
+4142684	tur	Meri arzudan soluk soluğa.
 4142685	fin	Tomi ei enää halua asua täällä.
 4142686	vol	Krits klödoms das Yesus binom son Goda.
 4142687	tur	Tom onu Boston'a kadar yaptı.
@@ -49998,3 +49938,63 @@
 4144098	tur	Sen benden daha iyi bir sürücüsün.
 4144099	tur	Tom yaklaşık olarak benimle aynı yaşta.
 4144100	hun	A húgod már majdnem tizenhét éves.
+4144101	nld	Op het speelgoed zat een label met de tekst: "Niet geschikt voor kinderen onder 16 jaar".
+4144102	tur	Tom Fransızcada benden daha iyi.
+4144103	nld	Hebben jullie iets gevonden?
+4144104	tur	Tom'u bir kızla el ele tutuşurken gördüm.
+4144105	tur	Tom benden çok daha iyi bir aşçı.
+4144106	hun	Én semmit sem mondtam!
+4144107	tur	Tom benden oldukça daha zengin.
+4144108	tur	Asla senin hakkında endişelenmek zorunda değildim.
+4144109	nld	Hij groette ons niet eens wanneer wij hem maar ontmoetten.
+4144110	fin	Voisitko kertoa Tomille, että Mari soitti.
+4144111	hun	Úgy harminc perc múlva ott vagyok.
+4144112	nld	Ik ben nu dertig.
+4144113	tur	Tom piyanoda benden daha iyi.
+4144114	fin	Kertoisitko Tomille, että Mari soitti.
+4144115	tur	Tom benimle aynı takımda.
+4144116	nld	Socrates, Plato en Aristoteles zijn de drie grootste filosofen van de klassieke oudheid.
+4144117	rus	Поразительно, что в иврите тоже есть такое слово.
+4144118	fin	Tom sanoi, ettei hän tiennyt, mitä Mari halusi hänen ostavan.
+4144120	fin	Tom teki listan asioista, jotka hänen tarvitsi ostaa.
+4144121	tur	Tom bunda benden daha iyi.
+4144122	fin	Tom on saattanut olla Bostonissa Marin kanssa viime viikolla.
+4144123	tur	İlk olarak, kadınların erkeklerden daha fazla boş vakitleri var. İkinci olarak, onlar erkeklerden daha az endişelenecek şeylere sahipler.
+4144124	fin	Tom meni Bostoniin viikoksi.
+4144125	nld	Ik en jij lezen allebei.
+4144126	fin	Tom puhui Bostonista.
+4144127	fin	Kuinka pitkään Tom on Bostonissa?
+4144128	tur	Tom yalnızca birkaç saat uyudu.
+4144129	fin	Tom osti kivan talon Bostonista.
+4144130	tur	Tom benden daha iyi bir aşçı.
+4144131	fin	Tom on myynyt talonsa Bostonissa.
+4144132	hun	Körülbelül harminc percen belül megérkezem.
+4144133	tur	Tom saat yedide eve vardı.
+4144134	tur	Tom benden daha yetenekli.
+4144135	deu	„Brokkoli“ ist im Russischen ein Femininum, im Deutschen ein Maskulinum, in der Herkunftssprache Italienisch aber ein Plural.
+4144136	nld	Niemand weet waar hij heen is.
+4144137	hun	Mintegy harminc perc alatt érek oda.
+4144138	rus	Если бы все добавляли лишь идеальные предложения, этот проект был бы не таким интерактивным и интересным.
+4144139	tur	Sen benden daha iyi bir aşçısın.
+4144140	tur	Seyirciler arasında öğretmenler, avukatlar, mühendisler ve benzerleri vardı.
+4144141	tat	Бар кызыксынганың шул булдымыни инде?
+4144142	tur	Tom matematikte benden daha iyi.
+4144143	tur	İşçi su getiriyor.
+4144144	hun	Harminc perc kell, hogy odaérjek.
+4144145	tur	Onun cömertliğine büyük bir hayranlığım vardı.
+4144146	tur	Tom benden daha iyi görünüyor.
+4144147	tat	Көн саен иртән ул саф һавага чыга.
+4144148	fin	”Brokkoli” on venäjässä feminiini, saksassa maskuliini, ja alkuperäiskielessään italiassa se taas on monikkomuoto.
+4144150	tur	Tom geleneksel cinsiyet rollerine inanır.
+4144151	rus	Мы можем минуту переговорить с тобой с глазу на глаз?
+4144153	tur	Tom erkeklerin kadınlar üzerinde hakimiyet kurması gerektiğine inanır.
+4144154	tur	Tom sadece benim kadar yaşlı.
+4144155	tat	Ул акчасын онытып калдырганмы?
+4144156	fin	Tom teki läksynsä keittiössä.
+4144157	tur	Tom ataerkil bir topluma inanır.
+4144158	fin	Tom selitti miten hän menetti rahansa.
+4144159	nld	Als dit schilderij half zoveel waard was als hij zegt, hadden wij het allang moeten verkopen.
+4144160	tat	Юлда беркемне дә очратмадыгызмы?
+4144161	fin	Tom hirtti itsensä vankiselliinsä.
+4144162	tur	Tom kesinlikle kim olduğumu biliyor.
+4144163	fin	Tom vei Marin ja tämän tyttären kotiinsa.

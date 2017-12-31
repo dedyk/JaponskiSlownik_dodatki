@@ -1,52 +1,3 @@
-3121204	rus	Сегодняшний маленький ресторан завтра может быть большим отелем.
-3121205	swe	En vacker dag kommer även du att förstå.
-3121207	swe	Kan vi ta det en annan dag?
-3121208	swe	Jag är verkligen jättetrött.
-3121210	swe	Han hade fel på hälften av frågorna.
-3121211	hun	A matematika minden tudomány alapja.
-3121212	rus	Все знают о том, что на войне он потерял ногу.
-3121213	swe	Utan dig vet jag inte vad jag skulle ta mig till.
-3121214	swe	Man överlever inte utan vatten.
-3121215	hun	Itt van a könyved.
-3121216	swe	Det var visst en dålig idé, trots allt.
-3121217	hun	Javaslatod mellett vagyok.
-3121218	swe	Det sa ja visst inte!
-3121219	rus	Все знают, что на войне он лишился своей ноги.
-3121220	hun	Támogatom a javaslatodat.
-3121221	swe	Han menade visst allvar.
-3121222	swe	Tre baguetter, tack.
-3121223	swe	Vad var det du ville prata om?
-3121224	hun	Mondtam neki, hogy a lehető legjobban fogok cselekedni.
-3121226	swe	Nu är våren kommen.
-3121228	swe	Nu har våren kommit.
-3121229	swe	Det här är vår bil.
-3121230	swe	Det är ditt liv och dina val.
-3121231	swe	Hon fick sätta livet till.
-3121232	swe	På vilket sätt då?
-3121233	deu	Er hat wenig empfehlenswerten Umgang.
-3121234	rus	К сожалению, моя мама не дома.
-3121235	swe	Han pratar alltid på ett väldigt nedlåtande sätt.
-3121237	swe	Det bara blev så.
-3121238	swe	Hon tog tag i hans arm.
-3121240	swe	Han försökte lära barnen att inte ta emot saker från främlingar.
-3121241	rus	Я не пригласил его на вечеринку. Я чувствую себя виноватым из-за этого.
-3121242	swe	Redan efter första backen fick han håll.
-3121243	swe	På håll ser den fin ut.
-3121244	swe	På håll ser den inte så värst stor ut.
-3121245	rus	Они поручили мне эту важную работу.
-3121246	swe	Domen har fallit.
-3121247	swe	Domen löd på fem års fängelse.
-3121248	deu	Ich habe gestern zwei Stunden lang versucht, dieses kaputte Radio zu reparieren.
-3121249	swe	Han sätter sig gärna till doms över allt och alla.
-3121250	swe	Han kan tala med de döda.
-3121251	deu	Ich sah Tom Tennis spielen.
-3121252	swe	Har du tid en stund?
-3121253	swe	Hur lång tid tror du att resan kommer att ta?
-3121254	swe	Tycker du att de här byxorna är för vida?
-3121255	deu	Ich fühle mich etwas verantwortlich.
-3121256	swe	Kan du inte bara sluta nu.
-3121257	swe	Det var inte alls vad jag trodde.
-3121258	swe	Jag gillar när du tittar på mig så där.
 3121259	swe	Det var precis vad jag skulle säga.
 3121260	swe	Paketet står precis innanför dörren.
 3121261	swe	Hon hann precis i tid till bussen.
@@ -3968,7 +3919,6 @@
 3125611	pol	Nie uderz mnie.
 3125612	dan	Den gamle mand havde et ædelt ansigt.
 3125613	epo	Mi decidis ne plu porti subvestaĵojn.
-3125614	fra	Hier soir, je me suis endormi la télévision allumée.
 3125615	dan	I Istanbul er der cirka tre tusind moskeer.
 3125616	hun	A minap egy kicsit fáradtak éreztem magam, ezért ezen a héten nem mentem el úszni.
 3125617	dan	Penge er magt.
@@ -5516,7 +5466,7 @@
 3127399	nld	Ben je voor of tegen mijn project?
 3127400	nld	Hebt u alles gelezen?
 3127401	rus	Я забыл, что это Том научил тебя играть на гитаре.
-3127402	nld	Heb je al een UFO gezien?
+3127402	nld	Heb je al een ufo gezien?
 3127403	nld	Heb je al alle problemen opgelost?
 3127404	nld	Heb je dat boek nu uit?
 3127405	nld	Het is hoog tijd dat je naar de kapper gaat.
@@ -7177,8 +7127,8 @@
 3129183	eng	His house and mine are adjacent.
 3129184	eng	How do you usually spend your weekends?
 3129185	eng	Mark will sell the car.
-3129186	eng	Where will you sleep? We will sleep at the hotel.
-3129187	eng	When will you return to Italy? I will return next year.
+3129186	eng	"Where will you sleep?" "We will sleep at the hotel."
+3129187	eng	"When will you return to Italy?" "I will return next year."
 3129188	eng	I tend to forget what I say when I'm drunk, but I'm confident that it reflects my true feelings.
 3129189	eng	I accept your offer.
 3129190	eng	When I looked at my travel pictures of when I went on a trip alone to Australia, I felt like crying.
@@ -7736,7 +7686,7 @@
 3129754	eng	Don't worry. These things happen.
 3129755	eng	Don't you see what's happening?
 3129756	eng	Everybody saw what happened.
-3129757	eng	Guess what just happened?
+3129757	eng	Guess what just happened.
 3129758	eng	Has that ever happened before?
 3129759	eng	Has this ever happened before?
 3129760	eng	Here is where it all happens.
@@ -8170,7 +8120,7 @@
 3130199	swe	Har du hunnit hämta igen dig än?
 3130200	swe	Hämtar du hem en film som vi kan se i kväll?
 3130201	eng	Tom and Mary will probably never see each other again.
-3130202	swe	Jag ska hämta ut ett paket från posten.
+3130202	swe	Jag ska hämta ut ett paket på posten.
 3130203	eng	Tom and Mary aren't likely to ever see each other again.
 3130204	swe	Jag hämtar dig efter jobbet.
 3130205	swe	Jag måste bara hämta andan först.
@@ -8527,7 +8477,7 @@
 3130585	rus	Этого я ещё не знаю.
 3130586	rus	Тебе необязательно бросать работу.
 3130587	rus	Вам необязательно уходить с работы.
-3130588	ukr	Можна зробити з того пропозицію якусь-небудь.
+3130588	ukr	Можна зробити з того пропозицію яку-небудь.
 3130589	rus	Ну ладно. Продолжайте.
 3130590	rus	Пока не знаю.
 3130591	rus	Я пока не знаю.
@@ -9057,7 +9007,7 @@
 3131151	ber	Ur terri ara tmara ad yeḍru waya tikkelt niḍen.
 3131153	ber	Tlid kra n takti ɣef wayen ay yeḍran?
 3131154	ita	Non riesco a vedere cosa sta succedendo.
-3131156	epo	Mi hazarde rekontis malnovan amikon.
+3131156	epo	Mi hazarde renkontis malnovan amikon.
 3131157	ber	Tesɛid kra n takti ɣef wayen ay yeḍran?
 3131159	ber	Kullec la iḍerru s tɣawla, da.
 3131160	ber	Tzemred ad aɣ-d-tinid d acu ay yeḍran?
@@ -11916,7 +11866,6 @@
 3134200	fra	Elle est assez soumise, mais sans s'en rendre compte, c'est ancré dans son caractère : elle s'excuse, elle prend des pincettes, elle exécute.
 3134201	spa	Te tomas demasiado en serio la crítica.
 3134202	spa	Estas noticias son demasiado buenas para ser ciertas.
-3134203	eng	By reason or by force.
 3134204	spa	Tom tiene problemas para expresar sus verdaderos sentimientos.
 3134205	eng	I'll lend you one, if you wish.
 3134206	epo	Tomo malfacile esprimas siajn verajn sentojn.
@@ -13258,7 +13207,7 @@
 3135651	deu	Eine gute Magd wird eine gute Frau.
 3135652	deu	Gute Tage kosten Geld.
 3135653	deu	Hubble ist ein Teleskop im All.
-3135654	epo	Hubble estas teleskopo en spaco.
+3135654	epo	Hubble estas teleskopo en la spaco.
 3135655	eng	You know I'd never let anything happen to you.
 3135656	eng	What happened to the man who shot Tom?
 3135657	eng	What happened to all the money I gave you?
@@ -14286,7 +14235,7 @@
 3136764	deu	Sie brannten darauf, zu erfahren, was geschehen war.
 3136765	rus	Чего вы смеётесь?
 3136766	eng	That's not the only problem with your idea.
-3136767	eng	The number 6 people are extremely magnetic
+3136767	eng	The number 6 people are extremely magnetic.
 3136768	por	Nós temos direito a acessar a informação.
 3136769	rus	То, что он сказал, не считается.
 3136771	por	Nós temos o direito de acessar a informação.
@@ -15932,7 +15881,7 @@
 3138687	epo	Li ne iris al la lernejo.
 3138688	epo	Kaptu tiom da ili, kiom vi bezonas.
 3138690	epo	Mi laboras kun mia kunulo.
-3138691	eng	I have tried to change my shyness but to no avail.
+3138691	eng	I have tried to overcome my shyness, but to no avail.
 3138692	epo	Ĉu vi volas sidiĝi apud mi?
 3138701	deu	Ich esse ein Butterbrot.
 3138706	lit	Saulės užtemimas įvyksta, kai Mėnulis užstoja Saulės šviesą.
@@ -16444,12 +16393,12 @@
 3139258	por	A boa música nunca vai passar da moda.
 3139259	fra	Je pensais que tout le monde savait.
 3139260	rus	Нам не хватает нескольких деталей, чтобы в точности восстановить обстоятельства преступления.
-3139261	fra	Je vais t'aider à faire en sorte que cela ne recommence pas.
+3139261	fra	Je vais t'aider à faire en sorte que cela ne se reproduise pas.
 3139262	por	Ela tem dezessete anos.
 3139263	fra	Tari se concentrait sur la mémorisation des mots anglais.
 3139264	fra	De nos jours, Tom ne fait plus qu'étudier.
 3139265	por	Irei para casa às dez.
-3139266	fra	Tu ne trouves pas que c'est bizarre?
+3139266	fra	Tu ne trouves pas que c'est bizarre ?
 3139267	rus	На нынешнем этапе расследования мы не можем гарантировать точность наших выводов, но мы продолжаем работать.
 3139268	fra	Tom ne m'a rien offert à boire.
 3139270	fra	Célébrons.
@@ -17729,8 +17678,8 @@
 3140815	fra	Il débordait d'espoir.
 3140816	tur	Tom pencereye doğru koştu.
 3140817	tur	Tom kamyona tırmandı.
-3140818	fra	Veux-tu aller jouer dehors?
-3140819	fra	Voulez-vous sortir jouer?
+3140818	fra	Veux-tu venir jouer dehors ?
+3140819	fra	Voulez-vous sortir jouer ?
 3140820	tur	Onlar bitişiğimizde yaşıyorlar.
 3140821	tur	Senin için bir mesaj var.
 3140822	fra	Il est certain de réussir l'examen s'il étudie à ce rythme.
@@ -17769,7 +17718,7 @@
 3140858	tur	Biz aslında daha önce tanıştık.
 3140859	fra	Il s'est acquitté de ses fonctions.
 3140860	tur	Biz gerçekten iyi arkadaşız.
-3140861	fra	Tom a besoin d'argent pour les études collégiales.
+3140861	fra	Tom a besoin d'argent pour l'université.
 3140862	tur	Sen Bostonlusun, değil mi?
 3140863	rus	Она говорит, что ей нравятся цветы.
 3140864	tur	Kendini kandırıyorsun.
@@ -17903,7 +17852,7 @@
 3141006	fra	La perspective de la famine plane sur de nombreuses régions du monde.
 3141007	fra	À titre de comparaison avec la vôtre, ma voiture est petite.
 3141008	fra	Nous avons supposé que vous étiez mort.
-3141009	fra	Avez-vous regardé le match d'hier?
+3141009	fra	Avez-vous regardé le match d'hier ?
 3141010	fra	Je vais vous rencontrer plus tard.
 3141011	fra	Je veux une tasse de café et je la veux maintenant.
 3141012	fra	La critique de la représentation de l'acteur était juste.
@@ -17920,8 +17869,8 @@
 3141023	fra	Nous y serons suffisamment à l'avance.
 3141025	hun	Minden busz tele van.
 3141026	deu	Wonach ich mich sehne, das sind Ruhe und Rast.
-3141027	fra	Êtes-vous en train d'insinuer quelque chose?
-3141028	fra	Je souhaite que mes rêves se réaliseront un jour.
+3141027	fra	Êtes-vous en train d'insinuer quelque chose ?
+3141028	fra	Je souhaite que mes rêves se réalisent un jour.
 3141029	hun	Tegnap elmentem az állatkertbe.
 3141030	fra	Je ne fais que donner un coup de main.
 3141031	hun	Várj itt, amíg vissza nem jön.
@@ -18324,7 +18273,7 @@
 3141446	nld	Het sediment heeft zich vastgezet.
 3141447	epo	Apenaŭ pasis tago, en kiu Tomo kaj Johano ne estis kune frue kaj malfrue – ĝis poste Manjo eniris la vivon de Tomo.
 3141448	ina	Le notario es depositario del documentos sigillate.
-3141449	fra	Envisagez-vous de rester à Boston pour une longue période?
+3141449	fra	Envisagez-vous de rester à Boston pour une longue période ?
 3141450	por	O tabelião é depositário dos documentos lacrados.
 3141451	fra	Je ne suis pas au courant de leurs décisions.
 3141452	nld	De verzegelde stukken berusten bij de notaris.
@@ -18487,13 +18436,13 @@
 3141618	epo	La plej alta konata monto en la sunsistemo estas sur Marso. Ĝi altas dudek ses kilometrojn. Oni nomis ĝin Monto Olimpo laŭ la sidejo de la antikvaj grekaj dioj.
 3141619	fra	Il tient toujours le même discours.
 3141620	tur	Ebeveyninin senin gitmene izin vereceğinden emin misin?
-3141621	fra	Pourquoi as-tu eu besoin d'aller fouiner?
+3141621	fra	Pourquoi as-tu eu besoin d'aller fouiner ?
 3141622	epo	Tomo ne bezonas atendi Manjon dum pli ol dek minutoj.
 3141623	fra	Le rapport est bientôt devenu notoire dans tout le pays.
 3141624	fra	Il a deux enfants, à savoir un fils et une fille.
 3141626	fra	Le vase était brisé en morceaux.
 3141627	tur	Sanıyorum sana söyledim. Bunu yapmanı istemiyordum.
-3141628	fra	Devine quoi? J'ai été accepté pour aller à l'université!
+3141628	fra	Devine quoi ? J'ai été accepté à l'université !
 3141629	epo	La vera elokventeco konsistas el tio, ke oni diras tion, kio apartenas al la temo, kaj nur tion.
 3141630	rus	Ваза была расколота на кусочки.
 3141631	fra	L'histoire était dans tous les journaux.
@@ -18550,7 +18499,7 @@
 3141683	epo	Mi iros preni lin.
 3141684	fra	Vous souvenez-vous où vous avez laissé votre parapluie?
 3141686	epo	Tio ne okazis.
-3141687	fra	Il a fait percer ses oreilles.
+3141687	fra	Il s'est fait percer les oreilles.
 3141688	fra	Il s'est fait percer les oreilles.
 3141689	tur	Benimle ilgili gerçekten ne düşündüğünü bana anlatmanı istiyorum.
 3141690	fra	Tom supplia Marie de lui donner une seconde chance.
@@ -18605,7 +18554,7 @@
 3141807	epo	Abundo da nuboskrapuloj karakterizas la silueton de Manhatano.
 3141808	deu	Eine Vielzahl von Wolkenkratzern prägt die Silhouette von Manhattan.
 3141815	prg	Assei mukinnewis, jā?
-3141817	fra	Quelle est la meilleure question à poser?
+3141817	fra	Quelle est la meilleure question à poser ?
 3141818	fra	Tom ne sait même pas pourquoi il a été renvoyé de l'école.
 3141819	fra	Tom ne comprend pas toujours ce qui se passe.
 3141820	fra	Tom est sorti de prison au bout de 30 ans.
@@ -21066,7 +21015,7 @@
 3144488	eng	Tom will do as you suggested.
 3144489	eng	Tom was the person who suggested we try it this way.
 3144490	eng	Tom was the one who suggested that we raise prices.
-3144491	eng	Tom was one who suggested we try it this way.
+3144491	eng	Tom was the one who suggested we try it this way.
 3144492	eng	Tom wanted to open the box right away, but I suggested we wait until Mary got here.
 3144493	eng	Tom suggested wearing warm clothes.
 3144494	eng	Tom suggested we go to a movie.
@@ -23667,7 +23616,7 @@
 3147368	spa	¿Quieres sentarte?
 3147369	tur	Aç kedi çöpü mutfağın her yerine saçtı.
 3147370	deu	Im Park saßen einige auf Bänken, und andere spazierten umher.
-3147371	tur	Bunu kim söyledi.
+3147371	tur	Bunu kim söyledi?
 3147372	ita	Siamo molto orgogliosi di ciò che abbiamo realizzato.
 3147373	deu	Die Parkbänke waren alle besetzt.
 3147374	ita	Siamo molto orgogliose di ciò che abbiamo realizzato.
@@ -23870,7 +23819,7 @@
 3147578	spa	Ha sido un currante toda su vida, y ahora que se ha jubilado, le han negado la pensión.
 3147579	lit	Didžiuojuosi dalyvaudamas šiame projekte.
 3147581	spa	Nuestra empresa tiene dos tiendas. En la nuestra trabajamos a destajo, pero en la otra no dan palo al agua.
-3147582	lit	Šį sakinį galima galima suprasti dvejopai.
+3147582	lit	Šį sakinį galima suprasti dvejopai.
 3147583	spa	Deberías buscar trabajo activamente y no hacer el vago todo el día.
 3147584	spa	Justin Bieber ni siquiera canta bien. Ese tío vive del cuento.
 3147585	dan	Cement hærder i løbet af 2-3 timer.
@@ -24148,7 +24097,7 @@
 3147885	eng	You don't need to lower the price. People will pay what you're asking.
 3147886	eng	You can't put a price on a life.
 3147887	eng	Wow, look at these prices!
-3147888	eng	Where else are you going to a guitar of this quality for such a reasonable price?
+3147888	eng	Where else are you going to find a guitar of this quality for such a reasonable price?
 3147889	eng	What would a good price for that be?
 3147890	eng	What price did you have to pay for that?
 3147891	eng	We paid a fair price for it.
@@ -24632,7 +24581,7 @@
 3148375	eng	If I hadn't come to Boston, this never would've happened.
 3148376	eng	I've heard that the most beautiful women in the world live in Boston.
 3148377	eng	I've heard that Boston is a very expensive place to live.
-3148378	eng	I've got to get up early and catch a plane for Boston.
+3148378	eng	I've got to get up early and catch a plane to Boston.
 3148379	eng	I've got a flight back to Boston booked for this evening.
 3148380	eng	I've decided we should move to Boston.
 3148381	eng	I'm thinking of staying in Boston a little longer.
@@ -24677,7 +24626,7 @@
 3148420	eng	I lived in Boston for three years while I was in graduate school.
 3148421	eng	I know for sure that Tom moved to Boston a year ago.
 3148422	eng	I just picked three of these up in Boston.
-3148423	eng	I just moved from Boston and am still sleeping on my uncle's couch.
+3148423	eng	I just moved from Boston and I'm still sleeping on my uncle's couch.
 3148424	eng	I just came by to tell you that I'm moving to Boston.
 3148425	eng	I hope I'll have a chance to see you the next time I'm in Boston.
 3148426	eng	I hear you're moving back to Boston.
@@ -25311,7 +25260,7 @@
 3149132	epo	Kiam pretos la vespermanĝo?
 3149133	eng	When you apologize, you lay the foundation for a future offense.
 3149134	epo	Vi ja atingis, kion vi volas, ĉu ne?
-3149135	tur	Hiç sos kaldı mı? Hayır, hiç yok.
+3149135	tur	"Hiç sos kaldı mı?" "Hayır, hiç yok."
 3149136	cmn	他把我所有的錢都搶走了。
 3149137	eng	A barometer is an ingenious instrument which indicates what kind of weather we are having.
 3149138	tur	"Sandalyenin üstünde bir kitap var mı?" "Evet, var."
@@ -26682,7 +26631,7 @@
 3150733	eng	I want to buy a decent guitar.
 3150734	eng	I usually shop around before I buy something.
 3150735	eng	I told you I wanted to buy it.
-3150736	eng	I told Tom that I would buy him another skateboard.
+3150736	eng	I told Tom that I'd buy him another skateboard.
 3150737	eng	I threw away my old pillow and bought a new one.
 3150738	eng	I think you've bought enough stuff for one day.
 3150739	eng	I think you should buy yourself a new pair of shoes.
@@ -26969,12 +26918,12 @@
 3151024	ukr	Стілець дерев'яний.
 3151025	ukr	Собака спить у машині.
 3151026	ukr	Він - італієць.
-3151027	ukr	Ти вважаєш, що тебе звільнять?
+3151027	ukr	Ти вважаєш, що тебе не звільнять?
 3151028	ukr	Ти побоюєшся втратити роботу?
 3151029	ukr	Україна - велика країна.
 3151030	ukr	Сніг ще не розтанув.
 3151031	ukr	Україна - найбільша країна в Європі.
-3151032	ukr	З Днем народження, Мюріел!
+3151032	ukr	З днем народження, Мюріел!
 3151033	ukr	Мені час лягати в ліжко.
 3151034	ukr	Я знаю, що ти був жертвою расизму в ранньому віці.
 3151035	mar	शहर दहा प्रशासकीय जिल्ह्यांमध्ये वाटलं गेलं आहे.
@@ -31581,7 +31530,7 @@
 3156054	epo	Ili legas sian libron.
 3156055	tur	Yaşam yalnızlıktan ibaret bir kabus.
 3156056	tur	Tom'u geride bırakamayız.
-3156057	eng	The İslam which is flawless but muslims are not
+3156057	eng	Islam is flawless, but Muslims are not.
 3156058	epo	Por fermi la dialogujon, vi alklaku la X, supre kaj dekstre de la fenestro.
 3156059	tur	Devrim sadece sosyal alanda olmaz.
 3156060	tur	Tom gizemli yeni bir nesne keşfettiğinde teleskobuyla gökyüzünü gözlemliyordu.
@@ -32705,7 +32654,7 @@
 3157428	eng	Tom is convinced that he's a relative if mine.
 3157429	eng	Tom wasn't convinced.
 3157430	eng	Tom wasn't convinced it was a good idea.
-3157431	eng	Tom was convinced that Mary like him.
+3157431	eng	Tom was convinced that Mary liked him.
 3157432	eng	Tom was convinced he'd been betrayed.
 3157433	eng	Tom was convinced, but I wasn't.
 3157434	eng	Tom tried to convince Mary to stay in Boston.
@@ -34403,7 +34352,7 @@
 3159496	ita	Bisogna rendere seguibile la traduzione.
 3159497	ita	Si può cambiare l'ordine delle informazioni se risulta più efficace.
 3159498	ita	Bisogna anche valutare la rilevanza delle informazioni.
-3159499	ita	Se le informazioni non sono rilevanti vanno omesse.
+3159499	ita	Se le informazioni non sono rilevanti, vanno omesse.
 3159500	ita	Le omissioni devono essere sensate.
 3159501	ita	Bisogna fare delle scelte motivate quando si omettono delle informazioni.
 3159502	ita	Bisogna cercare di evitare di tradurre pari pari le interviste.
@@ -36589,7 +36538,7 @@
 3162205	ppl	Miak munekit tutepalewilis.
 3162206	epo	Ili ĉiuj estas kanadanoj.
 3162207	nld	Rugby is een openluchtsport.
-3162208	nld	Hij is verantwoordelijk voor dat auto-ongeval.
+3162208	nld	Hij is aansprakelijk voor dat auto-ongeval.
 3162209	nld	Dat moet een fout zijn.
 3162210	ppl	Ká ne tajtzin Bush.
 3162211	epo	Tio devas esti eraro.
@@ -37121,7 +37070,7 @@
 3162791	eng	Mary is desperate.
 3162792	fra	Rien n'est plus apprécié que le fruit défendu.
 3162793	epo	Akcelu.
-3162795	eng	This girl had to drop the idea of becoming a singer.
+3162795	eng	The girl had to drop the idea of becoming a singer.
 3162796	epo	Bonvolu atendi momenton. Li estas ekster la domo.
 3162798	por	Ele está acamado e com febre.
 3162799	fra	Le complice du voleur attrapa le sac à main au vol.
@@ -37129,19 +37078,19 @@
 3162801	por	Ele está deitado e febril.
 3162802	epo	La trajno ekiros post kvin minutoj. Vi prefere rapidu.
 3162803	epo	La komplico de la ŝtelisto kaptis la mansakon kiel forflugintan venton.
-3162804	eng	He has just over thirty years.
+3162804	eng	He's just over thirty years old.
 3162805	por	Essas foram verdadeiras palavras dele.
-3162806	eng	Guests arrive, carrying a net or basket.
+3162806	eng	The customers arrive, each carrying a net or basket.
 3162807	por	Ela tem uma tatuagem de lagarto sobre a coxa.
 3162808	fra	Tom a avalé de travers et s'est presque étranglé.
 3162809	epo	Tomo misglutis kaj preskaŭ sufokiĝis.
 3162810	epo	Dum kelka tempo ŝajnis, kvazaŭ la reformistoj gajnos.
 3162811	epo	Ni volas pacon.
-3162812	eng	As it was to be expected, he won first place.
+3162812	eng	As expected, he won first place.
 3162813	por	Ela tem um lagarto tatuado na coxa.
 3162814	tur	Seni rahatsız ettiysem özür dilerim.
 3162815	por	A verdade pode se mostrar penosa.
-3162816	eng	Give me some strong coffee as well!
+3162816	eng	Give me some strong coffee as well.
 3162817	epo	Ŝi diros tion al li, kiam ŝi revenos.
 3162818	por	A verdade pode parecer chocante.
 3162819	epo	Mi nuligis miajn rendevuojn.
@@ -37149,10 +37098,10 @@
 3162821	epo	La lango ne estu pli saĝa, ol la kapo.
 3162822	por	A verdade pode transparecer nua e crua.
 3162823	tur	Bu caddede üç tane güzellik salonu var.
-3162824	eng	Tom took Mary by surprise being in the arms of her lover.
+3162824	eng	Tom took Mary by surprise while she was in the arms of her lover.
 3162825	eng	She expresses herself in a rather stilted manner.
 3162826	tur	Kahve içmek istiyor musun?
-3162827	eng	I have already paid, please ship the item as rapidly as possible.
+3162827	eng	I have already paid. Please ship the item as rapidly as possible.
 3162828	eng	European green crabs are invading North America.
 3162829	tur	Bütün doğal kaynakları tükettik.
 3162830	por	Os demais saíram para dormir.
@@ -39849,7 +39798,7 @@
 3166069	eng	Tom wasn't sure which one he should buy.
 3166070	eng	Tom was wearing a patch over one of his eyes.
 3166071	eng	Tom was the only one who was injured.
-3166072	eng	Tom was the only one who seemed to noticed.
+3166072	eng	Tom was the only one who seemed to notice.
 3166073	eng	Tom was the only one who came to help.
 3166074	eng	Tom was the only one in the pool.
 3166075	eng	Tom was the one who took out the garbage this morning.
@@ -40880,7 +40829,7 @@
 3167388	nld	De douche is stuk.
 3167389	nld	De aantrekkingskracht van de aarde is het enige wat me hier houdt.
 3167390	nld	Terwijl hij sprak, werd hij meer en meer opgewonden.
-3167391	nld	Wat is er van zijn zoon geworden?
+3167391	nld	Wat is er van haar zoon geworden?
 3167392	nld	Ze zei dat ik moest ophouden met roken.
 3167393	tur	Slovenya'da en düşük maaş nedir?
 3167394	nld	Engels wordt gesproken in de Verenigde Staten.
@@ -42587,7 +42536,7 @@
 3169445	por	Aguardávamos ansiosamente para ver o resultado prático do novo método.
 3169446	fra	Quelle jolie fille!
 3169447	nld	Japans is moeilijk onder de knie te krijgen voor buitenlanders.
-3169448	fra	A quand remonte la dernière fois où vous êtes parti chasser?
+3169448	fra	À quand remonte la dernière fois où vous êtes allés chasser ?
 3169449	rus	Я расскажу вам мою историю.
 3169450	rus	Я расскажу вам свою историю.
 3169451	fra	La chance n'est pas de mon côté.
@@ -42601,7 +42550,7 @@
 3169459	rus	Завтра после обеда я буду свободна.
 3169460	rus	Она ничего не ест.
 3169461	rus	Вы ничего не едите.
-3169462	eng	I have to buy gluten-free pasta because my friend comes over to eat.
+3169462	eng	I have to buy gluten-free pasta because my friend is coming over to eat.
 3169463	rus	Я провёл неделю в Берлине, живя у одной немецкой семьи.
 3169464	rus	Я провела неделю в Берлине, живя у одной немецкой семьи.
 3169465	eng	The people listened to the speaker attentively.
@@ -42775,7 +42724,7 @@
 3169642	tur	Eve otobüsle dönüyorum.
 3169643	nld	Ons succes hangt ervan af of u ons helpt of niet.
 3169644	epo	Nu bone, faru ĝin kiel vi volas, sed ne plendu al mi, se vi malsukcesas.
-3169645	nld	Als onze inspanningen waren zinloos.
+3169645	nld	Al onze inspanningen waren zinloos.
 3169646	rus	Я не хочу иметь к этому абсолютно никакого отношения.
 3169647	nld	Onze schuld is groter dan dat wat we kunnen betalen.
 3169648	bul	Нямам нищо общо.
@@ -45889,7 +45838,7 @@
 3173096	nld	Ik vraag me af of zij me zal herkennen na al die jaren.
 3173097	nld	Hoe lang leert u al Engels?
 3173098	nld	Hoe lang leer je al Engels?
-3173099	epo	Li volas esti ne maltrankviligata.
+3173099	epo	Li nur volas esti ne maltrankviligata.
 3173100	swh	Kitabu changu ni hapa.
 3173101	nld	Omdat ik het zo dikwijls gehoord heb, kan ik het gedicht nu uit het hoofd opzeggen.
 3173102	nld	Hoe lang blijft u?
@@ -46775,7 +46724,7 @@
 3174191	deu	Tom grub ein Loch.
 3174192	hun	Ha Ön akarja tudni az igazságot: Én korábban a titkosszolgálatnál tevékenykedtem.
 3174193	deu	Tom hat ein Loch gegraben.
-3174194	deu	Tom grub im Garten einen Loch.
+3174194	deu	Tom grub im Garten ein Loch.
 3174195	deu	Tom hat im Garten ein Loch gegraben.
 3174196	deu	Tom ertrank beim Schwimmen im Fluss.
 3174197	deu	Tom ist beim Schwimmen im Fluss ertrunken.
@@ -47818,7 +47767,7 @@
 3175380	nld	Tom heeft een donkere huid.
 3175381	nld	We hebben hem al in geen tien jaar meer gezien.
 3175382	rus	Я его встретил.
-3175383	rus	Том спросил, правда ли то, что сказала Мэри.
+3175383	rus	Том спросил, правда ли то, что говорит Мэри.
 3175384	rus	Том записал то, что сказала Мэри.
 3175385	tur	Bu bir sandalye.
 3175386	nld	Ik dacht dat u gewond was.
@@ -48710,7 +48659,6 @@
 3176379	por	Os campistas extinguiram o fogo com os pés.
 3176380	ina	Le foco jectava scintillas.
 3176381	tur	Böyle bir şey yapmak için deli olmak lazım.
-3176382	eng	Only you and me.
 3176383	por	Só eu e você
 3176384	tur	Yalnızca sen ve ben.
 3176385	tur	Tom bundan sonra asla aynı olmadı.
@@ -48906,7 +48854,6 @@
 3176610	ita	Possiamo fare tante chiacchiere.
 3176611	ita	Fai troppi danni.
 3176612	ita	È una carissima amica di mia nipote.
-3176614	ita	La prossima volta faccio prima una passata con la candeggina.
 3176615	ita	È che tu hai i capelli molto scuri.
 3176616	ita	Si vedranno sicuramente i riflessi.
 3176617	ita	Basta il pensiero!
@@ -49998,3 +49945,56 @@
 3177910	eng	Tom lay in bed, unable to sleep.
 3177911	eng	Tom lay down and pretended to fall asleep.
 3177912	eng	Tom is sleeping in the next room.
+3177913	eng	Tom is sleeping in his car.
+3177914	eng	Tom is in the next room trying to get some sleep.
+3177915	eng	Tom is having trouble sleeping.
+3177916	eng	Tom is already sleeping.
+3177917	eng	Tom is afraid that someone might kill him in his sleep.
+3177918	eng	Tom has been sleeping in my garage.
+3177919	eng	Tom fell back to sleep.
+3177920	eng	Tom doesn't like sleeping in a hammock.
+3177921	eng	Tom died in his sleep last night.
+3177922	eng	Tom decided to sleep in.
+3177923	eng	Tom cried himself to sleep every night last week.
+3177924	eng	Tom can sleep in my room.
+3177925	eng	Tom can sleep in my bed if he wants to.
+3177926	eng	Tom can sleep here if he wants to.
+3177927	eng	Tom always sleeps on the floor.
+3177928	eng	This will help you sleep.
+3177929	eng	The kids are sleeping.
+3177930	eng	The children are supposed to be sleeping now.
+3177931	eng	Perhaps you'd like to sleep on it.
+3177932	eng	Now try to sleep.
+3177933	eng	Now let's get some sleep.
+3177934	eng	Now I'll finally be able to get some sleep.
+3177935	eng	Maybe you're not getting enough sleep.
+3177936	eng	Maybe you're just not getting enough sleep.
+3177937	eng	Maybe we should sleep on it.
+3177938	eng	Maybe we should all get some sleep.
+3177939	eng	Maybe Tom was walking in his sleep.
+3177940	eng	Maybe I just need some sleep.
+3177941	eng	Make sure you get some sleep.
+3177942	eng	Make sure you get enough sleep.
+3177943	eng	Let's just let sleeping dogs lie.
+3177944	eng	Let me sleep on it.
+3177945	eng	Just let me sleep.
+3177946	eng	Just go back to sleep.
+3177947	eng	It's too noisy to sleep.
+3177948	eng	It's too bright to sleep.
+3177949	eng	It's time for you to go to sleep.
+3177950	eng	It looks like you slept in your clothes last night.
+3177951	eng	It looks like Tom hasn't slept much either.
+3177952	eng	It looks like Tom has fallen back to sleep.
+3177953	eng	It doesn't look like Tom has slept in days.
+3177954	eng	If you need to sleep, go ahead.
+3177955	eng	If it's OK, I'd like to sleep for a few hours.
+3177956	eng	I'm still half asleep.
+3177957	eng	I'm not going to lose any sleep over it.
+3177958	eng	I'm just looking for a place to sleep.
+3177959	eng	I'm going to try to go to sleep now.
+3177960	eng	I'll sleep on the couch. You can have my bed.
+3177961	eng	I'll bet you didn't sleep a wink last night.
+3177962	eng	I was starting to think Tom would sleep all day.
+3177963	eng	I want you to go to sleep.
+3177964	eng	I slept on the couch last night.
+3177965	eng	I slept like a baby.

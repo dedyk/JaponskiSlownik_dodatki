@@ -1,74 +1,3 @@
-4625901	cbk	¿De dónde usted?
-4625902	eng	From where are you?
-4625903	ceb	Karong adlawa, nakakita siyag bag-ong higala sa tunghaan.
-4625904	cbk	¿De dónde tú?
-4625905	cbk	¿De dónde vos?
-4625906	cbk	¿De dónde evos?
-4625907	cbk	¿Usted, de dónde?
-4625908	cbk	¿Tú, de dónde?
-4625909	cbk	¿Vos, de dónde?
-4625910	cbk	¿Evos, de dónde?
-4625911	hun	Ne csinálj lármát!
-4625915	ceb	Unsa na man lay paglaom sa katawhan kon pipila lang ug minoriya pa jud niini ray but-an.
-4625916	cbk	¿Cósa de usted nombre?
-4625917	cbk	¿Cósa de tu nombre?
-4625918	cbk	¿Cósa de vos nombre?
-4625919	cbk	¿De usted nombre, cósa?
-4625920	cbk	¿De tu nombre, cósa?
-4625921	cbk	¿De vos nombre, cósa?
-4625922	ceb	Daghang mitigulang apan wala manigulang.
-4625923	cbk	"¿Cuántos dialectos tiene na lenguaje Chavacano?" "El lenguaje Chavacano tiene seis dialectos."
-4625924	fra	Je me demande comment ça ferait d'être un homme.
-4625925	eng	"How many dialects are there in the Chavacano language?" "The Chavacano language has six dialects."
-4625926	fra	Je me demande comment ça ferait d'être une femme.
-4625927	cbk	"¿Cuántos dialectos tiene na idioma Chavacano?" "El idioma Chavacano tiene seis dialectos."
-4625936	fra	Va te faire couper les cheveux !
-4625937	fra	Fais un souhait !
-4625938	fra	Faites un souhait !
-4625939	fra	Reste un moment !
-4625940	fra	Amène une copine !
-4625941	fra	Appelle un médecin !
-4625942	fra	Consulte un médecin !
-4625943	fra	Lance une pièce !
-4625944	fra	Prends-toi un siège !
-4625945	fra	Prends une bière !
-4625946	fra	Prends un biscuit !
-4625947	fra	Regarde !
-4625948	fra	Regardez !
-4625949	fra	Jette un œil !
-4625950	fra	Jetez un œil !
-4625951	fra	Goûte !
-4625952	fra	Goûtez !
-4625953	fra	Fais un choix !
-4625954	fra	Faites un choix !
-4625955	fra	Prends une décision !
-4625956	fra	Décide-toi !
-4625957	fra	Décidez-vous !
-4625958	fra	Prenez une décision !
-4625959	fra	Devine !
-4625960	fra	Hasarde une hypothèse !
-4625961	fra	Fais une liste !
-4625962	fra	Faites une liste !
-4625963	fra	Fais une prédiction !
-4625964	fra	Faites une prédiction !
-4625965	fra	Choisissez une date !
-4625966	fra	Choisis une date !
-4625967	fra	Choisis un nombre !
-4625968	fra	Choisissez un nombre !
-4625969	fra	Choisis une arme !
-4625970	fra	Choisissez une arme !
-4625971	fra	Détendez-vous un instant !
-4625972	fra	Détends-toi un instant !
-4625973	fra	Croque !
-4625974	fra	Prends une bouchée !
-4625975	fra	Prenez une bouchée !
-4625976	fra	Croquez !
-4625977	fra	Fais une pause !
-4625978	fra	Faites une pause !
-4625979	fra	Inspire !
-4625980	fra	Inspirez !
-4625984	deu	Ich spiele ihr Spiel nicht mit.
-4625985	deu	Ich betrachte sie nicht als Freunde.
 4625986	deu	Ich betrachte sie nicht als Freundinnen.
 4625987	deu	Ich verwalte sie nicht.
 4625988	fra	Jettes-y donc un œil !
@@ -566,7 +495,7 @@
 4626515	pam	Taganáng burí ke, óneng deng barkáda na alí kulá.
 4626516	tur	Onlar hala anne ve babalarıyla beraber yaşıyorlar.
 4626517	pam	Taganáng masalése yang tigtíg piánu.
-4626518	rus	Я встретила свою начальницу по дороге на вокзал.
+4626518	rus	Я встретила свою учительницу по дороге на вокзал.
 4626519	hun	Nem teszek nekik szemrehányást.
 4626520	hun	Nem magyarázom el nekik a tanulnivalót.
 4626521	hun	Nekik nem táncolok.
@@ -2990,7 +2919,7 @@
 4629126	hun	Annyira kevés a haja, hogy azt már kutatni kell.
 4629127	hun	A túlsó partra eveztünk.
 4629128	epo	Edvardo metis la jokotojn en sakon.
-4629129	fra	Je peux aller.
+4629129	fra	Je peux y aller.
 4629130	ara	أستطيع أن أذهب.
 4629131	hun	Mondd, mennyibe kerülhet az egész Gellért fürdő?
 4629132	tur	Kabine krizi görüşmek üzere bugün buluşuyor.
@@ -3186,7 +3115,7 @@
 4629328	hun	A legjobb, amit tehetünk, hogy várunk.
 4629329	tur	Polislerin önemli bir işlevi hırsızları yakalamak.
 4629330	hun	Az oroszlán ordít.
-4629331	hun	az oroszlán üvölt.
+4629331	hun	Üvölt az oroszlán.
 4629332	hun	Látok egy oroszlánt.
 4629333	tur	Sağlığın bir basınç ölçeri olarak kan basıncı önemlidir.
 4629334	tgl	Ang bintana sa harap ng hardin ay bubog na berde.
@@ -4586,7 +4515,7 @@
 4630833	rus	Этого можно было избежать.
 4630834	rus	Я говорил о них.
 4630835	por	Sou berlinense.
-4630836	ukr	Цього можна було запобігти.
+4630836	ukr	Цьому можна було запобігти.
 4630837	ukr	Що саме ти хочеш від мене почути?
 4630838	toki	mi tan ma tomo Pelin.
 4630839	rus	Я говорил о нём.
@@ -6223,7 +6152,7 @@
 4632615	hun	Mondjál nekem valami olyat, amit nem tudok!
 4632616	tur	Bu hemen iptal edilmeli.
 4632617	tur	Biz gerçekten onu yapmalıyız.
-4632618	tur	Daha fazla çalışmalıydık.
+4632618	tur	Daha fazla çalışmalıydım.
 4632619	tur	Sinyal vermeli miyim?
 4632620	tur	Mary'ye çiçekler vermelisin.
 4632621	tur	Gerçekten bir şey yemelisin.
@@ -8960,7 +8889,7 @@
 4635512	spa	Mamá, ¡rápido! ¡Todos te están esperando!
 4635513	por	Alguém roubou o meu dinheiro.
 4635514	nld	Mam, schiet op! Iedereen wacht op ons!
-4635515	por	Eles já terminaram o trabalho.
+4635515	por	Eles já terminaram aquele trabalho.
 4635516	nld	Ik ben moe dus ik ga slapen.
 4635517	epo	Ili jam finis tiun laboron.
 4635518	toki	ona mute li pini e pali ni.
@@ -10147,7 +10076,7 @@
 4636834	toki	tenpo ni la mama meli mi li lon ala lon tomo.
 4636835	por	Aceita um copo de vinho tinto?
 4636836	nob	Mamma er ikke hjemme i øyeblikket.
-4636837	deu	Pinocchio sagt: "Meine Nase ist lang geworden."
+4636837	deu	Pinocchio sagt: „Meine Nase ist lang geworden.“
 4636838	toki	sina wile ala wile e poki pi telo loje kili?
 4636839	toki	sina wile e poki pi telo loje kili anu seme?
 4636840	spa	En este momento mamá no está en casa.
@@ -15775,7 +15704,7 @@
 4642870	tur	Kalmaya ve babasının işini sürdürmeye karar verdi.
 4642871	eng	Up to what volume of Naruto comics do you own?
 4642872	eng	Even I don't understand why I like Tom this much.
-4642873	eng	The language is music to my tongue
+4642873	eng	The language is music to my tongue.
 4642874	toki	tenpo ala la jan li pona tawa jan ale.
 4642875	epo	Tio estas ĉiu mono, kiun mi havas nun.
 4642876	eng	Is there anything you've been particularly interested in lately?
@@ -17437,7 +17366,7 @@
 4644653	deu	Ich schäme mich, dass es so lange zum Antworten gebraucht hat.
 4644654	rus	Это был интересный сон.
 4644655	ita	Io non le dirò la ragione.
-4644656	hun	az előző hónapban kezdett el futni apám.
+4644656	hun	Az előző hónapban kezdett el futni apám.
 4644657	rus	Хватит обзываться!
 4644658	eng	The changing of the seasons have a tendency to affect our health, so take care.
 4644659	ita	Posso capire Tom.
@@ -19157,7 +19086,7 @@
 4646458	tur	O, "nehir boyunca bir yürüyüşe çıkalım." dedi.
 4646459	toki	kasi Losa laso li lon ma kasi pi tomo selo mi.
 4646460	tur	Kiso Nehrine sık sık Japonya'nın Ren'i denir.
-4646461	tur	Xinhong Nehri Japonya'daki herhangi bir nehirden daha uzundur.
+4646461	tur	Shinano Nehri Japonya'daki herhangi bir nehirden daha uzundur.
 4646462	tur	Misissipi ABD'de en uzun nehirdir.
 4646463	tur	Artık bu nehirde yaşayan herhangi bir balık yok.
 4646464	ces	Erotická láska je jedním z důležitých témat jejích děl.
@@ -19225,7 +19154,7 @@
 4646527	eng	Luck doesn't exist.
 4646528	dan	Hun bruger så mange penge som hun tjener.
 4646529	tur	Bunun hakkında ne yapman gerektiğini düşün, lütfen.
-4646530	eng	I'm taking care of my grandfather
+4646530	eng	I'm taking care of my grandfather.
 4646531	nld	Haar gedichten gaan over liefde, haat, verlangens, lust en verraad.
 4646532	eng	We should apply severe measures for the economic crisis.
 4646533	eng	How can I ignore pain this intense?
@@ -21697,7 +21626,7 @@
 4649288	epo	Estas cinamujoj apud la ŝtona turo.
 4649289	epo	Estas cinamujoj apud la kastela ponto.
 4649290	epo	Estas cinamujoj sur la kastela altebenaĵo.
-4649291	eng	You were drying clothes
+4649291	eng	You were drying clothes.
 4649292	rus	Куда ты положил мою книгу?
 4649293	rus	Я уже вернулся в Бостон.
 4649294	rus	Том говорил, ты в Бостоне.
@@ -21713,7 +21642,7 @@
 4649306	eng	My eyelids are heavy.
 4649307	eng	When I was small I kept a diary.
 4649310	rus	Думаю, это книги Тома.
-4649311	eng	They have improved their results
+4649311	eng	They have improved their results.
 4649312	rus	Я знаю, тебе понравится эта книга.
 4649313	rus	Я знаю, что вам понравится эта книга.
 4649314	rus	Интересная была книга.
@@ -21722,7 +21651,7 @@
 4649317	eng	In a way, you were right.
 4649320	rus	Думаешь, я блефую?
 4649321	rus	Думаете, я блефую?
-4649322	eng	I didn't wake up yesterday
+4649322	eng	I didn't wake up yesterday.
 4649323	rus	Мы все знали, что Том не блефует.
 4649324	rus	Мы все знали, что Том блефует.
 4649325	rus	Том покрасил двери в синий цвет.
@@ -22265,7 +22194,7 @@
 4649899	tur	Pencere veye koridor?
 4649900	tur	Gözlüğümü al.
 4649901	tur	O sarışın.
-4649902	hun	Egy műfordítás élvezhetősége, amennyiben nem eredetiben olvassuk, nagyban múlik a műfordító személyétől.
+4649902	hun	Amennyiben nem eredetiben olvasunk egy művet, hanem az egy műfordítás, ez esetben az írás élvezhetősége nagyban múlik a műfordító irodalmi képességeitől.
 4649903	tur	Çok komik.
 4649904	tur	Muiriel yirmi yaşında.
 4649906	hun	Annak ellenére, hogy Gerald Durell alapvetően nem mint író vált közismertté, lebilincselően szellemesnek tartom a novelláit.
@@ -22493,7 +22422,7 @@
 4650140	rus	Ты ведь не хочешь идти, да?
 4650141	rus	Я услышал, как кто-то на улице произнёс моё имя.
 4650142	tgl	Natutong maigi ang mga pari ng Maya tungkol sa astronimya.
-4650143	tgl	Eksperto siya sa astronimya.
+4650143	tgl	Eksperto siya sa astronomiya.
 4650144	rus	Я сказал Тому не говорить тебе.
 4650145	tgl	Talagang interesado sila sa astronomiya.
 4650146	tgl	Agham ng sansinukob ang astronomiya.
@@ -24119,7 +24048,7 @@
 4651903	epo	Estas dirite, ke oni manĝu kvin fruktojn kaj legomojn tage.
 4651904	hun	Nem érdekelnek az ilyen szenilis öregasszonyok.
 4651905	epo	Mi estis impresita de ŝia laboro.
-4651906	eng	It is the first thing which I have acomplished today
+4651906	eng	It is the first thing which I have accomplished today.
 4651908	hun	Mi fog ebből kisülni?
 4651909	rus	Я думал, мы лучшие друзья.
 4651910	rus	Я думала, мы лучшие подруги.
@@ -27046,7 +26975,7 @@
 4655107	tur	Şık saatler gittikçe daha popüler oluyor.
 4655108	pam	Sabián ku karélang mináus ka.
 4655109	tur	Tom bir hemşire olmak için Boston'a taşındı.
-4655110	eng	Mario leaves because Dodong is late
+4655110	eng	Mario leaves because Dodong is late.
 4655111	pam	Sabián ku kayáng dínálan kayú.
 4655113	tur	Son yıllarda elektronik bilgisayarlar giderek önemli olmuştur.
 4655114	eng	We search the whole neighborhood for our lost puppy.
@@ -29142,7 +29071,7 @@
 4657406	tlh	'amerI'qa' SepjIjQa' jaHbej.
 4657407	deu	Er geht auf jeden Fall in die USA.
 4657408	epo	Li certe iros al Usono.
-4657410	deu	Ich werde bestimmt nach Frankreich gehen, aber ich weiss nicht wann.
+4657410	deu	Ich werde bestimmt nach Frankreich gehen, aber ich weiß nicht, wann.
 4657411	tlh	jach; jatlh «HIQaH!»
 4657412	rus	Ты уверена, что больна?
 4657413	tlh	luleghpu'.
@@ -30009,7 +29938,7 @@
 4658394	spa	No conseguí encontrar mis llaves.
 4658395	toki	jan Ton li awen moku.
 4658396	spa	La llave está encima de la mesa.
-4658397	eng	Why didn’t Noah swat those two mosquitoes?
+4658397	eng	Why didn't Noah swat those two mosquitoes?
 4658398	tur	İnşallah yağmur durur.
 4658399	spa	Puso la llave en su bolsa.
 4658400	spa	Tráeme la llave.
@@ -30729,7 +30658,7 @@
 4659179	hun	A háború mellett állsz vagy ellene?
 4659180	epo	Ni volis diri "ne".
 4659181	hun	Szerinted háború lesz?
-4659182	hun	a tanárod tanácsát kellene követned.
+4659182	hun	A tanárod tanácsát kellene követned.
 4659183	tur	Rusça, Lehçe, Çekçe ve Bulgarca gibi dillerin ortak Slav kökenleri vardır.
 4659184	hun	Engedélyt kellene kérned a tanárodtól.
 4659185	hun	A tanárodhoz is fordulhatsz tanácsért.
@@ -34291,7 +34220,7 @@
 4663108	eng	Tom doesn't have to come if he doesn't want to.
 4663109	eng	Tom didn't seem to understand anything we said.
 4663110	eng	Tom didn't give me the information I requested.
-4663111	eng	Tom couldn’t have done that without Mary's help.
+4663111	eng	Tom couldn't have done that without Mary's help.
 4663112	eng	Tom could stay with us tonight if he wanted to.
 4663113	eng	Tom can't play the piano as well as he used to.
 4663114	eng	This is the only thing that Tom ever bought me.
@@ -37148,7 +37077,7 @@
 4665968	eng	Tom could've been offended.
 4665969	ilo	Pinarparigatda nga umuna ti balud sada pinapatay daytoy.
 4665970	eng	Tom could've been mistaken.
-4665971	eng	Tom couldn’t have done that.
+4665971	eng	Tom couldn't have done that.
 4665972	eng	Tom could be in his office.
 4665973	eng	Tom convinced Mary to help.
 4665974	eng	Tom continued to date Mary.
@@ -37498,7 +37427,7 @@
 4666319	eng	Tom's house is very nice.
 4666320	eng	Tom wouldn't stop crying.
 4666321	eng	Tom wouldn't let me quit.
-4666322	eng	Tom won’t be here today.
+4666322	eng	Tom won't be here today.
 4666323	eng	Tom won't be coming back.
 4666324	eng	Tom will never back down.
 4666325	eng	Tom will need more money.
@@ -37816,7 +37745,7 @@
 4666637	eng	Mary is a good waitress.
 4666638	eng	Let's try something new.
 4666639	eng	It's something Tom made.
-4666640	eng	It's a change for worse.
+4666640	eng	It's a change for the worse.
 4666641	eng	It won't change a thing.
 4666642	eng	It was a radical change.
 4666643	eng	It was a costly mistake.
@@ -38549,7 +38478,7 @@
 4667383	war	Nakilal'an ko dayón an imo tíngog.
 4667384	ita	Questa è la biro di Tom.
 4667385	hun	Megretten, ha ránézek.
-4667386	ita	Se piove io rimango a casa.
+4667386	ita	Se piove, io rimango a casa.
 4667387	ita	Questa è la penna di Tom.
 4667388	ita	Chiamami lunedì.
 4667389	ita	Mi chiami lunedì.
@@ -41403,7 +41332,7 @@
 4670431	heb	יש אבק על השולחן.
 4670432	heb	לא היה מספיק דלק.
 4670433	heb	יש שם מסעדה.
-4670434	yid	יש אבן בנעלי.
+4670434	heb	יש אבן בנעלי.
 4670436	heb	אין דבר בכוס שלי.
 4670437	heb	יש פה משהו.
 4670438	heb	יש ספר על המכתבה שלי.
@@ -43135,7 +43064,7 @@
 4672295	hun	Nem volt munkalehetőség.
 4672296	hun	Nem volt semmilyen késés.
 4672297	hun	Ott jön a busz.
-4672298	ita	Csönd lett.
+4672298	hun	Csönd lett.
 4672299	hun	Sok tennivaló van.
 4672300	hun	Ott a barátod.
 4672301	hun	Nem voltak villák.
@@ -43188,7 +43117,7 @@
 4672350	hun	Mindig van választás.
 4672351	hun	Nincs ebben semmi különös.
 4672352	hun	Süket csönd volt.
-4672353	ita	Síri csönd lett.
+4672353	hun	Síri csönd lett.
 4672354	hun	Becsúszhatott egy hiba.
 4672355	hun	Biztosan valami hiba történt.
 4672356	hun	Csak egy válasz van.
@@ -43296,7 +43225,7 @@
 4672467	hun	Mi a terved erre a hétvégére?
 4672468	hun	Mit tervezel ezen a hétvégén?
 4672469	deu	Keine Ahnung, warum ich plötzlich Programmieren lernen will.
-4672470	deu	Ich bin es gewöhnt, die Nacht durchzumachen.
+4672470	deu	Ich bin daran gewöhnt, die Nacht durchzumachen.
 4672471	rus	Тебя ругал твой учитель?
 4672472	deu	Sag uns, was wir als nächsten Schritt tun sollen.
 4672473	deu	Rettet den Regenwald!
@@ -49419,7 +49348,7 @@
 4678951	rus	Я пройду.
 4678952	rus	Я брошу.
 4678953	rus	Я выстрелю.
-4678958	rus	Я бы усыновлён.
+4678958	rus	Я был усыновлён.
 4678959	epo	Supozeble li patriĝos.
 4678960	rus	Я вооружена.
 4678962	fra	Je suis remué.
@@ -49998,3 +49927,74 @@
 4679564	heb	אראה אותך שוב.
 4679565	heb	נתראה בשנית.
 4679569	heb	בטוחני שאספר לתום.
+4679570	heb	לבטח אספר לתום.
+4679571	heb	בטח שאספר לתום.
+4679572	heb	אתפנה לתום מאוחר יותר.
+4679573	heb	אטפל בתום אחר כך.
+4679574	heb	אעשה זאת טוב יותר הפעם.
+4679575	heb	הפעם אשתפר.
+4679576	heb	אסיע אותך לבית הספר.
+4679577	heb	אמצא את דרכי החוצה לבד.
+4679578	hun	Lehet, hogy Tom megsérült, vagy meghalt.
+4679579	heb	אגלה בסופו של דבר.
+4679580	heb	אשיג לך את זה, תום.
+4679581	hun	Azt mondtad, hogy Tom más.
+4679582	heb	אפנה לך את הדרך.
+4679583	hun	Tudod, hogy ez most más.
+4679584	heb	לא אחסום את דרכך.
+4679585	heb	אתפנה מדרכך.
+4679586	heb	אתחיל עם זה.
+4679587	heb	אתחיל את זה.
+4679588	heb	אביא את תום הביתה בבטחה.
+4679590	heb	אסדר שתום יעזור לך.
+4679591	heb	אסדר שתום יעזור לכם.
+4679592	heb	אשיג לך אחד אחר.
+4679593	hun	Tom adott egy csontot a kutyájának.
+4679594	heb	אצא להביא לך קצת.
+4679595	heb	אלך למצוא אחר.
+4679596	heb	אלך להכין את ארוחת הערב.
+4679597	heb	אצטרך להשאר מאחור.
+4679598	rus	Я безмятежно делаю свой первый шаг навстречу вечности и ухожу из жизни, чтобы войти в историю.
+4679599	heb	אסדר שתום יעיף על זה מבט.
+4679600	heb	אתן לך ללכת לעבוד.
+4679601	heb	אתן לכם ללכת לעבודה.
+4679602	heb	אגרום לתום להבין.
+4679603	heb	אראה את תום יותר מאוחר היום.
+4679604	heb	אעשה את ההחלטה בעצמי.
+4679605	heb	אחליט בעצמי.
+4679607	heb	לעולם לא אסכים לזה.
+4679608	heb	לעולם לא אסכים לכך.
+4679609	heb	אראה מה תום חושב.
+4679610	heb	אראה אותך לפני שאני הולכת.
+4679611	heb	אראה אותך לפני שאני הולך.
+4679612	heb	אראה אתכם לפני שאני הולכת.
+4679613	heb	אראה אתכם לפני שאני הולך.
+4679614	heb	אתחיל בהכנות.
+4679615	heb	אתחיל להתכונן.
+4679616	heb	אקח משלב זה את הפיקוד.
+4679617	heb	אזכיר לך בעניין זה את חובתך.
+4679618	heb	אגיד לתום מתי ללכת.
+4679619	heb	אגיד לתום שצלצלת.
+4679620	heb	אספר לך בדרך.
+4679621	heb	בדרך אספר לכם.
+4679622	bul	Точно!
+4679623	bul	Всъщност излъга.
+4679624	rus	Мои родители не говорят по-французски.
+4679625	rus	Том съел оба моих бутерброда.
+4679626	rus	Том всегда получает то, что хочет.
+4679627	rus	Том всегда получает, что хочет.
+4679628	rus	Они нашли общий язык.
+4679629	rus	Свадьбу отменили.
+4679630	rus	Свадьба была отменена.
+4679631	rus	Мы отменили свадьбу.
+4679633	rus	Том отложил свою поездку.
+4679634	rus	Присяжные признали Тома невиновным.
+4679635	lit	Jie rado bendrą kalbą.
+4679636	lit	Vestuvės buvo atšauktos.
+4679637	rus	Подробности до сих пор неясны.
+4679638	tur	Ben kazanmayı umuyorum.
+4679639	tur	Hiçbir ipucum yoktu.
+4679640	hun	Találkozzunk Bécsben!
+4679641	tur	Bir tekne istiyorum.
+4679642	rus	У Тома больше не было времени.
+4679643	tur	Ben görevimi yaptım.

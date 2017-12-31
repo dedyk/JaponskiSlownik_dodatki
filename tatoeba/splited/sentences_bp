@@ -1,29 +1,3 @@
-2169128	fra	Nous avons besoin de nouvelles chaussures.
-2169129	spa	Ustedes necesitan nuevos zapatos.
-2169130	epo	Ni bezonas novajn ŝuojn.
-2169131	por	Precisamos de sapatos novos.
-2169132	lat	Calceis novis egemus.
-2169133	fra	Vous avez besoin de nouvelles chaussures.
-2169134	epo	Vi bezonas novajn ŝuojn.
-2169135	ber	Teḥwajem irkasen imaynuten.
-2169136	lat	Calceis novis egetis.
-2169137	ber	Teḥwajemt irkasen imaynuten.
-2169138	por	Vocês precisam de sapatos novos.
-2169139	spa	Ellos necesitan nuevos zapatos.
-2169140	ber	Ḥwajen irkasen imaynuten.
-2169141	por	Eles precisam de sapatos novos.
-2169142	rus	Я ждал этого.
-2169143	spa	Ellas necesitan nuevos zapatos.
-2169144	lat	Calceis novis egent.
-2169145	rus	Я ожидал этого.
-2169146	epo	Ili bezonas novajn ŝuojn.
-2169147	fra	Ils ont besoin de nouvelles chaussures.
-2169148	eng	They need new shoes.
-2169149	fra	Elles ont besoin de nouvelles chaussures.
-2169150	ber	Ḥwajent irkasen imaynuten.
-2169152	por	Elas precisam de sapatos novos.
-2169153	lat	Eae calceis novis egent.
-2169154	fra	J'ai enlevé mes chaussures.
 2169156	spa	Te sacaste los zapatos.
 2169157	ber	Tekksed irkasen-nnek.
 2169158	lat	Maria calceis novis eget.
@@ -1100,7 +1074,7 @@
 2170285	epo	Mi ŝatus scii la ekzaktan kurzon por la eno.
 2170286	ber	Ad teswed cwiṭ n watay yid-i?
 2170287	eng	The future depends on us and our generation.
-2170288	epo	Ĉu vi povus diri al mi kiel mi atingus la stacidomon?
+2170288	epo	Ĉu vi povus diri al mi, kiel mi atingos la stacidomon?
 2170289	ber	Ur ttḍeggir afenjal-a.
 2170290	epo	Ĉu vi povus indiki al mi kiel mi povas atingi la stacidomon?
 2170291	ber	Bɣiɣ ad sweɣ afenjal n teɣlust.
@@ -1530,7 +1504,7 @@
 2170743	rus	Водные нечистоты были видны невооружённым глазом.
 2170744	rus	Ты книжный червь.
 2170745	ita	I computer rendono le persone stupide.
-2170746	pol	Dzisiaj wial silny wiatr az wywrocil drzewo.
+2170746	pol	Dzisiaj wiał tak silny wiatr, że aż wywrócił drzewo.
 2170747	spa	Me sentiré solo cuando te hayas ido.
 2170749	eng	When we moved to our new home we've slept all day because it was laidback.
 2170750	rus	На столе уже есть тарелки, ножи, вилки, ложки и солонка; принесите кастрюлю супа.
@@ -1549,7 +1523,7 @@
 2170764	ita	Sono stanca per via di una lunga camminata.
 2170765	ita	Io sono stanca per via di una lunga camminata.
 2170766	ita	Sono stanco per via di una lunga camminata.
-2170767	eng	We've got late because the hotel was so laidback.
+2170767	eng	We got there late because the hotel was so laid back.
 2170768	ita	Io sono stanco per via di una lunga camminata.
 2170769	spa	Nunca me siento cómodo en compañía suya.
 2170770	ita	Il suo cane è molto grande.
@@ -1575,7 +1549,7 @@
 2170790	spa	¿Puedo pediros un favor?
 2170791	ita	David è molto attivo.
 2170792	ita	Che animale è quella specie di caprone?
-2170793	eng	We faced some stiff compitition.
+2170793	eng	We faced some stiff competition.
 2170794	epo	Mi prenos po tri de ĉiu speco.
 2170795	ita	La tua fantasia mi lascia senza parole.
 2170797	epo	Mi volus interŝanĝi alian lingvon kontraŭ la ĉina.
@@ -1644,7 +1618,7 @@
 2170866	epo	Mia onklino donis al mi florojn.
 2170867	eng	My aunt gave me flowers.
 2170868	eng	In Arabic culture, men say that vanity belongs to women.
-2170870	eng	She's really vain about her look.
+2170870	eng	She's really vain about her looks.
 2170871	spa	El tren se acaba de ir.
 2170873	tlh	jawchuqtaH nenSIy juppu'Daj je.
 2170874	spa	Vuestro trabajo no es fácil.
@@ -2466,7 +2440,7 @@
 2171732	rus	Не могли бы вы написать это, пожалуйста?
 2171733	rus	Не зная, что мне делать, я спросил совета у мамы.
 2171734	rus	Меня не заботят новости.
-2171735	epo	Tom surpriziĝis, aŭdante, ke Maria iĝis edzino.
+2171735	epo	Tom surpriziĝis, kiam li aŭdis, ke Manjo iĝis edzino.
 2171736	epo	Ĉi tiu medikamento mildigos la doloron.
 2171737	epo	Preni ĉi tiun medikamenton kvietigas la doloron.
 2171738	rus	Не курите больше в туалете!
@@ -3024,7 +2998,7 @@
 2172313	deu	Eine Theorie erklärt wie und warum etwas funktioniert. Praxis ist, wenn etwas funktioniert, obwohl vielleicht niemand weiß, warum und wie es funktioniert. In manchen Unternehmen gehen Theorie und Praxis Hand in Hand: nichts funktioniert und niemand weiß, warum es nicht funktioniert.
 2172314	hun	Mi a legkedveltebb elfoglaltságod.
 2172315	fra	Tu as une meilleure vue que moi.
-2172316	hun	A remény az amit az ember utoljára veszít el.
+2172316	hun	A remény az, amit az ember utoljára veszít el.
 2172317	fra	Aucun ne fut laissé en vie.
 2172318	hun	A remény hal meg utoljára.
 2172319	ita	Non so chi sia la moglie di Tom.
@@ -3688,7 +3662,7 @@
 2173017	ber	Ṛjiɣ kan cwiṭ, tuweḍ-d Mary.
 2173018	ber	John ed Mary myussanen seg 1976.
 2173019	ber	Mary tessuter seg unemhal-nnes ad as-yernu deg lexlaṣ.
-2173020	deu	Er ist es gewöhnt, öffentlich zu sprechen.
+2173020	deu	Er ist daran gewöhnt, öffentlich zu sprechen.
 2173021	epo	Mi nur volas ne diri la malbonan aĵon.
 2173022	deu	Bitte gib deinen Namen und deine Sozialversicherungsnummer an.
 2173023	deu	Bitte geben Sie Ihren Namen und Ihre Sozialversicherungsnummer an.
@@ -6288,7 +6262,7 @@
 2175929	eng	The post office is in the town centre.
 2175930	fra	Les pauvres ne deviennent pas plus riches lorsque les riches deviennent plus pauvres.
 2175931	fra	Tout le monde apprécie l'argent.
-2175932	eng	Seemingly no one payed attention to his words.
+2175932	eng	It seems no one paid any attention to what he said.
 2175933	fra	Tout le monde aime l'argent.
 2175934	fra	J'ignorais que vous possédiez un serpent.
 2175935	eng	I suppose you won't mind if I take one.
@@ -7723,7 +7697,7 @@
 2177487	deu	Vielen Dank, dass Sie gekommen sind!
 2177488	deu	Wie oft gehst du schwimmen?
 2177489	deu	Ich dachte, du hättest recht.
-2177490	epo	Ĉu Tom parolis al vi pri Maria?
+2177490	epo	Ĉu Tom parolis kun vi pri Manjo?
 2177491	epo	Ĉu Tom parolis al vi pri tio?
 2177492	epo	Kiom ofte vi iras naĝi?
 2177493	epo	Mi kredis, ke vi pravas.
@@ -8949,7 +8923,7 @@
 2178834	spa	Creí que no te rendirías.
 2178835	spa	Creí que Tom no vendría.
 2178836	spa	Creí que ellos no vendrían.
-2178837	rus	Луна очень красивая этим вечером.
+2178837	rus	Луна сегодня вечером очень красивая.
 2178838	spa	A ella le daba miedo viajar sola.
 2178839	heb	אני מסרב להסכים לתכנית ההיא
 2178840	spa	Tom está listo para pelear.
@@ -10209,7 +10183,7 @@
 2180188	ber	Ur tezmired ad tewliwled s tɣawla am Mary.
 2180189	ber	Ur tezmireḍ ad tewliwled s tɣawla am Mary.
 2180190	epo	Mi kredas, ke la sincera intenco finfine venkas.
-2180191	deu	Rot oder blau-welches gefällt sie?
+2180191	deu	Rot oder Blau – welches gefällt Ihnen?
 2180192	spa	Él no se puede mover tan rápido como lo hace Mary.
 2180193	ber	Ur yezmir ad yewliwel s tɣawla am Mary.
 2180194	spa	Ella no se puede mover tan rápido como lo hace Mary.
@@ -11905,7 +11879,7 @@
 2182014	ber	Tessaram Mary ad tejjey ɣef zik lḥal.
 2182015	spa	Jane espera que Mary se recupere pronto.
 2182016	pol	Żeglowali wzdłuż zachodniego wybrzeża Afryki.
-2182017	epo	Tom ne rajtas diri tion.
+2182017	epo	Tomo ne rajtas diri tion.
 2182018	heb	ירד גשם חזק.
 2182019	ber	Jane tessaram Mary ad tejjey ɣef zik lḥal.
 2182020	pol	Chodził wzdłuż rzeki.
@@ -12760,7 +12734,7 @@
 2182928	deu	Regenbogen am Morgen macht dem Schäfer Sorgen; Regenbogen am Abend ist dem Schäfer labend.
 2182929	deu	Regenten und Wächter müssen wenig schlafen.
 2182930	deu	Reich ist, wer einen gnädigen Gott hat.
-2182931	deu	Reiche essen, wann sie wollen, Arme, wann sie was haben.
+2182931	deu	Reiche essen, wann sie wollen, Arme, wenn sie etwas haben.
 2182932	deu	Reiche Leute haben das meiste Geld.
 2182933	deu	Almosen ist des Reichen bester Schatz.
 2182934	deu	Arme haben die Kinder, Reiche die Rinder.
@@ -13599,7 +13573,7 @@
 2183811	deu	Die Katze springt auf den Tisch.
 2183812	ita	Mio padre si interessa della storia antica.
 2183813	ber	Yella yessefk fell-awen ad teṛjum Mary.
-2183814	epo	Ili ĵus ludas nian kanton.
+2183814	epo	Ili ludas nian kanton.
 2183815	ber	Yella yessefk fell-awent ad teṛjumt Mary.
 2183816	spa	Ellos debían haber esperado a Mary.
 2183817	ber	Yella yessefk fell-asen ad ṛjun Mary.
@@ -14003,7 +13977,7 @@
 2184231	heb	האם אתם זוכרים את סבכם?
 2184232	tur	Konuşmak istiyorsan, konuş.
 2184233	heb	את כל כך יפה בשמלה הזאת!
-2184234	rus	Независимо от того, куда вы посмотрите, везде можете увидеть ущерб, причиненный в результате землетрясения.
+2184234	rus	Куда ни посмотришь, всюду видны разрушения, вызванные землетрясением.
 2184235	heb	הוא נפצע בנפילתו בעצם הזנב.
 2184237	heb	את מי אתה בוחר, אותו או אותו?
 2184238	heb	את מי את בוחרת, אותו או אותו?
@@ -15028,7 +15002,7 @@
 2185317	deu	Regeln sind dazu da, um gebrochen zu werden.
 2185318	deu	Sie ist ein sehr nettes Mädchen.
 2185319	deu	Er ist ein sehr netter Junge.
-2185320	deu	Ich habe 30 Jahre gebraucht, um über Nacht berühmt zu werden .
+2185320	deu	Ich habe 30 Jahre gebraucht, um über Nacht berühmt zu werden.
 2185321	deu	Ich stippte meinen Finger in den Honig.
 2185323	deu	Ich hasse Spinat.
 2185324	deu	Ich habe Spinat gegessen.
@@ -18048,7 +18022,7 @@
 2188489	deu	Die einzige Art zu betrügen, die zuweilen noch Erfolg hat, ist offenherzig zu sein.
 2188491	cmn	对他人要友善。
 2188492	deu	Der Mensch ist wie eine Spieldose - ein unmerklicher Ruck, und es beginnt eine andere Melodie.
-2188493	deu	Alle Narrheit erschöpfen - so gelangt man zum Boden der Weisheit.
+2188493	deu	Alle Narrheit erschöpfen – so gelangt man zum Boden der Weisheit.
 2188494	deu	Luther hatte es verstanden, als er dem Teufel das Tintenfass an den Kopf geworfen! Nur vor Tinte fürchtet sich der Teufel; damit allein verjagt man ihn.
 2188495	deu	Nichts ist dauernd wie der Wechsel.
 2188496	deu	Diplomaten sehen mit den Ohren. Die Luft ist ihr Element, nicht das Licht.
@@ -19989,7 +19963,7 @@
 2190550	hun	Némelyik ház kevésbé tetszik nekem.
 2190551	hun	Melyik a kedvenc nyelvtörőd?
 2190552	hun	Információt kell gyűjtenünk.
-2190553	fra	C'est un excellent site , qui ne met en ligne que des informations soigneusement vérifiées.
+2190553	fra	C'est un excellent site, qui ne met en ligne que des informations soigneusement vérifiées.
 2190554	deu	Da es an japanischen Arbeitern mangelt, stellen sie ausländische ein.
 2190555	deu	Das ist eine ausgezeichnete Website, die nur sorgfältig überprüfte Informationen ins Internet stellt.
 2190556	ita	Fino a che punto è lecito oscillare tra gusti musicali?
@@ -21440,7 +21414,7 @@
 2192100	spa	Viviré por un mes donde mi tío.
 2192101	spa	Ya no podemos confiar en nadie.
 2192102	spa	John le escribe a sus padres una vez al mes.
-2192103	spa	"Amo a tu prójimo como a ti mismo" es una cita de la Biblia.
+2192103	spa	"Ama a tu prójimo como a ti mismo" es una cita de la Biblia.
 2192104	spa	Ella tiene dos hijos, uno es doctor y el otro es dentista.
 2192105	ita	È tuo quello?
 2192106	ita	Io non sono l'unico a cui piace Tom.
@@ -22570,7 +22544,7 @@
 2193311	ita	Non potevo proprio dire di no.
 2193312	epo	Tom neis, ke li ŝtelis ion.
 2193314	epo	Mia patrino diris al mi, ke mi manĝu malpli da sukero.
-2193315	deu	Keks wurde von Käte aufgezogen.
+2193315	deu	Keks wurde von Katrin aufgezogen.
 2193316	spa	Tom visitó la tumba de Mary.
 2193318	rus	Она скривилась, когда увидела собаку.
 2193319	epo	Mi senpacience atendis ŝian alvenon.
@@ -24587,7 +24561,7 @@
 2195438	rus	Мне от тебя ничего не надо.
 2195439	deu	Ich brauche nichts von dir.
 2195440	epo	Mi ne bezonas ion de vi.
-2195441	ukr	У наші дні люди дуже часто говорять: "Мене це ображає", ніби це дає їм певні права. Це не більше, ніж скиглення. Воно не має жодного сенсу, жодної мети, немає жодної причини для поваги до цієї фрази. "Мене це ображає." Якого біса, ну то й що з того?
+2195441	ukr	У наші дні люди дуже часто говорять: "Мене це ображає", ніби це дає їм певні права. Це не більше, ніж скиглення. Воно не має жодного сенсу, жодної мети, немає жодної причини для поваги до цієї фрази. "Мене це ображає". Якого біса, ну то й що з того?
 2195442	eng	That's not the only problem.
 2195443	nob	Jeg trenger ikke noe fra deg.
 2195444	ukr	Я хочу змінити роботу.
@@ -24791,7 +24765,7 @@
 2195653	deu	Das ist eine Leistung!
 2195654	deu	In der Klasse sind fünfunddreißig Schüler.
 2195655	fra	Où est l'homme?
-2195656	fra	Où est le garçon?
+2195656	fra	Où est le garçon ?
 2195658	deu	Ich hatte es tags zuvor gemietet.
 2195659	deu	Ich hatte es einen Tag davor gemietet.
 2195660	rus	Я не буду утомлять тебя подробностями.
@@ -24853,7 +24827,7 @@
 2195717	rus	Есть две бесконечные вещи — Вселенная и человеческая глупость. Впрочем, насчёт Вселенной я не уверен.
 2195718	deu	Ich hörte, dass ein merkwürdiger Virus im Umlauf sei.
 2195719	deu	Es bleibt nichts anderes übrig, als zu gehen.
-2195720	deu	Mein Neffe war es gewöhnt, bis spät sitzen zu bleiben.
+2195720	deu	Mein Neffe war daran gewöhnt, lange aufzubleiben.
 2195721	ita	Non credevo che sarebbe finita così.
 2195722	ita	La Francia aveva parecchie colonie in Africa.
 2195723	ita	Mi piace esaminare i fiori selvaggi.
@@ -24874,9 +24848,9 @@
 2195740	por	Não posso aceitar uma desculpa dessas.
 2195741	deu	Das ist nicht die einzige Schwierigkeit.
 2195742	deu	Das ist nicht das einzige Problem.
-2195743	ita	E` una studentessa che studia seriamente.
+2195743	ita	È una una studentessa che studia seriamente.
 2195744	por	Ainda é um mistério quem escreveu a carta.
-2195745	ita	"E` seriamente malato?" "Spero di no."
+2195745	ita	"È seriamente malato?" "Spero di no."
 2195746	pes	از قصد این کار رو کردی.
 2195747	deu	Boote können untergehen.
 2195748	deu	Ich will einfach nur deine Liebe.
@@ -25472,7 +25446,7 @@
 2196365	fra	Il a tout nié.
 2196367	ita	Adoro le feste.
 2196368	tlh	Qep'It tlhuDpu'.
-2196369	ita	Per favore non dirlo a mia moglie.
+2196369	ita	Per favore, non dirlo a mia moglie.
 2196370	por	Eu sou grato pelo teu amor!
 2196371	ita	Avrebbe potuto essere peggio.
 2196372	deu	Sie haben die Bibliothek mit neuen Büchern ausgestattet.
@@ -26350,7 +26324,7 @@
 2197408	epo	Mi ŝatus havi vian laboron.
 2197409	hrv	On je rođen u malom gradu u Italiji.
 2197410	epo	Li estas ĉarma kaj inteligenta.
-2197411	ita	Non posso dirtelo. E` un segreto e se te lo dicessi, non sarebbe più un segreto.
+2197411	ita	Non posso dirtelo. È un segreto e se te lo dicessi, non sarebbe più un segreto.
 2197412	hrv	Želim živjeti u Italiji.
 2197413	hrv	Hrana u Italiji je bila odlična.
 2197414	hrv	Italija je daleko od Brazila.
@@ -26461,7 +26435,7 @@
 2197526	ita	Dopo un po', cominciò a dire sciocchezze.
 2197527	rus	Это не было правдой.
 2197528	deu	Obwohl Adalbert von Chamissos Muttersprache das Französische war, gelangen ihm in der deutschen Fremdsprache unsterbliche Werke.
-2197529	ita	E` un'usanza stupida per un non-cristiano, quella di spedire della cioccolata il giorno di san Valentino.
+2197529	ita	È un'usanza stupida per un non-cristiano, quella di spedire della cioccolata il giorno di san Valentino.
 2197530	eng	Please write me back at your earliest convenience.
 2197531	tlh	bIjatlh 'e' yImev 'ej yI'Ij neH.
 2197532	pol	Proszę odpisać najszybciej, jak to będzie możliwe.
@@ -35308,7 +35282,7 @@
 2207159	ita	Il pollo è l'unico animale che si può mangiare prima che nasca e dopo che è morto.
 2207160	rus	Мы женаты друг на друге.
 2207161	deu	Das Huhn ist das einzige Tier, das man vor der Geburt und nach seinem Tod essen kann.
-2207162	rus	Я думаю, что не может быть никакой другой причины кроме этой.
+2207162	rus	Я думаю, что не может быть никакой другой причины, кроме этой.
 2207163	epo	La koko estas la ununura besto, kiun oni povas manĝi antaŭ ĝia nasko kaj post ĝia morto.
 2207164	por	Acabei de receber seu e-mail.
 2207165	rus	У тебя есть два варианта: Сан-Паулу или Рио-де-Жанейро.
@@ -38367,7 +38341,6 @@
 2210418	por	Se tu propuseres, eu também proporei.
 2210419	eng	She got mad.
 2210420	por	Se tu puderes, eu também poderei.
-2210421	eng	Her diploma.
 2210422	por	Se tu quiseres, eu também quererei.
 2210423	eng	Tom tried on the coat, but it was too small.
 2210424	por	Se tu te opuseres, eu também me oporei.
@@ -38397,7 +38370,6 @@
 2210448	por	Se você impuser, ele também imporá.
 2210449	eng	I just told Tom what time he needs to be here.
 2210450	por	Se você intervier, ele também intervirá.
-2210451	eng	Her graduation certificate.
 2210452	por	Se você opuser, ele também oporá.
 2210453	por	Se você propuser, ele também proporá.
 2210454	por	Se você puder, ele também poderá.
@@ -38604,7 +38576,7 @@
 2210658	eng	I think she's in love with me.
 2210659	jpn	タトエバの例文にはどうしてトムとメアリーばっかり出てくるんだろう。
 2210660	eng	I think she's in love with me. What should I do?
-2210661	eng	No one could solve such an abstruse problem
+2210661	eng	No one could solve such an abstruse problem.
 2210662	eng	Goodnight ladies.
 2210663	por	Eu vejo uma menina de pé debaixo daquela árvore.
 2210664	jpn	今日の数学はいつもより楽しかった。
@@ -38746,7 +38718,7 @@
 2210800	deu	Setze auf die Ehrlichkeit und scheue keine Arbeit.
 2210801	pol	Potrzeba matką wynalazków.
 2210802	deu	Der Kritiker ist ein Wegelagerer auf dem Weg zum Ruhm.
-2210803	deu	Alles was ein Mensch tun kann, ist getan; und alles ist vergeblich getan.
+2210803	deu	Alles, was ein Mensch tun kann, ist getan; und alles ist vergeblich getan.
 2210804	deu	Wenn einer, der mit Mühe kaum, gekrochen ist auf einen Baum, schon meint, dass er ein Vogel wär, so irrt sich der.
 2210805	deu	Rotwein ist für alte Knaben eine von den besten Gaben.
 2210806	deu	Ausdauer wird früher oder später belohnt - meistens aber später.
@@ -41797,7 +41769,7 @@
 2213996	spa	Salió de la casa a las ocho.
 2213997	deu	Warum wartest du nicht bis zum Morgen?
 2213998	spa	Me dio la carta y se fue.
-2213999	deu	Warom wartest du nicht so lange, bis Tom hier ist?
+2213999	deu	Warum wartest du nicht so lange, bis Tom hier ist?
 2214000	deu	Warum wartest du nicht, bis Tom hier ist?
 2214001	spa	¿Cuándo dejó Boston Tom?
 2214002	deu	Es sieht so aus, als schäkerte Tom mit Maria.
@@ -43317,8 +43289,8 @@
 2215571	deu	Eine Definition ist das Einfassen der Wildnis einer Idee mit einem Wall von Worten.
 2215572	ita	Mi bucai le orecchie.
 2215573	ita	Io mi bucai le orecchie.
-2215574	ita	Pubblicai dei libri.
-2215575	ita	Io pubblicai dei libri.
+2215574	ita	Pubblicavo dei libri.
+2215575	ita	Io pubblicavo dei libri.
 2215576	ita	Vendicai i miei genitori.
 2215577	ita	Io vendicai i miei genitori.
 2215578	ita	Chiusi gli occhi.
@@ -43683,8 +43655,8 @@
 2215959	eng	The workers are striking.
 2215960	fra	Je fréquentais les délinquants.
 2215961	ita	I lavoratori stanno scioperando.
-2215962	ita	Frequentai i delinquenti.
-2215963	ita	Io frequentai i delinquenti.
+2215962	ita	Frequentavo i delinquenti.
+2215963	ita	Io frequentavo i delinquenti.
 2215964	nld	De bus zou nu snel moeten komen.
 2215965	ita	Lui ci ha mostrato la foto di sua madre.
 2215966	ita	Ci ha mostrato la fotografia di sua madre.
@@ -45055,7 +45027,7 @@
 2217452	deu	Maria ist komisch.
 2217453	deu	Maria ist seltsam.
 2217454	deu	Ich bin einfach nur faul.
-2217455	epo	Maria estas stranga.
+2217455	epo	Manjo estas stranga.
 2217456	deu	Seine Mutter hatte recht.
 2217457	deu	Es war nicht gelogen, was seine Mutter sagte.
 2217458	deu	In einem kleinen Käfig setzte ich das Vögelchen auf das Fensterbrett. Auf sein Rufen hin flogen die Eltern beide herbei. Abwechselnd fütterten sie es durch die Gitterstäbe. Am Abend holte ich es herein, am Morgen stellte ich es hinaus. Und immer so weiter, bis es begann, seine Flügel zu bewegen. Und eines Tages öffnete ich den Käfig. Die Mama war da und erwartete es schon. Gemeinsam flogen sie davon.
@@ -46446,7 +46418,7 @@
 2218899	por	Sua filha mais velha está casada.
 2218900	por	Devemos sempre levar em conta o interesse público.
 2218901	pol	Mary rozłożyła na stole wielką mapę.
-2218902	pol	Mary spojrzał na siebie w lustrze.
+2218902	pol	Mary spojrzała na siebie w lustrze.
 2218903	pol	Jesteście na czas.
 2218904	pol	Jesteś po trzydziestce.
 2218905	pol	Jesteś w telewizji.
@@ -47260,7 +47232,7 @@
 2219765	rus	Я не могу объяснить её отсутствие в школе.
 2219766	hun	Semmi makacskodás!
 2219767	epo	Ne obstini!
-2219768	ita	Penso che Tom condivida onlne troppe informazioni personali.
+2219768	ita	Penso che Tom condivida online troppe informazioni personali.
 2219769	eng	My hair's too long.
 2219770	ber	Lliɣ sɛunnuẓeɣ afatas-inu.
 2219771	hun	Lehullott egy csillag.
@@ -47790,7 +47762,7 @@
 2220339	eng	It can't be Mary. She's at the hospital right now.
 2220340	tlh	pIj bo'Dagh'a' lo' rabe'rIt.
 2220341	eng	An hour later, his fever got worse.
-2220343	epo	Li universitate diplomiĝos en 2001, se ĉio iros glate.
+2220343	epo	Li universitate diplomitiĝos en 2001, se ĉio iros glate.
 2220345	heb	אל תלך לשם!
 2220346	heb	אל תלכי לשם!
 2220347	heb	אל תלכו לשם!
@@ -48694,9 +48666,9 @@
 2221302	ita	Riuscite a venire domenica sera?
 2221303	rus	Цена на золото меняется каждый день.
 2221304	heb	הוא בא מוקדם יותר ממני.
-2221305	pol	Dokąd idziesz ojcze?
+2221305	pol	Dokąd idziesz, ojcze?
 2221306	heb	הוא הביא את הרופא שלו.
-2221307	pol	Dokąd się wybierasz tato?
+2221307	pol	Dokąd się wybierasz, tato?
 2221308	heb	באיזו שעה ממריא המטוס שלך?
 2221309	heb	אתה צריך ללכוד את החיה בחיים.
 2221310	heb	את צריכה ללכוד את החיה בחיים.
@@ -49945,7 +49917,7 @@
 2222660	rus	Она делает это быстрее, чем ты.
 2222661	rus	Том притворялся, что не знает ответ.
 2222662	rus	У них не осталось денег.
-2222663	rus	Насколько хватало глаз, там не было ничего кроме песка.
+2222663	rus	Насколько хватало глаз, там не было ничего, кроме песка.
 2222664	rus	Его шутки нравятся всем.
 2222665	rus	Даже если это займёт три года, ты должен добиться своей цели.
 2222666	rus	Это я неправ.
@@ -49998,3 +49970,31 @@
 2222713	rus	Том умер несколько лет назад.
 2222714	epo	Li estas tre manĝema.
 2222715	deu	Seit wann ist Agnès hier?
+2222716	epo	Tom estas tre manĝema.
+2222717	rus	Учитель задал нам на дом десять задач.
+2222718	ita	C'è gente che si lamenta di tutto.
+2222720	rus	Том не помнит свой пароль.
+2222721	rus	О, я знаю этого человека!
+2222722	tlh	qaStaHvIS wa' Hogh ropyaH qachDaq ratlhnIS.
+2222723	rus	Том сделал это против воли.
+2222724	fra	Je me réjouis que tu sois heureux.
+2222726	fra	Je me réjouis que tu sois heureuse.
+2222727	rus	Я сейчас очень устал.
+2222728	fra	Je me réjouis de votre joie.
+2222731	rus	У тебя есть знания, а так же опыт.
+2222734	fra	Émilie est chez elle.
+2222737	rus	Мэри, что ты делаешь?
+2222741	deu	Ich liebe meine Mutti.
+2222742	epo	Li estas granda legemulo.
+2222743	eng	He's a bookworm.
+2222744	por	Ele é um devorador de livros.
+2222745	tlh	SoSoywI' vImuSHa'.
+2222746	rus	Я рад, что ты рада.
+2222747	ido	Me amas mea matro.
+2222748	deu	Er ist eine Leseratte.
+2222749	rus	Татоэба, что ты делаешь? Ахахах, прекрати!
+2222752	eng	It's a vicious cycle.
+2222753	ido	Me esas amata da mea matro.
+2222754	epo	Mi ŝatas vin, pro via komprenemo.
+2222755	tlh	SoSwI' vImuSHa'.
+2222756	ita	Quale sarebbe la causa scatenante?

@@ -1,48 +1,3 @@
-3561978	fra	Tous les élèves doivent revêtir le même uniforme.
-3561979	fra	J'ai des places en plus pour le concert.
-3561980	fra	J'ai des places supplémentaires pour le concert.
-3561981	fra	J'ai des places de rabe pour le concert.
-3561982	fra	Ce n'est pas encore l'heure du dessert.
-3561983	ita	Ho dei posti in più per il concerto.
-3561984	fra	Ton père a été gratifié d'une promotion.
-3561985	fra	Ton père a reçu une promotion.
-3561986	fra	Votre père a été gratifié d'une promotion.
-3561987	fra	Ça aurait l'air tellement mignon, sur toi !
-3561988	fra	Tout ce dont je pense, c'est toi.
-3561989	fra	Tout ce dont je pense, c'est vous.
-3561990	fra	Tout ce à quoi je pense, c'est toi.
-3561991	fra	Tout ce à quoi je pense, c'est vous.
-3561992	fra	Parfois, nous ignorons si nous sommes amoureux.
-3561993	fra	Est-ce illégal ?
-3561994	hun	Tom és Mary házavatót fog tartani az elkövetkezendő péntek estén.
-3561995	fra	Tout le monde le regarda comme s'il était fou.
-3561996	heb	אני צריכה להתלבש.
-3561997	jpn	彼氏に嘘ついたことある？
-3561998	jpn	学校サボったことある？
-3561999	jpn	このロゴ見たことある？
-3562000	jpn	遠距離恋愛したことある？
-3562001	jpn	お酒飲んだことある？
-3562002	rus	Все посмотрели на него как на ненормального.
-3562003	fra	Nous ferions tout aussi bien de terminer ça.
-3562004	fra	Ce n'est pas du tout ce que j'étais en train de dire.
-3562005	rus	Это незаконно?
-3562006	rus	Это совсем не то, что я говорил.
-3562007	rus	Твой отец получил повышение.
-3562008	rus	Ваш отец получил повышение.
-3562009	rus	Завтра утром они продают билеты на концерт Шакиры.
-3562010	hun	Megnézhetem a jegyét?
-3562011	fra	Vous êtes-vous jamais rasé la barbe ?
-3562012	hun	Alig vártuk a bulit.
-3562013	jpn	すね毛剃ったことある？
-3562014	fra	Je savais que je ne pouvais pas le faire, cependant j'ai malgré tout essayé.
-3562015	eng	Music is only love looking for words.
-3562016	fra	Elle deviendra institutrice.
-3562017	fra	La musique n'est jamais que de l'amour en quête de mots.
-3562018	fra	Ma traduction colle-t-elle ?
-3562019	rus	"Шутишь". - "Нет".
-3562020	rus	Ты когда-нибудь целовала другого парня?
-3562021	fra	Ma traduction correspond-elle ?
-3562022	hun	Mit szándékozol csinálni?
 3562023	rus	"Ты шутишь". - "Не шучу".
 3562024	rus	"Вы шутите". - "Не шучу".
 3562025	por	A música é simplesmente o amor procurando palavras.
@@ -2263,7 +2218,7 @@
 3564324	tur	Şimdi bir saniye bekle.
 3564325	eng	Do you know how much of a wait there'll be for a cab?
 3564326	tur	Şimdi ben odama gidiyorum.
-3564328	tur	Şimdi, bu saçma.
+3564328	tur	İşte buna gülünç denir.
 3564329	tur	Şimdi, benim sorumu cevapla.
 3564330	tur	Şimdi, kimin bir sorusu var?
 3564331	tur	Şimdi, dışarı çıkalım.
@@ -3181,7 +3136,7 @@
 3565304	tur	Şimdi, lütfen konuyu değiştirebilir miyiz?
 3565305	tur	Şimdi, neden onu yapmak zorundasın?
 3565306	tur	Şimdi, bir saniye bekle.
-3565307	tur	Şimdi, bu bir fikir.
+3565307	tur	İşte buna bir fikir denir.
 3565308	tur	Şimdi, sus ve dinle.
 3565309	rus	Я никогда не буду старым. Старость для меня — это быть на пятнадцать лет старше, чем я.
 3565310	tur	Şimdi bir göz atalım.
@@ -4263,7 +4218,7 @@
 3566409	tur	Tom ne söylediyse yapacağım.
 3566410	epo	Kiel oni nomas ĉi tiun aĵon en la germana lingvo?
 3566411	deu	Ich verrichte nur meine Arbeit.
-3566412	rus	Я остановился у дома Тома.
+3566412	rus	Я заехал к Тому домой.
 3566413	dan	Mary studerede sexologi.
 3566415	dan	Mary har studeret sexologi.
 3566416	rus	Я на самом деле не знаю ответа.
@@ -5167,7 +5122,7 @@
 3567354	spa	Tu secreto estará a salvo conmigo.
 3567355	spa	Pasé doce horas en el tren.
 3567356	tur	Tom'a nasıl yardım edeceksin?
-3567357	fra	Comment vas-tu aider à Tom ?
+3567357	fra	Comment vas-tu aider Tom ?
 3567358	hun	Béla elképzelhetetlenek tartja, hogy vadászni menjen holnap.
 3567359	hun	A mai időjárás nem biztató.
 3567360	spa	Tom es un tipo abierto.
@@ -7785,8 +7740,8 @@
 3570050	eng	Are we screwed?
 3570051	eng	Damn they've got a nice house! I wonder where they got the money for it...
 3570052	dan	Dette er det lækreste æble.
-3570053	eng	Don't forget to reply to her letter
-3570054	eng	Don't forget to reply to his letter
+3570053	eng	Don't forget to reply to her letter.
+3570054	eng	Don't forget to reply to his letter.
 3570055	eng	I'll be free tonight
 3570056	eng	I'm free tonight
 3570057	eng	I don't wanna be his friend.
@@ -7804,7 +7759,7 @@
 3570071	eng	She cleaned the room for me.
 3570073	eng	We'll deal with the problem later.
 3570074	eng	We'll figure out how to solve the problem later.
-3570075	eng	She made a lot of noise on the piano
+3570075	eng	She made a lot of noise on the piano.
 3570076	eng	To be poor is not to have little, but to need much.
 3570077	eng	Valuation is not always objective.
 3570079	tur	Çocuklara okula kadar eşlik ettiler.
@@ -8970,7 +8925,7 @@
 3571303	dan	Min mor har bagt en kage til min fødselsdag.
 3571304	rus	У нас было мало дождей этим летом.
 3571305	dan	Min mor bagte en kage til min fødselsdag.
-3571306	fra	J'ai trouvé qu'impossible à contacter avec lui.
+3571306	fra	J'ai constaté qu'il était impossible de le contacter.
 3571307	rus	У нас собака и кошка.
 3571308	rus	Мы видели, как ребенок сел в автобус.
 3571309	rus	Мы выиграли матч.
@@ -12731,7 +12686,7 @@
 3575241	eng	Tom is coming to stay with us for a week.
 3575242	eng	I'm sure Tom is going to be all right.
 3575243	eng	I was in Boston for the entire summer.
-3575244	eng	I tried to talk Tom into going with us?
+3575244	eng	I tried to talk Tom into going with us.
 3575245	eng	I had a great time last night.
 3575246	eng	I came here because Tom said you wanted to see me.
 3575247	eng	Did you have any idea that something was wrong?
@@ -12938,7 +12893,7 @@
 3575453	eng	Hey, I need your help.
 3575454	eng	Hey, you look great.
 3575455	eng	Hey, that was really great.
-3575456	eng	Hey, look what I got.
+3575456	eng	Hey, look what I've got.
 3575457	eng	Hey, that smells good.
 3575458	eng	Hey, you don't look so good.
 3575459	eng	Hey, how's it going?
@@ -15596,7 +15551,7 @@
 3578216	fin	Älä heitä luita koiralle!
 3578217	fin	Internetyhteyteni on hidas.
 3578218	fin	Nettiyhteyteni on hidas.
-3578219	nld	Het is beginnen te sneeuwen.
+3578219	nld	Het is beginnen sneeuwen.
 3578220	fin	Älä pakota minua tekemään sitä.
 3578221	tur	Kötü bir karar verdi.
 3578222	fin	”Kuulin, että 70 prosenttia japanilaisista on ninjoja. Onkohan se totta?” ”Mistä sinä tuon kuulit?”
@@ -15650,7 +15605,7 @@
 3578271	lat	"Ubi" quoque vocabulum Latinum est.
 3578272	rus	"Ubi" - тоже латинское слово.
 3578273	epo	Ankaŭ "ubi" estas vorto latina.
-3578274	lat	In vocabulo "ubi" sunt tres litterae.
+3578274	epo	En vorto "ubi" estas tri literoj.
 3578275	rus	Его мать постоянно ворчит по этому поводу.
 3578276	rus	Сегодня мало посетителей.
 3578277	rus	В слове "ubi" - три буквы.
@@ -15696,7 +15651,7 @@
 3578318	bul	Отклонихте се от темата.
 3578319	rus	"Non", "sed", "magnus", "numerus" - латинские слова.
 3578320	bul	Все за едно и също се говори.
-3578321	lat	"Vocabulum" quoque vocabulum Latinum est.
+3578321	epo	Ankaŭ "vocabulum" estas vorto latina.
 3578322	bul	Разговорът загуби стил.
 3578323	rus	"Vocabulum" - тоже латинское слово.
 3578324	rus	Я не смог поучаствовать в той беседе.
@@ -17043,8 +16998,8 @@
 3579708	swh	Nyinyi ni watoto.
 3579709	swh	Wao ni watoto.
 3579710	deu	Wie kann ich die Sendung eines Netzbriefes abbrechen?
-3579711	fra	Ils sont des enfants.
-3579712	fra	Elles sont des enfants.
+3579711	fra	Ils sont enfants.
+3579712	fra	Elles sont enfants.
 3579713	deu	Wie kann man eine Ehe annulieren?
 3579714	cmn	尊重循环的规则是很重要的。
 3579715	deu	Tom schloss die Türe hinter sich.
@@ -19348,7 +19303,7 @@
 3582105	tur	İngilizcen çok gelişti.
 3582106	fra	Je n'aime pas les chats, et mon frère non plus.
 3582107	tur	Zsuzsi benden on yaş küçük.
-3582109	tur	Biber beyaz.
+3582109	tur	Kağıt beyaz.
 3582110	tur	Seni akşam yemeğine davet edebilir miyim?
 3582111	tur	Haklı mıydılar?
 3582113	tur	Tom salondaki herkesi öptü.
@@ -20409,7 +20364,7 @@
 3583254	ber	Adlis-nni yessawal-d ɣef tmeddurt n yiwet n tmeṭṭut deg tkurmut.
 3583255	eng	These days everything I do is bad for my health.
 3583256	jpn	真実を述べ、何事も隠さず、また何事も付け加えないことを誓いますか。
-3583257	eng	I should have drank something that stops hangovers.
+3583257	eng	I should have drunk something that stops hangovers.
 3583258	eng	I should have read the instructions.
 3583259	ber	Ccarrweɣ mi ḥulfaɣ i tsudint-nni.
 3583260	rus	Манящая реклама летних курортов.
@@ -26118,8 +26073,8 @@
 3589220	rus	Делия и Сира - две рабыни.
 3589221	lat	Aemilia domina ancillarum est.
 3589222	rus	Эмилия - госпожа рабынь.
-3589223	lat	Cuius servus est Davus?
-3589224	rus	Чьим рабом является Дав?
+3589223	lat	Cuius servus est Thomas?
+3589224	rus	Чьим рабом является Том?
 3589225	lat	Davus servus Iulii est.
 3589226	rus	Дав - раб Юлия.
 3589227	lat	Cuius ancilla est Syra?
@@ -27736,7 +27691,7 @@
 3590920	nld	De leerkrachten kunnen ook fouten maken.
 3590921	eng	You hurt my feelings.
 3590922	deu	Der Prozentsatz von 37 % ist nur ungefähr und basiert auf meiner persönlichen Erfahrung.
-3590923	eng	Do not drink water!
+3590923	eng	Do not drink the water!
 3590924	ber	Tameddurt tbeddu-d mi ara teẓred anwa kecc swaswa.
 3590925	cmn	不要喝水！
 3590926	eng	What you're doing makes me nervous.
@@ -29843,7 +29798,7 @@
 3593083	mhr	Кузе тый шонет, кӧ тидым ыштен?
 3593084	lit	Nejaugi tu neatpažįsti Tomo?
 3593085	epo	Goujet estas la tipa laboristo, kiu ĉiam havas konvenan konduton.
-3593086	mhr	Тудо мый дечем шым гана шукырак англичан мут-влакым пала.
+3593086	mhr	Тудо мый дечем лу гана шукырак англичан мут-влакым пала.
 3593087	lit	Jūs neatpažįstate Tomo?
 3593088	epo	Jam unu horon ili diskutas telefone.
 3593089	mhr	Мый Мландыште эн пиалан айдеме улам.
@@ -31695,7 +31650,7 @@
 3595020	tur	Kapıcımdan memnunum.
 3595021	ina	Io non ha le capital initial.
 3595022	rus	Убедить его было нелегко.
-3595023	eng	I'm pleased of my doorman.
+3595023	eng	I like my doorman.
 3595024	tur	Kitabımdan memnunum.
 3595025	jpn	ご予約はされていますか？
 3595027	por	Eu não tenho o capital inicial.
@@ -33229,7 +33184,7 @@
 3596613	deu	Sag so etwas nicht, selbst nicht als Scherz!
 3596614	rus	Разгневанная толпа атаковала здание.
 3596615	rus	Сколько стоят эти очки?
-3596616	deu	Werden Sie ein Energieheld und sparen Sie Geld! Kaufen Sie Wärmeschutz Fenster! Bis zum Monatsende bieten wir mehrere Modelle mit einem großen Rabatt an.
+3596616	deu	Werden Sie ein Energieheld und sparen Sie Geld! Kaufen Sie Wärmeschutzfenster! Bis zum Monatsende bieten wir mehrere Modelle mit einem großen Rabatt an.
 3596617	fin	Voinko lainata paitaa?
 3596618	fin	Saako olla teetä?
 3596619	rus	Кто верховодит в вашей семье?
@@ -34150,7 +34105,7 @@
 3597583	eng	Tom took a step toward Mary.
 3597586	eng	Tom shook his fist at Mary.
 3597587	eng	Tom asked Mary to go with him.
-3597588	eng	Tom is holding Mary's hands.
+3597588	eng	Tom is holding Mary's hand.
 3597589	epo	Do grandega ŝanĝo tiudirekte jam estas farita: Putin aneksis Krimeon, kaj neniu povos forpreni ĝin disde ni!
 3597590	epo	Tomaso estis ĉantaĝata de Maria.
 3597591	rus	Мария шантажировала Тома.
@@ -37214,13 +37169,13 @@
 3600781	eng	You look poorly.
 3600782	tur	Tom Mary'ye doğru bir adım attı.
 3600783	eng	He does everything well.
-3600784	tur	Tom Mary'nin ellerini tutuyor.
+3600784	tur	Tom Mary'nin elini tutuyor.
 3600785	eng	The police followed her all the way to Paris.
 3600786	tur	Tom Mary'yi nasıl bulacak?
 3600787	eng	Yesterday I saw an interesting TV program.
 3600788	tur	Tom'un köpeği Mary'yi hiç ısırdı mı?
 3600789	eng	I went out for a moment.
-3600790	eng	The anger showed onn her face.
+3600790	eng	The anger showed on her face.
 3600791	tur	Tom'un bacağı fena halde yanmıştı.
 3600792	eng	This was how he became a great pianist.
 3600793	tur	Tom'un kendine güveni yüksektir.
@@ -37466,7 +37421,7 @@
 3601043	nld	Ik heb je hierheen geroepen om je een vraag te stellen.
 3601044	nld	Dat huis met een rood dak is van mijn oom.
 3601045	epo	Mi provos diri tion en la angla.
-3601046	eng	I'll try to say it in English
+3601046	eng	I'll try to say it in English.
 3601049	nld	Ik ben een gevangene.
 3601050	ber	Llan aṭas n yiysan deg tama-a.
 3601051	nld	Het is niet iets om over te lachen.
@@ -41540,7 +41495,7 @@
 3605336	rus	Решение принято.
 3605337	ina	Planta arbores!
 3605338	eng	I really like Hokkaido.
-3605340	eng	Yesterday, John arrived in Japon.
+3605340	eng	Yesterday, John arrived in Japan.
 3605341	rus	Мы с Томом женимся.
 3605342	por	Plante árvores!
 3605343	rus	Том не знал, что Мэри уже замужем.
@@ -41979,7 +41934,7 @@
 3605798	ber	Aɣ yid-s tanamit a Tom.
 3605799	vec	Mi go vintitrì ani.
 3605800	ber	A win yufan d nekk ara as-ibedden i Tom.
-3605801	eng	I'm twenty three years old.
+3605801	eng	I'm twenty three-years old.
 3605802	ita	Ho ventitré anni.
 3605803	ber	Ini-d "iḍ yelhan" a Tom.
 3605804	ber	Tzemred ad teṛjud arma fukeɣ?
@@ -42434,7 +42389,7 @@
 3606283	jpn	我思わず、故に我なし。
 3606285	nld	Je moet Tom beschermen.
 3606286	tur	Kimseye bunu yaptığımızı söyleme!
-3606287	nld	Tom weet dat niet.
+3606287	nld	Tom weet dat.
 3606288	ber	Ddu ed uḍebbal, ad tḍebbled, ddu ed uɣeyyaḍ, ad tɣeyyḍed.
 3606289	tur	Tom gerçekten iğrenç, değil mi?
 3606290	tur	Bu araba Jingan tapınağına gider mi?
@@ -45373,7 +45328,7 @@
 3609377	fra	Vous saviez que j'étais mariée.
 3609378	fra	Vous saviez que j'étais marié.
 3609379	epo	Nuntempe la infanoj havas tro da ludiloj.
-3609380	fin	Tom pitelee Maria käsistä.
+3609380	fin	Tom pitää Maria kädestä.
 3609381	fin	Veikkaan, että Tom meni kotiin.
 3609382	epo	Ili ĝuas sanan vivon en la kamparo.
 3609383	fra	Est-ce que ça joue le moindre rôle ?
@@ -45673,7 +45628,7 @@
 3609696	deu	Es gehört uns.
 3609697	por	Ela está no jardim, plantando roseiras.
 3609698	hun	Az érzelem és az értelem harcol bennem egymással.
-3609699	fra	« Ouf, bonjour ! Que je vous rencontrerais ici ! » « Moi aussi, je suis surpris. »
+3609699	fra	« Ça alors, bonjour ! Que je vous rencontrerais ici ! » « Moi aussi, je suis surpris. »
 3609700	deu	Ich wusste nicht, dass Tom und Mary sich getrennt haben.
 3609701	fra	Ça me rend triste.
 3609702	fra	Cela me rend triste.
@@ -45880,7 +45835,7 @@
 3609918	deu	Du solltest dir das mal ansehen.
 3609919	deu	Sie sollten sich das mal ansehen.
 3609920	spa	Se preparan.
-3609921	fin	Ensimmäisellä ulkomaanmatkallamme taskuvaras vei matkalla mukana olleelta henkilöltä lompakon ja se oli aivan hirveää. Siksi siitä ei jäänyt kovinkaan hyvä vaikutelma.
+3609921	fin	Ensimmäisellä ulkomaanmatkalla taskuvaras vei matkalla yhdeltä mukana olleelta henkilöltä lompakon ja se oli aivan hirveää. Siksi luulen siitä ei jäänyt kovinkaan hyvä vaikutelma.
 3609922	deu	Nichts überstürzen.
 3609923	deu	Tom wird es niemals schaffen.
 3609924	deu	Wann brauchen Sie es?
@@ -46257,7 +46212,7 @@
 3610313	hun	Erről a jegyzetről nincs másolat.
 3610314	tur	O bana pencereyi aç dedi.
 3610315	deu	Wie viel Zeit haben wir?
-3610316	hun	Ebben a házban hat szoba van
+3610316	hun	Ebben a házban hat szoba van.
 3610317	deu	Wie lang haben wir noch?
 3610318	hun	Bélát felmentették a vád alól.
 3610319	tur	Bu konferansa katılmamıza gerek yok.
@@ -49861,9 +49816,9 @@
 3614122	lat	Pater hic est.
 3614123	rus	Отец здесь.
 3614125	epo	Li ne estas tiom alta, kiom lia frato.
-3614126	lat	Tuus Marcus filius improbus est!
+3614126	epo	Via Tomaso estas malbona filo!
 3614127	epo	Vintre noktiĝas frue.
-3614128	rus	Твой Марк - плохой сын!
+3614128	rus	Твой Том - плохой сын!
 3614129	lat	Puer qui parvam puellam pulsat improbus est.
 3614130	rus	Мальчик, бьющий маленькую девочку - плохой.
 3614131	lat	Iulius iratus puerum improbum verberat.
@@ -49998,3 +49953,48 @@
 3614282	dan	Jeg kunne ikke holde ud at se dig græde.
 3614283	heb	לא יכולתי לסבול את המראה הזה.
 3614284	nld	Tom is in bed gestorven.
+3614285	epo	Tom mortis en la lito.
+3614286	dan	Jeg kunne ikke længere holde støjen ud.
+3614287	epo	Dum tradukado oni atentu, ke la frazoj sonu nature, kaj ke la eldiro de la originalaj frazoj restu plejparte konservita.
+3614288	eng	A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+3614289	epo	Kia estas via patrino?
+3614290	eng	A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
+3614291	eng	A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+3614292	nld	Ik heb geen hond.
+3614293	dan	Hvad er der galt med dig?
+3614294	epo	Mi ne kaptis vian nomon.
+3614295	nld	Laat ons gaan lunchen.
+3614296	rus	Поскорее возвращайся!
+3614297	dan	Jeg nåede ikke lige at fange dit navn.
+3614298	dan	Jeg har ingen hund.
+3614299	rus	Прости, что так поздно звоню. Я просто хотела услышать твой голос.
+3614300	rus	Прости, что так поздно звоню. Я просто хотел услышать твой голос.
+3614301	epo	Persistu kaj estu firma!
+3614302	nld	Ik heb liever koffie dan melk.
+3614303	rus	Я оставил свой зонтик в автобусе.
+3614304	nld	Ik heb liefst koffie met melk.
+3614305	rus	Что она вам сказала?
+3614306	rus	Что она тебе сказала?
+3614307	rus	Что он вам сказал?
+3614308	rus	Что он тебе сказал?
+3614309	epo	Mi preferas kafon kun lakto.
+3614310	nld	Hij heeft rode puntjes overal op zijn lichaam.
+3614311	dan	Jeg foretrækker kaffe med mælk.
+3614312	nld	Is aan het mensdom de macht over het dierenrijk gegeven?
+3614313	nld	Ik heb hem de brief in het geheim gegeven.
+3614314	dan	Jeg foretrækker kaffe frem for mælk.
+3614316	rus	Эти самые слова он и сказал.
+3614317	rus	Эти самые слова она и сказала.
+3614318	deu	Tom nahm etwas, was ihm nicht gehörte.
+3614319	nld	Hij stond gewoonlijk vroeg op.
+3614320	dan	Jeg foretrækker kaffe fremfor mælk.
+3614321	deu	Marias Ehemann ist reich.
+3614322	fra	Il n'est pas toujours possible, dans sa vie, de conserver la pureté de son enfance, ainsi que nous l'enseigne la voix en notre for intérieur.
+3614323	dan	Han stod sædvanligvis tidligt op.
+3614324	rus	Так в точности он и сказал.
+3614325	rus	Так в точности она и сказала.
+3614326	fra	Le garçon fondit en larmes.
+3614328	fra	Le garçon s'est mis à pleurer.
+3614329	nld	Een slecht geweten lost niets op.
+3614330	fra	Le gars a éclaté en sanglots.
+3614331	fra	Accroche-toi et sois ferme !
