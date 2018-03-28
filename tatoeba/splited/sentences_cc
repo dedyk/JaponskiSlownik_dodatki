@@ -1,883 +1,3 @@
-2856722	ita	Guardate i vostri vestiti!
-2856723	ita	Mi dispiace, ho un'altra riunione.
-2856724	ita	Mi dispiace. Ho un altro appuntamento.
-2856725	fra	Ce laboratoire de recherche fut fondé il y a plusieurs années.
-2856726	fra	Si nous avions voulu visiter la ville, nous aurions laissé nos valises à l'hôtel.
-2856727	fin	Maksoin Tomille vähän lisää rahaa, jotta hän tekisi raporttinsa loppuun.
-2856728	ber	Ṛju deg texxamt n tmeṛjiwt.
-2856729	fin	Hän veti laukkunsa vetoketjun kiinni.
-2856730	fin	Teen työhakemusta.
-2856731	fin	Miksi hän oli sinun autossasi?
-2856732	tat	Табигать кешегә яшәү өчен кирәк булганның барысын да үзлегеннән булдыра алырлык итеп яратылган.
-2856733	fin	Tom ei ole kylpenyt kolmeen viikkoon.
-2856734	fin	Luokka jaettiin neljään ryhmään.
-2856735	deu	Sie schläft auf dem Bauch.
-2856736	fin	Päivystän aina kotona.
-2856737	fin	Kuinka kauan teiltä kesti oppia suomea?
-2856738	deu	Sie schläft auf dem Rücken.
-2856739	fin	Hän ei ollut tietävinään mitään.
-2856740	fin	Sinulla ei voi olla nälkä. Muutama minuutti sitten söit jotain pikaruokaa.
-2856741	fin	Hän ei ole uhri.
-2856742	fin	Olen jo tottunut istumaan tatamilla.
-2856743	tat	Җан фида кылып яшәүчеләрне башкалар күрә алмый.
-2856744	fin	Haluatko tänään syödä sushia?
-2856745	fin	Bill ja Joan jakoivat karkit keskenään.
-2856746	deu	Diese Pfefferoni sind höllisch scharf.
-2856747	rus	Люди ненавидят тех, кто живёт, забывая о себе самом.
-2856748	deu	Missverständnisse sind nicht immer lustig.
-2856749	por	Um é japonês, o outro é italiano.
-2856750	rus	Природа устроена так, что всё необходимое для жизни человека доставляется легко.
-2856751	eng	Are there seedless watermelons?
-2856752	por	Meu filho acha que mulheres são mais fortes do que homens.
-2856753	tat	Теләсә нинди рәвештә дә, тупаслык - көчсезлек билгесе.
-2856754	rus	В любой форме грубость - это признак слабости.
-2856755	fra	Une cliente, fatiguée d'attendre en ligne, est sortie du magasin avant d'avoir été servie.
-2856756	tat	Бик борынгы кеше саный алган бердәнбер корал - аның кул һәм аяк бармаклары.
-2856757	ber	Ad t-beddleɣ.
-2856758	ita	Buongiorno. Come stai oggi?
-2856759	ita	Buongiorno. Come sta oggi?
-2856760	ita	Buongiorno. Come state oggi?
-2856761	eng	He saw the news.
-2856762	ita	Buondì. Come sta oggi?
-2856763	ita	Buondì. Come stai oggi?
-2856764	ber	Iwala isalan.
-2856765	ita	Buondì. Come state oggi?
-2856766	eng	Tom saw the news.
-2856767	ber	Tom iwala isalan.
-2856768	eng	She saw the news.
-2856769	ber	Twala isalan.
-2856770	eng	Mary saw the news.
-2856771	ber	Mary twala isalan.
-2856772	eng	We saw the news.
-2856773	ita	Questo è stile!
-2856774	ber	Nwala isalan.
-2856775	eng	This is style!
-2856776	eng	They saw the news.
-2856777	ber	Walan isalan.
-2856778	ber	Walant isalan.
-2856779	ber	Ad tt-beddleɣ.
-2856780	ita	Ciascuno prenda il suo posto.
-2856781	eng	You will change it, won't you?
-2856782	epo	Ĉiu prenu sian lokon.
-2856783	ber	Ad t-tbeddled, naɣ?
-2856784	ber	Ad t-tbeddleḍ, naɣ?
-2856785	ber	Ad tt-tbeddled, naɣ?
-2856786	ita	In queste faccende occorrono persone pratiche.
-2856787	ber	Ad tt-tbeddleḍ, naɣ?
-2856788	tat	Алла безгә баш мие һәм җенес органнары биргән, ә менә канны икесен дә берьюлы эшләтергә җитәрлек итмәгән.
-2856789	epo	En tiuj ĉi aferoj necesas spertaj personoj.
-2856790	ita	Sono abituata ormai a questi discorsi.
-2856791	ber	Ad t-tbeddlem, naɣ?
-2856792	ber	Ad tt-tbeddlem, naɣ?
-2856793	ber	Ad t-tbeddlemt, naɣ?
-2856794	ber	Ad tt-tbeddlemt, naɣ?
-2856795	eng	He will change it.
-2856796	ita	I cibi troppo grassi predispongono alle malattie del fegato.
-2856797	epo	La tro grasaj manĝaĵoj antaŭdispozicias al la hepatmalsanoj.
-2856798	ber	Ad t-ibeddel.
-2856799	ber	Ad tt-ibeddel.
-2856800	eng	Tom will change it.
-2856801	ber	Ad t-ibeddel Tom.
-2856802	rus	Бог дал нам мозг и пенис, но сотворил недостаточно крови, чтобы их можно было бы задействовать одновременно.
-2856803	ber	Ad tt-ibeddel Tom.
-2856804	eng	She will change it.
-2856805	ber	Ad t-tbeddel.
-2856806	ber	Ad tt-tbeddel.
-2856807	eng	Mary will change it.
-2856808	ber	Ad t-tbeddel Mary.
-2856809	ber	Ad tt-tbeddel Mary.
-2856810	eng	We will change it.
-2856811	ber	Ad t-nbeddel.
-2856812	ber	Ad tt-nbeddel.
-2856813	eng	They will change it.
-2856814	ber	Ad t-beddlen.
-2856815	ber	Ad tt-beddlen.
-2856816	ber	Ad t-beddlent.
-2856817	ber	Ad tt-beddlent.
-2856818	ber	Ad ten-id-afeɣ.
-2856819	ber	Ad tent-id-afeɣ.
-2856820	tat	Әтәч кычкыра белә, ләкин күкәй салучы тавык та бар бит әле.
-2856821	rus	Петухи умеют кукарекать, но ведь есть ещё курицы, несущие яйца.
-2856822	por	Estamos sempre reclamando.
-2856824	por	Eu não posso mais beber.
-2856826	por	Você é uma boa mentirosa.
-2856827	por	Você está segura aqui.
-2856828	por	Você é um bom mentiroso.
-2856829	por	Eu não tenho ideia de onde eu deixei as minhas chaves.
-2856830	por	Aquela foi a tua escolha.
-2856831	por	Eu acredito que você me deve desculpa.
-2856832	tat	Бу дөньядагы җанварларның барысында да ата җенеслесе ана җенеслегә охшарга тырыша, тик кешеләрдә генә - киресенчә.
-2856833	por	Ela não queria se envolver em problema.
-2856834	eng	You will find them, won't you?
-2856835	ber	Ad ten-id-tafed, naɣ?
-2856836	ber	Ad ten-id-tafeḍ, naɣ?
-2856837	ber	Ad ten-id-tafem, naɣ?
-2856838	ber	Ad ten-id-tafemt, naɣ?
-2856839	por	Você viria comigo?
-2856840	ber	Ad tent-id-tafed, naɣ?
-2856841	ber	Ad tent-id-tafeḍ, naɣ?
-2856842	por	A mãe está procurando uma babá.
-2856843	ber	Ad tent-id-tafem, naɣ?
-2856844	rus	У всех животных в этом мире самцы должны понравиться самкам. Только у людей - наоборот.
-2856845	ber	Ad tent-id-tafemt, naɣ?
-2856846	eng	He will find them.
-2856847	ber	Ad ten-id-yaf.
-2856848	ber	Ad tent-id-yaf.
-2856849	por	Ele foi morto num acidente automobilístico.
-2856851	por	Eu não sei quando o Tom vai ir embora para o Japão.
-2856852	ber	Ad ten-id-yaf Tom.
-2856853	ber	Ad tent-id-yaf Tom.
-2856854	eng	She will find them.
-2856855	por	Eles sabem a importância de proteger a terra.
-2856856	ber	Ad ten-id-taf.
-2856857	ber	Ad tent-id-taf.
-2856858	eng	Mary will find them.
-2856859	ber	Ad ten-id-taf Mary.
-2856860	por	O Tom tem algumas boas notícias.
-2856862	eng	We will find them.
-2856863	ber	Ad ten-id-naf.
-2856864	ber	Ad tent-id-naf.
-2856865	por	Podemos passar pelo problema sem dificuldade.
-2856866	eng	They will find them.
-2856867	por	O que você faria se outra guerra acontecesse?
-2856868	ber	Ad ten-id-afen.
-2856869	ber	Ad tent-id-afen.
-2856870	ber	Ad ten-id-afent.
-2856871	ber	Ad tent-id-afent.
-2856872	por	Há um problema sobre o qual eu tenho que conversar contigo.
-2856873	ber	Ad awyeɣ wi.
-2856874	ber	Ad awyeɣ ti.
-2856875	tat	Гафу итү - бүләккә гомер бирү генә түгел, аны гарантияләү һәм тәэмин итү дә.
-2856876	eng	You'll get these, won't you?
-2856877	por	Ele entrou no meu quarto sem permissão.
-2856878	ber	Ad tawyed wi, naɣ?
-2856879	ber	Ad tawyed ti, naɣ?
-2856880	ber	Ad tawyeḍ wi, naɣ?
-2856881	ber	Ad tawyeḍ ti, naɣ?
-2856882	ber	Ad tawyem wi, naɣ?
-2856883	ber	Ad tawyem ti, naɣ?
-2856884	ber	Ad tawyemt wi, naɣ?
-2856885	por	O tempo está tão bom quanto pode estar.
-2856886	ber	Ad tawyemt ti, naɣ?
-2856887	por	Ele não pode mais aguentar o meu egoísmo.
-2856888	eng	He will get these.
-2856889	ber	Ad yawey wi.
-2856890	ber	Ad yawey ti.
-2856891	eng	Tom will get these.
-2856892	ber	Tom ad yawey wi.
-2856893	ber	Tom ad yawey ti.
-2856894	por	A vista prendeu a minha atenção.
-2856895	eng	She will get these.
-2856896	ber	Ad tawey wi.
-2856897	ber	Ad tawey ti.
-2856898	eng	Mary will get these.
-2856899	ber	Mary ad tawey wi.
-2856900	ber	Mary ad tawey ti.
-2856901	eng	We will get these.
-2856902	ber	Ad nawey wi.
-2856903	ber	Ad nawey ti.
-2856904	eng	They will get these.
-2856905	ber	Ad awyen wi.
-2856906	ber	Ad awyen ti.
-2856907	ber	Ad awyent wi.
-2856908	ber	Ad awyent ti.
-2856909	por	Ele correu para dentro do quarto.
-2856910	tat	Рухи кыйммәтләрне бары тик рух үзе генә хәл итәргә тиеш.
-2856911	ber	Ad ḥwijeɣ tallalt.
-2856912	por	Eu era um policial.
-2856913	ber	Ad ḥwijeɣ aya.
-2856914	por	Peça ao Tom que espere até eu chegar.
-2856915	por	O Tom não liga para comida japonesa.
-2856916	ber	Ad geɣ deg-k laman.
-2856917	ber	Ad geɣ deg-m laman.
-2856918	ber	Ad geɣ deg-wen laman.
-2856919	rus	Если не хотите себе неприятностей, не говорите ничего плохого о Томе и Марии.
-2856920	por	A minha irmã está cozinhando na cozinha.
-2856921	ber	Ad geɣ deg-went laman.
-2856922	por	Eu preciso entrar na cidade.
-2856923	por	Qual foi a resposta do Tom?
-2856924	eng	He will trust you.
-2856925	ber	Ad yeg deg-k laman.
-2856926	ber	Ad yeg deg-m laman.
-2856927	por	Eu ainda acho que o Tom está escondendo algo.
-2856928	ber	Ad yeg deg-wen laman.
-2856929	ber	Ad yeg deg-went laman.
-2856930	por	Juntos, tudo é possível!
-2856931	eng	Tom will trust you.
-2856932	ber	Tom ad yeg deg-k laman.
-2856933	ber	Tom ad yeg deg-m laman.
-2856934	ber	Tom ad yeg deg-wen laman.
-2856935	ber	Tom ad yeg deg-went laman.
-2856936	eus	Nekatuta nago!
-2856937	eng	She will trust you.
-2856938	por	Eu tive dificuldade tentando persuadi-lo a cancelar a viagem.
-2856939	por	Juntas, tudo é possível!
-2856940	ber	Ad teg deg-k laman.
-2856941	ber	Ad teg deg-m laman.
-2856942	ber	Ad teg deg-wen laman.
-2856943	por	Ele não pode ter passado no exame.
-2856944	ber	Ad teg deg-went laman.
-2856945	eng	Mary will trust you.
-2856946	ber	Mary ad teg deg-k laman.
-2856947	ber	Mary ad teg deg-m laman.
-2856948	ber	Mary ad teg deg-wen laman.
-2856949	ber	Mary ad teg deg-went laman.
-2856950	eng	We will trust you.
-2856951	ber	Ad neg deg-k laman.
-2856952	ber	Ad neg deg-m laman.
-2856953	ber	Ad neg deg-wen laman.
-2856954	ber	Ad neg deg-went laman.
-2856955	eng	They will trust you.
-2856956	por	Ele é ligado a ela.
-2856957	ber	Ad gen deg-k laman.
-2856958	ber	Ad gen deg-m laman.
-2856959	ber	Ad gen deg-wen laman.
-2856960	ber	Ad gen deg-went laman.
-2856961	ber	Ad gent deg-k laman.
-2856962	por	Ele ficou alarmado pela explosão.
-2856963	ber	Ad gent deg-m laman.
-2856964	ber	Ad gent deg-wen laman.
-2856965	por	Eu estava surpresa demais para falar.
-2856966	ber	Ad gent deg-went laman.
-2856967	por	Vocês dois estavam bêbados.
-2856968	ber	La as-ttḥulfuɣ.
-2856969	por	Por que você não me dirá?
-2856970	eng	You are feeling it, aren't you?
-2856971	por	Vocês duas estavam bêbadas.
-2856972	ber	La as-tettḥulfud, naɣ?
-2856973	ber	La as-tettḥulfuḍ, naɣ?
-2856974	ber	La as-tettḥulfum, naɣ?
-2856975	ber	La as-tettḥulfumt, naɣ?
-2856976	por	Por que você vai me contar?
-2856977	eng	He is feeling it.
-2856978	ber	La as-yettḥulfu.
-2856979	por	Eu sou sozinho agora.
-2856980	eng	Tom is feeling it.
-2856981	por	Eu estou sozinha agora.
-2856982	ber	Tom la as-yettḥulfu.
-2856983	eng	She is feeling it.
-2856984	por	Estou sozinho agora.
-2856985	ber	La as-tettḥulfu.
-2856986	eng	Mary is feeling it.
-2856987	rus	Никогда ещё не было столько несвободы в самой свободной стране мира!
-2856988	ber	Mary la as-tettḥulfu.
-2856989	eng	We are feeling it.
-2856990	ber	La as-nettḥulfu.
-2856991	eng	They are feeling it.
-2856992	ber	La as-ttḥulfun.
-2856993	ber	La as-ttḥulfunt.
-2856994	por	No entanto, tirando os budistas, dificilmente alguém consegue seguir esse princípio.
-2856995	ber	Aql-iyi ḍḍfeɣ-t.
-2856996	ber	Aql-iyi ḍḍfeɣ-tt.
-2856997	por	Eles encontraram.
-2856998	bul	Изглежда, че ще бъде слънчево.
-2856999	por	Você precisa ver alguém.
-2857000	por	Elas encontraram.
-2857001	por	Eles estão satisfeitos?
-2857002	bul	Ако прилича на ябълка и има вкус на ябълка, значи най-вероятно е ябълка.
-2857003	por	Elas estão satisfeitas?
-2857004	bul	Изглежда пак са се захванали с това.
-2857005	bul	Изглежда пак са се захванали.
-2857006	por	Nós descobrimos uma passagem secreta que leva às catacumbas.
-2857007	deu	Hier kann man weder helfen, noch raten.
-2857008	bul	Изглежда, че вали сняг, нали?
-2857009	rus	Если всех людей мира хочешь вмиг обратить в друзей, знай ты их язык!
-2857010	por	A velha casa foi derrubada.
-2857011	eng	You're holding it, aren't you?
-2857012	ber	Aql-ik teḍḍfed-t, naɣ?
-2857013	ber	Aql-ik teḍḍfeḍ-t, naɣ?
-2857014	ber	Aql-ik teḍḍfed-tt, naɣ?
-2857015	por	Eu tenho um vizinho liberal.
-2857016	ber	Aql-ik teḍḍfeḍ-tt, naɣ?
-2857017	por	Eu tenho uma boa ideia de onde o Tom foi.
-2857018	ber	Aql-ikem teḍḍfed-t, naɣ?
-2857019	ber	Aql-ikem teḍḍfeḍ-t, naɣ?
-2857020	ber	Aql-ikem teḍḍfed-tt, naɣ?
-2857021	por	Eu tenho uma vizinha liberal.
-2857022	ber	Aql-ikem teḍḍfeḍ-tt, naɣ?
-2857023	ber	Aql-iken teḍḍfem-t, naɣ?
-2857024	ber	Aql-iken teḍḍfem-tt, naɣ?
-2857025	por	Eu conheci o Tom quando eu estava na faculdade.
-2857026	ber	Aql-ikent teḍḍfemt-t, naɣ?
-2857027	rus	Наша Дума мировая, на деревне как плетень: руки-ноги обдирая, лезут все, кому не лень.
-2857028	ber	Aql-ikent teḍḍfemt-tt, naɣ?
-2857029	bul	Изглежда ще вали.
-2857030	bul	Изглежда, че ще вали.
-2857031	eng	He is holding it.
-2857032	bul	Изглежда, че ще вали дъжд.
-2857033	ber	Atan yeḍḍef-it.
-2857034	eng	Tom is holding it.
-2857035	ber	Tom atan yeḍḍef-it.
-2857036	ber	Tom atan yeḍḍef-itt.
-2857037	ber	Atan yeḍḍef-itt.
-2857038	eng	She is holding it.
-2857039	por	Eu espero que você esteja feliz.
-2857040	ber	Attan teḍḍef-it.
-2857041	bul	Изглежда, че ще вали сняг.
-2857042	ber	Attan teḍḍef-itt.
-2857043	eng	Mary is holding it.
-2857044	bul	Изглежда, че ще започне да вали сняг.
-2857045	ber	Mary attan teḍḍef-it.
-2857046	bul	Този път изглежда аз греша.
-2857047	ber	Mary attan teḍḍef-itt.
-2857048	eng	We are holding it.
-2857049	ber	Aql-aɣ neḍḍef-it.
-2857050	por	Ele perdeu sua posição só porque ele se recusou a contar uma mentira.
-2857051	ber	Aql-aɣ neḍḍef-itt.
-2857052	eng	They are holding it.
-2857053	ber	Atni ḍḍfen-t.
-2857054	ber	Atni ḍḍfen-tt.
-2857055	bul	Изглежда всеки момент ще започне проливен дъжд. По-добре е човек да си вземе чадър.
-2857056	ber	Atenti ḍḍfent-t.
-2857057	ber	Atenti ḍḍfent-tt.
-2857058	bul	Излгежда, че тази нощ ще вали.
-2857059	por	A fama e o sucesso nem sempre andam de mãos dadas.
-2857060	ber	La d-ssewwayeɣ atay.
-2857061	por	Uma mudança de ar vai te fazer muito bem.
-2857062	rus	Мудрость Бога жизнью не измерить – краткосрочен данный Им кредит; что бы ни промышливала челядь, промыслу Творца – не повредит.
-2857063	por	Eu pensei em fazer aquilo, mas não tive tempo.
-2857064	eng	You're making tea, aren't you?
-2857065	ber	La d-tessewwayed atay, naɣ?
-2857066	ber	La d-tessewwayeḍ atay, naɣ?
-2857067	ber	La d-tessewwayem atay, naɣ?
-2857068	ber	La d-tessewwayemt atay, naɣ?
-2857069	eng	He is making tea.
-2857070	ber	La d-yessewway atay.
-2857071	eng	Tom is making tea.
-2857072	ber	Tom la d-yessewway atay.
-2857073	eng	Mary is making tea.
-2857074	bul	Изглежда отново са се сдобрили.
-2857075	por	Por que você veio me ver hoje?
-2857076	ber	Mary la d-tessewway atay.
-2857077	eng	She is making tea.
-2857078	ber	La d-tessewway atay.
-2857079	rus	Анафема собаки - волку не указ.
-2857080	eng	We are making tea.
-2857081	ber	La d-nessewway atay.
-2857082	eng	They are making tea.
-2857083	bul	Съжалявам, но ще се окаже, че през този ден съм зает.
-2857084	bul	Съжалявам, но ще се окаже, че през този ден съм заета.
-2857085	ber	La d-ssewwayen atay.
-2857086	ber	La d-ssewwayent atay.
-2857087	ber	La t-qqareɣ.
-2857088	ber	La tt-qqareɣ.
-2857089	bul	От разстояние прилича на топка.
-2857090	bul	Изглежда имаме всичко.
-2857091	deu	Das Auto ist in einem guten Zustand.
-2857092	bul	Изглежда, че ще пристигна късно.
-2857093	bul	Изглежда дъждовният сезон ще започне по-следващата седмица.
-2857094	eng	You're reading it, aren't you?
-2857095	bul	Изглежда, че той ще победи.
-2857096	ber	La t-teqqared, naɣ?
-2857097	ber	La t-teqqareḍ, naɣ?
-2857098	rus	А не затем ли Бог людьми нас создал, чтоб мы, никчёмность суеты поняв, и мёртвый груз страстей, пороков роздав, к Нему вернулись, лик Его прияв?
-2857099	ber	La tt-teqqared, naɣ?
-2857100	ber	La tt-teqqareḍ, naɣ?
-2857101	ber	La t-teqqarem, naɣ?
-2857102	ber	La tt-teqqarem, naɣ?
-2857103	ber	La t-teqqaremt, naɣ?
-2857104	ber	La tt-teqqaremt, naɣ?
-2857105	eng	He is reading it.
-2857106	bul	Отдалече прилича на човек.
-2857107	ber	La t-yeqqar.
-2857108	ber	La tt-yeqqar.
-2857109	bul	Изглежда, че съм задрямал.
-2857110	bul	Изглежда повечето хора се предават, преди да са осъзнали своите възможности.
-2857111	eng	She is reading it.
-2857112	ber	La t-teqqar.
-2857113	ber	La tt-teqqar.
-2857114	deu	Dieses Auto gehört meinem Vater.
-2857115	bul	Изглежда тази кола е негова.
-2857116	bul	Изглежда, тя има много приятели.
-2857117	eng	Mary is reading it.
-2857118	bul	Изглежда тя има много приятелки.
-2857119	ber	Mary la t-teqqar.
-2857120	ber	Mary la tt-teqqar.
-2857121	eng	Tom is reading it.
-2857122	ber	Tom la t-yeqqar.
-2857123	ber	Tom la tt-yeqqar.
-2857125	eng	We are reading it.
-2857126	deu	Dieses Auto ist korrosionsbeständig.
-2857127	por	Eu não pude encontrar as minhas chaves.
-2857128	ber	La t-neqqar.
-2857129	ber	La tt-neqqar.
-2857130	eng	They are reading it.
-2857131	ber	La t-qqaren.
-2857132	bul	Изглежда, че вторият етаж представлява бална зала.
-2857133	ber	La t-qqarent.
-2857134	ber	La tt-qqaren.
-2857135	ber	La tt-qqarent.
-2857136	ber	Giɣ aya.
-2857137	bul	Изглежда, че сума ти народ я познава.
-2857138	deu	Dieses Auto ist das neueste Modell.
-2857139	bul	Изглежда, че той ще дойде тук следващия месец.
-2857140	bul	Изглежда попаднахме в капан.
-2857141	bul	Изглежда вече има над две хиляди изречения на уйгурски в Татоеба!
-2857142	bul	Изглежда ще трябва отново да лакирам лавиците.
-2857143	deu	Dieses Auto wird bald liegen bleiben.
-2857144	heb	אני מתרגם מוסמך.
-2857145	heb	אני מתרגמת מוסמכת.
-2857146	bul	Изглежда, че те са доволни от резултата.
-2857147	heb	שופטים אנשים על פי צבע עורם.
-2857148	heb	שופטים אנשים על פי צבע העור שלהם.
-2857149	bul	Ако се съди по страхотния ти тен, изглежда си прекарала по-голямата част от ваканцията си на плажа.
-2857150	bul	Ако се съди по страхотния ти тен, изглежда си прекарал по-голямата част от ваканцията си на плажа.
-2857151	heb	תפסיק לשפוט אנשים על פי צבע העור שלהם.
-2857152	heb	תפסיקי לשפוט אנשים על פי צבע העור שלהם.
-2857153	por	Quer conversar com o Tom?
-2857154	eng	She sleeps on her stomach.
-2857155	bul	Изглежда, че загубените данните от компютъра ти не могат да бъдат възстановени.
-2857156	rus	Я дипломированный переводчик.
-2857157	rus	Я сертифицированный переводчик.
-2857158	por	Eu te apoiarei o quanto eu puder.
-2857159	por	O Tom caminhou sozinho.
-2857160	bul	Той се бори с хепатита от шест месеца, но изглежда отскоро е започнал да се възстановява.
-2857161	por	Eu não posso fazer sem um dicionário.
-2857162	bul	Изглежда кучето иска да яде нещо.
-2857163	por	Parece que vai chover, então não esqueça o teu guarda-chuva.
-2857164	bul	Изглежда утре ще бъде един много горещ летен ден.
-2857165	por	A cesta é tão pesada, mas eu posso levantá-la.
-2857166	jpn	トムは怒りを爆発させた。
-2857167	bul	Изглежда ми е заседнала рибена кост в гърлото.
-2857168	por	A cesta está tão pesada, mas eu posso levantá-la.
-2857169	por	Ele é mais baixo que o irmão.
-2857170	bul	Изглежда тя малко не се чувства добре.
-2857171	bul	Май е по-добре да си тръгваме.
-2857172	bul	Изглежда, че ще останем тук за през нощта.
-2857173	bul	Изглежда, че парите ни свършват.
-2857174	bul	Изглежда, че водата ни е на свършване.
-2857175	bul	Изглежда зимата няма намерение да си тръгва.
-2857176	rus	Это звучит правильно.
-2857177	bul	Изглежда, че управляващата партия ще спечели наближаващите избори.
-2857178	jpn	気づけば月曜日以来部屋から一歩も出ていない。
-2857179	bul	Боли ме гърлото и се усещам отпаднал. Изглежда някак си съм успял да настина.
-2857180	bul	Боли ме гърлото и се усещам отпаднала. Изглежда някак си съм успяла да настина.
-2857181	bul	Изглежда Том ще го изяде всичкото.
-2857182	bul	Изглежда на Том му се спи.
-2857183	bul	Изглежда, че Том е ядосан.
-2857184	bul	Изглежда Том малко е наддал малко.
-2857185	bul	Изглежда Том малко е напълнял малко.
-2857186	bul	Изглежда Том не може да реши тази задача.
-2857187	jpn	誇張はやめなさいって100万回言ったでしょ。
-2857188	bul	Изглежда Том не може да реши този проблем.
-2857189	bul	Изглежда Том малко е отслабнал.
-2857191	bul	По всичко личи, че сериозно сте се подготвили!
-2857192	jpn	娘は小さい頃よく喘息の発作を起こしていました。
-2857193	bul	Тука прилича на кочина.
-2857194	bul	Изглежда Мери отново е пияна.
-2857195	bul	Изглежда кучето ти е жадно.
-2857196	bul	Изглежда кучето ви е жадно.
-2857197	bul	Това не е каквото изглежда.
-2857198	bul	Изглежда дойдох тук малко рано.
-2857199	bul	Изглежда Том реши да остане.
-2857200	bul	Изглежда, че Том получи това, което искаше.
-2857201	bul	Том май ще се разплаче.
-2857202	bul	Изглежда, че Том харесва новата си работа.
-2857204	bul	Изглежда Том носи само скъпи дрехи.
-2857205	bul	Изглежда, че Том успя да получи това, което искаше.
-2857206	bul	Изглежда, че Том успя да получи това, което иска.
-2857207	bul	Изглежда извадихме късмет.
-2857208	bul	Когато се говори за идентичност и за култура, се използва множествено число.
-2857209	bul	Множественото число на 'кон' е 'коне'.
-2857210	bul	"Какво е множественото число на 'нацист'?" - "Ненормалници."
-2857211	eng	"Have you ever had genuine Hungarian goulash?" "No, but I'd really like to."
-2857212	bul	В есперанто прилагателните завършват на "а". Множествено число се образува, като се добави "j".
-2857213	bul	В есперанто съществителните завършват на "о". Множествено число се образува, като се добави "j".
-2857214	bul	Изглежда ще успеем да стигнем навреме.
-2857215	bul	Изглежда, че ни игнорират.
-2857216	rus	Вы выросли рядом с пляжем?
-2857217	bul	Май трябва да го оставиш да се вари още малко.
-2857218	bul	Май трябва да го оставиш да се пече още малко.
-2857219	rus	Ты вырос рядом с пляжем?
-2857220	heb	גדלת ליד חוף הים?
-2857221	bul	Изглежда, че си сам.
-2857222	bul	Изглежда, че си сама.
-2857223	heb	גדלת ליד החוף?
-2857224	bul	Изглежда, че си прав. Действително Том е откраднал цигулката на Мери.
-2857225	bul	Изглежда, че си права. Действително Том е откраднал цигулката на Мери.
-2857226	bul	Не може да е това, на което прилича.
-2857227	bul	Приличи на картина на Микеланджело.
-2857228	bul	Изглежда, че ние не сме го разбрали.
-2857229	bul	Изглежда си свършил доста добра работа.
-2857230	bul	Изглежда си свършила доста добра работа.
-2857231	bul	Изглежда Том не иска да стои тук.
-2857232	bul	Изглежда вкъщи няма никой.
-2857233	bul	Изглежда вкъщи няма никого.
-2857234	bul	Знам как изглежда.
-2857235	bul	Изглежда си плакала.
-2857236	bul	Изглежда си плакал.
-2857237	deu	Ich sehe nicht nur schön aus; ich bin es.
-2857238	bul	Ето така изглежда.
-2857239	bul	Изглежда в стаята има поне сто души.
-2857240	epo	Mi ne nur aspektas bela; mi estas bela.
-2857241	bul	Изглежда си си вързвърнал самообладанието.
-2857242	bul	Изглежда Том не знае как да го направи.
-2857243	bul	Изглежда, че Том има алиби за нощта, през която Мери беше убита.
-2857244	bul	Изглежда, че сте променили цялата стая.
-2857245	eng	Tom wrote a book about a young man who, in the distant future, falls in love with an extraterrestrial girl, during an invasion of the earth.
-2857246	bul	Изглежда, че си променила цялата стая.
-2857247	bul	Изглежда, че си променил цялата стая.
-2857248	rus	Давай споём весёлую песню.
-2857249	bul	Изглежда, че днешният ден ще бъде дълъг.
-2857250	eng	Police have advised that the man who stole the bike spoke with a strong accent.
-2857251	deu	Sie ist nicht das Opfer.
-2857252	bul	Ще се отбия при тебе през някой от следващите дни.
-2857253	bul	Ще се отбия при тебе в офиса утре.
-2857254	bul	Всеки път, като те търся, тебе те няма.
-2857255	bul	Всеки път, като идвам у вас, ти не си си вкъщи.
-2857256	eng	Art gives the chaos of the world an order that doesn't exist.
-2857257	fra	Tom n'a pas pu aller à l'école pendant trois semaines.
-2857258	fra	Je dois sortir de temps à autre.
-2857259	fra	Les mandarines contiennent beaucoup de vitamine C.
-2857260	fra	J'ai arrêté de fumer depuis un an et demi.
-2857261	eng	The serial killer was a slave to his desires.
-2857262	fra	Je me suis retrouvé à écouter ses enregistrements.
-2857263	fra	Ne perdez plus de temps à répondre à ce client.
-2857264	fra	Les triangles n'ont pas quatre angles.
-2857265	fra	Je vous avais prévenu.
-2857266	fra	Je t'avais prévenu.
-2857267	fra	Tom a le droit de savoir.
-2857268	fra	J'ai besoin de laver mes vêtements.
-2857269	fra	Je veux découvrir qui a fait ça.
-2857270	fra	Je ne me souviens pas du mot de passe que j'ai utilisé pour ce site.
-2857271	fra	Il est de loin le meilleur des élèves.
-2857272	deu	Schon seit Jahrzehnten existieren Verkaufssysteme, die gemäß einer Pyramidenstruktur organisiert sind.
-2857273	ita	Ha rifiutato il loro invito.
-2857274	deu	Nach der Auffassung des Arztes gibt es keinen Grund zur Hoffnung.
-2857275	ita	Lui ha rifiutato il loro invito.
-2857276	deu	Ich habe mein Versprechen erfüllt.
-2857277	ita	Rifiutò il loro invito.
-2857278	ita	Lui rifiutò il loro invito.
-2857279	deu	Mehr als zwei Stunden lang saß ich neben seinem Bett.
-2857280	eng	It's time to get some sleep.
-2857281	fra	Tom est sophistiqué.
-2857282	fra	C'est une personne importante au FBI.
-2857283	deu	Etwas in ihren Augen erweckte in mir ein Gefühl, das mein Herz zum Glühen brachte, während meine Erfahrung mich vor der Gefahr warnte, mich zu verlieben.
-2857284	fra	Il est, autant que je sache, un ami fiable.
-2857285	deu	Es gelang ihr nicht, eine Erklärung für sein rätselhaftes Verhalten zu finden.
-2857286	deu	Ich werde die Gelegenheit nutzen, um dich meinen Freunden vorzustellen.
-2857287	fra	Le religieux est resté à genoux pendant des heures.
-2857288	eng	This question is very simple.
-2857289	deu	Das bereitete mir viel Vergnügen.
-2857290	deu	Mir scheint, dass wir die Sitzung jetzt abschließen können.
-2857291	fra	Kay respecte tout le monde sauf elle-même.
-2857292	eng	Every time I see it, I remember him.
-2857293	heb	נהר חוצה את העיר.
-2857294	eng	I believe in myself.
-2857295	deu	Ich bedauere außerordentlich, dass ich Ihnen Unannehmlichkeiten bereitet habe.
-2857296	rus	Я верю в себя.
-2857297	por	Ela dorme de bruços.
-2857298	por	Ela dorme em decúbito ventral.
-2857299	heb	הורי עוזבים לניו זילנד בשבת הבאה.
-2857300	ina	Illa dormi in decubito ventral.
-2857301	eng	No, I'll pay for it.
-2857302	ina	Illa dormi in decubito dorsal.
-2857303	spa	Estuve aquí apenas ayer.
-2857304	eng	My husband is jealous.
-2857305	por	Ela dorme em decúbito dorsal.
-2857306	eng	The islanders are being slaughtered for no apparent reason.
-2857307	deu	Nach einem Marsch von einer Stunde — inzwischen hatte der Gedanke einen Weg durch sein Inneres gefunden — ergänzte er: „Er weiß sicherlich mehr als die ganze Welt. Er hat eine tolle Art gefunden, glücklich zu sein.“
-2857308	eng	How are you doing? It's been a long time since I've seen you.
-2857309	eng	She was the queen of the ball.
-2857310	kor	상황은 우리가 생각했던 것보다 나쁘다.
-2857311	por	Na multidão havia um sujeito que ficou o tempo todo aparteando o Primeiro Ministro enquanto este discursava.
-2857312	eng	I have no younger sister.
-2857313	eng	The translators of the New Testament were considered heretics.
-2857314	eng	We are confronted with a complex situation.
-2857315	deu	Er beharrte nicht darauf. „Aus dem schlichten Grund“, sagte er später, „dass dieser Mensch sicher viel mehr weiß als ich.“
-2857316	eng	Take the clothes and go wash them.
-2857317	ina	In le multitude il habeva un individuo qui constantemente criticava le Prime Ministro durante que iste pronunciava su discurso.
-2857318	eng	There is one significant difference.
-2857319	deu	Als er sich anschickte aufzubrechen, machte mein Freund einen einfachen Vorschlag hinsichtlich bestimmter Baumarten, für die das Gelände besonders gut geeignet zu sein schien.
-2857320	eng	How many times a day do you look at your reflection in the mirror?
-2857321	deu	Ich fragte mich, wie viele Hektar er noch mit Wald bedecken würde.
-2857322	por	Ele era muito vaidoso e estava sempre se olhando no espelho.
-2857323	eng	Tom said that he wants to learn Hebrew.
-2857324	eng	French is a difficult language.
-2857325	eng	I just got here, and I don't know anyone.
-2857326	ina	Ille esseva multo vanitose e semper se mirava in le speculo.
-2857327	deu	Wie geht's dir so? Es ist lange her, seit ich dich gesehen habe.
-2857328	ita	Perché stai correggendo questo testo?
-2857329	ita	Perché sta correggendo questo testo?
-2857330	ita	Perché state correggendo questo testo?
-2857331	por	Os dias converteram-se em semanas, as semanas em meses e, sem que o percebêssemos, mais um ano havia transcorrido.
-2857332	eng	I'm waiting for you in front of the door.
-2857333	eng	That gave me a lot of pleasure.
-2857334	eng	He was the perfect man for her.
-2857335	eng	He was the man of her dreams.
-2857336	eng	How does one get to the bus stop?
-2857337	eng	I sat next to his bed for more than two hours.
-2857338	deu	Die friedfertige und beständige Arbeit, die Gebirgsluft, seine Bedürfnislosigkeit und vor allem sein heiteres Gemüt, gewährten dem Greis eine beeindruckende Gesundheit.
-2857339	eng	Nobody comforted us when we were mourning.
-2857340	ina	Le dies se converteva in septimanas, le septimanas in menses e, ante que nos lo percipeva, un anno plus habeva passate.
-2857341	eng	Spring has arrived early.
-2857342	eng	What you know about the subject is superficial, Tom.
-2857343	eng	Your knowledge of the subject is superficial, Tom.
-2857344	eng	I have fulfilled my promise.
-2857345	eng	It's grammatically correct, but native speakers wouldn't say that.
-2857346	eng	Grammatically, it's correct, but native speakers wouldn't say something like that.
-2857347	deu	Wir fanden ihn hart arbeitend zwanzig Kilometer von dem Ort entfernt, wo die Inspektion stattfand.
-2857348	eng	Smoke enveloped him, and he suffocated.
-2857349	deu	Ich erinnerte mich, wie die Gegend zwanzig Jahre zuvor ausgesehen hatte. Damals hatte sich hier eine Ödnis befunden.
-2857350	eng	Very many religions promise life after death.
-2857351	deu	Dort war ein Hügel, dessen Hänge von Bäumen bedeckt war, und sie waren sechs-sieben Meter hoch.
-2857352	eng	Please give me a little more tea.
-2857353	deu	An einem Tag der folgenden Woche machten wir uns gemeinsam auf den Weg, um den Menschen zu finden, der dieses Wunder hatte wahr werden lassen.
-2857354	por	A Mary estava impressionada com o que ela viu.
-2857355	por	Eu sou a mais velha das três.
-2857356	por	A Mary está sexualmente ativa.
-2857357	jpn	学校の発表会はいい習慣じゃない?
-2857358	por	Ele pensou que seria interessante e divertido.
-2857359	por	O Tom podia cheirar gasolina.
-2857360	por	O Tom tem o álibi perfeito.
-2857361	jpn	それはごみ分別の違反だよ。
-2857362	por	O total é cem.
-2857363	jpn	いきあたりばたりしていてこの結果になっちゃいました。
-2857364	por	A Mary é sexualmente ativa.
-2857365	jpn	僕と長男はたまにスノーボードをやるけっど僕はやはり息子に追いつかないな。
-2857366	jpn	彼女はすごい美人だけど性格は余り快適じゃない。
-2857367	jpn	あのゲームは面白くないみたいが長い旅でやったら意外と飽きずに済むと思う。
-2857368	por	Eu espero que você esteja aproveitando isso.
-2857369	por	A cadeira de plástico está barata.
-2857370	por	Para quem isso é importante?
-2857371	spa	No pude salir a causa de la lluvia.
-2857372	por	Te darei a minha decisão nessa tarde.
-2857373	por	Eu acho que você deve dar uma olhada.
-2857375	por	Ela chorou de alegria quando ela ouviu que o filho tinha sobrevivido ao acidente de avião.
-2857376	rus	Это правильно с точки зрения грамматики, но носители языка так бы не сказали.
-2857377	rus	Весна пришла рано.
-2857378	rus	Похоже, Том смог получить то, что хотел.
-2857379	rus	Пожалуйста, ещё немного чаю.
-2857380	rus	Очень много религий обещают жизнь после смерти.
-2857381	rus	Дым окутал его, и он задохнулся.
-2857382	rus	Я выполнил своё обещание.
-2857383	deu	Danach verbrachten wir mehrere Stunden in stummer Betrachtung der Landschaft.
-2857384	rus	Ты знаешь предмет поверхностно, Том.
-2857385	rus	Никто нас не утешил, когда мы скорбили.
-2857386	deu	„Hier kann man“, so sprach dieser Einfaltspinsel, „erstmalig sehen, wie eine Wald ganz von selbst heranwächst.“
-2857387	rus	Это доставило мне большое удовольствие.
-2857389	deu	Er musste lernen hinzunehmen, dass Niederlagen notwendige Meilenstein am Weg zum Erfolg sind.
-2857390	rus	Я сидел у его кровати больше двух часов.
-2857391	rus	Как добраться до автобусной остановки?
-2857392	rus	Ты не обязан говорить по-английски хорошо. Ломаный английский - это нормально, пока ты можешь быть понятным другим.
-2857393	rus	Том сказал, что хочет выучить иврит.
-2857394	deu	Um eine genaue Vorstellung von diesem Ausnahmemenschen zu erlangen, muss man sich in Erinnerung rufen, dass er in völliger Einsamkeit arbeitete; einer so vollständigen Einsamkeit, dass sich bei ihm gegen Ende seines Lebens die Gewohnheit des Sprechens verlor.
-2857395	rus	Французский - сложный язык.
-2857396	rus	Сколько раз в день вы смотрите на своё отражение в зеркале?
-2857397	rus	Есть одно значительное различие.
-2857398	rus	Возьми вещи и иди постирай их.
-2857399	deu	Ich habe seine Enttäuschungen nicht gezählt. Doch kann man sich vorstellen, dass er, um einen solchen Erfolg zu erreichen, Hindernisse bezwingen musste; dass er, um einer solchen Leidenschaft zum Sieg zu verhelfen, gegen Verzweiflung ankämpfen musste.
-2857400	rus	Мы перед лицом непростого положения.
-2857402	rus	Островитян убивают без видимой на то причины.
-2857404	deu	Dennoch ist selbst der Zweifel eine göttliche Fügung.
-2857405	deu	Er galt als unverdächtig.
-2857406	rus	Переводчики Нового Завета считались еретиками.
-2857407	deu	Von da an wartete ich nie mehr als ein Jahr, um meinen Besuch zu erneuern.
-2857408	rus	"Ты когда-нибудь пробовал настоящий венгерский гуляш?" — "Нет, но очень хотелось бы".
-2857409	rus	Вы все расисты.
-2857410	rus	Том написал книгу о молодом парне, который в далёком будущем влюбляется в инопланетянку во время вторжения на Землю.
-2857411	rus	В полиции сказали, что человек, угнавший мотоцикл, говорил с сильным акцентом.
-2857412	rus	Искусство дарует мировому хаосу порядок, которого не существует.
-2857413	deu	Die Mathematik ist eine Wissenschaft mit einer klaren Ordnung und einer strengen Systematik.
-2857414	rus	Каждый раз, когда я вижу это, я вспоминаю его.
-2857415	rus	Этот вопрос очень простой.
-2857416	rus	Время немного поспать.
-2857417	rus	Серийный убийца был рабом своих желаний.
-2857418	deu	Der Privatisierungsvorschlag, über den derzeit nachgedacht wird, ist im Brennpunkt einer scharfen gesellschaftlichen Auseinandersetzung.
-2857419	deu	Angesichts des starken Widerstands bat der Präsident den Regierungschef, den Gesetzentwurf zurückzuziehen, was dieser umgehend tat.
-2857420	deu	Der Hintergrund der Unzufriedenheit ist ein Gesetzesvorhaben zur Privatisierung von Universitäten.
-2857421	deu	Die Polizisten setzten gegen die protestierenden Schüler Tränengas ein.
-2857422	deu	Barack Obama wiederholte auch, dass die Regierung der USA das türkische Bemühen um einen Eintritt in die Europäische Union weiterhin unterstützen wird.
-2857423	deu	Er gelangte zu der Schlussfolgerung, dass dieser Landstrich aufgrund des Fehlens von Bäumen sterben wird.
-2857424	deu	Es gefiel ihm, dort mit seinen Schafen und seinem Hund ein geruhsames Leben zu führen.
-2857425	deu	Er zog sich in Einsamkeit zurück.
-2857426	deu	Er lebte sein Leben. Sein einziger Sohn starb, nach ihm die Ehefrau.
-2857427	deu	Irgendwo im Flachland besaß er einen Bauernhof.
-2857428	deu	Aus Holz machen die Dorfbewohner Kohle, und diese tragen sie in die Stadt, um sie dort zu verkaufen.
-2857429	deu	Schon drei Jahre lang macht er diese Arbeit.
-2857430	deu	Ich musste ziemlich beharrlich fragen, bevor er antwortete.
-2857431	deu	Er wusste nicht, wem der Grund und Boden gehörte.
-2857432	epo	Jam estas tempo por dormi iom.
-2857433	rus	Размешивайте краску палочкой.
-2857434	rus	Размешай краску палочкой.
-2857435	rus	Я это знал.
-2857436	rus	Я знал.
-2857437	rus	Моя дочь, когда была маленькой, часто страдала от приступов астмы.
-2857438	rus	Том и Мэри постоянно друг с другом спорят.
-2857439	eng	My daughter, as a child, often suffered from asthma attacks.
-2857440	rus	Она поездила за границей.
-2857441	rus	Он человек большого ума.
-2857442	rus	Он очень неглупый человек.
-2857443	rus	И каким же чудом ты нас убедишь, что вправе всё это делать?
-2857444	rus	Микрофон твой.
-2857445	rus	Хитин — полисахарид.
-2857446	rus	Том разразился гневом.
-2857447	rus	Они вон там, ну, с собакой.
-2857448	rus	Том дал волю гневу.
-2857449	rus	Ты забыл, где дверь?
-2857450	rus	Ты забыл дверь?
-2857451	rus	Если бы не эти деньги, мы бы не справились.
-2857452	rus	Я положил свою одежду в сушилку.
-2857453	rus	Я каждый вечер принимаю душ.
-2857454	rus	Вы чем так недовольны?
-2857455	rus	Я стал тебе доверять.
-2857456	rus	Только благодаря тебе я ещё жив.
-2857457	khm	នាងអន់ចិត្តខ្លាំងនិងចរិតកូនស្រីរបស់នាង ។
-2857458	khm	បឹង​នេះ​មាន​ជំរៅ​ប្រហែល 25 ម៉ែត្រ​។
-2857459	spa	El lago tiene aproximadamente 25 metros de profundidad.
-2857460	eng	What makes you so displeased?
-2857461	eng	Tom was in a temper.
-2857462	eng	Tom burst into a rage.
-2857463	rus	Том не хочет идти один.
-2857464	por	O John é o mais alto dos dois meninos.
-2857465	rus	Я завалил два зачёта.
-2857466	por	Eu o encontrei em diversas ocasiões.
-2857467	por	Ele desceu as escadas.
-2857468	rus	Я хочу поговорить с вами конфиденциально. Позвоните мне.
-2857469	rus	Надеюсь, ты найдёшь то, что я ищу.
-2857470	por	A tradução é bem fiel ao original.
-2857471	eng	I will stay here as my boss has ordered.
-2857472	tgl	Kape lamang ang iniinom ni Tom.
-2857473	por	Eu não me arrependo de nada.
-2857474	por	Comecemos com o Tom.
-2857475	tgl	Lumuwas siya para sa Amerika.
-2857476	por	Vamos começar com o Tom.
-2857477	por	Eles aceitaram o novo governo.
-2857478	tgl	Sa tingin mo?
-2857479	eng	The numbers are favorable.
-2857480	tgl	Kailangan ko ng masahe.
-2857481	por	Está muito frio na minha casa.
-2857482	tgl	Gusto kong ibigin kita habambuhay!
-2857483	por	É muito frio na minha casa.
-2857484	eng	Can I watch television now?
-2857485	eng	I will drink some acai.
-2857486	eng	Tell it to somebody else.
-2857487	por	Eu vi você aqui fora sozinho e pensei que talvez você gostaria de conversar com alguém.
-2857488	eng	As is said in the Internet, dad, only someone not fortunate enough to have seen My Little Pony, doesn't like it!
-2857489	tgl	Hindi tumitigil ang pagdurugo.
-2857490	por	O Tom acabou de entrar pela porta errada.
-2857491	por	Eu tive uma situação para tomar conta.
-2857492	tgl	Alin ang higit na malaki, ang Araw o ang Lupa?
-2857493	eng	Stop bluffing and scaring, cop.
-2857494	por	Eu jogo futebol quase todos os dias.
-2857495	eng	What a nice animal!
-2857496	por	Eu nunca serei capaz de olhá-lo no rosto de novo.
-2857497	eng	After saying bad things about her, he got a slap in the face.
-2857498	por	Eu jamais vou ser capaz de olhá-lo no rosto novamente.
-2857499	por	Você pode encontrar a mesma coisa em todos os lugares.
-2857500	eng	The drop-dead pissed driver confessed to running somebody over.
-2857501	por	Por que você sai com o Tom o tempo todo?
-2857502	por	Ele não divulgou a informação, nem mesmo sob a dor da tortura.
-2857503	eng	A large ship appeared on the horizon.
-2857504	por	O Tom entrou no avião.
-2857505	eng	I tackled making you a strong programmer, and you don't want to go to the gym?
-2857506	rus	На горизонте показалось большое судно.
-2857507	rus	Наговорив плохого про неё, он получил пощёчину.
-2857508	por	Ela celebrou o aniversário de quinze anos ontem.
-2857509	ido	La automobilo funcionas per elektro.
-2857510	kor	그는 사과를 가득 채운 봉지를 들고 있었다.
-2857511	kor	책은 어딘가 다른 곳에 있기를 원하는 사람들을 위한 것이다.
-2857512	kor	나는 해야할 것을 할 것이다.
-2857513	eng	I bade him goodbye.
-2857514	tgl	Sigurado ka na hindi sapat ang pera mo para bilhin iyan?
-2857515	eng	How to go on without you?
-2857516	eng	He is older than he appears to be.
-2857517	kor	그녀는 목표에 도달하기 위해 노력했다.
-2857518	eng	"Who bought it?" "I bought it."
-2857519	tgl	Kaygandang tanawin.
-2857520	kor	수염 없는 키스는 소금 없는 국과 같다.
-2857521	tgl	Ang araw ay tinakpan ng isang kumot ng ulap.
-2857522	hye	Նա կրկնակի ծանր է, քան նրա կինը:
-2857523	eng	He sleeps on an expensive mat.
-2857524	tgl	Siya ay natutulog sa isang mamahaling banig.
-2857525	tgl	Talagang naniniwala ako sa kakayahan mo.
-2857526	eng	It looks like it's going to rain. Remove the clothes from the line.
-2857527	eng	After receiving too many insults, Marcos finally got in a fight.
-2857528	tgl	Binuksan mo ang maling kahon.
-2857529	spa	No logré despertar a Tom.
-2857530	spa	No pude despertar a Tom.
-2857531	tgl	Nandito lang ako kahapon.
-2857532	spa	¿Tú te consideras un tipo peligroso?
-2857533	spa	¿Te consideras un tipo peligroso?
-2857534	rus	Я с ним попрощался.
-2857535	spa	Sé que esto funcionará.
-2857536	rus	Он старше, чем выглядит.
-2857537	eng	The sausage sat long on the grill, and got burned.
-2857538	rus	«Кто его купил?» — «Я купил».
-2857539	spa	"Tom y Mary han estado divorciados por más de tres años." "¿En serio? No lo sabía."
-2857540	spa	Ella se casará con un millonario.
-2857541	rus	Как же без тебя продолжать?
-2857542	spa	¿Cuál es el significado exacto de la palabra?
-2857543	spa	Tom sabe la verdad.
-2857544	spa	Ya llegué. ¿Hay alguien en casa?
-2857545	spa	Llegué. ¿Hay alguien en casa?
-2857546	spa	¡Rápido, por favor! No tengo toda la noche.
-2857547	eng	If you keep on complaining, I will get mad for real.
-2857548	spa	En total son unos diez mil dólares.
-2857549	spa	Leí un libro muy interesante en mi biblioteca.
-2857550	spa	En total son aproximadamente diez mil dólares.
-2857551	spa	A él le gustaba jugar béisbol.
-2857552	spa	¿Podría bajarle el volumen a la música, por favor?
-2857553	spa	Él no sabe contar.
-2857554	por	Eu estive bem aqui ontem.
-2857555	spa	¿Qué ventajas y desventajas tiene ser joven?
-2857556	spa	Se quedó parado viendo la escena boquiabierto.
-2857557	spa	Quiero saber cuanto dinero debería traer conmigo.
-2857558	spa	Quiero saber cuanto dinero traer conmigo.
-2857559	spa	Jane tiene cinco bolsos de mano.
-2857560	spa	Un león es un animal.
-2857561	hye	Դուք երբևէ եղե՞լ եք Մեքսիկայում:
-2857562	spa	¿Quieres que veamos el partido juntos?
-2857563	spa	El hecho es que aún no me he leído el libro.
-2857564	spa	¿Podrías decirme cómo llegar a la estación más cercana?
-2857565	spa	Ellas se quedaron en Roma hasta septiembre.
-2857566	spa	Yo dije que iba a ayudarte.
-2857567	spa	Dije que iba a ayudarte.
-2857568	spa	Él subió a bordo.
-2857569	spa	Los kiwis salen a 3 euros el quilo.
-2857570	spa	Él dijo eso y se fue con su esposa.
-2857571	spa	Envidio tu belleza.
-2857572	hye	Դուք երբևէ գնացե՞լ եք Փարիզ:
-2857573	spa	¿Me prestas tu carro, por favor?
-2857574	spa	Tengo algunas cosas que quiero aclarar.
-2857575	spa	¿Esta carta debe ser escrita en inglés?
-2857576	spa	¿Tú me amas sólo porque soy china?
-2857577	spa	¿Me amas sólo porque soy china?
-2857578	spa	Pesquemos un bus.
-2857579	spa	Ayudé a cocinar a mi mamá.
-2857580	spa	Ayudé a mi mamá en la cocina.
-2857581	spa	Aparentemente no le agrado a Tom.
-2857582	spa	Tom me dijo que sabía dónde vivía María.
-2857583	spa	Él tomó el taxi para llegar a tiempo.
-2857584	spa	Están construyendo la nueva calle.
-2857585	spa	Él consiguió llegar allá a tiempo.
-2857586	spa	La nueva calle la están construyendo.
-2857587	spa	Eres desorganizado.
-2857588	spa	Eres desordenado.
-2857589	cmn	他已经和他的女朋友作伴了。
-2857590	spa	Si hubiera miedo, haría que falláramos.
-2857591	spa	Así como a los gringos les gusta el béisbol, a los británicos les gusta el críquet.
-2857592	spa	Así como a los estadounidenses les gusta el béisbol, a los británicos les gusta el críquet.
-2857593	spa	Tom abrió un poco la ventana para dejar entrar un poco de aire.
-2857594	mar	तो चर्णकार एक नवीन ऐरण शोधत आहे.
-2857595	mar	त्याला जसं सांगितलेलं तसं त्याने केलं.
-2857596	spa	Lamento cancelar la cita a última hora.
-2857597	cmn	吃完饭后胃部开始感到疼痛。
-2857598	spa	Lamento cancelar la reunión a última hora.
-2857599	mar	हिंदू-मुसलमान भाऊ-भाऊ.
-2857600	spa	Los padres y adultos castigan a los niños cuando dicen mentiras.
-2857601	spa	Los padres y adultos castigan a los niños cuando éstos dicen mentiras.
-2857602	mar	हिंदू व मुसलमान सर्व बंधू आहेत.
-2857603	spa	Los padres y los adultos castigan a sus hijos cuando éstos mienten.
-2857604	spa	Tomás encontró las llaves que creía que había perdido.
-2857605	epo	Tom diris al mi, ke vi volas nur ducent dolarojn por via gitaro.
-2857606	mar	काय चमत्कार आहे!
-2857607	mar	चमत्कार झाला!
-2857608	spa	¿Qué es ese edificio detrás del hospital?
-2857609	spa	Tom se está debilitando.
-2857610	spa	Tom se debilita.
-2857611	spa	Como escribió la carta muy rápido, ésta tenía muchos errores.
-2857612	eng	There are no cookies in the pantry. Look in the utility room.
 2857613	spa	Escribieron la carta muy rápido, así que tiene muchos errores.
 2857614	spa	El parece ser un buen tipo.
 2857615	spa	Él parece ser un buen tipo.
@@ -3974,7 +3094,7 @@
 2860850	deu	Warum hältst du nicht die Klappe?
 2860851	eng	You've probably mistaken Joan for her sister.
 2860852	rus	Если тебе есть что сказать, скажи это сейчас или заткнись.
-2860853	rus	Однако, момент был неподходящим.
+2860853	rus	Однако момент был неподходящим.
 2860854	rus	Ивонна заказала новую софу из каталога.
 2860855	rus	Если бы Сэм проснулся раньше, он бы не опоздал на автобус.
 2860856	rus	Мелисса стала бегло говорить по-португальски меньше, чем за два года.
@@ -3992,7 +3112,7 @@
 2860869	eng	Pubic hair is curly.
 2860870	rus	Я не могу удалить фото с камеры!
 2860871	rus	Лобковые волосы кудрявые.
-2860872	rus	Я не осознавал, как богат был Том.
+2860872	rus	Я не осознавал, как богат Том.
 2860873	eng	Whose friend are you?
 2860874	eng	She drinks too much.
 2860875	eng	We drink too much.
@@ -4381,7 +3501,6 @@
 2861273	ber	Ad tnejjmed ay‑tinid misem‑č?
 2861274	ita	Essere comunisti non è un crimine.
 2861275	ber	Bisem‑č?
-2861276	ita	Il capitalismo va abbattuto.
 2861277	rus	Каков курс обмена сегодня?
 2861278	ber	Misem‑s nettaha?
 2861280	rus	Будучи в Европе, она посетила Рим.
@@ -5585,7 +4704,7 @@
 2862565	deu	Dieses Wörterbuch ist sehr teuer, aber die Anschaffung lohnt sich.
 2862567	eng	You meant it, didn't you?
 2862568	epo	Mi antaŭĝojas pri tio.
-2862569	deu	Emily hat mein Herz gestolen.
+2862569	deu	Emily hat mein Herz gestohlen.
 2862570	deu	Dieses Wörterbuch ist diesem anderen überlegen.
 2862571	deu	Es hatte den Anschein, dass Liisa nicht weiterwüsste.
 2862572	ber	Isemmuṛa‑s dima xemṛen.
@@ -13829,7 +12948,6 @@
 2871359	eng	Mary is street smart, but not book smart.
 2871360	spa	Usted no encontrará otro convenio tan bueno como éste.
 2871361	spa	Tú no encontrarás otro convenio tan bueno como éste.
-2871362	eng	Don't worry, these things happen.
 2871363	rus	Он написал глубокое исследование.
 2871364	eng	Put your hands against the wall.
 2871365	mhr	Пурен каяш тӧчышӧ олым пырчешат кержалтеш.
@@ -19377,7 +18495,6 @@
 2877135	eng	I didn't believe the old man at all.
 2877136	eng	I didn't believe a word my grandfather said.
 2877137	eng	I think you're telling lies.
-2877138	eng	I need to know it.
 2877139	eng	They have three children, and none speaks English.
 2877140	eng	I tried to dissuade my daughter-in-law, but she didn't listen to me.
 2877141	deu	Ich verstehe nicht, wie jemand ein Drogensüchtiger sein kann in einer Welt, wo es Schokolade und das Internet gibt.
@@ -19846,7 +18963,7 @@
 2877616	eng	Not all verbs require an object.
 2877617	rus	Не все глаголы требуют дополнения.
 2877618	tat	Бугазлар нәрсә булса, бугазлаучылар табылыр.
-2877619	rus	Она попросила человека на рисепшене соединить её с тем номером.
+2877619	rus	Она попросила человека на ресепшене соединить её с тем номером.
 2877620	rus	Было бы кого или что душить, душители найдутся.
 2877621	eng	This is a strange behaviour when it comes to rats.
 2877622	eng	You're being too kind to me.
@@ -20603,9 +19720,9 @@
 2878404	ber	Mennect ac‑yetteṭṭef dima d ussan bac ad tawḍed ɣel dynni?
 2878405	ber	Tella teṭṭef iggen cṛa.
 2878406	epo	Trankviliĝu, filo mia!
-2878407	rus	У Тома нет выбора, кроме того, как уйти.
+2878407	rus	У Тома нет выбора, кроме как уйти.
 2878408	ber	Yella cṛa fus‑s.
-2878409	rus	Тому ничего не остаётся кроме того, как уйти.
+2878409	rus	Тому ничего не остаётся, кроме как уйти.
 2878410	ber	Fus‑s yella dys cṛa.
 2878411	epo	Li estas tiel juna.
 2878412	rus	Тебе нужно сделать выбор.
@@ -22596,7 +21713,7 @@
 2880463	eng	Where's he wandering about?
 2880464	rus	Она пожертвовала самым дорогим, что у неё было.
 2880465	rus	Она засучила рукава.
-2880467	rus	Она пожертвовала жизнью.
+2880467	rus	Она пожертвовала своей жизнью.
 2880468	rus	Она почистила рыбу.
 2880469	eng	If you see, let me know.
 2880470	eng	Autumn is beautiful in its own way.
@@ -22622,7 +21739,7 @@
 2880490	eng	It was French. I could tell by his accent.
 2880491	ber	Tessemsed yiwet n tefrut.
 2880492	eng	She sheared a ewe.
-2880493	rus	Могут ли существовать люди, которые не знают ни слова по-английски?
+2880493	rus	Неужели существуют люди, которые не знают ни слова по-английски?
 2880494	ber	Telles yiwet n teɣsi.
 2880495	rus	Она заточила нож.
 2880496	rus	Я пропишу вам жаропонижающее средство.
@@ -22780,7 +21897,7 @@
 2880659	rus	Мне не жаль Тома.
 2880660	por	Se é para ir, então vamos todos.
 2880661	rus	Мы увидимся в три часа.
-2880662	rus	Думаешь он мёртв?
+2880662	rus	Думаешь, он мёртв?
 2880663	rus	Я плохо себя чувствую. Вы не дадите мне лекарство?
 2880664	ina	Si uno debe ir, alora que nos va totes.
 2880665	por	Se você vir, me avise.
@@ -25283,7 +24400,6 @@
 2883246	epo	Tio nun jam komencas tedi min.
 2883247	epo	Lin oni traktis kun granda krueleco.
 2883249	deu	Sei nicht so ungeneusch!
-2883250	epo	Ŝi vojaĝis tra la tuta mondo.
 2883251	ber	Mi yexṣer deg tnezzut, ur as-d-yeqqim ula d aṣurdi.
 2883252	epo	Demetu vian ĉapelon!
 2883253	ber	Yella yeqqim din, s usebsi deg yimi.
@@ -26945,7 +26061,6 @@
 2884978	epo	Tiu truko ja devenas el la pratempo. Surprizas min, ke vin ĝi povis trompi.
 2884979	epo	Sinjoro Tomo verkis eksterordinare mallongan disertacion. La enhavo de tiuj kelkaj paĝoj estas eksterordinare bona. Mi aljuĝos al ĝi "summa cum laude".
 2884980	pol	Kim jestem? Skąd pochodzę? Czy jest życie po śmierci? Jaki jest sens ziemskiego życia?
-2884981	eng	What's that girl's name who we saw that day at the festival?
 2884982	pol	W Nim było życie, a życie było światłością ludzi.
 2884983	eng	What's the name of the girl we saw at the festival that day?
 2884984	rus	У меня нет сменной рубашки.
@@ -26981,7 +26096,7 @@
 2885017	ces	K tomuhle problému neexistuje jednoduché řešení.
 2885018	rus	Мы все убеждены в его виновности.
 2885020	rus	Мы все убеждены в её виновности.
-2885021	rus	Я считаю, ему следовало бы извиниться перед преподавателем.
+2885021	rus	Я считаю, ему следовало извиниться перед преподавателем.
 2885022	ces	Nemám nic, co bych ti mohla dát.
 2885023	ces	Nemám nic, co bych ti mohl dát.
 2885024	rus	Мне завтра не нужно идти в школу.
@@ -27053,7 +26168,6 @@
 2885095	epo	Dum sia libertempo ŝi ŝatas interretumi.
 2885096	epo	Mi plu amas vin.
 2885097	epo	Mi daŭre amas vin.
-2885098	eng	Giving you a star.
 2885099	eng	China has imposed a no-fly zone over several disputed islands in the East China Sea.
 2885100	eng	I am giving you a star.
 2885101	rus	Ты знаешь какой-нибудь хороший ресторан здесь?
@@ -31320,7 +30434,7 @@
 2889515	rus	Для чего это всё?
 2889516	epo	Li studis, por fariĝi kuracisto.
 2889517	epo	Ĉu vi estas daŭre interesata?
-2889518	rus	Это то, что Том имел в виду.
+2889518	rus	Вот что Том имел в виду.
 2889519	eng	He's my biological father.
 2889520	rus	Я потерял ключи, поэтому я не могу попасть в квартиру.
 2889521	epo	Ĉu vi estas plu interesata?
@@ -31391,7 +30505,7 @@
 2889588	ber	Iɛeḍḍel usakac-nni ɣef ljal n udeffes n webrid.
 2889589	por	Eu não serei capaz de ajudá-lo.
 2889591	rus	Пианино у Тома фальшивит.
-2889592	rus	Я не могу убрать из головы эту глупую мелодию!
+2889592	rus	Я не могу выбросить из головы эту глупую мелодию!
 2889593	rus	Том никогда не попадает в ноты.
 2889594	rus	Мне нравится петь громко и мимо нот.
 2889595	por	Eu não me sinto mal.
@@ -31405,7 +30519,7 @@
 2889603	rus	Цветы испускают очень приятный аромат.
 2889604	rus	Роза источает сладкий аромат.
 2889605	rus	Мусор испускает ужасный запах.
-2889606	rus	Вместо того, чтобы переносить встречу, почему бы нам просто не отменить её?
+2889606	rus	Вместо того чтобы переносить встречу, почему бы нам просто не отменить её?
 2889607	rus	Голод вынудил мальчика украсть деньги из кассового аппарата.
 2889608	rus	Дождь заставил воду подняться выше берегов.
 2889609	rus	Дождь вынудил нас перенести собрание.
@@ -31422,7 +30536,7 @@
 2889620	rus	Мой психиатр сумасшедший.
 2889621	rus	Вам надо к психиатру.
 2889622	mhr	Кызытеш!
-2889623	rus	Этот материал сожмётся, если его помыть.
+2889623	rus	Этот материал сядет при стирке.
 2889624	mhr	Тудын ачаже ок тол, сомылжо шуко.
 2889625	rus	Я не влезаю в джинсы. Они сели?
 2889626	eng	Where's the fun in that?
@@ -31435,7 +30549,7 @@
 2889633	rus	Оксина охрипла от долгого крика.
 2889634	rus	Кондуктор сказал ей выйти, так как она не могла оплатить проезд.
 2889635	mhr	Мыйын ик изам да кок акам уло.
-2889636	rus	Теперь покиньте лодку и догребите до берега.
+2889636	rus	Теперь покиньте лодку и плывите к берегу.
 2889637	nld	Dit boek zal ons zeer van pas komen.
 2889638	rus	Мой будильник не сработал этим утром.
 2889639	mhr	Шоҥго кугыза сыҥгыльдым-соҥгыльдым автобус деке куржеш.
@@ -31450,7 +30564,7 @@
 2889648	rus	Мой будильник не сработал.
 2889649	rus	Молча выслушав, Олатай вышел во двор.
 2889650	rus	У вас вторая пуговица отваливается.
-2889651	rus	Пуговица слетела с пальто.
+2889651	rus	От пальто оторвалась пуговица.
 2889652	rus	Воздух мягкий, почва влажная.
 2889653	rus	Ветры с моря влажные.
 2889654	mhr	Искак Олина ӱмбак шинчам кораҥдыдегече онча.
@@ -36383,7 +35497,7 @@
 2894668	epo	Kio okazas aktuale en Usono, tio okazos en Eŭropo post dek aŭ dudek jaroj.
 2894669	epo	Vi aŭdis bruon malantaŭ vi.
 2894670	por	Qual é nossa meta no Universo?
-2894671	rus	Они предпочитают пациентов, не могущих говорить.
+2894671	rus	Они предпочитают пациентов, которые не могут говорить.
 2894672	epo	Kio estas nia celo en la universo?
 2894673	rus	Они отдают предпочтение пациентам, которые не могут говорить.
 2894674	rus	Если бы меня интересовало твоё мнение, я бы его у тебя спросил.
@@ -37384,7 +36498,7 @@
 2895716	tur	On üç yaşındayken Tom'la tanıştım.
 2895717	nob	"Du ser trøtt ut." — "Jeg sov dårlig."
 2895718	tur	Üç yaz önce Tom'la tanıştım.
-2895719	deu	„Du siehst müde aus.“ — „Ich habe schlecht geschlafen.“
+2895719	deu	„Du siehst müde aus.“ – „Ich habe schlecht geschlafen.“
 2895720	epo	"Vi aspektas laca." — "Mi dormis malbone."
 2895721	tur	Üç ay önce Tom'la karşılaştım.
 2895722	tur	Geçen gün Tom'la karşılaştım.
@@ -41202,7 +40316,7 @@
 2899719	tur	Kör müsün?
 2899720	epo	Mi retrovos vin tie.
 2899721	tlh	wa'Hu' bong Qorwagh vIghorpu'.
-2899722	rus	Ты знаешь о блюде, в котором есть лавровый лист?
+2899722	rus	Ты знаешь какое-нибудь блюдо, в котором есть лавровый лист?
 2899723	epo	Mi bezonas klavaron por esti amuza.
 2899724	tur	Seni güldürmeye çalışıyordum.
 2899725	epo	Li ne povas daŭrigi sen Tomo.
@@ -41246,7 +40360,7 @@
 2899764	eng	There's a bird on my dad's head.
 2899765	tur	Düşündüm ki sen Tom'un nereye gittiğini biliyor olabilirsin.
 2899766	rus	Судя по всему, думаю, можно было сказать, что собрание было успешным и решило все свои задачи.
-2899767	rus	Птица сидит на голове моего отца.
+2899767	rus	У отца на голове сидит птица.
 2899768	rus	Птица сидит на папиной голове.
 2899769	tur	Onun ne yapmaya niyetli olduğunu biliyorum.
 2899770	rus	Дети любят играть в своём новом доме на дереве, которые они сами построили.
@@ -41494,7 +40608,7 @@
 2900021	rus	Почему ты так уверен?
 2900022	spa	El médico le aconsejó que dejara de fumar.
 2900024	rus	Почему ты едва переводишь дыхание?
-2900025	rus	Почему ты такой запыханный?
+2900025	rus	Ты чего так запыхался?
 2900026	rus	Почему ты не здесь?
 2900027	rus	Почему тебя нет?
 2900028	rus	Почему ты идёшь туда?
@@ -41503,7 +40617,7 @@
 2900031	rus	Почему ты такой упрямый?
 2900032	epo	Mi pensis, ke ni povus uzi la tablotukojn el teksaĵo.
 2900033	ina	Ille es pesante e lente como un urso.
-2900034	rus	Почему ты так не хочешь делать этого?
+2900034	rus	Почему ты так не хочешь это делать?
 2900035	rus	Почему ты такой сложный?
 2900036	epo	Li perdis la spirkapablon, sufokite de la fumo.
 2900037	rus	Зачем мы едем в Бостон?
@@ -41579,7 +40693,7 @@
 2900116	spa	María prefiere teñirse el pelo de rubio.
 2900117	rus	У нас был небольшой спор.
 2900118	spa	Mary prefiere pintarse el pelo güero.
-2900119	rus	Нам много есть что обсудить.
+2900119	rus	Нам надо многое обсудить.
 2900121	rus	У нас один и тот же стоматолог.
 2900122	hun	Boldog születésnapot, Aiba!
 2900123	rus	Мы должны знать наверняка.
@@ -41615,7 +40729,7 @@
 2900153	rus	Что ты нашёл, Том?
 2900154	rus	Что ты открыл?
 2900155	rus	Что Том делает для развлечения?
-2900157	rus	Что Том конкретно сказал?
+2900157	rus	Что именно Том сказал?
 2900158	rus	Что Тому было сказать?
 2900159	rus	Что они сказали тебе?
 2900160	rus	Что ты услышал, Том?
@@ -42324,7 +41438,7 @@
 2900913	rus	Здесь этот спорт не практикуется, потому что нет снега.
 2900914	rus	Всё в руках божьих.
 2900915	rus	Не всё, что ты слышал - правда.
-2900916	rus	Лула была избрана президентом два раза подряд.
+2900916	rus	Лула был избран президентом два раза подряд.
 2900917	rus	Самолёт вылетел в девять. Я прибыл в аэропорт час назад.
 2900918	rus	Думаю, что им придётся продать дом.
 2900919	rus	Она показалась мне элегантной.
@@ -49375,7 +48489,7 @@
 2908462	eng	Tom doesn't know the difference between reality and imagination.
 2908463	spa	Tengo algunas ideas en mente.
 2908464	eng	What's the difference between a duck?
-2908465	ukr	Мама, чому я дебіл?
+2908465	ukr	Мамо, чому я дебіл?
 2908466	epo	Mi ne povas surhavi lensojn pro la sensiveco de miaj okuloj.
 2908467	ita	Il tuo discorso non ha alcun senso.
 2908468	epo	Mi deziras, ke miaj ovoj estu tre, tre malmulte kuiritaj.
@@ -49667,7 +48781,6 @@
 2908768	eng	I don't think I'm ready for a relationship.
 2908769	eng	I said: "I'm not interested."
 2908770	epo	Skribita leĝo estas vasta, maldika reto, moskitoj estas kaptataj de ĝi, burdoj trarompas ĝin.
-2908771	eng	"If there's some water there, it means a jew..." "Hey, professor, stop it! The poop will be deleted, professor!" "Styopa, what are you saying, I just want to..." - "Aaah! ... Wait, why?!"
 2908772	ita	Non le ha spiegato nessuno che non si mangia con la bocca piena!
 2908773	epo	Leĝo sen puno estas kiel sonorilo sen frapilo.
 2908774	rus	Я не думаю, что готов к отношениям.
@@ -49691,7 +48804,6 @@
 2908792	ita	Logicamente offrirà lui.
 2908793	ita	Ricambia il saluto!
 2908794	ita	Siamo nella merda.
-2908795	eng	I did some crowd slipstreaming behind that tall guy over there.
 2908796	spa	Esa vela no es blanca.
 2908797	rus	Это так вкусно.
 2908798	spa	¿Podrías acostar al bebé por favor?
@@ -49998,3 +49110,891 @@
 2909111	rus	Они боялись учителя.
 2909113	deu	Mein Onkel starb an Krebs.
 2909114	heb	הם פחדו מהמורה.
+2909115	spa	No encajes el cuchillo en el queso.
+2909116	spa	Los alimentos y bebidas se servían en tal profusión en la boda que la novia y el novio comenzaron a preguntarse si no deberían haber invitado a más gente.
+2909117	uig	بىر توپ بالىلار پەستە ئويناۋاتىدۇ.
+2909118	eng	A group of children is playing downstairs.
+2909119	uig	بىر توپ بالا پەستە ئويناۋاتىدۇ.
+2909120	deu	Der Vergessensfall ist der schwierigste grammatische Fall im Esperanto.
+2909121	deu	Durchs Fenster hindurch sah man, wie Menschen vorübergingen.
+2909122	deu	Ich bringe Tom zu Maria.
+2909123	deu	Was hat dir eingegeben, dass Tom nicht käme?
+2909124	deu	Durch das geöffnete Fenster wehte ein eiskalter Wind in das Zimmer.
+2909125	uig	دانىيار، ئەمەتلەرگە مەندىن سالام ئېيتىڭ.
+2909126	eng	Daniel, give Emet and the others my regards.
+2909127	epo	Tra la malfermita fenestro glacia vento blovis en la ĉambron.
+2909128	spa	¿Alguien tiene alguna otra pregunta?
+2909129	spa	Todo el mundo sabe que no fue tu culpa.
+2909130	deu	Sag Bescheid, wenn du mich wieder brauchst!
+2909131	spa	Ellos habían trabajado juntos por intereses comunes.
+2909132	spa	No deberían hablar aquí.
+2909133	spa	¿Qué deberíamos decir?
+2909134	deu	Frag mich morgen noch mal! Heute bin ich nicht in der Lage, einen klaren Gedanken zu fassen.
+2909135	deu	Sie nahm einen großen Schlüssel von der Wand und geleitete die Gäste durch die Küche zum Innenhof des alten Gebäudes.
+2909136	deu	Tom hat mich gehauen!
+2909137	deu	Er versandte ein Rundschreiben an die Mitglieder, die entweder schwiegen oder gleichgültig zustimmten.
+2909138	deu	„Mama, Mama! Tom hat mir ein Bein gestellt!“ – „So ein Rüpel! Na, der soll was erleben!“
+2909139	deu	Maria hat weit über hundert Paar Schuhe.
+2909140	epo	Manjo havas multe pli ol cent parojn da ŝuoj.
+2909141	deu	Darüber wusste er nicht das Geringste und er stellte auch niemals Nachforschungen an.
+2909142	deu	Setze dich zu mir unter die Kirschbäume, um von unserer Zukunft zu träumen!
+2909143	deu	Petra besuchte das Einkaufszentrum und schätzte es als steril und menschenfeindlich ein.
+2909144	deu	Ich kann die Augen nicht mehr offenhalten.
+2909145	deu	Wir konnten in dreißig Kilometern Entfernung einen Berggipfel sehen.
+2909146	deu	Mich trifft keine Schuld.
+2909147	deu	„Martha“, sagte sie, „Wo hast du dieses sonderbare Buch gefunden, das du in der Hand hältst?“
+2909148	deu	Wir haben einen Schulausflug zum Towada-See unternommen.
+2909150	deu	Jemand merkte an, dass Mary immer zu spät zu den Treffen kam.
+2909151	hau	Ban gane ba.
+2909152	hau	Zan koyama Hausa kai kuma kakoyaman Koriyanci.
+2909153	eng	I will teach you Hausa and you will teach me Korean.
+2909154	spa	Te enseñaré hausa y tú me enseñarás coreano.
+2909155	hau	Idan kanajin yunwa sai kaci.
+2909156	hau	Ina son inyi karatu kamin inyi barci.
+2909157	hau	Ina son inbiya karatuna kamin inkwana.
+2909158	nob	Det forbauset meg litt.
+2909159	epo	Tio mirigas min iomete.
+2909160	deu	Das erstaunt mich ein wenig.
+2909161	deu	Maria ist heute in keiner guten Verfassung.
+2909162	por	O parque estava lotado.
+2909163	deu	Maria ist heute in keiner guten seelischen Verfassung.
+2909164	deu	Tom ist heute in keiner guten körperlichen Verfassung.
+2909165	hau	Ina son inci abincin koriya.
+2909166	hau	Ina son cin abincin koriya.
+2909167	deu	Tom ist heute in keiner guten gesundheitlichen Verfassung.
+2909168	epo	Hodiaŭ Tomo ne havas bonan sanostaton.
+2909169	epo	Hodiaŭ Tomo ne havas bonan korpostaton.
+2909170	epo	Hodiaŭ Maria ne havas bonan animostaton.
+2909171	rus	Ты должен уделять особое внимание тому, что ты ешь и пьёшь.
+2909172	hau	Dakin tom dan karami ne.
+2909173	tur	Tom'un odası çok küçüktü.
+2909174	eng	John died unhappy.
+2909175	epo	Tomo hodiaŭ ne estas en bona sanostato.
+2909176	epo	Tomo hodiaŭ ne estas en bona korpoostato.
+2909177	hau	Narasa kyamarata kwanan baya.
+2909178	hau	Kyamarata ta bata kwanan baya.
+2909179	epo	Maria hodiaŭ ne estas en bona animostato.
+2909180	epo	Maria hodiaŭ ne estas en bona stato.
+2909181	epo	La sanostato de Tomo hodiaŭ ne estas bona.
+2909182	epo	La korpostato de Tomo hodiaŭ ne estas bona.
+2909183	eng	Two are fighting - a third is profiting.
+2909184	epo	La animostato de Maria hodiaŭ ne estas bona.
+2909185	hau	Idan ka gama, ka mayar mini.
+2909186	deu	Maria hat heute keine gute Seelenverfassung.
+2909187	spa	Si has terminado, devuélvemelo.
+2909188	eng	If you have finished, return it to me.
+2909189	deu	Marias Gemütszustand ist heute nicht gut.
+2909190	tgl	Dapat mong makita para maniwala.
+2909191	hau	Idan kacijeni kaima zan cijeka.
+2909192	spa	Desaparece y no regreses.
+2909193	deu	Tom hat heute keine gute körperliche Verfassung.
+2909194	eng	My brother and I share the same room.
+2909195	deu	Toms körperliche Verfassung ist heute nicht gut.
+2909196	eng	We ordered French fries and soft drinks.
+2909197	deu	Tom hat heute keine gute gesundheitliche Verfassung.
+2909198	hau	Wannan fim din yanada kyau.
+2909199	deu	Toms Gesundheitszustand ist heute nicht gut.
+2909200	tgl	Nakagawian na ng mga sundalo ang panganib.
+2909201	tgl	Paumanhin, pero saan na ang mga itlog?
+2909202	tgl	Sa tingin ko nga.
+2909203	hau	Birninmu sai kara haɓaka yakeyi.
+2909204	hau	Garinmu sai kara haɓaka yakeyi.
+2909205	tgl	May nakita akong isang magandang ibon.
+2909206	tgl	Gusto kong kausapin ang tito mo.
+2909207	rus	Тот, кто рождается в Австрии, является австрийцем.
+2909208	jpn	「～してはいけない」と「～しなくてもいい」を混同してはいけません。
+2909209	eng	Today's March 27th.
+2909210	hau	Kana wasan kwallon kafa?
+2909211	eng	I'm involved with someone.
+2909212	hau	Ina ne restaurant?
+2909213	eng	He's a charming man.
+2909214	hau	Ina ne wajen da ake sayarda abinci?
+2909215	hau	Ina ne wajen bahaya?
+2909216	hau	Ina ne wajen kashi?
+2909217	tgl	Naiintindihan mo ba?
+2909218	epo	Vi povas imagi, kiel mirigita li estis, kiam li vidis vin en tiu loko.
+2909219	tgl	Magandang gabi; matulog ka nang mahimbing.
+2909220	nob	Du kan tenke deg hvor forbauset han ble da han så deg på dette stedet.
+2909221	deu	Sie können sich vorstellen, wie erstaunt er war, als er Sie an diesem Ort sah.
+2909222	deu	Du kannst dir vorstellen, wie erstaunt er war, als er dich an diesem Ort sah.
+2909223	deu	Ihr könnt euch vorstellen, wie erstaunt er war, als er euch an diesem Ort sah.
+2909224	tgl	At sa wakas Biyernes na.
+2909225	nob	Han må ha blitt veldig forbauset.
+2909226	epo	Li certe estis tre mirigita.
+2909227	deu	Er muss sehr erstaunt gewesen sein.
+2909228	tgl	Marami ang aking nakain kaninang umaga.
+2909229	eng	I don't want to live in a big mansion.
+2909230	eng	There are songs that I find degrading as a woman.
+2909231	eng	This song is degrading to women.
+2909232	tgl	Posibleng uulan muli.
+2909233	tgl	Darating siya rito sa ilang sandali.
+2909234	eng	Many rap songs are degrading to women.
+2909235	eng	A friend told me about Tatoeba.
+2909237	tgl	Kapag hindi siya pupunta, hindi rin ako pupunta.
+2909238	deu	Wer etwas Gutes erwartet, wartet nicht vergebens.
+2909239	epo	Kiu atendas ion bonan, ne atendas vane.
+2909240	eng	The definition from the dictionary is different.
+2909241	eng	Are you feeling tired?
+2909242	tgl	Ang bata-bata mo pa para bumiyahe nang mag-isa.
+2909243	eng	The German athletes won four gold medals at the luge world championship in Canada.
+2909244	tgl	Kailangan mong sumama sa akin.
+2909245	deu	Fühlst du dich müde?
+2909246	epo	Ĉu vi sentas vin laca?
+2909247	spa	Las mujeres no son objetos.
+2909248	tgl	Proprotektahin ka niya.
+2909249	spa	Tom no sabe diferenciar la realidad de la fantasía.
+2909250	deu	Bei der Rennrodel-Weltmeisterschaft in Kanada gewannen die deutschen Athleten vier Goldmedaillen.
+2909251	tgl	Hindi sumasang-ayon si Tom kay Mary.
+2909252	spa	Esto es extorsión.
+2909253	eng	The stranger invited me to a nearby café.
+2909254	spa	Tenés una hora.
+2909255	spa	No puedo olvidar a Tom.
+2909256	tgl	Sino ang nagtatago sa likod ng mga kurtina?
+2909257	eng	I've been with him for a long time.
+2909258	spa	Estoy extremadamente ocupada.
+2909259	spa	¿Tom es tu sobrino?
+2909260	eng	Mary is two months pregnant.
+2909261	eng	Shouting won't do; it's important to have patience.
+2909262	spa	¿Entonces qué pasó?
+2909263	spa	Tom murió en batalla.
+2909264	tgl	Imbitado ako sa kanyang kasal.
+2909265	spa	Tom odia su nombre.
+2909266	spa	Tom sabía nuestros nombres.
+2909267	tgl	Ano?
+2909268	eng	Why do bad things happen?
+2909269	spa	Tom era un buen tipo.
+2909270	tgl	Ben, ikaw ang maghuhugas ng mga pinggan.
+2909271	spa	Necesitamos algunas herramientas.
+2909272	tgl	Ako ay isang kaibigan ni Roberts.
+2909273	tgl	Kamukhang-kamukha niya ang kanyang nanay.
+2909274	spa	Sos muy terco.
+2909275	tgl	Siya ay may dalawang pusa. Ang isa ay itim at ang iba ay puti.
+2909276	tgl	Ako'y may martilyo, at hindi ako natatakot na gamitin ito.
+2909277	tgl	Hinalal namin si John para maging kapitan.
+2909278	tgl	Nag-aalmusal ka ba sa bahay?
+2909279	tgl	Ang lalaking iyon ay kumain ng tinapay.
+2909280	jpn	トムはマッチに火をつけた。
+2909281	deu	Ich nehme ein Eis und eine Cola.
+2909282	pfl	Ich nemm e Eis un e Cola.
+2909283	tlh	mumagh ghot vIvoqbogh.
+2909284	tlh	bIlugh 'e' vIHar.
+2909285	tlh	jIropmo' jIQongnISDI' bIvutta', qatlho'.
+2909286	eng	Freedom is useless unless you use it.
+2909287	epo	Libero estas senutila, krom se vi uzas ĝin.
+2909288	epo	Libero estas senutila, se vi ne utiligas ĝin.
+2909289	deu	Freiheit ist nutzlos, wenn du sie nicht nutzt.
+2909290	tgl	Alam kong ayaw mo sa akin.
+2909291	eng	What was your response when he invited you?
+2909292	eng	It's strange he loves room temperature beer.
+2909293	tgl	May pakialam ka ba sa anong iniisip ng ibang tao tungkol sa iyo?
+2909294	tgl	Kumakain ako ng isang mansanas.
+2909295	tgl	Kapag nalaman niya ang totoo, sasabihin niya sa atin.
+2909296	tgl	Sumigaw siya ng "layas!"
+2909297	tgl	Hindi tayo masyadong nakakasiguro.
+2909298	eng	Man is a social being.
+2909299	tgl	Nilinis ni Tom ang kanyang salamin.
+2909300	tgl	Tanungin ninyo si Trang kung lalabas siya ngayong gabi.
+2909301	tgl	Dapat kang maging masaya para kay Tom.
+2909302	tgl	Ang diksyunaryong nasa ibabaw ng mesa ay kay Tom.
+2909303	rus	Даниэль, передай Эмет и другим привет от меня.
+2909304	rus	Я научу тебя хауса, а ты меня корейскому.
+2909305	rus	Джон умер несчастным.
+2909306	rus	Человек - существо социальное.
+2909307	rus	Странно, что он любит пиво комнатной температуры.
+2909308	rus	Каким был твой ответ, когда он тебя пригласил?
+2909309	rus	Свобода бесполезна, если ей не пользоваться.
+2909310	rus	Павел, ты сделал своё домашнее задание?
+2909311	rus	Почему плохие вещи случаются?
+2909312	rus	Почему плохие вещи происходят?
+2909313	rus	Мэри на втором месяце беременности.
+2909314	rus	Мэри на втором месяце.
+2909315	rus	Я была с ним долгое время.
+2909316	rus	Незнакомец пригласил меня в близлежащее кафе.
+2909317	rus	Немецкие атлеты выиграли четыре золотые медали на мировом чемпионате по одиночным саням в Канаде.
+2909318	rus	Ты чувствуешь себя уставшим?
+2909319	rus	Определение из словаря другое.
+2909320	rus	Я не хочу жить в большом особняке.
+2909321	rus	Есть песни, которые я, как женщина, нахожу унизительными.
+2909322	rus	Многие песни в жанре "рэп" унизительны для женщин.
+2909323	rus	Друг рассказал мне о Татоэбе.
+2909324	rus	Мы с братом живём в одной комнате.
+2909325	eng	Whoever is born in Austria, is an Austrian.
+2909326	tlh	juH chu' chenmoHmeH qav'ap law' vIDIlnISpu'.
+2909328	rus	Сегодня 27 марта.
+2909329	deu	Das Glück ist ein Mosaikbild, das aus lauter unscheinbaren kleinen Freuden zusammengesetzt ist.
+2909330	deu	Kleider machen Leute, sagen die Leute, die Kleider machen.
+2909331	deu	Man konnte sich kein günstigeres Wetter denken, um zu Hause zu bleiben.
+2909332	tlh	Qun jIHbe', Qun SoHbe' je, rap.
+2909333	deu	In unserer Ära der Unbedeutenden wird Satire immer schwieriger. Was sind das für Menschen, die sich heute blamieren?
+2909334	rus	И наконец, я не понял, хорош или плох чай для нашего здоровья.
+2909335	deu	Die Unverdorbenen kommen leicht in der Ruf, unverbesserlich zu sein.
+2909336	deu	Das Vorurteil ist die bequemste Art der Kritik, aber sie ist das Talent des Pöbels.
+2909337	rus	Судя по тому, как выглядит небо, похоже, что будет дождь.
+2909338	eng	Whoever comes to us armed with a sword is easier to kill with a shot.
+2909339	deu	Der Himmel gehört allen, die Erde wenigen!
+2909340	deu	Stolz beruht auf der Meinung, die man von sich selbst hat; Würde aber im Respekt vor Menschenrechten.
+2909341	deu	In allen Ländern, wo die Eitelkeit sich zeigt, spielt der Geschmack die erste Rolle, weil er die Klassenunterschiede bestimmt und weil er zwischen allen Angehörigen der obersten Klasse der beste Kitt ist.
+2909342	tlh	QaH'a'lIjmo' jIQaplaHta'.
+2909343	deu	Ein Mann, der vier Sprachen kann, hat den Wert von vier Menschen.
+2909344	tlh	jIDo'mo' jIQappu'.
+2909346	deu	Jemand, der Esperanto sprechen kann, hat den Wert von mindestens hundert Menschen.
+2909348	deu	Friede gefährdet Arbeitsplätze.
+2909349	eng	"They're all the same!" "Come on, Styopa! Looks like you've never had sex!" "Professor, I have no time for it!" "You sucker, it's a great pleasure." "Professor, I want to go with you!" "Yeah say that again! You're gonna suck just like always." "Yes, you're right".
+2909350	tlh	qeSDajmo' jIQapta' 'e' vItlho'.
+2909352	eng	When her neighbours were ill, she asked a doctor to give them some medicine.
+2909354	tlh	tlhoS jIQaplaHbe'ba'.
+2909356	hun	Ez történt.
+2909357	deu	Wenn einem Autor der Atem ausgeht, werden die Sätze nicht kürzer, sondern länger.
+2909358	tlh	jIlugh 'e' Dayajbej.
+2909359	deu	Eine selbstbewusste Gesellschaft kann viele Narren ertragen.
+2909360	deu	Vielleicht verdirbt Geld tatsächlich den Charakter. Auf keinen Fall aber macht ein Mangel an Geld ihn besser.
+2909361	deu	Die größte und dauerhafteste Revolution, die wir kennen, fand statt, als der Mensch seine Seele entdeckte und lernte, dass jede Seele für sich allein einen individuellen Wert hat.
+2909362	tlh	qaSpa' DungluQ pa' vIpawlaHbe'.
+2909363	deu	Früher war der Mensch Herr seines Wissens. Heute ist das Wissen sein Gebieter.
+2909364	deu	Früher schauten die Schriftsteller durch das Fenster in den Salon, jetzt schauen sie durch das Schlüsselloch in das Schlafzimmer.
+2909365	deu	Die Managerkrankheit ist eine Epidemie, die durch den Uhrzeiger hervorgerufen und durch den Terminkalender übertragen wird.
+2909366	deu	Die Menschen verlieren die meiste Zeit damit, dass sie Zeit gewinnen wollen.
+2909367	tlh	yuDHa' loDHomvetlh 'e' vIQubpu', mutojta'.
+2909368	deu	Das Leben besteht aus guten und schlechten Tagen — und meistens liegt es an uns, wie diese Tage beschaffen sind.
+2909369	deu	Ein Geschenk, das nicht auch ein Opfer ist, ist kein Geschenk.
+2909370	deu	Für alles im Leben muss man bezahlen. Und je später man es tut, um so höher werden die Zinsen.
+2909371	deu	Das Leben besteht hauptsächlich darin, dass man mit dem Unvorhergesehenen fertig werden muss.
+2909372	deu	Nichts vergoldet die Vergangenheit so sehr wie ein schlechtes Gedächtnis.
+2909373	deu	Auf jede Frage eine Antwort wissen nur Dummköpfe.
+2909374	hun	Hol van a dán követség?
+2909375	hun	Elrohant a pénzzel.
+2909376	hun	Az emberek befejték a felkészülést a kirándulás.
+2909377	hun	Ez így lehet.
+2909378	hun	Az én kenyerem frissebb, mint a tied.
+2909379	hun	Szórakoztál tegnap.
+2909380	hun	Behajlítottad a lábadat.
+2909381	eng	"Zelda, the floor is under my feet!" "I know!"
+2909382	rus	"Зельда, под моими ногами — пол!" — "Я знаю!"
+2909383	eng	"Where's my money?" "What money?" "You owe me money." "I don't owe you, sucker!"
+2909384	rus	«Где мои деньги?» — «Какие деньги?» — «Ты должен мне денег». — «Я тебе ничего не должен, сосунок!»
+2909385	eng	"Hey, you!" "Yes?" "See this piece of shit here?" "Yes." "Do I owe him money?" "Yes!" "...Screw you!" "Yes..."
+2909386	rus	"Эй, ты!" - "Да?" - "Видишь этого говнюка?" - "Да". - "Я ему должен денег?" - "Да!" - "Да пошла ты!" - "Да..."
+2909387	eng	"Now, where's my freaking money?" "I don't have money; I spent all my money on dinner." "You will find money." "Or else what?" "I will seize your house!" "Shit!"
+2909388	rus	«Итак, где, чёрт возьми, мои деньги?» - «У меня нет денег; я истратил их все на обед». - «Ты найдёшь денег». - «А иначе что?» - «Я отберу твой дом!» - «Блин!»
+2909389	rus	Здание на горе - это наша школа.
+2909390	eng	"Lost?" - "Yes..." - "Frightened?" - "Yes." - "Confused?" - "Yes!" - "Good! Ahahahaha!"
+2909391	rus	"Потерян?" - "Да..." — "Испуган?" — "Да". — "Запутался?" — "Да!" — "Здорово! А-ха-ха-ха-ха!"
+2909392	rus	Мне жаль, но ответ - нет.
+2909393	heb	צר לי, אך התשובה היא לא.
+2909394	heb	צר לי, אך התשובה היא "לא".
+2909395	heb	אני מצטער, אך התשובה היא - לא.
+2909396	epo	Mi bedaŭras, sed la respondo estas ne.
+2909397	deu	Warum sprechen viele Menschen über Spiritualismus, ohne ihn wirklich zu kennen?
+2909398	epo	Mi bedaŭras, sed la respondo estas negativa.
+2909399	deu	Sagen Sie das, was Ihre Frau hören will, und Sie werden sicherlich glücklicher sein!
+2909400	fra	Je suis désolé, mais la réponse est négative.
+2909401	fra	Je suis desolé, mais la réponse est "Non".
+2909402	fra	Je suis désolée, mais la réponse est "Non".
+2909403	deu	Erlaube nie der Wut, das Bessere aus dir zu verbannen.
+2909404	hun	Könnyen megoldottam a problémát.
+2909405	eng	"Why can't I just have a normal boyfriend? Why? Just a regular boyfriend who doesn't go nuts on me!" "Everybody wants that, dear. It doesn't exist."
+2909406	rus	«Почему у меня не может быть просто нормального парня? Почему? Самого обычного парня, который не сходит от меня с ума!» — «Все этого хотят, милая. А так не бывает».
+2909407	hun	Attól félek, holnap esni fog.
+2909408	hun	Havi bevétele 2000 dollár.
+2909409	hun	A mosás az én dolgom.
+2909410	deu	Die wichtigste Pflicht des öffentlichen Bildungswesens ist, jedes Individuum zu befähigen, kritisch zu denken und schöpferisch für das Gemeinwohl zu wirken.
+2909411	deu	Ein Weiser kümmert sich nicht um eigene Interessen, und verwirklicht sie dennoch.
+2909412	tur	Tom'un hâlâ hayatta olduğunu biliyorum.
+2909413	tur	Tom'un orada olmayı planladığını biliyorum.
+2909414	tur	Tom'un yakında olduğunu biliyorum.
+2909415	tur	Tom'un kayıp olduğunu biliyorum.
+2909416	jpn	トムは煙草に火をつけようとマッチを擦ったが、マッチが湿気っていて、何回擦っても火はつかなかった。
+2909417	tur	Tom'un masum olduğunu biliyorum.
+2909418	tur	Tom'un kadere inanmadığını biliyorum.
+2909419	tur	Tom'un öldüğünü biliyorum.
+2909420	tur	Tom'u senin tanıdığından daha iyi tanıyorum.
+2909421	rus	У Тома проблемы с признанием своих ошибок.
+2909422	tur	Senin gerçekten istediğinin bu olmadığını biliyorum ama sahip olduğum bu kadar.
+2909423	tur	Bunun kolay olmadığını biliyorum.
+2909424	tur	Bunun tuhaf olduğunu biliyorum.
+2909425	tur	Bunun doğru olduğunu biliyorum.
+2909426	tur	Bunun çetin olduğunu biliyorum.
+2909427	eng	The building on the mountain is our school.
+2909428	tur	Onu daha önce gördüğümü biliyordum.
+2909429	tur	Raporu öğleden önce bitirmem gerektiğini biliyordum.
+2909430	tur	Sadece bunun yardımcı olabileceğini düşündüm.
+2909431	tur	Sadece yardım edebileceğimi düşündüm.
+2909432	tur	İşe geri dönmeliyim.
+2909433	tur	Onun gerekli olmayacağından eminim.
+2909434	rus	Том чиркнул спичкой.
+2909435	rus	Том зажег спичку.
+2909436	tur	Bir köpeği nasıl eğiteceğini öğrenmek için zahmete girmeye hazır değilsen bir köpek alma.
+2909437	deu	Oh! Das habe ich nicht bedacht.
+2909438	ces	Koupil si nové auto.
+2909439	heb	אני מצטערת, אבל התשובה היא לא.
+2909440	heb	אני מצטערת, אבל התשובה היא "לא".
+2909441	heb	אני מצטערת, אבל התשובה שלילית.
+2909442	heb	טום הדליק גפרור.
+2909443	deu	Du brauchst heute nicht hinzugehen. Es tut sich nichts Besonderes.
+2909444	ell	Διδάσκω Γεωγραφία.
+2909445	tur	Ayılar uyuduğunda ya da uzandığında onların duruşları ısıdan kurtulmak ya da onu korumak isteyip istemediklerine bağlıdır.
+2909446	ell	Είμαι αρχαιολόγος.
+2909447	deu	Meine Stärken und Schwächen sind schnell aufgezählt.
+2909448	tur	Tepede bir sürü bodur ağaçlar büyümektedir.
+2909449	deu	Ein weiser Mensch ist nicht bestrebt, sich nach vorn zu drängen, und dennoch gelangt er nach vorn.
+2909450	deu	Mein Bruder starb urplötzlich an einem Schlaganfall.
+2909451	deu	Davon muss ich dir bei Gelegenheit erzählen.
+2909452	deu	Ich werde dir bei passender Gelegenheit mehr davon erzählen.
+2909453	tur	Ağlamamış genç bir adam acımasızdır ve gülmeyecek yaşlı bir adam bir aptaldır.
+2909454	deu	Das wollte ich nicht wahrhaben und habe es einfach ausgeblendet.
+2909455	deu	Weise Menschen sind nicht darauf aus, etwas zu gewinnen; also verlieren sie nichts.
+2909456	deu	Du hast es doch nicht etwa übersehen?
+2909457	tur	Yakın gelecekte uzay yolculuğu artık sadece bir hayal olmayacak.
+2909458	deu	Weise Menschen erfüllen ihres Aufgaben, neigen jedoch nicht dazu, Forderungen zu stellen.
+2909459	por	Há não passa de dois livros sobre a mesa.
+2909460	tgl	Ang laki ng gusaling ito.
+2909461	deu	Das ist ein altmodischer Ausdruck.
+2909462	por	Os piratas são cruéis.
+2909463	tgl	Akala ko umalis ka.
+2909464	deu	Der Himmel ist beständig, die Erde währt ewig. Der Grund, warum der Himmel und die Erde ewig bestehen, ist, dass sie nicht für sich selbst leben. Darum haben sie Bestand.
+2909465	deu	Nachdem ich diesen Schaden gemeldet habe, wird mein Versicherungsbonus wieder in den Keller sausen.
+2909466	jpn	あらゆる離婚の主たる原因は結婚である。
+2909467	tgl	Lahat ay nangyayari nang may dahilan.
+2909468	deu	Der Sturm hat wieder allerhand Treibholz auf dem Strand hinterlassen.
+2909469	por	A indústria automobilística alemã produzem carros de alta qualidade.
+2909470	deu	Wenngleich ich an jedem Tag auf demselben Weg durch den Wald gehe, so sind doch die Eindrücke an jedem Tag andere.
+2909471	deu	Blackpool ist ein beliebter Ausflugsort.
+2909472	por	Cavei uma fossa.
+2909473	deu	Die Insel ist nicht sehr groß. Man kann zu Fuß in anderthalb Stunden von einem Ende zum anderen gehen.
+2909474	tur	Modern savaş sanatı dövüşçüler gibi etkili olmak için tepeden tırnağa silahlandırılacak askerleri muhakkak gerektirmez.
+2909475	deu	Der Wasserzuleitungsschlauch unserer neuen Spülmaschine ist eine Handbreit zu kurz.
+2909476	deu	Es hätte viel schlimmer kommen können.
+2909477	tur	Bankalar güneşli bir günde sana bir şemsiye vermeye çalışırlar ama yağmurlu bir günde sırtlarını dönerler.
+2909478	deu	Hast du die Rede aus dem Stegreif gehalten?
+2909479	deu	Das haben wir elegant gelöst.
+2909480	deu	Jetzt werde ich mich erst einmal ausschlafen.
+2909481	tur	Masayı taşımaya çalıştığımda karşıya çekerken bacaklarından biri kulak tırmalayıcı bir ses yaptı.
+2909483	deu	Brot wird aus Mehl gemacht.
+2909484	bul	Не можеш да се самоубиеш, задържайки дъха си.
+2909485	deu	Er bringt Brot und Butter nach Hause.
+2909486	deu	Ich habe heute Morgen Brot mit Butter gegessen.
+2909487	tur	Acıklı görüntü bizi gözyaşlarına boğdu.
+2909489	eng	It'll take at least an hour to get there.
+2909490	eng	Only fifty people came.
+2909491	bul	Само петдесет души дойдоха.
+2909492	eng	At most, there were only 100 passengers on the ferry.
+2909493	tur	Yunanların önde gelen tanrısı Zeus'u şereflendirmek için İsa'dan Önce 776'da ilk Olimpiyat oyunları Olimpos Dağının eteğinde düzenlendi.
+2909494	tur	Titiz bir hakem maçı bozabilir.
+2909495	tur	Bu önerinin ne tür bir sorun başlatacağını tahmin etmek mümkün değil. Sonuç kesinlikle görecek bir şey olacak.
+2909496	tur	Taş kalpliler bile gözyaşlarına boğulabilirler.
+2909497	tgl	Sa bansang Hapon, halos lahat ng pamilya ay may isang "washing machine".
+2909498	tgl	Kami'y sumasang-ayon.
+2909499	tur	Sigara içmenin sağlık için bir tehlike olduğu bir gerçektir.
+2909500	tgl	Ang langit ay maulap at uulan.
+2909501	tur	Bütün turistler gemiye bindiler mi?
+2909502	deu	Tom hat mich unterbrochen.
+2909503	deu	Tom hat alles gemacht.
+2909504	deu	Tom hat es mir gegeben.
+2909505	deu	Tom bekam einen Anruf.
+2909506	deu	Tom musste laufen.
+2909507	deu	Tom ist Dr. phil.
+2909508	tur	Muhakeme gücümüzün hislerimiz tarafından gölgelenmesine izin verirsek her zaman yanlış ağaca havluyor oluruz.
+2909509	nld	Ik beschouwde hem als de beste dokter van de stad.
+2909510	tur	Kalabalık Luciano tarafında olabilir ama şampiyon kazanma becerisine sahip ve önemli olan budur.
+2909511	nld	Hij wist niet wat te zeggen, en dus zweeg hij.
+2909512	nld	Wat is er met mij gebeurd? Ben ik ziek?
+2909513	tur	Onlar genç ve sağlıklıdırlar.
+2909514	deu	Ich weiß, warum du nicht reden willst. Ich will auch nicht mit dir reden.
+2909515	deu	Ich möchte Deutsch sprechen.
+2909516	eng	I know why you don't want to talk. I don't want to talk with you, either.
+2909517	lit	Aš turiu dvi kates.
+2909518	lvs	Man ir divi kaķi.
+2909519	hun	Meg voltak elégedve az étellel.
+2909520	hun	Gyorsan futok.
+2909521	rus	На атомной электростанции произошла утечка радиации.
+2909522	hun	Ő beszél legjobban angolul az osztálytársai közül.
+2909523	deu	Tom ist adoptiert?
+2909524	rus	Язык определяет сознание, так что отнесись с вниманием к тому, что именно ты здесь пишешь или переводишь.
+2909525	rus	Он был курсантом Военной Академии США.
+2909526	rus	Он - выпускник Вест-Пойнта.
+2909527	eng	A Mr. Sakaki has come to see you.
+2909528	rus	Он был на какой-то учебной военной базе.
+2909529	rus	Он - выпускник Военной Академии.
+2909530	eng	Some people these days are going so far as to leave instructions in their wills about how to handle their email inboxes and social media profiles after they die.
+2909531	eng	After five brutal rounds, the judges could not split the two fighters, and the bout was declared a draw.
+2909532	ita	I materialisti ritengono che la coscienza, come pure il pensiero, la memoria siano solo stati elettrochimici del cervello.
+2909533	epo	La materiistoj opinias, ke la konscio, kiel ankaŭ la penso, la memoro estas nur elektrokemiaj statoj de la cerbo.
+2909534	heb	אתה אוהב לבשל מאכלים יפניים?
+2909535	heb	את אוהבת לבשל מאכלים יפניים?
+2909536	heb	דבר בקול רם יותר, בבקשה.
+2909537	heb	תגביר את הקול, בבקשה.
+2909538	heb	תגבירי את הקול, בבקשה.
+2909539	heb	תגביר את קולך, בבקשה.
+2909540	heb	תגבירי את קולך, בבקשה.
+2909541	eng	The cheetah uses a combination of stealth and explosive acceleration to catch its prey.
+2909542	rus	Каждый раз, когда вымирает некий биологический вид, мы навсегда теряем часть от мира природы.
+2909543	epo	Ŝi komplete frenezas.
+2909544	eng	Baboons have a very complex system of relationships and communication, which is essential for their survival in the savannah.
+2909545	ita	Ti senti stanco?
+2909546	ita	Ti senti stanca?
+2909547	epo	Ŝi estas tute freneza.
+2909548	epo	Li komplete frenezas.
+2909551	epo	Ĉu vi scipovas danci?
+2909552	eng	When darkness falls, the baboons return to the trees to sleep, safe from night prowlers.
+2909553	epo	Mi volas nur ĉion plej bonan por vi.
+2909554	epo	Vi aspektas ne bonfarta.
+2909555	tur	Tanınmadan önce maaş zammından bahsedersen senin işleri ters yaptığını düşünme eğiliminde olurum.
+2909556	epo	Mia amo estas la fadeno, al kiu sin kroĉas mia vivo.
+2909557	tur	Kız kardeşin sanki bir prenses kadar asil görünüyor.
+2909558	epo	Sally perlaboras sian vivon, instruante pianadon.
+2909559	tur	Ülkeler barışçıl amaçlarla anlaşmazlıkları çözmekle ilgileniyorlardı.
+2909560	epo	Mi ege ĝojus, se tio okazus denove.
+2909561	epo	Ĉu ŝi vere tiel belaspektas?
+2909562	epo	Mi ricevis leteron de mia fratino.
+2909563	epo	Li revis esti heroo.
+2909564	epo	La tuta klaso ekridis pro lia ŝerco.
+2909565	epo	Mi montros al vi, kiel oni faras tion.
+2909566	tur	Tarifeleri blok olarak kontrol etmenin ülke ülke kontrol etmekten daha uygun olduğunu vurgulamak istiyorum.
+2909567	eng	I'm batching it this weekend because my wife is visiting her brother in Frankfurt.
+2909568	epo	Mi venos, se restos al mi tempo.
+2909569	tur	Masada bir kart var.
+2909570	epo	Ambaŭ junuloj transloĝiĝis provizore en la studieton de amiko.
+2909571	epo	Simioj haŭtflegas unu la alian.
+2909572	mhr	Кажне гана, кунам йомеш биологийын кеч-могай видше, ме курымешлан пӱртӱс сандалыкын ужашыжым йомдарена
+2909573	epo	Tomo premas la pedalon ĝisfunde.
+2909574	epo	Li afable ridetas al mi.
+2909575	epo	Tomo tute ne taŭgas por tio.
+2909576	epo	Pli multnombras liaj ŝuldoj ol liaj haroj.
+2909577	tur	Tepenin üstünde bir mahzen kazıldı ve onlar evi yavaşça yoldan tepeye taşıdılar.
+2909578	epo	Li ne estas certa, ke li volas fari tion.
+2909579	tur	Görünüşte koyunları keçilerden ayıramayız.
+2909580	epo	Ŝi estas multe pli elegante vestita ol mi.
+2909581	epo	Ne plu valoras la penon labori.
+2909582	epo	Averse mi gajnas, reverse vi perdas.
+2909583	epo	Tio ne estas vere amuza.
+2909584	epo	Mi ne konsciis pri tio.
+2909585	epo	Ŝi tiel belaspektis, ke mi dum momento kvazaŭ paraliziĝis vidante ŝin.
+2909586	epo	Tio ne estis klara al mi.
+2909587	eng	In pregnancy, the first three months are the most critical.
+2909588	epo	Se li plu tedaĉos min, mi maldungos lin.
+2909589	epo	Ĝis malfrue en la nokto li ekzercas sin pri gitarludo.
+2909590	epo	Se li daŭre agacos min, mi forpelos lin.
+2909591	epo	Tomo ne volas fari ion, kio ofendus Manjon.
+2909592	epo	Tomo deziris pasigi iom da tempo en la lando.
+2909593	epo	Kio ajn multe pli valoras ol nenio.
+2909594	epo	Ĉu io nebonas pri viaj okuloj?
+2909595	epo	Mi ne volas morti ĉi tie.
+2909596	epo	Ĉu io estas ne en ordo pri la helikoptero?
+2909597	deu	Tom wollte sich mit einem Streichholz eine Zigarette anstecken, doch weil das Streichholz feucht war, entzündete es sich nicht, sooft er es auch rieb.
+2909598	ita	Facciamoci odiare un po'.
+2909599	nds	Dat is keen Speel!
+2909601	rus	Смелость города берёт.
+2909602	ita	Sadako voleva dimenticarlo.
+2909603	ita	Sadako voleva dimenticarla.
+2909604	por	Quem ousa alcança.
+2909605	ita	Sadako voleva dimenticare tutto ciò.
+2909606	ita	Gli amici di Sadako volevano costruire un monumento per lei e tutti i bambini che sono stati uccisi dalla bomba atomica.
+2909607	ita	Le amiche di Sadako volevano costruire un monumento per lei e tutti i bambini che sono stati uccisi dalla bomba atomica.
+2909608	ita	Gli amici di Sadako volevano costruire un monumento per lei e tutti i bambini che furono uccisi dalla bomba atomica.
+2909609	ita	Le amiche di Sadako volevano costruire un monumento per lei e tutti i bambini che furono uccisi dalla bomba atomica.
+2909610	deu	„nicht dürfen“ und „nicht brauchen“ darf man nicht miteinander verwechseln.
+2909611	ita	Gli amici di Sadako volevano costruire un monumento per lei e tutti i bambini che vennero uccisi dalla bomba atomica.
+2909612	ita	Le amiche di Sadako volevano costruire un monumento per lei e tutti i bambini che vennero uccisi dalla bomba atomica.
+2909613	deu	„nicht dürfen“ und „nicht müssen“ dürfen nicht miteinander verwechselt werden.
+2909614	ina	Qui osa obtene.
+2909615	ita	A me sembra che li abbia nominati infatti.
+2909616	ita	Anche io ricordo avesse perlato dei cataloghi a lezione.
+2909617	ita	Ringraziamo che almeno ci ha avvisate!
+2909618	jpn	「熱情」ソナタは第2楽章が一番好きです。
+2909619	ita	Dobbiamo fare un testo a scelta o no?
+2909621	eng	Did you make your speech off-the-cuff?
+2909622	deu	An der Appassionata gefällt mir am besten der zweite Satz.
+2909623	bel	Гэта люты свет.
+2909624	eng	I work only to go on vacation.
+2909625	ita	È un mondo crudele là fuori.
+2909626	deu	Die Hauptursache einer jedweden Scheidung ist die Heirat.
+2909627	pol	Tylko mama potrafi upiec to ciasto.
+2909628	pol	Świat jest bezwzględny.
+2909629	pol	Ależ jestem gruby.
+2909630	pol	W czasie ciąży pierwsze trzy miesiące są najważniejsze.
+2909631	pol	W tym tygodniu jestem słomianym wdowcem, bo żona pojechała do brata do Frankfurtu.
+2909632	pol	Pawiany mają złożony układ stosunków wzajemnych i system komunikacji, co jest kluczowe dla przeżycia na sawannie.
+2909633	pol	On jest absolwentem West Point.
+2909634	pol	Przyszedł niejaki pan Sakaki.
+2909635	pol	Czy Tom jest adoptowany?
+2909636	pol	Zachmurzyło się, będzie padać.
+2909637	pol	Przyszło zaledwie 50 osób.
+2909638	pol	Nie da się popełnić samobójstwa przez wstrzymanie oddechu.
+2909639	pol	Przyczyną każdego rozwodu jest małżeństwo.
+2909640	pol	Myślałem, że poszedłeś.
+2909641	pol	Dotarcie tam potrwa co najmniej godzinę.
+2909642	pol	Za każdym razem, kiedy wymiera jakiś gatunek, tracimy na zawsze część świata przyrody.
+2909643	pol	Pracuję tylko po to, by wyjechać na wakacje.
+2909645	pol	Czy twoje wystąpienie było bez przygotowania?
+2909646	pol	Mówiłeś z kapelusza?
+2909647	pol	To nie jest zabawa.
+2909648	pol	Książkę, którą warto przeczytać, warto przeczytać dwukrotnie.
+2909649	pol	Jak tylko dziewczynka zobaczyła matkę, wybuchnęła płaczem.
+2909650	epo	Mi sciis, ke Tomo faros ion stultan.
+2909651	pol	Niestety, muszę pana rozczarować. nie mam ochoty brać udziału w tej dyskusji.
+2909652	pol	Tom nie wierzy Mary. Uważa, że ona kłamie.
+2909653	epo	Mi sciis, ke Tomo faros stultaĵon.
+2909654	pol	Przypominasz mi swoją matkę.
+2909655	pol	Wiedziałem, że Tom zrobi coś głupiego.
+2909656	deu	Ich fürchte, ich muss dich enttäuschen. Ich habe keine Lust, mich an dieser Diskussion zu beteiligen.
+2909657	pol	Sadako chciała o tym zapomnieć.
+2909658	epo	"Vekiĝu, mia dormulino" Tom diris mallaŭte, karesante la harojn de Manjo.
+2909659	pol	Kierownik zaakceptował plan.
+2909660	pol	Proszę przygotować propozycję.
+2909661	epo	Mi povas montri al vi ankoraŭ ion alian.
+2909662	epo	Mi venis por diri ion al vi.
+2909663	epo	Mi venis por doni ion al vi.
+2909664	tur	Eskiden babalara saygı vardı.
+2909665	epo	Jen io, kion Tomo faris por vi.
+2909666	pol	Między Tomem a Mary zgrzytało.
+2909667	pol	Jak myślisz, ile ona ma lat?
+2909668	pol	Wyjeżdżałeś gdzieś?
+2909669	epo	Tomo ekdiris ion, sed repripensis ĝin.
+2909670	pol	Jak ich odróżniasz?
+2909671	ita	Mi piace mangiare il cibo coreano.
+2909672	ita	A me piace mangiare il cibo coreano.
+2909673	epo	Tiam Jesuo, alveninte de Galileo al Jordano, iras al Johano, por esti baptata de li.
+2909674	pol	Nie umiem na to pytanie odpowiedzieć.
+2909675	ita	Voglio mangiare qualcosa di coreano.
+2909676	ita	Io voglio mangiare qualcosa di coreano.
+2909677	epo	Mi preparu min por la lernejo.
+2909678	pol	Lubię kuchnię koreańską.
+2909680	pol	Muszę się przygotować do szkoły.
+2909681	epo	Roberto ŝake venkis Jakobon.
+2909682	epo	Johano staris sola kun la brakoj krucitaj.
+2909684	epo	Mi preferas esti sola.
+2909685	pol	Wręczył mi bukiet kwiatów.
+2909687	epo	Vi genuis.
+2909688	pol	Nie chcesz iść?
+2909690	epo	Mia korpuso estas mia!
+2909691	pol	Milcz!
+2909692	epo	Mi sciis, ke vi ne kapablas ĝin fari.
+2909693	pol	Nie wkładaj wszystkich jajek do jednego koszyka.
+2909695	pol	Bardzo dziękuję za pożyczenie parasola.
+2909696	rus	Либо пан, либо пропал.
+2909697	ita	Studiare il francese è molto divertente.
+2909698	por	Ou vai ou racha.
+2909699	ita	Milioni di persone in tutto il mondo piangono la scomparsa di Nelson Mandela.
+2909700	ita	Milioni di persone in tutto il mondo stanno piangendo la scomparsa di Nelson Mandela.
+2909701	epo	La ĝermo de revolucio estas subpremado.
+2909702	ita	Milioni di persone in tutto il mondo stanno piangendo la morte di Nelson Mandela.
+2909703	ita	Lavoro solo per andare in vacanza.
+2909704	ita	Io lavoro solo per andare in vacanza.
+2909705	epo	Oni povas korpe fuĝi, sed oni neniam fuĝas el siaj problemoj.
+2909706	ita	Lavoro solamente per andare in vacanza.
+2909707	ita	Io lavoro solamente per andare in vacanza.
+2909708	ita	Lavoro soltanto per andare in vacanza.
+2909709	ita	Io lavoro soltanto per andare in vacanza.
+2909710	epo	Ni soifis.
+2909711	deu	Der Keim der Revolution ist Unterdrückung.
+2909712	epo	Mi pensis, ke vi havas taskojn.
+2909713	epo	Ni sentis kompaton al ŝi.
+2909714	ita	C'è troppa gente che non sa guidare in giro!
+2909715	ina	O devenir senior o perder toto.
+2909716	epo	Ni kompatis ŝin.
+2909717	ita	È piuttosto grave che io la stia cantando da più di mezz'ora.
+2909718	mhr	Мый сад олма гыч повидлым шолтышым.
+2909719	rus	Из садовых яблок я сварила повидло.
+2909720	epo	Li iris al la domo, antaŭ ol decidi, ĉu li aĉetos ĝin.
+2909721	ita	Ho divorziato tre volte.
+2909722	ita	Io ho divorziato tre volte.
+2909723	eng	Tom said that he wanted to forget about it.
+2909724	mhr	Тидым ик еҥ веле ужын – мый.
+2909725	epo	Mi ne povas esprimi, kiom mi ĝojas, ke vi vizitis nin.
+2909726	rus	Это видел только один человек - я.
+2909727	mhr	Шке пиалжым Шамтий еҥ ойго дене ынеж чоҥо.
+2909728	epo	Mi neniam havis amikojn kiel vin antaŭe.
+2909729	rus	Шамтий не хочет строить своё счастье на чужом горе.
+2909730	mhr	Мом тудо ужеш?
+2909732	epo	Li sentis sin kiel hejme.
+2909733	mhr	Тудын нерген газетыштат коклан возат, шошым ик гана телевидений денат ончыктеныт.
+2909734	rus	О нём иногда пишут и в газетах, весной один раз показывали и по телевидению.
+2909735	epo	Nenio estas malpli certa.
+2909737	rus	Любого за пояс заткнет.
+2909738	epo	Mi revis pri vi lastan nokton.
+2909739	por	Ele bota qualquer um no chinelo.
+2909740	epo	La pli junaj estas ĝenerale la pli belaj.
+2909741	mhr	Оксина шӱйышкӧ логарвидышым сакыш, шеҥгеке кок кылжым ушен кылден.
+2909742	rus	Оксина надела шейное украшение, завязав его сзади на тесёмки.
+2909743	epo	Ŝnurego estis ĵetita en akvon.
+2909744	epo	Ŝnuregon oni ĵetis akven.
+2909745	epo	Ili trompis siajn edzojn.
+2909746	epo	Ĉu vi memoras, kiamaniere ni konatiĝis?
+2909747	mhr	Ала-кӧмат уштӧ йымакыже кыстыра.
+2909748	epo	La lango mensogas, ne la okuloj.
+2909749	mhr	Йыван шинчам почын ончале – пӧлемыште нигунам уждымо еҥ шогылтеш.
+2909750	rus	Йыван открыл глаза - в комнате стоял совершенно незнакомый человек.
+2909751	mhr	Нуно воштылыныт тудын йоҥылышыжлан.
+2909752	mhr	Юмо сандылыкым тӱзатен, еҥ - олам.
+2909753	epo	La langon de mensogulo kontraŭdiras ties okulo.
+2909754	epo	Li eĉ ne helpis lin.
+2909755	mhr	Мый шарнем, мом тудо каласыш.
+2909756	rus	Несмотря на неимоверные усилия, мы не смогли прийти к договорённости.
+2909758	rus	На смелого собака лает, а трусливого кусает.
+2909759	por	O cão late para o valente e morde o covarde.
+2909760	mhr	Ала-мыняр тыршышна гынат, каҥаш дек лишем ышна керт.
+2909761	epo	Vi estas nur aroga fremdulaĉo, kiu asertas ke lia vortaro ĝustas, dum vi eĉ ne komprenas la nuancojn de la japana.
+2909762	mhr	Тудын ош пырысыже уло.
+2909763	mhr	Мый тиде группын мурыжым колыштам.
+2909764	mhr	Тол куд шагат деч вара!
+2909765	ina	Le can latra al homine coragiose, e illo morde le coarde.
+2909766	mhr	Тудо кандаш ияш.
+2909767	mhr	Мыланна тиде пашам ик кечыште пытарыман.
+2909768	rus	Чем отличается телефонная трубка от премьер-министра? Трубку можно повесить, если ошибся номером.
+2909769	epo	Mi deziras paroli la germanan.
+2909770	mhr	Кунам мый кугемам, мый анличан йылмым туныктышо лиям.
+2909771	mhr	Вучалте куд шагат марте.
+2909772	rus	Он выдавливает пасту из тюбика.
+2909773	epo	Mi scias, kial vi ne volas paroli, ankaŭ mi ne volas paroli kun vi.
+2909775	mhr	Тиде эҥер?
+2909776	epo	Mi manĝis panon kaj buteron ĉi-matene.
+2909777	epo	Li alportas panon kaj buteron hejmen.
+2909778	heb	הוא דחס את משחת שיניים מהשפופרת.
+2909779	mhr	Мый ом керт.
+2909780	mhr	Кудо шинчаже тыйын коршта?
+2909781	epo	Pano estas fabrikita el faruno.
+2909782	mhr	Тендан иктаж-могай йодышда уло?
+2909783	kan	ಒಂದು ಕಾಫಿ ಕುಡಿಯುವುದಕ್ಕೆ ಹೊರಗೆ ಹೋಗುತ್ತೇನೆ
+2909784	mhr	Мый шоҥго ковайлан корным вончаш полшышым.
+2909786	mhr	Тау тыланда, чеверын!
+2909787	por	O diabo não é tão feio como o pintam.
+2909788	mhr	Нигунам уждымо пайрем лиеш, маныт.
+2909789	rus	Говорят, что это будет невиданный праздник.
+2909790	mhr	Мо мия луымшо каналыште?
+2909791	deu	Je niedriger der Druck, umso niedriger ist der Siedepunkt.
+2909792	mhr	Тудо радио дене тидым колын.
+2909793	hun	Utálok egyedül enni.
+2909794	rus	Том уснул за рулём.
+2909795	mhr	Мылам ик увертыш лийын, туге огыл мо?
+2909796	ina	Le diabolo non es tanto timibile como on le pictura.
+2909797	hun	Nem mindig könnyű megkülönbözteti a jó könyvet a rossztól.
+2909798	mhr	Мо тылат кӱлеш?
+2909799	hun	Megittál három csésze kávét.
+2909800	mhr	Тудо ӱдыржыран у тувырым налын пуэн.
+2909801	hun	Kati nem nagyon jól néz ki, bizonyára beteg.
+2909802	mhr	Омсам петыре-ян.
+2909803	mhr	Тиде мыйын пашам огыл.
+2909804	mhr	Мый вес тылзын Австралийыш каем.
+2909805	hun	Hálás vagyok a segítségedért.
+2909806	hun	Ez egy jó terv.
+2909807	mhr	Мылам тиде кызытак кӱлеш.
+2909808	jpn	タトエバでは自分の母語についても多くを学ぶことができる。
+2909809	hun	Ez az utolsó alkalom.
+2909810	hun	Te vagy az egyetlen számomra.
+2909812	hun	Fogadok, hogy Jani megkapja ezt az állást.
+2909813	epo	Mi bedaŭras, sed la respondo estas "Ne".
+2909814	mhr	Йӱр кызыт гына чарныш. Ме каен кертына.
+2909815	epo	Ili diras, ke la onklo laboris por ili.
+2909816	mhr	Чеверын.
+2909817	epo	Onidire mia onklo laboris por ili.
+2909818	mhr	Тудын шуко книгаже уло.
+2909819	mhr	Пеленем оксам укеат дыр.
+2909820	tlh	jItaHtaHvIS qaQaHtaH.
+2909821	mar	त्याला दुसरा मार्ग शोधावा लागला.
+2909822	jpn	いつまで過去の栄光にしがみついてんだよ。
+2909823	mhr	Мый йӧршын малаш кайынем ыле, как телефон йынгырташ тӱҥале.
+2909824	mar	आई स्वयंपाकघरात जेवण तयार करत आहे.
+2909825	rus	Храброму смерть не страшна.
+2909826	tlh	jItaHtaHvIS not ghaH neH vIlIj.
+2909827	por	Ao intrépido a morte não parece uma coisa terrível.
+2909828	jpn	トムはパンに苺ジャムを塗った。
+2909829	tlh	jItaHtaHvIS not ghaH vIlIj.
+2909830	mhr	Тудо марийжым ок йӧрате.
+2909833	mhr	Тиде палемдалтмаш мом ончыкта?
+2909834	mhr	Мылам тиде кӱлеш.
+2909835	ina	Al homine brave le morte non es alique timibile.
+2909836	mhr	Мый шонем, тудо чынле ӱдырамаш.
+2909837	mhr	Тендан шулдырак номерда уло?
+2909838	mhr	Мый машинам кондыштарен моштем.
+2909839	por	O medo faz tudo maior.
+2909840	mhr	Ачам футболым ок йӧрате.
+2909841	mhr	Мый палем, мом тый шонет.
+2909842	deu	Bei Tatoeba kann man auch viel über die eigene Muttersprache lernen.
+2909843	tlh	pa' Dapawpa' vIpaw.
+2909844	ina	Al oculos del pavor toto es grande.
+2909845	mhr	Мемнан кок пий, кум пырыс да куд чывиге.
+2909846	mhr	Кунам тый шочынат?
+2909847	ang	Wilcume be Tatoeba
+2909848	pol	Weź parasol.
+2909849	pol	Harajuku to jedno z najbardziej gwarnych miejsc w Tokio.
+2909850	mhr	Кеҥеж тӱҥалтышыште гына лий наймык йӱр, тугае йӱр – эсогыл чывигат аваж йымак ыш пуро.
+2909851	rus	Лишь в начале лета моросил мелкий дождь, такой, что даже цыплята не прятались под крылышки матери.
+2909852	rus	Боится его как чёрт ладана.
+2909853	por	Ele o teme como o diabo a cruz.
+2909854	mhr	Мый олаш каем.
+2909855	mhr	Ик лаштык кагазым кондо-ян.
+2909856	epo	Ĉu mi rajtas matenmanĝi ĉi tie?
+2909857	mhr	Мый палем, мом ме ыштен кертына.
+2909858	ina	Ille time le como le diabolo time le incenso.
+2909859	mhr	Мый кевытыш эрдене коштам.
+2909860	mhr	Тиде мыйын паша адрес.
+2909861	mhr	Овдан шӱргешыже кумдыкеш кӱрен наймык пун налын.
+2909862	rus	Лицо овды полностью покрыто мягкими коричневыми волосами.
+2909863	mhr	Те ынеда кае мо?
+2909864	mhr	Тый ынет кае мо?
+2909865	mhr	Мыняре кочкеш гынат, тудо огеш кояҥ.
+2909866	mhr	Тудо пеш писын кая.
+2909867	mhr	Тыште вучо.
+2909868	mhr	Мый Тендам муынам.
+2909869	mhr	Саҥгашкыже чӱнча лектын пытен.
+2909870	rus	Лоб у него весь в угрях.
+2909871	mhr	Кузе тый тудын дене палыме лийыч?
+2909872	ita	Nulla fa sentire meglio dell'innamorarsi e dell'essere ricambiati. E nulla è peggio dell'innamorarsi e del ricevere un netto rifiuto.
+2909873	epo	Nenio igas senti sin pli bone ol enamiĝi kaj esti reciprokataj. Kaj nenio estas pli malbona ol enamiĝi kaj ricevi klaran rifuzon.
+2909874	eng	I will buy a new game-software,so that I save peny from today.
+2909875	ita	Ma perché esiste gente così stupida?
+2909876	rus	В окне горел свет.
+2909877	epo	Se mi amas vin, gardu vin!
+2909878	epo	Ama plezuro daŭras nur momenton. Ama ĉagreno daŭras la tutan vivon.
+2909879	spa	A mi abuelo le gusta acostarse y levantarse temprano.
+2909880	spa	Este es su auto, creo.
+2909882	spa	Sucedió algo horrible.
+2909883	spa	Algo terrible ha sucedido.
+2909884	epo	La reĝino tiam, ĝiskore tuŝata, de fajro sekreta ardigas la flamon.
+2909885	spa	¿Cuánto duró la Guerra de los Cien Años?
+2909886	epo	Mi esperas ĉesi fumi.
+2909887	spa	Quédate y bebe algo con nosotros.
+2909888	por	A primavera vai chegar logo.
+2909889	spa	¿Dónde los leíste?
+2909890	ita	È fantastica questa città.
+2909891	spa	Perdona que te interrumpa.
+2909893	spa	¿Cuántos tractores has vendido en la última semana?
+2909894	spa	Ambos están muertos.
+2909895	spa	Ambas están muertas.
+2909896	por	Vou esperar por ti aqui.
+2909897	tgl	Uminom ako ng tubig dahil nauuhaw ako.
+2909898	ita	Solitamente mangiamo prima delle sette.
+2909899	ita	Noi solitamente mangiamo prima delle sette.
+2909900	ita	Di solito mangiamo prima delle sette.
+2909901	ita	Noi di solito mangiamo prima delle sette.
+2909902	tgl	Nasugatan ang lolo ko sa digmaan.
+2909903	eng	I thought you might be the only person who would listen to me.
+2909904	tgl	Inalagaan tayo ng ating mga magulang at ngayon tayo naman ang aalaga sa kanila.
+2909905	eng	Bill is always honest.
+2909906	epo	Li parolis kun pipo en la buŝo.
+2909907	epo	Ŝi ne estas tiel bela, kiel ŝia pli aĝa fratino.
+2909908	epo	La milito estas la ĉefmotoro de la historio.
+2909909	epo	Viaj stultaĵoj igas min freneza!
+2909910	epo	Ili longe vivadis kaj havis multajn infanojn.
+2909911	pol	Moja mama wierzy w Chrystusa.
+2909912	pol	Ona zawiesiła pranie na sznurze.
+2909913	lat	Puto hanc raedam tuam esse.
+2909914	lat	Uterque mortuus est.
+2909915	lat	Utrumque mortuum est.
+2909916	lat	Utraque mortua est.
+2909917	lat	Ubi ea legisti?
+2909918	lat	Ubi eos legisti?
+2909919	lat	Potesne eum aperire?
+2909920	lat	Potesne id aperire?
+2909921	lat	Licetne tibi eum aperire?
+2909922	lat	Licetne tibi id aperire?
+2909923	por	Bill é sempre honesto.
+2909924	por	Tom disse que queria se esquecer disso.
+2909925	por	Durante a gravidez, os três primeiros meses são os mais críticos.
+2909926	por	Um tal de senhor Sakaki veio te ver.
+2909927	por	Só cinquenta pessoas vieram.
+2909928	por	Eu sei por que você não quer conversar. Eu também não quero conversar com você.
+2909929	por	Eu vou levar pelo menos uma hora para chegar lá.
+2909931	spa	Su esposa lo acompaña adondequiera que él vaya.
+2909932	por	A liberdade é inútil a menos que você a use.
+2909933	por	Por que coisas ruins acontecem?
+2909934	por	Estou com ele há muito tempo.
+2909935	por	Está se sentindo cansado?
+2909936	por	Está se sentindo cansada?
+2909937	por	Um amigo me contou sobre Tatoeba.
+2909938	deu	Sie sind jung und gesund.
+2909939	por	Estudar francês é muito divertido.
+2909940	por	Há quatro homens e três mulheres em nossa casa.
+2909941	por	Eu ensino Geografia.
+2909942	por	Tom levou Mary ao hospital.
+2909943	deu	Ich bin Erdkundelehrer.
+2909944	por	A criança vomitou.
+2909945	por	É a coisa mais difícil que eu já fiz.
+2909946	por	Acho que é melhor eu ir!
+2909947	por	Nós nos veremos novamente.
+2909948	por	Tom vem de outra dimensão.
+2909949	deu	Ich habe keine englische Tastatur.
+2909950	por	Você está dentro?
+2909951	rus	Я преподаю географию.
+2909952	por	Eu disse: "Não estou interessado."
+2909953	por	Não acho que esteja pronto para um relacionamento.
+2909954	por	Não acho que esteja pronta para um relacionamento.
+2909955	por	Eu não estou pronto para um relacionamento.
+2909956	rus	Вы внутри?
+2909957	por	Eu não estou pronta para um relacionamento.
+2909958	por	Eu adoraria, mas estou ocupado.
+2909959	por	Eu adoraria, mas estou ocupada.
+2909960	deu	Unsere Pässe wurden ungültig gemacht.
+2909961	por	Eu não gosto de você e nunca gostarei.
+2909962	por	Sinto muito, mas a resposta é não.
+2909963	por	Sinto muito, mas minha resposta é não.
+2909964	por	As mulheres não são objetos.
+2909965	por	Desta vez, estou falando sério.
+2909966	por	"Você é tão bonita. Qual é seu nome?" "Cuide da sua vida."
+2909967	por	Diga-me algo que eu ainda não saiba.
+2909968	por	Conte-me algo que eu ainda não saiba.
+2909969	deu	Maria wurde mit vier Jahren ein Waisenkind.
+2909970	por	Acho que é uma questão muito interessante.
+2909971	por	Ela nasceu em Ohio.
+2909972	por	Ela pediu minha renúncia.
+2909973	por	Ele pediu minha renúncia.
+2909974	epo	Mi pensas, ke vi estas amuzaj.
+2909976	por	A mim, parece-me a única opção.
+2909977	epo	Mi estas nuntempe vere okupata.
+2909978	por	Você não será ferido.
+2909979	deu	Sage ihnen, dass hier jemand nach ihnen gefragt hat.
+2909980	por	Por que as pessoas são tão cruéis?
+2909981	por	Você não será ferida.
+2909982	por	Ele não é meu amigo; é meu inimigo.
+2909983	por	Ela não é minha amiga. Eu a odeio.
+2909984	epo	Malsuprenigu vian fenestron!
+2909985	epo	Li havas tri fratinojn. Unu loĝas en Tokio, la ceteraj en Nagojo.
+2909986	epo	"Ĉu vi povus ĝin fari anstataŭ mi?" - "Bedaŭrinde, mi estas tro okupata".
+2909987	por	Eu me importo muito com ele.
+2909988	por	Eu me importo muito com ela.
+2909989	por	Não nos falamos há anos.
+2909990	epo	"Mi ne ŝatas karotojn." - "Ankaŭ mi ne."
+2909991	deu	Bildung besteht nicht nur aus dem Lernen von Fakten.
+2909992	epo	Por valorigi mian sperton pri vojaĝoj, mi starigis vojaĝagentejon.
+2909993	spa	Tom puede decir "yo solo hablo francés" en treinta idiomas.
+2909994	deu	Tom hat Mary beleidigt, deshalb ist sie so aufgebracht.
+2909995	epo	Mia opinio ofte estis malsama al tiuj de miaj gepatroj.
+2909996	spa	Todo el país está hablando de eso.
+2909997	epo	Ne atendu min por vespermanĝi.
+2909998	ita	Puntiamo all'immortalità.
+2909999	epo	La kato estas beleta.
+2910000	epo	Kie vi vin kaŝis?
+2910001	epo	Kial ni ne povas fari ion?
+2910003	epo	Mi ne pagas viajn salajrojn.
+2910004	epo	Ne necesas rakonti mensogojn al mi mem.
+2910005	epo	Li estas persono fame konata ĉe la televido.
+2910006	swe	Min bror slog igen dörren med en smäll efter sig när han gick.
+2910008	epo	Kiu mi estas, De kie mi venas? Ĉu estas vivo post la morto? Kiun sencon havas la surtera vivo?
+2910009	epo	Tomo estas maniulo.
+2910010	epo	Mi ne povas diferencigi tion ĉi disde tio.
+2910011	epo	Brilo, oro kaj gloro ofte mankas en la posta tago.
+2910012	epo	Lin trafas urtikario, kiam li manĝas ovojn.
+2910013	mar	आम्ही सर्व चाललोय.
+2910014	mar	आपण सर्व चाललोय.
+2910015	epo	Mi aĉetis brakhorloĝon kaj la postan tagon mi perdis ĝin.
+2910016	mar	टॉम तुरुंगातून बाहेर पडला.
+2910017	mar	लोकं बहुधा वाचताना झोपून जातात.
+2910018	epo	Vi tute ne scias, kiel tio efektas.
+2910019	deu	Sie hatte zu früh Erfahrungen mit fleischlichen Begierden.
+2910021	epo	Kie troviĝas la kato?
+2910022	epo	Mi deziras kandidatiĝi.
+2910024	mar	टॉम त्याच्या डाव्या हाताने लिहितो.
+2910025	epo	Mia filino havis cerban komocion.
+2910026	epo	Tomo ne primoku Manjon.
+2910028	epo	Oni diris al mi, ke mi iom atendu.
+2910029	mar	मी बियर पीत नाही.
+2910030	mar	युरिको हिमेकुसाने आत्महत्या केली.
+2910032	epo	Pozidono koleras.
+2910033	epo	Kompare kun hieraŭ, la vetero pli belas hodiaŭ.
+2910034	ita	Ho cucinato la cena ieri sera.
+2910035	ita	Io ho cucinato la cena ieri sera.
+2910037	epo	Li soifos.
+2910039	fra	On utilise le verbe « faire » à toutes les sauces en français.
+2910040	ita	La domestica non ha ancora rifatto la stanza.
+2910041	ita	La domestica non ha ancora rifatto la camera.
+2910042	fra	Je fais la cuisine.

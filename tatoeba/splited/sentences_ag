@@ -1,34 +1,3 @@
-313389	eng	She cried and cried, but no one came to comfort her.
-313390	eng	She was beside herself with rage.
-313391	eng	She was fired on the grounds that she was often absent.
-313392	eng	She is none the less beautiful for her faults.
-313394	eng	I cannot help loving her in spite of her many faults.
-313395	eng	She would by no means tell a lie.
-313396	eng	She protested to me that she had never done such a thing.
-313397	eng	She is by no means stupid.
-313398	eng	She is by no means selfish.
-313400	eng	She is proud of never having been late for school.
-313401	eng	She is never late for school.
-313402	eng	She is no stranger to me.
-313403	eng	She was by no means happy.
-313405	eng	She is far from honest.
-313406	eng	She is by no means angelic.
-313408	eng	She can never keep a secret.
-313409	eng	She is by no means beautiful.
-313410	eng	She is no ordinary student.
-313411	eng	She is by no means polite.
-313412	eng	She was satisfied with the result.
-313413	eng	She did not turn up after all.
-313414	eng	She didn't telephone after all.
-313415	eng	She went back to England in the end.
-313416	eng	She didn't buy the ticket after all.
-313417	eng	She ended up getting married to him.
-313418	eng	She didn't come after all.
-313420	eng	She is disposed to get married.
-313421	eng	I wonder if she is married.
-313422	eng	She will be happy when she gets engaged.
-313423	eng	Is she married?
-313424	eng	She isn't married.
 313426	eng	She went to college after she got married.
 313427	eng	Her marriage brought happiness to her parents.
 313428	eng	I have half a mind to marry her.
@@ -514,7 +483,7 @@
 313962	eng	She loved her children alike.
 313963	eng	Child as she was, she was not afraid.
 313964	eng	Child as she was, she was brave.
-313965	eng	Child as she is, she can act wisely.
+313965	eng	Though she is a child, she can act wisely.
 313966	eng	She bought a nice toy for her child.
 313967	eng	She bought a toy for her child.
 313968	eng	She had an itch to see her child.
@@ -4764,7 +4733,7 @@
 318618	eng	Misfortunes always come in threes.
 318619	eng	Misfortune never come single.
 318621	eng	The bad harvest caused massive food shortages.
-318622	eng	Drought was credited with the poor crop.
+318622	eng	The drought was blamed for the poor crop.
 318624	eng	Strange to say, he did pass the exam after all.
 318625	eng	Strangely enough, he failed.
 318627	eng	The marvel is that he knew it.
@@ -4901,7 +4870,7 @@
 318770	eng	The top of Mt. Fuji was covered with snow.
 318771	eng	Mt. Fuji is 3776 meters high.
 318772	eng	Mt. Fuji is not as high as Mt. Everest.
-318773	eng	Mt. Fuji was very fantastic.
+318773	eng	Mt. Fuji is fantastic.
 318774	eng	Mt. Fuji is known to everyone.
 318775	eng	Mt. Fuji was above the clouds.
 318776	eng	Mt. Fuji is noted for its beautiful shape.
@@ -8043,7 +8012,7 @@
 322312	eng	I gave my sister a pearl necklace on her birthday.
 322313	eng	My sister's hair reaches to her shoulders.
 322314	eng	My sister can play the piano better than I can.
-322315	eng	My sister did not say "Hello".
+322315	eng	My sister did not say "Hello."
 322316	eng	My sister asked me to teach her how to ski.
 322317	eng	My sister never fails to write home once a month.
 322318	eng	My sister is twenty-one years old and a college student.
@@ -8469,7 +8438,6 @@
 322794	eng	We agreed to the plan without qualification.
 322796	eng	The irreligious scoffed at the bishop's interpretation.
 322797	eng	Thousands of small businesses went under during the recession.
-322798	eng	Like bullets smashing glass in a silent movie.
 322799	eng	It seems appropriate to apply these rules to the voiceless consonants.
 322800	eng	It's useless to try and resist.
 322801	eng	I do not want to exert myself in vain.
@@ -11266,7 +11234,6 @@
 325927	eng	An apple is round in shape.
 325928	eng	The apple was cut in two by her with a knife.
 325929	eng	Messrs. Hayashi & Co. is our sole agent in Japan.
-325931	eng	Rise to the occasion.
 325932	eng	The couple next door are fighting again.
 325933	eng	I just couldn't put up with the man smelling of whisky sitting next to me.
 325934	eng	May I sit next to you?
@@ -11993,7 +11960,7 @@
 326738	eng	The Niagara Falls are famous as a world leading tourist resort.
 326739	eng	"Short tempered as ever." He said while dodging Reika's fist.
 326740	eng	"You've sprained your ankle and can't walk can you?" "No, I'm fine! I can move forward at a crawl!"
-326741	eng	"I'm too old to be playing with bugs", said the boy.
+326741	eng	"I'm too old to be playing with bugs," said the boy.
 326742	eng	"How are things going?" "Terrific. Income and profit are continuing to rise steadily."
 326743	eng	"Prospects for repair?" "Prof. Shubaishen, the leader of the system development team, is presently unwell so we think it will take a while longer ..."
 326744	eng	"I'm not angry. Look, see this smiling face?" "That's what they call a forced smile!"
@@ -12365,7 +12332,7 @@
 327120	eng	I'm afraid I can't do that. Leaving the cooker while frying is completely out of the question.
 327121	eng	I just roughly allocated it to each function.
 327122	eng	The work required to investigate that is boring and wearisome.
-327123	eng	It itself that's a cause for celebration but there was one comment that bothers me.
+327123	eng	This is a really good thing, but one comment keeps bothering me.
 327124	eng	If you're looking that sleepy I think anybody could tell.
 327125	eng	It is human nature to be bugged by such things.
 327127	eng	I didn't request you to do that.
@@ -12393,7 +12360,7 @@
 327150	eng	It is a consolation that no one was killed.
 327151	eng	The taxi collided head-on with a dumpster truck and was badly crushed.
 327152	eng	Incidentally a motorway ramp is being constructed in the neighbourhood, a few hundred metres away, of my clinic.
-327153	eng	Incidentally this room doesn't have anything like an air-conditioner. All it has is a fan.
+327153	eng	Incidentally, this room doesn't have anything like an air-conditioner. All it has is a fan.
 327154	eng	By the way, this week - no matter what flags are set - it's a certainty that there will be no ecchi scenes. You'll just have to bear with it a while.
 327155	eng	By the way, it also works with the wheel of a wheel mouse.
 327156	eng	By the way, my English is absolutely hopeless.
@@ -12512,7 +12479,7 @@
 327270	eng	Pale ale is a low-alcohol beer.
 327271	eng	Phppt! That's what you get for laughing at a girl!
 327272	eng	Get off me you little pest!
-327273	eng	Having been informed that plywood is sufficient I will be making it as taught with plywood.
+327273	eng	Having been informed that plywood is sufficient, I will make it with plywood, as instructed.
 327274	eng	Helen's words suddenly filled me with new energy.
 327275	eng	If the distance you move the pen is too small, the speed too slow, it can't recognize the gestures well and you can't operate it in the way you thought.
 327276	eng	The boiler was heavily scaled.
@@ -12671,7 +12638,7 @@
 327431	eng	If there are past exam questions then I think it would be best to give them a quick look over.
 327432	eng	I slithered down the muddy slope.
 327433	eng	We must be a step ahead of the times in our outlook.
-327434	eng	To make use of the nursing service provided by nurse-care insurance the necessity of nursing has to be recognized (nurse-care requirement authorization).
+327434	eng	In order to make use of the nursing services covered by long-term care insurance, an authorization form indicating their necessity must be filled out.
 327435	eng	The company is operating under joint Sino-Japanese management.
 327436	eng	I told my boss over the phone that I would be going straight home without returning to the company.
 327437	eng	I got the sack but I've a little saved up, so for the time being I won't be troubled by living expenses.
@@ -12797,7 +12764,7 @@
 327561	eng	Right now my score in Cooking is about 45 out of 100. Great isn't it? That's not a fail!
 327562	eng	It's OK, that doesn't count.
 327563	eng	Fred's agitation has now subsided, and he's sleeping peacefully.
-327564	eng	I came to know the man who is now my husband through e-mail; from an acquaintanceship started in that odd way before a month had passed we found ourselves resolving to get married.
+327564	eng	I came to know the man who is now my husband through e-mail; from an acquaintanceship started in that odd way, before a month had passed, we found ourselves resolving to get married.
 327565	eng	Was your mock exam score this time within the pass range for your preferred school?
 327566	eng	This time I stayed for the first time in a private villa, and it was really quite something.
 327567	eng	For some reason it looks to be turning out to be a depressing week.
@@ -13313,7 +13280,7 @@
 328089	eng	We finally arrived at the ski hill... the snow had turned into rain.
 328090	eng	We introduce you to the entire line up of songs that made it into The Best Ten.
 328091	eng	In fact, I've heard that long hair is more likely to go bald!
-328092	eng	I'm taking care of it. You can relax, you can rely on me.
+328092	eng	I'm taking care of it. You can relax. You can rely on me.
 328093	eng	Well, we're neighbours. I'll be popping over all the time.
 328094	eng	That's no good! You're tall so you've got to be in the forward defence.
 328095	eng	Where did you come up with the idea that I'm familiar with robotics and such I wonder?
@@ -13385,7 +13352,6 @@
 328161	eng	That was another impressive fall-flat-on-your-face ... Hey, you alright, Sophie? Can you stand?
 328162	eng	That's not what I meant. I'm not being sexist. Men and women are just different.
 328163	eng	The other day when I stopped by at a friend's house, it wasn't my friend that came out of the front door, but her husband.
-328164	eng	It was your cousin. Second year, current member of student council, club activity is basketball, working as vice captain.
 328165	eng	I've set the stage so now you just have to show some guts, OK?
 328166	eng	"That's dangerous, I'll clear it up." "It's OK ... Ouch!" "Look, didn't I tell you so?"
 328167	eng	If you're with me as a staff officer then I need you to bring a sense of danger with you to your work.
@@ -13414,7 +13380,6 @@
 328194	eng	About the same time as he entered the classroom and arrived at his seat, the chime to announce class rings across the school.
 328195	eng	That's because they're the classic places for 'something' to appear. Like the grand piano that plays by itself, the human anatomical model that moves by itself ...
 328196	eng	Businesses perceive as competitors a narrow range of the business world; there are many cases where they don't understand their real rivals.
-328197	eng	If your ability to accomplish a job does not exceed the peak (hump), on the difficulty scale for one job (project), then no matter how long you wait it will not be solved.
 328198	eng	"I might like to know about your relations with men." "Relations with men?" "Things like who you get on well with, who you've dated and such."
 328199	eng	There were long desks lined up, several pipe chairs, and stuck on the bulletin board were a calendar and several printouts.
 328200	eng	"Did I really sigh?" "While giving out an aura of unhappiness."
@@ -13497,7 +13462,7 @@
 328278	eng	They also teach that, for great sins, they cannot receive forgiveness unless they confess to their leader.
 328279	eng	You're Daisho? Up till now you've really lorded it over us haven't you?
 328280	eng	Quit your bellyaching. You goin' to do it, or not!?
-328281	eng	Which will he choose I wonder, Martial arts or death?
+328281	eng	Which will he choose I wonder, martial arts or death?
 328282	eng	I'm begging you, before freaking out on me listen to the end of what I have to say.
 328283	eng	Apprenticeship is a system where you eat, sleep and live with your master and are taught various martial arts know-how and secrets.
 328284	eng	When I see typos I lose interest in answering.
@@ -13526,7 +13491,7 @@
 328307	eng	"The old lady of this shop is very unsociable but ..." "Taiki, I can hear you!" "Ack!"
 328308	eng	Having said it, Mayu hangs her head in embarrassment.
 328309	eng	Even so ... she didn't have to slap me!
-328310	eng	"But, we're brother and sisters aren't we!?" "In name we are."
+328310	eng	"But we're brother and sisters, aren't we?!" "In name we are."
 328311	eng	One more thing. If you try anything on Mayu I'll break your spine.
 328312	eng	Never mind that. More importantly, if we don't go soon the time-limited sales will finish.
 328313	eng	A load of 100 kilograms is the max.
@@ -14598,7 +14563,7 @@
 329388	eng	There are frequent instances of malicious door-to-door selling, such as pushing water purifiers on people after carrying out water quality tests without permission.
 329389	eng	There's also a great deal of so called behind-the-scenes work.
 329390	eng	Good doctors explain things to patients in easily understandable ways, using anatomical models and such.
-329391	eng	"The Nightingale Samurai" A samurai tale full of humanity and humour.
+329391	eng	"The Nightingale Samurai" is a samurai tale full of humanity and humour.
 329392	eng	First, try to confirm the timing by oscilloscope.
 329394	eng	When the counter value reaches the assigned 'lucky-number' it displays a congratulatory message.
 329395	eng	This year again I found a number of dodgy goods so I'll introduce them all here.
@@ -14656,7 +14621,7 @@
 329448	eng	The person who opened the door and came in was an utter stranger.
 329449	eng	I also, same as you, don't trust Yahoo Auction ratings.
 329450	eng	Keiko isn't as tall as I.
-329451	eng	I used to smoke, I was quite a heavy smoker.
+329451	eng	I used to smoke. I was quite a heavy smoker.
 329452	eng	I trust that China will go on to take a more active part.
 329453	eng	When investigating the pH (acidic, neutral, alkaline) of a liquid, don't soak the litmus paper completely in the liquid but just put the end of the paper in it.
 329454	eng	Since primary school we've been checking for the qualities known as acidity and alkalinity with litmus paper.
@@ -14708,7 +14673,7 @@
 329501	eng	I polished for all I was worth. The trouble is that my stock of low-grade gems was surprisingly low.
 329502	eng	It gets cold in the mornings and evenings, so I want to take care how I dress.
 329503	eng	By the way, I plan to do that for this story's sequel.
-329504	eng	Thinking about those sort of things, I watched "Duck Soup" again.
+329504	eng	Thinking about those sorts of things, I watched "Duck Soup" again.
 329505	eng	I have a facial boil. There's a painful lump at the back of one nostril.
 329506	eng	Between E->J translations and J->E, it appears that more people want English-Japanese translations.
 329507	eng	I was lonely, with nobody to play with.
@@ -22104,7 +22069,7 @@
 337064	fra	La vue de Tokyo de nuit est magnifique.
 337065	fra	Au fait, tu es libre cet après-midi ?
 337066	fra	J'étais habitué à la chaleur.
-337067	fra	Ne vous moquez pas de lui parce ce qu'il a fait une erreur.
+337067	fra	Ne vous moquez pas de lui parce qu'il a fait une erreur.
 337068	fra	Il faut que tu y ailles tout de suite.
 337069	fra	La petite fille n'aimait pas faire la vaisselle.
 337070	fra	C'est absolument impossible.
@@ -22553,7 +22518,7 @@
 337535	ukr	Він ніжно поклав руку на її плече.
 337536	ukr	Його знали всі в селі.
 337537	rus	Его знали все в деревне.
-337538	ukr	Я замовив два гамбурґера.
+337538	ukr	Я замовив два гамбургера.
 337539	rus	Я заказал два гамбургера.
 337540	ukr	Ти знаєш, хто вона така?
 337541	rus	Ты знаешь, кто она такая?
@@ -22597,12 +22562,12 @@
 337579	ukr	В такої людини нічого не може вийти.
 337580	ukr	Джон не знає, що робити далі.
 337581	ukr	Проблема в тому, що це занадто дорого.
-337582	ukr	Я не можу позволити собі даремно потратити хоч одну єну.
+337582	ukr	Я не можу дозволити собі даремно витратити хоч одну єну.
 337583	rus	Я не могу позволить себе зря потратить хоть одну иену.
 337584	ukr	Гора вкрита снігом.
 337585	rus	Гора укрыта снегом.
 337586	ukr	Я попав під дощ і промок.
-337587	ukr	Не вини в цьому її.
+337587	ukr	Не звинувачуй в цьому її.
 337588	rus	Не вини в этом её.
 337589	ukr	Прошу, дайте мені ще один шанс.
 337590	rus	Пожалуйста, дайте мне ещё один шанс.
@@ -22637,7 +22602,7 @@
 337619	ukr	У мене є мрія.
 337620	ukr	Маюко приснився дивний сон.
 337621	rus	Маюко приснился странный сон.
-337622	ukr	Мені приснився жахливий сон.
+337622	ukr	Мені наснився жахливий сон.
 337623	ukr	Іноди мені сниться дім.
 337624	ukr	Наша компанія планує побудувати новий хімічний завод у Росії.
 337625	ukr	Росія зіштовхнулася з серйозними фінансовими проблемами.
@@ -22650,7 +22615,7 @@
 337632	ukr	Китай — найбільша країна в Азії.
 337633	ukr	Китай набагато більший за Японію.
 337634	ukr	У Японії є дипломатичні стосунки з Китаєм.
-337635	ukr	Він вернувся з Китаю.
+337635	ukr	Він повернувся з Китаю.
 337636	ukr	Він написав книжку про порцеляну.
 337637	ukr	Більшість людей, які їдять виделками, живуть в Європі, Північній Америці та Латинській Америці; люди, які користуються паличками для їжі, живуть у Східній Азії, а ті, хто їсть пальцями, живуть у Африці, на Близькому Сході, у Індонезії та в Індії.
 337638	ukr	Корабель перевозить сировину з Індонезії.
@@ -22670,8 +22635,8 @@
 337652	ukr	Біл був у Японії.
 337653	ukr	Це Японія.
 337654	ukr	Я живу в Японії.
-337655	ukr	Я вернувся в Японію.
-337657	ukr	Ласкаво просимо в Японію.
+337655	ukr	Я повернувся до Японії.
+337657	ukr	Ласкаво просимо до Японії.
 337658	ukr	Ірландія відома своїм мереживом.
 337659	rus	Ирландия известна своим кружевом.
 337660	ukr	Тоді Мексика ще не була незалежною від Іспанії.
@@ -22682,12 +22647,12 @@
 337665	ukr	Швейцарія — гарна країна.
 337666	ukr	Швейцарія — нейтральна країна.
 337667	ukr	Це вироблено в Швейцарії?
-337668	ukr	Він поїхав у Швейцарію.
+337668	ukr	Він поїхав до Швейцарії.
 337669	eng	"Trasianka" will be equalized with Belarusian language during the census.
 337670	ukr	«Трасянку» буде прирівняно до білоруської мови під час перепису.
 337671	rus	«Трасянка» будет приравнена к белорусскому языку во время переписи.
 337672	ukr	Вони поїхали в Чікаґо на машині.
-337673	ukr	Я поговорив з батьками про навчання за кордоном.
+337673	ukr	Я поговорив з батьками щодо навчання за кордоном.
 337674	ukr	Знати — це одне, робити — інше.
 337675	ukr	Він чекав на нього до десятої години.
 337676	ukr	Поліція розслідує причину нещасного випадку.
@@ -22701,14 +22666,14 @@
 337684	ukr	Вчора Ви не були в школі.
 337685	ukr	На піджаку є гудзики.
 337686	ukr	Ти можеш взяти цю книгу даром.
-337687	ukr	Вона не красивіша за свою мати.
+337687	ukr	Вона не гарніша за свою матір.
 337688	ukr	Певні види тварин швидко зникають.
 337689	ukr	Немає сумнівів щодо того, кого виберуть.
 337690	ukr	Цього ти хотів?
 337691	ukr	Прошу, сідайте.
 337692	ukr	Це коштувало менше, ніж п'ятнадцять доларів.
 337693	ukr	Мері замкнулася в кімнаті та закрила всі вікна.
-337694	ukr	Підійде любий папір.
+337694	ukr	Підійде будь-який папір.
 337695	ukr	Зручно жити так близько біля станції.
 337696	ukr	Цей роман написав відомий американський письменник.
 337697	ukr	Багато англійськіх слів походить з латинської мови.
@@ -22720,7 +22685,7 @@
 337704	rus	Его родная страна — Грузия.
 337705	rus	У маленького Мартина было достаточно тихое детство в Атланте, штат Джорджия.
 337706	ukr	У Канаді розмовляють англійською?
-337707	ukr	Канада більше, ніж Японія.
+337707	ukr	Канада більша за Японію.
 337708	ukr	У Канаді холодний клімат.
 337709	bel	Злучаныя Штаты мяжуюць з Канадай.
 337710	ukr	Забронюйте, будьте ласкаві, кімнату біля міжнародного аеропорту в Торонто.
@@ -22766,7 +22731,7 @@
 337751	heb	הצעירים בדרך כלל מלאי אנרגיה.
 337752	rus	Майку нравится играть в баскетбол.
 337753	ukr	Майку подобається грати у баскетбол.
-337754	ukr	Квочка висиджувала яйця один тиждень.
+337754	ukr	Квочка висиджувала яйця протягом одного тижня.
 337755	ukr	Він знає, що ти його кохаєш?
 337756	ukr	Тобі треба тільки прибрати в себе в кімнаті.
 337757	heb	אוי, התקלקל לי המחשב!
@@ -22788,7 +22753,7 @@
 337773	heb	בהתרסקות המטוס נהרגו כל הנוסעים.
 337774	rus	Танабата празднуется в июле.
 337775	ukr	Танабата святкується в липні.
-337776	ukr	Тьфу! Мій комп'ютер знов завис!
+337776	ukr	Тьху! Мій комп'ютер знов завис!
 337777	ukr	Половина яблук гнилі.
 337778	ukr	Тобі почулося.
 337779	ukr	Я якраз думав про нову роботу.
@@ -24294,7 +24259,6 @@
 339305	spa	Él estuvo soltero toda la vida.
 339306	spa	¿Cómo ha llegado él hasta aquí?
 339307	spa	La población de Europa es menor que la de Asia.
-339308	cmn	他跨越了一切障礙，並成功了。
 339309	spa	Cuando me enteré de eso me entraron ganas de gritar.
 339310	spa	Existen escasos pintores como Picasso.
 339311	cmn	漢字很難讀。
@@ -29900,7 +29864,6 @@
 344978	deu	Nur fünfzehn Minuten.
 344979	cmn	眼光放的长远一点就会不一样
 344980	cmn	不必担心。
-344981	cmn	熊為了找肥蟲，把所有石子都翻過了。
 344982	cmn	我吃完晚飯後看電視。
 344983	cmn	我明天回来后会打电话给他们。
 344984	cmn	可以的话你也一起来吧。
@@ -30700,7 +30663,6 @@
 345789	spa	Le acompaño a la estación.
 345790	cmn	看书很有意思。
 345791	spa	¿Qué le pones al café?
-345792	cmn	我永遠不會忘記和你的見面。
 345793	spa	¿Cuántas veces a la semana se recoge la basura en esta ciudad?
 345794	cmn	和我们一起来吧。
 345795	cmn	千萬不要忘記帶教科書。
@@ -30920,7 +30882,6 @@
 346012	cmn	我哥哥已在倫敦住了很多年。
 346013	cmn	我覺得士可殺不可辱。
 346014	cmn	我的心開始快速跳動。
-346015	cmn	正當我以為車會壞掉的時候，我們到達了目的地。
 346016	cmn	他約會總是很守時。
 346017	cmn	她匆忙趕去車站，以免錯過火車。
 346018	cmn	你的想法和她的想法有甚麼不同嗎？
@@ -32641,7 +32602,7 @@
 347795	eng	And this year, in this election, she touched her finger to a screen, and cast her vote; because after 106 years in America, through the best of times and the darkest of hours, she knows how America can change.
 347796	eng	Yes, we can.
 347797	eng	America, we have come so far. We have seen so much. But there is so much more to do. So tonight, let us ask ourselves, if our children should live to see the next century, if my daughters should be so lucky to live as long as Ann Nixon Cooper, what change will they see? What progress will we have made?
-347798	eng	This is our chance to answer that call. This is our moment. This is our time, to put our people back to work and open doors of opportunity for our kids; to restore prosperity and promote the cause of peace; to reclaim the American dream and reaffirm that fundamental truth, that out of many, we are one; that while we breathe, we hope. And where we are met with cynicism and doubt and those who tell us that we can't, we will respond with that timeless creed that sums up the spirit of a people: Yes,
+347798	eng	This is our chance to answer that call. This is our moment. This is our time, to put our people back to work and open doors of opportunity for our kids; to restore prosperity and promote the cause of peace; to reclaim the American dream and reaffirm that fundamental truth, that out of many, we are one; that while we breathe, we hope. And where we are met with cynicism and doubt and those who tell us that we can't, we will respond with that timeless creed that sums up the spirit of a people.
 347799	eng	Thank you. God bless you. And may God bless the United States of America.
 347800	jpn	アメリカは、あらゆることが可能な国です。それを未だに疑う人がいるなら、今夜がその人たちへの答えです。建国の父たちの夢がこの時代にまだ生き続けているかを疑い、この国の民主主義の力を未だに疑う人がいるなら、今晩こそがその人たちへの答えです。
 347801	cmn	如果外頭還有人懷疑，美國是否真的是任何事都可能發生的地方，懷疑我們開國先賢的夢想今天是否依然存在，懷疑我們民主的力量；今夜，就是你們要的答案。
@@ -33010,9 +32971,7 @@
 348172	cmn	據我所知，他從來沒有犯過這樣的錯。
 348173	cmn	你最近有沒有看電影？
 348174	cmn	他中途在洛杉磯和芝加哥停留。
-348175	cmn	我下國際象棋打敗了他。
 348176	cmn	他贏了三等奬。
-348177	cmn	他們總是把大雨和洪水聯想在一起。
 348178	cmn	為了保護自己，我們只好說謊。
 348179	cmn	我以為你會來。
 348180	cmn	她在百貨公司門前下了的士。
@@ -35797,7 +35756,6 @@
 351038	cmn	他們完全沒有興趣。
 351039	cmn	他不知道該怎麼說。
 351040	cmn	他和這件事扯上了關係。
-351041	cmn	你們大概會以為她告訴了我她當時正在去探望生病的祖母。
 351042	cmn	你怎麼解釋你缺席的原因？
 351043	cmn	你一錯再錯，當然會被處罰。
 351044	cmn	前進兩步。
@@ -36652,7 +36610,7 @@
 351913	pol	Im większych słów używał, tym trudniej było odnaleźć w nich treść.
 351914	pol	Nie noszę już okularów.
 351915	pol	Prędzej czy później wszyscy musimy umrzeć.
-351916	eng	Sooner or later we all are going to die.
+351916	eng	Sooner or later, we all are going to die.
 351917	pol	Jest Amerykanką, ale mieszka w Wielkiej Brytanii.
 351918	pol	Trzecia gwiazda należała do pewnego króla.
 351919	pol	Wczoraj skradziono mu torbę.
@@ -39503,7 +39461,7 @@
 354847	fin	Hyvää joulua.
 354848	fin	Useimmat pitävät minua hulluna.
 354849	fin	Miltä raiteelta juna Higashi-Kakogawaan lähtee?
-354850	eng	From which track does the train to Higashi-Kagowaka leave?
+354850	eng	From which track does the train to Higashi-Kakogawa leave?
 354851	fin	Amy haluaa jotain uutta päällepantavaa.
 354852	eng	Everyone makes mistakes.
 354853	fin	Kaikki tekevät virheitä.
@@ -41165,7 +41123,6 @@
 356549	deu	Spielst du ein Musikinstrument?
 356550	pol	Zwierzę w lewym górnym narożniku to miał być smok.
 356551	deu	John und Ann mögen sich.
-356552	deu	Und der Baum war glücklich.
 356553	pol	Grasz na jakimś instrumencie?
 356554	pol	John i Ann się lubią.
 356555	deu	Er spricht Englisch und Französisch.
@@ -45928,7 +45885,7 @@
 361416	deu	Meine Lippen sind versiegelt.
 361417	deu	Nein, das kann nicht wahr sein.
 361418	deu	Das Feuer ist in der Küche ausgebrochen.
-361419	deu	Ich frage mich wessen Auto das ist.
+361419	deu	Ich frage mich, wessen Auto das ist.
 361420	deu	Die Ergebnisse waren alles andere als zufriedenstellend.
 361421	deu	Als Nachtisch wurden Äpfel serviert.
 361422	deu	Sie streiten viel, aber die meiste Zeit kommen sie ganz gut miteinander aus.
@@ -46585,7 +46542,7 @@
 362081	pol	Był przerażony na widok nauczyciela.
 362082	pol	Zagłaskać kota na śmierć.
 362083	pol	Umowę mamy w kieszeni, więc chodźmy i uczcijmy to.
-362084	eng	I want to play a game where a noble, female, knight with the nickname of light-speed freely manipulates gravity.
+362084	eng	I want to play a game where a noble female knight with the nickname "Light-Speed" freely manipulates gravity.
 362085	eng	Though it was the original, Amsterdam, and York, were beaten by New York.
 362086	deu	Ich habe beim Bäcker ein Brot gekauft.
 362087	deu	Ihre Mutter ist seit letztem Donnerstag krank.
@@ -46902,7 +46859,7 @@
 362400	pol	Pokaż ranę.
 362401	pol	Jeżdżę do Tokio codziennie.
 362402	pol	Skąd masz ten obraz?
-362403	pol	Johnowi podobała się ta pielęgniarka.
+362403	pol	Johnowi podoba się ta pielęgniarka.
 362404	pol	Oferujemy tanie domy z prefabrykatów.
 362405	pol	To ja jestem odpowiedzialny za wypadek.
 362406	pol	Leciała do Europy nad Syberią.
@@ -47056,7 +47013,7 @@
 362558	pol	Możesz zostać tam gdzie jesteś.
 362559	pol	Możesz otworzyć drzwi?
 362560	pol	Ładny mamy dzionek.
-362561	pol	A może tak dieta...?
+362561	pol	A może tak dieta?
 362562	pol	Dziecko wciąż śpi.
 362563	pol	Jego stary kot wciąż żyje.
 362564	pol	To na tyle jeśli chodzi o dzisiejszą lekcję.
@@ -49998,3 +49955,46 @@
 365561	deu	Es gibt keinen Grund, so wütend zu werden.
 365562	pol	Piasek wpadł mi do oka.
 365563	pol	Ta melodia znana jest wielu Japończykom.
+365564	pol	Ludność zbuntowała się przeciwko królowi.
+365565	deu	Papier brennt leicht.
+365566	pol	Jest 20 po 10.
+365567	pol	Upiec dwie pieczenie przy jednym ogniu.
+365568	pol	To się zdarzyło między ósmą a dziesiątą.
+365569	deu	Sie las den Brief wieder und wieder.
+365570	pol	Ona martwi się o egzaminy.
+365571	pol	Miał szczęście, że złapał pociąg.
+365572	deu	Ich wollte den Vogel fangen, aber es war zu schwer für mich.
+365573	pol	Nie powinna jechać sama.
+365574	pol	Oto miasto, w którym się urodził.
+365575	pol	Jane nie umarła naturalną śmiercią.
+365576	deu	Die Entscheidung hat etwas mit dem zu tun, was du gesagt hast.
+365577	pol	Patrzyliśmy na niego, aż znikł nam z oczu.
+365578	pol	Pogadajmy o tym po szkole.
+365579	deu	Er hatte auf dem Weg zur Schule einen Verkehrsunfall.
+365580	pol	Mary popędziła do szpitala.
+365581	deu	Das Bild brachte viele Erinnerungen zurück.
+365582	pol	Rzucił palenie, bo żona i dzieci prosiły go o to.
+365583	pol	Nie chowaj się pod łóżkiem.
+365584	deu	Ich bin sicher, dass unsere Mannschaft gewinnen wird.
+365585	pol	Jest baseballistą.
+365586	deu	Pat geht zu Jims Geburtstagsfeier.
+365587	pol	Dżinsy są teraz modne wśród dziewcząt.
+365588	deu	Von dieser Regel gibt es keine Ausnahme.
+365589	pol	Zrobił do mnie perskie oko.
+365590	pol	To kolega z pracy.
+365591	deu	Ich weigere mich, die Frage zu beantworten.
+365592	pol	Zgubił się po drodze do wioski.
+365593	pol	Kiedy przyszedłem na dworzec, pociąg właśnie miał odjeżdżać.
+365594	pol	Jestem marnym biegaczem, zresztą pływakiem również.
+365595	deu	Ein Fremder hat mich im Bus angesprochen.
+365596	pol	Kupiłem "Daily News".
+365597	deu	Die Polizei sucht.
+365598	pol	Te dwa czynniki są niezależne od siebie.
+365599	deu	Ich halte diese Bauchschmerzen nicht aus.
+365600	pol	Myśli, że jest kimś, ale w istocie jest nikim.
+365601	pol	Czy zamierzasz wyciąć wszystkie te drzewa?
+365602	pol	Tym razem zapytano mnie.
+365603	pol	Jakoś nauczyła się prowadzić samochód.
+365604	pol	Najważniejsze jest to, że masz silną wolę nauczyć się angielskiego.
+365605	pol	Nowy samochód należy do niej.
+365606	pol	Ptaki wiją gniazda wśród drzew.
