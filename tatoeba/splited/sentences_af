@@ -1,18 +1,3 @@
-258578	eng	I skied for the first time.
-258579	eng	I saw the mountain for the first time.
-258580	eng	I visited New York for the first time.
-258581	eng	I came to Japan for the first time.
-258582	eng	I ate Japanese food for the first time.
-258583	eng	I met him for the first time.
-258584	eng	At first I did not like him, but now I do.
-258585	eng	I wasn't able to believe him at first.
-258587	eng	We met at the designated spot.
-258588	eng	I am very sensitive to heat.
-258589	eng	I was used to the heat.
-258590	eng	I can't stand the heat.
-258591	eng	I was affected by the heat.
-258592	eng	I couldn't sleep because of the heat.
-258593	eng	I'm in charge of the book department.
 258594	eng	I attached my signature to the document.
 258595	eng	I've deposited the papers with him.
 258596	eng	I don't know every one of you.
@@ -559,7 +544,7 @@
 259191	eng	I do run.
 259192	eng	I'm able to run.
 259193	eng	I like to run.
-259194	eng	I'm not good at swimming any more than running.
+259194	eng	I'm as bad at swimming as I am at running.
 259195	eng	I like to do a few exercises to loosen up before I run.
 259197	eng	I'm used to the noise.
 259198	eng	I could not make myself heard on account of the noise.
@@ -1039,7 +1024,7 @@
 259700	eng	I felt a drop of rain on my head.
 259701	eng	I felt a touch of pain in my head.
 259702	eng	I shook my head a few times.
-259703	eng	I have been down with a headache.
+259703	eng	I've been down with a headache.
 259704	eng	I cannot stand headaches.
 259705	eng	I like to work.
 259706	eng	I prefer relaxing to working.
@@ -4384,7 +4369,7 @@
 263458	eng	In examinations the foolish ask questions that the wise cannot answer.
 263459	eng	The examination compelled me to study hard.
 263460	eng	I'll let you know the results of the examination after they are announced.
-263461	eng	I can't ask for the test results. I'm terrified to hear them.
+263461	eng	I can't ask for the test results. I'm too terrified to hear them.
 263462	eng	He said that he would let us know later about the results of the examination.
 263463	eng	The result of my exams was not what I had expected.
 263464	eng	Don't worry about the results of your test.
@@ -6491,7 +6476,7 @@
 265837	eng	Whenever you get lonely, feel free to come and talk to me.
 265839	eng	I side with a weaker party.
 265842	eng	God tempers the wind to the shorn lamb.
-265843	eng	The opinions of the weak are easily assimilated into those of the strong.
+265843	eng	The weak easily assimilate the opinions of the strong.
 265844	eng	The weakest go to the wall.
 265845	eng	There is no man but has his weak points.
 265847	eng	We accept all major credit cards.
@@ -6550,7 +6535,6 @@
 265908	eng	What is it you got?
 265909	eng	It's too much of a nuisance.
 265910	eng	There's nothing to be done about it.
-265912	eng	A bird in the hand is worth two in the bush.
 265913	eng	Don't show them your hand.
 265914	eng	You should lay your cards out on the table.
 265915	eng	Lay your cards on the table and give me a straight answer!
@@ -6601,7 +6585,7 @@
 265967	eng	Drop me a line and let me know what you think.
 265968	eng	Write me sometime, OK?
 265969	eng	Please contact me by letter.
-265970	eng	You have no reply to letters.
+265970	eng	You haven't replied to the letters.
 265971	eng	Don't forget to put a stamp on your letter.
 265973	eng	Her duties include making copies of letters.
 265974	eng	The contents of the letter were secret.
@@ -9455,7 +9439,7 @@
 269126	eng	The new equipment enabled us to finish the work in an hour.
 269127	eng	The new regulations were confirmed by the full committee.
 269128	eng	New guests must register in the hotel book.
-269129	eng	The leader of the new republic is bucking under political pressures.
+269129	eng	The leader of the new republic is buckling under political pressures.
 269130	eng	A new bridge is being built over the river.
 269131	eng	The new bridge made it easy for the villagers to go to town.
 269132	eng	The new bridge is in process of construction.
@@ -11438,7 +11422,6 @@
 271307	eng	Work hard so that you can succeed.
 271309	eng	He prayed that I might succeed.
 271310	eng	The teacher said: "Above all, what is necessary for success is perseverance."
-271312	eng	I wish you success.
 271313	eng	Americans are all heading north to the land of opportunity.
 271314	eng	There is no hope of success.
 271315	eng	There was only a faint chance of success.
@@ -12967,7 +12950,7 @@
 272968	eng	The teacher insisted that I should study in college.
 272969	eng	The teacher made me repeat the sentence.
 272970	eng	My teacher told me to read as much as I could.
-272971	eng	The teacher told me study harder.
+272971	eng	The teacher told me to study harder.
 272972	eng	The teacher allotted the longest chapter to me.
 272973	eng	The teacher began to shoot questions at me.
 272974	eng	The teacher warned me not to be late for school.
@@ -13339,7 +13322,7 @@
 273363	eng	The laundry room is in the basement.
 273364	eng	Looking at the pile of laundry, I sighed.
 273365	eng	Would you please sort out all the white clothes from the wash?
-273366	eng	The washing is still damp wet.
+273366	eng	The washing is still damp.
 273367	eng	Has the wash come back yet?
 273368	eng	Is my laundry ready?
 273369	eng	Could you send someone up to pick up some laundry?
@@ -14723,7 +14706,6 @@
 274906	eng	Many people work in industrial towns.
 274908	eng	To talk with a lot of people is good for health.
 274910	eng	Many politicians fail to keep their promises.
-274911	eng	Many a student has failed in the test.
 274912	eng	Many students bought the book.
 274913	eng	The battle was won at the price of many lives.
 274914	eng	Many young men tend to commit the same errors.
@@ -15134,7 +15116,7 @@
 275367	eng	I can't say I'm happy about retirement.
 275368	eng	A farewell party was held in honor of the retiring executive.
 275369	eng	Before he retired, he had handed over charge of his office.
-275370	eng	Those who choose to retire can do so as early as sixty-two, although starting to draw their Social Security pension at that age would mean that the payments are reduced by 20 percent.
+275370	eng	Those who choose to retire can do so as early as sixty-two, although starting to draw their Social Security distributions at that age would mean that the payments would be reduced by twenty percent.
 275371	eng	I bought a small lot on the hillside in Southern France where I plan to build a retirement home.
 275372	eng	No wonder the retirement years are often referred to as the golden years.
 275373	eng	I'd like to live a quiet life in the country after retirement.
@@ -20590,7 +20572,7 @@
 281374	eng	Japan's army was very powerful.
 281375	eng	The Japanese economic system is about to change.
 281376	eng	What do you think about the Japanese economy?
-281377	eng	The economic of Japan grew up widely.
+281377	eng	The economy of Japan has grown enormously.
 281378	eng	The economy of Japan is still stable.
 281379	eng	The Japanese economy grew by 4% last year.
 281380	eng	In order to get some information about Japanese economic problems, you'll find this book very useful.
@@ -22644,7 +22626,6 @@
 283623	eng	I got the gist of what he was saying.
 283624	eng	What he is saying doesn't make sense.
 283625	eng	What he says sounds very sensible to me.
-283627	eng	He was heard to shut the door behind him.
 283628	eng	It is evident that he has made a mistake.
 283629	eng	I like him.
 283630	eng	I understand him to be happy.
@@ -22898,7 +22879,6 @@
 283900	eng	He owes his success to good luck.
 283902	eng	He owes his success only to good luck.
 283903	eng	It's natural that he should have succeeded.
-283904	eng	He owed his success to both ability and industry.
 283905	eng	It is no wonder that he has succeeded.
 283907	eng	Never did I dream that he would succeed.
 283908	eng	Whether he will succeed or not depends upon his health.
@@ -27251,7 +27231,6 @@
 288679	eng	I never thought he was all that stubborn.
 288680	eng	He is as idle as ever.
 288681	eng	He is as strong as ever.
-288682	eng	He remains sick in bed.
 288683	eng	He does not care for ice cream.
 288684	eng	He enjoys eating ice cream.
 288685	eng	He is full of new ideas.
@@ -27849,7 +27828,6 @@
 289316	eng	He taught a group of Indian boys.
 289317	eng	He put down the rebellion in India.
 289318	eng	He is at the doctor for influenza.
-289319	eng	He's in bed with flu.
 289320	eng	He is ill with influenza.
 289321	eng	He is very good at playing violin.
 289322	eng	He doesn't even drink beer, not to mention whiskey.
@@ -28864,7 +28842,7 @@
 290390	eng	He put on his sweater wrong side out.
 290391	eng	He disguised himself as a salesman and visited her house.
 290392	eng	He makes a living as a salesman.
-290393	eng	He cleared his throat, and said:"I love Tatoeba!".
+290393	eng	He cleared his throat, and said: "I love Tatoeba!".
 290394	eng	He is busy preparing for the examination.
 290395	eng	He pressed me to stay a little longer.
 290397	eng	He is busily at work.
@@ -30909,7 +30887,7 @@
 292610	eng	He speaks Spanish as well as he speaks French.
 292612	eng	He managed to read a book written in French.
 292613	eng	He tried to master French.
-292614	eng	He is at home in France.
+292614	eng	He is at home in French.
 292615	eng	He doesn't know French at all.
 292616	eng	He doesn't speak English, and don't even mention French.
 292617	eng	He answered that he knew no French.
@@ -32154,7 +32132,7 @@
 293971	eng	He speaks Spanish, not to mention English and German.
 293972	eng	He can speak English and French.
 293973	eng	He is capable of teaching both English and French.
-293974	eng	He doesn't speak both English and French.
+293974	eng	He doesn't speak either English or French.
 293975	eng	He can speak German, not to mention English and French.
 293977	eng	He speaks English and French.
 293978	eng	He teaches mathematics as well as English.
@@ -33063,7 +33041,7 @@
 294975	eng	He is sawing a log into boards.
 294976	eng	He was carried by the waves away from the shore and out to sea.
 294977	eng	He made desperate efforts to reach the shore.
-294979	eng	He was mortally ill with cancer.
+294979	eng	He was terminally ill with cancer.
 294980	eng	He lay on his back with his eyes closed.
 294981	eng	He looked at her over his glasses.
 294982	eng	He is wearing glasses.
@@ -33230,7 +33208,7 @@
 295167	eng	He accepted his appointment as chairman.
 295168	eng	He acted as chairman.
 295170	eng	He cannot argue without losing his temper.
-295171	eng	He never gets into argument without losing his temper.
+295171	eng	He never gets into an argument without losing his temper.
 295172	eng	He is not the kind of person who is open to discussion.
 295173	eng	He broke himself of the bad habit of smoking.
 295174	eng	He started an argument for smoking.
@@ -36419,7 +36397,7 @@
 298683	eng	He adapted his plan to the new situation.
 298684	eng	He is blind to his own defects.
 298685	eng	He is aware of his own fault.
-298686	eng	He liked to blame most of his faults and misfortunes of his life on a tyrannical father.
+298686	eng	He liked to blame most of his faults and misfortunes on a tyrannical father.
 298687	eng	He affirmed his innocence.
 298690	eng	He became rich at the cost of his health.
 298691	eng	He stood on his right.
@@ -40220,7 +40198,6 @@
 302852	eng	He did not like her manner of speech.
 302853	eng	He caught her by the arm.
 302854	eng	He seized her hand and dragged her away.
-302856	eng	He doesn't have so many books as she.
 302857	eng	He is older than she is by three years.
 302858	eng	He is beneath her in rank.
 302859	eng	He has her on a pedestal.
@@ -43206,7 +43183,7 @@
 306115	eng	They graded apples according to their size.
 306116	eng	He caught them stealing apples.
 306117	eng	They kept singing until a rescue team came.
-306118	eng	They were seated at the table in a restaurant.
+306118	eng	They were seated at a table in a restaurant.
 306119	eng	The group was seated in the back of the restaurant.
 306120	eng	They are wrestlers.
 306121	eng	They'd better beef up their report or it won't be accepted.
@@ -47636,7 +47613,7 @@
 310890	eng	She is eager to live in Australia.
 310891	eng	She was impatient to see her family.
 310892	eng	She was in a hurry to go home.
-310893	eng	She become seasick in rough seas.
+310893	eng	She became seasick in rough seas.
 310894	eng	She fell down the ladder.
 310895	eng	She's a tough woman.
 310896	eng	She looked at me in a deliberate way and left the meeting room.
@@ -49998,3 +49975,26 @@
 313422	eng	She will be happy when she gets engaged.
 313423	eng	Is she married?
 313424	eng	She isn't married.
+313426	eng	She went to college after she got married.
+313427	eng	Her marriage brought happiness to her parents.
+313428	eng	I have half a mind to marry her.
+313429	eng	She's not the marrying type.
+313430	eng	She is too young to marry.
+313431	eng	She is not about to get married.
+313432	eng	She refuses to abandon her career for marriage.
+313433	eng	She is dependent on her parents even after her marriage.
+313434	eng	She was a bridesmaid at the wedding.
+313435	eng	She was dressed all in white for the wedding.
+313436	eng	She blames me for the fact that our married life isn't going well.
+313437	eng	She was a Smith before her marriage.
+313438	eng	She was a Brown before her marriage.
+313439	eng	She felt faint at the sight of blood.
+313440	eng	She fainted when she saw blood.
+313441	eng	She turned away in horror at the sight of blood.
+313442	eng	She writes to her pen pal in London twice a month.
+313443	eng	She writes to me once a month.
+313444	eng	She turned off the lights so she could enjoy the moonlight.
+313445	eng	She doesn't get paid by the month, but by the day.
+313446	eng	She gave birth on Monday to her first child.
+313447	eng	She could not help thinking that health is important.
+313448	eng	She is really in good health.
