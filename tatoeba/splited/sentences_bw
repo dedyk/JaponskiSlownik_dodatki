@@ -1,59 +1,3 @@
-2542836	eng	Tom couldn't take it anymore.
-2542837	eng	Tom barely had time to react.
-2542838	eng	Tom ate breakfast by himself.
-2542839	eng	Tom asked us to arrive early.
-2542840	eng	Tom asked too many questions.
-2542841	eng	Tom asked me to talk to Mary.
-2542842	eng	Tom asked me to protect Mary.
-2542843	eng	Tom asked me to help him out.
-2542844	eng	Tom asked me to go with Mary.
-2542845	eng	Tom asked Mary to scoot over.
-2542846	eng	Tom asked Mary to quiet down.
-2542847	eng	Tom asked Mary out to dinner.
-2542848	eng	Tom appears to have vanished.
-2542849	eng	Tom appears to have given up.
-2542850	eng	Tom answered Mary's question.
-2542851	eng	Tom angrily shoved Mary away.
-2542852	eng	Tom angrily pushed Mary away.
-2542853	eng	Tom and Mary weren't with me.
-2542854	eng	Tom and Mary switched places.
-2542855	eng	Tom and Mary played checkers.
-2542856	eng	Tom and Mary both looked sad.
-2542857	eng	Tom and Mary arrived at 2:30.
-2542858	eng	This shouldn't take too long.
-2542859	eng	This is the captain speaking.
-2542860	eng	They're all wearing name tags.
-2542861	eng	They don't have enough money.
-2542862	eng	The walls were painted white.
-2542863	eng	That's the problem, isn't it?
-2542864	eng	That wouldn't change a thing.
-2542865	eng	That was the plan, wasn't it?
-2542866	eng	That was the idea, wasn't it?
-2542867	eng	Some of us have things to do.
-2542868	eng	Maybe I shouldn't drive home.
-2542869	eng	Mary has curlers in her hair.
-2542870	eng	It's going to be a good year.
-2542871	eng	I've already thought of that.
-2542872	eng	I'm worried about everything.
-2542873	eng	I'm willing to give it a try.
-2542874	eng	I'm waiting to hear from Tom.
-2542875	eng	I'm waiting for Tom to leave.
-2542876	eng	I'm waiting for a phone call.
-2542877	eng	I'm very sorry for your loss.
-2542878	eng	I'm very allergic to peanuts.
-2542879	eng	I'm tying up some loose ends.
-2542880	eng	I'm trying to understand you.
-2542881	eng	I'm trying to save your life.
-2542882	eng	I'm trying to keep you alive.
-2542883	eng	I'm trying to keep Tom alive.
-2542884	eng	I'm trying to get some sleep.
-2542885	eng	I'm trying to get into shape.
-2542886	eng	I'm trying to find some help.
-2542887	eng	I'm trying to do you a favor.
-2542888	eng	I'm Tom and I'm an alcoholic.
-2542889	eng	I'm the last one who saw Tom.
-2542890	eng	I'm talking to Tom right now.
-2542891	eng	I'm taking my coffee with me.
 2542892	eng	I'm surprised Tom isn't here.
 2542893	eng	I'm sure your folks miss you.
 2542894	eng	I'm sure you'll be just fine.
@@ -524,7 +468,6 @@
 2543359	eng	Tom passed out on the floor.
 2543360	eng	Tom opened a bottle of wine.
 2543361	eng	Tom often screens his calls.
-2543362	eng	Tom offered a drink to Mary.
 2543363	eng	Tom noticed Mary was crying.
 2543364	eng	Tom needs money for college.
 2543365	eng	Tom needed something to eat.
@@ -7443,7 +7386,6 @@
 2550325	por	A reação do pai foi abafadora.
 2550326	por	Este quarto está muito abafado; vou abrir a janela.
 2550329	por	É estritamente proibido portar celulares em sala de aula.
-2550331	por	É probido entrar com animais.
 2550333	por	Ela tem pele de bebê.
 2550335	por	A solução é fazer um abaixo-assinado.
 2550336	por	Os moradores fizeram um abaixo-assinado pedindo a manutenção da praça do bairro.
@@ -7873,7 +7815,7 @@
 2550813	tur	Acı vericiydi.
 2550814	tur	Eziciydi.
 2550815	rus	Том быстро оделся, затем выбежал за дверь.
-2550816	rus	Он не читает много книг.
+2550816	rus	Он читает мало книг.
 2550817	dan	Er du tilfreds med min forklaring?
 2550818	rus	Ты хочешь завтрак?
 2550819	rus	Вы хотите завтрак?
@@ -10116,7 +10058,7 @@
 2553247	por	O que você fez é contra a lei.
 2553248	por	O que você fez é ilegal.
 2553249	por	O que você fez é imoral.
-2553250	por	O que você fez é anti-ético.
+2553250	por	O que você fez é antiético.
 2553251	tur	Siz sözünüzden dönmediniz mi?
 2553252	fin	Minulla on allerginen nenätulehdus.
 2553253	urd	مجھ سے شادی کروگے؟
@@ -10440,7 +10382,7 @@
 2553577	ita	Io sono risoluta.
 2553578	ita	Sto bluffando.
 2553579	fin	Olen yllättynyt, kun Beth ei nauttinut ajastaan tilalla.
-2553580	por	Por que você não me envia nenhum email?
+2553580	por	Por que você não me envia nenhum e-mail?
 2553581	ita	Io sto bluffando.
 2553582	rus	Если послезавтра будет дождь, я останусь дома.
 2553583	fin	Kumma kun Beth ei pitänyt maatilalla olosta.
@@ -12206,7 +12148,7 @@
 2555433	rus	А ты получил сообщения?
 2555434	mar	मला शहरात रहायचंय.
 2555435	ber	D acu n tmara ay kem-yerran ad teqqimeḍ i weẓɣal-a deg London?
-2555436	mar	मी शहरात राहीन.
+2555436	mar	मी शहरात राहेन.
 2555437	ber	Seg-a ɣer London llan tam n yimilen.
 2555438	mar	जॉशुआ गे आहे.
 2555439	ber	Seg-a ɣer London llan tmanya n yimilen.
@@ -14913,8 +14855,7 @@
 2558278	deu	Was uns hindert, unsere Freunde auf den Grund unseres Herzens blicken zu lassen, ist gewöhnlich nicht so sehr Misstrauen gegen sie als gegen uns.
 2558279	mar	हे सूप खूपच गरम आहे.
 2558280	deu	Manche Menschen gelten nur deshalb etwas in der Welt, weil ihre Fehler die Fehler der Gesellschaft sind.
-2558281	mar	मी ते उद्या करीन.
-2558282	mar	मी ते उद्या करेन.
+2558281	mar	मी ते उद्या करेन.
 2558283	deu	Kleine Fehler geben wir gern zu, um den Eindruck zu erwecken, wir hätten keine großen.
 2558284	mar	या मंदिराला नष्ट करा.
 2558285	mar	या मंदिराला नष्ट करून टाका.
@@ -15193,8 +15134,6 @@
 2558602	tur	Hâlâ düşünüyorum.
 2558603	tur	Hâlâ konuşuyorum.
 2558604	tur	Hâlâ evliyim.
-2558605	mar	माझ्या मित्राला भेटायला.
-2558606	mar	माझ्या मित्राला भेट द्यायला.
 2558607	tur	Yine bakıyorum.
 2558608	tur	Çok aptalım.
 2558609	ber	Tafekka n wemdan tettmettat, maca taneffut-nnes ur tettmettat.
@@ -15223,10 +15162,10 @@
 2558636	tur	Hayır diyorum.
 2558637	mar	बिलने कॅप्टन म्हणून जिमची जागा घेतली.
 2558638	tur	Onu tasarruf ediyorum.
-2558639	mar	मी तुला शोधून काढीन.
+2558639	mar	मी तुला शोधून काढेन.
 2558640	deu	Es ist einfach und macht Spaß, bei Tatoeba mitzuarbeiten.
 2558641	tur	Şimdi güvendeyim.
-2558642	mar	मी तुम्हाला शोधून काढीन.
+2558642	mar	मी तुम्हाला शोधून काढेन.
 2558643	tur	Burada güvendeyim.
 2558645	mar	विलिअम टेलने आपल्या मुलाच्या डोक्यावरच्या सफरचंदाला बाण मारला.
 2558646	deu	Sie sagte mir, sie sei schwanger.
@@ -23045,15 +22984,15 @@
 2567055	fra	Nous devrions être très prudentes en traversant la route.
 2567056	mar	त्याने काय बघितलं?
 2567058	fra	Vous devriez être très prudentes en traversant la route.
-2567059	mar	मी त्याच्याशी एकट्याने बोलीन.
+2567059	mar	मी त्याच्याशी एकट्याने बोलेन.
 2567060	mar	मी त्याच्याशी एकटीने बोलेन.
 2567061	ber	Yessefk ad tettḥadaremt mliḥ mi ara tzegremt abrid.
 2567062	fra	Ils devraient être très prudents en traversant la route.
 2567063	ber	Yessefk ad ttḥadaren mliḥ mi ara zegren abrid.
 2567064	fra	Elles devraient être très prudentes en traversant la route.
 2567065	ber	Yessefk ad ttḥadarent mliḥ mi ara zegrent abrid.
-2567066	mar	ठेवूया.
-2567067	mar	आपण ते ठेवूया.
+2567066	mar	ठेवू या.
+2567067	mar	आपण ते ठेवू या.
 2567068	ber	Ad iyi-tessiwḍed ɣer wesbiṭar?
 2567069	ber	Ad iyi-tessiwḍeḍ ɣer wesbiṭar?
 2567070	mar	त्याच्याबरोबर आता कोण गातंय?
@@ -23322,11 +23261,11 @@
 2567344	mar	लॅटीनमधल्या नामांचे पाच नामदिविकार असतात.
 2567345	mar	मला लॅटीन भाषा येत नाही.
 2567346	mar	ही लॅटीन आहे का?
-2567347	mar	लटीन कठीण नाही आहे.
+2567347	mar	लॅटीन कठीण नाही आहे.
 2567348	mar	लॅटीनसारखी दिसते, पण नाही आहे.
 2567349	mar	तुला लॅटीन येते का?
 2567350	mar	तुम्हाला लॅटीन येते का?
-2567351	mar	लॅटीन भविष्याची भाषा आहे!
+2567351	mar	लॅटीन ही भविष्याची भाषा आहे!
 2567352	mar	बेसबॉल अनेक लॅटीन अमेरिकन देशांमध्ये लोकप्रिय खेळ आहे.
 2567353	mar	पीएचडी हा फिलोसोफिए डोक्टोराटुम या लॅटीन शब्दसमूहाचा संक्षिप्त रूप आहे.
 2567354	ita	Sono tornato a Boston.
@@ -23587,7 +23526,7 @@
 2567627	rus	Прогноз погоды говорит, что завтра во второй половине дня будет дождь.
 2567628	rus	Он почти никогда не приходит.
 2567629	mar	परंतु, चीनमध्ये "मानव अधिकार" यासाठी शब्द वापरला जात नाही, त्या बदली "मुलभूत अधिकार" असा व्यक्त केला जातो.
-2567630	fra	Elle était vétue de blanc.
+2567630	fra	Elle était vêtue de blanc.
 2567631	rus	Он действительно редко приходит.
 2567632	fra	Elle était habillée en blanc.
 2567633	mar	अमेरिका किंवा चीनशी तुलना केली तर जपान हा एक छोटा देश आहे.
@@ -29854,8 +29793,8 @@
 2574252	por	O estudante pediu a palavra.
 2574253	por	Muitas pessoas pensam que o ouro é o investimento mais seguro.
 2574254	por	Eu quebrei um copo lavando a louça.
-2574255	por	Os bassets são cachorros tranquilos.
-2574256	por	Os bassets são cães tranquilos.
+2574255	por	Os bassês são cachorros tranquilos.
+2574256	por	Os bassês são cães tranquilos.
 2574257	por	Três gerações veem as coisas de três maneiras.
 2574258	por	Muitas pessoas da geração do meu avô cresceram em fazendas.
 2574259	por	É a primeira vez que eu visito a minha avó.
@@ -33795,7 +33734,7 @@
 2578366	mar	तू जातोयस?
 2578367	tgl	Sobrang samâ ng pakiramdám ko ngayón!
 2578368	mar	तू जातेयस?
-2578369	mar	मी तुला बाहेर भेटीन.
+2578369	mar	मी तुला बाहेर भेटेन.
 2578370	mar	मी तुमला बाहेर भेटेन.
 2578371	mar	मला माझे हात धुवायचे आहेत.
 2578372	eng	I am not feeling very well today!
@@ -34236,7 +34175,7 @@
 2578822	rus	В этом пункте я с ним согласен.
 2578823	rus	Я не хочу расчищать за тебя эти авгиевы конюшни.
 2578824	tur	Bu nehirde yakalanan bütün balıklar güzel.
-2578825	rus	Какая разница между сталактитом и сталагмитом?
+2578825	rus	В чём разница между сталактитом и сталагмитом?
 2578826	rus	В правоохранительных органах много дерьма, потому эти авгиевы конюшни надо как можно скорее вычистить.
 2578827	tur	Tom hatırlar diye sandım.
 2578828	rus	Ну и авгиевы конюшни вы тут развели!
@@ -34376,7 +34315,7 @@
 2578964	ber	Ḥemmleɣ ucci ustṛali.
 2578965	rus	Она меня бросила, теперь в душе моей ад кромешный.
 2578966	ber	Netta d argaz ay iḥemmlen tifagliwin.
-2578967	ber	Iḥemmel tifagliwin.
+2578967	ber	Iḥemmel tifugliwin.
 2578968	ber	Yeqqel iḥemmel addal.
 2578969	ber	Iḥemmel aṭas ad iɣer.
 2578970	rus	"Он тебя бросил?" — "Да, и теперь у меня на душе ад кромешный".
@@ -35308,7 +35247,7 @@
 2579952	hun	Az ember az egyetlen állat, amely beszélni tud.
 2579953	tur	Birbirimize güveniyorsak sadece söz değil icraat adamı da olurum.
 2579954	lvs	Valis ir ūdensdzīvnieks.
-2579956	hun	Az ember az egyetlen, beszélő állat.
+2579956	hun	Az ember az egyetlen beszélő állat.
 2579957	rus	Основной идеей его речи было единство.
 2579958	tur	Biraz daha mutlu olsam dil öğrenmem daha mümkün olabilir.
 2579959	eng	He got what was coming to him.
@@ -35872,8 +35811,8 @@
 2580557	ber	Tella telsa yiwen n uriki d amellal.
 2580558	rus	Я знаю того самого человека, который будет делать эту работу.
 2580559	tur	Doğru enformasyon istiyorum.
-2580560	ber	Aglim-nnes mellul am wedfel.
-2580561	ber	Aglim-nnes d amellal am wedfel.
+2580560	ber	Aglim-nnes mellul am udfel.
+2580561	ber	Aglim-nnes d amellal am udfel.
 2580562	tur	Doğru bilgi istiyorum.
 2580563	ber	Lkaɣeḍ-a d amellal?
 2580564	rus	Том упал и разбил коленку.
@@ -36112,7 +36051,7 @@
 2580811	spa	No quise cometer el mismo error dos veces.
 2580812	eng	Don't read in the dark. It's not good for your eyes.
 2580813	spa	Quiero que sepas que podés confiar en mí.
-2580814	por	Allah é ótimo!
+2580814	por	Alá é ótimo!
 2580815	por	Havia uma mesinha no quarto dela. E na mesinha havia uma garrafinha.
 2580816	spa	La stevia fue cultivada y utilizada como edulcorante por el pueblo guaraní durante al menos 1.500 años.
 2580817	por	Eu mal consigo acreditar naquilo.
@@ -39353,7 +39292,7 @@
 2584310	heb	הגעתי לקצה גבול היכולת.
 2584311	heb	הגעתי לקצה גבול היכולת שלי.
 2584312	uig	بۇ كىتاب سوۋېت ئىتتىپاقىنىڭ تۇرمۇشى توغرۇلۇق.
-2584313	mar	दुसर्‍यांचा फायदा घेऊन श्रीमंत होण्यापेक्षा मी गरीबच राहीन.
+2584313	mar	दुसर्‍यांचा फायदा घेऊन श्रीमंत होण्यापेक्षा मी गरीबच राहेन.
 2584314	eng	I have reached my limits.
 2584315	eng	This is a silver coin.
 2584316	hun	Ez egy ezüst érme.
@@ -45169,7 +45108,7 @@
 2590386	por	O aardvark se parece com um porco.
 2590387	deu	Ich wünsche, ich hätte mir eine Karte für das Konzert gekauft.
 2590388	por	A ordem a que os aardvarks pertencem contém uma única família e uma única espécie.
-2590389	por	Os aardvars são comuns ao sul do Saara.
+2590389	por	Os aardvarks são comuns ao sul do Saara.
 2590390	por	Os penungulados provavelmente se originaram na África.
 2590391	por	Os aardvarks se alimentam de formigas e cupins.
 2590392	por	Os aardvarks têm a cabeça e o focinho alongados.
@@ -45184,7 +45123,7 @@
 2590401	por	Os aardvarks são excelentes cavadores.
 2590402	epo	La orikteropoj sin nutras per formikoj kaj termitoj.
 2590403	por	Os aardvarks são capazes de cavar túneis de até 13 metros de comprimento, que servem para abrigar e proteger os filhotes do meio externo.
-2590404	por	As tocas cavadas pelos aarvarks são aproveitadas por outros animais, como javalis, porcos-espinhos e morcegos.
+2590404	por	As tocas cavadas pelos aardvarks são aproveitadas por outros animais, como javalis, porcos-espinhos e morcegos.
 2590405	por	Os aardvarks são animais noturnos.
 2590406	por	Os aardvarks são animais solitários.
 2590407	deu	Die Erdferkel ernähren sich von Ameisen und Termiten.
@@ -49998,3 +49937,64 @@
 2595539	por	É possível que aliens já tenham aterrissado na Terra.
 2595540	por	Eu preciso de ar.
 2595541	por	Eu estou louco por você.
+2595542	por	Nós estávamos sempre juntos.
+2595543	por	De que tipo de filme você gosta?
+2595544	por	O Pedro pensava que eu tinha lhe contado mentira.
+2595545	por	Eu não sei aonde você deve ir.
+2595546	por	Você quer café?
+2595547	por	Ele só queria fazer a sua tarefa a tempo.
+2595548	por	Ele ficou muito feliz de vê-los.
+2595549	por	Ele ficou muito feliz de vê-las.
+2595550	por	Ele ficou muito feliz de vê-lo.
+2595551	por	Ele ficou muito feliz de vê-la.
+2595552	por	Ele ficou muito feliz de ver o senhor.
+2595553	por	Ele ficou muito feliz de ver a senhora.
+2595554	por	Ele ficou muito feliz de nos ver.
+2595555	por	Eu estava no meu quarto estudando.
+2595556	por	Por que o meu pai está na cozinha?
+2595557	por	É uma fotografia de que eu realmente gosto.
+2595558	por	Eu posso ver TV hoje à noite?
+2595559	por	O telefone não funciona, Sr. Tamori.
+2595560	por	O Tom é maior que eu.
+2595561	por	Eu disse para você não me ligar no trabalho.
+2595563	por	Quem você está tentando convencer?
+2595564	por	Acho que deveríamos conversar.
+2595565	por	Ontem, voei até Osaca.
+2595566	por	Abra o seu livro na página nove.
+2595567	por	Como você vai detê-lo?
+2595568	por	A minha mala se perdeu.
+2595570	por	Ela é mais esperta que eu.
+2595571	por	Ela é mais esperta do que eu.
+2595572	por	Eu não posso.
+2595573	por	Eu temo que você se perca.
+2595574	por	A Lucy é americana.
+2595575	por	Bush não aprova o uso da tortura.
+2595576	por	Ela é uma mulher egoísta.
+2595577	por	Eu respondi à pergunta.
+2595578	por	Ele lhe dá tudo o que quer.
+2595579	por	O Tom não sabia nem mesmo por onde começar.
+2595580	por	Você deve ser tonto.
+2595581	por	Ele sabe nadar tão rápido como o irmão.
+2595582	por	Ele sabe nadar tão rápido quanto o irmão.
+2595583	por	Bush nunca quis ferir ninguém.
+2595584	por	A imaginação é algo que muita gente nem consegue imaginar.
+2595585	por	Eu queria a sua cooperação.
+2595586	por	Eu queria a tua cooperação.
+2595587	por	Ele é amigo dele.
+2595588	por	Ele é seu amigo.
+2595589	por	Eu fiquei tão surpresa como vocês.
+2595590	por	Eu fiquei tão surpresa quanto vocês.
+2595591	por	Eu fiquei tão surpresa como você.
+2595592	por	Eu fiquei tão surpresa quanto você.
+2595593	por	Eu fiquei tão surpreso como vocês.
+2595594	spa	Como ciudadano del mundo, conozco maneras de superar las barreras culturales.
+2595596	por	Bush não sabe o que está acontecendo no Afeganistão, no Iraque e em Guantánamo.
+2595597	por	Bush quer proteger o mundo.
+2595598	por	Seria difícil estudar inglês sem o dicionário.
+2595599	por	Vem cá, Emília! O teu pai está te esperando!
+2595600	por	Há uma biblioteca em cada cidade nos Estados Unidos.
+2595601	por	Elas gozam de uma grande reputação.
+2595602	por	Você aceitou os presentes.
+2595603	por	O senhor aceitou os presentes.
+2595604	por	A senhora aceitou os presentes.
+2595605	por	Ah, se ele se casasse comigo.
