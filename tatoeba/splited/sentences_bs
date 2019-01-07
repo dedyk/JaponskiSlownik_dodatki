@@ -1,47 +1,3 @@
-2329154	fra	Elle est encore à l'école.
-2329155	ber	Mazal-itt deg uɣerbaz.
-2329156	fra	Nous sommes encore à l'école.
-2329157	ber	Mazal-aɣ deg uɣerbaz.
-2329158	fra	Vous êtes encore à l'école.
-2329159	ber	Mazal-iken deg uɣerbaz.
-2329160	epo	Oni povas vortigi difinojn.
-2329161	ber	Mazal-ikent deg uɣerbaz.
-2329162	fra	Ils sont encore à l'école.
-2329163	epo	Oni ne aludu pri la dokumentoj en la enkonduko.
-2329164	epo	La planon oni enmetu en la enkondukon.
-2329165	epo	Tio ne estas konkurso.
-2329166	epo	Skribado estas al mi laciga.
-2329167	epo	Kie estas la buso?
-2329168	epo	Kie troviĝas la buso?
-2329170	ber	Mazal-iten deg uɣerbaz.
-2329171	fra	Elles sont encore à l'école.
-2329172	ber	Mazal-itent deg uɣerbaz.
-2329173	ber	Tom iɛeḍḍel cwiṭ akken ad d-yaweḍ.
-2329174	fra	Je suis arrivé un peu en retard.
-2329175	ber	Ɛeḍḍleɣ cwiṭ akken ad d-awḍeɣ.
-2329176	fra	Je suis arrivée un peu en retard.
-2329178	fra	Tu es arrivé un peu en retard.
-2329179	ber	Tɛeḍḍled cwiṭ akken ad d-tawḍed.
-2329180	ber	Tɛeḍḍleḍ cwiṭ akken ad d-tawḍeḍ.
-2329181	fra	Tu es arrivée un peu en retard.
-2329183	epo	Bonan matenon. Jam estas tempo vekiĝi.
-2329185	epo	En Japanio, kontraŭe, la problemo preskaŭ ne ekzistas, kaj nur dek loĝantoj el miliono mortas jare rezulte de uzado de sukeritaj trinkaĵoj.
-2329186	fra	Il est arrivé un peu en retard.
-2329188	ber	Iɛeḍḍel cwiṭ akken ad d-yaweḍ.
-2329189	epo	Tio estas veto.
-2329190	fra	Elle est arrivée un peu en retard.
-2329191	ber	Tɛeḍḍel cwiṭ akken ad d-taweḍ.
-2329192	fra	Marie est arrivée un peu en retard.
-2329193	epo	Estas meksikanino, kiu instruis al li la hispanan.
-2329194	ber	Marie tɛeḍḍel cwiṭ akken ad d-taweḍ.
-2329195	fra	Nous sommes arrivés un peu en retard.
-2329196	ber	Nɛeḍḍel cwiṭ akken ad d-naweḍ.
-2329197	fra	Nous sommes arrivées un peu en retard.
-2329199	fra	Vous êtes arrivés un peu en retard.
-2329200	ber	Tɛeḍḍlem cwiṭ akken ad d-tawḍem.
-2329201	fra	Vous êtes arrivées un peu en retard.
-2329202	ber	Tɛeḍḍlemt cwiṭ akken ad d-tawḍemt.
-2329203	fra	Ils sont arrivés un peu en retard.
 2329204	epo	La knabinetoj kutimis iri ĉiutage al la vilaĝo, por serĉi laboron; poste ili transdonis al sia patrino la enspezitan monon.
 2329205	ber	Ɛeḍḍlen cwiṭ akken ad d-awḍen.
 2329206	epo	Ŝi ne apartenas al vi.
@@ -586,7 +542,7 @@
 2329779	fra	J'ai trouvé la boucle d'oreille que vous aviez perdue.
 2329780	epo	Maria respondis.
 2329781	fra	J'ai trouvé cela fascinant.
-2329782	epo	Tom respondis.
+2329782	epo	Tomo respondis.
 2329783	bul	Новините представят само едната страна на истината.
 2329784	epo	Li respondis.
 2329786	bul	Ще бъда там.
@@ -2127,7 +2083,7 @@
 2331488	nno	Tom følgde nøye med på kva som skjedde.
 2331489	nob	Tom følgte nøye med på hva som skjedde.
 2331490	deu	Maria nimmt keine Geschenke an.
-2331491	epo	Maria ne akceptas donacojn.
+2331491	epo	Manjo ne akceptas donacojn.
 2331492	deu	Sie nimmt keine Geschenke an.
 2331493	epo	Ŝi ne akceptas donacojn.
 2331494	deu	Tom nimmt keine Geschenke an.
@@ -6306,7 +6262,7 @@
 2336120	deu	Die alte Frau hat niemanden, der auf sie wartet.
 2336121	nld	Kunnen konijnen zwemmen?
 2336122	deu	Die alte Dame wartet oft vergebens am Bahnhof auf ihren Sohn.
-2336123	deu	Das alte Paar gab seinen Sohn auf.
+2336123	deu	Das alte Paar gab seinen Sohn als vermisst auf.
 2336124	deu	Das alte Ehepaar begab sich auf Weltreise.
 2336125	rus	Мы не смогли покинуть дом из-за сильной метели.
 2336126	deu	Fieber und dauernder Husten schwächten die alte Dame.
@@ -8115,12 +8071,12 @@
 2338143	spa	Tom está en el jardín.
 2338144	spa	Tom está en el baño.
 2338145	deu	„Maria stellte mir ernsthaft die Frage, warum ich der Meinung sei, mehr wert zu sein als ein Kaktus“, beschwerte sich Tom.
-2338146	epo	‘Maria serioze starigis al mi la demandon, kial mi opinias, ke mi valoras pli ol kakto’, plendis Tom.
+2338146	epo	„Manjo serioze starigis al mi la demandon, kial mi opinias, ke mi valoras pli ol kakto“, plendis Tomo.
 2338147	epo	Marx diris, ke li ne estas marksisto.
 2338148	deu	Marx sagte, er sei kein Marxist.
 2338149	deu	Maria liebt Kakteen. Ihre ganze Wohnung steht voll davon.
 2338150	rus	Но этот вопрос я оставляю для другого раза.
-2338151	epo	Maria tre ŝatas kaktojn. Ŝia tuta loĝejo estas plena de ili.
+2338151	epo	Manjo tre ŝatas kaktojn. Ŝia tuta loĝejo estas plena de ili.
 2338152	epo	Sed tiun demandon mi lasos por alia fojo.
 2338153	rus	Этот вопрос я оставляю для читателей.
 2338154	epo	Tiun demandon mi lasas al la legantoj.
@@ -10199,7 +10155,7 @@
 2340392	deu	Du hast zugenommen.
 2340395	epo	Vi plipeziĝis.
 2340396	epo	Li plipeziĝis.
-2340398	epo	Maria plipeziĝis.
+2340398	epo	Manjo plipeziĝis.
 2340399	epo	Ni plipeziĝis.
 2340400	epo	Ili plipeziĝis.
 2340401	deu	Ich habe an Gewicht zugelegt.
@@ -12958,7 +12914,7 @@
 2343405	epo	Dialogo — tio estas esence ĉeno de replikoj.
 2343406	spa	Uno igual puede vivir sin perro, pero no vale la pena.
 2343407	spa	Las preocupaciones no se ahogan en alcohol. Saben nadar.
-2343408	spa	La suerte solo ayuda a veces. Trabaja siempre.
+2343408	spa	La suerte solo ayuda a veces, el trabajo siempre ayuda.
 2343409	spa	No son las personas que cuentan más años las que más han vivido, sino las que más han sentido su vida.
 2343410	spa	El alfabeto del esperanto está basado en el alfabeto del latín.
 2343412	spa	Ella se compró un camión usado.
@@ -17794,10 +17750,10 @@
 2348533	deu	Ihr gingt mit Maria nach Boston.
 2348534	deu	Wir sind mit Maria nach Boston gegangen.
 2348535	deu	Wir gingen mit Maria nach Boston.
-2348536	epo	Ni iris kun Maria al Bostono.
+2348536	epo	Ni iris kun Manjo al Bostono.
 2348537	deu	Sie ist mit Maria nach Boston gegangen.
 2348538	deu	Sie ging mit Maria nach Boston.
-2348539	epo	Ŝi iris kun Maria al Bostono.
+2348539	epo	Ŝi iris kun Manjo al Bostono.
 2348540	nds	He is mit Ria na Boston föhrt.
 2348541	nds	He föhr mit Ria na Boston.
 2348542	epo	Li iris kun Manjo al Bostono.
@@ -22577,11 +22533,11 @@
 2353734	epo	La donaco, kiun ili aĉetis, estas por ili mem.
 2353736	epo	Tomo ne estas mortinta.
 2353737	epo	La libro estas sur la skribotablo.
-2353738	epo	Tom atendas.
+2353738	epo	Tomo atendas.
 2353739	epo	Tom estas atendanta.
 2353740	deu	Man gab General Grant die Schuld.
 2353741	epo	Tom estas kantanta.
-2353742	epo	Tom kantas.
+2353742	epo	Tomo kantas.
 2353743	deu	Während ich arbeitete, dachte ich an etwas anderes.
 2353744	epo	Tom estas edziĝinta.
 2353745	deu	Du musst den Stier bei den Hörnern packen!
@@ -22589,7 +22545,7 @@
 2353748	epo	Tom sentis, ke li havas ŝancon.
 2353749	fra	La voiture est vieille, mais elle est bonne.
 2353750	epo	Mi ne scias, kiam la printempo venos kaj kiam la floroj ekfloros. Ankoraŭ neĝis ĉimatene.
-2353751	epo	Tom mortis sola.
+2353751	epo	Tomo mortis sola.
 2353752	jpn	日本語教師でなければタトエバに参加してはいけないのですか。
 2353753	epo	Tom ne povas marŝi.
 2353754	epo	Tom ne povas paroli.
@@ -24805,7 +24761,7 @@
 2356127	ita	Apprezzo davvero tutto il tuo aiuto.
 2356128	ita	Apprezzo davvero tutto il suo aiuto.
 2356129	ita	Apprezzo davvero tutto il vostro aiuto.
-2356130	epo	Legi la poeziajn leterojn de Tom ĉiam estis granda plezuro por Maria.
+2356130	epo	Legi la poeziajn leterojn de Tomo ĉiam estis granda plezuro por Manjo.
 2356131	ita	Lo spettacolo era così popolare che il teatro era quasi pieno.
 2356132	ita	Peter non assomiglia per niente a suo padre.
 2356133	ita	A Tom piacciono i combattimenti tra galli.
@@ -34541,7 +34497,7 @@
 2366252	epo	Tom ne estas malsana.
 2366253	epo	Mia fratino estis ano de la korbopilka klubo pasintjare.
 2366254	epo	Ŝi ne estas malsana.
-2366255	epo	Maria ne estas malsana.
+2366255	epo	Manjo ne estas malsana.
 2366256	epo	Ni ne estas malsanaj.
 2366257	deu	Wird er ertappt, so muss er siebenfach bezahlen.
 2366258	epo	Mi ne estas malsana.
@@ -34580,7 +34536,7 @@
 2366294	epo	Vi ne estis malsanaj.
 2366295	epo	Ni ne estis malsanaj.
 2366296	nld	Ik keek door een venster van mijn huis.
-2366297	epo	Maria ne estis malsana.
+2366297	epo	Manjo ne estis malsana.
 2366298	epo	Apud ĉiu angulo ŝi embuskas.
 2366299	epo	Tom ne estis malsana.
 2366300	fra	Mon cher frère, n'oublions pas que l'homme ne peut pas renoncer à lui-même.
@@ -34735,7 +34691,7 @@
 2366457	epo	Mi estas ĵaluza.
 2366458	epo	Vi ne estis ĵaluzaj.
 2366459	epo	Ni ne estis ĵaluzaj.
-2366460	epo	Maria ne estis ĵaluza.
+2366460	epo	Manjo ne estis ĵaluza.
 2366461	epo	Ŝi ne estis ĵaluza.
 2366462	epo	Tom ne estis ĵaluza.
 2366463	epo	Li ne estis ĵaluza.
@@ -34752,7 +34708,7 @@
 2366475	epo	Tom ne estas ĵaluza.
 2366476	epo	Ŝi ne estas ĵaluza.
 2366477	deu	Plötzlich hört das Weinen auf. Das Mädchen war nicht mehr da, es war verschwunden!
-2366478	epo	Maria ne estas ĵaluza.
+2366478	epo	Manjo ne estas ĵaluza.
 2366479	epo	Ni ne estas ĵaluzaj.
 2366480	epo	Vi ne estas ĵaluzaj.
 2366481	epo	Ili ne estas ĵaluzaj.
@@ -34760,7 +34716,7 @@
 2366484	epo	Li estos ĵaluza.
 2366485	epo	Tom estos ĵaluza.
 2366486	epo	Ŝi estos ĵaluza.
-2366487	epo	Maria estos ĵaluza.
+2366487	epo	Manjo estos ĵaluza.
 2366488	epo	Ni estos ĵaluzaj.
 2366489	epo	Vi estos ĵaluzaj.
 2366490	epo	Ili estos ĵaluzaj.
@@ -34791,7 +34747,7 @@
 2366515	heb	אתם מקנאים.
 2366516	epo	Ŝi ne estos ĵaluza.
 2366517	heb	אתן מקנאות.
-2366518	epo	Maria ne estos ĵaluza.
+2366518	epo	Manjo ne estos ĵaluza.
 2366519	heb	אנו מקנאים.
 2366520	heb	אנו מקנאות.
 2366521	epo	Ni ne estos ĵaluzaj.
@@ -48200,7 +48156,7 @@
 2380502	jpn	彼はいつも金欠だ。
 2380503	spa	A Kazu le gustan mucho los deportes.
 2380504	deu	Bei der Metaphysik-Prüfung in der Schule habe ich geschummelt — ich versetzte mich in die Seele meines Tischnachbarn.
-2380505	ido	Parolar Angliana linguo bona esas desfacila.
+2380505	ido	Parolar l'Angliana linguo bone esas desfacila.
 2380506	prg	Tāns aulaūwa rākas paggan panzdauman mettan.
 2380507	ido	Ica texto esas tradukinda.
 2380508	por	Este texto é digno de ser traduzido.
@@ -49998,3 +49954,47 @@
 2382444	fra	Elle applaudissait.
 2382445	ber	Tella tettseffiq.
 2382446	fra	Marie applaudissait.
+2382448	fra	Nous applaudissions.
+2382449	heb	אני אוכל תפוח עץ.
+2382450	heb	אני אוכלת תפוח עץ.
+2382451	heb	אני יודע שאתה אוהב קפה.
+2382452	heb	אני יודעת שאתה אוהב קפה.
+2382453	heb	אני יודע שאת אוהבת קפה.
+2382454	heb	אני יודעת שאת אוהבת קפה.
+2382455	rus	И чем же тебе нравится эта работа?
+2382456	deu	Und wie gefällt dir denn diese Arbeit?
+2382457	epo	Kaj kiel al vi plaĉas tiu ĉi laboro?
+2382458	heb	אני יודע שאתה אוהב אותי.
+2382459	eng	We don't have a second choice.
+2382460	rus	Не забудь взять мои вещи из багажника!
+2382461	deu	Vergiss nicht meine Sachen aus dem Kofferraum zu nehmen!
+2382462	epo	Ne forgesu preni miajn aĵojn el la pakaĵujo!
+2382463	ita	Non abbiamo una seconda occasione.
+2382464	rus	У меня сегодня другие планы.
+2382465	heb	אני יודעת שאתה אוהב אותי.
+2382466	heb	אני יודע שאת אוהבת אותי.
+2382467	epo	Hodiaŭ mi havas aliajn planojn.
+2382468	heb	אני יודעת שאת אוהבת אותי.
+2382469	heb	אני יודע שאתה אוהב ספורט.
+2382470	deu	Ich habe heute andere Pläne.
+2382471	heb	אני יודעת שאתה אוהב ספורט.
+2382472	heb	אני יודע שאת אוהבת ספורט.
+2382473	heb	אני יודעת שאת אוהבת ספורט.
+2382474	deu	Ich habe heute anderes vor.
+2382475	jbo	mi na kakne lo ka finti lo xauzma befi lo nu salci lo nu mi spenu'e lo xagrai pendo be mi
+2382476	heb	אני יודע שאתה אוהב מה שתום נתן לי.
+2382477	heb	אני יודעת שאתה אוהב מה שתום נתן לי.
+2382480	heb	אני יודע שאתם אוהבים מה שתום נתן לי.
+2382482	heb	אני יודעת שאתם אוהבים מה שתום נתן לי.
+2382484	heb	אני יודעת שאת אוהבת מה שתום נתן לי.
+2382488	rus	У меня есть отличный план.
+2382490	deu	Ich habe einen ausgezeichneten Plan.
+2382491	heb	אני יודע שאתה אוהב את תום.
+2382492	heb	אני יודעת שאתה אוהב את תום.
+2382493	heb	אני יודע שאת אוהבת את תום.
+2382494	epo	Mi havas bonegan planon.
+2382495	heb	אני יודעת שאת אוהבת את תום.
+2382496	heb	אני יודע שאתם אוהבים את תום.
+2382497	heb	אני יודעת שאתם אוהבים את תום.
+2382498	heb	אני יודע שאתה לועג לי מאחורי הגב.
+2382499	heb	אני יודעת שאתה לועג לי מאחורי הגב.

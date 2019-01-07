@@ -1,38 +1,3 @@
-2061295	tur	Öyle söylemek güvenlidir.
-2061296	tur	Hafif rüzgarlı.
-2061297	rus	Не кормите этих животных!
-2061298	spa	¿Puedo dejar aquí mi bolsa?
-2061299	spa	¿Adónde han ido todos?
-2061300	ita	Emily ha risposto correttamente alla domanda.
-2061301	spa	¿Por qué no lo has hecho?
-2061302	spa	¿Por qué no lo hiciste?
-2061303	tur	O hâlâ kayıp eşya bürosunda.
-2061304	spa	Tom solo bebe café.
-2061305	spa	Él no parece feliz.
-2061306	tur	Burası havasız.
-2061307	spa	No puedo hacerlo solo.
-2061308	spa	No puedo hacerlo sola.
-2061309	tur	Bu zaman alıcı.
-2061310	tur	O tamamen normal.
-2061311	spa	No te vayas, por favor.
-2061312	tur	O çok kafa karıştırıcı.
-2061313	tur	O çok zor.
-2061314	spa	Dame tu dirección.
-2061315	spa	¿Tienes miedo de Tom?
-2061316	tur	O çok etkili.
-2061319	tur	O çok duyarlı.
-2061321	tur	O değersiz bir hurda.
-2061322	tur	İnsanın doğasında var.
-2061353	rus	Том пожарник.
-2061365	heb	אתם לא רעבים?
-2061366	heb	אתן לא רעבות?
-2061368	spa	Zurich es el segundo mercado de oro más grande del mundo después de Londres.
-2061369	rus	Одиночество отталкивает. Оно овеяно грустью и не может вызывать в людях ни интереса, ни симпатии. Человек стыдится своего одиночества. Но в той или иной степени одиночество - удел каждого.
-2061370	epo	Li laboras pri tio.
-2061371	epo	Li umas pri tio.
-2061376	spa	La muñeca era sorprendentemente realista.
-2061377	spa	Desafina.
-2061379	spa	¡No toques la olla!
 2061383	spa	Mary le explicó a Tom que la broma se basaba en un doble sentido.
 2061385	heb	גנגנם סטייל הוא הסרטון הנצפה ביותר ביוטיוב.
 2061386	heb	היא במטבח.
@@ -9441,7 +9406,7 @@
 2072478	tur	Tom'la evlenemezsin.
 2072479	rus	Я отправил тебе это два дня назад.
 2072480	hin	मैं पन्द्रह साल शिक्षक था।
-2072481	hin	मैं पन्द्रह साल शिक्षिका थी।
+2072481	hin	मैं पंद्रह साल शिक्षिका थी।
 2072482	tur	Onu demek istiyor olamazsın.
 2072483	hin	यहां टॉम के साथ रहो।
 2072484	hin	यहां टॉम के साथ रुको।
@@ -25694,7 +25659,7 @@
 2090354	mar	मला तसल्या प्रकारची गोष्ट कळवूनसुद्धा घ्यायची नाही आहे.
 2090355	mar	झाडाची पानं लाल झाली.
 2090356	mar	हे पत्र कोणी लिहिलं हे स्पष्ट नाही आहे.
-2090357	mar	मला रात्री जाग्या राहण्याची सवय नाही आहे.
+2090357	mar	मला रात्री जागा राहण्याची सवय नाही आहे.
 2090358	eng	It's enough!
 2090359	mar	मी काहीतरी विसरतोय असं मला वाटत आहे.
 2090360	mar	मी काहीतरी विसरतेय असं मला वाटत आहे.
@@ -31973,7 +31938,7 @@
 2096916	fra	Le braqueur menaçait la caissière avec une arme factice.
 2096917	por	A guerra terminara.
 2096918	epo	Tom rifuzis cedi.
-2096919	epo	Maria iris al la malgranda persikarbareto proksime de sia domo por trankvile mediti.
+2096919	epo	Manjo iris al la malgranda persikarbareto, proksima de sia domo, por trankvile mediti.
 2096920	spa	En Japón, la gente come tres veces al día.
 2096921	deu	Tom wusste das nicht.
 2096922	epo	Hieraŭ mi havis kelkajn malfacilaĵojn trovi ŝian domon.
@@ -32096,7 +32061,6 @@
 2097040	por	Ela é jovem demais para conhecer a verdade.
 2097041	por	Ele tem pouco dinheiro com ele.
 2097042	por	Não se preocupe! Não direi nada a ninguém.
-2097044	eng	Tom doesn't like mathmatics.
 2097045	por	Tom não gosta de matemática.
 2097046	por	Tom não curte matemática.
 2097047	epo	Vi povas esti pli rapida ol nun. Ne nur opiniu, ke vi povas, sed sciu, ke vi povas.
@@ -40350,7 +40314,7 @@
 2105835	por	Todo mundo quer viver uma vida feliz.
 2105837	por	Eu e ele somos professores.
 2105838	por	Esse quarto não é muito grande.
-2105839	por	Em Cingapura falam inglês.
+2105839	por	Em Singapura falam inglês.
 2105841	por	Sou muito alta.
 2105842	por	Você gosta de vinho branco?
 2105843	por	O livro é velho.
@@ -49998,3 +49962,39 @@
 2116060	deu	Wir werden aus seinem Handeln ersehen, ob er uns freundlich oder feindlich gesonnen ist.
 2116061	deu	Sage, was du noch weißt.
 2116062	deu	Toleranz ist in dieser Welt die beste Eigenschaft.
+2116063	deu	Er ist der Beste der Männer.
+2116064	deu	Am schönsten hast du geschrieben.
+2116065	deu	Wir haben von ihm nur ganz wenig gehört.
+2116066	deu	Nicht jedes Pferd ist zum Springreiten geeignet.
+2116067	deu	Er vermag wirklich alle zu lieben.
+2116068	deu	Das Baby schläft ruhig.
+2116069	deu	Der Säugling schläft ruhig.
+2116070	epo	La suĉinfano dormas trankvile.
+2116071	deu	Wie glücklich ich bin, dich zu sehen!
+2116072	deu	Wohin trägt uns die Geschichte?
+2116073	deu	Es gibt weit mehr Yuan- als Euromillionäre auf der Welt.
+2116074	deu	Tom steht in der Ecke des Zimmers.
+2116075	deu	Tom steht in der Zimmerecke.
+2116076	deu	Tom betrat Marias Zimmer.
+2116077	epo	Tom eniris la ĉambron de Manjo.
+2116078	epo	Subite ekmallumiĝis ekstere.
+2116079	epo	Li evitas min.
+2116080	epo	Tom staras en la angulo de la ĉambro.
+2116081	epo	La latina lingvo ne estas tute fremda al mi, sed la povo paroli ĝin tute mankas al mi.
+2116082	deu	Tom wird dort sein.
+2116084	epo	Tom estos tie.
+2116085	deu	Warten Sie kurz!
+2116086	epo	Ni devas fari la laboron ene de unu tago.
+2116087	epo	Mi ne plu havas poŝtelefonon.
+2116089	deu	Maria spart Geld für eine Japanreise.
+2116090	deu	Kein Mädchen in meiner Klasse ist hübscher als Linda.
+2116091	deu	Kein Mädchen in meiner Klasse ist süßer als Linda.
+2116092	deu	Keines der Mädchen in meiner Klasse ist hübscher als Linda.
+2116093	deu	Ken kam nicht auf seinen Namen.
+2116095	deu	Erkennst du den Unterschied?
+2116096	deu	Das ist das Beste auf Erden.
+2116097	deu	Sei artig, während ich weg bin!
+2116098	epo	Portu manĝaĵojn.
+2116099	deu	Welche Suren des Korans kannst du vortragen?
+2116100	epo	Kiujn suraojn de la Korano vi povas reciti?
+2116101	deu	Maria fand es schrecklich, mitansehen zu müssen, wie die Helden ihrer Kindheit allmählich erschwachten und vergreisten.

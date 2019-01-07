@@ -1,69 +1,3 @@
-3773333	spa	Adoro los bombones, especialmente los de frutos secos.
-3773334	spa	Me encantan los bombones, especialmente los de frutos secos.
-3773335	spa	¿A qué hora te marchas?
-3773336	spa	¿A qué hora os marcháis?
-3773337	spa	Sírvete un trozo de pastel.
-3773338	spa	Servíos un trozo de pastel.
-3773339	spa	Sírvase un trozo de pastel.
-3773340	spa	Sírvanse un trozo de pastel.
-3773341	rus	Спасибо-преспасибо!
-3773342	rus	"Я люблю тебя", - прошептал он.
-3773343	rus	"Я люблю тебя", - прошептала она.
-3773344	spa	La película de animación está basada en una novela.
-3773345	rus	Обожаю шоколадные конфеты, особенно с орехами.
-3773346	rus	За что вы меня так ненавидите?
-3773347	rus	За что ты меня так ненавидишь?
-3773348	fra	« Je t'aime », chuchota-t-elle.
-3773349	fra	« Je t'aime », chuchota-t-il.
-3773350	ina	Illa habeva designate per un stilo de graphite un parve paisage.
-3773351	rus	Вы моя единственная надежда.
-3773352	rus	Ты моя единственная надежда.
-3773353	deu	Na, tatoebaisierst du immer noch?
-3773354	deu	Ich gehe gerne bei einem Gespräch am Strand spazieren.
-3773355	spa	Sus gestos de desdén no me afectan.
-3773356	spa	Sus gestos desdeñosos no me afectan.
-3773357	spa	Decía palabras halagadoras pero sin dejar de fruncir el ceño.
-3773358	deu	Wenn ich Fehler mache, kannst du mich ruhig verbessern. Es würde mir helfen.
-3773359	rus	Может, кофе выпьем?
-3773360	rus	Пойду погуляю.
-3773361	jpn	私は死だ。
-3773362	ina	Io poneva le parve folio in mi libro de annotationes.
-3773363	por	O céu havia clareado no último momento.
-3773364	eng	Everyone must obey the rules. Those who don't will be punished.
-3773365	epo	La ĉielo ekheliĝis la lastan momenton.
-3773366	por	Não devemos sair todos juntos.
-3773367	eng	The new product's sales exceeded expectations.
-3773368	eng	I want to open my own restaurant.
-3773369	eng	Tom wants to open his own restaurant.
-3773370	epo	Ni ne eliru ĉiuj kune.
-3773371	por	Devemos esperar os outros aqui.
-3773372	epo	Ni atendu la aliajn ĉi tie.
-3773373	eng	I enjoy long walks on the beach.
-3773374	por	Os seis homens caminhavam em silêncio.
-3773375	spa	¿Vos creés en la teoría del calentamiento global?
-3773376	spa	Tom quiere abrir su propio restaurante.
-3773377	spa	Quiero abrir mi propio restaurante.
-3773378	spa	Tom nunca me dijo donde vivía.
-3773379	spa	Tom le dijo a todos que era adoptado.
-3773380	spa	Tom me contó una interesante historia.
-3773381	spa	Tom me dijo que estabas de vacaciones.
-3773382	spa	¿Por qué no me dijiste la verdad?
-3773383	spa	Decile a Tom que todavía estoy en una reunión.
-3773384	spa	Decime exactamente lo que escuchaste.
-3773385	eng	This is a well-written book.
-3773386	deu	Ich unternehme gerne lange Spaziergänge am Strand.
-3773387	epo	Tio estas bone skribita libro.
-3773388	deu	Das ist ein gut geschriebenes Buch.
-3773389	eng	Mary was embarrassed by her badly cooked dinner.
-3773390	epo	La ses viroj marŝis silente.
-3773391	por	Um pálido sol outonal estava batendo agora sobre um banco vazio entre dois pinheiros.
-3773392	spa	Tom jamás sonríe.
-3773393	epo	Pala aŭtuna suno nun falis sur malokupatan benkon inter du pinoj.
-3773394	por	Ele sentou-se no banco e começou a ler o livro.
-3773395	epo	Li sidiĝis sur la benko kaj komencis legi la libron.
-3773396	por	As nações são iguais entre si.
-3773397	eng	Whatever he said, it's not true.
-3773398	eng	Whatever she said, it's not true.
 3773399	eng	Whatever he told you, it's not true.
 3773400	eng	Whatever she told you, it's not true.
 3773401	eng	It's not the same without you.
@@ -862,7 +796,7 @@
 3774237	nob	Jeg har en gammel bil.
 3774238	tur	Parti çok ilginçti.
 3774239	tgl	Nagta-taco si Vinny sa restawran.
-3774240	zsm	Ada pulau-pulau dalam laut.
+3774240	zsm	Di laut ada pulau.
 3774241	tur	O oldukça iğrençti.
 3774242	tur	Tartışmanın faydası yok.
 3774243	rus	Семьдесят лет прошло с освобождения Варшавы от фашистов.
@@ -10033,7 +9967,7 @@
 3783829	ita	Non stasera, ho il mal di testa.
 3783830	ita	Non stanotte, ho il mal di testa.
 3783831	epo	Mi pensis, ke Tomo kaj Maria estas frenezaj.
-3783832	epo	Maljustaĵo ne ripariĝas per iu alia.
+3783832	epo	Maljustaĵo ne ripariĝas per alia maljustaĵo.
 3783834	heb	זה לא מפריע לי.
 3783835	ita	Voglio un letto ad acqua.
 3783837	ita	Io voglio un letto ad acqua.
@@ -20664,7 +20598,7 @@
 3794912	deu	Wie bist du an deinen Spitznamen gekommen?
 3794913	rus	Я предлагаю вам сделку.
 3794914	deu	Wie kamst du an deinen Spitznamen?
-3794915	deu	Wer gab dir deinen Spitznamen?
+3794915	deu	Von wem hast du deinen Spitznamen?
 3794916	eng	Labor created man.
 3794917	heb	מה הכינוי שלך?
 3794919	deu	Entschuldigung, wissen Sie, wie spät es ist?
@@ -22329,9 +22263,9 @@
 3796663	epo	Vi tiom mankas al mi!
 3796664	rus	Кто эта девушка в розовом платье?
 3796665	tur	Bu benim de başıma gelir.
-3796666	hin	दुर्घटना में काई लोग मारे गये।
+3796666	hin	दुर्घटना में कई लोग मारे गये।
 3796667	fin	Tom puhuu paremmin ranskaa kuin Mari.
-3796668	hin	उस दुर्घटना में काई लोगों की मौत हो गयी।
+3796668	hin	उस दुर्घटना में कई लोगों की मौत हो गयी।
 3796669	tur	Çok hızlı yazar.
 3796670	epo	Multaj soldatoj estis mortigitaj.
 3796671	fin	Tom puhuu sekä ranskaa että englantia.
@@ -40543,7 +40477,7 @@
 3816708	ita	Lei andava a cavallo.
 3816709	ita	Tom andava a cavallo.
 3816710	ita	Marie andava a cavallo.
-3816712	ita	Lai andava a cavallo.
+3816712	ita	Lei andava a cavallo.
 3816713	ita	Andavamo a cavallo.
 3816714	ita	Noi andavamo a cavallo.
 3816715	ita	Andavano a cavallo.
@@ -44601,7 +44535,7 @@
 3820902	eng	I was very selfish.
 3820903	eng	I didn't think Tom was so selfish.
 3820904	eng	Mary is the most beautiful girl I've ever seen.
-3820905	eng	Tom arrived ten minutes ago, but I haven't yet him seen.
+3820905	eng	Tom arrived ten minutes ago, but I haven't yet seen him.
 3820906	eng	Tom couldn't tell Mary what he'd seen.
 3820907	eng	I can remember some faces, but there are some people here I don't remember seeing.
 3820908	eng	What movie did you see?
@@ -49500,7 +49434,7 @@
 3825829	eng	I'll buy that CD.
 3825830	eng	I don't like this CD.
 3825831	eng	Get all these people inside the cave.
-3825832	deu	Pass' auf, was du tust.
+3825832	deu	Pass auf, was du tust.
 3825833	eng	I found it in a cave.
 3825834	eng	I was fired without cause.
 3825835	eng	We can't find the cause.
@@ -49998,3 +49932,69 @@
 3826327	eng	I think you look beautiful.
 3826328	eng	They're both beautiful.
 3826329	eng	All the girls in Tom's class are beautiful.
+3826330	eng	These colors are beautiful.
+3826331	eng	These flowers are beautiful.
+3826332	eng	These photos are beautiful.
+3826333	eng	Those girls are beautiful.
+3826334	eng	What do you think of Tom's beard?
+3826335	eng	Are you growing a beard?
+3826336	eng	I love your beard.
+3826337	eng	Tom wasn't able to shoot the bear.
+3826338	eng	Tom couldn't help but notice all the beautiful women on the beach.
+3826339	eng	We saw Tom on the beach.
+3826340	eng	Look what I found on the beach.
+3826341	eng	Where will your party be?
+3826342	eng	How much fun do you think it'll really be?
+3826343	eng	What will dessert be?
+3826344	eng	Where will the concert be?
+3826345	eng	How complicated can it be?
+3826346	eng	How difficult will it be?
+3826347	eng	Where will it be?
+3826348	eng	What good would that be?
+3826349	eng	What would the advantages be?
+3826350	eng	Why would I be here if I didn't want to be?
+3826351	eng	Have you ever noticed how unhappy Tom seems to be?
+3826352	eng	Why would I be here if I didn't have to be?
+3826353	eng	Don't you have somewhere else to be?
+3826354	eng	Where will the meeting be?
+3826355	eng	What'll your choice be?
+3826356	eng	Is everything where it should be?
+3826357	eng	Do you have any idea what that could be?
+3826358	eng	How did you know where I'd be?
+3826359	eng	Where will the picnic be?
+3826360	eng	I didn't realize how difficult this was going to be.
+3826361	eng	You're much thinner than you used to be.
+3826362	eng	Everything's just like it used to be.
+3826363	eng	You're back sooner than I thought you'd be.
+3826364	eng	We weren't as busy as I thought we'd be.
+3826365	eng	Tom wasn't as hungry as I thought he'd be.
+3826366	eng	Don't use this bathroom.
+3826367	eng	We're going to play basketball.
+3826368	eng	I want to become better at baseball.
+3826369	eng	I want to become better at playing baseball.
+3826370	eng	Tom slept in the barn.
+3826371	eng	We can hear the dog barking.
+3826372	eng	Why are you barefoot?
+3826373	eng	Tom staggered home from the bar.
+3826374	eng	I don't trust banks.
+3826375	eng	I'm going to have to get some more money out of the bank.
+3826376	eng	Tom plays bass in a rock band.
+3826377	eng	That's my favorite band.
+3826378	eng	How much is this ball?
+3826379	eng	Where's the ball?
+3826380	eng	Tom has already gone bald.
+3826381	eng	I'm sweeping the balcony.
+3826382	eng	I knew you'd like the cake that Tom baked.
+3826383	eng	Do you have any bait?
+3826384	eng	I have too many bags.
+3826385	eng	I rarely use plastic bags.
+3826386	eng	Who found my bag?
+3826387	eng	I have my things in my bag.
+3826388	eng	Tom put his new sneakers in his bag.
+3826389	eng	Is the pain usually this bad?
+3826390	eng	Would that really be so bad?
+3826391	eng	Do you think that all dictatorships are bad?
+3826392	eng	The situation is very bad.
+3826393	eng	I know it's very bad.
+3826394	eng	The weather's been really bad.
+3826395	eng	My French isn't actually that bad.
