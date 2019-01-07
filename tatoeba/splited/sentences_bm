@@ -1,36 +1,3 @@
-2007613	eng	Let's play that by ear.
-2007614	eng	Let's play a word game.
-2007615	eng	Let's not do this, Tom.
-2007616	eng	Let's move the dresser.
-2007617	eng	Let's meet for a drink.
-2007618	eng	Let's make that happen.
-2007619	eng	Let's just keep moving.
-2007620	eng	Let's just go to sleep.
-2007621	eng	Let's just go find Tom.
-2007622	eng	Let's just get to work.
-2007623	eng	Let's just get it done.
-2007624	eng	Let's hope Tom is home.
-2007625	eng	Let's hope it's enough.
-2007626	eng	Let's hear your excuse.
-2007627	eng	Let's have a bake sale.
-2007628	eng	Let's greet our guests.
-2007629	eng	Let's grab some coffee.
-2007630	eng	Let's go watch a movie.
-2007631	eng	Let's go over it again.
-2007632	eng	Let's go one at a time.
-2007633	eng	Let's go grab a burger.
-2007634	eng	Let's go get some food.
-2007635	eng	Let's go and say hello.
-2007636	eng	Let's get to the point.
-2007637	eng	Let's get in the truck.
-2007638	eng	Let's forget about Tom.
-2007639	eng	Let's finish this, Tom.
-2007640	eng	Let's do what Tom says.
-2007641	eng	Let's do this together.
-2007642	eng	Let's cut to the chase.
-2007643	eng	Let's try another one.
-2007644	eng	Let's talk about work.
-2007645	eng	Let's talk about this.
 2007646	eng	Let's talk about that.
 2007647	eng	Let's stop for coffee.
 2007648	eng	Let's start with this.
@@ -7815,7 +7782,7 @@
 2016065	epo	Tio estas pli amuza ol studado.
 2016066	spa	Le dio el perro a sus amigos.
 2016067	jbo	ko na tolclite
-2016068	epo	Tom estas tolerema.
+2016068	epo	Tomo estas tolerema.
 2016069	jbo	ko'a fanza
 2016070	epo	Mi volas pecon de la ŝokoladokuko.
 2016071	heb	מי שלא יכול לאכול לשובע, לא יכול גם ללקק לשובע.
@@ -10844,7 +10811,7 @@
 2019292	rus	Ты нет хочешь видеть этого, не так ли?
 2019293	hin	तुम यह देखना नहीं चाहते, ना ?
 2019295	rus	Он хорошо отзывался о её сыне.
-2019296	hin	क्या तुमने उसे देखा है ?
+2019296	hin	क्या तुमने उसे देखा है?
 2019297	fra	Il ne faudrait pas que tu commettes quelque chose d'imprudent.
 2019298	rus	Ты это видел?
 2019299	fra	Il ne s'agirait pas que tu commettes quelque chose d'imprudent.
@@ -10854,7 +10821,6 @@
 2019303	spa	Vete al garaje.
 2019304	fra	Il ne s'agirait pas que vous commettiez quelque chose d'imprudent.
 2019305	rus	Вы это видели?
-2019306	hin	क्या तुमने उसे देखा है?
 2019307	fra	Tu ne le veux pas vraiment, si ?
 2019308	fra	Tu ne veux pas vraiment ça, si ?
 2019309	rus	Ты её видел?
@@ -42173,7 +42139,6 @@
 2052768	epo	Tom senkonsciiĝis.
 2052769	ita	Marco ha comprato a suo figlio una macchina.
 2052770	spa	¿Entras o no?
-2052771	epo	Tom svenis.
 2052772	epo	Marko aĉetis al sia filo aŭtomobilon.
 2052773	spa	¿Pasas o no?
 2052774	ita	Mi sono abituato a questo clima.
@@ -46900,7 +46865,7 @@
 2057736	fra	Je l'ai obligée à faire mes devoirs.
 2057737	ber	Tawacult-inu tetteddu ɣer Ṭṭalyan yal aseggas.
 2057738	ber	Yeḍḍef aṭaksi ɣer teɣsert.
-2057739	ber	Ababay ed tyemmat ttinin-asen imawlan.
+2057739	ber	Ababat ed tyemmat ttinin-asen imawlan.
 2057740	ber	Akeyyef ad k-iḍurr s waṭas.
 2057741	ber	Akeyyef ad kem-iḍurr s waṭas.
 2057743	ber	Akeyyef ad ken-iḍurr s waṭas.
@@ -49998,3 +49963,38 @@
 2061292	fra	Tu ne peux pas enterrer la vérité.
 2061293	spa	¡No alimentar a esos animales!
 2061294	tur	Gerçekten harika.
+2061295	tur	Öyle söylemek güvenlidir.
+2061296	tur	Hafif rüzgarlı.
+2061297	rus	Не кормите этих животных!
+2061298	spa	¿Puedo dejar aquí mi bolsa?
+2061299	spa	¿Adónde han ido todos?
+2061300	ita	Emily ha risposto correttamente alla domanda.
+2061301	spa	¿Por qué no lo has hecho?
+2061302	spa	¿Por qué no lo hiciste?
+2061303	tur	O hâlâ kayıp eşya bürosunda.
+2061304	spa	Tom solo bebe café.
+2061305	spa	Él no parece feliz.
+2061306	tur	Burası havasız.
+2061307	spa	No puedo hacerlo solo.
+2061308	spa	No puedo hacerlo sola.
+2061309	tur	Bu zaman alıcı.
+2061310	tur	O tamamen normal.
+2061311	spa	No te vayas, por favor.
+2061312	tur	O çok kafa karıştırıcı.
+2061313	tur	O çok zor.
+2061314	spa	Dame tu dirección.
+2061315	spa	¿Tienes miedo de Tom?
+2061316	tur	O çok etkili.
+2061319	tur	O çok duyarlı.
+2061321	tur	O değersiz bir hurda.
+2061322	tur	İnsanın doğasında var.
+2061353	rus	Том пожарник.
+2061365	heb	אתם לא רעבים?
+2061366	heb	אתן לא רעבות?
+2061368	spa	Zurich es el segundo mercado de oro más grande del mundo después de Londres.
+2061369	rus	Одиночество отталкивает. Оно овеяно грустью и не может вызывать в людях ни интереса, ни симпатии. Человек стыдится своего одиночества. Но в той или иной степени одиночество - удел каждого.
+2061370	epo	Li laboras pri tio.
+2061371	epo	Li umas pri tio.
+2061376	spa	La muñeca era sorprendentemente realista.
+2061377	spa	Desafina.
+2061379	spa	¡No toques la olla!

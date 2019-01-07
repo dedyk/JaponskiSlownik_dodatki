@@ -1,54 +1,3 @@
-2542892	eng	I'm surprised Tom isn't here.
-2542893	eng	I'm sure your folks miss you.
-2542894	eng	I'm sure you'll be just fine.
-2542895	eng	I'm sure you understand that.
-2542896	eng	I'm sure Tom would like that.
-2542897	eng	I'm sure Tom will understand.
-2542898	eng	I'm sure Tom misses you, too.
-2542899	eng	I'm sure Tom is exaggerating.
-2542900	eng	I'm sure Tom had his reasons.
-2542901	eng	I'm sure Tom got the message.
-2542902	eng	I'm sure that's not the case.
-2542903	eng	I'm sure that was the reason.
-2542904	eng	I'm sure it's just temporary.
-2542905	eng	I'm sure it'll come in handy.
-2542906	eng	I'm sure everyone understood.
-2542907	eng	I'm still thinking about Tom.
-2542908	eng	I'm still not used to it yet.
-2542909	eng	I'm still not talking to you.
-2542910	eng	I'm still getting used to it.
-2542911	eng	I'm starting a new job today.
-2542912	eng	I'm speaking from experience.
-2542913	eng	I'm sorry you had to do that.
-2542914	eng	I'm sorry if I disturbed you.
-2542915	eng	I'm sorry I wasted your time.
-2542916	eng	I'm sorry I ever doubted you.
-2542917	eng	I'm sorry for what I've done.
-2542918	eng	I'm so glad you're here, Tom.
-2542919	eng	I'm so glad you are all here.
-2542920	eng	I'm so glad that you're here.
-2542921	eng	I'm simply stating the facts.
-2542922	eng	I'm seeing Tom again tonight.
-2542923	eng	I'm saving this seat for Tom.
-2542924	eng	I'm saving the best for last.
-2542925	eng	I'm running for city council.
-2542926	eng	I'm really worried about Tom.
-2542927	eng	I'm really good with animals.
-2542928	eng	I'm really going to miss you.
-2542929	eng	I'm pleased to have you here.
-2542930	eng	I'm picking up Tom for lunch.
-2542931	eng	I'm on my way to pick Tom up.
-2542932	eng	I'm on my way back to Boston.
-2542933	eng	I'm offering to help you now.
-2542934	eng	I'm not your teacher anymore.
-2542935	eng	I'm not willing to risk that.
-2542936	eng	I'm not telling you her name.
-2542937	eng	I'm not taking anyone's side.
-2542938	eng	I'm not sure what to believe.
-2542939	eng	I'm not sure that's possible.
-2542940	eng	I'm not sure how to put this.
-2542941	eng	I'm not sure anyone can help.
-2542942	eng	I'm not saying anything else.
 2542943	eng	I'm not responsible for this.
 2542944	eng	I'm not ready to give up yet.
 2542945	eng	I'm not particularly worried.
@@ -8405,7 +8354,7 @@
 2551452	fra	Vous êtes mortes.
 2551453	ber	Temmutemt.
 2551454	fra	Ils sont morts.
-2551455	ber	Mmuten.
+2551455	ber	Xesfen.
 2551456	fra	Elles sont mortes.
 2551457	ber	Mmutent.
 2551458	rus	Они сидели за столом в ресторане.
@@ -10172,7 +10121,7 @@
 2553363	epo	Ili faris ĝin.
 2553364	epo	Ili estas ruĝaj.
 2553365	por	Você fez a coisa certa.
-2553366	epo	Tom vokis.
+2553366	epo	Tomo vokis.
 2553367	por	Este é um erro bruto.
 2553368	rus	Ты точно не хочешь кофе?
 2553369	por	Você não é qualificado para este tipo de trabalho.
@@ -28594,7 +28543,7 @@
 2572976	rus	У меня зубная боль.
 2572977	tur	Gökkuşağının bütün renkleri siyahtır.
 2572978	aze	Göy qurşağının bütün rəngləri qaradır.
-2572979	rus	Один из моих зубов болит.
+2572979	rus	У меня болит один зуб.
 2572980	mar	श्वास धर! विषारी गॅस आहे.
 2572981	mar	श्वास धरा! हा विषारी गॅस आहे.
 2572982	aze	O, çətirini itirdi.
@@ -38052,7 +38001,7 @@
 2583004	epo	Ĉu gravas por vi, kion aliaj homoj pensas?
 2583005	epo	Ĉu ĝenas vin, se ni foriras?
 2583006	ita	Prima Dio, poi il cibo.
-2583007	epo	Estis apenaŭ kredeble, kiel avide Maria englutis la kazean kukon.
+2583007	epo	Estis apenaŭ kredeble, kiel avide Manjo englutis la kazean kukon.
 2583010	epo	Ĉu estas zorgo por vi, kiu helpos nin?
 2583011	rus	Подводная лодка скрылась в глубинах океана.
 2583012	epo	La submara ŝipo sin kaŝis en oceanaj profundoj.
@@ -45427,7 +45376,7 @@
 2590725	rus	Я думаю, вы можете нам помочь.
 2590726	spa	¿Es inmoral comer carne?
 2590727	rus	Я верю, ты можешь нам помочь.
-2590728	rus	Нечто плохое собиралось произойти.
+2590728	rus	Нечто плохое должно было произойти.
 2590729	rus	Я верю, вы можете нам помочь.
 2590732	rus	Не смейте жалеть меня.
 2590733	rus	Я знал, что Том немного говорит по-французски.
@@ -49998,3 +49947,54 @@
 2595603	por	O senhor aceitou os presentes.
 2595604	por	A senhora aceitou os presentes.
 2595605	por	Ah, se ele se casasse comigo.
+2595606	por	Ah, se ela se casasse comigo.
+2595607	por	Seria uma pena se uma palavra assim desaparecesse.
+2595608	por	Os que sabem não falam, e os que falam não sabem.
+2595609	por	Os meus amigos tinham uma bela casa à beira-mar.
+2595610	por	Eu peguei um táxi para ir da estação ao hotel.
+2595611	por	Olhem! Está nevando.
+2595612	por	Eu tenho quatro vezes mais CDs que você.
+2595613	por	Eu tenho quatro vezes mais CDs do que você.
+2595614	por	Se assim se crer, é Deus; senão, é uma pedra.
+2595615	eng	He's quite handsome, isn't he?
+2595616	por	É como procurar por uma agulha no palheiro.
+2595617	por	Se não houvesse telefones, seria inconveniente.
+2595618	por	A exposição está aberta ao público?
+2595619	por	Quando eu era criança, os meus pais me acompanhavam até a escola toda manhã.
+2595620	por	Se eu não consigo fazer isso, o que te lhe faz pensar que você consegue?
+2595621	por	Se nem eu consigo fazer isso, o que lhe faz pensar que você consegue?
+2595622	por	Dados empíricos baseiam-se somente na observação.
+2595623	por	A sua letra é muito boa.
+2595624	por	Tom recusou-se a dar a ordem.
+2595625	por	Obrigado por reportar o problema.
+2595626	por	Ele queria a minha permissão para usar o telefone.
+2595627	por	Essa não é uma boa desculpa.
+2595628	por	Ela queria a minha permissão para usar o telefone.
+2595629	por	Não beba demais.
+2595630	por	As vacas nos dão leite e as galinhas, ovos.
+2595631	por	Ela pediu a minha permissão para usar o telefone.
+2595632	eng	It's embarrassing, but I've never read Tolstoy.
+2595634	por	Posso sentar-me junto a ti?
+2595635	eng	Italian is my native language.
+2595636	por	Eu posso me sentar ao seu lado?
+2595637	por	Eu posso me sentar ao teu lado?
+2595638	por	As vacas são, para os hindus, animais sagrados.
+2595639	eng	I studied Italian in Firenze, not in Peruja.
+2595640	eng	Italo Calvino was born in 1923 in Cuba.
+2595642	eng	France has a common border with Italy.
+2595643	eng	The international code for calling Italy is 39.
+2595644	eng	I've only just started studying Italian.
+2595647	eng	The rain became snow.
+2595649	eng	My daughter is often sick.
+2595650	eng	It's been a long time since I've heard the word "baby bottle".
+2595651	eng	Yesterday was the first time in a long time that I really worked out, so all the muscles in my body ached when I woke up this morning.
+2595652	eng	I don't feel like eating animal proteins today.
+2595653	eng	Tom's room is horribly messy and you can't even put your foot anywhere.
+2595654	eng	"Eureka!" shouted Tom suddenly.
+2595655	eng	Why is the sky blue?
+2595657	eng	It's a little expensive for lunch, but the taste matches the price.
+2595658	eng	It's not legal for people under 20 to drink in Canada.
+2595659	eng	We'll go after we eat.
+2595660	eng	What do you really think about Tom?
+2595661	eng	I can't read handwritten script, so could you please write it in printed script?
+2595662	eng	I have arrived at the train station.
