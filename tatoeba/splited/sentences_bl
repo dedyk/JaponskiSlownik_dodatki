@@ -1,70 +1,3 @@
-1954561	eng	You can't let Tom drink by himself.
-1954562	eng	You can't let Tom drive that old truck. Let him drive your new car.
-1954563	eng	You can't let Tom eat anything that has peanuts in it.
-1954564	eng	We can't let Tom find Mary.
-1954565	eng	We can't let Tom get away with it.
-1954566	eng	We can't let Tom get away with murdering those four people.
-1954567	eng	You can't let Tom get away with telling lies about you.
-1954568	eng	You can't let Tom get away with that.
-1954569	eng	We can't let Tom get away with this.
-1954570	eng	You can't let Tom get on that train.
-1954571	eng	I can't let Tom go alone.
-1954572	eng	You can't let Tom go outside.
-1954573	eng	We can't let Tom go.
-1954574	eng	You can't let Tom have his own way.
-1954575	eng	We can't let Tom have that diamond.
-1954576	eng	We can't let Tom in.
-1954577	eng	We can't let Tom keep seeing Mary.
-1954578	eng	We can't let Tom know we're coming.
-1954579	eng	We can't let Tom leave with Mary.
-1954580	eng	We can't let Tom out of our sight.
-1954581	eng	We can't let Tom practice piano so late at night.
-1954582	eng	I can't let Tom see me like this.
-1954583	eng	You can't let Tom stay here.
-1954584	eng	You can't let Tom suffer.
-1954585	eng	We can't let Tom walk. Let's give him a ride.
-1954586	eng	We can't let Tom wander around the mall.
-1954587	eng	We can't let Tom wander around the park by himself.
-1954588	eng	You can't let Tom win.
-1954589	eng	I can't let you do that and that's all there is to it.
-1954590	eng	I can't let you do that.
-1954591	eng	I can't let you drink by yourself. Let me join you.
-1954592	eng	I can't let you enter without a pass.
-1954593	eng	I can't let you give me your last ten dollars.
-1954594	eng	I can't let you go in there alone.
-1954595	eng	I can't let you in.
-1954596	eng	I can't let you leave.
-1954597	eng	I can't let you out of my sight.
-1954598	eng	I can't let you push me around anymore.
-1954599	eng	I can't let you risk it.
-1954600	eng	I can't let you sacrifice yourself.
-1954601	eng	I can't let you use that.
-1954602	eng	I can't lie like this anymore.
-1954603	eng	I can't lie to Tom again.
-1954604	eng	We can't lie to Tom.
-1954605	eng	Tom can't lift that crate by himself.
-1954606	eng	I can't listen to this anymore.
-1954607	eng	I can't live in this house anymore.
-1954608	eng	You can't live like that anymore.
-1954609	eng	I can't live like this anymore.
-1954610	eng	I can't live on my own.
-1954611	eng	You can't live on potato chips.
-1954612	eng	I can't live with you anymore.
-1954613	eng	You can't live your life under these conditions.
-1954614	eng	I can't locate the source of the problem.
-1954615	eng	We can't look at that right now.
-1954616	eng	I can't look at this anymore.
-1954617	eng	I can't look at Tom.
-1954618	eng	I can't look the other way anymore.
-1954619	eng	We can't lose sight of that.
-1954620	eng	You can't lose what you don't have.
-1954621	eng	You can't lose.
-1954622	eng	We can't lose.
-1954623	eng	I can't make a decision about that right now.
-1954624	eng	I can't make an exception.
-1954625	eng	I can't make any promises.
-1954626	eng	I can't make decisions by myself.
-1954627	eng	I can't make ends meet now.
 1954628	eng	Tom can't make his own decisions.
 1954629	eng	I can't make it alone.
 1954630	eng	I can't make it any clearer than that.
@@ -1233,7 +1166,7 @@
 1955822	epo	Mi ne sukcesas trovi, kiel solvi la problemon.
 1955823	epo	Por ni estas penseble perdi Tom kiel membron de la teamo ĝuste nun.
 1955824	epo	Ĉesu esti tiom scivolema.
-1955825	epo	Mi ne povas elteni Tom.
+1955825	epo	Mi ne povas elteni Tomon.
 1955826	epo	Katoj malŝategas akvon.
 1955827	epo	Por ni ne estas penseble perdi vin.
 1955828	epo	Tio estas relative impona.
@@ -3218,7 +3151,7 @@
 1958018	heb	אני מרגיש קצת חולה, אבל בכל צורה אני רוצה לצאת החוצה.
 1958019	heb	שני הנערים התחילו להטיח זה בזה אשמה.
 1958020	rus	Верхушка крутится по часовой стрелке.
-1958021	epo	Tom metas sian brakon ĉirkaŭ Mary.
+1958021	epo	Tomo metas sian brakon ĉirkaŭ Manjon.
 1958022	heb	הזיקוקים שקנה סבי עדיין במצב טוב.
 1958023	heb	סגרתי את כל ששת החלונות.
 1958025	epo	La keksoj ĉiuj estas steloformaj.
@@ -18581,7 +18514,6 @@
 1974151	por	Tem um gato na cozinha.
 1974152	jbo	le'o go ko mrilu lo se citka ginai mi catra pa lo pinfu
 1974155	epo	Mia patrino farantas fazeolojn en la kuirejo.
-1974156	epo	Nia hundo estas en la hundejo.
 1974157	por	Há um tempo atrás havia uma igreja aqui.
 1974158	por	Ficarei aqui até as dez.
 1974159	epo	S-ino Lee estas tre babilema.
@@ -26031,7 +25963,7 @@
 1982038	tur	O, ölene kadar en iyi arkadaşım olarak kaldı.
 1982039	epo	Se vi iros en la arbaron, atentu pri la homvoremaj ogroj!
 1982040	epo	Ŝi estis brava kaj gaja kaj siajn problemojn ne ofte prezentis.
-1982041	spa	Fata a sarit in sus la şansa plecării la New York.
+1982041	ron	Fata a sarit in sus la şansa plecării la New York.
 1982042	tur	Bir piyanist olduğunu söyledi fakat o bir yalandı.
 1982043	ron	Uraşte morcovii.
 1982044	epo	Mi spektas televidon antaŭ ol studi.
@@ -28170,7 +28102,6 @@
 1984277	ita	C'è molto di vero in questa vignetta.
 1984278	ita	Sono in buona compagnia.
 1984279	ita	L'ipocrisia è dell'uomo.
-1984280	ita	Mia suocera è tale quale.
 1984281	ita	Così nessuno si lamenta!
 1984283	ita	Prima hanno intervistato un paio di politici.
 1984284	nno	Van Horn-familien var rik.
@@ -37413,7 +37344,7 @@
 1993988	rus	Ты не писал и не звонил.
 1993989	epo	Mi ne scias, kiel mi faris tion. Kio gravas estas, ke mi ja faris tion.
 1993990	rus	Меня не увольняли. Я сама уволилась.
-1993991	epo	Ne malŝpari tempon pro bagateloj.
+1993991	epo	Ne malŝparu tempon pro bagateloj.
 1993992	epo	Li tre interesiĝas pri japana historio.
 1993993	jbo	mi xebni roda soi vo'a
 1993994	epo	Mi scias ion pli bonan ol kvereli kun ŝi pri bagateloj.
@@ -40743,7 +40674,6 @@
 1997579	deu	Tom ist tot.
 1997580	deu	Hat Tom angerufen?
 1997581	deu	Wie geht es in der Schule?
-1997582	deu	Ich muss los.
 1997583	fra	L'as-tu entendu ?
 1997584	fra	L'avez-vous entendu ?
 1997586	deu	Das hat ihr gefallen.
@@ -41767,7 +41697,7 @@
 1998658	dan	Kør videre.
 1998659	fra	Elle le hait.
 1998660	fra	Elle le déteste.
-1998661	dan	Stille.
+1998661	dan	Vær stille!
 1998663	dan	Hent Tom.
 1998664	deu	Mein Team besteht aus zehn Personen.
 1998665	deu	Meine Arbeitsgruppe besteht aus zehn Personen.
@@ -45671,7 +45601,7 @@
 2002932	epo	Ĉu tason da teo aŭ ion, se vi havas tempon?
 2002933	epo	Ne estu timema en kunesto kun aliaj.
 2002934	epo	Kion, diable, li scias pri ĝi?
-2002935	epo	Tom estas tre danĝera.
+2002935	epo	Tomo estas tre danĝera.
 2002936	epo	Tom malofte malfruas.
 2002937	epo	Mi povas iri al la universitato.
 2002938	epo	Tom urĝis Mary diri al John la veron.
@@ -46465,7 +46395,7 @@
 2003782	epo	Mia patro nek fumas nek drinkas.
 2003783	epo	Li ĵetis pilkon trans la barilon.
 2003784	epo	Li grimpis trans la barilon.
-2003785	epo	Li eskapis el malliberejo grimpante trans muron.
+2003785	epo	Li eskapis el la malliberejo, grimpante trans muron.
 2003786	epo	Li ne faras al si skrupulojn pri mensogado.
 2003787	fra	Les alpinistes ont passé tranquillement la nuit en dormant.
 2003788	hun	Még ha igaz is, nem fontos.
@@ -49998,3 +49928,73 @@
 2007643	eng	Let's try another one.
 2007644	eng	Let's talk about work.
 2007645	eng	Let's talk about this.
+2007646	eng	Let's talk about that.
+2007647	eng	Let's stop for coffee.
+2007648	eng	Let's start with this.
+2007649	eng	Let's start with that.
+2007650	eng	Let's settle this now.
+2007651	eng	Let's see you do that.
+2007652	eng	Let's play a new game.
+2007653	eng	Let's pay Tom a visit.
+2007654	eng	Let's offer it to Tom.
+2007655	eng	Let's not go to class.
+2007656	eng	Let's not get excited.
+2007657	eng	Let's not do this now.
+2007658	eng	Let's make this short.
+2007659	eng	Let's make this quick.
+2007660	eng	Let's make this brief.
+2007661	eng	Let's keep it private.
+2007662	eng	Let's just sing songs.
+2007663	eng	Let's have Tom decide.
+2007664	eng	Let's go to the party.
+2007665	eng	Let's go home, please.
+2007666	eng	Let's go get a burger.
+2007667	eng	Let's go check on Tom.
+2007668	eng	Let's go and find Tom.
+2007669	eng	Let's give Tom a hand.
+2007670	eng	Let's give it a whirl.
+2007671	eng	Let's get some dinner.
+2007672	eng	Let's get some coffee.
+2007673	eng	Let's get another one.
+2007674	eng	Let's figure this out.
+2007675	eng	Let's enjoy ourselves.
+2007676	eng	Let's do that instead.
+2007677	eng	Let's do it right now.
+2007678	eng	Let's clear this area.
+2007679	eng	Let's call it a night.
+2007680	eng	Let's buy Tom a drink.
+2007681	eng	Let's break for lunch.
+2007682	eng	Let's think about it.
+2007683	eng	Let's talk about Tom.
+2007684	eng	Let's see what it is.
+2007685	eng	Let's play hopscotch.
+2007686	eng	Let's not exaggerate.
+2007687	eng	Let's not discuss it.
+2007688	eng	Let's move the table.
+2007689	eng	Let's let Tom decide.
+2007690	eng	Let's leave the room.
+2007691	eng	Let's just stay here.
+2007692	eng	Let's just stay calm.
+2007693	eng	Let's just slow down.
+2007694	eng	Let's just meet here.
+2007695	eng	Let's just go to bed.
+2007696	eng	Let's just go inside.
+2007697	eng	Let's just calm down.
+2007698	eng	Let's hear your plan.
+2007699	eng	Let's have some cake.
+2007700	eng	Let's have breakfast.
+2007701	eng	Let's go wake Tom up.
+2007702	eng	Let's go to my house.
+2007703	eng	Let's go take a look.
+2007704	eng	Let's go see Tom now.
+2007705	eng	Let's go look around.
+2007706	eng	Let's go have a beer.
+2007707	eng	Let's go get a drink.
+2007708	eng	Let's go for a drive.
+2007709	eng	Let's go back to Tom.
+2007710	eng	Let's go back inside.
+2007711	eng	Let's go and ask Tom.
+2007712	eng	Let's give it to Tom.
+2007713	eng	Let's give it a shot.
+2007714	eng	Let's get Tom to bed.
+2007715	eng	Let's get this moved.

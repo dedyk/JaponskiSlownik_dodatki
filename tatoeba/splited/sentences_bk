@@ -1,67 +1,3 @@
-1901706	eng	I have a right wing neighbor.
-1901707	eng	I have a left wing neighbor.
-1901708	eng	I have a conservative neighbor.
-1901709	ara	توم غاضب على مارى.
-1901710	eng	I have a liberal neighbor.
-1901711	eng	I have a Jewish neighbor.
-1901712	ara	توم غاضب معَ مارى.
-1901713	eng	I have a Muslim neighbor.
-1901714	eng	I have an African-American neighbor.
-1901715	eng	I have a French neighbor.
-1901716	eng	I have a gay neighbor.
-1901717	eng	I have a weird neighbor.
-1901718	eng	They've come to make trouble.
-1901719	eng	He's come to make trouble.
-1901720	eng	She's come to make trouble.
-1901721	ara	توم دائماً يصرخ عندما يكون غاضباً.
-1901722	eng	I have an Italian neighbor.
-1901723	spa	No me importa que me critiquen cuando estoy equivocado.
-1901724	spa	Parece que él está equivocado.
-1901725	ara	إنها تأتي لتصنع مشكلة.
-1901726	ara	إنهُ يأتي ليصنع مشكلة.
-1901727	spa	Si creías que me podrías tentar con leche de chocolate estás equivocado, pues soy intolerante a la lactosa.
-1901728	eng	They treated me badly.
-1901729	eng	She treated me badly.
-1901730	eng	He treated me badly.
-1901731	eng	I've never seen anything like that.
-1901732	spa	Lo siento, creo que está equivocado.
-1901733	ara	هُم جاءو ليصنعوا مشكلة.
-1901734	eng	She showed it to me.
-1901735	eng	He showed it to me.
-1901736	eng	They showed it to our company.
-1901737	ara	أنا لدي جاراً غريباً.
-1901738	ara	أنا لدي جار غريب.
-1901739	ara	أنا لدي جارة غريبة.
-1901740	ara	أنا لدي جار فرنسي.
-1901741	ara	أنا لدي جار مثلي الجنس.
-1901742	ara	أنا لدي جارة فرنسية.
-1901743	spa	Aún así, estás equivocado.
-1901744	ara	أنا لدي جار أفريقي-أمريكي.
-1901745	ara	أنا لدي جارة أفريقية-أمريكية.
-1901746	ara	أنا لدي جاراً مسلماً.
-1901747	ara	أنا لدي جار مسلم.
-1901748	ara	أنا لدي جارة مسلمة.
-1901749	ara	أنا لدي جار يهودي.
-1901751	ara	أنا لدي جارة يهودية.
-1901752	eng	I have an Egyptian neighbor.
-1901753	ara	أنا لدي جار ليبرالي.
-1901754	ara	أنا لدي جارة ليبرالية.
-1901755	spa	Ella dio a luz a una niña ayer.
-1901756	ara	أنا لدي جار مصري.
-1901757	deu	Ich habe einen ägyptischen Nachbarn.
-1901758	ara	أنا لدي جارة مصرية.
-1901759	ara	إنهُ اظهرها علي.
-1901760	ara	إنهُ بينها لي.
-1901761	eng	You must show respect to your guests.
-1901762	ara	إنهم أظهروها لشركتنا.
-1901763	ara	إنها أظهرتها لي.
-1901764	ara	أنا لم أرىَ شيئاً مثل ذلك.
-1901765	eng	He was desperate to get married.
-1901766	eng	She was desperate to get married.
-1901767	ara	أنا لم أرَ شيئاً مثل هذا.
-1901768	ara	إنهُ عاملني بسوء.
-1901769	ara	إنها عاملتني بسوء.
-1901770	ara	إنهم عاملوني بسوء.
 1901771	eng	Wait a minute, honey!
 1901772	eng	Wait a minute, Tom!
 1901773	ara	أنا لدي جار إيطالي.
@@ -75,10 +11,9 @@
 1901781	ara	إنتظري دقيقة, يا ماري!
 1901782	eng	Don't show your cards.
 1901783	ara	إنتظر دقيقة, توم!
-1901784	spa	No muestres tus intenciones
+1901784	spa	No muestres tus intenciones.
 1901785	ara	إنتظر دقيقة, يا توم!
 1901786	ara	توم أقنع بسهولة ماري أنهُ كان بريئاً.
-1901788	spa	No muestres tus intenciones.
 1901789	eng	Tom reads the New York Times.
 1901790	eng	Tom reads the Washington Post every day.
 1901791	eng	My car is older than me.
@@ -1120,7 +1055,6 @@
 1902879	epo	Tom pasigis preskaŭ tutan matenon por ordigi sian oficejon.
 1902880	heb	זו הייתה רפרפת השוקולד המעולה ביותר שאני ואורחי אכלנו מזה זמן רב.
 1902881	heb	שבור את חפיסת השוקולד לחתיכות קטנות.
-1902882	deu	Ich gehe heute Nachmittag zum Arzt.
 1902883	heb	קופסה זו מכילה שוקולד מובחר.
 1902884	tur	Sınıfımdaki herhangi bir diğer öğrenciden daha büyüğüm.
 1902885	epo	Mi ofte iras al la librovendejo.
@@ -2685,7 +2619,7 @@
 1904513	epo	Tom faras ĉion, krom studi.
 1904514	epo	Bonvolu atente aŭskulti.
 1904515	epo	Vi devus kontroli vian sangopremon.
-1904516	epo	Eble Tom povas helpi vin.
+1904516	epo	Eble Tomo povas helpi vin.
 1904517	epo	Mi diras nur la veron.
 1904518	epo	La susuro de la rojo ekdormigis min.
 1904519	epo	Oferto valida en ĉiuj magazenoj partoprenantaj en la afero kaj ĝis elĉerpiĝo de la stokoj.
@@ -5696,7 +5630,7 @@
 1907645	tur	Bu sabah babası ile birlikte yürüyüş yaptı.
 1907646	eng	A prince came on a white horse.
 1907647	eng	She dreamed that a prince would come on a white horse to take her away.
-1907648	deu	Er ist heute morgen mit ihr spazieren gegangen.
+1907648	deu	Er ist heute Morgen mit ihr spazieren gegangen.
 1907649	deu	Ich blieb bei meiner Entscheidung.
 1907650	tur	Kocası hakkında sürekli şikâyet ediyor.
 1907651	tur	Amerika'da doğdu ve Japonya'da büyüdü.
@@ -6466,7 +6400,7 @@
 1908431	eng	I have bigger fish to fry.
 1908432	eng	He has bigger fish to fry.
 1908433	eng	She told me that she had bigger fish to fry.
-1908434	epo	La kato proksimiĝas malrapide al la muso.
+1908434	epo	La kato proksimiĝis malrapide al la muso.
 1908435	dan	Jeg kan kun tale om mig selv.
 1908436	heb	גם זה חלק מעבודתך, כפי שכבר אמרתי לך.
 1908437	lat	Parentes amo.
@@ -7298,7 +7232,7 @@
 1909298	epo	Tiu propono venis de ŝi.
 1909299	deu	Du musst dich einfach nur mehr bemühen!
 1909300	deu	Sie müssen sich einfach nur mehr anstrengen!
-1909301	epo	Tiu proponon faris ŝi.
+1909301	epo	Tiun proponon faris ŝi.
 1909302	por	Não faça isso, por favor.
 1909303	deu	Du musst innehalten, Tom!
 1909304	epo	Ŝi estas la proponinto.
@@ -11586,7 +11520,7 @@
 1913768	ber	Ur ten-ssefsadeɣ.
 1913769	ber	Ur tent-ssefsadeɣ.
 1913770	heb	איך תרצה את הסטייק שלך?
-1913771	deu	Ich bin heute morgen gut zu dir.
+1913771	deu	Ich bin heute Morgen gut zu dir.
 1913772	heb	אני מבשל, אבל אני ממש גרוע בזה.
 1913773	deu	Die Zeit vergeht schnell, wenn man Spaß hat.
 1913774	fra	Je ne les siffle pas.
@@ -14880,7 +14814,7 @@
 1917247	por	Dá para relaxar, por favor?
 1917248	tur	Tom Mary ile tesadüfen aynı trendeydi.
 1917249	por	Você não acredita em mim, acredita?
-1917250	epo	Tio longe daŭris, ĝis la varmumo malaperis.
+1917250	epo	Tio longe daŭris, ĝis la malvarmumo malaperis.
 1917251	por	Você não fala muito, fala?
 1917252	epo	Aŭtune flaviĝas foliaro.
 1917253	por	Você não está com ciúmes, está?
@@ -14903,7 +14837,7 @@
 1917270	por	Vocês não estão com ciúmes, estão?
 1917271	por	Você as trouxe aqui, não trouxe?
 1917272	por	Vocês os trouxeram aqui, não trouxeram?
-1917273	epo	"Ĉu via horloĝo indikas la ĝustan horon?" "Ne, ĝi pli fruas je dek minutoj tage".
+1917273	epo	"Ĉu via horloĝo indikas la ĝustan horon?" "Ne, ĝi plifruiĝas je dek minutoj tage".
 1917274	por	Vocês as trouxeram aqui, não trouxeram?
 1917275	por	Vocês não leram o contrato com atenção, leram?
 1917276	por	O senhor não leu o contrato com atenção, leu?
@@ -20860,7 +20794,7 @@
 1923477	eng	"You're blushing!" "No, I'm not."
 1923478	eng	I can't. It's too big.
 1923479	eng	I can't reformat my harddrive. It's too big.
-1923480	eng	No I can't. It's too big!
+1923480	eng	No, I can't. It's too big!
 1923481	eng	No, I can't clean your house. It's too big!
 1923482	eng	I will teach you.
 1923483	tur	Matematik ders kitabını tekrar unutmamalısın.
@@ -33398,7 +33332,6 @@
 1936549	eng	I'd like to ask you about a car you repaired.
 1936550	eng	I'd like to ask you a question, but if this is a bad time, I can come back at another time.
 1936551	eng	I'd like to ask you a few questions.
-1936552	eng	I'd like to ask you a few questions if you don't mind.
 1936553	eng	I'd like to ask you a few questions about what you did last weekend.
 1936554	eng	I'd like to ask you a few more questions.
 1936555	eng	I'd like to ask you a couple of questions.
@@ -38005,7 +37938,7 @@
 1941638	deu	Ehe man den Löffel zum Mund bringt, kann sich viel begeben.
 1941639	rus	Воскресенье – первый день недели.
 1941640	deu	Ehrlichkeit scheut kein Licht.
-1941641	rus	На луне нет травы.
+1941641	rus	На Луне нет травы.
 1941642	deu	Eigenes Brot nährt am besten.
 1941643	deu	Wer einem Esel Gutes tut, dem tanzt er auf der Nase.
 1941644	deu	Auf ausgetretenen Wegen wächst kein Gras.
@@ -44000,7 +43933,7 @@
 1948315	rus	Берите, берите конфеты! Сколько хотите, хоть две.
 1948316	ita	A me piacciono molto i cani.
 1948317	fra	J'aime beaucoup les chiens.
-1948318	epo	Iru rekte malsupren en tiu ĉi strato kaj turniĝu dekstren ĉe la tria lampo.
+1948318	epo	Iru rekte laŭ tiu ĉi strato kaj turniĝu dekstren ĉe la tria lumo.
 1948319	ita	Il regno ostrogoto si concentra sul Nord Italia.
 1948320	rus	Он мог бы, по крайней мере, извиниться.
 1948321	epo	Ŝi malkaŝis la sekreton al li.
@@ -45105,7 +45038,7 @@
 1949463	epo	Lasu min iri, mi petas!
 1949464	fra	Elles se ressemblent l'une l'autre à tous points de vue.
 1949465	fra	Elles se ressemblent l'une l'autre à tous égards.
-1949466	epo	Drizletis.
+1949466	epo	Drizeletis.
 1949467	epo	Kion vi opinius, se ni haltus en Kioto kaj se ni vizitus la eksan ĉefurbon?
 1949468	rus	Радио звучит слишком громко. Можешь сделать потише?
 1949469	epo	Li perdis grandan parton de sia havaĵo en spekulado.
@@ -49998,3 +49931,70 @@
 1954558	eng	You can't let Tom behave that way.
 1954559	eng	We can't let Tom die.
 1954560	eng	I can't let Tom do that.
+1954561	eng	You can't let Tom drink by himself.
+1954562	eng	You can't let Tom drive that old truck. Let him drive your new car.
+1954563	eng	You can't let Tom eat anything that has peanuts in it.
+1954564	eng	We can't let Tom find Mary.
+1954565	eng	We can't let Tom get away with it.
+1954566	eng	We can't let Tom get away with murdering those four people.
+1954567	eng	You can't let Tom get away with telling lies about you.
+1954568	eng	You can't let Tom get away with that.
+1954569	eng	We can't let Tom get away with this.
+1954570	eng	You can't let Tom get on that train.
+1954571	eng	I can't let Tom go alone.
+1954572	eng	You can't let Tom go outside.
+1954573	eng	We can't let Tom go.
+1954574	eng	You can't let Tom have his own way.
+1954575	eng	We can't let Tom have that diamond.
+1954576	eng	We can't let Tom in.
+1954577	eng	We can't let Tom keep seeing Mary.
+1954578	eng	We can't let Tom know we're coming.
+1954579	eng	We can't let Tom leave with Mary.
+1954580	eng	We can't let Tom out of our sight.
+1954581	eng	We can't let Tom practice piano so late at night.
+1954582	eng	I can't let Tom see me like this.
+1954583	eng	You can't let Tom stay here.
+1954584	eng	You can't let Tom suffer.
+1954585	eng	We can't let Tom walk. Let's give him a ride.
+1954586	eng	We can't let Tom wander around the mall.
+1954587	eng	We can't let Tom wander around the park by himself.
+1954588	eng	You can't let Tom win.
+1954589	eng	I can't let you do that and that's all there is to it.
+1954590	eng	I can't let you do that.
+1954591	eng	I can't let you drink by yourself. Let me join you.
+1954592	eng	I can't let you enter without a pass.
+1954593	eng	I can't let you give me your last ten dollars.
+1954594	eng	I can't let you go in there alone.
+1954595	eng	I can't let you in.
+1954596	eng	I can't let you leave.
+1954597	eng	I can't let you out of my sight.
+1954598	eng	I can't let you push me around anymore.
+1954599	eng	I can't let you risk it.
+1954600	eng	I can't let you sacrifice yourself.
+1954601	eng	I can't let you use that.
+1954602	eng	I can't lie like this anymore.
+1954603	eng	I can't lie to Tom again.
+1954604	eng	We can't lie to Tom.
+1954605	eng	Tom can't lift that crate by himself.
+1954606	eng	I can't listen to this anymore.
+1954607	eng	I can't live in this house anymore.
+1954608	eng	You can't live like that anymore.
+1954609	eng	I can't live like this anymore.
+1954610	eng	I can't live on my own.
+1954611	eng	You can't live on potato chips.
+1954612	eng	I can't live with you anymore.
+1954613	eng	You can't live your life under these conditions.
+1954614	eng	I can't locate the source of the problem.
+1954615	eng	We can't look at that right now.
+1954616	eng	I can't look at this anymore.
+1954617	eng	I can't look at Tom.
+1954618	eng	I can't look the other way anymore.
+1954619	eng	We can't lose sight of that.
+1954620	eng	You can't lose what you don't have.
+1954621	eng	You can't lose.
+1954622	eng	We can't lose.
+1954623	eng	I can't make a decision about that right now.
+1954624	eng	I can't make an exception.
+1954625	eng	I can't make any promises.
+1954626	eng	I can't make decisions by myself.
+1954627	eng	I can't make ends meet now.
