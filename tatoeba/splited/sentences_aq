@@ -1,25 +1,3 @@
-837342	fra	Elle semblait stupéfiée d'étonnement.
-837343	jbo	zanvi'e fi la.tatoebas.
-837344	deu	Ich hatte Hunger.
-837345	deu	Woraus besteht es?
-837346	deu	Woraus wird es gemacht?
-837347	deu	Welche ist Ihre Tasche?
-837348	deu	Welche ist eure Tasche?
-837349	deu	Ich weiß fast nichts darüber.
-837350	deu	Ich erzählte ihm von unseren Plänen, aber er schien nicht interessiert zu sein.
-837351	deu	Ich fühle mich manchmal einsam.
-837352	jpn	鱈場蟹は大型甲殻類である。
-837353	eng	The red king crab is a large crustacean.
-837354	nds	Ik bün vör Eerdbevens bang.
-837355	deu	Matrjoschkas sind ein unverkennbar russischer Exportartikel.
-837356	deu	Wir nennen diese Stadt „Klein-Kyōto“.
-837357	deu	Bei dem Unfall wurden keine Passagiere getötet.
-837358	deu	All diese Männer sind fleißig.
-837359	deu	Er hoffte, das Problem würde sich von selbst lösen.
-837361	deu	Aus ihm wurde ein sehr verlässlicher Mann.
-837362	deu	Sie dachte an nichts Böses.
-837363	eng	I had naan with the tea for breakfast.
-837364	pes	او همیشه آنطور رفتار می کند.
 837365	fra	J'aimais ma vie et mon argent.
 837366	eng	Most of the others also lit their pipes and a desultory conversation ensued.
 837367	fra	La peur descendit sur elle.
@@ -7260,7 +7238,6 @@
 844885	por	Ele tem o péssimo hábito de morder seu lápis.
 844886	por	Não tenha medo de falar em público.
 844887	por	Eu leio cinco revistas diferentes a cada mês.
-844888	jpn	あなたはそのおもちゃをかってもらいましたか
 844889	por	Apesar de ser jovem, ele é bem cuidadoso.
 844890	por	O telhado está com um vazamento.
 844891	por	O telhado está com uma goteira.
@@ -27544,7 +27521,7 @@
 866539	fra	Personne ne peut tout savoir.
 866540	fra	Il mange souvent du poisson à dîner.
 866541	fra	Il mange souvent du poisson pour dîner.
-866542	fra	Il mange souvent du poisson à souper.
+866542	fra	Il mange souvent du poisson pour le souper.
 866543	fra	Il mange souvent du poisson pour souper.
 866544	fra	Il mange souvent du poisson au dîner.
 866545	fra	Il mange souvent du poisson au souper.
@@ -30014,7 +29991,7 @@
 869173	por	Por isso ele ficou nervoso.
 869174	por	Aquele edifício pode desmoronar a qualquer momento.
 869175	por	Vou pegar um balde de água.
-869176	deu	Okay. Fahren Sie vorsichtig.
+869176	deu	Fahren Sie vorsichtig!
 869177	por	Toda a esperança foi perdida.
 869178	por	Muitas luas orbitam ao redor de Saturno.
 869179	por	O restante virá logo, logo.
@@ -30022,7 +29999,7 @@
 869181	por	Eu consegui encontrar a rua, mas não a casa dela.
 869182	por	Ele descerá logo.
 869183	por	Não é da minha conta.
-869184	deu	Japan fehlt Rohstoff.
+869184	deu	Japan ist arm an Rohstoffen.
 869185	por	Eu me machuquei durante a aula de Educação Física.
 869186	por	Eu tenho um gato e um cachorro. O gato é preto e o cachorro é branco.
 869187	spa	Estoy un poco borracho, creo que debería de dejar de beber ya.
@@ -32226,7 +32203,6 @@
 871471	ces	To staré laso je nalevo.
 871472	eng	That old trapper lived in California.
 871473	ces	Ten starý traper žil v Kalifornii.
-871474	eng	Calamity Jane lived in California.
 871475	ces	Calamity Jane žila v Kalifornii.
 871476	spa	¿Me dejas la goma?
 871477	eng	Fremont and Sutter lived in California.
@@ -41454,7 +41430,7 @@
 881129	deu	Trinke kein Bier, bevor du ins Bett gehst.
 881130	lzh	四方上下曰宇。
 881131	epo	La scienco produktis atombombon.
-881132	epo	Kiu estos la proparolanto.
+881132	epo	Kiu estos la proparolanto?
 881133	cmn	他沒有去，我也沒去。
 881134	epo	Estas preskaŭ la tempo tagmanĝi.
 881135	lzh	"欲買乎？"- "欲之"。
@@ -49998,3 +49974,27 @@
 890035	fra	On devrait garder cette leçon à l'esprit.
 890036	fra	La rumeur se répandit instantanément.
 890037	fra	Cet oiseau-là ne vole pas.
+890038	fra	Cet oiseau-là ne peut pas voler.
+890039	fra	Le chien de mon voisin est mort.
+890040	srp	Nadam se, da će on moći da dođe!Rado bih ga video.
+890041	fra	Les tests débutent la semaine prochaine.
+890042	fra	J'ai trouvé ce livre intéressant du début à la fin.
+890043	fra	Tout ce qui risque de ne pas être compris ne le sera pas.
+890044	srp	On dolazi iz Amerike, gde takođe i njegova porodica živi.
+890045	spa	Mañana será la primera vez que coja un avión. Increíble, ¿no?
+890046	deu	Alles, was nicht verstanden werden könnte, wird nicht verstanden werden.
+890047	spa	Este libro me pareció interesante de principio a fin.
+890048	spa	Ha ido a Gran Bretaña.
+890049	fra	Il brassait de la bière.
+890050	spa	Hago los deberes de inglés en clase de latín, los deberes de latín en la hora de economía y los deberes de economía antes de clase.
+890051	fra	Le bruit soudain débusqua les oiseaux.
+890052	spa	Enseñar es aprender.
+890053	jpn	明日のデート、どっちの服を着て行けばいいと思う？
+890055	fra	J'ai là un problème.
+890056	jpn	図書館では本を十冊まで借りることができます。
+890059	jpn	そろそろ車のオイル交換をした方がいいですね。
+890060	fra	Dis, pourquoi n'es-tu pas venu hier ?
+890061	spa	Di, ¿por qué no viniste ayer?
+890062	fra	Ma voiture est en panne.
+890063	spa	Era una larga carta.
+890064	spa	Todos hablamos inglés.

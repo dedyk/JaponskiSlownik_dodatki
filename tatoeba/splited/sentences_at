@@ -1,34 +1,3 @@
-995860	spa	El perro me impidió acercarme a su casa.
-995861	spa	Creo que conseguimos un acuerdo.
-995862	spa	Te esperan delante de la puerta.
-995863	spa	¡Coge un libro y léelo!
-995864	spa	Cogeré este paraguas.
-995865	epo	La cervo estis kaptita de leono.
-995866	epo	Cervido povas stari ekde la naskiĝo.
-995867	epo	Jeanne postĉasis la cervon laŭeble plej rapide.
-995868	epo	Mi sekvis la postsignojn de la cervo.
-995869	epo	La cervo kuris per si mem.
-995870	epo	La cervo dormis sur foliara lito.
-995871	epo	La ĉasistoj spuris la cervon trans la monton.
-995872	epo	Ni vidis nur malmultajn cervojn en la arbaro.
-995873	epo	Li pafis sagon al la cervo.
-995874	epo	Miaj gepatroj ne lasus min eliri kun knaboj.
-995875	epo	Lia pantalono estas ĉiutage gladata.
-995876	epo	Mi neniam iris preter Okayama.
-995877	epo	Malbravulo estas la unua, kiu levas la pugnon.
-995878	eng	There are no waves without wind.
-995879	eng	There's no smoke without fire.
-995880	eng	He always opens the window when he goes to sleep.
-995881	eng	The leaves on the trees rustle gentle in the wind.
-995882	epo	Hodiaŭ mi estis supozata studi en la biblioteko, sed mi vekiĝis ĉirkaŭ tagmezo.
-995883	epo	Kaj nun mi metas tiun karton en la ĉapelon. Ĉu vi vidas?
-995885	fra	Il est impertinent de rire des autres.
-995886	fra	Je veux que tu voies ma collection de timbres.
-995888	fra	Quoi qu'il dise, ne le crois pas.
-995889	fra	Elle a de si beaux yeux.
-995890	epo	Ĉampano fluis dum la tuta nokto.
-995891	epo	Televidi estas amuze.
-995892	epo	Romo estas vizitinda urbo.
 995893	epo	Romo vizitindas.
 995894	epo	Li ŝajnigis sin idioto.
 995895	epo	Enspezi monon estas lia vivocelo.
@@ -288,7 +257,7 @@
 996164	por	Seu avô morreu de câncer ano passado.
 996165	ita	L'amore materno è la cosa più grande.
 996166	por	Seu avô morreu de cancro ano passado.
-996167	epo	Li timas malsaniĝadon.
+996167	epo	Li timas malsaniĝon.
 996168	por	Este menino fala como se fosse um adulto.
 996169	por	Este garoto fala como se fosse um adulto.
 996170	por	Um amigo de verdade teria me ajudado.
@@ -847,7 +816,6 @@
 996745	por	Estou pensando em ir para Los Angeles.
 996746	por	Hoje tenho tarefa de matemática.
 996747	por	Você deveria pedir desculpas.
-996748	epo	Mi revenos je 6:30.
 996749	por	Minha febre não acaba.
 996750	ita	Bisogna sempre pentirsi dei propri errori.
 996751	por	Queria ficar ali por mais dois dias.
@@ -1176,8 +1144,8 @@
 997087	eng	Slighty overweight girls would look cuter if they lost a little weight.
 997088	eng	What criteria do you use in deciding who to vote for?
 997089	eng	What kind of part-time job should I get?
-997090	deu	„Was hast du gesagt?“ „Ich habe nichts gesagt.“
-997091	epo	"Kion vi diris?" "Mi diris nenion."
+997090	deu	„Was hast du gesagt?“ – „Ich habe nichts gesagt.“
+997091	epo	„Kion vi diris?” „Mi diris nenion.”
 997092	epo	Lasu min foti vin.
 997093	eng	The world needs talented people.
 997094	eng	You need to stop acting so stupid.
@@ -1201,7 +1169,7 @@
 997113	epo	La fervorulo petis lian autografon.
 997114	epo	Vi devas ĉesi malŝpari tempon.
 997115	eng	I reside in Hyogo.
-997116	epo	Mi loĝas en Hjogo.
+997116	epo	Mi loĝas en Hiogo.
 997117	epo	Mi ne pensas, ke mi povus fari tion.
 997118	epo	Vi devas ĉesi drinki.
 997119	epo	Vi devas ĉesi vetludi.
@@ -1370,7 +1338,7 @@
 997284	jpn	あなたの友だちは何時に帰りましたか？
 997285	epo	La maljuna viro mortis pro malsato.
 997286	jpn	あなたの友だちによろしく。
-997287	epo	Mi laboras ĉe la ambasadejo.
+997287	epo	Mi laboras en la ambasado.
 997288	ita	Torniamo a casa lunedì mattina che non c'è nessuno!
 997289	ita	Stasera si esibisce un noto cabarettista.
 997290	ita	Sei solo un cacasotto!
@@ -1416,7 +1384,7 @@
 997330	ita	Si è rovesciato un camion in autostrada.
 997331	ita	La camorra è un tipo di mafia.
 997332	ita	Sono un campagnolo.
-997333	epo	Vi ne rajtas esti ĉi tie. Estas privata posedaĵo.
+997333	epo	Vi ne rajtas esti ĉi tie. Ĉi tio estas privata posedaĵo.
 997334	ita	Quella ragazza è una campagnola.
 997335	ita	Hai visto quel bel camoscio?
 997336	ita	Suona alla svelta la campana d'allarme!
@@ -2350,7 +2318,7 @@
 998298	ita	Sapete quando ritorneranno?
 998299	spa	Si querés que algo cambie ensuciate las manos.
 998300	epo	Fantomo trairas Eŭropon.
-998301	epo	Li perdis sian karan filon.
+998301	epo	Li perdis sian amatan filon.
 998302	spa	¡Esto es un ultraje!
 998303	spa	¿Sabéis cuándo volverán?
 998304	hun	Kísértet járja be Európát.
@@ -2361,7 +2329,7 @@
 998309	ita	È stato compiuto un quadruplice omicidio.
 998310	hun	Kísérteteket látsz fényes nappal.
 998311	hun	Ön kísérteteket lát fényes nappal.
-998312	epo	Li estas la viro, al kiu vi povas fidi.
+998312	epo	Li estas la viro, kiun vi povas fidi.
 998313	spa	Dios creó el cielo y la tierra.
 998314	hun	Kísérteteket láttok fényes nappal.
 998315	hun	Önök kísérteteket látnak fényes nappal.
@@ -2840,7 +2808,7 @@
 998813	ita	Scrivi presto!
 998814	ita	Scrivete presto!
 998815	ita	Scriva presto!
-998816	epo	Estis la pasinta vendredo, kiam mi vespermanĝis kun mia amantino en restoracio.
+998816	epo	Estis la pasinta vendredo, kiam mi vespermanĝis kun mia koramikino en restoracio.
 998817	ita	Mia madre lava i vestiti ogni giorno.
 998818	deu	Schreib bald!
 998819	ita	Ho visitato l'America.
@@ -2914,7 +2882,7 @@
 998891	pol	On doskonale potrafi stawiać na swoim.
 998892	pol	On jest mistrzem wymyślania wymówek.
 998893	spa	Eres un tiquismiquis, no puedes ser siempre tan caprichoso.
-998894	epo	Estas 7:50 matene.
+998894	epo	Estas la sepa kaj kvindek matene.
 998895	spa	Él construyó una mesa y dos bancos para nosotros.
 998896	spa	Tengo cuenta en aquel banco.
 998897	ita	Saliamo sul gommone.
@@ -3549,7 +3517,7 @@
 999570	ita	La vita è quello che succede mentre sei occupato a fare altri progetti.
 999571	ita	Nella nostra città non c'è inquinamento atmosferico.
 999572	ita	Quali sono i numeri primi?
-999573	ell	"Πόσο χρονών είσαι;" "Είμαι δεκαέξι χρονών."
+999573	ell	«Πόσο χρονών είσαι;» «Είμαι δεκαέξι χρονών.»
 999574	ita	Questa è una pura perdita di tempo.
 999575	ita	Alza un po' il volume della radio.
 999576	ita	Questa casa è la mia, non la tua.
@@ -4513,7 +4481,6 @@
 1000575	deu	Haben wir schon Dienstag?
 1000576	eng	Is it Tuesday already?
 1000577	fra	Ceci est un hectolitre de vin.
-1000578	ita	Ho appena evaso le tasse.
 1000579	fra	Je te présente un grand ethnologue.
 1000580	ita	È già martedì?
 1000582	fra	Êtes-vous un évadé fiscal ?
@@ -4667,7 +4634,7 @@
 1000734	deu	Wer seine Nase abschneidet, der verstümmelt sein Gesicht.
 1000735	deu	Dummheit ist auch eine natürliche Begabung.
 1000736	deu	Die menschliche Dummheit ist international.
-1000737	epo	Io povas okazi en la mondo de sonĝoj.
+1000737	epo	Ĉio povas okazi en la mondo de sonĝoj.
 1000738	epo	La homa stulteco estas internacia.
 1000739	epo	Kiu amas hundojn, tiu ankaŭ devas toleri la pulojn.
 1000740	epo	Saĝa hundo neniam bojas senkaŭze.
@@ -5387,7 +5354,7 @@
 1001487	eng	She laid claim to the castle.
 1001488	spa	Ella le tocó el hombro.
 1001489	spa	Lo lamento, no aceptamos cheques.
-1001490	epo	La himno de Skotujo nomiĝas "La floro de Skotujo".
+1001490	epo	La himno de Skotlando nomiĝas „La floro de Skotlando”.
 1001491	epo	S-ro Thompson loĝis en Tokio dum du jaroj, antaŭ ol li reiris al Skotujo.
 1001492	epo	La fremdulo venas de Skotujo.
 1001493	epo	Kelkaj kantoj venas de Skotujo.
@@ -5407,18 +5374,17 @@
 1001509	spa	Me llevo bien con ella.
 1001510	lat	Acta diurna legunt.
 1001511	deu	Sind Sie ein Steuerflüchtling?
-1001512	epo	La taja estas la oficiala lingvo en Tajujo.
 1001513	rus	С высоты река была похожа на огромную змею.
 1001514	spa	Cuando fui a cambiar las monedas antiguas, me dijeron que no valían más.
 1001515	spa	Espero que nadie haya oído la palabrota que acabo de proferir en voz baja.
 1001516	spa	Debo de haberme expresado mal.
-1001517	epo	Elefantoj en Tajujo estas tiel kutimaj kiel makropoj en Aŭstralio.
+1001517	epo	Elefantoj en Tajlando estas tiel kutimaj kiel makropoj en Aŭstralio.
 1001518	spa	¿Te gusta tomar café?
 1001519	spa	Ella le adora.
 1001520	rus	Поскольку мост по форме напоминал очки, его назвали Меганэбаси - "Мост Очков".
-1001521	epo	Ili naskiĝis en Tajujo.
+1001521	epo	Ili naskiĝis en Tajlando.
 1001522	rus	Дом выглядел как груда спичечных коробков.
-1001523	epo	Tajujo troviĝas en Azio.
+1001523	epo	Tajlando estas en Azio.
 1001524	spa	Si este cuadro valiese la mitad de lo que él dice que vale, ya lo habríamos vendido hace mucho tiempo.
 1001525	rus	Если поглядеть на холм издалека, он похож на слона.
 1001526	spa	Estas monedas tendrán validez hasta el último día del año.
@@ -7302,8 +7268,8 @@
 1003533	rus	Он объяснил моему сыну, почему идёт дождь.
 1003534	epo	Li eksplikis al mia filo kial pluvas.
 1003535	rus	У мальчика плохие зубы, потому что он бросил чистить зубы.
-1003536	epo	Vi ĉiuj aperas, kiel aro de uloj, kiuj scias, kiel oni havas bonan tempon.
-1003537	epo	Vi ĉiuj aspektas, kiel ularo, kiuj scias, kiel oni amuziĝas.
+1003536	epo	Vi aspektas kiel aro da uloj, kiuj scias, kiel oni havas bonan tempon.
+1003537	epo	Vi spektas kiel ularo, kiu scias, kiel oni amuziĝas.
 1003538	rus	Ваша история напомнила мне мою молодость.
 1003539	epo	Via historio vekis memoron al mi pri mia juneco.
 1003540	rus	Он уладил свои дела.
@@ -10100,7 +10066,7 @@
 1006474	por	Preciso de sua ajuda.
 1006475	lzh	人之有語言，其所以秀於萬物乎！
 1006476	spa	Eres mi mejor amigo.
-1006477	epo	Homoj, kiuj kalkulas siajn kokidojn antaŭ ol ili eloviĝas, agas saĝege, ĉar kokidoj kuras ĉirkaŭe tiel sensence, ke estas maleble precize kalkuli ilin.
+1006477	epo	Homoj, kiuj nombras siajn kokidojn antaŭ ol ili eloviĝas, agas saĝege, ĉar kokidoj kuras ĉirkaŭe tiel sensence, ke estas maleble precize nombri ilin.
 1006478	rus	Мне не нравится плавать в бассейнах.
 1006479	rus	Здесь такая же погода, как во Франции.
 1006481	rus	Когда он приехал, я был в душе.
@@ -10165,7 +10131,7 @@
 1006545	deu	Verzeihen Sie die Störung.
 1006546	deu	Bist du schon mal in Tokio gewesen?
 1006547	epo	Estas malfacile paroli tri lingvojn.
-1006548	deu	Der Regen dauerte vier Tage.
+1006548	deu	Der Regen hielt vier Tage an.
 1006549	fra	Je veux participer au prochain triathlon.
 1006550	deu	Ich gebe dir, was du willst.
 1006551	epo	La pluvo daŭris kvar tagojn.
@@ -11535,7 +11501,7 @@
 1007962	deu	Sie sollten aufhören zu rauchen.
 1007963	por	Visitávamos nossa velha escola.
 1007964	epo	Mi ne memoras la unuan fojon, kiam mi renkontis lin.
-1007965	deu	Nicht stören.
+1007965	deu	Nicht stören!
 1007966	epo	Vi ĉesu fumi.
 1007968	eng	Give my regards to your family.
 1007969	eng	Her mother is a wonderful pianist.
@@ -12542,10 +12508,10 @@
 1009066	deu	Dieses Buch ist so leicht, dass sogar ein Kind es lesen kann.
 1009067	spa	Esa famosa cantante vino a Brasil a principios de este año.
 1009068	cmn	我什麼時候說謊了?
-1009069	epo	»Pli malbone ankoraŭ!« Al-Sajib ekkriis. »Ili ne scias, kion ili faru kun vi, Dima!«
+1009069	epo	„Pli malbone eĉ!” Al-Sajib ekkriis. „Ili ne scias, kion ili faru pri vi, Dima!”
 1009070	epo	Dima dormis kun 25 viroj dum unu nokto kaj tiam mortigis ilin.
-1009071	epo	Kaŝante de la polico, Dima pasigis la nokton en rubujego.
-1009072	epo	La venontan matenon Dima grimpis el la rubujego kaj eksciis, ke lia tuta vestaĵo odoris kiel rubo nun.
+1009071	epo	Kaŝante sin de la polico, Dima pasigis la nokton en rubujego.
+1009072	epo	La venontan matenon Dima grimpis el la rubujego kaj eksciis, ke lia tuta vestaĵo odoras kiel rubo nun.
 1009073	epo	»Mi bezonas vere kelkajn novajn vestojn,« pensis Dima.
 1009074	por	É todo branco.
 1009075	por	Não me odeie.
@@ -17764,7 +17730,7 @@
 1014577	epo	Ili anstataŭigis la difektitan televidilon per nova.
 1014578	fra	Le Japon commença à importer du riz des États-Unis d'Amérique.
 1014579	epo	Mi tre maltrankvilas pri mia pezo.
-1014580	epo	Ĉu ni iros vidi filmon?
+1014580	epo	Ĉu ni iros spekti filmon?
 1014581	fra	Ce vêtement-ci te va bien.
 1014582	deu	Du hast wohl den Arsch offen!
 1014583	epo	Mi ŝanĝis mian opinion pri eliri kaj mi restis hejme.
@@ -18873,7 +18839,6 @@
 1015796	fra	Le pont détruit, il n'y avait rien d'autre à faire que de nager.
 1015797	fra	Le professeur semblait perdu dans ses pensées.
 1015800	epo	Li enfalis en riveron.
-1015801	epo	Li falis en la riveron.
 1015802	epo	Li enfalis en la riveron.
 1015803	jpn	彼はギャンブルの借金で破産した。
 1015805	fra	La salle de classe était emplie d'élèves.
@@ -21063,7 +21028,7 @@
 1018148	deu	Er hielt Connie für meine Schwester.
 1018149	deu	Er ist seit einem Monat arbeitslos.
 1018150	eng	I've decided to join the volunteer fire department.
-1018151	deu	Ich habe mich entschieden, Mitglied bei der Freiwilligen Feuerwehr zu werden.
+1018151	deu	Ich habe mich entschlossen, Mitglied bei der Freiwilligen Feuerwehr zu werden.
 1018152	ita	Egli rispose che il treno sarebbe arrivato presto.
 1018153	rus	Ты переборщил.
 1018154	deu	Er benimmt sich wie ein Kind.
@@ -23743,7 +23708,7 @@
 1020953	ita	La tempesta ha distrutto tutta la città.
 1020954	deu	Es kommt ein Gewitter auf.
 1020955	deu	Es kommt ein Unwetter auf.
-1020956	jpn	シャワーを浴びなくちゃ
+1020956	jpn	シャワーを浴びなくちゃ。
 1020957	jpn	今日、起きたら首に痛みを感じました。
 1020958	nld	Een dief heeft ingebroken en is aan de haal gegaan met al mijn juwelen.
 1020959	nld	Wanneer moet ik aan boord gaan?
@@ -23873,7 +23838,7 @@
 1021086	spa	Google es mi profesor.
 1021087	lat	Google magister meus est.
 1021088	fra	Google est mon professeur.
-1021089	deu	Wenn er fließend Englisch kann, werde ich ihn anstellen.
+1021089	deu	Wenn er fließend Englisch kann, stelle ich ihn ein.
 1021090	epo	Se li scipovas la anglan flue, mi dungos lin.
 1021091	lat	America Foederata immigratorum terra est.
 1021092	por	Estados Unidos é um país de imigrantes.
@@ -26208,7 +26173,7 @@
 1023562	spa	Haré mi mejor esfuerzo por no molestar tu estudio.
 1023563	spa	Haré lo mejor para no molestar tu estudio.
 1023564	spa	Les llamaré mañana cuando regrese.
-1023565	ell	Θα τους τελεφωνίσω όταν θα γυρίσω.
+1023565	ell	Θα τους τελεφωνήσω όταν θα γυρίσω.
 1023566	ell	Ψάξε και θα το βρεις.
 1023567	ell	Ο δάσκαλος έγραψε το όνομά του στον πίνακα.
 1023568	spa	No puedo vivir esa clase de vida.
@@ -26966,7 +26931,7 @@
 1024328	eng	Tom's problem is that he lives in his own bubble.
 1024329	eng	Tom pressed his ear against the wall to see if he could hear what his parents were discussing in the next room.
 1024330	eng	Tom prepared dinner by himself.
-1024331	eng	Tom prefers to eat French fries with ketchup.
+1024331	eng	Tom prefers to eat french fries with ketchup.
 1024332	eng	Tom prefers speaking French.
 1024333	eng	Tom predicted our success.
 1024334	eng	Tom prayed to God for help.
@@ -30590,7 +30555,7 @@
 1027957	eng	Tom thinks it's better not to lend Mary any money.
 1027958	eng	Tom thinks it possible for Mary to get a job with that company.
 1027959	eng	Tom thinks it impossible for Mary to break the record.
-1027960	eng	Tom thinks it important for Mary to learn how to speak French.
+1027960	eng	Tom thinks it's important for Mary to learn how to speak French.
 1027961	eng	Tom thinks he can trust Mary.
 1027962	eng	Tom thinks he can trust Mary not to do something stupid.
 1027963	eng	Tom thanked Mary for her help.
@@ -38620,7 +38585,7 @@
 1036230	tur	O, Amerika'da bulunmuştur.
 1036231	tur	O, Amerika'ya gitti.
 1036232	tur	Amerika'ya geri döndü
-1036233	deu	Enttäusch mich nicht.
+1036233	deu	Enttäusch mich nicht!
 1036234	tur	O, bir Amerikalı bilim adamı, Albert Einstein'a saygı duyuyor.
 1036235	epo	Ne elrevigu min.
 1036236	tur	O, Amerikalı bir beyefendi değil mi?
@@ -49998,3 +49963,38 @@
 1048214	por	Tu és o grande amor da minha vida.
 1048215	por	Por que os acusados confessaram?
 1048216	por	Alguém pode atender o telefone?
+1048217	por	Quero cinco almôndegas.
+1048218	por	Ela parou para fumar um cigarrinho.
+1048219	por	Não tenho fome.
+1048220	por	Não estou com fome.
+1048221	por	Para quem você vai votar?
+1048222	por	Em quem você vai votar?
+1048223	por	Adoro ouvir os Beach Boys.
+1048224	por	Minha noiva é alta e formosa.
+1048225	por	Obrigado por sua colaboração.
+1048226	por	Obrigada pela sua colaboração.
+1048227	por	Peguei-a pela mão.
+1048228	por	Pergunto-me como estará o tempo amanhã.
+1048229	por	O que você está fazendo aqui?
+1048230	por	Quase ninguém acreditou nela.
+1048231	por	Você pode me ajudar?
+1048232	por	Disse que lamentava sua decisão.
+1048234	por	As pessoas da Colômbia falam espanhol.
+1048235	por	O tempo é a moeda da tua vida. Tu a gastas. Não deixes que outros a gastem por ti.
+1048236	por	O dinheiro não faz a felicidade, mas acalma os nervos.
+1048237	por	Você me emprestaria a sua faca?
+1048238	por	Não esqueças que conseguir um bom emprego hoje em dia é difícil.
+1048239	por	As crianças estão fazendo castelos de areia na praia.
+1048240	por	É difícil manter uma conversa com alguém que só diz "sim" e "não".
+1048241	por	Minha mãe me deu um tabefe.
+1048242	por	Minha mãe me deu um tapa.
+1048243	por	Minha mãe me deu uma bofetada.
+1048244	por	Não encontro as minhas chaves.
+1048245	por	Sinto muito ter que cancelar nosso encontro de vinte e sete de fevereiro.
+1048246	por	Ele deve estar para vir.
+1048247	por	Você poderia me enviar um catálogo?
+1048248	por	Cuidado com os carros ao cruzar a rua.
+1048250	por	Vocês têm xampu?
+1048251	por	Pega um táxi. Chegará em 5 minutos.
+1048252	por	Você deve abrir espaço para o televisor.
+1048253	por	O sol ainda não saiu.
