@@ -1,5 +1,7 @@
 wget http://ftp.monash.edu.au/pub/nihongo/JMdict.gz
 
+gzip -d JMdict.gz
+
 wget http://ftp.monash.edu.au/pub/nihongo/JMdict_e.gz
 
 gzip -d JMdict_e.gz
