@@ -1,24 +1,3 @@
-417561	ara	اشتريت كمبيوتر جديد الشهر الفائت.
-417562	deu	Es sind schon fast 10 Jahre vergangen, aber du bist unverändert schön.
-417563	ara	لم أذهب إلى المدرسة الشهر الفائت.
-417564	deu	Obwohl ich seine Erklärungen erhalten habe, verstehe ich es nach wie vor nicht.
-417565	ara	بقيت في المنزل اليلة الفائتة.
-417566	ara	عملت كثيرا الشهر الفائت.
-417567	ara	كنت في لندن الشهر الفائت.
-417568	ara	لم أرَها منذ الشهر الفائت.
-417569	deu	Mein Vater ist nach wie vor gesund.
-417570	deu	Sie ist nach wie vor arm.
-417572	deu	Sie ist nach wie vor hübsch.
-417573	ara	أردت حذاء أحمر.
-417575	ara	لست طالباً.
-417576	deu	Sie ist nach wie vor jugendlich.
-417577	ara	أتذهب إلى المدرسة بالحافلة؟
-417578	deu	Sie lernt so fleißig wie immer.
-417579	ara	أتعرف السيد براون؟
-417580	deu	Obwohl er älter geworden ist, ist er nach wie vor gesund.
-417581	ara	أسبق وذهبت إلى فرنسا؟
-417582	deu	Er scheint so beschäftigt wie immer zu sein.
-417583	ara	ماذا لديك في جيبك؟
 417584	deu	Er ist nach wie vor beschäftigt.
 417585	jpn	過去はどうでもいい。昔と今だったら、俺は今の方が好きだ。だから今を楽しむ。それだけだ。
 417586	ara	أنتهيت من فطورك؟
@@ -4377,7 +4356,6 @@
 422072	ukr	Два чоботи пара.
 422073	ukr	І чорна курка білі яйця несе.
 422074	ukr	Сильні та багаті рідко винуваті.
-422075	ukr	Гадюки як не грій, - вона все одно укусить.
 422076	ukr	Пішов по шерсть, а вернувся сам обстрижений.
 422077	ukr	На порожній шлунок і душа смутиться.
 422078	ukr	Яке “помагайбіг!”, таке й “доброго здоров'ячка!”.
@@ -4392,7 +4370,6 @@
 422087	ukr	Смерть одна, а хвороб багато.
 422088	ukr	Хто шукає, той завжди знайде.
 422089	ukr	Хто годує, той і б'є.
-422090	ukr	Купити кота в мішку.
 422091	ukr	Навчай інших і сам навчишся.
 422092	ukr	У заздрості на все великі очі.
 422093	ukr	Чи пан, чи пропав – двічі не вмирати.
@@ -7615,7 +7592,7 @@
 425428	cmn	在海外長大的日本孩子雖然能說流利的日文，但他們回國讀書的時候，有時也會覺得難以適應新環境。
 425429	wuu	侬好。
 425430	eng	Put your hand down.
-425431	rus	Ну как у идут тебя дела в эти дни?
+425431	rus	Как у тебя сейчас дела?
 425432	rus	Мой дедушка обычно завтракает в шесть.
 425433	jpn	『何だこりゃ？』って思わず言いたくなるような変な車でした。
 425434	eng	It was the sort of weird car that made me want to blurt out, "what the heck is that?"
@@ -10784,7 +10761,6 @@
 428710	epo	Mi atendos ĉi tie, ĝis ŝi venos.
 428711	epo	Li diris: "Lasu min trankvila!"
 428712	fra	Il est difficile de bien parler anglais.
-428713	epo	Ŝi tre beletas.
 428714	epo	Vi tre mankas al ni.
 428715	fra	Nous jouons au tennis après les cours.
 428716	epo	Bonvolu ne fari fotojn ĉi tie.
@@ -16997,7 +16973,7 @@
 435184	epo	Mi volas monon.
 435185	epo	La patro iris al fiŝkaptado.
 435186	epo	Vi ne plu estas infano.
-435187	epo	Estas la vero.
+435187	epo	Tio estas la vero.
 435188	epo	Jes, tion mi ankaŭ pensas.
 435189	epo	Mi mortas pro malsato.
 435190	epo	Li iras en la bibliotekon por legi librojn.
@@ -17763,7 +17739,7 @@
 435995	deu	Ich habe aus dem Brief herausgelesen, dass er wütend war.
 435996	deu	Dieser Brief ist an dich adressiert.
 435997	deu	Muss der Brief auf Englisch geschrieben werden?
-435998	deu	Dieser Brief ist persönlich, ich will nicht, dass jemand anders ihn liest.
+435998	deu	Dieser Brief ist persönlich. Ich will nicht, dass jemand anders ihn liest.
 435999	deu	Von wem ist der Brief?
 436000	deu	Wann kommst du zurück?
 436001	deu	Du musst Platz machen für den Fernseher.
@@ -22913,8 +22889,8 @@
 441403	ita	Parlando di viaggi, hai già visitato New York?
 441404	cmn	这是我父亲的。
 441405	ita	Non toccare.
-441406	epo	Li estas transfuĝinto (homo, kiu forlasis sian partion por transiri en alian).
-441407	deu	Er ist ein Überläufer (Mensch, der seine Partei verlässt um zu einer anderen zu gehen).
+441406	epo	Li estas transfuĝinto.
+441407	deu	Er ist ein Überläufer.
 441408	cmn	你在买这药之前应该问一下药剂师的建议。
 441409	eng	I've done questionable things.
 441410	fra	J'ai fait des choses discutables.
@@ -29172,7 +29148,6 @@
 447850	est	Hr Smith eksis tihedas udus teelt.
 447851	epo	Mi lasis miajn ŝlosilojn sur la tablo. Ĉu vi bonvolas alporti ilin por mi?
 447852	epo	Mi alportas glasojn.
-447853	rus	Но она получает это, пока может.
 447854	rus	Он выразил сожаление по поводу этого дела.
 447855	rus	Испанский — её родной язык.
 447856	epo	Mi petas vin alporti por mi seĝon.
@@ -30445,7 +30420,7 @@
 449193	epo	Antaŭe mi ludis kun mia fratino en la parko.
 449194	epo	Kie volo, tie vojo.
 449195	epo	Keiko estas afabla, ĉu ne?
-449196	deu	Jeder will Dich kennenlernen, Du bist berühmt.
+449196	deu	Jeder will dich kennenlernen, du bist berühmt.
 449197	epo	Li staris ĝismaleole en la akvo.
 449198	epo	Buĉado estas la plej bona kuracilo.
 449199	epo	Ĉu estas io grava?
@@ -30779,7 +30754,7 @@
 449538	epo	Mi ne pli scipovas paroli la francan ol vi la anglan.
 449539	epo	Mi ludas violonon.
 449540	fra	Aucune de ces voitures n'est la mienne.
-449541	epo	Ĝi estis konstruita antaŭ pli-malpli 500 jaroj.
+449541	epo	Ĝi estis konstruita antaŭ pli ol 500 jaroj.
 449542	epo	Hodiaŭ estas la 18a de junio, la naskiĝdatreveno de Muiriel!
 449543	epo	Jen niaj libroj.
 449544	epo	Kiu estas la ĉefa celo de via anglalernado?
@@ -41245,7 +41220,6 @@
 460577	fra	Que fait Ken maintenant ?
 460579	epo	Li iris bicikle.
 460580	epo	Tio estas la preĝejo, kie ni geedziĝis.
-460581	epo	"Ne," ripetis la anglo.
 460582	epo	La advokato atendis Ben-on.
 460583	epo	Mi esperas, ke mi sukcesos ekvilibrigi mian buĝeton.
 460584	epo	Fermu la pordon malantaŭ vi.
@@ -44889,7 +44863,6 @@
 464411	spa	Vivimos en Nueva York.
 464412	eng	We live in the United States.
 464413	spa	Vivimos en los Estados Unidos.
-464414	eng	We made...
 464415	spa	Hicimos ...
 464416	eng	We must have faith in the president.
 464417	spa	Hay que tener fe en el presidente.
@@ -49338,7 +49311,6 @@
 469038	rus	Поздно.
 469039	yue	由朝頭早九點去到晏晝三點。
 469040	rus	Мне нужны лекарства. Где аптека?
-469041	ukr	Коли є в кишені пачка цигарок, отже все не так погано на сьогоднішній день.
 469042	rus	Сегодня мне исполняется двадцать пять лет.
 469043	rus	Покупай, это очень дёшево.
 469044	ukr	Вже пізно.
@@ -49998,3 +49970,31 @@
 469718	epo	Ĉi tio neniam finiĝos.
 469719	epo	Mi scias, ke vi opinias, ke vi komprenis, kion vi pensis, kion mi diris, sed mi ne certas, ĉu vi konsciis, ke tio, kion vi aŭdis, ne estas tio, kion mi celis.
 469720	rus	Мне не очень важно, как человек выглядит.
+469721	rus	О, Боже мой!
+469722	rus	Он плакал от радости.
+469723	rus	Эта игрушка из дерева.
+469724	rus	Я часто играл в футбол, когда был молод.
+469725	epo	Poste mi foriris, sed tiam mi konsciis, ke mi postlasis mian dorsosakon ĉe ili.
+469726	rus	Хочешь пойти вместе?
+469727	rus	Лори предложила сделать десятиминутный перерыв.
+469728	fra	Le chien aboie après l'étranger.
+469729	epo	Poste mi de tie foriris, sed mi eksciis, ke mi forgesis mian sakon.
+469730	epo	Mi tiel stultas... Mi provas klarigi aferojn, kiujn mi mem ne komprenas.
+469731	epo	Alveninte hejme mi rimarkis, ke mi perdis mian monujon.
+469732	epo	Hm. Mi havas la senton, ke mi vojeraros, kiun ajn vojon mi elektas.
+469733	epo	Mi ne estas virinevitulo; sed se mi estus tia, mi farus escepton por vi.
+469734	epo	Mi emis plori aŭdinte la novaĵon.
+469735	fra	Tu devrais agir plus calmement.
+469736	fra	Vous devez agir plus calmement.
+469738	fra	Tu dois prendre les choses telles qu'elles sont.
+469739	fra	Vous devez prendre les choses comme elles sont.
+469740	fra	Tu as tendance à être oublieux.
+469741	fra	Tu as tendance à oublier les choses.
+469742	fra	Tu as un bon sens de l'humour.
+469743	epo	Kiu estas la verkisto de tiu romano?
+469744	fra	Vous avez un bon sens de l'humour.
+469745	fra	Tu es vraiment dur au travail.
+469746	epo	Kiom kostas tiu pantalono?
+469747	fra	Vous êtes vraiment âpre au travail.
+469748	epo	Eble mi estas malsocietema, sed tio ne nepre signifas, ke mi ne parolas kun homoj.
+469749	fra	Comment oses-tu dire cela ?

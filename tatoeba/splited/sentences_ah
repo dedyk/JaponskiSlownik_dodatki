@@ -1,25 +1,3 @@
-365663	pol	Miał nieobecny wyraz twarzy.
-365664	pol	Co by się nie stało, nie będę zaskoczony.
-365665	pol	Chciał tylko czasu na skończenie obrazu.
-365666	pol	Ona ma ujmującą osobowość.
-365667	pol	To była dlań jedyna nadzieja.
-365668	pol	Mój wuj mieszka w pobliżu szkoły.
-365669	pol	To mój dom, a nie twój.
-365670	pol	Dzieci pochłonięte były zabawą.
-365671	pol	Jest starszy ode mnie o dwa lata.
-365672	deu	Er ist nicht zur mutig, sondern auch weise.
-365673	pol	Dochodzi dziesiąta.
-365674	pol	Pisarz, którego najbardziej lubi moja siostra, to Soseki.
-365675	pol	On zawsze staje po jej stronie.
-365676	pol	Mój brat często siedzi do późna w nocy.
-365678	deu	Er wurde gezwungen, den Vertrag zu unterschreiben.
-365679	deu	Er musste den Vertrag gegen seinen Willen unterschreiben.
-365680	pol	Ta encyklopedia jest przydatna do wyszukiwania różnych wiadomości.
-365681	pol	Malowanie obrazów to moje hobby.
-365682	pol	To zadziwiające odkrycie.
-365683	pol	Zimno zatrzymało nas w domu.
-365684	pol	Dziecko już chodzi.
-365685	pol	Statek zawinął do Hong-Kongu.
 365686	pol	W autobusie był straszliwy tłok.
 365687	pol	Wyszła do sklepu, zostawiając małe dziecko same.
 365688	pol	Mam nadzieję, że do nas dołączysz.
@@ -19274,7 +19252,7 @@
 385570	isl	Gætirðu sagt mér hvernig ég kemst á hafnaboltavöllinn?
 385571	isl	Hann fékk bókina frítt.
 385572	isl	Ég hugsa að þú ættir að fara til læknis.
-385573	eng	Write a paragraph by using adjectives to describe the person's appearance.
+385573	eng	Write a paragraph using adjectives to describe the person's appearance.
 385574	eng	You can drink water, but you can also pass it.
 385575	eng	You can drink water, but you can also let it be.
 385576	eng	You should apologize to her for being so distant.
@@ -19455,7 +19433,7 @@
 385754	rus	Но ему повезло.
 385755	bel	Ён узяў ручку і пачаў пісаць.
 385756	isl	Bráðlega verðum við líklega rukkuð fyrir sorphirðingu eftir magni.
-385757	ukr	Він взяв ручку і почав писати.
+385757	ukr	Він узяв ручку і почав писати.
 385758	rus	Он взял ручку и начал писать.
 385759	isl	Ég leyni þig engu.
 385760	isl	Ég held engu frá þér.
@@ -19715,7 +19693,7 @@
 386018	rus	Уважаемые пассажиры! При входе в транспортное средство и отсутствии проездного билета многоразового пользования прокомпостируйте билет одноразового пользования, не дожидаясь следующей остановки.
 386019	cmn	我把我知道的都告訴你吧。
 386020	yue	等我將我知嘅嘢話晒比你聽啦。
-386021	ukr	Шановні пасажири! При вході в транспортний засоб і відсутності проїзного квитка багаторазового використання прокомпостуйте квиток одноразового використання, не чекаючи наступної зупинки.
+386021	ukr	Шановні пасажири! При вході до транспортного засобу і за відсутності проїзного квитка багаторазового використання прокомпостуйте квиток одноразового використання, не чекаючи наступної зупинки.
 386022	cmn	可以舉幾個例子嗎？
 386023	yue	可唔可以舉幾個例子呀？
 386024	eng	Dear passengers! If you get on a means of transport and don't have a season ticket, punch a one-time ticket without waiting for the next station.
@@ -27798,7 +27776,7 @@
 394258	deu	Vor allem brauchen Kinder Liebe.
 394259	deu	Pass vor allem auf Taschendiebe auf.
 394260	deu	Verwendest du Travellerschecks?
-394261	deu	"Tom, setz dich." "Ok."
+394261	deu	„Tom, setz dich.“ – „Okay.“
 394262	deu	Es war sehr günstig.
 394263	deu	Es ist sehr heiß, nicht wahr?
 394264	deu	Wen mag Toshio?
@@ -34697,6 +34675,7 @@
 401500	eng	The next month he achieved his first NHL shutout and showed the talent of an NHL super goalie.
 401505	swe	Jag har bott här.
 401525	swe	När jag besökte deras lägenhet, var paret mitt i ett gräl.
+401531	swe	Han är säker på att han kommer att vinna matchen.
 401544	eng	Who is able to reveal the mysteries of the sea?
 401548	swe	Det fanns inte en själ i sikte.
 401552	eng	The following fairy tales retold in English in 1918 were based on Dutch legends and collected in the book, Dutch Fairy Tales for Young Folks, 1918.
@@ -35227,6 +35206,7 @@
 402110	cmn	島上的飛機場已經長滿了雜草。
 402112	yue	個島上面嗰個機場已經生晒雜草。
 402116	ron	Bun venit!
+402119	swe	Jag gav det ett försök och tänkte att allting är värt ett försök. Men att sätta ihop ett sånt här program klarar jag inte av.
 402121	srp	Здраво.
 402123	swe	Ett stort djur rymde från zoo.
 402127	rus	Здравствуйте.
@@ -41775,7 +41755,6 @@
 408913	fra	Si Dieu le veut…
 408914	cmn	上帝愿意。。。
 408915	uig	خۇدا بۇيرۇسا...
-408916	deu	Gott will…
 408917	rus	Доктор Уайт был нашим переводчиком.
 408918	rus	Ты, наверное, думаешь, она сказала мне, что собиралась навестить свою больную бабушку.
 408919	rus	Жаль, что вам нужно уехать в Японию.
@@ -45363,7 +45342,7 @@
 412593	eus	Nik ez dakit.
 412594	rus	У меня спросили моё личное мнение о деле.
 412595	eus	Horrek ez du ezer aldatuko.
-412596	rus	Какой кофе вы бы хотели: чёрный или со сливками.
+412596	rus	Какой кофе вы бы хотели: чёрный или со сливками?
 412597	eus	Ez zaitu arduratzen.
 412598	rus	Я выпил всё своё молоко.
 412599	eus	Inork ez du jakingo.
@@ -49998,3 +49977,24 @@
 417558	ara	أطفأ رجال الإطفاء الحريق.
 417559	deu	Ungeachtet seines Talents kommt er nach wie vor nicht voran.
 417560	ara	وصلت البارحة.
+417561	ara	اشتريت كمبيوتر جديد الشهر الفائت.
+417562	deu	Es sind schon fast 10 Jahre vergangen, aber du bist unverändert schön.
+417563	ara	لم أذهب إلى المدرسة الشهر الفائت.
+417564	deu	Obwohl ich seine Erklärungen erhalten habe, verstehe ich es nach wie vor nicht.
+417565	ara	بقيت في المنزل اليلة الفائتة.
+417566	ara	عملت كثيرا الشهر الفائت.
+417567	ara	كنت في لندن الشهر الفائت.
+417568	ara	لم أرَها منذ الشهر الفائت.
+417569	deu	Mein Vater ist nach wie vor gesund.
+417570	deu	Sie ist nach wie vor arm.
+417572	deu	Sie ist nach wie vor hübsch.
+417573	ara	أردت حذاء أحمر.
+417575	ara	لست طالباً.
+417576	deu	Sie ist nach wie vor jugendlich.
+417577	ara	أتذهب إلى المدرسة بالحافلة؟
+417578	deu	Sie lernt so fleißig wie immer.
+417579	ara	أتعرف السيد براون؟
+417580	deu	Obwohl er älter geworden ist, ist er nach wie vor gesund.
+417581	ara	أسبق وذهبت إلى فرنسا؟
+417582	deu	Er scheint so beschäftigt wie immer zu sein.
+417583	ara	ماذا لديك في جيبك؟

@@ -1,17 +1,3 @@
-258615	eng	I took over the business from Father.
-258616	eng	I gather information about the quality of goods.
-258618	eng	I have a business visa.
-258619	eng	I sat for a scholarship.
-258620	eng	I'm fond of playing shogi.
-258621	eng	I play shogi a little.
-258622	eng	I would like to engage in foreign trade in the future.
-258623	eng	I want to be a pilot in the future.
-258624	eng	I would like to be a pilot in the future.
-258625	eng	I want to become a TV announcer in the future.
-258626	eng	I feel hopeful about the future.
-258627	eng	I am anxious about the future.
-258628	eng	I thought about the future.
-258629	eng	I want to become a doctor in the future.
 258630	eng	I hope I will become a dentist in the future.
 258631	eng	I don't know what is in store for me in the future.
 258632	eng	I will have to take over Father's business in the future.
@@ -5776,7 +5762,7 @@
 265089	eng	As a matter of fact, it is true.
 265090	eng	In fact I don't know anything about it.
 265091	eng	Actually it was only a rumor.
-265092	eng	Actually, it was only a rumor.
+265092	eng	Actually, it was just a rumour.
 265093	eng	I am getting married to the most beautiful girl in town.
 265094	eng	In fact, you are quite right.
 265095	eng	The fact is that my cat is shy.
@@ -8519,7 +8505,7 @@
 268137	eng	Matsushita commands respect from its competitors.
 268138	eng	He called up his uncle as soon as he got to Matsuyama.
 268139	eng	Can you tell me the art of recognizing matsutake mushrooms?
-268140	eng	Seicho Matumoto died in 1992.
+268140	eng	Seicho Matsumoto died in 1992.
 268141	eng	Swampy land is no use for building purposes.
 268143	eng	Rub out these words with your eraser.
 268144	eng	May I borrow your eraser?
@@ -15259,7 +15245,6 @@
 275540	eng	The big tree was struck by lightning.
 275541	eng	To fly big passenger airliners calls for long training and experience.
 275542	eng	Let's make a big circle.
-275544	eng	No bones broken.
 275545	eng	There were lots of people.
 275546	eng	I'm about to kill the big boss.
 275547	eng	I understand the general approach, but I'm afraid that I'm getting bogged down in the details.
@@ -16149,7 +16134,6 @@
 276520	eng	No one will speak for you.
 276521	eng	It is because of his selfishness that no one wants to associate with him.
 276522	eng	Nobody speaks well of that politician.
-276523	eng	But she gets it while she can.
 276524	eng	Anybody is better than nobody.
 276525	eng	Nobody can stop me!
 276526	eng	The little girl will go astray if no one cares much about her.
@@ -21010,7 +20994,6 @@
 281879	eng	It is imperative for you to finish by Sunday.
 281880	eng	I'd like to extend my stay through Sunday.
 281881	eng	I usually get up at seven and go to bed at eleven except on Sundays.
-281882	eng	I work every day except on Sunday.
 281884	eng	Daily commodities increased in price.
 281885	eng	What floor is the daily goods department on?
 281886	eng	I'd like to have a test for breast cancer.
@@ -23586,7 +23569,7 @@
 284710	eng	He had plenty of fight left in him.
 284711	eng	He talks as if he knew everything.
 284712	eng	He has another son.
-284713	eng	He can not endure already.
+284713	eng	He can't endure anymore .
 284714	eng	I can't put up with him any longer.
 284715	eng	He doesn't understand the principle of the thing.
 284716	eng	He seems to be bankrupt of humor.
@@ -30982,7 +30965,6 @@
 292734	eng	He has come from Boston.
 292735	eng	He came here by way of Boston.
 292736	eng	He bought a round-trip ticket to Boston.
-292737	eng	He lives in Boston City.
 292738	eng	He is loyal to his boss.
 292739	eng	He is cross with his boss.
 292740	eng	He stuck a flower in his buttonhole.
@@ -31707,7 +31689,7 @@
 293521	eng	He used to come here on Mondays.
 293522	eng	He used to smoke, but now he doesn't.
 293523	eng	He has seen better days.
-293524	eng	He didn't used to drink.
+293524	eng	He didn't use to drink.
 293525	eng	He is less healthy than he used to be.
 293526	eng	He is not as fat as he was.
 293527	eng	He used to go out at night.
@@ -36434,7 +36416,7 @@
 298749	eng	He performed his duty at the expense of his time.
 298750	eng	He worked at the cost of his own time.
 298751	eng	He could not believe his ears.
-298752	eng	He prided himself on his self control.
+298752	eng	He prided himself on his self-control.
 298753	eng	He came down the hill on his bicycle.
 298754	eng	He should reflect on his failure.
 298755	eng	He ascribes his failure to bad luck.
@@ -40294,7 +40276,7 @@
 302983	eng	His honesty was such that he was respected by everybody.
 302984	eng	He is so honest that he is trusted by everyone.
 302987	eng	So fast did he run that they couldn't catch up with him.
-302988	eng	He was greatly respected; while his son was as much despised.
+302988	eng	He was greatly respected, while his son was as much despised.
 302989	eng	He spends a great deal of money on books.
 302991	eng	He was so angry, he was red in the face.
 302993	eng	He is active although he is very old.
@@ -49998,3 +49980,21 @@
 313470	eng	She went out with her dog.
 313471	eng	She waited on her sick father hand and foot.
 313472	eng	She is deep in study.
+313473	eng	She is absorbed in her study.
+313474	eng	She was not in the mood for serious books.
+313475	eng	She was breathing hard.
+313476	eng	She gave a shrug of the shoulders.
+313477	eng	She quickly put the money out of sight.
+313478	eng	She is persistent though she doesn't look so.
+313481	eng	She is much cleverer than she looks.
+313482	eng	She spoke English to me just to show off.
+313483	eng	She came in through the back door lest she be seen.
+313484	eng	She's just putting up a front.
+313485	eng	She is fond of display.
+313486	eng	She is open to people who have a different point of view.
+313488	eng	She started talking with a stranger.
+313489	eng	She was conscious of being stared at by a stranger.
+313490	eng	She was too wise not to understand what you meant.
+313491	eng	She is wise and you are no less so.
+313492	eng	She had the wisdom to follow the custom.
+313493	eng	She put the key in her pocket.
