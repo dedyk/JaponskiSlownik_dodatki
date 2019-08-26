@@ -2214,7 +2214,7 @@
 2292	eng	To the man who only has a hammer in the toolkit, every problem looks like a nail.
 2293	eng	Nothing is impossible for the man who doesn't have to do it himself.
 2294	eng	That's the thing about people who think they hate computers. What they really hate is lousy programmers.
-2295	eng	It is not the strongest of the species that survive, not the most intelligent, but the one most responsive to change.
+2295	eng	It is not the strongest of the species that survives, not the most intelligent, but the one most responsive to change.
 2296	eng	I think it is good that books still exist, but they do make me sleepy.
 2297	eng	I can't understand why people are frightened of new ideas. I'm frightened of the old ones.
 2298	eng	Hope is not a strategy.
@@ -9636,7 +9636,7 @@
 9940	fra	"De quoi le professeur a-t-il parlé ?" demanda l'étudiant.
 9941	fra	"Votre montre donne-t-elle l'heure exacte ?" "Non, elle avance de 10 minutes par jour".
 9942	fra	"Combien de clés ?" demanda Pepperberg.
-9943	fra	Pas de bonnes nouvelles dans le journal d'aujourd'hui ? Non, rien de particulier.
+9943	fra	« Pas de bonnes nouvelles dans le journal d'aujourd'hui ? » « Non, rien de particulier. »
 9944	fra	« As-tu travaillé hier ? » « Je souhaitais que hier fût un jour férié. »
 9945	fra	"C'est à lui que je dois ma popularité", dit-elle.
 9946	fra	Il dit que son père était architecte et qu'il veut l'être aussi.
@@ -15117,7 +15117,7 @@
 15826	eng	Did you accept his statement as true?
 15827	eng	You should have told him the truth.
 15828	eng	You must compensate him for the money he lost.
-15829	eng	You cannot expect much of him.
+15829	eng	You can't expect much of him.
 15830	eng	You should tell him the truth.
 15831	eng	You had better tell him the truth.
 15832	eng	You ought to ask him for advice.
@@ -15401,7 +15401,6 @@
 16123	eng	You should be ready for the worst.
 16124	eng	You work too hard these days. Aren't you tired?
 16125	eng	You can get in touch with him at his home tonight.
-16126	eng	You had better not see her now.
 16127	eng	You look happy today.
 16128	eng	You have a little fever today, don't you?
 16129	eng	It would be better for you to stay in bed today.
@@ -15732,7 +15731,6 @@
 16491	eng	How about you?
 16492	eng	What are you doing?
 16493	eng	How did you come to know her?
-16495	eng	Why don't you try to take your money back?
 16497	eng	What has made you decide to work for our company?
 16499	eng	How did you come up with such a good excuse?
 16500	eng	Why did you say such a thing?
@@ -17414,7 +17412,7 @@
 18322	eng	Not a single cloud could be seen in the sky.
 18324	eng	There was not a cloud in the sky.
 18326	eng	There is a mass of dark clouds in the sky.
-18327	eng	There were a lot of stars seen in the sky.
+18327	eng	There were a lot of stars visible in the sky.
 18328	eng	Many stars were shining in the heavens.
 18331	eng	You can see a lot of stars in the sky.
 18332	eng	The contrast between the sky and the mountain is striking.
@@ -17757,7 +17755,7 @@
 18697	eng	Many shoes nowadays are made of plastics.
 18698	eng	How are you these days?
 18699	eng	How are you getting along these days?
-18701	eng	That young critic is in high demand for a lot of places.
+18701	eng	That young critic is in high demand in a lot of places.
 18702	eng	It is not rare for girls today to talk as if they were boys.
 18703	eng	There aren't many good tunes coming out nowadays.
 18704	eng	As for the students of today, I don't know what they are thinking about.
@@ -18492,7 +18490,7 @@
 19473	eng	Milk will do you good. You'd better drink it every day.
 19474	eng	The milk turned sour.
 19475	eng	Will you drink wine instead of milk?
-19476	eng	The milk was adulterated with water.
+19476	eng	The milk was diluted with water.
 19477	eng	Blend milk and eggs together.
 19478	eng	The milk has gone bad.
 19480	eng	The milk has turned sour.
@@ -19065,7 +19063,7 @@
 20095	eng	You will be able to play soccer.
 20096	eng	Go to the hospital.
 20097	eng	You are beautiful.
-20098	eng	You are her daughters.
+20098	eng	You're her daughters.
 20099	eng	You are teachers.
 20100	eng	You are human.
 20101	eng	You are actresses.
@@ -19184,7 +19182,7 @@
 20219	eng	Anyone breaking the rules will be asked to leave on the spot.
 20220	eng	All of the rules must be in line with company policy.
 20221	eng	The rules must be few, and what is more important, simple.
-20222	eng	The rules must be few, and more importantly, simple.
+20222	eng	The rules must be few and, more importantly, simple.
 20223	eng	Rules are to be observed.
 20225	eng	We must observe the rules.
 20226	eng	Technically he is still a student.
@@ -19286,7 +19284,7 @@
 20327	eng	I really enjoy the climate.
 20328	eng	The climate has much to do with our mind and body.
 20329	eng	Don't be upset by sudden change of the weather.
-20330	eng	Because of the difference in climate, the same crop is not cultivated in the North and East of the country.
+20330	eng	Because of the difference in climate, the same crop is not cultivated in both the northern and the eastern parts of the country.
 20331	eng	The climate affected the growth of trees and plants.
 20332	eng	Do you think our climate has an influence on our character?
 20333	eng	I can't get over how different the weather is here.
@@ -20667,7 +20665,7 @@
 21804	eng	Generally speaking, Americans are very fond of coffee.
 21805	eng	Generally speaking, we Japanese are a little too timid in speaking foreign languages.
 21806	eng	The weather in Florida is generally moderate.
-21807	eng	As a rule, hail falls in summer.
+21807	eng	As a rule, hail falls in the summer.
 21808	eng	On the whole, the result was unsatisfactory.
 21809	eng	On the whole, the elite are not sensitive to criticism.
 21810	eng	On the whole, my company is doing well now.
@@ -21717,7 +21715,7 @@
 22902	eng	We heard a cry from above.
 22903	eng	We have to stand up for minority rights.
 22904	eng	We headed for the mountain cottage.
-22905	eng	We discussed our future plan.
+22905	eng	We discussed our plan for the future.
 22906	eng	We have to look the future straight in the eye and prepare to get through the coming crisis.
 22907	eng	We must provide for the future.
 22909	eng	We had to start our business from zero.
@@ -22467,7 +22465,7 @@
 23687	eng	Will you look after my baggage?
 23688	eng	Attach this label to your package.
 23689	eng	In case the shipment is delayed, we have special delay insurance.
-23690	eng	There is nothing left to do aside from packing.
+23690	eng	There's nothing left to do aside from packing.
 23691	eng	The label is attached to the trunk.
 23692	eng	Have you finished packing yet?
 23693	eng	Company A is trying to play us off against Company B in a severe price-war.
@@ -26266,7 +26264,7 @@
 27816	eng	An apparently small event may lead to a great result.
 27817	eng	I saw at a glance that the empty house was badly in need of repair.
 27818	eng	I saw at a glance that there was something the matter with my father.
-27819	eng	At first sight, the question seemed easy.
+27819	eng	At first glance, the question seemed easy.
 27820	eng	Nothing could be more reasonable, on the face of it.
 27821	eng	January is the first month of the year.
 27822	eng	At first sight, he seemed kind and gentle.
@@ -26754,7 +26752,7 @@
 28336	eng	I used to go fishing quite often, but now I rarely go.
 28337	eng	It used to be thought that the earth was flat.
 28338	eng	There used to be a temple right here.
-28339	eng	I didn't used to smoke.
+28339	eng	I didn't use to smoke.
 28340	eng	You used to smoke, didn't you?
 28341	eng	There used to be a church here.
 28342	eng	There used to be a castle on this hill.
@@ -30460,7 +30458,7 @@
 32308	eng	Stop beating around the bush.
 32309	eng	Because the surroundings were so dark, he could not see anything.
 32310	eng	Malaysia came into existence in 1957.
-32312	eng	I spent a whole day in cleaning up my room.
+32312	eng	I spent a whole day cleaning up my room.
 32313	eng	I felt as if I were in a dream.
 32314	eng	I felt as if I were dreaming.
 32315	eng	I can't sleep at all!
@@ -31132,7 +31130,6 @@
 33017	eng	Oh, come off it.
 33018	eng	Oh, it's very kind of you to say so.
 33019	eng	My, but you're nice.
-33020	eng	Oh, my God!
 33021	eng	Oh, what is this?
 33022	eng	I guess we could.
 33023	eng	I'll give it some thought.
@@ -31585,7 +31582,6 @@
 33488	eng	I have no time to put my books in order before I go.
 33489	eng	I neither drink nor smoke.
 33490	eng	I am an eager student of magic.
-33491	eng	I'm up to the ears in debt.
 33492	eng	I can easily touch my toes.
 33493	eng	I will never go out of my way.
 33494	eng	I have half a mind to see that myself.
@@ -32000,7 +31996,7 @@
 33918	eng	Have you ever gone to Venice?
 33919	eng	Penicillin has contributed much to the welfare of mankind.
 33920	eng	To whom do we owe the discovery of penicillin?
-33921	eng	I was dog tired when I got home last night.
+33921	eng	I was dog-tired when I got home last night.
 33922	eng	Even an expert driver can make a mistake.
 33923	eng	Betty can't tell right from wrong.
 33924	eng	Betty killed her mother.
@@ -33662,7 +33658,7 @@
 35675	eng	I am grateful to you for inviting me to the party.
 35676	eng	He was present at the party.
 35677	eng	I haven't decided yet whether I will attend the party.
-35678	eng	I would admire to attend the party.
+35678	eng	I would love to attend the party.
 35679	eng	I don't know whether to go to the party or not.
 35680	eng	You should polish your shoes before you go to the party.
 35681	fra	Il a plu après plusieurs semaines de beau temps.
@@ -33674,7 +33670,7 @@
 35687	eng	Who was invited to the party?
 35688	eng	I would like to come to your party.
 35689	eng	What are you going to wear to the party?
-35690	eng	There was food and drink in abundance at the party.
+35690	eng	There were food and drink in abundance at the party.
 35691	eng	Which present shall I take to the party?
 35692	eng	Only six people were present at the party.
 35693	eng	There were more than fifty girls at the party.
@@ -33686,7 +33682,7 @@
 35700	eng	We'll run into her at the party.
 35701	eng	I'll see to it that you meet her at the party.
 35704	eng	Please say hello to her if you see her at the party.
-35705	eng	I met my old friends by the dozens.
+35705	eng	I met old friends by the dozens.
 35706	eng	The party puts everyone in high spirits.
 35707	eng	Who will host the party?
 35708	eng	I had a lot of fun at the party.
@@ -33845,7 +33841,7 @@
 35869	eng	I was caught in a shower.
 35870	eng	I was caught in a shower and was drenched to the skin.
 35871	eng	The game was called off because it suddenly started raining.
-35872	eng	A shower has laid the dust.
+35872	eng	The rainshower made the dust settle.
 35873	eng	A gust of wind blew a shower of rain directly into my face.
 35874	eng	Down came a shower of rain.
 35875	eng	Suddenly, the rain fell.
@@ -34047,7 +34043,7 @@
 36096	eng	What a pleasant journey we had!
 36097	eng	How cute!
 36098	eng	What a cute baby! Peek-a-boo!
-36099	eng	Why am I the only one they complain of? They're just making an example out of me and using me as a scapegoat.
+36099	eng	Why am I the only one they complain about? They're just making an example out of me and using me as a scapegoat.
 36100	eng	How unlucky I am!
 36101	eng	What an unlucky boy I am!
 36104	eng	People who are constantly copying others do it because they can't think for themselves.
@@ -34151,7 +34147,7 @@
 36209	eng	Nancy and Jane had to go home at five-thirty.
 36210	eng	I hear that Nancy is very pretty.
 36211	eng	I know that Nancy likes music.
-36212	eng	Not knowing that Nancy had left him, I put my foot in my mouth when I asked Paul how she was.
+36212	eng	Not knowing that Nancy had left him, I put my foot in my mouth by asking Paul how she was.
 36213	eng	It is necessary that Nancy attend the meeting.
 36214	eng	Nancy, here's a letter for you.
 36215	eng	I'm kind of sick today.
@@ -34543,7 +34539,7 @@
 36642	eng	Any child could do that.
 36643	eng	Any child knows it.
 36644	eng	Any child can enjoy the story.
-36645	eng	Any boy who should do that would be sneered.
+36645	eng	People would laugh at any child who did something like that.
 36646	eng	Any child can answer that.
 36647	eng	What kind of work will you do?
 36648	eng	Any task may become painful.
@@ -34652,7 +34648,6 @@
 36763	eng	Even the smallest child knows that kind a thing.
 36764	eng	No matter how much I eat, I never get fat.
 36767	eng	Try as you may, you will never win first prize.
-36768	eng	No matter how hard I tried.
 36769	eng	No matter how rich one may be, one cannot live happily without health.
 36770	eng	What kinds of tropical drinks do you have?
 36771	eng	What kind of test is that?
@@ -35478,7 +35473,7 @@
 37647	eng	Anyway, I gave it my best shot.
 37648	eng	Let's get started anyway.
 37649	eng	At any rate, I must finish this work by tomorrow.
-37650	eng	Anyhow let's begin.
+37650	eng	Anyhow, let's begin.
 37651	eng	We have to investigate the cause at any rate.
 37652	eng	In any case, I won't change my mind.
 37653	eng	Anyway, I'm getting more experience.
@@ -35883,7 +35878,7 @@
 38081	eng	How far are you going for a drive?
 38082	eng	Where can I park?
 38083	eng	Wherever you go, you'll find Japanese tourists.
-38084	eng	Everywhere you go will find the same scenery.
+38084	eng	Everywhere you go, you will find the same scenery.
 38085	eng	Wherever he may go, he is sure to make friends.
 38086	eng	Wherever you go, you will meet people who are kind and generous.
 38087	eng	No matter where you go, you will find no place like home.
@@ -35953,8 +35948,6 @@
 38167	eng	Where do you think I met her?
 38168	eng	Where can I try this on?
 38169	eng	Where do I pay for the gas?
-38170	eng	Where did you miss your umbrella?
-38171	eng	Where shall I drop you?
 38172	eng	Where would I find shoes?
 38173	eng	We haven't decided where to take a rest.
 38174	eng	Where do you intend to spend your vacation?
@@ -36089,10 +36082,10 @@
 38317	eng	On what account?
 38318	eng	To all appearances, she is healthy.
 38320	eng	To all appearances, they are a happy couple.
-38321	eng	To all appearance, they don't study hard.
+38321	eng	To all appearances, they don't study hard.
 38322	eng	To all appearances, their actions haven't borne fruit.
 38323	eng	To all appearance his statement was true.
-38324	eng	Please let me know how you are going to solve.
+38324	eng	Please let me know how you are going to solve it.
 38325	eng	What's the difference?
 38327	eng	How do you go to school?
 38328	eng	Tell me how you solved the problem.
@@ -36364,7 +36357,7 @@
 38644	eng	I cannot figure out why he has done that.
 38645	eng	Why are you drying your hair?
 38646	eng	Why don't you come in?
-38647	eng	Why did you fail in the entrance examination?
+38647	eng	Why did you fail the entrance examination?
 38648	eng	And why do you think that is?
 38649	eng	Why has Japan let pollution get so bad?
 38650	eng	I wondered why people were staring at me.
@@ -36374,7 +36367,7 @@
 38654	eng	Why don't you try to behave like a gentleman?
 38655	eng	Why has the birthrate declined so sharply?
 38656	eng	Why not apologize and ask for his pardon?
-38657	eng	Why did you leave out the first question in the exam?
+38657	eng	Why did you leave out the first question on the exam?
 38658	eng	How come you aren't taking me?
 38659	eng	Why are you holding my hands?
 38660	eng	What made you think that my favorite color was green?
@@ -36506,7 +36499,7 @@
 38811	eng	What's the matter with you? You look pale.
 38812	eng	What's the trouble? Can I be of any help?
 38813	eng	What's the matter, dad? Why are you grimacing like that?
-38814	eng	Have you lost your marbles, wearing those bellbottoms?
+38814	eng	Have you lost your marbles, wearing those bell-bottoms?
 38815	eng	Please remain standing.
 38816	eng	Please wake me up at six tomorrow morning.
 38817	eng	Turn on the light, please.
@@ -36914,7 +36907,7 @@
 39264	eng	My television was broken down, so I had to get it repaired.
 39265	eng	Even a small sound from the TV interferes with my concentration.
 39266	eng	TV has taken the place of radio.
-39267	eng	Television almost has taken the place of the movie theater.
+39267	eng	Television has almost taken the place of the movie theater.
 39268	eng	If it were not for television, the world would feel even larger.
 39269	eng	Can you imagine what life would be like without television?
 39270	eng	The TV was turned on.
@@ -36969,7 +36962,7 @@
 39321	eng	But I have no apples left to give you.
 39322	eng	But I have nothing left. I am just an old stump.
 39323	eng	But I don't think the pool is open this weekend.
-39324	eng	"But you just come here in the summer!" Said Tony.
+39324	eng	"But you just come here in the summer!" said Tony.
 39325	eng	But, I'm going steady.
 39326	eng	But of course that was a long time ago.
 39327	eng	But they are all people.
@@ -37250,7 +37243,7 @@
 39625	eng	There is a dog under the table.
 39626	eng	Under the table was a black cat.
 39627	eng	Maru crawled out from under the table.
-39628	eng	Please sponge the mess up of the table.
+39628	eng	Please sponge the mess up off the table.
 39629	eng	Don't put the glass near the edge of the table.
 39630	eng	Will you please wipe the dust off the table?
 39631	eng	There were four chairs by the table.
@@ -37517,7 +37510,7 @@
 39899	eng	Summer has arrived at last.
 39900	eng	At last, it began to rain.
 39901	eng	At last, we reached our destination.
-39902	eng	At last, Mayuko gained her end.
+39902	eng	At last, Mayuko achieved her goal.
 39903	eng	At last, the bus company gave in.
 39904	eng	We finally published the book.
 39905	eng	The poet went mad in the end.
@@ -37525,7 +37518,7 @@
 39907	eng	I finally penetrated the meaning of the riddle.
 39908	eng	At last Souichiro and Yukino decided to cut the orange into halves.
 39909	eng	At last, John and Sue decided to cut the apple into halves.
-39910	eng	At last, Ken gained his end.
+39910	eng	At last, Ken achieved his goal.
 39911	eng	He finally decided to go to his mother with the news his father had shared.
 39912	eng	Finally, in 1314, these games had become so violent and dangerous that King Edward II made a law.
 39913	eng	Finally, he gave in to my persuasion.
@@ -37543,7 +37536,7 @@
 39925	eng	I was caught in a shower just now.
 39926	eng	Paul telephoned just now.
 39927	eng	I blew a gasket.
-39928	eng	Until recently I have been an early riser for the last six years.
+39928	eng	For six years, I was an early riser. That only changed recently.
 39929	eng	I feel ashamed of having lost my temper.
 39930	eng	I carelessly dropped a vase.
 39931	eng	A foolish impulse made me say what I should have left unsaid.
@@ -38024,7 +38017,7 @@
 40434	eng	Who cares?
 40435	eng	Who is going to look after our dog?
 40436	eng	Who cared?
-40437	eng	We will settle once for all who is the best.
+40437	eng	We will settle once and for all who is the best.
 40438	eng	Who is in fault?
 40439	eng	To understand someone is to love someone.
 40440	eng	You should not cut in when someone else is talking.
@@ -38468,7 +38461,7 @@
 40928	eng	Takeo is engrossed in solving mathematical problems.
 40929	eng	Takuya told me to start at once.
 40930	eng	Have you ever been to Hawaii, Takuya?
-40931	eng	I will share with you in the cost of the taxi.
+40931	eng	I will share the cost of the taxi with you.
 40932	eng	It'll be quicker to walk than to take a taxi.
 40933	eng	It's faster to reserve a taxi.
 40934	eng	I had a little difficulty in getting a taxi.
@@ -39555,7 +39548,7 @@
 42073	eng	It sounds like a dream.
 42074	eng	It happened just when the curtain was falling.
 42075	eng	To all appearance it is true.
-42076	eng	It appeared a true story.
+42076	eng	It appeared to be a true story.
 42078	eng	It cannot be true.
 42080	eng	That cannot have been true.
 42081	eng	It's really a very useful thing; you ought to buy it.
@@ -40133,7 +40126,7 @@
 42691	eng	You can get it at any bookseller's.
 42692	eng	Where is it hidden?
 42693	eng	It was used only from time to time.
-42696	eng	I can not stomach it.
+42696	eng	I cannot stomach it.
 42697	eng	I wouldn't be so sure about that.
 42698	eng	It's a TV.
 42699	eng	That's a delicate point.
@@ -40172,7 +40165,7 @@
 42733	eng	It was a daring adventure, full of thrill and excitement.
 42734	eng	They were all sold out.
 42735	eng	It all depends on the weather.
-42736	eng	It was all our faults.
+42736	eng	It was all our fault.
 42737	eng	It all came to nothing.
 42738	eng	That's a brilliant idea.
 42739	eng	It's a wonderful work of art.
@@ -40186,7 +40179,7 @@
 42747	eng	You'd better not do it.
 42748	eng	That is no fault of Jack's.
 42749	eng	Aside from that, is there anything else you want?
-42751	eng	That's opportunism pure and simple.
+42751	eng	That's opportunism, pure and simple.
 42752	eng	That's a cheerful remark.
 42753	eng	It was like this.
 42755	eng	It has some bearing on this problem.
@@ -40719,7 +40712,7 @@
 43322	eng	The old lady smiled at her granddaughter.
 43323	eng	The old woman gave me two interesting books.
 43324	eng	The old lady was devoted to her dog.
-43325	eng	The old woman seemed to fall down at any second.
+43325	eng	The old woman seemed ready to fall down at any second.
 43326	eng	The old woman is getting better and is being taken good care of by a nurse from the hospital.
 43327	eng	The old lady walked slowly up the hill.
 43328	eng	The old lady climbed the stairs with difficulty.
@@ -41035,7 +41028,7 @@
 43649	eng	The problem was too difficult for me to solve.
 43650	eng	The problem was under discussion.
 43651	eng	That problem has been shelved for the time being.
-43652	eng	The question is not so easy that anyone can answer it.
+43652	eng	The question is not so easy that everyone can answer it.
 43653	eng	The problem puzzled the public.
 43654	eng	The question was much discussed.
 43655	eng	The question began to assume a new character.
@@ -43442,7 +43435,7 @@
 46169	eng	The plant has an underground stem.
 46170	eng	The plants are peculiar to the district.
 46171	eng	I will make certain of the situation.
-46172	eng	I am sure the condition will turn for the better.
+46172	eng	I am sure the situation will take a turn for the better.
 46173	eng	War broke out when the treaty was ignored.
 46174	eng	The clause provides that all decisions shall be made by majority vote.
 46175	eng	The treaty is now a dead letter.
@@ -49998,3 +49991,10 @@
 53161	eng	Jack and Betty have been going steady for a month.
 53162	eng	Jack and Peggy were married by the Rev. John Smith.
 53163	eng	Jack, Jill and Alice went up the hill.
+53164	eng	Jack Daniel's is a Tennessee whiskey.
+53165	eng	We are all poor swimmers with the possible exception of Jack.
+53166	eng	Jack isn't here. He may have missed his usual bus.
+53167	eng	It was the window that Jack broke yesterday.
+53168	eng	It isn't true that Jack is no good at music; on the contrary, he plays the piano well.
+53169	eng	It was yesterday that Jake broke this window.
+53170	eng	Jack isn't here.
