@@ -434,7 +434,11 @@ U+9F3B \
 U+9F4A \
 U+9FA0 \
 U+FFFD \
+U+FFFD \
 U+20089 \
 U+201A2 \
+U+FFFD \
+U+FFFD \
+U+FFFD \
 U+FFFD \
 U+FF5C \
