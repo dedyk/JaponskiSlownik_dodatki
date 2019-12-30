@@ -1,8 +1,3 @@
-258630	eng	I hope I will become a dentist in the future.
-258631	eng	I don't know what is in store for me in the future.
-258632	eng	I will have to take over Father's business in the future.
-258633	eng	I will look after my parents in the future.
-258634	eng	I used to like chocolate when I was small.
 258635	eng	I used to wet the bed when I was small, but I grew out of it by the time I was seven.
 258636	eng	I warned little Mary to leave the kerosene heater alone.
 258637	eng	I heard a little girl crying.
@@ -777,7 +772,7 @@
 259477	eng	I make it a rule to take a walk for an hour in the morning.
 259478	eng	I don't like cheese for breakfast, nor does my wife.
 259479	eng	I bought a loaf of bread for breakfast.
-259480	eng	I must get the breakfast ready.
+259480	eng	I must get breakfast ready.
 259481	eng	I showered before breakfast.
 259482	eng	I am in the habit of taking some exercise before breakfast.
 259483	eng	I took neither breakfast nor lunch.
@@ -4344,7 +4339,7 @@
 263468	eng	What grade did you get on the test?
 263469	eng	He's anxious about his examination result.
 263470	eng	The date of the examination clashed with my sister's wedding.
-263471	eng	How did you do in your exam?
+263471	eng	How did you do on your exam?
 263472	eng	The examination is at hand.
 263473	eng	He could not get through his work, though the examination was near.
 263474	eng	Examinations interfere with the real meaning of education.
@@ -4749,7 +4744,6 @@
 263931	eng	Not enough time to catch the last bus.
 263932	eng	I am pressed for time.
 263933	eng	Time is wasting.
-263934	eng	Time presses.
 263935	eng	Time is pressing every moment.
 263936	eng	If I had had enough time, I could have seen more of London.
 263937	eng	We ran out of time and had to cut short the interview.
@@ -9856,7 +9850,7 @@
 269603	eng	The midnight sun is a fantastic natural phenomenon.
 269604	eng	A midnight telephone call gives us both shock and displeasure.
 269605	eng	Midnight is when ghosts are thought to walk the earth.
-269606	eng	Get back before midnight, or you will be locked out.
+269606	eng	Get back before midnight or you will be locked out.
 269607	eng	Mayumi is a healthy person. She almost never gets sick.
 269608	eng	The girl talking with Mayumi is my sister.
 269609	eng	Mari and Maki are sisters.
@@ -10405,7 +10399,7 @@
 270222	eng	There is no limit to human progress.
 270224	eng	The human brain can adapt to new situations.
 270225	eng	Men's wants become greater in proportion to the increase in their income.
-270226	eng	In humans, the eyes act together with the brains.
+270226	eng	In humans, the eyes act together with the brain.
 270227	eng	The savage in man is never quite eradicated.
 270228	eng	The more we have, the greater our desire will be.
 270229	eng	Nature is beyond mortal control.
@@ -10606,7 +10600,7 @@
 270441	eng	They waved flags to welcome the princess.
 270442	eng	The people came out of their houses to listen to his music.
 270443	eng	All the people are in favor of your idea.
-270444	eng	All the people laughed at the story.
+270444	eng	Everyone laughed at the story.
 270446	eng	The people gathered around a round table.
 270447	eng	The people cried for help.
 270448	eng	People take electricity for granted until its supply is cut off.
@@ -13007,7 +13001,7 @@
 273065	eng	The teacher didn't do her justice.
 273066	eng	Her teacher praised her.
 273067	eng	The teacher asked me to read my paper in front of the class.
-273068	eng	My teacher recommended me to read Shakespeare.
+273068	eng	My teacher recommended that I read Shakespeare.
 273069	eng	The teacher omitted the exercise on page 21 of the book.
 273070	eng	The teacher stressed the importance of daily practice.
 273071	eng	The teacher didn't mind explaining the problem again.
@@ -14098,7 +14092,7 @@
 274264	eng	I don't want to get a full denture.
 274265	eng	That company is doing very well in terms of total sales.
 274266	eng	The minister had to resign.
-274267	eng	The Prime Minister had resigned yesterday.
+274267	eng	The Prime Minister resigned yesterday.
 274268	eng	The Prime Minister has resigned.
 274269	eng	The Prime Minister is to make a statement tomorrow.
 274270	eng	The Prime Minister nominated him as Foreign Minister.
@@ -14465,7 +14459,6 @@
 274662	eng	The invasion of other countries is a shameful action.
 274664	eng	Learn from others' mistakes.
 274665	eng	You will go your way, whatever others say.
-274666	eng	Do to others as you would be done by?
 274667	eng	Do not look too much to others for help.
 274669	eng	Two wrongs don't make a right.
 274670	eng	I am determined to put the plan into practice no matter what others may say.
@@ -15245,6 +15238,7 @@
 275540	eng	The big tree was struck by lightning.
 275541	eng	To fly big passenger airliners calls for long training and experience.
 275542	eng	Let's make a big circle.
+275544	eng	No bones broken.
 275545	eng	There were lots of people.
 275546	eng	I'm about to kill the big boss.
 275547	eng	I understand the general approach, but I'm afraid that I'm getting bogged down in the details.
@@ -16030,7 +16024,7 @@
 276394	eng	Everyone believes in their own potential.
 276395	eng	Everybody likes polite people.
 276397	eng	Please go and see who it is.
-276398	eng	No one can master English if he doesn't make effort.
+276398	eng	No one can master English if he doesn't make an effort.
 276399	eng	Everybody wants to rid himself of troubles.
 276400	eng	Everybody wants to live in comfort.
 276401	eng	Nobody wants his sense of worth to be damaged.
@@ -16358,6 +16352,7 @@
 276772	eng	An old castle stands on top of the cliff.
 276773	eng	The water has been cut off.
 276774	eng	The water supply has failed.
+276775	eng	It has been off and on for a few months.
 276776	eng	The disadvantage of excellent insulation is that it quickly leads to overheating.
 276777	eng	The last agony was over.
 276778	eng	I was pleased no end by the cordial welcome.
@@ -17013,7 +17008,7 @@
 277500	eng	China is much larger than Japan.
 277501	eng	China is a leading exporter of arms.
 277502	eng	Foreign direct investments in China amounted to $3 billion last year.
-277503	eng	The black and white bears living in the mountains in China and Tibet are called 'pandas'.
+277503	eng	The black and white bears living in the mountains of China and Tibet are called pandas.
 277504	eng	If you travel in China, it is best to go with a guide.
 277505	eng	Can you speak either Chinese or Russian?
 277506	eng	Can you count to ten in Chinese?
@@ -17775,7 +17770,6 @@
 278350	eng	There is a crowd of people on the street.
 278351	eng	He ran out into traffic.
 278352	eng	Everybody that came to the street was surprised.
-278353	eng	Access only.
 278354	eng	You can park on either side of the street.
 278355	eng	If there is a lot of traffic in the streets, we say in English that the traffic is heavy.
 278357	eng	There is a church across the street.
@@ -18874,7 +18868,7 @@
 279554	eng	I'm annoyed by their impudence.
 279555	eng	They have taken her away.
 279557	eng	Slaves make a life for themselves.
-279558	eng	Slave revolts interfere with Middle Passage.
+279558	eng	Slave revolts interfered with the Middle Passage.
 279559	eng	It is over a century since slavery was made illegal.
 279561	eng	Slavery has been abolished in most parts of the world.
 279562	eng	I feel the tension in my neck, where it gets sore and stiff.
@@ -19172,7 +19166,6 @@
 279878	eng	Go for broke!
 279879	eng	Obviously.
 279880	eng	I wasn't counting on that.
-279881	eng	Hold good.
 279882	eng	I wandered about aimlessly all day.
 279883	eng	The boy in question did not come to school today.
 279884	eng	Please enjoy your stay at this hotel.
@@ -23403,7 +23396,7 @@
 284531	eng	I owe him 1,000 dollars.
 284532	eng	He suckered me out of ten dollars.
 284533	eng	He kept me waiting for an hour.
-284534	eng	He was paid 10000 dollars.
+284534	eng	He was paid 10,000 dollars.
 284535	eng	Don't speak to him like that.
 284536	eng	As soon as she met him, she burst into tears.
 284537	eng	You will have to apologize when you see him.
@@ -26850,7 +26843,7 @@
 288318	eng	He told them that he had had a wonderful time.
 288319	eng	He acted well in Hamlet.
 288321	eng	He said, "So long, my friends," and left us.
-288322	eng	He said to me, "Please do me a favor".
+288322	eng	He said to me, "Please, do me a favor".
 288323	eng	He said that it was raining, and that he would stay at home.
 288324	eng	He said: "Leave me alone."
 288325	eng	He said to himself, "I will do it."
@@ -28085,7 +28078,7 @@
 289628	eng	I'm sure he'll catch at this offer.
 289629	eng	I'm sure that he will take part in the contest.
 289631	eng	I am sure he will make good in that job.
-289632	eng	In other words, physical obstacles, perhaps unknown to the original surveyor and engineer, requiring alterations to be made in order to surmount them.
+289632	eng	In other words, physical obstacles, perhaps unknown to the original surveyor and engineer, will require alterations to be made in order to surmount them.
 289633	eng	It is wise to provide against a rainy day.
 289634	eng	Who is that woman holding the flowers?
 289635	eng	My father beat me almost black and blue for playing truant from school.
@@ -28923,7 +28916,6 @@
 290520	eng	He heard the news on the radio.
 290521	eng	He wanted to hear about the news.
 290522	eng	He contradicted the news.
-290523	eng	He was surprised to hear the news.
 290524	eng	He looked surprised at the news.
 290525	eng	He turned pale at the news.
 290526	eng	He found the party was rather slow.
@@ -31959,7 +31951,7 @@
 293825	eng	He came first. Therefore he got a good seat.
 293826	eng	I felt that he skirted around the most important issues.
 293827	eng	He is the tallest boy.
-293828	eng	He found a dog abandoned in the wood.
+293828	eng	He found a dog abandoned in the woods.
 293829	eng	He missed the train by one minute.
 293830	eng	He's broke.
 293831	eng	He made his way to presidency step by step.
@@ -32283,7 +32275,7 @@
 294186	eng	He has an ear for music.
 294187	eng	He is very fond of music.
 294188	eng	He belongs to the music club.
-294189	eng	He likes not only music but sports.
+294189	eng	He not only likes music, but also sports.
 294190	eng	He likes sports as well as music.
 294191	eng	He seemed to be very keen on music.
 294192	eng	He is given to music.
@@ -33939,7 +33931,7 @@
 296015	eng	He could not accept a strange woman as his mother.
 296016	eng	He has too many wild ideas.
 296017	eng	He has become thin beyond all recognition.
-296018	eng	He is a well informed person.
+296018	eng	He's a well-informed person.
 296019	eng	He wrote away for a sample.
 296020	eng	Just because he's wise doesn't mean that he's honest.
 296021	eng	He is clever but tricky.
@@ -47264,7 +47256,7 @@
 310568	eng	She laughed in amusement.
 310569	eng	She looked at me in amusement.
 310570	eng	She has a funny face.
-310571	eng	She looked me angrily in the face.
+310571	eng	She looked at me angrily.
 310572	eng	She has a hot temper.
 310573	eng	She was brought up by her grandfather.
 310574	eng	She inclined her head in greeting.
@@ -47828,7 +47820,7 @@
 311169	eng	She has a 10 percent interest in the company.
 311170	eng	She was required to step down in the office.
 311171	eng	She hung the picture upside down.
-311172	eng	She was taking a nap all the time.
+311172	eng	She was taking a nap the whole time.
 311173	eng	She half dragged, half carried the log.
 311174	eng	She put the machine in motion.
 311175	eng	She derives her temper from her grandfather.
@@ -49998,3 +49990,11 @@
 313491	eng	She is wise and you are no less so.
 313492	eng	She had the wisdom to follow the custom.
 313493	eng	She put the key in her pocket.
+313495	eng	She's getting on all right.
+313496	eng	She went on picnic in spirits.
+313497	eng	She got on a bus for Harajuku.
+313498	eng	She swept the dirt from the porch.
+313499	eng	She had left the front door unlocked.
+313500	eng	She failed to appear.
+313501	eng	She is quite satisfied with her life as it is.
+313502	eng	She is in conference now.

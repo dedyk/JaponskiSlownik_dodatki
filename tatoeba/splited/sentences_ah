@@ -1,13 +1,3 @@
-365686	pol	W autobusie był straszliwy tłok.
-365687	pol	Wyszła do sklepu, zostawiając małe dziecko same.
-365688	pol	Mam nadzieję, że do nas dołączysz.
-365689	pol	Zmuszono go do podpisania umowy wbrew jego woli.
-365690	pol	Jest nie tylko odważny, ale i mądry.
-365691	pol	Dam ci znać, kiedy przyjdzie.
-365692	deu	Er ist nicht nur interessiert, er ist geradezu verrückt danach.
-365693	pol	Liście żółkną.
-365694	deu	Wo Rauch ist, ist auch Feuer.
-365695	pol	Kombinacja nordycka to połączenie dwóch dyscyplin - skoków narciarskich i narciarstwa crossowego.
 365696	pol	Zapłaci najwyżej 20 dolarów.
 365697	pol	Plecy mnie bolą.
 365698	pol	Był już na krawędzi śmierci.
@@ -2546,7 +2536,7 @@
 368323	deu	Geschickte Diplomatie trägt dazu bei, Kriege zu vermeiden.
 368324	deu	Ich prüfte den Etat und entschied, die Kosten zu reduzieren.
 368325	deu	Wir müssen die monatlichen Kosten reduzieren.
-368326	deu	In unserer Firma wurde die Produktion um 20% gedrosselt.
+368326	deu	In unserer Firma wurde die Produktion um 20 % gedrosselt.
 368327	deu	Sie hat einen neuen Weltrekord aufgestellt.
 368328	deu	Wer hat dir das Tanzen beigebracht?
 368329	deu	Im Wartezimmer waren fünf Patienten.
@@ -7356,7 +7346,7 @@
 373324	ita	Come sta?
 373325	ita	Come va?
 373327	eng	I can love.
-373328	tur	Ben sevebilirim.
+373328	tur	Sevebilirim.
 373329	deu	Ich kann lieben.
 373330	eng	Hello!
 373338	ces	Ahoj!
@@ -7694,7 +7684,6 @@
 373687	fra	Quels que soient tes efforts, tu ne pourras pas apprendre l’anglais en deux-trois mois.
 373688	fra	Heureux ceux qui ont la mémoire courte.
 373689	fra	La Suisse est un beau pays.
-373690	fra	J’ai trouvé ce restaurant par hasard.
 373691	fra	J’arrive chez toi dans une heure.
 373692	fra	Je viendrai chez toi dans une heure.
 373693	fra	Le Canada est plus grand que le Japon.
@@ -25200,7 +25189,7 @@
 391629	nld	Er klonk een vreselijk harde piep - de microfoon zong rond.
 391630	eng	A terribly loud beep resounded - the microphone produced feedback.
 391631	nld	Wat je van ver haalt, is lekker.
-391632	eng	What you get from far is tasty.
+391632	eng	What you get from afar is tasty.
 391633	deu	Was man von weit herholt, ist lecker.
 391634	nld	In mei leggen alle vogeltjes een ei.
 391635	eng	In May, all birds lay an egg.
@@ -29923,7 +29912,7 @@
 396437	rus	Батарея разряжена!
 396438	bel	Батарэя разражаджаная!
 396439	ukr	Батарея розряджена!
-396440	eng	Battery is low!
+396440	eng	The battery is low.
 396441	deu	Ich konnte sogar das Geräusch von Flugzeugen hören.
 396442	deu	Ich wohne kilometerweit entfernt vom nächsten Bahnhof.
 396443	cmn	電池快沒電了。
@@ -31367,7 +31356,7 @@
 397918	deu	Er möchte ein Tennisspieler werden.
 397919	deu	Ich war auf den ersten Blick von ihr fasziniert.
 397920	deu	Ich habe sie auf den ersten Blick erkannt.
-397921	deu	Könntest du mir 10000 Yen leihen?
+397921	deu	Könntest du mir 10 000 Yen leihen?
 397922	deu	Du musst Schritt für Schritt lernen.
 397923	deu	Ich stimme deiner Meinung teilweise zu.
 397924	deu	Eine Katze überquerte die Straße.
@@ -31715,7 +31704,6 @@
 398268	fra	Cette pièce est utilisée comme cuisine.
 398269	fra	La cuisine de cette maison est très grande.
 398270	spa	Linux es un sistema operativo gratis, deberías probarlo.
-398271	fra	Dans la cuisine.
 398272	fra	Ma sœur est en train de cuisiner dans la cuisine.
 398273	spa	A menudo uso SSH para tener acceso remoto a mi computador.
 398274	jpn	ちゃんと現実を直視して生きるべきだ。
@@ -33589,7 +33577,7 @@
 400184	eng	What do you want to drink?
 400185	fra	Que veux-tu boire ?
 400186	cmn	我要一杯冰红茶。
-400187	eng	I want a cup of iced-tea.
+400187	eng	I want a cup of iced tea.
 400188	fra	Je voudrais un verre de thé glacé.
 400189	cmn	你喜欢吃点啥？
 400190	fra	Qu'aimerais-tu manger ?
@@ -35204,6 +35192,7 @@
 402105	swe	Han klagade över att rätten smakade illa.
 402109	swe	Våra ansträngningar medförde inte någon framgång.
 402110	cmn	島上的飛機場已經長滿了雜草。
+402111	swe	Du ska inte tro att det kommer att bli enkelt.
 402112	yue	個島上面嗰個機場已經生晒雜草。
 402116	ron	Bun venit!
 402119	swe	Jag gav det ett försök och tänkte att allting är värt ett försök. Men att sätta ihop ett sånt här program klarar jag inte av.
@@ -36424,6 +36413,7 @@
 403420	cmn	我應該回信給他嗎？
 403421	deu	Gibt es in Europa viele Leute, die noch an Geister glauben?
 403423	yue	我應唔應該回信俾佢呢？
+403424	swe	Hon kan tala tio språk.
 403427	cmn	從這裏步行到車站要多少時間？
 403428	yue	喺呢度行到去車站要幾耐㗎？
 403429	deu	Ich wünschte, ich wäre reich.
@@ -36438,11 +36428,13 @@
 403450	deu	Sei nett zu den anderen!
 403452	deu	Ich arbeite jeden Tag außer sonntags.
 403454	cmn	你有沒有去過外國？
+403455	swe	Det är lite kallt idag.
 403456	yue	你有無去過外國呀？
 403460	cmn	你不用擔心。
 403461	yue	你唔使擔心。
 403462	cmn	我還不知道。
 403463	yue	我仲未知。
+403465	swe	Jag hade väldigt hög feber.
 403468	cmn	你聖誕過得開心嗎？
 403470	yue	你聖誕節過得開唔開心呀？
 403476	cmn	她裙子和鞋子的顏色很配。
@@ -36875,8 +36867,8 @@
 403934	tur	Nancy onu bir partiye çağırdı.
 403935	tur	Çok fazla yersen şişmanlarsın.
 403936	tur	Golfün büyük bir hayranıyım.
-403937	tur	O kötü mü?
-403938	tur	İnsanların savaş korkusu var.
+403937	tur	Kötü mü?
+403938	tur	İnsanlar savaştan korkar.
 403939	tur	İyi hissetmiyorum.
 403940	tur	Öğretmenimiz bize çok ödev verir.
 403941	tur	Teşekkür ederim!
@@ -36884,7 +36876,7 @@
 403944	tur	Çok teşekkür ederim!
 403945	tur	Çok teşekkür ederiz!
 403946	tur	Çok teşekkürler!
-403947	tur	O kendi yollarını izleyen iyi bir doktordur.
+403947	tur	İyi bir doktor kendi yöntemlerini uygular.
 403948	tur	O, patronunu dinlememe numarası yaptı.
 403949	tur	Onu Kaliforniya'ya gönderiyorum.
 403950	tur	Adam burada.
@@ -36898,7 +36890,7 @@
 403958	tur	Almanya parlamenter bir cumhuriyettir.
 403959	tur	İnternette Tatar dilinde çok az site vardır.
 403960	tur	Hiç kimse bilmiyor.
-403961	tur	Sigara içmek size çok fazla zarar verecektir.
+403961	tur	Sigara içmek size çok zarar verecektir.
 403962	tur	Eve hoş geldin.
 403963	tur	O okulunu samimiyetle seviyor.
 403964	tur	Bir şey değil.
@@ -36920,11 +36912,11 @@
 403980	tur	Bana yardım edebilir misin?
 403981	tur	Bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on.
 403982	tur	Susadım.
-403983	tur	İyi akşamlar, nasılsın?
-403984	tur	İyi akşamlar, nasılsınız?
-403985	tur	Parlayan her şey altın değildir.
-403986	tur	Kılıcım yok.
-403987	tur	Singapur'luyum.
+403983	tur	İyi akşamlar. Nasılsın?
+403984	tur	İyi akşamlar. Nasılsınız?
+403985	tur	Her parlayan şey altın değildir.
+403986	tur	Bir kılıcım yok.
+403987	tur	Singapurluyum.
 403988	tur	Banyo nerede?
 403989	tur	Okulun nerede?
 403990	tur	İyi akşamlar.
@@ -39946,7 +39938,7 @@
 407067	ara	سأعاود الإتصال بك فيما بعد.
 407068	ara	هل تعرف من هي؟
 407069	fra	Comme j'ai été pressé, j'ai dû prendre un taxi.
-407070	eng	Let’s go now. Otherwise, we'll be late.
+407070	eng	Let's go now. Otherwise, we'll be late.
 407071	rus	Пошли сейчас. А то опоздаем.
 407072	fra	Allons-y maintenant. Sinon, nous serons en retard.
 407073	cmn	咱们现在走吧。要不咱们要迟到了。
@@ -43259,7 +43251,7 @@
 410460	fra	La force irradie d'un grand guerrier. Il n'a pas besoin de combattre à mort.
 410461	rus	Великий воин излучает силу. Ему не обязательно воевать до смерти.
 410462	cmn	一名伟大的战士放射出力量。他不用死战。
-410463	eng	It’s a quarter past eight.
+410463	eng	It's a quarter past eight.
 410464	rus	Сейчас четверть девятого.
 410465	fra	Il est huit heures et quart.
 410466	cmn	现在是八点一刻。
@@ -44413,7 +44405,6 @@
 411650	cmn	谁教你跳舞的?
 411651	uig	بىز ئوقۇغۇچى.
 411652	cmn	很明显你说了谎。
-411653	cmn	在厨房里。
 411654	cmn	明天早上6点给我打电话。
 411655	cmn	他比他们聪明。
 411656	epo	Li ŝatas kafon sen sukero.
@@ -44605,7 +44596,7 @@
 411849	jpn	憂国者はいつも国のために死のうと訴えていて、国のために人を殺そうとは言わない。
 411850	eng	You want to watch a French movie, don't you?
 411851	ron	Când lucram la o școală publică, aveam zece-cinsprezece elevi în clasă.
-411852	eng	When I was working for a public school, I had ten-fifteen students in a class.
+411852	eng	When I was working for a public school, I had ten to fifteen students in a class.
 411853	ron	În Franța ați lucrat la ambasadă sau la consulat?
 411854	eng	In France did you work at the embassy or in the consulate?
 411855	ron	Când veți merge în România, o să vizitați Castelul lui Dracula.
@@ -46082,7 +46073,7 @@
 413345	nld	Het probleem is zo goed als afgehandeld.
 413346	nld	Bill heeft me een mooie jurk gemaakt.
 413347	nld	Ze zagen het jongetje weggedragen worden naar het ziekenhuis.
-413348	nld	Het vergif heeft zich over het hele lichaam verspreid.
+413348	nld	Het vergif heeft zich door het hele lichaam verspreid.
 413349	nld	Engeland is trots op zijn poëten.
 413350	nld	Er bestaat een kleine kans op herhaling.
 413351	jpn	ブリティッシュコロンビアの沿岸生態系の劣化が急速に進行している。
@@ -48997,7 +48988,7 @@
 416560	eng	Each man calls barbarism whatever is not his own practice.
 416561	ara	السفر سهل هذه الأيام.
 416562	ara	من فضلك البس حذاءك.
-416563	rus	Экзамен, которой он сдал на прошлой неделе был очень сложным.
+416563	rus	Экзамен, которой он сдал на прошлой неделе, был очень сложным.
 416564	rus	Он был занят ремонтом автомобиля и, когда я вернулся, выглядел уставшим.
 416565	rus	Благослови тебя Бог!
 416566	ara	سأبقى في البيت.
@@ -49722,7 +49713,7 @@
 417299	rus	Мне не нравится никто из них.
 417300	rus	В какое время открывается столовая?
 417301	rus	Закрой дверь.
-417302	rus	Герхард Шрёдер — первый немецкий канцлер, который не жил во время Второй мировой войны.
+417302	rus	Герхард Шрёдер — первый немецкий канцлер, которому не пришлось пережить Вторую мировую войну.
 417303	rus	Будь я птицей, я бы полетел к тебе.
 417304	rus	Она усердно училась, чтобы не провалить вступительные экзамены.
 417305	nld	Verwar verlangen niet met liefde.
@@ -49998,3 +49989,12 @@
 417581	ara	أسبق وذهبت إلى فرنسا؟
 417582	deu	Er scheint so beschäftigt wie immer zu sein.
 417583	ara	ماذا لديك في جيبك؟
+417584	deu	Er ist nach wie vor beschäftigt.
+417585	jpn	過去はどうでもいい。昔と今だったら、俺は今の方が好きだ。だから今を楽しむ。それだけだ。
+417586	ara	أنتهيت من فطورك؟
+417587	ara	هل انتهيت من فطورك؟
+417588	ara	أنتهيت من غدائك؟
+417589	ara	هل انتهيت من غدائك؟
+417591	deu	Sie grüßte mich mit einem „Guten Morgen“.
+417592	deu	Sie begrüßte mich mit einem Lächeln.
+417593	ara	أتوقعت أن يقول الحقيقة؟
