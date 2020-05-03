@@ -1,33 +1,3 @@
-522093	deu	Sie sprach für die Obdachlosen.
-522094	epo	En tiu via kazo ni volas fari escepton.
-522095	epo	Li sidis sur benko kun okuloj fermitaj.
-522096	epo	Ŝi akompanis min al la hospitalo.
-522097	deu	Wer wird der Stellvertreter?
-522098	epo	Mi volas ion por trinki.
-522099	epo	Ni havas ankoraŭ multe da tempo.
-522100	deu	Dieses Jahr ist ein wichtiges Jahr für mich.
-522102	deu	Plötzlich begannen sie alle gemeinsam zu lachen.
-522103	deu	Es ist nett von dir, mir zu helfen.
-522104	fra	La culture, c’est comme la confiture : moins on en a, plus on l’étale.
-522105	deu	Sie macht einen riesigen Fehler.
-522106	deu	Er macht einen riesigen Fehler.
-522107	deu	Sie ist nicht fotogen.
-522108	deu	Ich bin zum Bahnhof gefahren, um ihn zu treffen.
-522109	deu	Weißt du, wer den Telegrafen erfunden hat?
-522110	deu	Ich habe ihn gefragt, warum er so traurig ist.
-522111	deu	Sie mag auch Schokolade.
-522112	deu	Das sind meine Bücher, die da sind seine.
-522113	deu	Sie hatte fast kein Geld.
-522114	deu	Ich habe das Auto gestern repariert.
-522115	ces	Polák, Maďar, dva bratři, v šavli i ve sklenici.
-522116	deu	Mein Onkel hat mir ein Paar Schuhe gegeben.
-522117	deu	Wenn du das Frühstück auslässt und ein leichtes Mittagessen isst, dann kannst du abends essen, was du willst.
-522119	deu	Wir verlassen das Land für immer.
-522120	deu	Die Glocke hat noch nicht geläutet.
-522121	rus	Мы проиграли почти все наши выездные игры.
-522122	deu	Ich habe den Schaden wiedergutgemacht.
-522123	deu	Das habe ich nie gesagt!
-522124	deu	Darf ich meinem Vater sagen, was du willst?
 522125	pol	Mamy jeszcze dużo czasu.
 522126	epo	Mi kapablas transnaĝi la riveron.
 522127	epo	Ŝi senatente trafoliumis la magazinon.
@@ -2819,7 +2789,7 @@
 525076	pol	Jest wysoki jak mój ojciec.
 525077	pol	Tylko dwie osoby przetrwały trzęsienie ziemi.
 525078	deu	Das ist nichts weiter als eine Redensart.
-525079	epo	Nur estas parolturno.
+525079	epo	Tio estas nur parolturno.
 525080	pol	Te produkty są tej samej jakości.
 525081	pol	Wszyscy się z Tobą zgadzają.
 525082	pol	Jesteśmy bliźniakami. Ludzie często mylą mnie z moim bratem.
@@ -4301,7 +4271,7 @@
 526634	epo	Lia rimarko ĝenis min.
 526635	eng	The goal of this report is to examine every advantage and disadvantage of this proposal.
 526636	hun	Nem úgy látjuk a dolgokat, mint amilyenek, hanem úgy, amilyenek mi vagyunk.
-526637	eng	Tom is a math-geek.
+526637	eng	Tom is a math geek.
 526638	epo	Nenio farendas por mi hodiaŭ.
 526639	eng	The director of the school wants to close the canteen and create a new recreation room for the students.
 526640	eng	We should write a formal letter to the director.
@@ -4747,7 +4717,7 @@
 527094	rus	Я бегаю каждый день.
 527095	epo	Ili kuras nun.
 527096	epo	Ili estas kurantaj.
-527097	epo	Vi povas iri nun sinjoro.
+527097	epo	Vi povas iri nun, sinjoro.
 527098	rus	Давайте поговорим серьёзно о вашем будущем.
 527099	epo	Bonvolu ne fari tiom da bruo.
 527100	deu	Meine Schwester ist gestern nach Kobe gefahren.
@@ -5493,7 +5463,6 @@
 527865	pol	Dzisiaj jest fatalna pogoda.
 527866	epo	Kia estas la vetero en Nov-Jorko?
 527868	epo	Li certas, ke li venos.
-527871	epo	Eksterlandanoj scivolemigas min.
 527872	epo	Pli bone vi ne parolu al la patro pri la incidento.
 527874	yue	我將對鞋著到殘晒。
 527875	epo	Ĉu povas la ĉiopova Dio krei ŝtonon tiom pezan, ke eĉ li ne povos ĝin levi?
@@ -7347,7 +7316,7 @@
 529821	fra	Le chien est blanc.
 529824	fra	Que voulez-vous boire ?
 529825	fra	Vous devez écrire une lettre officielle au directeur.
-529826	fra	L’aéroport est assez loin du centre-ville.
+529826	fra	L'aéroport est assez loin du centre-ville.
 529827	fra	Elle vit à la campagne.
 529828	fra	Elle vit dans un village.
 529829	epo	Ne ĉiu hundo bojanta estas hundo mordanta.
@@ -8918,7 +8887,6 @@
 531505	tur	Onun görme kabiliyeti kötü.
 531506	epo	Li malamas la lernejestron.
 531507	pol	Wszystkie kraje mają swoje flagi narodowe.
-531508	fra	L'aéroport est assez loin du centre-ville.
 531509	epo	Mia patrino malamas la someran varmon.
 531510	eng	He took a mirror and carefully examined his tongue.
 531511	heb	פעמיים בירה, בבקשה.
@@ -9375,12 +9343,12 @@
 532007	rus	Даже проходя ущельем во тьме смертной, не убоюсь беды; ибо Ты - со мною! Палица и посох в Твоих руках вселяют в меня уверенность.
 532008	eng	Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.
 532009	pol	"Zagrałbym w karty." "Ja też."
-532010	ara	حَتَّى إِذَا اجْتَزْتُ وَادِي ظِلاَلِ الْمَوْتِ، لاَ أَخَافُ سُوءاً لأَنَّكَ تُرَافِقُنِي. عَصَاكَ وَعُكَّازُكَ هُمَا مَعِي يُشَدِّدَانِ عَزِيمَتِي.
+532010	ara	حَتَّى إِذَا اجْتَزْتُ وَادِي ظِلاَلِ الْمَوْتِ، لاَ أَخَافُ سُوءاً لأَنَّكَ تُرَافِقُنِي. عَصَاكَ وَعُكَّازُكَ هُمَا مَعِي يُشَدِّدَانِ عَزِيمَتِي.
 532011	pol	Dobry, stary Kartezjusz myślał tak dużo, że... był.
 532012	ukr	Коли я піду хоча б навіть долиною смертної темряви, то не буду боятися злого, бо Ти при мені, Твоє жезло й Твій посох вони мене втішать!
 532013	eng	Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
 532014	fra	L’usine va fermer ! Là, c’est vraiment la fin des haricots.
-532015	heb	גַּ֤ם כִּֽי־אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא־אִ֘ירָ֤א רָ֗ע כִּי־אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי׃
+532015	heb	גַּ֤ם כִּֽי־אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא־אִ֘ירָ֤א רָ֗ע כִּי־אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי׃
 532016	pes	چون‌ در وادی‌ سایة‌ موت‌ نیز راه‌ روم‌ از بدی‌ نخواهم‌ ترسید زیرا تو با من‌ هستی‌؛ عصا و چوب ‌دستی‌ تو مرا تسلی‌ خواهد داد.
 532017	bul	Да! и в долината на мрачното сянка ако ходя Няма да се уплаша от зло; Защото Ти си с мене; Твоят жезъл и Твоята тояга, те ме утешават.
 532018	deu	Suchst du mir eine Krawatte aus?
@@ -9542,7 +9510,7 @@
 532178	rus	Младенец перестал кричать.
 532179	cmn	我父親每逢星期天都會去打高爾夫球。
 532180	yue	我阿爸逢親禮拜日都會去打哥爾夫球。
-532181	fra	"Pourquoi vas-tu au Japon ?""Pour participer à une conférence à Tokyo."
+532181	fra	« Pourquoi vas-tu au Japon ? » « Pour participer à une conférence à Tokyo. »
 532182	tur	Ama sonra o Londra'da dilleri çalışan bir öğrenci olan Jane Wilde'a aşık oldu.
 532183	tur	Bebek ağlamayı kesti.
 532184	deu	Hol mir das Buch.
@@ -10324,7 +10292,7 @@
 533017	deu	Es gab da einen Turm auf der Bergspitze.
 533018	epo	Mi intence vundis ŝiajn sentojn.
 533019	epo	Mi havas propran ĉambron.
-533020	deu	Halt's Maul!
+533020	deu	Halt’s Maul!
 533021	epo	"Ĉu ni ne renkontiĝis ie antaŭe?" demandis la studento.
 533022	spa	¡Calla esa boca!
 533023	epo	Atentu pri trompaj retpoŝtaĵoj.
@@ -13198,7 +13166,7 @@
 536031	epo	Jam estas kvin jaroj ekde mi laste vidis vin.
 536032	epo	Ĉi tiu libro estas tro multekosta.
 536033	hun	A rendőrség rá fog venni benneteket, hogy megtaláljátok a golyókat.
-536034	deu	Ein geschicker Mechaniker verdient nicht schlecht.
+536034	deu	Ein geschickter Mechaniker verdient nicht schlecht.
 536035	epo	Jack estas unu el miaj amikoj.
 536036	epo	Nur malmultaj homoj komprenis min.
 536037	epo	Mi ŝatas naĝi.
@@ -16147,7 +16115,7 @@
 539109	dan	"Hvor gammel er hun?" - "Hun er tolv år."
 539110	dan	Jeg har kun halvt så mange bøger som han har.
 539111	fra	Je ne suis plus végétarien.
-539112	dan	Har du en ide om hvor mange indbyggere der er i Tokyo.
+539112	dan	Har du en ide om hvor mange indbyggere der er i Tokyo?
 539113	ita	Non sono più vegetariano.
 539114	dan	Jeg har fem gange så mange frimærker som han har.
 539115	hun	Mit mondtál?
@@ -16528,7 +16496,7 @@
 539509	fra	Plus le temps passe, plus sa vue m’est insupportable.
 539510	fra	Son mari fume comme un pompier.
 539511	fra	J’ai failli tomber dans les pommes.
-539512	jpn	何がねらいなんだ.
+539512	jpn	何がねらいなんだ。
 539513	jpn	近道がわかるぞ。
 539514	rus	Он — противный тип подозрительного вида.
 539515	jpn	３ユーロとなります。
@@ -17110,7 +17078,7 @@
 540117	epo	Kiom ajn okupita vi estas, vi devas fari viajn hejmtaskojn.
 540118	pol	Wakacje skończyły się za szybko.
 540119	epo	Estu ĉi tie plej malfrue je la deka.
-540120	eng	One flew over cuckoo's nest is one of my favorite movies.
+540120	eng	"One Flew Over the Cuckoo's Nest" is one of my favorite movies.
 540121	epo	Lia decido translokiĝi al Ĉikago surprizis nin.
 540122	pol	Nie pamiętam znaczenia słowa, które wczoraj odszukałem w słowniku.
 540123	epo	Li zorge analizis la situacion.
@@ -19082,7 +19050,7 @@
 542196	deu	Wie sehr ich mich auch beeile, die allgemeinen Arbeiten sammeln sich ständig an, und ich komme nicht hinterher.
 542197	fra	La semaine prochaine, je pars en vacances.
 542198	fra	Il fait beau.
-542199	fra	"Quand reviendras-tu ?" "Ça dépend complètement du temps !"
+542199	fra	« Quand reviendras-tu ? » « Ça dépend complètement du temps ! »
 542200	fra	J'ai beau me presser, le travail d'ordre général s'accumule rapidement et je n'arrive pas à rattraper mon retard.
 542201	lit	Stručiai nemoka skraidyti.
 542202	fra	Je reviens la semaine prochaine.
@@ -20392,7 +20360,7 @@
 543580	epo	Ne ĵetu rokojn en la riveron.
 543581	eng	He has to repair the clock.
 543582	ara	يغادرون القاهرة اليوم متوجهين الى تل أبيب.
-543583	eng	They are leaving Cairo today heading for Tel Aviv.
+543583	eng	They are leaving Cairo today, heading for Tel Aviv.
 543584	heb	היום הם עוזבים את קהיר לכיוון תל אביב.
 543585	epo	Oni diras ke Japanio estas la plej granda ekonomia potenco en la mondo.
 543586	epo	Ŝi nun estis el danĝero.
@@ -21164,7 +21132,6 @@
 544399	fra	J'ai eu la chance d'être sélectionné.
 544400	epo	Li estas ne malpli diligenta ol ŝi.
 544402	fra	Ce type d'avis lui est désagréable.
-544403	eng	One Ring to rule them all.
 544404	epo	Li ne portis ĉapelon.
 544405	pol	Jeden pierścień aby rządzić wszystkimi.
 544406	epo	Fariĝanta aĝa li pli saĝiĝis.
@@ -21459,7 +21426,7 @@
 544710	epo	Lia patrino ne permesis al li rajdi sur motorciklo.
 544711	eng	She must be visiting England this summer.
 544712	fra	J'ai besoin d'un sac. Peux-tu m'en prêter un ?
-544713	fra	"Veux-tu quelque chose à boire ?" "Non, merci"
+544713	fra	« Veux-tu quelque chose à boire ? » « Non, merci. »
 544714	epo	Lia patrino estas malsana en lito.
 544715	epo	Lia patrino ŝparis monon por li.
 544716	epo	Lia patrino sentis honton pro li.
@@ -22054,7 +22021,7 @@
 545332	fra	Ton baiser est plus doux que du miel.
 545333	pol	Nie mogę kochać nikogo poza tobą.
 545334	deu	In dieser Klasse sind mehr Mädchen als Jungen.
-545335	eng	Pope meets pedophile priest victims in London.
+545335	eng	The pope is meeting victims of pedophile priests in London.
 545336	fra	Il se comporte d'une manière criminelle à l'égard de ses enfants.
 545337	pol	Papież spotyka się z ofiarami księży pedofilów w Londynie.
 545338	fra	Il y a davantage de filles que de garçons dans cette classe.
@@ -22602,7 +22569,7 @@
 545941	spa	Estoy bastante seguro de eso.
 545942	mon	Нас намбандаа бай.
 545943	mon	Линда шоколаданд дуртай.
-545944	epo	Li traktas min kvazaŭ mi estus fremdulo.
+545944	epo	Li traktas min, kvazaŭ mi estus fremdulo.
 545945	epo	Ni faru teston de gravedeco.
 545946	mon	Бэлэн мөнгөөр бол 10% хямдралтай.
 545947	mon	Би тоглож хэлсэн.
@@ -23837,7 +23804,7 @@
 547265	epo	Tio ĉi estas surprizanta.
 547266	pol	Nie wiem jak przeliterować to słowo.
 547267	spa	Eso es difícil de creer.
-547268	epo	Kiu el la lernantoj eliris ?
+547268	epo	Kiu el la lernantoj eliris?
 547269	fra	Lequel des élèves est sorti ?
 547270	deu	Er hat mein Leben verändert.
 547271	deu	Es ist Arbeit.
@@ -24417,7 +24384,7 @@
 547901	fra	Tu es le seul à pouvoir m'aider.
 547902	fra	Tu es la seule à pouvoir m'aider.
 547903	fra	Vous êtes la seule à pouvoir m'aider.
-547904	fra	La fille aînée s'écria soudain : "Je veux des bonbons !"
+547904	fra	La fille aînée s'écria soudain : « Je veux des bonbons ! »
 547905	pol	On kocha jeździć na wycieczki.
 547906	pol	Nie jestem studentem.
 547907	pol	Czy Cathy też poszła?
@@ -25552,7 +25519,7 @@
 549124	epo	Mi estas avida leganto de biografioj.
 549125	fra	Je voudrais un jus d'orange.
 549127	epo	La loĝantaro de Aŭstralio estas multe pli malgranda ol tiu de Japanio.
-549129	fra	"Qui sont les Ouïghours ?" " Je ne sais pas. "
+549129	fra	« Qui sont les Ouïghours ? » « Je ne sais pas. »
 549130	epo	Neniu viro povas rezisti la ĉarmon de virino.
 549131	fra	Je veux acheter.
 549132	fra	J'ai rencontré ta mère sur Facebook. Donc, si Facebook n'existait pas, toi non plus tu n'existerais pas, mon petit ange.
@@ -25989,7 +25956,7 @@
 549588	fra	Comme votre prénom se prononce-t-il ?
 549589	ara	أَخْرَجَ جُوْن مِفْتَاحًا مِنْ جَيْبِهِ.
 549590	fra	J’en ai ras-le-bol de tes histoires !
-549591	ara	أُحَاوِلُ تَرْكَ مَكَانٍ لِلتَّحْلِيَة.
+549591	ara	أُحَاوِلُ تَرْكَ مَكَانٍ لِلتَّحْلِيَة.
 549592	fra	De l’eau a coulé sous les ponts depuis leur rupture.
 549593	ara	أُحَاوِلُ تَرْكَ مَكَانٍ لِلحَلْوَى.
 549594	ara	كَلِمَةُ المُرُوْرِ هي "موريل".
@@ -25999,9 +25966,9 @@
 549599	ara	لسببٍ ما، المايكروفون لم يعمل سابقًا.
 549600	ara	لسببٍ ما، مكبر الصوت لم يعمل قبل قليل.
 549601	ara	في النهاية، على الجميع أن يتعلموا بأنفسهم.
-549602	ara	التعليم في هذا العالم يُخيِّبُ آماليْ.
+549602	ara	التعليم في هذا العالم يُخيِّبُ آماليْ.
 549603	ara	إنها مهمةٌ صعبة، اختيار ما هو "صحيحٌ" وما هو "خطأ"، لكن يجب عليك أن تفعلها.
-549604	ara	لن يُغَيِّرَ ذلك شيئًا.
+549604	ara	لن يُغَيِّرَ ذلك شيئًا.
 549605	ara	أَجْنِيْ مِئْةَ يُوْرَو فِيْ اليَوْم.
 549606	eng	Tom married an older woman.
 549607	epo	Mi havas unu lastan peton - Forfikiĝu.
@@ -26219,8 +26186,8 @@
 549838	epo	Li levis la manojn.
 549841	epo	Ho ve!
 549842	epo	Kelkfoje li rigardas televidon.
-549843	ara	ليس هناك شَكٌّ أن الكون لا مُنْتَهٍ.
-549844	ara	بالرُّغْمِ من ذلك، ما يزال العكس صحيحًا طوال الوقت كذلك.
+549843	ara	ليس هناك شَكٌّ أن الكون لا مُنْتَهٍ.
+549844	ara	بالرُّغْمِ من ذلك، ما يزال العكس صحيحًا طوال الوقت كذلك.
 549845	ara	أنت تقف في طريقي.
 549846	ara	أتساءل فقط إن كان الأمر مشابهًا بالنسبة للآخرين.
 549847	ara	أظنه يختلف حين تفكر فيه على المدى البعيد.
@@ -26833,7 +26800,7 @@
 550508	epo	En la urboj la rapideco estas limigita je 50 kilometroj en horo.
 550509	spa	En Alemania existe la superstición de que, si enciendes un cigarro con una vela, un marinero morirá en el mar.
 550510	epo	Li veturas per la biciklo al la lernejo.
-550511	eng	I allowed my horse run.
+550511	eng	I allowed my horse to run.
 550512	epo	Li trinkis tri glasojn da akvo.
 550513	epo	Unu plia venis.
 550514	epo	Tio nur pliigis mian ĉagrenon.
@@ -28209,7 +28176,7 @@
 551967	fra	Le chaton voulait entrer.
 551968	fra	La Suède a son propre langage.
 551969	eng	Consistency is the last refuge of the unimaginative.
-551970	fra	"Chéri, viens te coucher." "Non, pas tout de suite. Je dois encore traduire quelques phrases sur Tatoeba."
+551970	fra	« Chéri, viens te coucher. » « Non, pas tout de suite. Je dois encore traduire quelques phrases sur Tatoeba. »
 551971	epo	Konsekvenceco estas la lasta rifuĝo de homoj sen imagopovo.
 551972	fra	Les filles éclatèrent de rire lorsqu'elles entendirent sa blague.
 551973	fra	La force d'une femme est sa langue.
@@ -28537,7 +28504,7 @@
 552316	epo	Fumado estas malpermesita ĉi tie, bonvolu manĝigi vian kanceron ekstere!
 552317	epo	Ŝi helpis ilin pri ilia pakaĵaro.
 552318	fra	Coq qui chante sur le fumier, temps qui va ou pas s'altérer.
-552319	ara	لا أريد أن أكون ثقيلَ الظِّل، أريد أن أكون رائعًا!!
+552319	ara	لا أريد أن أكون ثقيلَ الظِّل، أريد أن أكون رائعًا!!
 552320	ara	أنا سمين جدا.
 552321	epo	Bonvolu doni al mi tason da teo.
 552322	deu	Mireille Mathieu ist eine der besten Sängerinnen Frankreichs.
@@ -32692,7 +32659,7 @@
 556738	mon	Ус үзээгүй байж өмдөө битгий шуу.
 556739	eng	Don't undo your bootlaces until you have seen the river.
 556740	cmn	他們看起來對結果很滿意。
-556741	eng	Greed keeps men forever poor, even the abundance of this world will not make them rich.
+556741	eng	Greed keeps men forever poor; even the abundance of this world will not make them rich.
 556742	cmn	我知道那是甚麼。
 556743	mon	Шунал хүнийг үүрдийн ядуу болгоно, Ертөнцийн баялгийг өөрийн болгосон ч баян болж чадахгүй.
 556744	mon	Санаа зөв бол Заяа зөв.
@@ -33343,7 +33310,7 @@
 557433	epo	Help! Li forprenis mian tekon!
 557434	epo	Help! Ĉu neniu estas ĉi tie?
 557435	epo	Hop! Vi povas tion fari!
-557436	epo	Hop! Ne timu! Ne estas tre alte!
+557436	epo	Saltu! Ne timu! Ne estas tre alte!
 557437	epo	Hop! Nenion alian vi povas fari!
 557438	epo	Ho ruk! Hu ruk! La hakistoj antaŭenĵetis sian hakilon.
 557439	epo	Ho ruk! Ne remu malorde!
@@ -35503,7 +35470,7 @@
 559698	epo	Li dungis novan sekretariinon.
 559699	epo	La flor-vazo rompiĝis en pecojn.
 559700	epo	Tiu trajno estas akurata.
-559701	epo	Kia granda!
+559701	epo	Kiel granda!
 559702	epo	Preskaŭ estas la dek-unua kaj duono.
 559703	epo	Panjo aĉetis belan pupon por ŝi.
 559704	epo	La sablo en la plaĝo estis blanka.
@@ -36826,7 +36793,7 @@
 561094	eng	We eat here.
 561095	eng	Good people can be found anywhere.
 561096	nob	Brøddeigen vi lagde i heimkunnskap endte opp som trolldeig.
-561097	eng	The bread dough we made in home economics class turned out as salt dough.
+561097	eng	The bread dough we made in home economics class turned into salt dough.
 561098	eng	My new class starts today.
 561099	eng	My teeth are totally healthy and free of problems.
 561100	eng	You aren't quite right about that — let me explain.
@@ -37910,7 +37877,7 @@
 562250	pol	Jedyne, czego zło potrzebuje, żeby zatriumfować to aby dobrzy ludzie nic nie robili.
 562251	dan	Vær så venlig at slukke lyset.
 562252	eng	Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.
-562253	dan	Hvornår gik du i seng i går aftes.
+562253	dan	Hvornår gik du i seng i går aftes?
 562254	eng	The only thing we have to fear is fear itself.
 562255	dan	Hun misunder mig min succes.
 562256	eng	Between you and me, he has a shallow way of thinking.
@@ -38756,7 +38723,7 @@
 563132	epo	Kiam tiu aŭto estis purigita?
 563133	fra	Il dit qu'il était fatigué et qu'il irait par conséquent plus tôt à la maison.
 563134	fra	Non merci, je regarde juste.
-563135	fra	J'ai reçu une carte d'elle aujourd'hui.
+563135	fra	J'ai reçu une lettre d'elle aujourd'hui.
 563136	fra	Nous acceptons volontiers ton offre.
 563137	fra	Nous acceptons volontiers votre offre.
 563138	vie	Ông có cơm rang chay không?
@@ -40208,7 +40175,7 @@
 564658	epo	La ruĝa robo konvenis al ŝi.
 564659	epo	Ŝi zorgis pri la infanoj.
 564660	epo	Aoi estas tre bona dancistino.
-564661	eng	A person who likes no one is much sadder than someone, whom no one likes.
+564661	eng	A person who likes no one is much sadder than someone whom no one likes.
 564662	epo	Ĉiuj iliaj penoj estis vanaj.
 564663	epo	Ekde nun ŝi prizorgos vin.
 564664	epo	Li konfesis sian kulpecon.
@@ -41430,7 +41397,7 @@
 565972	ara	أظن أن من الأفضل ألا تكون وقِحًا.
 565973	deu	Achtung! Die Milch fällt vom Tisch.
 565974	ara	يستطيع الواحد أن يجد الوقتَ دائمًا.
-565975	epo	Vi nun estas la sola viro por mi.
+565975	epo	Vi nun estas la sola por mi.
 565976	epo	Atentu! La lakto falas de sur la tablo.
 565977	pol	Po prostu idź za głosem serca.
 565978	pol	To nic poważnego.
@@ -42873,7 +42840,7 @@
 567500	isl	Þessi regla á ekki við í neyðartilvikum.
 567501	fra	Bien qu'elle soit riche, elle se vêt très simplement.
 567502	fra	Un petit gain vaut mieux qu'une grosse perte.
-567503	fra	Quelqu'un m'a dit qu'Albert Einstein déclara : "Le bon sens est la collection des préjugés acquis à l'âge de dix-huit ans."
+567503	fra	Quelqu'un m'a dit qu'Albert Einstein déclara : « Le bon sens est la collection des préjugés acquis à l'âge de dix-huit ans. »
 567504	fra	Les personnes blessées blessent les autres.
 567505	epo	Estas domaĝe, kiam iu forpasas.
 567506	epo	Kion vi profesias?
@@ -42974,7 +42941,7 @@
 567605	heb	ואין חדש תחת השמש.
 567606	heb	אם לא יוכלו להיות לך ילדים משלך, תמיד תוכל לאמץ.
 567607	fra	J'étais ce que tu es ; tu seras ce que je suis.
-567608	heb	לַכֹּל זְמָן.
+567608	heb	לַכֹּל זְמָן.
 567609	heb	לכל דבר יש זמן הולם.
 567610	fra	Je suis affamé !
 567611	fra	Le mariage aura lieu dans une église du XVIIe siècle.
@@ -43868,7 +43835,7 @@
 568536	epo	Ŝi afable ridante min salutis.
 568537	epo	La bela papilio vizitas la flavan rozon kaj trinkas roson el ĝiaj petaloj.
 568538	epo	Sidante je roko ŝi kantante kombis siajn harojn.
-568539	epo	Sidante sur la roko kaj kombante sian hararon, ŝi kantis allogas kanton.
+568539	epo	Sidante sur la roko kaj kombante sian hararon, ŝi kantis allogan kanton.
 568540	epo	Jam pli ofte mi renkontis ilin.
 568541	spa	Me voy a Nueva York la semana que viene.
 568542	epo	Li sin taksis kiel savanto de l' tero.
@@ -44543,7 +44510,7 @@
 569239	heb	או: היא נולדה בשנות ה-50.
 569240	spa	¡Viva el Emperador!
 569241	spa	¡Larga vida al Emperador!
-569242	jpn	天皇陛下万歳
+569242	jpn	天皇陛下万歳！
 569243	uig	مېنى سۆيەمسەن؟
 569244	epo	Edziĝonta junulo serĉas kontakton kun sperta sinjoro, kiu konvinku lin ne fari tion.
 569245	uig	مېنى سۆيەمسىز؟
@@ -44551,7 +44518,7 @@
 569247	uig	مېنى سۆيەمسىلەر؟
 569249	rus	Я думаю только о тебе.
 569250	hun	Mi annak az úrnak a foglalkozása?
-569251	heb	הוא מאמין בַּעל-טבעי.
+569251	heb	הוא מאמין בַּעל-טבעי.
 569252	heb	מתי תפסיק לעשן?
 569253	heb	מתי תפסיקי לעשן?
 569254	ita	Gli affari sono affari.
@@ -44727,7 +44694,7 @@
 569430	eng	The day is short and there is much work.
 569431	deu	Sie gleicht ihrem Vater sehr.
 569432	deu	Dort wartet die Spinne darauf, dass kleine Insekten wie Schmetterlinge oder Libellen in die Fallen gehen.
-569433	yid	דער טאָג איז קורץ און ס'איז דאָ אַ סך אַרבעט.
+569433	yid	דער טאָג איז קורץ און ס'איז דאָ אַ סך אַרבעט.
 569434	eng	Everything I accomplished came from hard work. All bad things that happen to me are due to bad luck. All things you accomplish come from good luck. All bad things that happen to you are due to your lack of work ethic.
 569435	deu	Morgen ist es bewölkt.
 569436	deu	Ich bin nicht mit ihm einverstanden.
@@ -44741,36 +44708,36 @@
 569444	deu	Was hast du in den Ferien gemacht?
 569445	deu	Wie läuft's bei der Arbeit?
 569446	deu	Ich denke nur an dich.
-569447	yid	אַ גאַסט אויף א װײַל, זעט אױף אַ מײַל.
+569447	yid	אַ גאַסט אויף א װײַל, זעט אױף אַ מײַל.
 569448	heb	אורח לרגע רואה כל פגע.
 569449	heb	הממשלה העבירה את החוק דרך בית הנבחרים.
 569450	deu	Wie viele Freunde hast du?
 569451	deu	Es lebe die Republik!
-569452	yid	אַ געשאָנקען פֿערד קוקט מען נישט די צײן.
+569452	yid	אַ געשאָנקען פֿערד קוקט מען נישט די צײן.
 569453	heb	הוא לא יכול היה לישון בגלל החום הכבד.
 569454	heb	לסוס שניתן במתנה לא בודקים את השיניים.
 569455	heb	היה עדיף שלא נישאר כאן יותר.
-569456	yid	אַ מענטש איז שטאַרקער פֿון אײַזן און שװאַכער פֿון אַ פֿליג.
+569456	yid	אַ מענטש איז שטאַרקער פֿון אײַזן און שװאַכער פֿון אַ פֿליג.
 569457	heb	אדם הוא חזק מברזל וחלש מזבוב.
-569458	yid	אַ קלאַפּ פֿאַרגייט אַ וואָרט באַשטייט.
+569458	yid	אַ קלאַפּ פֿאַרגייט אַ וואָרט באַשטייט.
 569459	heb	מכה עוברת מילה נשארת.
 569460	eng	Never give up. Never surrender.
-569461	yid	אַז גאָט װיל שיסט אַ בעזעם אױך.
+569461	yid	אַז גאָט װיל שיסט אַ בעזעם אױך.
 569462	heb	הוא נראֶה כמתעסק בהלבשה.
 569463	heb	הוא נראה כסוחר בהלבשה.
 569464	heb	כשאלהים רוצה גם מטאטא יורה.
 569465	heb	אני מצאתי שהסיפור מעניין.
 569466	rus	Он любит плавать.
-569468	yid	װילסט אַ ביסל מילך?
+569468	yid	װילסט אַ ביסל מילך?
 569469	epo	Mi trovis la rakonton interesa.
 569470	heb	אני חשבתי שהסיפור מעניין.
 569471	heb	מדוע אינך שואל את מר וייט?
 569472	heb	האם אני יכול לשלם בכרטיס הוויזה שלי?
-569473	yid	דאָס איז א גוט בוך, אַחוץ אַ פּאָר טעותים.
+569473	yid	דאָס איז א גוט בוך, אַחוץ אַ פּאָר טעותים.
 569474	heb	היא ניצחה בתחרות.
 569475	epo	Kial vi ne demandas s-ron White?
 569476	heb	היא בדיאטה.
-569477	yid	ער זעט אױס אַלט, אָבער ער האָט נאָך נישט קײן דרײַסיק יאָר.
+569477	yid	ער זעט אױס אַלט, אָבער ער האָט נאָך נישט קײן דרײַסיק יאָר.
 569478	heb	אני מתחיל מחר.
 569479	heb	מדוע אינך שואלת את מר וייט?
 569480	heb	הוא נראה זקן, אבל עדיין לא מלאו לו שלושים.
@@ -44786,7 +44753,7 @@
 569490	heb	שני האנשים שישבו על הספסל היו אמריקאים.
 569491	ita	Quei pantaloni sono un po' troppo stretti di vita.
 569492	heb	אחיו הקדיש את חייו לפעילות.
-569493	yid	אַז די מויז איז זאַט, איז דאָס מעל ביטער.
+569493	yid	אַז די מויז איז זאַט, איז דאָס מעל ביטער.
 569494	heb	כשהעכבר שבע הקמח מר.
 569495	ita	Sarò dannato se lascerò che questo mi fermi!
 569496	heb	הבית שלי נמצא במרחק עשר דקות הליכה מהתחנה.
@@ -44846,7 +44813,7 @@
 569551	ita	Durante gli scavi sono stati trovati resti umani.
 569552	ita	Le tigri fanno le fusa?
 569553	deu	Schnurren Tiger?
-569554	fra	"Comment ! tu es encore avec un tel ?" et l'on répond : "Que veux-tu ! je l'AIME !"
+569554	fra	« Comment ! tu es encore avec un tel ? » et l'on répond : « Que veux-tu ! je l'AIME ! »
 569555	epo	Ĉu tigroj ronronas?
 569556	ita	Stiamo provvedendo a ristrutturare la nostra cucina.
 569557	deu	Erziehung beginnt zu Hause.
@@ -45020,7 +44987,7 @@
 569733	ara	لا أستطيع أن أخبرها، لم يعد الأمر بسيطًا.
 569734	ara	كلما وجدت شيئًا يعجبني، وجدته غاليا جدا.
 569735	ara	البراءة شيءٌ جميل.
-569736	ara	لم يُقدَّر للبشر إطلاقًا أن يعيشوا إلى الأبد.
+569736	ara	لم يُقدَّر للبشر إطلاقًا أن يعيشوا إلى الأبد.
 569737	epo	Li scipovas paroli la anglan kaj la francan.
 569738	ara	تقول أنك تتعمدُ إخفاء مظهرك الحسن؟
 569739	ara	ليس عندي حساب في هذه المنتديات.
@@ -45074,7 +45041,7 @@
 569791	heb	אדם אוכל כדי לחיות, ולא חי כדי לאכול.
 569792	heb	אתה רוצה לשתות משהו?
 569793	heb	האם אתה מתכנן להישאר זמן ארוך?
-569794	yid	האָסט אין זינען צו בלײַבן אַ סך צײַט?
+569794	yid	האָסט אין זינען צו בלײַבן אַ סך צײַט?
 569795	yid	װילסט עפּעס טרינקען?
 569796	yid	װילסט טרינקען?
 569799	deu	Ihr seid Deutsche, nicht wahr?
@@ -45251,7 +45218,7 @@
 569983	dan	Er jeg på den rigtige vej?
 569984	pol	On był świadkiem morderstwa.
 569985	pol	Bądźmy znów razem!
-569987	yid	איך האָב אַ טאָכטער װאָס האָט חתונה געהאַט מיט אַ פֿראַנצױז.
+569987	yid	איך האָב אַ טאָכטער װאָס האָט חתונה געהאַט מיט אַ פֿראַנצױז.
 569988	fra	Ça a un goût de moisi.
 569989	fra	Ça a goût de moisi.
 569990	dan	Der er ikke langt til Paris.
@@ -45591,12 +45558,12 @@
 570343	isl	Faðir minn keypti mér reiðhjól.
 570344	isl	Pabbi minn keypti handa mér hjól.
 570345	epo	Ni komprenas nenion de tio, kion vi diras.
-570346	yid	אַ הונט האָט געלאָפֿן נאָך די קאַץ.
+570346	yid	אַ הונט האָט געלאָפֿן נאָך די קאַץ.
 570347	heb	החברה מנסה לשפר את תדמיתה.
 570348	isl	Hver einstaklingur borgaði þúsund dollara.
 570349	heb	אני לא מאמין למראה עיניי.
 570350	spa	"La guía para idiotas de cómo matar a un tiburón con las manos desnudas" y "las veinte formas de estrangular a un calamar gigante", ambos de Cristóbal Colón, llegaron a convertirse en best sellers.
-570351	yid	איך גלױב נישט מײַנע אױגן.
+570351	yid	איך גלױב נישט מײַנע אױגן.
 570352	isl	Heildarupphæð reikningsins varð sjö þúsund dollarar.
 570353	isl	Í gær las ég virkilega áhugaverða sögu.
 570354	isl	Hefurðu eitthvað heitt að drekka?
@@ -46641,14 +46608,14 @@
 571434	epo	Ene de si, li sentis pekon.
 571435	lit	Atnešk man sausą rankšluostį.
 571436	epo	Prudento malpliigas pekemon.
-571437	yid	װאָס פֿאַר אַ שײנע בלום.
+571437	yid	װאָס פֿאַר אַ שײנע בלום.
 571438	epo	Lia harfendemo iam ĝenas min.
 571439	lit	Berniukas nukrito nuo lovos.
 571440	dan	Måske har du ret, jeg har været egoistisk.
 571441	epo	Li estas granda harfendemulo.
 571442	lit	Mes prakaitavome karštyje.
 571443	epo	Pri tio, via harfendado nur pliigos la problemon.
-571444	yid	איך װעל אײַך גערן העלפֿן, אָבער איך בין פֿאַרנומען.
+571444	yid	איך װעל אײַך גערן העלפֿן, אָבער איך בין פֿאַרנומען.
 571445	epo	Via harfendado ne helpos ĉi-rilate.
 571446	lit	Šis namas yra šildomas saulės energija.
 571447	heb	הלכתי לקולנוע עם אחי.
@@ -46657,13 +46624,13 @@
 571450	lit	Kodėl čia atėjai?
 571451	deu	Christoph Columbus aß einst versehentlich einen Seeigel. Dann tat er es ein zweites Mal, absichtlich.
 571452	epo	Ju pli la tempo pasas, des pli kreskas lia amo.
-571453	yid	אױב ס'װעט רעגענען װעל איך בלײַבן אין דער הײם.
+571453	yid	אױב ס'װעט רעגענען װעל איך בלײַבן אין דער הײם.
 571454	lit	Taip! Aš laimėjau du kartus iš eilės!
 571455	epo	Neniu povis diveni ŝian aĝon ĝuste.
 571456	epo	Johano Paŭlo la 2-a estis la unua papo, kiu diris sian paskan benon ankaŭ en Esperanto, nome en la 3-a de aprilo 1994; ankaŭ la tiujara kristnaska bondeziro estis same en Esperanto. Li daŭrigis tion en la postaj jaroj kaj same faris lia posteulo.
 571457	epo	Vi aspektas pli juna ol via pli aĝa frato.
 571458	epo	Mi pensis, ke mi sufokiĝos en tiu plenega trajno.
-571459	yid	װײסט װוּ ער איז געבױרן געװאָרן?
+571459	yid	װײסט װוּ ער איז געבױרן געװאָרן?
 571460	lit	Tai vienintelis dalykas apie kurį aš nepagalvojau.
 571461	epo	Mi malfacile finis miajn taskojn.
 571462	epo	Dum la paso de la tempo ŝia respekto al li transformiĝis en amon.
@@ -46757,7 +46724,7 @@
 571557	heb	זה יעלה €30.
 571558	heb	אני מרוויח €100 ליום.
 571559	heb	אני עושה €100 ביום.
-571560	heb	אני עשוי לוותר בקרוב ולנמנם בִּמְקום.
+571560	heb	אני עשוי לוותר בקרוב ולנמנם בִּמְקום.
 571561	heb	זה בגלל שאינך רוצה להיות לבד.
 571562	epo	Ĉu ĝi ne estas iom ekstrema?
 571563	heb	זה לא יקרה.
@@ -47299,7 +47266,7 @@
 572138	fra	Le temps guérit toutes les plaies.
 572139	hun	Természetesen kissé ideges lett, mikor olyan sok ember volt körülötte.
 572141	fra	Le temps guérit tous les cœurs brisés.
-572142	heb	קשה לבטא את המילא הזאת.
+572142	heb	קשה לבטא את המילה הזאת.
 572143	heb	הזמן מביא מרפא לכל לב שבור.
 572144	heb	איך מבטאים את המילה?
 572145	heb	איך מבטאים את המילה הזאת?
@@ -49998,3 +49965,36 @@
 574991	hun	Egy igazi tudós nem gondolkodik így.
 574992	hun	Melyik a nótád?
 574993	rus	Я правда удивлена: она ест столько много и всё подряд, однако нисколько не полнеет!
+574994	pol	Carol wróciła do swojego hotelu.
+574995	pol	Zgadzam się z twoją opinią.
+574996	pol	Czy jesteś wolny jutro wieczorem?
+574997	pol	Jack tylko śpi i śpi.
+574998	pol	Jedziesz za szybko.
+574999	pol	On woli piłkę nożną od baseballa.
+575000	pol	Czy potrzebujesz karetkę?
+575001	pol	Proszę, daj mi krzesło.
+575002	pol	Proszę, powtórz.
+575003	eng	I've already lost hope of her losing weight.
+575004	pol	Czy mógłbyś to powtórzyć?
+575005	pol	Straciłem nadzieję, że ona schudnie.
+575007	bel	Калі ласка, пачакайце пять хвілін.
+575008	rus	Луна отражалась в озере.
+575009	bel	Месяц адлюстроўваўся ў возеры.
+575010	rus	Церковь окружена лесами и озерами.
+575011	bel	Царква акружаная лясамі і азёрамі.
+575012	rus	Ему было так интересно, что он уделил этому свое внимание.
+575013	bel	Ці не мог бы ты паўтарыць гэта?
+575014	rus	Не могли бы вы повторить, пожалуйста?
+575015	deu	Kannst du das bitte noch einmal sagen?
+575016	rus	Он вернулся, и скоро пошёл дождь.
+575017	rus	Том старше, чем я.
+575018	rus	Я мальчик.
+575019	epo	Tom estas pli aĝa ol mi.
+575020	epo	Li revenis kaj baldaŭ ekpluvis.
+575021	epo	Oni ne rajtas atendi ĉion nur de la lernejo.
+575022	epo	Mi enrigardis en la librovendejon kaj aĉetis interesan libron.
+575023	rus	Близилось Рождество.
+575024	epo	Mi tute ne ŝatas araneojn. Dum ĉiu purigado mi ektimas preskaŭ ĝismorte.
+575025	epo	Mi pornelonge eniris la librovendejon kaj aĉetis interesan libron.
+575026	heb	קפצתי לחנות הספרים וקניתי ספר מעניין.
+575027	heb	ביקרתי למשך זמן קצר בחנות הספרים וקניתי ספר מעניין.

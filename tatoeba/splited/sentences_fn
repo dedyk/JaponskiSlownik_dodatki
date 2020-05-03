@@ -1,716 +1,3 @@
-7534682	rus	Я думал, что Том и Мэри — музыканты.
-7534683	rus	Том говорит, что не знает, куда Мэри планирует поехать.
-7534684	rus	Бостон — самый интересный город из всех, где я бывал.
-7534685	eng	Tom read the Art of War.
-7534686	eng	Sun Tzu wrote the Art of War.
-7534687	eng	Tom wrote the Art of Love.
-7534688	eng	Tom read the Art of War by Sun Tzu.
-7534689	rus	Большинство людей здесь не понимают по-французски.
-7534690	eng	Tom wrote the Art of Gardening.
-7534691	rus	Вечеринка будет во вторник.
-7534692	eng	Tom and his wife co-authored a book about Boston.
-7534693	rus	Я обещаю не говорить Тому.
-7534694	rus	Я знаю, что Том знает, почему ты это сделал.
-7534695	rus	США находятся рядом с Канадой.
-7534696	rus	Я ещё могу это сделать.
-7534697	rus	А если твой план не сработает?
-7534698	deu	Wie viele Tage wird Tom noch dafür brauchen?
-7534699	deu	Hättest du Lust auf ein Bier?
-7534700	jpn	君はトムを信用できない。
-7534701	deu	Hättet ihr Lust auf ein Bier?
-7534702	deu	Hätten Sie Lust auf ein Bier?
-7534703	deu	Maria sagte, sie wolle das so nicht tun.
-7534704	jpn	いくつか報告があります。
-7534705	rus	Хочешь выпить пива?
-7534706	rus	Хотите выпить пива?
-7534707	jpn	トムはそのレポートを全て自分で書いた。
-7534708	jpn	僕はオーストラリアに帰るつもりです。
-7534709	jpn	僕はあなたはナースだと思った。
-7534710	deu	Einige der Arbeitskollegen von Tom und Maria sind Kanadier.
-7534711	deu	Tom kann nicht in Boston bleiben. Er muss zurück nach Chicago.
-7534712	rus	Сколько ещё дней понадобится Тому, чтобы это доделать?
-7534713	jpn	トムを拾うつもりだ。
-7534714	rus	Том не может остаться в Бостоне. Он должен вернуться в Чикаго.
-7534715	deu	Eine multiple Persönlichkeitsstörung ist mir lieber als ... Äh, ähm. Hallo! Ich heiße Günther.
-7534716	deu	Ich brauche eine heiße Dusche.
-7534717	rus	Сами совсем никого там не знал.
-7534718	rus	Мне нужен горячий душ.
-7534719	deu	Es wird zugleich schlechter und besser.
-7534720	deu	Sie isst nur Salate.
-7534721	rus	Вы тоже были в Бостоне?
-7534722	rus	Вы вчера были в Бостоне?
-7534723	deu	Tom arbeitet im höchsten Gebäude der Stadt.
-7534724	deu	Haben wir noch Milch?
-7534725	deu	Solch harte Worte!
-7534726	deu	Die Kellnerin sah Tom nicht, weil er ein Tarnhemd trug.
-7534727	deu	Wo kommen alle diese Fruchtfliegen her?
-7534729	deu	Auf die Ferien!
-7534730	deu	Ich habe die Schreibung vergessen.
-7534731	deu	Ist das Ziegenkäse?
-7534732	hun	Honnan van ennyi gyümölcslégy?
-7534733	deu	Bitte kaue nicht mit offenem Mund!
-7534734	hun	Milyen kemény szavak!
-7534735	hun	Legalább a többieknek lehetett volna több esze!
-7534736	hun	Lehetett volna több eszed is!
-7534737	eng	You don't need to think about that now.
-7534738	hun	Elfelejtettem, hogyan írják.
-7534739	hun	Csak salátát eszik.
-7534740	eng	He says he found it on the beach.
-7534741	hun	Innál egy sört?
-7534742	hun	Meginnátok egy sört?
-7534743	hun	Emlékszel rá?
-7534744	hun	Beleszeretett a tanárnőjébe.
-7534745	eng	Tom fell asleep before Mary got home.
-7534746	eng	You know how to contact me if you need me.
-7534747	eng	Tom wasn't eager to go there.
-7534748	eng	You need to make the decision by yourself.
-7534749	hun	Szerelmes lett a tanárnőjébe.
-7534750	hun	Beleszeretett a tanárába.
-7534751	hun	Rászállt a légy az almára.
-7534752	hun	Mit tehetünk önért?
-7534753	hun	Magadnak kell meghozni a döntést.
-7534754	hun	Magadnak kell meghoznod a döntést.
-7534755	rus	Какой-то полицейский спросил меня, что происходит.
-7534756	hun	Tudod, hogy találsz meg, ha kellek.
-7534757	hun	Tudod, hogy hogyan érsz utol, ha szükséged lenne rám.
-7534758	rus	Я должен похудеть.
-7534759	hun	Neked csak azért kellek, hogy valakibe néha belé tudj rúgni!
-7534760	hun	Csak azért kellek neked, hogy belém törölhesd a lábad!
-7534761	hun	Úgy horkoltál, hogy nem tudtam melletted aludni.
-7534762	deu	Du hast so geschnarcht, dass ich neben dir nicht schlafen konnte.
-7534763	hun	Úgy aludtál, hogy nem volt szívem felébreszteni téged.
-7534764	hun	Olyan mélyen aludtam, hogy nem ébredtem fel az ébresztőre.
-7534765	hun	Úgy fájt a karom, hogy nem tudtam tőle aludni.
-7534766	hun	Ez pontosan egy éve történt.
-7534767	deu	Das ist gerade vor einem Jahr passiert.
-7534768	rus	Текущее местонахождение Тома неизвестно.
-7534769	hun	Mellékesen megjegyezném, hogy nem egészbe kell beletenni a tojásokat.
-7534770	hun	Olvaszd meg hozzá a margarint.
-7534771	hun	Gyere ide, hadd adjak neked egy pofont.
-7534772	hun	Mi margarint használunk vaj helyett.
-7534773	pes	دوست داشتن نصف ایمان است.
-7534774	pes	تنها بودن بهتر از بودن با احمقان است.
-7534775	pes	حقیقت وجود دارد؛ این دروغ‌ها هستند که اختراع می‌شوند.
-7534776	pes	پیاده‌روی بهترین دارو برای انسان است.
-7534777	hun	Ez nem vaj! Ez margarin.
-7534778	pes	در هر چیزی، باید آخر را در نظر گرفت.
-7534780	pes	ما همهٔ اعمال خود را می‌بخشیم اما هیچ چیز از دیگران نمی‌بخشیم،
-7534781	rus	Свежее молоко портится, если его не охлаждать после вскрытия упаковки.
-7534782	pes	خوشحال اوست که هیچ چیز دیگری نمی‌طلبد!
-7534783	rus	Правосудие не характеризуется быстротой рассмотрения судебных дел.
-7534784	rus	Я бы на вашем месте пошёл.
-7534785	rus	Остальные меня ждут.
-7534786	pes	درد همیشه ضعیف‌تر از گلایه است.
-7534787	pes	شنیده نشدن دلیلی برای سکوت نیست.
-7534788	rus	Ты только что проехал на красный свет.
-7534789	pes	باید از تفاوت‌های متقابل‌مان خود را غنی کنیم.
-7534790	pes	آزاد مرد! همیشه تو دریا را عزیز خواهی داشت.
-7534791	pes	تنها وظیفهٔ شما حفظ رؤیاهایتان است.
-7534792	rus	Пора уже поработать.
-7534793	pes	او دنیا را می‌شناسد ولی خود را نه.
-7534794	rus	Это произошло только год назад.
-7534795	rus	Ты храпел так, что я не могла спать рядом с тобой.
-7534796	rus	Я забыл об орфографии.
-7534797	rus	Это козий сыр?
-7534798	pes	بعضی بزرگسالان هرگز کودک نبوده‌اند.
-7534799	rus	Пожалуйста, не ешь с открытым ртом.
-7534800	fin	Mikään ei ole ilmaista.
-7534801	rus	Откуда взялись эти мошки?
-7534802	rus	Том работает в самом высоком здании города.
-7534803	rus	Такие трудные слова!
-7534804	eng	I don't remember much Russian.
-7534805	pes	با تمایل به سود کردن بی اندازه، خطر ضرر وجود دارد.
-7534806	pes	زیباترین پیروزی، غلبه بر نفس خویش است.
-7534807	rus	Мы приняли снотворное, чтобы уснуть.
-7534808	pes	کودکان همه چیز دارند، به استثنای اینکه از آنها سلب شده است.
-7534809	rus	Снотворное может быть опасным.
-7534810	rus	Он всеми ненавидимый скандалист.
-7534811	pes	هنرمند یک گوسفند است که از گله جدا می‌شود.
-7534812	rus	У нас только два глаза.
-7534813	pes	انسانها فقط به خاطر الزامات خوبی می‌کنند.
-7534814	pes	اگر نبرد اجتناب‌ناپذیر باشد، مجبورید اول حمله کنید.
-7534815	rus	Коль увидишь паука — быть дождю наверняка.
-7534816	pes	بال نداریم، اما همیشه برای افتادن به اندازهٔ کافی نیرو داریم.
-7534817	rus	Он всегда решает проблемы быстрым способом.
-7534818	pes	پایان شب سیه سپید است.
-7534819	pes	حتی تیره‌ترین شب به پایان می‌رسد و خورشید بالا می‌آید.
-7534820	pes	انسانی که با اندک راضی نمی‌شود هرگز با هیچ چیز راضی نخواهد شد.
-7534821	rus	Он украдкой за ней наблюдал.
-7534822	pes	خاطرات جوانی برای کهنسالان لطیف هستند.
-7534823	rus	Переговоры медленно продвигались.
-7534824	rus	Переговоры окончились.
-7534825	pes	دانا آنچه نمی‌داند را می‌داند.
-7534826	rus	Как идут переговоры?
-7534827	rus	Как проходят переговоры?
-7534828	rus	Мы ещё ведём переговоры.
-7534829	pes	هنر صحبت کردن، در اصل، چیزی نیست جز هنر متقاعد کردن.
-7534830	rus	Мы договорились продолжить переговоры.
-7534831	rus	Переговоры идут полным ходом.
-7534832	rus	Я завязал с алкоголем.
-7534833	rus	Том говорит на правильном, чистом и красивом русском языке.
-7534834	rus	На этих выходных пойдёт снег.
-7534835	rus	У меня маленькие глаза.
-7534836	nld	Dit potlood is erg donker.
-7534837	rus	Что за дурь у тебя в голове?
-7534838	rus	Мне нужна дюжина яиц.
-7534839	rus	Тридцать дней бывает в сентябре, апреле, июне и ноябре.
-7534840	kab	Ur k-ttuɣ ara akk.
-7534841	kab	Ur kem-ttuɣ ara akk.
-7534842	rus	Вы уверены, что хотите продать свой дом?
-7534843	kab	Ur ken-ttuɣ ara akk.
-7534844	rus	Ты уверен, что хочешь продать свой дом?
-7534845	kab	Ur kent-ttuɣ ara akk.
-7534846	rus	Ты уверена, что хочешь продать свой дом?
-7534847	kab	Leɛmeɛ i k-ttuɣ.
-7534848	kab	Leɛmeɛ i kem-ttuɣ.
-7534849	kab	Leɛmeɛ i ken-ttuɣ.
-7534850	kab	Leɛmeɛ i kent-ttuɣ.
-7534851	kab	Ɣṛet idlisen n Fahim Mesɛuden.
-7534852	kab	Tameṭṭut n Tom d takanadit.
-7534853	kab	Anwa adlis i tḥemmleḍ ugar n wiyaḍ?
-7534854	kab	Anwa adlis i tḥemmlem ugar n wiyaḍ?
-7534855	kab	Anwa adlis i tḥemmlemt ugar n wiyaḍ?
-7534856	kab	Anwa adlis i tḥemmleḍ akk?
-7534857	kab	Anwa adlis i tḥemmlem akk?
-7534858	kab	Anwa adlis i tḥemmlemt akk?
-7534859	kab	Anwa aɣmis i teqqaṛeḍ?
-7534860	kab	Anwa aɣmis i teqqaṛem yal ass?
-7534861	kab	Anwa aɣmis i teqqaṛemt ugar n wiyaḍ?
-7534862	kab	Anwa afelsaf i tḥemmleḍ?
-7534863	kab	Anta tafelsaft i tḥemmleḍ?
-7534864	kab	Anwa afelsaf i tḥemmlem?
-7534865	kab	Anta tafelsaft i tḥemmlem?
-7534866	kab	Anwa afelsaf i tḥemmlemt?
-7534867	kab	Anta tafelsaft i tḥemmlemt?
-7534868	kab	Anwa aɣmis ur tḥemmleḍ ara?
-7534869	kab	Anwa aɣmis ur tḥemmlem ara?
-7534870	kab	Anwa aɣmis ur tḥemmlemt ara?
-7534871	epo	Ĉu mi povas rericevi mian armilon?
-7534872	kab	Anta tamdint ur tḥemmleḍ ara?
-7534873	kab	Anta tamdint ur tḥemmlem ara?
-7534874	kab	Anta tamdint ur tḥemmlemt ara?
-7534875	epo	Ĉi tiun semajnfinon neĝos.
-7534876	kab	Anwa-t umdan-a ur tḥemmleḍ ara?
-7534877	kab	Anwa-t umdan-a ur tḥemmlem ara?
-7534878	kab	Anwa-t umdan-a ur tḥemmlemt ara?
-7534879	kab	Tḥemmleḍ ad teskasiḍ yid-s?
-7534880	kab	Tḥemmlem ad teskasim yid-s?
-7534881	kab	Tḥemmlemt ad teskasimt yid-s?
-7534882	kab	Tḥemmleḍ ad teskasiḍ yid-sen?
-7534883	kab	Tḥemmlem ad teskasim yid-sen?
-7534884	kab	Tḥemmlemt ad teskasimt yid-sen?
-7534885	kab	Tḥemmleḍ ad teskasiḍ yid-sent?
-7534886	kab	Tḥemmlem ad teskasim yid-sent?
-7534887	rus	В этом фильме много ляпов.
-7534888	kab	Tḥemmlemt ad teskasimt yid-sent?
-7534889	kab	Akked wumi ur tḥemmleḍ ara ad teskasiḍ?
-7534890	rus	Это явно киноляп.
-7534891	kab	Akked wumi ur tḥemmlem ara ad teskasim?
-7534892	kab	Akked wumi ur tḥemmlemt ara ad teskasimt?
-7534893	kab	Yid-s ara ad tedduḍ?
-7534894	kab	Yid-s ara ad teddum?
-7534895	kab	Yid-s ara ad teddumt?
-7534896	kab	Yid-sen ara ad tedduḍ?
-7534897	kab	Yid-sen ara ad teddum?
-7534898	kab	Yid-sen ara ad teddumt?
-7534899	kab	Yid-sent ara ad tedduḍ?
-7534900	kab	Yid-sent ara ad teddum?
-7534901	kab	Yid-sent ara ad teddumt?
-7534902	kab	Ɛni ad tedduḍ yid-s?
-7534903	kab	Ɛni ad teddum yid-s?
-7534904	kab	Ɛni ad teddumt yid-s?
-7534905	kab	Ɛni ad tedduḍ yid-sen?
-7534906	kab	Ɛni ad teddum yid-sen?
-7534907	kab	Ɛni ad teddumt yid-sen?
-7534908	kab	Ɛni ad tedduḍ yid-sent?
-7534909	kab	Ɛni ad teddum yid-sent?
-7534910	kab	Ɛni ad teddumt yid-sent?
-7534911	pes	قبل از اینکه بتوانی گاگله کنی سعی نکن راه بروی.
-7534912	kab	Tzemreḍ ttxil-k ad taṛǧuḍ dqiqa?
-7534913	kab	Tzemreḍ ttxil-m ad taṛǧuḍ dqiqa?
-7534914	kab	Tzemrem ttxil-wet ad taṛǧum dqiqa?
-7534915	kab	Tzemremt ttxil-kent ad taṛǧumt dqiqa?
-7534916	kab	Amek armi newweḍ ɣer temsalt-a?
-7534917	kab	Amek armi newweḍ ɣer tegnit-a?
-7534918	kab	Sers-it ɣef ṭṭabla.
-7534919	kab	Sers-itt ɣef ṭṭabla.
-7534920	kab	Serset-t ɣef ṭṭabla.
-7534921	kab	Serset-tt ɣef ṭṭabla.
-7534922	kab	Sersemt-t ɣef ṭṭabla.
-7534923	kab	Sersemt-tt ɣef ṭṭabla.
-7534924	kab	Sers-it ddaw ṭṭabla.
-7534925	kab	Sers-itt ddaw ṭṭabla.
-7534926	kab	Serset-t ddaw ṭṭabla.
-7534927	kab	Serset-tt ddaw ṭṭabla.
-7534928	kab	Sersemt-t ddaw ṭṭabla.
-7534929	kab	Sersemt-tt ddaw ṭṭabla.
-7534930	kab	Ddem-it d ayla-k.
-7534931	kab	Ddem-itt d ayla-k.
-7534932	kab	Ddem-it d ayla-m.
-7534933	kab	Ddem-itt d ayla-m.
-7534934	kab	Ddmet-t d ayla-nwen.
-7534935	kab	Ddmet-tt d ayla-nwen.
-7534936	kab	Ddmemt-t d ayla-nkent.
-7534937	kab	Ddmemt-tt d ayla-nkent.
-7534938	kab	Amek i tḥulfaḍ iman-ik zgelli?
-7534939	kab	Amek i tḥulfaḍ iman-im zgelli?
-7534940	kab	Amek i tḥulfam iman-nwen zgelli?
-7534941	pes	شما نمی‌توانید یک خرچنگ را مجبور کنید راست راه برود.
-7534942	kab	Amek i tḥulfamt iman-nkent zgelli?
-7534943	kab	D acu i la tettṛaǧuḍ seg zgelli?
-7534944	pes	شما نمی‌توانید به یک خرچنگ راست راه رفتن را بیاموزید.
-7534945	kab	D acu i la tettṛaǧum seg zgelli?
-7534946	kab	D acu i la tettṛaǧumt seg zgelli?
-7534947	kab	D acu i la tettɛassaḍ seg ṣṣbeḥ?
-7534948	kab	D acu i la tettɛassam seg ṣṣbeḥ?
-7534949	kab	D acu i la tettɛassamt seg ṣṣbeḥ?
-7534950	kab	Melmi i tuɣeḍ takeṛṛust-a?
-7534951	kab	Melmi i tuɣem takeṛṛust-a?
-7534952	kab	Melmi i tuɣemt takeṛṛust-a?
-7534953	kab	Mačči d taẓallit ara k-yesseḥlun, d addal akked arijim!
-7534954	kab	Mačči d taẓallit ara kem-yesseḥlun, d addal akked arijim!
-7534955	kab	Mačči d taẓallit ara ken-yesseḥlun, d addal akked arijim!
-7534956	kab	Mačči d taẓallit ara kent-yesseḥlun, d addal akked arijim!
-7534957	kab	Mačči d taẓallit ara k-yerren d ameṛkanti, d axeddim!
-7534958	kab	Mačči d taẓallit ara kem-yerren d tameṛkantit, d axeddim!
-7534959	kab	Mačči d taẓallit ara ken-yerren d imeṛkantiyen, d axeddim!
-7534960	kab	Mačči d taẓallit ara kent-yerren d timeṛkantiyin, d axeddim!
-7534961	kab	Mačči d leqṛan ara k-yerren d amussnaw, d taɣuṛi n yedlisen imeɛɛnen!
-7534962	kab	Mačči d leqṛan ara kem-yerren d tamussnawt, d taɣuṛi n yedlisen imeɛɛnen!
-7534963	kab	Mačči d leqṛan ara ken-yerren d imussnawen, d taɣuṛi n yedlisen imeɛɛnen!
-7534964	kab	Mačči d leqṛan ara kent-yerren d timussnawin, d taɣuṛi n yedlisen imeɛɛnen!
-7534965	kab	Mačči d lǧameɛ ara k-yerren d aggag, d aɣeṛbaz!
-7534966	kab	Mačči d lǧameɛ ara kem-yerren d taggagt, d aɣeṛbaz!
-7534967	kab	Mačči d lǧameɛ ara ken-yerren d aggagen, d aɣeṛbaz!
-7534968	kab	Mačči d lǧameɛ ara kent-yerren d taggagin, d aɣeṛbaz!
-7534969	kab	Anda i zemreɣ ad qqimeɣ?
-7534970	kab	Teẓṛiḍ belli yegdel ukeyyef da?
-7534971	kab	Teẓṛam belli yegdel ukeyyef da?
-7534972	kab	Teẓṛamt belli yegdel ukeyyef da?
-7534973	kab	Ur teẓṛiḍ ara belli gedlen iɣeṛṣiwen da?
-7534974	kab	Ur teẓṛim ara belli gedlen iɣeṛṣiwen da?
-7534975	kab	Ur teẓṛimt ara belli gedlen iɣeṛṣiwen da?
-7534976	kab	Acḥal i tesɛiḍ arrac d teqcicin?
-7534977	kab	Acḥal i tesɛam arrac d teqcicin?
-7534978	kab	Acḥal i tesɛamt arrac d teqcicin?
-7534979	fra	Entre les vacances de Pâques et la Pentecôte, il y a beaucoup de jours fériés.
-7534980	kab	D acu i twalaḍ deg takti-a?
-7534981	kab	D acu i twalam deg takti-a?
-7534982	rus	Его интересуют только деньги.
-7534983	kab	D acu i twalamt deg takti-a?
-7534984	kab	S teqbaylit i iteddu uselkim-ik?
-7534985	kab	S teqbaylit i iteddu uselkim-im?
-7534986	kab	S teqbaylit i iteddu uselkim-nwen?
-7534987	kab	S teqbaylit i iteddu uselkim-nkent?
-7534988	kab	Tella teqbaylit deg tilifu-inek?
-7534989	kab	Tella teqbaylit deg tilifu-inem?
-7534990	kab	Tella teqbaylit deg tilifu-nwen?
-7534991	kab	Tella teqbaylit deg tilifu-nkent?
-7534992	deu	Zwischen den Osterferien und Pfingsten liegen viele Feiertage.
-7534993	kab	Ma tebɣiḍ ad d-tili teqbaylit deg Windows akked Google ɛiwen-itt.
-7534994	kab	Ma tebɣam ad d-tili teqbaylit deg Windows akked Google ɛiwnet-tt.
-7534995	kab	Ma tebɣamt ad d-tili teqbaylit deg Windows akked Google ɛiwnemt-tt.
-7534996	kab	Ɛiwen taqbaylit ma tebɣiḍ ad d-tili deg Apple akked Facebook.
-7534997	kab	Ɛiwnet taqbaylit ma tebɣam ad d-tili deg Apple akked Facebook.
-7534998	kab	Ɛiwnemt taqbaylit ma tebɣamt ad d-tili deg Apple akked Facebook.
-7534999	kab	Mmeslay taqbaylit ma tebɣiḍ ad k-qadṛen wiyaḍ.
-7535000	kab	Mmeslay taqbaylit ma tebɣiḍ ad kem-qadṛen wiyaḍ.
-7535001	kab	Mmeslayet taqbaylit ma tebɣam ad ken-qadṛen wiyaḍ.
-7535002	kab	Mmeslayemt taqbaylit ma tebɣamt ad kent-qadṛen wiyaḍ.
-7535003	kab	Aru taqbaylit ma tebɣiḍ ad tennerni.
-7535004	kab	Arut taqbaylit ma tebɣam ad tennerni.
-7535005	kab	Arumt taqbaylit ma tebɣamt ad tennerni.
-7535006	kab	Mačči s ddin ara tafeḍ iman-ik, s tmussni d tussna!
-7535007	kab	Mačči s ddin ara tafeḍ iman-im, s tmussni d tussna!
-7535008	kab	Mačči s ddin ara tafem iman-nwen, s tmussni d tussna!
-7535009	kab	Mačči s ddin ara tafemt iman-nkent, s tmussni d tussna!
-7535010	kab	S wacu i k-wwten?
-7535011	kab	S wacu i kem-wwten?
-7535012	kab	S wacu i ken-wwten?
-7535013	kab	S wacu i kent-wwten?
-7535014	kab	Anda i k-kksen lekwaɣeḍ-ik?
-7535015	kab	Anda i m-kksen lekwaɣeḍ-im?
-7535016	kab	Anda i wen-kksen lekwaɣeḍ-nwen?
-7535017	kab	Anda i kent-kksen lekwaɣeḍ-nkent?
-7535018	kab	Amek armi i k-yeɛṛeq webrid?
-7535019	kab	Amek armi i m-yeɛṛeq webrid?
-7535020	kab	Amek armi i wen-yeɛṛeq webrid?
-7535021	kab	Amek armi i kent-yeɛṛeq webrid?
-7535022	kab	Amek armi i k-yekcem ccek?
-7535023	kab	Amek armi i kem-yekcem ccek?
-7535024	kab	Amek armi i ken-yekcem ccek?
-7535025	kab	Amek armi i kent-yekcem ccek?
-7535026	kab	Tettamneḍ win i iheddṛen aṭas?
-7535027	kab	Tettamnem win i iheddṛen aṭas?
-7535028	kab	Tettamnemt win i iheddṛen aṭas?
-7535029	kab	Tettamneḍ tin i iheddṛen aṭas?
-7535030	kab	Tettamnem tin i iheddṛen aṭas?
-7535031	kab	Tettamnemt tin i iheddṛen aṭas?
-7535032	fra	« Est-ce que tu le gardes ? » « Bien sûr, je tiens à lui. »
-7535033	kab	Tettamneḍ wid i iheddṛen aṭas?
-7535034	kab	Tettamnem wid i iheddṛen aṭas?
-7535035	kab	Tettamnemt wid i iheddṛen aṭas?
-7535036	kab	Tettamneḍ tid i iheddṛen aṭas?
-7535037	kab	Tettamnem tid i iheddṛen aṭas?
-7535038	kab	Tettamnemt tid i iheddṛen aṭas?
-7535039	fra	Marie et Tom rêvent de la mer.
-7535040	kab	Tjemɛeḍ akk iceṭṭiḍen-ik?
-7535041	kab	Tjemɛeḍ akk iceṭṭiḍen-im?
-7535042	kab	Tjemɛem akk iceṭṭiḍen-nwen?
-7535043	kab	Tjemɛemt akk iceṭṭiḍen-nkent?
-7535044	kab	Tewwḍeḍ ɣer wayen i tessarameḍ?
-7535045	kab	Tewwḍem ɣer wayen i tessaramem?
-7535046	kab	Tewwḍemt ɣer wayen i tessaramemt?
-7535047	kab	D acu i txedmeḍ dɣa i teqbaylit?
-7535048	deu	Maria und Tom träumen vom Meer.
-7535049	kab	D acu i txedmem dɣa i teqbaylit?
-7535050	kab	D acu i txedmemt dɣa i teqbaylit?
-7535051	kab	D tidet ɣef teqbaylit i tettnaɣeḍ?
-7535052	kab	D tidet ɣef teqbaylit i tettnaɣem?
-7535053	kab	D tidet ɣef teqbaylit i tettnaɣemt?
-7535054	kab	D lḥif i yettaran d argaz!
-7535055	fra	Vous souvenez-vous de Tom ?
-7535056	deu	Erinnern Sie sich an Tom?
-7535057	ita	Il vecchio è pazzo.
-7535058	ita	L'anziano è pazzo.
-7535059	ita	Volevo scomparire.
-7535060	ita	Io volevo scomparire.
-7535061	ita	Eri sempre troppo impegnato per noi.
-7535062	ita	Eri sempre troppo impegnata per noi.
-7535063	ita	Era sempre troppo impegnato per noi.
-7535064	ita	Era sempre troppo impegnata per noi.
-7535065	ita	Eravate sempre troppo impegnati per noi.
-7535066	ita	Eravate sempre troppo impegnate per noi.
-7535067	ita	Eri sempre troppo occupato per noi.
-7535068	ita	Eri sempre troppo occupata per noi.
-7535069	ita	Era sempre troppo occupato per noi.
-7535070	ita	Era sempre troppo occupata per noi.
-7535071	ita	Eravate sempre troppo occupati per noi.
-7535072	ita	Eravate sempre troppo occupate per noi.
-7535073	ita	Questa pianta è verde.
-7535074	ita	Questa è solo speculazione.
-7535075	ita	Questa è soltanto speculazione.
-7535076	ita	Questa è solamente speculazione.
-7535077	rus	Между Пасхой и Троицей много праздничных дней.
-7535078	ita	In realtà non ho dormito con lui.
-7535079	rus	Мария и Том грезят о море.
-7535080	ita	È l'unica spiegazione possibile.
-7535081	ita	È la sola spiegazione possibile.
-7535082	ita	Marie e Tom sognano del mare.
-7535083	rus	Вы вспоминаете Тома?
-7535084	rus	Вы вспоминаете о Томе?
-7535085	rus	Между Пасхой и Троицей много праздников.
-7535086	rus	До праздников!
-7535087	rus	Множественное расстройство личности мне больше нравится, чем ... Э..., Эм... Привет! Меня зовут Гюнтер.
-7535088	rus	Некоторые из коллег Тома и Марии канадцы.
-7535089	rus	Мария сказала, что не хотела бы так поступать.
-7535090	rus	Она упаковала свою сумку.
-7535091	rus	Ты помнишь его?
-7535092	rus	В октябре мы поедем в Берлин.
-7535093	rus	Я не уверен, знает ли Мэри, что она делает.
-7535094	eng	Both of my parents are pretty good singers.
-7535095	eng	Tom will go with us tomorrow.
-7535096	eng	Everyone in my family can sing fairly well.
-7535097	eng	Tom slipped a note under Mary's door.
-7535098	ita	Ho giocato con Tom e Mary oggi.
-7535099	ita	Io ho giocato con Tom e Mary oggi.
-7535100	ita	Ho suonato con Tom e Mary oggi.
-7535101	ita	Io ho suonato con Tom e Mary oggi.
-7535102	ita	Ha dei denti perfetti.
-7535103	ita	Lui ha dei denti perfetti.
-7535104	ita	Tom andrà con noi domani.
-7535105	nld	Sami en Layla waren een gelukkig stel.
-7535106	nld	Tom heeft iets verkeerd gedaan.
-7535107	nld	Je bent een erg knappe man.
-7535108	nld	U bent een erg knappe man.
-7535109	nld	Ik vind deze jas niet leuk.
-7535110	nld	Maria is een elektricien, nietwaar?
-7535111	eng	I don't know much about politics. I'm not interested in it.
-7535112	tat	Мин сәясәтне аңлап бетермим. Миңа ул кызык та түгел.
-7535113	tat	Min säyäsätne añlap betermim. Miña ul qızıq ta tügel.
-7535114	rus	Я не очень разбираюсь в политике. Мне это неинтересно.
-7535115	deu	Du bist der einzige, dem ich es gesagt habe.
-7535116	deu	Du bist die einzige, der ich es gesagt habe.
-7535117	tat	“Том, иртәгә Мария белән күрешергә кирәк, дип тәкрарлый”. — “Мария беләнме? Әмма бу мөмкин түгел ич. Мария вафат булды. Мин аны җирләгәндә үзем булган идем”.
-7535118	deu	Sie sind der einzige, dem ich es gesagt habe.
-7535119	deu	Sie sind die einzige, der ich es gesagt habe.
-7535120	deu	Maria wohnt noch bei ihrem Vater in Boston.
-7535121	tat	“Tom, irtägä Mariä belän küreşergä kiräk, dip täkrarlıy”. — “Mariä belänme? Ämma bu mömkin tügel iç. Mariä wafat buldı. Min anı cirlägändä üzem bulğan idem”.
-7535122	deu	Maria täte das nie, was du behauptest.
-7535123	nld	Ik woon in İzmir.
-7535124	nld	Ik woonde in Rome.
-7535125	nld	Ik woon in Helsinki.
-7535126	nld	Ik woon in Tbilisi.
-7535127	nld	Ik woon op Tahiti.
-7535128	tat	Хәтта вак-төяк эшләр кылып, була Лизаны шатландырып.
-7535129	nld	Ik woon in Turkije.
-7535130	nld	Ik woon in Amerika.
-7535131	tat	Xätta waq-töyäk eşlär qılıp, bula Lizanı şatlandırıp.
-7535132	nld	Ik woon in Shimkent.
-7535133	deu	Ich war lange Zeit von Berufs wegen Musiker.
-7535134	tat	Ничек чыгып китәсен яхшы беләләр, әмма ничек кайтып керәсен түгел.
-7535135	tat	Niçek çığıp kitäsen yaxşı belälär, ämma niçek qaytıp keräsen tügel.
-7535136	deu	Tom fehlt die Kühnheit, das zu wagen.
-7535137	nld	Ik woonde in Bydgoszcz.
-7535138	nld	Ik leefde in armoede.
-7535139	deu	Nicht nur ich bin der Ansicht, dass Tom und Maria übergewichtig sind.
-7535140	nld	Ik woon in Kazachstan.
-7535141	nld	Ik woon in Boston.
-7535142	deu	Ich fahre selbst bei Regen mit dem Fahrrad zur Schule.
-7535143	nld	Ik woon in Miami.
-7535144	nld	Ik woon in Rome.
-7535145	nld	Ik woon in Sarajevo.
-7535146	tat	Хатын — балыкчының үзен тотучы балык ул.
-7535147	nld	Ik woon in Antalya.
-7535148	tat	Xatın — balıqçınıñ üzen totuçı balıq ul.
-7535149	ber	Ad nsew i tegmatt.
-7535150	deu	Maria weiß, dass sie keine Erdnüsse essen soll.
-7535151	nld	Ik woon in Europa.
-7535152	nld	Ik woon in Boekarest.
-7535153	nld	Ik woon in Athene.
-7535154	tat	Берәр нәрсәне истә калдырыр өчен, башыбыздан күп нәрсәне чыгарып ташларга туры килә.
-7535155	nld	Ik woon in Hongarije.
-7535156	nld	Ik woonde in Boston.
-7535157	nld	Ik woon in Honolulu.
-7535158	nld	Ik woon in Lahore.
-7535159	tat	Berär närsäne istä qaldırır öçen, başıbızdan küp närsäne çığarıp taşlarğa turı kilä.
-7535160	nld	Ik woon in Parma.
-7535161	nld	Ik woon in India.
-7535162	nld	Ik woonde in Teheran.
-7535163	nld	Ik woon in Australië.
-7535164	nld	Ik woon in Tonga.
-7535165	nld	Ik woon in Warschau.
-7535166	nld	Ik woon in Teheran.
-7535167	tat	Заманына карап, анда ашау-эчү әйтеп бетергесез яхшы һәм арзан булды.
-7535168	tat	Zamanına qarap, anda aşaw-eçü äytep betergesez yaxşı häm arzan buldı.
-7535169	nld	Ik woon in Tasjkent.
-7535170	ukr	Я живу у Варшаві.
-7535171	nld	Ik woon in Brazilië.
-7535172	ukr	Я мешкаю у Варшаві.
-7535173	nld	Ik woonde in Australië.
-7535174	tat	Кешенең бердәнбер кагылгысыз милке — аның хәтере.
-7535175	nld	Ik woon in Rio.
-7535176	tat	Keşeneñ berdänber qağılğısız milke — anıñ xätere.
-7535177	nld	Ik woon in Volgograd.
-7535178	nld	Ik woon in Wolgograd.
-7535179	nld	Ik woon in Schotland.
-7535180	hun	Mari megtöltötte a saját poharát, majd Tomiét is.
-7535181	tat	Бу хакта артык күп сөйли алмыйм. Мин биредә озата баручы гына.
-7535182	tat	Bu xaqta artıq küp söyli almıym. Min biredä ozata baruçı ğına.
-7535183	nld	Ik woon in Ribeirão Preto.
-7535184	nld	Ik woon in New York.
-7535185	nld	Ik woon in Noord-Zweden.
-7535186	nld	Ik woon in New Delhi.
-7535187	nld	Ik woonde in Qatar.
-7535188	tat	Эсперантоны белмәүче — заманага иярмәүче.
-7535189	nld	Ik woon in Nieuw-Zeeland.
-7535190	tat	Esperantonı belmäwçe — zamanağa iärmäwçe.
-7535191	nld	Ik heb in Australië gewoond.
-7535192	nld	Ik woon nog steeds in Australië.
-7535193	deu	Tom kommt morgen mit uns mit.
-7535194	nld	Ik woon nu in Australië.
-7535195	nld	Ik woon ook in Australië.
-7535196	tat	Болар барысы да гел бутербротта бар.
-7535197	nld	Ik wil in Helsinki wonen.
-7535198	tat	Кем булуың, кем булганың аерылганда ачыкланыр.
-7535199	nld	Ik heb altijd in Boston gewoond.
-7535200	tat	Kem buluıñ, kem bulğanıñ ayırılğanda açıqlanır.
-7535201	nld	Ik denk dat Tom in Boston woont.
-7535202	nld	Ik woonde tot 2013 in Boston.
-7535203	nld	Ik wilde in Boston wonen.
-7535204	nld	Ik woon in een groot huis.
-7535205	nld	Ik dacht dat je in Australië woonde.
-7535206	nld	Ik dacht dat u in Australië woonde.
-7535207	nld	Ik dacht dat jullie in Australië woonden.
-7535208	nld	Ik woon niet meer in Australië.
-7535209	nld	Ik wilde in Australië wonen.
-7535210	nld	Ik woonde tot 2013 in Australië.
-7535211	tat	Дәүләтнең асылы кешенеке кебек, ул бездән үзе белән саграк булуны таләп итә ала.
-7535212	nld	Ik heb vele jaren in Australië gewoond.
-7535213	nld	Ik heb jaren in Australië gewoond.
-7535214	tat	Däwlätneñ asılı keşeneke kebek, ul bezdän üze belän sağraq bulunı taläp itä ala.
-7535215	nld	Ik woon niet in Australië.
-7535216	nld	Ik denk dat Tom in Australië woont.
-7535217	nld	Ik woonde met Tom in Australië.
-7535218	nld	Ik dacht dat Tom in Australië woonde.
-7535219	tat	Бернинди эш башламаган бернәрсәгә дә ирешә алмый.
-7535220	tat	Bernindi eş başlamağan bernärsägä dä ireşä almıy.
-7535221	nld	Hij is een personal trainer.
-7535222	nld	Ik heb een vriend die in Nara woont.
-7535223	tat	Күк күкрәмичә, мужик чукынмый.
-7535224	tat	Kük kükrämiçä, mujik çuqınmıy.
-7535225	nld	Het is de laatste kans.
-7535226	nld	Ik werk niet vandaag.
-7535227	nld	Tom gaat vaak naar Boston.
-7535228	nld	Ik ben net wakker geworden.
-7535229	nld	Ik wist niet dat Tom me haatte.
-7535230	nld	Wie is de persoon met Tom?
-7535231	nld	Tom heeft niet genoeg geld.
-7535232	nld	Het is een stomme regel.
-7535233	nld	Ik schreef Tom een ​​brief.
-7535234	nld	Ik schreef een brief aan Tom.
-7535235	nld	Deze batterijen bevatten lood.
-7535236	nld	Tom is een buitengewoon kind.
-7535237	nld	Tom vond het moeilijk om kalm te blijven.
-7535238	nld	Tom was boos.
-7535239	nld	Ik weet hoe Tom zich voelt.
-7535240	nld	Ik ben degene die ziek is.
-7535241	nld	Tom rijdt langzamer dan Maria.
-7535242	nld	Je komt uit Boston, nietwaar?
-7535243	nld	U komt uit Boston, nietwaar?
-7535244	nld	Jullie komen uit Boston, nietwaar?
-7535245	nld	Hij is een vrolijke jongen.
-7535246	nld	Tom vond Maria leuk.
-7535247	nld	Je kan geen bloeddonor zijn.
-7535248	nld	U kunt geen bloeddonor zijn.
-7535249	rus	Что ты ей подаришь?
-7535250	nld	Ik wil op het platteland wonen.
-7535251	nld	Dit is het huis waarin ik woon.
-7535252	nld	Ik woonde drie jaar in Sasayama.
-7535253	nld	Ik wil in de stad wonen.
-7535254	nld	Ik neem aan dat je nog steeds in Boston woont.
-7535255	nld	Ik neem aan dat u nog steeds in Boston woont.
-7535256	nld	Ik weet wie in dat huis woont.
-7535257	nld	Ik woon momenteel in Tampa.
-7535258	nld	Ik heb drie jaar in Boston gewoond.
-7535259	nld	Ik woon in een stad in de buurt van Boston.
-7535260	nld	Ik woon sinds 1995 in Boston.
-7535261	nld	Ik woon sinds 1993 in Realengo.
-7535262	nld	Ik dacht dat je in Boston woonde.
-7535263	epo	Ĉu tio estas vera arĝento?
-7535264	nld	Ik dacht dat u in Boston woonde.
-7535265	nld	Ik heb zes maanden in China gewoond.
-7535266	nld	Ik woonde twee maanden in Vancouver.
-7535267	nld	Mijn familie en ik wonen in Boston.
-7535268	nld	Ik woon niet meer in Boston.
-7535269	nld	Mijn vrouw en ik wonen in Boston.
-7535270	nld	Ik heb een dochter die in Boston woont.
-7535271	nld	Ik heb een vriend die in Boston woont.
-7535272	nld	Ik woon niet hier in Boston.
-7535273	nld	Ik ben een Canadees die in Australië woont.
-7535274	nld	De kinderen en ik wonen in Boston.
-7535275	nld	Mijn vrouw en ik wonen in Australië.
-7535276	nld	Mijn familie en ik wonen in Australië.
-7535277	nld	Ik woonde toen in Boston.
-7535278	nld	Ik woon sinds 2013 in Australië.
-7535279	nld	Ik woon op een boerderij in Australië.
-7535280	nld	Ik heb een tijdje in Australië gewoond.
-7535281	nld	Ik woon met mijn gezin in Australië.
-7535282	nld	Ik woon met mijn familie in Australië.
-7535283	nld	Ik heb een vriend die in Australië woont.
-7535284	nld	Ik woonde drie jaar geleden in Australië.
-7535285	epo	Mi ne uzas mian biciklon tre ofte.
-7535286	nld	Ik woonde tot vorig jaar in Australië.
-7535287	nld	Ik heb een dochter die in Australië woont.
-7535288	nld	Ik ken iemand die in Australië woont.
-7535289	nld	Ik heb dertig jaar in Australië gewoond.
-7535290	nld	Tom en ik wonen allebei in Australië.
-7535291	nld	Ik dacht dat Tom in Boston woonde.
-7535292	nld	Ik heb een kleindochter die in Australië woont.
-7535293	deu	In meiner Familie kann jeder ziemlich gut singen.
-7535294	nld	Ik heb kleinkinderen die in Australië wonen.
-7535295	nld	Tom en ik wonen nog steeds in Australië.
-7535296	nld	Ik woon niet hier in Australië.
-7535297	deu	Tom schlief ein, ehe Maria nach Hause kam.
-7535298	nld	Ik neem aan dat je nog steeds in Australië woont.
-7535299	epo	Tom volas ŝanĝi ĉion tion.
-7535300	deu	Das ist erst vor einem Jahr passiert.
-7535301	nld	Ik neem aan dat u nog steeds in Australië woont.
-7535302	deu	Weißt du, wie du mich notfalls erreichen kannst?
-7535303	deu	Wissen Sie, wie Sie mich notfalls erreichen können?
-7535304	nld	Ik heb een vriend die in Amerika woont.
-7535305	deu	Wisst ihr, wie ihr mich notfalls erreichen könnt?
-7535306	nld	Ik heb een tante die in Osaka woont.
-7535307	nld	Ik woonde tot mijn zesde in Osaka.
-7535308	deu	Er sagt, er habe es am Strand gefunden.
-7535309	nld	Ik woon sinds vorig jaar in Kobe.
-7535310	deu	Er sagt, er habe sie am Strand gefunden.
-7535311	nld	Ik woonde meer dan een maand in Nagoya.
-7535312	deu	Er sagt, er habe ihn am Strand gefunden.
-7535313	nld	Ik kan Marika niet bellen. Ze woont in Finland!
-7535314	nld	Ik heb een vriend die in Duitsland woont.
-7535315	epo	Viaj supozoj estas ĝustaj.
-7535316	nld	Ik ken iemand die in jouw buurt woont.
-7535317	nld	Ik ken iemand die in uw buurt woont.
-7535318	nld	Ik ken iemand die in jullie buurt woont.
-7535319	nld	Ik kan niet meer in dit huis wonen.
-7535320	nld	Ik had een neef die in Boston woonde.
-7535321	nld	Ik heb twee vrienden die in Duitsland wonen.
-7535322	nld	Ik heb mijn hele leven in Boston gewoond.
-7535323	nld	Het huis waarin ik woon is oud.
-7535324	epo	Atendu kaj vidu!
-7535325	nld	Ik heb vele jaren in het Rijnland gewoond.
-7535326	nld	Ik heb ongeveer drie jaar in Boston gewoond.
-7535327	deu	Darüber brauchst du jetzt nicht nachzudenken.
-7535328	deu	Darüber brauchen Sie jetzt nicht nachzudenken.
-7535329	deu	Darüber braucht ihr jetzt nicht nachzudenken.
-7535330	nld	Ik heb bijna drie jaar in Boston gewoond.
-7535331	nld	Ik wilde niet in Boston wonen.
-7535332	nld	Ik woonde een paar jaar in Australië.
-7535333	deu	Tom und seine Frau haben zusammen ein Buch über Boston geschrieben.
-7535334	deu	Tom und seine Frau haben gemeinsam ein Buch über Boston geschrieben.
-7535335	nld	Ik heb een tante die in Kyoto woont.
-7535336	nld	Ik heb een tante die in Kioto woont.
-7535337	lat	Tegmentum meae domi ruber est.
-7535338	nld	Ik heb een tante die in Boston woont.
-7535339	nld	Ik woon in een appartement in de stad.
-7535340	deu	Tom und Maria wollten mir nicht sagen, woher ihre Antipathie gegen Johannes rührt.
-7535341	nld	Ik woon in dezelfde buurt als Tom.
-7535342	deu	Tom und Maria wollten mir nicht sagen, warum sie Johannes nicht mögen.
-7535343	nld	Ik heb ook drie jaar in Boston gewoond.
-7535344	nld	Tom en ik wonen in dezelfde buurt.
-7535345	deu	Maria sagte, sie sei arbeitslos.
-7535346	deu	Maria hat gesagt, sie sei arbeitslos.
-7535347	epo	La potenco koruptas homojn.
-7535348	deu	Maria sagte, dass sie arbeitslos sei.
-7535349	deu	Maria hat gesagt, dass sie arbeitslos sei.
-7535350	epo	Manjo diris, ke ŝi estas sen laboro.
-7535351	epo	La korupto maljustas.
-7535352	epo	Ekzistas koruptitaj politikistoj.
-7535353	nld	Wil je iets kouds te drinken?
-7535354	eng	There are corrupt politicians.
-7535355	epo	Li estas koruptita.
-7535356	nld	Wilt u iets kouds te drinken?
-7535357	nld	Willen jullie iets koud te drinken?
-7535358	epo	Kial vi faras ĝin ĉi tie?
-7535359	deu	„Gehen wir heute Abend ins Kino?“ – „Ich kann nicht. Ich habe zu tun.“ – „Und morgen Abend?“ – „Da habe ich auch zu tun.“
-7535360	deu	Maria sagte, sie sei erschöpft.
-7535361	nld	Tom heeft al mijn spullen meegenomen.
-7535362	deu	Maria sagte, sie sei sehr daran interessiert, das zu tun.
-7535363	epo	For ĉi tiun koruptitan registaron!
-7535364	deu	Maria sagte, sie habe das noch nicht getan.
-7535365	nld	Dat is echt gevaarlijk.
-7535366	eng	Down with this corrupt government!
-7535367	epo	Ili ĉiuj estas koruptitaj.
-7535368	deu	Ich denke nicht, dass du Tom sagen musst, was Maria vorhat.
-7535369	nld	Het was niet helemaal mijn schuld.
-7535370	deu	Ich denke nicht, dass ihr Tom sagen müsst, was Maria vorhat.
-7535371	epo	La korupto estas ankoraŭ ofta.
-7535372	deu	Ich denke nicht, dass Sie Tom sagen müssen, was Maria vorhat.
-7535373	epo	Ĉi tiu registaro estas koruptita.
-7535374	epo	Laŭ mi vi ne bezonas diri al Tomo la intencon de Manjo.
-7535375	nld	Ik deed alsof ik Tom geloofde.
-7535376	nld	Het was donker, nietwaar?
-7535377	nld	Tom eet geen rood vlees.
-7535378	nld	Ik wilde met Tom praten.
-7535379	epo	Mi ŝatus aŭdi vian konsilon.
-7535380	epo	Mi suspektas korupton.
-7535381	nld	Ik heb een cactus gekocht.
-7535382	nld	Tom drinkt sap.
-7535383	nld	Tom is sap aan het drinken.
-7535384	nld	Tom was niet in het hotel.
-7535385	deu	Maria sagte, sie sei nicht schockiert.
-7535386	nld	Tom gaat naar een feestje.
-7535387	nld	Tom gaat naar een feest.
-7535388	deu	Maria war sich sicher, dass Tom das nicht tun werde.
-7535389	ukr	Щось взяли.
-7535390	nld	Tom zei dat ik de verkeerde keuze had gemaakt.
-7535391	epo	Ni alvenis multe pli frue ol Tom.
-7535392	ukr	Скористайся своїм пістолетом.
-7535393	deu	Tom war ziemlich überrascht, als Maria ihr Vorhaben ankündigte.
-7535394	ukr	Скористайтеся своїм пістолетом.
-7535395	nld	Ze heeft hem meer nodig dan dat hij haar nodig heeft.
-7535396	nld	Ik eet hier elke dag.
 7535397	ukr	Ти чий друг?
 7535398	ukr	Ви чий друг?
 7535399	ukr	Ти чия подруга?
@@ -1156,7 +443,7 @@
 7535842	deu	Ihr müsst nicht, aber ihr solltet.
 7535843	deu	Sie müssen nicht, aber Sie sollten.
 7535844	kab	Ur bɣiɣ ara ad wen-d-rnuɣ ddiq.
-7535845	toki	tenpo suno open mute la mije ni li kama tan supa lape.
+7535845	toki	tenpo suno open la ona mije li kama tan supa lape.
 7535846	deu	Tom und Maria wollen nicht, dass ich mich hier herumtreibe.
 7535847	toki	nasin seme la sina pilin tan pakala ni?
 7535848	deu	Tom sagte, er habe es zum ersten Mal gemacht.
@@ -1271,7 +558,7 @@
 7535958	pes	اصل کول: مجموع هوش پخش‌شده روی کرهٔ زمین یک مقدار ثابت است؛ نکته: جمعیت در حال افزایش است.
 7535959	pes	افراد ایدهٔ شما را داوطلبانه قبول می‌کنند اگر به آنها بگویید بنجامین فرانکلین اولین بار آن را گفته است.
 7535960	pes	اگر آدمی را ببینید که به قصد خوبی کردن به شما نزدیک می‌شود، باید خود را نجات دهید.
-7535961	pes	وقتی یک فیلسوف به من جواب می‌دهد، دیگر سؤالم را نمی‌فهمم.
+7535961	pes	وقتی یک فیلسوف به من جواب می‌دهد، دیگر سؤالم را نمی‌فهمم.
 7535962	spa	Aproveché mi jubilación para comenzar a estudiar la ceremonia del té.
 7535963	nld	Jij komt uit Zweden.
 7535964	pes	چه شادی بزرگی است وقتی که می‌بینیم جملات‌مان به تعداد زیادی زبان دیگر ترجمه می‌شود.
@@ -1889,7 +1176,7 @@
 7536587	gos	Wèl het dat doan?
 7536588	nld	Wie heeft dat gedaan?
 7536589	gos	Kop d'r veur holdn!
-7536590	gos	k Vin t wel best.
+7536590	gos	k Vien t wel best.
 7536591	nld	Ik vind het goed.
 7536592	gos	Doe bist schier.
 7536593	nld	Ik vind jou leuk.
@@ -1994,7 +1281,7 @@
 7536694	spa	Siempre estábamos discutiendo.
 7536695	spa	No parábamos de pelearnos.
 7536696	spa	Nos peleábamos a todas horas.
-7536697	gos	Wie hebben kiekplaotjes.
+7536697	gos	Wie hebben kiekploatjes.
 7536698	deu	Wir warten hier, bis der Regen aufhört.
 7536699	fra	Vous devez attendre jusqu'à l'année prochaine.
 7536700	gos	Wie hebben aaier.
@@ -2004,7 +1291,7 @@
 7536704	fra	Marie a beaucoup changé.
 7536705	nds	Wi hebbt Biller.
 7536706	deu	Maria hat sich sehr verändert.
-7536707	gos	Wie hebben twai kinder.
+7536707	gos	Wie hebben twij kiender.
 7536708	gos	Wie hebben allain thee.
 7536709	gos	Wie hebben vievenvattig.
 7536710	gos	Wie mòtten goan.
@@ -2354,7 +1641,6 @@
 7537057	kab	Yal aseggas, yesfugul amulli-ines.
 7537058	ita	Non ve l'ho chiesto.
 7537059	fra	Chaque année, il célèbre son anniversaire.
-7537060	tur	Yani?
 7537061	tur	Ee?
 7537062	kab	Amulli-inu iɣelli-d deg tefsut.
 7537063	fra	Mon anniversaire tombe au printemps.
@@ -5913,7 +5199,7 @@
 7540640	eng	Neither Tom nor Mary has a personal bodyguard.
 7540641	eng	Neither Tom nor Mary has a brother named John.
 7540642	eng	Mary hardly ever talks to her husband anymore.
-7540643	eng	Mary doesn't need to work. Her husband's rich.
+7540643	eng	Mary doesn't need to work. Her husband is rich.
 7540644	eng	Mary bought herself a new dress for the dance.
 7540645	eng	It took Tom a long time to finish that report.
 7540646	eng	It sounds like Tom doesn't want to play chess.
@@ -7937,7 +7223,6 @@
 7542673	eng	Tom wasn't able to get Mary to smile.
 7542674	eng	Tom wasn't able to get Mary to laugh.
 7542675	eng	Tom wasn't able to find his umbrella.
-7542676	eng	Tom wasn't able to find Mary's house.
 7542677	eng	Tom was wearing a bullet-proof vest.
 7542678	eng	Tom was the only person in the house.
 7542679	eng	Tom was only doing what he had to do.
@@ -9522,7 +8807,6 @@
 7544278	eng	Both Tom and Mary have a dog.
 7544279	eng	Both Tom and Mary have a car.
 7544280	eng	Why are you so cruel to Tom?
-7544281	eng	Tom won't let me to do that.
 7544282	eng	Tom will want to go with us.
 7544283	eng	Tom will never let me drive.
 7544284	eng	Tom will be leaving at 2:30.
@@ -10107,7 +9391,6 @@
 7544863	deu	Frag ihn, ob er kommt.
 7544864	eng	Ask him whether he comes.
 7544865	eng	Ask him if he comes or not.
-7544866	eng	Tom got the shot.
 7544867	hun	Vedd rá valahogy, hogy eljöjjön.
 7544868	deu	Bring sie irgendwie dazu zu kommen.
 7544869	hun	Érd el nála így vagy úgy, hogy eljöjjön.
@@ -11104,7 +10387,7 @@
 7545862	toki	mi ken ala ken lukin e ona?
 7545863	fra	Tu m'as presque convaincu de le faire.
 7545864	deu	Wir haben es!
-7545865	toki	mije ni li pilin pi mute ike.
+7545865	toki	ona mije li pilin pi mute ike.
 7545866	gos	t Is dudelk dat Tom geliek het.
 7545867	fra	Tom portait un vieux chapeau.
 7545868	toki	tenpo sin la sina pali e jaki la sina ken kama tawa pakala pi mute ale.
@@ -11132,7 +10415,7 @@
 7545890	deu	Morgen ist es wahscheinlich nicht heiß.
 7545891	deu	Ich habe Tom gesagt, warum ich das tun wollte.
 7545892	ber	Deg Jabun, ulac ula d yiwen n ugelmim yugaren win n Biwa
-7545893	toki	tenpo sin la mi tawa supa lape la ni li ike ala ike tawa sina mute?
+7545893	toki	mi tawa sin supa lape la ni li ike ala ike tawa sina mute?
 7545894	deu	Anscheinend bin ich zu einem ungünstigen Zeitpunkt aufgetaucht.
 7545895	ber	D ta i d tanqiḍt talqayant akk deg ugelmim.
 7545896	deu	Tom wird wahrscheinlich zustimmen.
@@ -11425,7 +10708,7 @@
 7546183	rus	Кажется, я появился в неподходящий момент.
 7546184	rus	Я очень благодарен тебе за еду.
 7546185	rus	Он любит закаты.
-7546186	gos	Mieghommels hollen van sukker.
+7546186	gos	Mieghommels holden van sukker.
 7546187	nld	Mieren houden van suiker.
 7546188	kab	Acḥal aya ur yewwit ugeffur.
 7546189	nld	De mier was rood.
@@ -11863,7 +11146,7 @@
 7546625	kab	Ibeddel adrum s uɣrum.
 7546626	kab	Yugi ad ibeddel.
 7546627	kab	Tugiḍ ad tbeddleḍ.
-7546628	kab	ittbeddil uzrem taglimt.
+7546628	kab	Ittbeddil uzrem taglimt.
 7546629	kab	Ittbeddil am tata.
 7546630	tur	Tom çöp kamyonu kullanıyor.
 7546631	tur	Artık dayanamıyordum.
@@ -12031,7 +11314,7 @@
 7546794	kab	Nnan-d amek?
 7546795	kab	Ifassen-is d iẓelmaḍen.
 7546796	tur	Tom hırbonun teki.
-7546797	arq	I always yawn when i'm sleepy
+7546797	arq	I always yawn when I'm sleepy.
 7546798	tur	Yürü lan, hırbo!
 7546799	kab	Lliɣ ɣur uḥeffaf.
 7546800	tur	Sen ne sanmıştın?
@@ -12102,7 +11385,7 @@
 7546866	kab	Kullec yuɣal d iɣed.
 7546867	fra	Tout est devenu cendre.
 7546868	kab	Axxam akk yerɣa.
-7546869	fra	Toute la maison a brûlé
+7546869	fra	Toute la maison a brûlé.
 7546870	kab	Ireqq cwiṭ cwiṭ.
 7546871	fra	Il brûle à petit feu.
 7546872	kab	Iman-is ur iteffeɣ, alamma tensa kan tmes iman-is.
@@ -12445,7 +11728,7 @@
 7547212	fra	Tom pense que l'on attrape pas les mouches avec du vinaigre.
 7547213	fra	Tom ignorait jusqu'à ce jour l'existence de Tatoeba.
 7547214	kab	Lecɣal n taddart meqqeṛ-it nekni meẓẓi-yit.
-7547215	fra	Tom est tombé dans la cave chez sa grand-mère avant hier.
+7547215	fra	Tom est tombé dans la cave chez sa grand-mère avant-hier.
 7547216	ber	Semres wa amzun d tamudemt !
 7547217	fra	Tom aurait souhaité que son père soit présent à l'occasion de son anniversaire.
 7547218	kab	Yenna Meɛtub Lwennas: "ad ttarguɣ awanek aqbayli!"
@@ -12464,7 +11747,7 @@
 7547231	fra	Tom a décidé de faire l’école buissonnière.
 7547232	ber	Tom yella d tamudemt.
 7547233	fra	Tom ne doit pas copier-coller des phrases qui proviendraient de sources inconnues.
-7547234	fra	Etant petit, Tom avait pour habitude de faire la cour à une fillette au cours de la récréation.
+7547234	fra	Petit, Tom avait pour habitude de faire la cour à une fillette pendant la récréation.
 7547235	fra	Tom est nul, il ne sait même pas manger avec des baguettes!
 7547236	fra	Qui a dit que Tom ne savait pas nager et qu'il ne pourrait pas faire un mètre sans couler?
 7547237	fra	Tom se la coule douce depuis que Mary est chez son grand-père!
@@ -12476,7 +11759,7 @@
 7547243	fra	Grâce à Tom ils ont bénéficié d'un tarif réduit pour entrer au zoo.
 7547244	fra	Tom est fatigué il ne va pas écrire de phrases ce matin.
 7547245	fra	Tom est exténué il ne va pas écrire à Mary ce matin.
-7547246	fra	Tom est épuisé il ne va pas travailler ce matin.
+7547246	fra	Tom est épuisé donc il n'ira pas travailler ce matin.
 7547247	fra	Paul est dans l'incapacité la plus complète de se rendre à son travail ce matin.
 7547248	fra	Tom déteste les fruits rouges.
 7547249	fra	Tom s'est pris une sacrée tarte par Mary!
@@ -12589,7 +11872,7 @@
 7547357	deu	Ich will sie nicht unterbrechen.
 7547358	nld	Ik wil haar niet onderbreken.
 7547359	toki	tenpo pini seme la sina moku e kala Salikoko?
-7547360	toki	ma kasi suli Sunkelo ni li mute pi akesi linja en mute pi pipi Alaneo.
+7547360	toki	akesi en pipi mute li lon ma kasi suli ni.
 7547361	toki	mute seme pi sina mute li pilin akesi tan pipi Alaneo?
 7547362	toki	mi toki tawa jan Ton e ni: tan seme la mi wile pali e ni.
 7547363	toki	mi mute kin li wile moku e ijo. sina mute o moku ala e suwi Kuko ale.
@@ -12860,7 +12143,7 @@
 7547630	nld	Ik wil je niet verliezen.
 7547631	nld	"Waar kom jij vandaan?" "Ik kom uit Parijs."
 7547632	deu	Ist sie Portugiesin?
-7547633	gos	''Woar komst heer?'' ''k Kom oet Paries.''
+7547633	gos	"Woar komst heer?" "k Kom oet Paries."
 7547634	por	Mary parece ótima para a idade dela.
 7547635	deu	Kanada grenzt an Alaska.
 7547636	por	Tom foi vaiado no palco.
@@ -13160,7 +12443,7 @@
 7547931	ber	D acu ay yellan deg tkeṛṛust-nnem?
 7547932	ber	D acu ay yellan deg tkeṛṛust-nwen?
 7547933	ber	D acu ay yellan deg tkeṛṛust-nwent?
-7547934	pes	کودکان با سؤال پرسیدن، یاد می‌گیرند.
+7547934	pes	کودکان با سؤال پرسیدن، یاد می‌گیرند.
 7547935	ber	Tom werǧin yessirid takeṛṛust-nnes.
 7547936	kab	Teččur tembult-iw d aman n tasa.
 7547937	lit	Virėjas atidžiai skaitė receptą.
@@ -13585,7 +12868,7 @@
 7548359	kab	D acu i heddṛen deg taddart-im, taqbaylit neɣ tamaziɣt?
 7548360	kab	D acu i heddṛen deg taddart-nwen, taqbaylit neɣ tamaziɣt?
 7548361	kab	D acu i heddṛen deg taddart-nkent, taqbaylit neɣ tamaziɣt?
-7548362	eng	I can hear it. What are you 16 years old? Grow up dumb ass.
+7548362	eng	I can hear it. What are you, 16 years old? Grow up, dumbass.
 7548363	kab	D acu i heddṛen deg uxxam-ik, taqbaylit neɣ tamaziɣt?
 7548364	kab	D acu i heddṛen deg uxxam-im, taqbaylit neɣ tamaziɣt?
 7548365	kab	D acu i heddṛen deg uxxam-nwen, taqbaylit neɣ tamaziɣt?
@@ -13638,7 +12921,7 @@
 7548413	kab	Twalam weltma?
 7548414	kab	Twalamt weltma?
 7548415	eng	Is there a difference between graphic novels and comic books?
-7548416	eng	I had to spend alot of money, but the reaction will be priceless.
+7548416	eng	I had to spend a lot of money, but the reaction will be priceless.
 7548417	eng	How many years of study are required to become a certified midwife?
 7548418	pes	آدم باید اشتباه خود را زود انجام دهد تا بتواند مدتها از آن درس بگیرد.
 7548419	pes	برای یاد گرفتن شنا، باید در آب بروم، در غیر این صورت هیچ چیز یاد نمی‌گیرم.
@@ -13983,7 +13266,7 @@
 7548759	fra	Sommes-nous poursuivies ?
 7548760	fra	Je n’ai jamais volé.
 7548761	eng	He quickly adapted to his new surroundings.
-7548762	eng	I am reading a book in berber.
+7548762	eng	I am reading a book in Berber.
 7548763	ber	Aqli qqareɣ adlis s tmaziɣt.
 7548764	kab	Yella kra n tikkelt i tukreḍ?
 7548765	deu	Ich habe ihn nicht besucht, weil ich mich erkältet hatte.
@@ -14687,7 +13970,6 @@
 7549469	fra	Tom est un peu malheureux ici.
 7549470	fra	Tom est un peu triste ici.
 7549471	fra	Tom est un manipulateur.
-7549472	fra	Tom est un manipulateur
 7549473	fra	Tom est manipulateur.
 7549474	fra	Tom est membre de ce club.
 7549475	epo	Mi serĉis mian tason, sed ne trovis ĝin.
@@ -15124,8 +14406,8 @@
 7549910	ara	سيكون حراس السجن في إضراب لمدة ثلاثة أيام ابتداءا من منتصف الليل.
 7549911	ara	كنت مثلك عندما كنت شابا.
 7549912	epo	Dankon pro ĉio, Tomo.
-7549913	ara	عليَّ أن أطلُب.
-7549914	ara	عليَّ أن أسأل.
+7549913	ara	عليَّ أن أطلُب.
+7549914	ara	عليَّ أن أسأل.
 7549915	ara	يجب أن أطلُب.
 7549916	ara	يجب أن أسأل.
 7549917	tur	Tom'un artık bunu yapmasına izin veremezsin.
@@ -15822,7 +15104,7 @@
 7550613	fra	Je suis passé par là la nuit dernière.
 7550614	ber	Ur ḥṣiɣ ara ad izmireɣ ad ttiliɣ da ass kamel.
 7550615	toki	mi toki tawa jan Ton e ni: ona li wile awen e mi lon tomo tawa.
-7550616	nld	Hoe zeg je ''pizza'' in het Italiaans?
+7550616	nld	Hoe zeg je "pizza" in het Italiaans?
 7550617	fra	J'essaye de te sauver.
 7550618	fra	J'essaye de vous sauver.
 7550619	ber	Iḍelli kan lliɣ ur lhiɣ ara.
@@ -15958,7 +15240,7 @@
 7550750	nld	Mag ik je nummer?
 7550751	fra	En fait, je voulais vous le dire aujourd'hui.
 7550752	pap	Bo ke kasa ku mi?
-7550753	toki	meli ni li awen olin kin e mije ni.
+7550753	toki	ona meli li awen olin sin e ona mije.
 7550754	pap	Mi por haña bo number di telefòn?
 7550755	rus	Похоже, что круизное судно отправляется.
 7550756	toki	tenpo ni la sina mute li pali e ijo seme?
@@ -15977,7 +15259,7 @@
 7550770	pap	Mi ta gusta bo.
 7550771	pap	Mi gusta bo.
 7550772	epo	Tom ne pretas iri ien.
-7550773	toki	mani li lon ala ni la ona li ken ala pali tawa pini.
+7550773	toki	mani li lon ala ni la pali li ken ala.
 7550774	pap	Mi stima bo.
 7550775	toki	tomo tawa sin sina li awen ala awen pona tawa sina?
 7550776	epo	En mia familio, tiu, kiu plej frue ellitiĝas, estas mia patrino.
@@ -16819,7 +16101,7 @@
 7551621	fra	Le lieu de naissance de Youba est Akbou.
 7551622	kab	Tansa n Yuba d Tazmalt n ugafa.
 7551623	fra	L’adresse de Youba est Tazmalt nord.
-7551624	fra	Quand est ce que es-tu né
+7551624	fra	Quand est-ce que tu es né ?
 7551625	kab	D tidet tebɣiḍ ad ṛuḥeɣ?
 7551626	kab	Mel-iyi-d anida i tluleḍ.
 7551627	fra	Dis-moi où es-tu né?
@@ -17887,14 +17169,14 @@
 7552691	bua	Би ород хэлэ муугаар мэдэнэб.
 7552692	rus	Я хорошо знаю бурятский язык.
 7552693	tur	Tom, evin perili olduğunu düşündüğünü söyledi.
-7552694	toki	meli ni li jo e sike pimeja lon sike lukin ona.
+7552694	toki	sike pimeja li lon sike lukin ona.
 7552695	bua	Би буряад хэлэ һайн мэдэнэб.
 7552696	epo	Mi petas iom da akvo.
 7552697	tur	Tom'un şimdiye kadar sürdüğü tek araba babasının ki.
 7552698	rus	Вы говорите по-бурятски?
 7552699	tur	Bugün Fransızca çalışmayalım.
 7552700	bua	Та буряадаар хэлэдэг гүт?
-7552701	toki	sina jo e ni la pona la sina tawa jan pali pi pona sijelo.
+7552701	toki	sina jo e ni la o tawa jan pali pi pona sijelo.
 7552702	rus	Вы понимаете по-бурятски?
 7552703	bua	Та буряадаар ойлгодог гүт?
 7552704	tur	Tom her gün yürüyüşe çıkar.
@@ -17972,12 +17254,12 @@
 7552777	tur	Tom daha fazla yardıma ihtiyacı olmadığını söyledi.
 7552778	rus	Если поведение родителей изменится, реакция детей также, безусловно, изменится.
 7552779	bua	Би таниие һайндэрөөр амаршалнаб!
-7552780	toki	sina pilin e ni: mije ni li kama? - wile mi la ala.
+7552780	toki	sina pilin e ni: ona mije li kama? - wile mi la ala.
 7552781	toki	ona li tomo lon tomo suli.
 7552782	toki	tenpo suno pini ni la mi kama tan supa lape lon tenpo suno open mute.
 7552783	bua	Би хорин табатайб.
 7552784	bua	Би арбан хоёртойб.
-7552785	toki	mije ni li kepeken e linja e palisa lili tawa pali.
+7552785	toki	ona mije li kepeken palisa lili en linja.
 7552786	toki	len kulupu li lon seme?
 7552787	bel	Зброі ў мяне не было.
 7552788	toki	nasin ilo ni li ijo pi pona suli mute!
@@ -18028,12 +17310,12 @@
 7552833	ber	Bɣiɣ ad rreɣ takeṛṛust.
 7552834	ber	Ɣseɣ ad rreɣ takeṛṛust.
 7552835	ber	Takeṛṛust-nni tamaynut nnes nettat.
-7552836	toki	ona li lukin sama e ni: moku kasi Pinaso li ike tawa meli ni.
+7552836	toki	ken la moku Pinaso li ike kin tawa ona.
 7552837	rus	Том хочет изучать берберский язык, потому что он ему очень нравится.
 7552838	toki	mi wile e ni: mi lukin e jan mute. tan musi la mi pilin pona.
 7552839	bua	Ши юу уухабши?
 7552840	bel	«Яны нарвежцы?» — «Не, яны харваты».
-7552841	toki	tenpo ale la meli ni li toki e ni: ala.
+7552841	toki	tenpo ale la ona li toki e ni: ala.
 7552842	bua	Би уухаяа һананаб.
 7552843	toki	tenpo kama la kala li lon ala la sina toki e seme?
 7552844	toki	mani li jan pali pona. taso mani li jan lawa ike.
@@ -19116,7 +18398,7 @@
 7553931	bua	Түрэтнай хэзээ болохонь бэ?
 7553932	bua	Мүнөө ямар жэл бэ?
 7553933	rus	Том не сказал этого Мэри.
-7553934	eng	Here's your one chance Fancey, don't let me down.
+7553934	eng	Here's your one chance, Fancey. Don't let me down.
 7553935	rus	Кто занял первое место?
 7553936	bua	Хэн нэгэдэхи һуури эзэлээб?
 7553937	por	Tom pediu para que a Mary trabalhasse para ele.
@@ -19231,7 +18513,7 @@
 7554051	por	Tom não é um bom escultor.
 7554052	por	Eu não comi nem bebi nada desde a manhã de ontem.
 7554053	kab	Msefhamen.
-7554054	fra	Ils se sont donnés le mot
+7554054	fra	Ils se sont donnés le mot.
 7554055	kab	Myeḥmmalen.
 7554056	por	Eu queria te dar uma chance de explicar por que você fez isso.
 7554057	kab	Myezɛafen.
@@ -20106,13 +19388,13 @@
 7554929	rus	Мне больше ничего не нужно покупать.
 7554930	toki	ona li toki e ni: tawa ona li pona lon telo.
 7554931	deu	Was ist denn so wichtig, wenn ich fragen darf?
-7554932	toki	tan seme la sina pali ike e ni tawa meli ni?
+7554932	toki	tan seme la sina pali e ike tawa ona?
 7554933	rus	Том ведь друг твоей жены?
 7554934	rus	Том одолжил у меня ластик.
 7554935	toki	sina tawa weka ala la ona mute li moli e sina.
 7554936	fra	Je ne raconte pas souvent de blagues.
 7554937	deu	Das Zeitalter der Kernenergie ist noch nicht vorbei.
-7554938	toki	tenpo suno kama pi nanpa wan la jan Ton li tomo tawa kon sin tawa ma Poton.
+7554938	toki	tenpo suno kama pi nanpa wan la jan Ton li tawa sin ma Poten kepeken tomo tawa kon.
 7554939	fra	Comment pourrions-nous faire ça ?
 7554940	fra	Comment pourrait-on faire ça ?
 7554941	fra	À qui est cet enfant ?
@@ -20129,7 +19411,7 @@
 7554952	fra	J'imagine qu'il est temps d'y aller.
 7554953	fra	J'imagine que c'est le moment d'y aller.
 7554954	fra	Je fais ça plus d'une fois par semaine.
-7554955	toki	sina wile ala la o tawa ala.
+7554955	toki	sina wile ala tawa lon ni la o tawa ala.
 7554956	fra	On a dû apprendre le poème par cœur.
 7554957	fra	Nous avons dû apprendre le poème par cœur.
 7554958	fra	À qui est ce camion ?
@@ -20174,7 +19456,7 @@
 7554997	fra	On a encore quelques options.
 7554998	kab	Amek i ten-steqsan?
 7554999	fra	Nous avons encore quelques options.
-7555000	toki	mi sona ala e ni: lon seme la mije ni li tawa.
+7555000	toki	mi sona ala e ni: lon seme la ona mije li tawa.
 7555001	fra	Ne parlons pas de ton travail ce soir.
 7555002	fra	Je suis si fatigué.
 7555003	fra	Je suis si fatiguée.
@@ -20234,7 +19516,7 @@
 7555057	kab	Amek ara s-cfun?
 7555058	kab	Amek ara s-cfunt?
 7555059	kab	Yeddem-it-id.
-7555060	toki	tenp suno pini ni la jan li ken pini e lupa tomo la tenpo suno ni la ala.
+7555060	toki	tenpo suno pini ni la jan li ken pini e lupa tomo. tenpo suno ni la taso ala li lon.
 7555061	kab	Teddem-it-id.
 7555062	kab	Ddmen-t-id.
 7555063	kab	Ddmeɣ-t-id.
@@ -20248,7 +19530,7 @@
 7555071	kab	Yebɣeḍ ad iṛuḥ.
 7555072	fra	Qu'est-il arrivé au reste de votre équipage ?
 7555073	tur	Tom ve Mary'nin bir şey sakladığından şüpheleniyorum.
-7555074	toki	mije ni li pona ala e ilo kipisi.
+7555074	toki	ona mije li pona ala e ilo kipisi.
 7555075	fra	C'est exactement ce dont nous avions besoin.
 7555076	kab	Mlaleleɣ yid-s.
 7555077	kab	Mlaleɣ yid-sen.
@@ -21018,7 +20300,7 @@
 7555846	kab	Luzin-nni akimyan tewweḍ-it-id kan tmes yeṭṭerḍeq.
 7555847	tur	Bu işte bir yanlışlık var.
 7555848	ita	Tom e Mary hanno detto che potrebbero vincere.
-7555849	run	Abonye amaraso umurwayi yaciye araba.
+7555849	run	Umurwayi abonye amaraso yaciye araba.
 7555850	tur	Yıldızspor maçta kural hatası olduğu iddiasıyla federasyona başvurdu.
 7555851	fra	C'est pas vrai, Tom, c'est toi !
 7555852	run	Umuntu wese arashobora kubisoma.
@@ -21058,7 +20340,6 @@
 7555887	tur	Tom o zamanlar şimdiki gibi zengin değildi.
 7555888	lit	Mane domina, ar mokytojas čia dirba.
 7555889	tur	Tom benden bunu yapmamı rica etti.
-7555890	tur	Aynısı.
 7555891	run	Urafise ikintu co gusoma?
 7555892	run	Urafise ico gusoma?
 7555893	tur	Geçerken uğradım.
@@ -25842,10 +25123,10 @@
 7560706	ita	Mary ha detto che avrebbe provato a convincere Tom a farlo.
 7560707	ber	D tanamumt am tɣessa.
 7560708	kab	Iɣmisen akk wwin-d ɣef teqsiṭ-nni.
-7560709	ber	Agermeslan d iɣes ttwasmezzi netta d ugums iwaken ad yessileɣ taqesrit
+7560709	ber	Ismer d iɣes ttwasmezzi netta d ugums iwaken ad yessaleɣ taqesrit.
 7560710	fra	Sacrum: Os qui s'articule avec l'os iliaque pour former le bassin.
 7560711	ber	ma d aslmad ay illa ?
-7560712	ber	arry
+7560712	ber	Arry.
 7560713	ber	ixyar
 7560714	kab	Nezmer ad nruḥ ad nmeslay anda kra?
 7560715	kab	Bɣiɣ kan ad d-iniɣ belli sḥassfeɣ.
@@ -25879,11 +25160,11 @@
 7560743	rus	Она говорит, что её жизнь монотонна.
 7560744	rus	Ах, я забыл купить тофу.
 7560745	ber	Tqerḥ iyi texlift-innu.
-7560746	ber	Ttwarẓeɣ seg taxlift.
+7560746	ber	Ttwarẓeɣ seg texlift.
 7560747	ber	Tom yareẓ seg tweltimt.
 7560748	ber	Tom yareẓ seg texlift.
 7560749	ber	Yelli tegzem tixlifin-ines s uceqquf n jjaj.
-7560750	ber	Ẓriɣ d akken ttwarẓaɣ seg texlift deg teswat anda ɣliɣ.
+7560750	ber	Ẓriɣ d akken ttwarẓaɣ seg tweltimt deg teswat anda ɣliɣ.
 7560751	ber	Tom yessawel i temeddakult-ines.
 7560752	ber	Teɣli kra n tɣewsa.
 7560753	ber	Tabalizt-nni zẓaye-t fella-k.
@@ -26452,10 +25733,10 @@
 7561322	eng	Of course he passed the test.
 7561323	ber	Taneɣrit-nteɣ llan deg-s simraw-semmus n yiqcicen ed timraw n teqcicin.
 7561324	eng	She built a new house.
-7561325	eng	unable to feel anything that resembles life the mind and soul left her behind.
+7561325	eng	Unable to feel anything that resembled life, the mind and soul left her behind.
 7561326	ber	Tom yerbeḥ-d aṭas n yidrimen asmi ay yella deg tsimrawin-nnes.
 7561327	ber	Ad teg Linda kra n teɣlust.
-7561328	eng	with nothing left there is nothing more.
+7561328	eng	With nothing left, there is nothing more.
 7561329	tur	Bu konuşma dili yakında yeryüzünden silinme tehlikesiyle karşı karşıya olan bir dildir.
 7561330	tur	Dünyada yakın bir zaman içerisinde bu dili konuşan hiç kimse kalmayabilir.
 7561331	ber	Zik, zeṭṭent tuǧǧal tiqbayliyin iɛdilen akked yixellalen, sakkin snuzunt-ten akken ad d-ssisent kra n uṣarif swayes ara d-aɣent iselsa i warraw-nsent.
@@ -26586,7 +25867,7 @@
 7561459	kab	Ma teččiḍ annect-en, ad tufayeḍ.
 7561460	kab	Ma teččiḍ annect-en, ad tuzureḍ.
 7561461	kab	Tzawwa tella tekkat-d tekkat ddeffat.
-7561462	fra	Le syndrome de Paris est une sorte de choc culturel. C'est un terme psychiatrique employé pour décrire les étrangers qui commencent à vivre à Paris, séduits pat l'image de la ville comme étant le centre de la mode, et qui ne s'adaptent pas bien aux coutumes locales et culturelles, ils perdent leur équilibre mental et montrent des symptômes identiques à ceux de la dépression
+7561462	fra	Le syndrome de Paris est une sorte de choc culturel. C'est un terme psychiatrique employé pour décrire les étrangers qui commencent à vivre à Paris, séduits par l'image de la ville comme étant le centre de la mode, et qui ne s'adaptent pas bien aux coutumes locales et culturelles, ils perdent leur équilibre mental et montrent des symptômes identiques à ceux de la dépression.
 7561463	epo	Ĝoju, ho junulo, en via juneco; kaj via koro kuraĝu vin en la tagoj de via juneco kaj iru laŭ la vojoj de via koro kaj antaŭ viaj okuloj; sed sciu, ke pro ĉio tio Dio venigos vin en juĝon. Tial forpuŝu vian koron, kaj forigu malbonon el via karno; ĉar infaneco kaj juneco estas vantaĵo.
 7561464	eng	Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment. Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.
 7561465	fra	Qu'est-ce qui se passe si je dis non?
@@ -26733,7 +26014,7 @@
 7561608	eng	Stop making stupid people famous.
 7561609	tur	Aptal insanları meşhur etmeyi bırakın.
 7561610	tur	Salak insanları popülerleştirmeyin.
-7561611	eng	Gvgeyuhi! Denadagohvyu.
+7561611	chr	Gvgeyuhi! Denadagohvyu.
 7561612	epo	Sunradioj kuras sur la foliaro sub la fenestro.
 7561613	fra	Je suis gâté par mon père.
 7561614	tur	Delidir, ne yapsa yeridir.
@@ -26806,7 +26087,7 @@
 7561683	nav	Kóhoot’éédą́ą́’ Hoozdogóó niikai.
 7561684	nav	Shaa yíkai.
 7561685	nav	Díí awéé’ shá dah diiłteeh.
-7561686	nav	Lift up the baby for me.
+7561686	eng	Lift up the baby for me.
 7561687	ita	Chi andrà a Boston con te?
 7561688	eng	It's really too early.
 7561690	ita	Chi andrà a Boston con voi?
@@ -26814,9 +26095,8 @@
 7561694	eng	Roll the snowball over to me.
 7561695	eng	He proceeds with caution.
 7561696	eng	Last year, we came to Phoenix.
-7561697	eng	Must be at the library by 4:30 or I wont get the book I want. I should leave now.
+7561697	eng	I must be at the library by 4:30, or I won't get the book I want. I should leave now.
 7561698	eng	They came to see me.
-7561699	eng	Lift up the baby for me.
 7561700	eng	Tom, do you like me?
 7561701	eng	Give me the cat!
 7561702	nav	Díí yas dah diiłmááz.
@@ -28655,7 +27935,7 @@
 7563556	por	Eu preciso ter calma na hora de dirigir.
 7563557	por	Eu preciso entender o que está escrito aqui.
 7563558	nav	Neeznáá, ła'ts'áadah, naakits'áadah, táá'ts'áadah, dį́į́'ts'áadah, ashdla'áadah, hastą́ʼáadah, tsots'idts'áadah, tseebííts'áadah, náhást'éíts'áadah, naadiin
-7563559	fra	Kentucky crie "foutreries."
+7563559	fra	Kentucky crie « foutreries ».
 7563560	por	Eu preciso dar comida para os meus cachorros.
 7563561	por	Eu preciso inventar uma desculpa melhor.
 7563562	por	Eu preciso de mais tempo com a minha família.
@@ -30122,7 +29402,7 @@
 7565029	fra	Laisse-moi la regarder !
 7565030	fra	Quelle est la chose la plus effrayante qui ne vous soit jamais arrivée?
 7565031	fra	Tom n'est pas un bon musicien.
-7565033	nlv	Yerwi wallaɣ-iw.
+7565033	ber	Yerwi wallaɣ-iw.
 7565034	ita	Ho rifiutato, ovviamente.
 7565035	ber	Qerḥ-iyi wallaɣ-iw.
 7565036	ita	Non prenderti troppo seriamente.
@@ -30169,7 +29449,7 @@
 7565078	ara	شبيبة القبائل فريق جزائري لكرة القدم.
 7565079	ita	Com'è vivere in Europa?
 7565080	ber	"Anta ay d taɣlamt-nnek n tcirḍart tazzayrit tamenyaft?" "D Tameḍrit Taddalant n Leqbayel."
-7565081	fra	"Quelle est ton équipe de football algérienne préférée ?" "La Jeunesse sportive de Kabylie."
+7565081	fra	« Quelle est ton équipe de football algérienne préférée ? » « La Jeunesse sportive de Kabylie. »
 7565082	ita	È intelligente e sofisticata.
 7565083	ita	Lei è intelligente e sofisticata.
 7565084	ita	Lunedì si fa francese.
@@ -31564,7 +30844,7 @@
 7566474	eng	Why didn't they eat dinner?
 7566475	hun	Képzelheted, mit éreztem.
 7566476	hun	Gondolhatod, mit éreztem akkor.
-7566477	eng	Scientists continue to discover new drugs, so there is still hope for people in coma.
+7566477	eng	Scientists continue to discover new drugs, so there is still hope for people in a coma.
 7566478	hun	Valami azt súgta, hogy találkozunk mi még valamikor.
 7566479	hun	Valami azt súgta, találkozni fogunk mi még egyszer.
 7566480	kab	Ilaq-iyi ad awiɣ tteffaḥ-a merra, war ma hedreɣ ɣef ucekkaṛ-a n lbaṭaṭa.
@@ -40071,9 +39351,9 @@
 7574999	deu	Morgen fahren wir ab.
 7575000	fra	J’ignore quand est ce que je vais le terminer.
 7575001	kab	Yal ass ttafeɣ-d tikta timaynutin.
-7575002	fra	Chaque jour je trouve de nouvelles idées
+7575002	fra	Chaque jour, je trouve de nouvelles idées.
 7575003	kab	Tira n udlis mačči d tamsalt isehlen.
-7575004	fra	Ecrire un livre n’est pas une mince affaire.
+7575004	fra	Écrire un livre n’est pas une mince affaire.
 7575005	kab	Ulac aṭas n yimeɣriyen yeqqaren taqbaylit.
 7575006	deu	Du wirst dir draußen eine Erkältung einfangen, wenn du so wenig anziehst.
 7575007	fra	Il n’y’a pas beaucoup de lecteurs qui lisent le kabyle.
@@ -40399,7 +39679,7 @@
 7575329	rus	Он почти никогда не добавляет в кофе сахар.
 7575330	rus	Не могу. Я ещё ем.
 7575331	hun	Neked aztán igazad van.
-7575332	pes	ما می‌خواهیم رأی دهیم.
+7575332	pes	ما می‌خواهیم رأی دهیم.
 7575333	hun	Teljességgel igazad van.
 7575334	rus	Вчера ночью у нас дома была вечеринка.
 7575335	rus	Извините, мы тоже спешим.
@@ -40694,7 +39974,7 @@
 7575628	ita	Tom non è ancora stato catturato.
 7575630	ita	Non nascondiamolo.
 7575631	ita	Non nascondiamola.
-7575632	fra	Je lui ai dit: "Je t'aime."
+7575632	fra	Je lui ai dit : « Je t'aime. »
 7575633	fra	J'ai un morceau de viande coincé entre deux dents.
 7575634	ita	Sua nonna sembra in salute.
 7575635	epo	Mi havas viandpecon kojnumitan inter du dentoj.
@@ -41583,9 +40863,9 @@
 7576528	fin	Kaikki on muuttumassa.
 7576529	fin	Tomi voitti minut shakissa.
 7576530	fin	Juotko mieluummin teetä?
-7576531	kab	Am nekk am Tom nebɣa ad nṛuḥ.
+7576531	kab	Am nekk am Tom nebɣa ad nṛuḥ.
 7576532	fin	Sinun poikasi seurustelee minun tyttäreni kanssa.
-7576533	kab	Nekk d Tom i sin nebɣa ad nṛuḥ.
+7576533	kab	Nekk d Tom i sin nebɣa ad nṛuḥ.
 7576534	fin	Sinun poikasi tapailee minun tytärtäni.
 7576535	fin	Minkälaisia ajatuksia sinulla on tästä?
 7576536	ber	Yeddem-d uraw n temẓin yefka-t i tegmart-is.
@@ -41663,7 +40943,7 @@
 7576609	ber	Yekker uwekkiw deg tfekka n umettin-a.
 7576610	ber	Rkan akk yiɣsan n umettin-a.
 7576611	kab	Tzemreḍ ad iyi-d-iniḍ d acu i yellan?
-7576612	kab	Anda i d-tezga teɣsert n umiṭru i iqeṛben akk?
+7576612	kab	Anda i d-tezga teɣsert n umiṭru i iqeṛben akk?
 7576613	kab	Tzemrem ad iyi-d-inim d acu i yellan?
 7576614	kab	Tzemremt ad iyi-d-inimt d acu i yellan?
 7576615	fin	Pysähdytään jonnekin syömään.
@@ -42946,7 +42226,7 @@
 7577902	epo	Hodiaŭ la vetero estas bonega.
 7577903	rus	Это довольно распространённое заблуждение.
 7577904	lat	Thomas trepidus est.
-7577905	\N	امروز هوا عالیست.
+7577905	pes	امروز هوا عالیست.
 7577906	rus	Том делает только то, что ему говорят.
 7577907	rus	У Тома нет своей квартиры.
 7577908	pes	همه چیز «اما» و «اگر» خود را دارد.
@@ -43551,7 +42831,7 @@
 7578509	eng	I'm not afraid of terrorists.
 7578510	eng	Kabyles, and Algerians in general, are not afraid of terrorists.
 7578511	ber	Iqbayliyen, ed Yizzayriyen s umata, ur ttaggaden ara iremmaɣen.
-7578512	eng	Dat Esperanto morgen de Europese taal wordt, is wishful thinking.
+7578512	nld	Dat Esperanto morgen de Europese taal wordt, is wishful thinking.
 7578513	hun	Ő az utolsó, akitől segítséget kérnék, mert tökre megbízhatatlan.
 7578514	eng	Most Kabyles are Muslims.
 7578515	epo	Ke Esperanto morgaŭ estos la Eŭropa lingvo estas dezirpensado.
@@ -43767,7 +43047,7 @@
 7578727	lit	Štai Sendai miesto žemėlapis.
 7578728	fin	"Ymmärrän näkökulmasi", sanoi sokea mies ottaessaan käsiinsä vasaran ja sahan.
 7578729	jpn	それをやるのは約束した。
-7578730	rus	Том встречается с девушкой Джона.
+7578730	rus	Том встречается с бывшей девушкой Джона.
 7578731	rus	Том у себя за столом, считает деньги.
 7578732	lit	Aš jos paklausiau, kas atsitiko, bet man ji to nenorėjo pasakyti.
 7578733	deu	Heute war einfach schrecklich, also werde ich ein Bier trinken und mich dann direkt ins Bett begeben.
@@ -43904,7 +43184,7 @@
 7578866	kab	Nettraju ussan yelhan.
 7578867	kab	Smuqulen.
 7578868	kab	Xeẓẓren.
-7578869	fra	Nous attendons des jours cléments
+7578869	fra	Nous attendons des jours cléments.
 7578870	kab	Sgunfaɣ ssmana.
 7578871	kab	Wwiɣ ssmana usteεfu.
 7578872	kab	La d-qqaren tezweǧ.
@@ -44514,7 +43794,7 @@
 7579479	ita	Io non sono né ricca né famosa.
 7579480	rus	Сейчас я добавляю последние штрихи.
 7579482	ita	Questa non è una storia credibile.
-7579483	jpn	おまえ、一服盛った？
+7579483	jpn	おまえ、一服盛ったな？
 7579484	rus	Ты что-то подмешал мне в еду?
 7579485	rus	Жахни его метлой!
 7579486	rus	Я поздравил его со сдачей вступительного экзамена.
@@ -45469,14 +44749,14 @@
 7580442	kab	Yerfa kan mi tt-nerra akken i uqeṣṣer.
 7580443	eng	I believe the attribute is cowardice not fear. He doesn't seem the type.
 7580444	kab	Ulac am waddal.
-7580445	fra	Il n’y’a pas meilleur que le sport
+7580445	fra	Il n’y a pas meilleur que le sport.
 7580446	kab	Anaddal yelhan d win ur nettkeyyif ara.
 7580447	fra	Un bon sportif est celui qui ne fume pas.
 7580448	kab	Anaddal yetturebba.
 7580449	fra	Le sportif est éduqué.
 7580450	kab	Yettzuxxu s titar, ajenwi ulac.
 7580451	kab	Anaddal yettliwi tafekka-s.
-7580452	fra	Il prétend avoir un sabre, alors qu'il n'a même pas de couteau
+7580452	fra	Il prétend avoir un sabre, alors qu'il n'a même pas de couteau.
 7580454	ber	Sami yella yesɛa targa n YouTube.
 7580455	ber	Sami yesɛa snat n tregwa n YouTube.
 7580456	kab	Illuɣẓam uḍaṛ-is.
@@ -46206,7 +45486,7 @@
 7581186	rus	Том попросил Мэри оставить дверь открытой.
 7581187	rus	Том попросил Мэри, чтобы она одолжила ему свой карандаш.
 7581188	rus	Том попросил Мэри одолжить ему свой карандаш.
-7581189	kab	Ma yelḥa, ad dduɣ yid-s. 
+7581189	kab	Ma yelḥa, ad dduɣ yid-s.
 7581190	kab	Ma yelḥa, ddiɣ yid-s.
 7581191	eng	If he walks, I walk.
 7581192	rus	Том попросил Мэри, чтобы она держалась от Джона подальше.
@@ -46618,7 +45898,7 @@
 7581603	deu	Ich habe unsere Verlobung aufgelöst.
 7581604	deu	Wie oft hat Tom das diese Woche schon gemacht?
 7581605	deu	Ich hätte zu gern gewusst, wie das passiert ist.
-7581606	pes	جرأت مانند چتر است. هروقت فوراً به آن نیاز است، نایاب است.
+7581606	pes	جرأت مانند چتر است. هروقت فوراً به آن نیاز است، نایاب است.
 7581607	rus	Я обычно иду плавать утром.
 7581608	kab	Nekk d aselmad kan mecṭuḥen.
 7581609	kab	Ma telliḍ s idis-iw, ur sriɣ i kra nniḍen.
@@ -47027,7 +46307,6 @@
 7582013	fra	J'ai farfouillé.
 7582014	fra	J'ai fait n'importe quoi.
 7582015	fra	J'ai bricolé maladroitement.
-7582016	fra	Tu es mince
 7582017	fra	Pars sans doute !
 7582018	fra	Je suis turque.
 7582019	fra	Je suis turc.
@@ -48714,7 +47993,7 @@
 7583715	kab	Ala Tom i izemren ad d-yerr ɣef usteqsi-a.
 7583716	por	Preferia não gastar tanto dinheiro em roupa.
 7583717	por	Preferia não ir lá sozinho.
-7583718	kab	Yeɣra aṭas akken ur ixesseṛ ara.
+7583718	kab	Yeɣra aṭas akken ur ixesseṛ ara.
 7583719	ber	Aneẓlum d iɣes seg ugmam amazdar.
 7583720	por	Prefiro que tu venhas.
 7583721	fra	Le tibia est un os du membre inférieur.
@@ -49102,7 +48381,7 @@
 7584108	rus	Он вас шантажирует?
 7584109	kab	Yella kra i yi-d-ikerrcen.
 7584110	rus	Он тебя шантажирует?
-7584111	eng	Cognitive scientists study mind from an interdisciplinary perspective.
+7584111	eng	Cognitive scientists study the mind from an interdisciplinary perspective.
 7584112	rus	Он вас шантажировал?
 7584113	rus	Он тебя шантажировал?
 7584114	rus	Расскажи мне обо всём поподробнее.
@@ -49129,7 +48408,7 @@
 7584135	kab	Dan yeḍleb ssmaḥ seg yelli-s Linda imi ur tt-yeǧǧi ara ad truḥ ɣer tmeɣra.
 7584136	ita	Penso che a Tom piacerà questo.
 7584137	ita	Quella cosa è di Tom?
-7584138	eng	The Crayon Etching technique is like revealing a rainbow from a gloom.
+7584138	eng	The Crayon Etching technique is like revealing a rainbow from gloom.
 7584139	slk	Vyškrabávacia technika je ako odhaľovanie dúhy z temnoty.
 7584140	eng	Searching for the owners of the items I found, such as ID cards or phones, is my favorite online game.
 7584141	ber	Lsiɣ taqendurt d tamellalt.
@@ -49998,3 +49277,724 @@
 7585033	por	Aquilo que, encontrando-se em todas as coisas, / é, no entanto, diverso de todas as coisas; / Aquilo que todas as coisas não conhecem, / cujo corpo é feito de todas as coisas, / que controla todas as coisas a partir de dentro – / Aquilo é a tua Alma, o controlador interior, / o Imortal.
 7585034	rus	Я хочу, чтобы ты мне почаще писал.
 7585035	epo	Tio, kio, troviĝanta en ĉio, estas tamen malsama je ĉio; / Tio, kion nenio konas, / kies korpo estas farita el ĉio, / kio regadas ĉion ekde ene – / Tio estas via animo, la interna reganto, / la Senmorta.
+7585036	rus	Я хочу, чтобы вы мне почаще писали.
+7585037	rus	Пиши почаще.
+7585038	rus	Пишите почаще.
+7585039	rus	Когда ты в последний раз был на почте?
+7585040	rus	Том, похоже, кого-то ждал.
+7585041	rus	Когда ты в последний раз ходил на почту?
+7585042	rus	Мы с Томом сделали всё, что могли.
+7585043	rus	Сядь посиди, а то у меня от тебя уже в глазах рябит.
+7585044	rus	Хватит ходить туда-сюда!
+7585045	rus	Посиди успокойся.
+7585046	rus	Посидите успокойтесь.
+7585047	rus	Ну ладно, пока. Созвонимся.
+7585048	rus	Почему ты ведёшь себя так, будто тебе все должны?
+7585049	rus	Почему вы ведёте себя так, будто вам все должны?
+7585050	rus	Том случайно удалил все фотографии.
+7585051	hun	A csapat okozott meglepetéseket, mert a második félidőben több gólt is rúgtak.
+7585052	rus	Ты этим раньше никогда не интересовался.
+7585053	rus	Вы этим раньше никогда не интересовались.
+7585054	rus	Раньше тебя это почему-то не интересовало.
+7585055	rus	Раньше вас это почему-то не интересовало.
+7585056	rus	Том почти всегда после ужина смотрит телевизор.
+7585057	rus	Мы с Томом не очень хорошо друг друга знаем.
+7585058	rus	Том и Мэри уже уехали в Бостон.
+7585059	rus	Том и Мэри сегодня приехали из Австралии.
+7585060	rus	Том и Мэри отложили свадьбу.
+7585061	rus	В октябре прошлого года Том и Мэри переехали в Бостон.
+7585062	rus	Том и Мэри переехали в Бостон в октябре прошлого года.
+7585063	rus	Том и Мэри хотят, чтобы мы помогли им это сделать.
+7585064	rus	Том с друзьями планировали ограбить банк.
+7585065	rus	Том попросил Мэри не ходить туда одной.
+7585066	rus	Том попросил Мэри не ездить туда одной.
+7585067	rus	Том попросил Мэри сделать за него домашнее задание.
+7585068	rus	Том попросил Мэри выяснить, где Джон.
+7585069	rus	Том попросил Мэри узнать, где Джон.
+7585070	rus	Том попросил Мэри оставить дверь незапертой.
+7585071	rus	Том попросил Мэри встретить его в аэропорту.
+7585072	rus	Том попросил Мэри встретить его на вокзале.
+7585073	rus	Том попросил Мэри пересмотреть своё решение.
+7585074	rus	Том попросил Мэри поговорить с тобой об этом.
+7585075	rus	Том попросил Мэри поговорить об этом с Джоном.
+7585076	rus	Том попросил Мэри поговорить с вами об этом.
+7585077	rus	Том попросил Мэри, чтобы она сделала за него домашнее задание.
+7585078	rus	Том попросил Мэри, чтобы она не ходила туда одна.
+7585079	rus	Том попросил Мэри, чтобы она выяснила, где Джон.
+7585080	rus	Том попросил Мэри, чтобы она узнала, где Джон.
+7585081	rus	Том попросил Мэри, чтобы она не ездила туда одна.
+7585082	rus	Том попросил Мэри, чтобы она оставила дверь незапертой.
+7585083	rus	Том попросил Мэри, чтобы она встретила его в аэропорту.
+7585084	rus	Том попросил Мэри, чтобы она встретила его на вокзале.
+7585085	rus	Том попросил Мэри, чтобы она пересмотрела своё решение.
+7585086	rus	Том попросил Мэри, чтобы она поговорила с тобой об этом.
+7585087	rus	Том попросил Мэри, чтобы она поговорила об этом с Джоном.
+7585088	rus	Том попросил Мэри, чтобы она поговорила с вами об этом.
+7585089	rus	Том спросил Мэри, как зовут её отца.
+7585090	por	Quero ajudar a todos.
+7585091	por	Quero criar uma conta no Facebook.
+7585092	por	Quero me especializar na área de tradução.
+7585093	por	Eu quero me especializar na área de ensino de idiomas.
+7585094	por	Quero me especializar na área de ensino de idiomas.
+7585095	por	Quero muito saber vários idiomas.
+7585096	por	Quero e preciso estudar latim.
+7585098	por	Quero ser um dos melhores professores do mundo!
+7585099	por	Quero assistir aquele filme de novo.
+7585101	ber	Ṣanɛa d tamanaɣt n Lyamen.
+7585102	rus	Том спросил Мэри, что ей купить.
+7585103	rus	Том спросил Мэри, что она хочет от него услышать.
+7585104	ber	Dimecq d tamanaɣt n Surya.
+7585105	rus	Том спросил Мэри, что она хочет, чтобы он купил.
+7585106	rus	Том спросил Мэри, что она хочет, чтобы он сказал.
+7585107	ber	Beyrut d tamanaɣt n Lubnan.
+7585108	rus	Том спросил Мэри, где она выучила французский.
+7585109	rus	Том спросил Мэри, где она припарковалась.
+7585110	por	Quero ajudar muita gente.
+7585111	por	Quero me formar em Letras.
+7585112	por	Quero ser um ótimo professor.
+7585113	ber	Ɛemman d tamanaɣt n Uṛdun.
+7585115	ber	Kuweyt d tamanaɣt n Kuweyt.
+7585116	por	Quero ter um irmão.
+7585117	por	Quero estudar naquela escola.
+7585118	por	Quero ir à praia amanhã.
+7585119	por	Quero me casar um dia.
+7585120	ber	Manama d tamanaɣt n Baḥṛeyn.
+7585121	por	Quero comprar aquele terno.
+7585122	rus	Том спросил меня, сколько у меня с собой денег.
+7585125	rus	Том пообедал, но десерт есть не стал.
+7585126	rus	Том купил себе резиновые сапоги.
+7585127	por	Quero ir à praia.
+7585128	por	Quero ir à praia com você.
+7585130	rus	Том пару лет назад встречался с моей сестрой.
+7585131	rus	Том всё время носит с собой нож.
+7585132	rus	Том постоянно носит с собой нож.
+7585133	rus	Том предостерёг Мэри, чтобы она держалась от Джона подальше.
+7585134	rus	Том утверждал, что это сделала Мэри.
+7585136	rus	Том не пришёл в школу двадцатого октября.
+7585137	rus	Том не ожидал, что Мэри будет на вечеринке.
+7585138	rus	У Тома вчера не было на это времени.
+7585139	hun	Csak egyszer találkoztam vele valamikor régen, de még mindig emlékszem rá jól.
+7585140	ara	المنامة هي عاصمة البحرين.
+7585141	rus	У Тома вчера не было времени это сделать.
+7585142	rus	Том не сказал, когда собирается уходить.
+7585143	ber	Yeččuṛ ubidun-nni d aman?
+7585144	rus	Том вчера не успел это сделать.
+7585145	rus	Том не ожидал, что Мэри понравится вечеринка.
+7585146	rus	У Тома тогда было не так много друзей.
+7585147	rus	Том не сказал, когда он планирует это сделать.
+7585148	ber	Sken-iyi-d abrid ɣer uxxam-is.
+7585149	rus	Том не сказал, когда собирается уезжать.
+7585150	ara	عَمَّان هي عاصمة الأردن.
+7585151	ara	الكويت هي عاصمة الكويت.
+7585152	ara	بيروت هي عاصمة لبنان.
+7585153	deu	Ich habe sie nur einmal vor langer Zeit getroffen, aber ich erinnere mich immer noch gut an sie.
+7585154	rus	Том не знает, где его лыжные перчатки.
+7585155	ara	دمشق هي عاصمة سوريا.
+7585156	rus	Том не знает, где зонтик Мэри.
+7585157	rus	Том не знает, где его солнечные очки.
+7585158	ara	صنعاء هي عاصمة اليمن.
+7585159	eng	Get all those naive ideas out of your head.
+7585160	eng	Damascus is the capital of Syria.
+7585161	hun	Verd ki azokat a gyermeteg ötleteket a fejedből!
+7585163	kab	Nnan-d tettusṭaxreḍ.
+7585164	kab	Nnan-d sṭaxren-kem.
+7585165	hun	Azt gondoltam, hogy megváltoznak a dolgok.
+7585166	kab	Xdem ayen twalaḍ yelha.
+7585167	kab	Yessens tafat, iεedda ad igen.
+7585168	kab	Amek, awal ur t-sεiɣ deg aya?
+7585169	kab	Ṣṣeḥḥa-s tettwenniε kra kra.
+7585170	kab	Teẓriḍ anwa adlis yettnuzen mliḥ ussan-a?
+7585171	kab	Ahat nezmer ad neffeɣ lwaḥi.
+7585172	spa	Tom llama a su madre una vez a la semana.
+7585173	spa	No escribas mensajes mientras conduces.
+7585174	kab	Ur tḥeqqeɣ deg ayen yerzan Haway, anda llan daɣen Ijapuniyen, maca ɣer ɣur-i ma llan ulamma kra Ijapuniyen ssya ɣer da, ahat d ayen ideg yella laman. Akka i ḥulfaɣ.
+7585175	kab	Xeddmeɣ ɣur-sen.
+7585176	kab	Sεiɣ yiwet.
+7585177	kab	Ɣur-i yiwet akken.
+7585178	kab	Ur tezmireḍ ad tεiceḍ akka.
+7585179	kab	Yedderɣel deg laksida-nni.
+7585180	kab	Yedderɣel deg usehwu-nni.
+7585181	kab	Ur d-tban ara.
+7585182	kab	Ur d-tbeyyen ara iman-is.
+7585183	lat	"Quis est maritus ejus?" "Quidam civis Lugdunensis, progenitus honestis parentibus."
+7585184	por	"Quem é o marido dela?" "Um cidadão lionês, de família respeitável."
+7585185	epo	"Kiu estas ŝia edzo?" "Civitano el Liono, naskita de respektindaj gepatroj."
+7585186	epo	Hieraŭ Tomaso ne havis tempon por fari tion.
+7585187	vol	Ädelo Tomas no älabom timi al dunön etosi.
+7585188	epo	Tomaso avertis Marian, ke ŝi gardu sin kontraŭ Johano.
+7585189	epo	Tomaso ĉiam kunhavas tranĉilon.
+7585190	epo	Tomaso aĉetis por si paron de kaŭĉukaj botoj.
+7585191	epo	Damasko estas la ĉefurbo de Sirio.
+7585192	fra	Je veux que tu m'écrives fréquemment.
+7585193	epo	Tomaso demandis min, kiom da mono mi kunhavas.
+7585194	epo	Tomaso demandis Marian, kie ŝi parkumis.
+7585195	epo	Tomaso demandis Marian, kie ŝi ellernis la francan lingvon.
+7585196	vol	Tomas äsäkom eli Maria, kiöp estudof Flentapüki.
+7585197	deu	Wann ist es Zeit für deine Tablette?
+7585198	deu	Jetzt muss ich die Tablette nehmen.
+7585199	deu	Du solltest auf uns hören.
+7585200	deu	Nie hörst du auf mich.
+7585201	deu	Du beachtest mich gar nicht.
+7585202	dan	Thomas spurgte mig om hvor mange penge jeg havde på mig.
+7585203	dan	Tom spurgte mig om hvor mange penge jeg havde på mig.
+7585204	deu	Es wurde die aktuelle Arbeitslosenstatistik veröffentlicht.
+7585205	deu	Die Geschäfte gehen gut.
+7585206	epo	Tomaso demandis Marian, kion ŝi volas, ke li diru.
+7585207	epo	Tomaso demandis Marian, kion li aĉetu por ŝi.
+7585208	deu	Man darf es nicht in hoher Dosis nehmen.
+7585209	epo	Tomaso petis Marian renkonti lin en la flugohaveno.
+7585210	dan	Damaskus er Syriens hovedstad.
+7585211	deu	Trink es schlückchenweise.
+7585212	dan	Få alle de naive ideer ud af dit hovede.
+7585213	deu	Nimm es niedrig dosiert.
+7585214	epo	Tomaso petis Marian ekscii, kie troviĝas Johano.
+7585215	deu	Nimm es in kleinen Dosen ein.
+7585216	dan	Kan du overhovedet lide mig?
+7585217	dan	Du ved ikke hvad der sker, gør du?
+7585218	eng	Our city suffers from a lack of 24 hour transit service.
+7585219	dan	Jeg troede ting ville ændre sig.
+7585220	epo	Tomaso petis Marian, ke ŝi ne mem iru tien.
+7585221	dan	Hendes reaktion var ikke overraskende overhovedet.
+7585222	dan	Hans reaktion var ikke overraskende overhovedet.
+7585223	rus	Том попросил Мэри, чтобы она не ходила туда сама.
+7585224	dan	Tom vil blive imponeret.
+7585225	dan	Jeg er meget ældre end du tror jeg er.
+7585226	dan	Drager er fiktive væsner.
+7585227	dan	Tom svømmede med delfinerne.
+7585228	dan	Tag dine bukser på.
+7585229	dan	Hvilken slags person er du?
+7585230	dan	Tom er allerede frustreret.
+7585231	dan	Det er vores land.
+7585232	dan	Jeg fandt personen som gjorde det.
+7585233	dan	Vi har ingen grund til at skamme os.
+7585234	lat	"Estne dives?" "Sic habetur, sed tamen meus pater facit haec longe pluris: Primum, quod sit bene moratus adolescens; deinde, quod sit non solum doctissimus, sed etiam amantissimus bonarum literarum; denique, quod sit verus cultor Dei, et summus observator Christianæ religionis."
+7585235	dan	Tom fløj.
+7585236	dan	Den regel gælder ikke i denne situation.
+7585237	dan	Jeg er så glad for, at du er her!
+7585238	dan	Han bor sammen med sin bedstemor.
+7585239	dan	Ingen tvang dig til at gøre det.
+7585240	por	"Ele é rico?" "Dizem que sim, mas meu pai considera muito mais importante, primeiro, que se trata de um jovem de bons costumes; em segundo lugar, que é não só muito instruído, mas também muitíssimo estudioso; e, por fim, que verdadeiramente teme a Deus, sendo corretíssimo seguidor da religião cristã."
+7585241	dan	Jeg kan lide din nye frisure.
+7585242	ukr	Я випив.
+7585243	ukr	Чому ви не розмовляєте з ним?
+7585244	dan	Tom er alene i huset.
+7585245	dan	Du lyder ikke så sikker.
+7585246	ukr	Чому ти не розмовляєш з нею?
+7585247	ukr	Чому ви не розмовляєте з нею?
+7585248	ukr	Чому ти не розмовляєш з ним?
+7585249	ukr	Кава готова.
+7585250	rus	Том без труда нашёл дом Мэри.
+7585251	ukr	З якого напрямку?
+7585252	rus	Том разозлился, прочтя сообщение Мэри.
+7585253	rus	Тома уже выпустили из тюрьмы.
+7585254	dan	Skynd dig.
+7585255	dan	Det afhænger af konteksten.
+7585256	dan	Jeg siger det bare!
+7585257	epo	"Ĉu li estas riĉa?" "Onidire jes, sed mia patro konsideras multe pli grava jenon: unue, ke li estas bonkonduta junulo; due, ke li estas ne nur tre instruita sed ankaŭ tre studema; kaj, fine, ke li vere timas Dion, estante plej fidela sekvanto de la kristana religio."
+7585258	tur	Suriye'nin başkenti Şam'dır.
+7585259	tur	Şam, Suriye'nin başkentidir.
+7585260	tur	Çocuk oyuncağı bu.
+7585261	tur	Benden hoşlanıyor musun ki?
+7585262	tur	Sen beni sever miydin ya?
+7585263	por	Ele foi canonizado postumamente.
+7585264	tur	Ölümünün ardından aziz ilan edildi.
+7585265	deu	Bei jedem Schritt habe ich nur einen Gedanken: Ich will dich zurück.
+7585266	tur	Sandığından çok daha yaşlıyım.
+7585267	tur	Yaşım sandığından çok daha büyük.
+7585268	tur	Tom benden çok daha zengin, değil mi?
+7585269	slk	Ja som bohatý.
+7585270	tur	Büyük olasılıkla buradaki en zengin kişi benim.
+7585271	tur	Muhtemelen buranın en zengini benim.
+7585272	tur	Ejderha mitolojik bir yaratıktır.
+7585273	deu	Wenn ich immer glücklich wäre, wovon sollte ich dann träumen?
+7585274	tur	Hayatta hep mutlu olursam, hayalini kuracak neyim kalır?
+7585275	tur	Ejderler efsanevi yaratıklardır.
+7585276	tur	Ejderha bir masal canavarıdır.
+7585277	tur	İnsanlar gelir ve gider. Ne kalır geriye? Sadece anılar.
+7585278	deu	Menschen kommen und gehen. Das Einzige, was bleibt, sind Erinnerungen.
+7585279	vol	Tomas e Maria tidoms in jul ot.
+7585280	tur	İşler değişir sanmıştım.
+7585281	tur	Bazı şeylerin değişeceğini düşünmüştüm.
+7585282	tur	Her şey değişecek diye düşünmüştüm.
+7585283	slk	Mám pravdu?
+7585284	tur	Tom yunuslarla yüzdü.
+7585285	slk	Mýlim sa?
+7585286	eng	I want to help a lot of people.
+7585287	tur	Bütün dede ve ninelerim ben doğmadan ölmüş.
+7585288	rus	Том звонит матери раз в неделю.
+7585289	rus	Том звонит маме раз в неделю.
+7585290	tur	Dedelerim ve ninelerim daha ben doğmadan vefat etmiş.
+7585291	rus	Дамаск - столица Сирии.
+7585292	rus	Это всем давным-давно известно.
+7585293	eng	I want to watch that movie again.
+7585294	rus	Том делает много глупостей.
+7585295	por	Vou falar com ela sobre isso.
+7585296	slk	Buď trpezlivý!
+7585297	rus	Почему я должен интересоваться, где Том?
+7585298	rus	Том решил в следующие выходные пойти кататься на лыжах.
+7585299	rus	Том решил в следующие выходные поехать кататься на лыжах.
+7585300	rus	Тому надо заплатить триста долларов.
+7585301	rus	Том, вообще-то, не сделал ничего противозаконного.
+7585302	rus	Том слышал, как Мэри с Джоном говорили о нём.
+7585303	epo	Kial mi zorgu, kie troviĝas Tomaso?
+7585305	tur	Burası bizim ülkemiz.
+7585306	slk	Môžem pomôcť?
+7585307	tur	Bu filmi yine izlemek isterim.
+7585308	rus	Том на автобусной остановке, ждёт автобус.
+7585309	rus	Том едет в Австралию двадцатого октября.
+7585310	ces	Možná vám mohu pomoci.
+7585311	rus	Том идёт на автобусную остановку встречать Мэри.
+7585312	hun	Talán segíthetek önnek.
+7585313	por	Deixa o Tom tentar.
+7585314	por	Deixe o Tom experimentar.
+7585315	por	Deixa o Tom experimentar.
+7585316	rus	Том - единственный, кто видел, что случилось.
+7585317	rus	Том - единственный, кто видел, что произошло.
+7585318	rus	Том знает, где меня найти, если я ему понадоблюсь.
+7585319	tur	Tavan arasında ne yapıyorsun?
+7585320	tur	Burada olmandan öyle mutluyum ki!
+7585321	tur	Anneannesiyle yaşıyor.
+7585322	tur	Babaannesiyle birlikte yaşıyor.
+7585323	tur	Yeni saç stilin hoşuma gitti.
+7585324	tur	Yeni saçını beğendim.
+7585325	rus	Я сразу понял, что тебе что-то нужно.
+7585326	rus	Я сразу понял, что ты не просто так позвонил.
+7585327	tur	Tom evde tek başına.
+7585328	rus	Я сразу понял, что ты не просто так звонишь.
+7585329	tur	Tom evde yalnız.
+7585330	slk	Poď rýchlo!
+7585331	ces	Pojď rychle!
+7585332	tur	"Gizlediğin bir şeyler var." "Yo."
+7585333	tur	"Sen bir şeyler saklıyorsun." "Hayır, saklamıyorum."
+7585334	tur	Tom bana bundan hiç bahsetmemişti.
+7585335	rus	Том прочёл все книги из школьной библиотеки.
+7585336	slk	Choď domov!
+7585337	hun	Menj dolgozni!
+7585338	tur	Bu safça düşünceleri kafandan at.
+7585339	kab	Bɣiɣ lemmer yella deg terbaεt-nneɣ.
+7585340	tur	İnanç bir plasebo olsa bile, ona sahip olmayı olmamaya tercih ederim.
+7585341	hun	Ő egy lemezlovas.
+7585342	fra	J'aimerais qu'il soit dans notre équipe.
+7585343	tur	İman bir avuntu da olsa, ona sahip olmayı olmamaya yeğlerim.
+7585344	tur	Tom çok hoş biridir.
+7585345	slk	On je chorý.
+7585346	tur	Tom'un yaşını almış biri olduğunu biliyorum.
+7585347	tur	Nadiren hazır kahve içerim.
+7585348	tur	Hazır kahve çok nadir içerim.
+7585349	tur	Gece çok yağmur yağmış olmalı.
+7585350	tur	Tom hayal kırıklığına uğramış gibi.
+7585351	tur	Arkadaşlarınıza saygılı davranın.
+7585352	tur	Dostlarınıza karşı saygılı olun.
+7585353	tur	Seni beş dakika içinde arayacağım.
+7585354	tur	Seni beş dakikaya tekrar arayacağım.
+7585355	tur	Bunu yapmak her zaman kolay olmuyor.
+7585356	kab	Riɣ lemmer yella deg terbaεt-nneɣ.
+7585357	tur	Kıyamam.
+7585358	tur	Kıyamam sana ya.
+7585359	tur	Ona nasıl kıydınız?
+7585360	tur	Kim kıydı ona?
+7585361	tur	Tom arabada bekliyor, değil mi?
+7585362	por	Me tornei um novo homem.
+7585363	dan	Gid han var på vores hold!
+7585364	epo	Se nur li estus en nia teamo!
+7585365	spa	Tenemos que resolver este problema.
+7585366	spa	No está fácil.
+7585368	por	Imaginei que poderia ser de alguma ajuda.
+7585369	spa	¿Te importa explicarme la regla?
+7585370	spa	Dime cómo llegar a tu casa.
+7585371	spa	Esta es una cámara muy buena.
+7585372	spa	Tom tomó una silla.
+7585373	spa	¿Crees que Tom estaba satisfecho?
+7585374	spa	Él contó una buena broma.
+7585375	kab	D acu ara yaru tura?
+7585376	por	Deixa que eu vou lá.
+7585377	por	Tenho que pegar esse ônibus.
+7585378	por	Acho que vou chegar no trabalho atrasado.
+7585379	por	Eu acho que vou chegar no trabalho atrasado.
+7585380	por	Eu acho que ela está passando mal.
+7585381	por	Eu acho que te devo 5 dólares.
+7585382	por	Acho que ela está passando mal.
+7585383	fra	Que va-t-il écrire maintenant ?
+7585384	por	Acho que te devo 5 dólares.
+7585385	kab	Ad yaru tafyirt.
+7585386	por	Eu acho que vou conseguir dessa vez.
+7585387	por	Acho que vou conseguir dessa vez.
+7585388	por	Eu acho que nunca vou me casar.
+7585389	por	Acho que nunca vou me casar.
+7585390	por	Eu acho que estou começando a gostar de você.
+7585391	fra	Il écrira une phrase.
+7585392	por	Acho que estou começando a gostar de você.
+7585393	por	Eu acho que eu estou começando a gostar de você.
+7585394	por	Acho que eu estou começando a gostar de você.
+7585395	por	Eu acho que esqueci a minha carteira no trabalho.
+7585396	por	Acho que esqueci a minha carteira no trabalho.
+7585397	por	Eu acho que vou ter que comprar um pendrive novo.
+7585398	por	Acho que vou ter que comprar um pendrive novo.
+7585399	por	Eu acho que ela fala espanhol.
+7585400	por	Acho que ela fala espanhol.
+7585401	por	Eu acho que ela está bem.
+7585402	por	Acho que ela está bem.
+7585403	por	Eu acho que ela se casou.
+7585404	por	Acho que ela se casou.
+7585405	por	Eu acho que vou ter que me mudar.
+7585406	hun	Hogyan működik?
+7585407	hun	Mutasd meg, hogyan működik!
+7585408	por	Acho que vou ter que me mudar.
+7585409	eng	Go ahead and ask.
+7585410	por	Eu acho que já vou dormir.
+7585411	eng	Go ahead and ask!
+7585412	mar	तू आमचा कैदी आहेस.
+7585413	mar	तू आमची कैदी आहेस.
+7585414	mar	तुम्ही आमचे कैदी आहात.
+7585415	mar	टॉमच्या किती मुली आहेत?
+7585416	eng	A wife is not a boot. You can't just kick her off.
+7585417	mar	खरं काय ते मी तुला तुझ्या तोंडावर सांगेन.
+7585418	mar	खरं काय ते मी तुम्हाला तुमच्या तोंडावर सांगेन.
+7585419	mar	तू जर्मन शिकत आहेस का?
+7585420	mar	तुम्ही जर्मन शिकत आहात का?
+7585421	mar	त्यांनी त्यांचे निर्णय सोमवारी जाहीर केले.
+7585422	hun	Mindig büszke voltam önre.
+7585423	mar	ट्रेन स्थानक शहराच्या केंद्राला स्थित आहे.
+7585424	hun	Mindig büszke voltam rád.
+7585425	mar	ट्रेन स्टेशन शहराच्या केंद्राला स्थित आहे.
+7585426	mar	टॉम आमची मदत करू शकतो का?
+7585427	mar	टॉम आपली मदत करू शकतो का?
+7585428	mar	आम्ही काय म्हणू?
+7585429	mar	मी जाऊन त्यांना शोधून काढेन.
+7585430	mar	मला अजूनही तो आठवतो.
+7585431	mar	मेरी म्हणते की तिने तसं केलं नाही.
+7585432	hun	Ők nagyon jól gitároznak.
+7585433	mar	आपण काय म्हणू?
+7585434	mar	मंगळाला टेराफॉर्म करणं शक्य आहे का?
+7585435	mar	मला अजूनही त्याची आठवण येते.
+7585436	dan	Du burde ikke grine af hans fejl.
+7585437	mar	आपण काय म्हणू शकतो?
+7585438	eng	From above resounded a deafening cry.
+7585439	mar	आम्ही काय म्हणू शकतो?
+7585440	eng	From above there resounded a deafening cry.
+7585441	mar	मी त्याचं नाव विसरून गेलो आहे.
+7585442	mar	मी त्यांचं नाव विसरून गेलो आहे.
+7585443	mar	सातपर्यंत जेवण तयार नसलं तर मी एखाद्या रेस्टॉरंटमध्ये जाईन.
+7585444	mar	तो अगदी त्याच्या भावासारखा दिसतो.
+7585445	mar	कोकेन विकत घेणं गैरकायदेशीर आहे.
+7585446	mar	ते सगळे टॉमचा पाठलाग करत आहेत.
+7585447	mar	त्या सगळ्या टॉमचा पाठलाग करत आहेत.
+7585448	mar	मी टॉमच्या गर्लफ्रेंडला ओळखत नाही.
+7585449	eng	I wrote her name down so I wouldn't forget it.
+7585450	mar	ती लोकं वेडी आहेत का?
+7585451	mar	मला लग्न होऊन चार वर्ष झाली आहेत.
+7585452	mar	टॉम ऑक्टोबरमध्ये बॉस्टनला जाईल.
+7585453	eng	I wrote down her name so as not to forget it.
+7585454	mar	टॉम चांगला विद्यार्थी होता.
+7585455	mar	असं माझ्याबरोबरही घडलं आहे.
+7585456	mar	त्याने जे केलं ते चुकीचं होतं.
+7585457	eng	That's a reliable approach.
+7585458	mar	साखर संपली आहे.
+7585459	dan	Jeg kender hans navn.
+7585460	mar	टॉम कोणत्या दिशेने गेला?
+7585461	mar	टॉम तुझी मदत का नाही करत?
+7585462	mar	टॉम तुमची मदत का नाही करत?
+7585463	dan	Kan du lide afrikanere?
+7585464	dan	Tom og Mary har drukket.
+7585465	mar	टॉमने उत्तर दिलं नाही.
+7585466	mar	मेरीने आपल्या गाडीतून उडी मारली.
+7585467	dan	Burde du ikke gøre det?
+7585468	dan	Tom fortalte mig, at han ikke vil have det.
+7585469	dan	Tom fortalte mig, at han ikke ønsker det.
+7585470	dan	Jeg ser frem til at besøge din skole.
+7585471	dan	Tom kørte en hånd igennem sit hår.
+7585472	dan	Tom kan få folk til at føle sig værdsat.
+7585473	dan	Jeg troede, at du muligvis har brug for det.
+7585474	por	Acho que já vou dormir.
+7585475	por	Eu acho que ele vai precisar de ajuda.
+7585476	por	Acho que ele vai precisar de ajuda.
+7585477	por	Eu acho que vou precisar de ajuda.
+7585478	por	Acho que vou precisar de ajuda.
+7585479	dan	Jeg tror ikke, at det vil være dumt at gøre det.
+7585480	por	Eu acho que ele não vai vir hoje.
+7585481	por	Acho que ele não vai vir hoje.
+7585482	dan	Hun ville ikke fortælle det til nogen, ville hun?
+7585483	dan	Jeg kan lide at gå en tur i parken.
+7585484	por	Estou me sentindo muito solitário.
+7585485	por	Eu estou me sentindo muito solitário.
+7585486	dan	Han tilbød os sin hjælp.
+7585487	por	Estudar é bom.
+7585488	por	Eu acho que vou começar a estudar japonês.
+7585489	por	Acho que vou começar a estudar japonês.
+7585490	por	Eu acho que vou brincar com eles.
+7585491	por	Acho que vou brincar com eles.
+7585492	dan	Bare prøv det.
+7585493	dan	Du kan ikke få mig til at oversætte.
+7585494	dan	Tom og Mary spurgte mig, om jeg kunne hjælpe dem med deres lektier.
+7585495	dan	Tom har aldrig gjort det før.
+7585496	por	Eu acho que ele vai conseguir.
+7585497	por	Acho que ele vai conseguir.
+7585498	por	Eu acho que vou virar um YouTuber.
+7585499	por	Acho que vou virar um YouTuber.
+7585500	por	Eu acho que hoje vai dar para ir à praia.
+7585501	por	Acho que hoje vai dar para ir à praia.
+7585502	por	Eu acho que vou começar a escrever um livro.
+7585503	por	Acho que vou começar a escrever um livro.
+7585504	por	Eu acho que vou esquecê-la e seguir em frente.
+7585505	por	Acho que vou esquecê-la e seguir em frente.
+7585506	por	Eu acho que hoje eu vou de metrô.
+7585507	por	Acho que hoje eu vou de metrô.
+7585508	por	Eu acho que vou na casa dela hoje.
+7585509	por	Acho que vou na casa dela hoje.
+7585510	por	Eu vou postar isso no Instagram.
+7585511	por	Vou postar isso no Instagram.
+7585512	dan	Deres hjerte sprang af glæde.
+7585513	por	Eu vou falar com ela.
+7585514	por	Vou falar com ela.
+7585515	dan	Vi er allerede 7 milliarder.
+7585516	dan	"Kyssede du hende?" "Ja, jeg kyssede hende."
+7585517	dan	Hun tiltrak mig ved første blik.
+7585518	por	Eu acho que vou de avião.
+7585519	hun	Ne felejtsd el becsukni az ablakokat!
+7585520	por	Acho que vou de avião.
+7585521	por	Eu acho que isso será o suficiente.
+7585522	por	Acho que isso será o suficiente.
+7585523	por	Eu acho que vou ter que ir ao dentista.
+7585524	por	Acho que vou ter que ir ao dentista.
+7585525	por	Eu acho que está caro demais.
+7585526	por	Acho que está caro demais.
+7585527	por	Eu acho que isso está caro demais.
+7585528	por	Acho que isso está caro demais.
+7585529	por	Eu acho que você deveria falar com ela.
+7585530	por	Acho que você deveria falar com ela.
+7585531	por	Eu acho que você deveria falar com ela e contar o que você está sentindo.
+7585532	por	Acho que você deveria falar com ela e contar o que você está sentindo.
+7585533	por	Eu acho que vou me deitar um pouquinho.
+7585534	por	Acho que vou me deitar um pouquinho.
+7585535	por	Eu acho que não vai dar para eu ir hoje.
+7585536	por	Acho que não vai dar para eu ir hoje.
+7585537	deu	Vergiss nicht, das Licht auszumachen.
+7585538	por	Eu acho que vou começar a ler mais.
+7585539	por	Acho que vou começar a ler mais.
+7585540	por	Eu acho que vou passar a fazer vídeos no YouTube.
+7585541	por	Acho que vou passar a fazer vídeos no YouTube.
+7585542	por	Eu acho que não vou à festa.
+7585543	por	Acho que não vou à festa.
+7585544	hun	Ne felejtsd el leoltani a villanyt!
+7585545	por	Acho que não vou hoje.
+7585546	por	Eu acho que é melhor tentarmos fazer isso.
+7585547	por	Acho que é melhor tentarmos fazer isso.
+7585548	por	Eu acho que só preciso repousar um pouco.
+7585549	por	Acho que só preciso repousar um pouco.
+7585550	por	Eu acho que vou convidá-la para ir ao cinema comigo.
+7585551	por	Acho que vou convidá-la para ir ao cinema comigo.
+7585552	kab	Tamdakelt-is tebɣa ad tmerreḥ sbeḥ-a.
+7585553	por	Eu acho que deveríamos voltar.
+7585554	por	Eu acho que nós deveríamos voltar.
+7585555	por	Acho que deveríamos voltar.
+7585556	por	Acho que nós deveríamos voltar.
+7585557	por	Eu acho que vai ficar tudo bem agora.
+7585558	por	Vivemos apenas uma vez.
+7585559	por	Acho que vai ficar tudo bem agora.
+7585560	kab	Tamdakelt-is tebɣa ad tḥewwes sbeḥ-a.
+7585561	por	Nós vivemos apenas uma vez.
+7585562	por	Eu acho que vou parar um pouco.
+7585563	por	Acho que vou parar um pouco.
+7585564	eng	His girlfriend wants to go for a walk this morning.
+7585565	por	Eu acho que vou pedir um aumento.
+7585566	por	Acho que vou pedir um aumento.
+7585567	fra	Sa copine veut aller se balader ce matin.
+7585568	por	Eu acho que devemos ser honestos uns com os outros.
+7585569	kab	D acu i ţ-yuɣen?
+7585570	por	Acho que devemos ser honestos uns com os outros.
+7585571	por	Eu acho que nós devemos ser honestos uns com os outros.
+7585572	por	Acho que nós devemos ser honestos uns com os outros.
+7585573	por	Eu acho que isso vai segurar as coisas por enquanto.
+7585574	por	Acho que isso vai segurar as coisas por enquanto.
+7585575	fra	Qu'a-t-elle?
+7585576	por	Eu acho melhor você falar isso diretamente com ela.
+7585577	por	Acho melhor você falar isso diretamente com ela.
+7585578	por	Eu acho melhor eu comprar um computador novo.
+7585579	fra	Qu'est-ce qui la prend?
+7585580	por	Acho melhor eu comprar um computador novo.
+7585581	kab	Ur nesεi ara adlis.
+7585582	hun	Ne felejts el felhívni!
+7585583	eng	We do not have a book.
+7585584	fra	Nous n'avons pas de livre.
+7585585	deu	Tom und Maria entschlossen sich zu heiraten.
+7585586	kab	Wi t-ilan waya?
+7585587	por	Ela está com medo de perder dinheiro.
+7585589	por	Ele escreveu o próprio nome.
+7585590	hun	Ne felejtsd el felhívni őket!
+7585591	por	Qual é o sentido da existência?
+7585592	kab	Wi t-ilan wedlis-a?
+7585593	hun	Ne felejts el felhívni minket!
+7585594	por	Foi por isso que eu não pude vir ontem.
+7585595	fra	A qui est ce livre ?
+7585596	por	Hanako e Taro foram comer sushi.
+7585597	por	Às vezes depende da sorte.
+7585598	por	Marisol e Johnny estão comendo pizza.
+7585599	hun	Ne felejts el visszahívni!
+7585600	kab	Wi t-ilan wagi?
+7585601	kab	Wi t-nilan wigi?
+7585602	kab	Anwa i d nnuba-s?
+7585603	deu	Tom war mal mit Maria zusammen.
+7585604	kab	Anwa i d-yufan tikti-a?
+7585605	kab	Sɣuṛ anwa i d-yusa tikti-a?
+7585606	deu	Tom ist mit Maria verheiratet.
+7585607	kab	Anwa i d-bab n wedlis-a?
+7585608	kab	Wi t-nilan isebbaḍen-a?
+7585609	deu	Tom fragte Maria, ob sie mit ihm ausgehen wolle.
+7585610	kab	Wi t-nilan warkasen-a?
+7585611	kab	Wi t-nilan yedlisen-a?
+7585612	kab	Wi ţ-ilan texxamt-a?
+7585613	kab	Wi t-ilan usegzawal-a?
+7585614	kab	Wi t-ilan umawal-a?
+7585615	kab	Wi ţ-ilan tbisikliṭ-a?
+7585616	eng	There is a festival at the cities center.
+7585617	kab	Wi t-ilan weqṛab-a?
+7585618	eng	I don't want to stir up old memories.
+7585619	kab	Aqṛab-a wi t-ilan?
+7585620	kab	Anwa i d bab n wedlis?
+7585621	kab	Anwa εni tuɣeḍ yakan?
+7585622	kab	Iwumi?
+7585623	kab	Anwa i d-temlaleḍ?
+7585624	kab	Af anwa i triḍ ad ad-tiniḍ?
+7585625	kab	Wukud i ţmeslayeɣ?
+7585626	kab	Wukud i tseţţeḍ?
+7585627	kab	Iwumi teţmeslayeḍ?
+7585628	kab	Iwumi theddṛeḍ?
+7585629	kab	Wukud i tṛuḥeḍ?
+7585630	kab	Wukud i tṛuḥem?
+7585631	spa	La abreviatura de "Conferencia Consultiva Política del Pueblo Chino" es "CCPPCh".
+7585632	kab	Wukud i tṛuḥemt?
+7585633	kab	Wukud i teddiḍ?
+7585634	kab	Wukud i teddam?
+7585635	kab	Taqbaylit d tameslayt-iw
+7585636	kab	Wukud i teddamt?
+7585637	kab	Anwa yenna-n aya i wa?
+7585638	deu	Was macht Tom denn hier? Den haben wir doch gar nicht eingeladen!
+7585639	deu	„Warum ist Tom denn nicht da?“ – „Weil ich ihn nicht eingeladen habe.“
+7585640	spa	De manera sorprendente, la abreviatura rusa "VSEGEI", que suena como la frase rusa que significa "todos los gays", sólo significa "Instituto Geológico Federal de Rusia".
+7585641	spa	Por la mañana saludo a las personas con "Buenos días". Esa es una abreviatura de "Te deseo un buen día" o "Ten un buen día".
+7585642	deu	Tom hat jedes Buch aus der Schulbibliothek gelesen.
+7585643	kab	Ur tuγalemt ara γer deffir
+7585644	epo	Tomo legis ĉiun libron el la biblioteko de la lernejo.
+7585645	deu	Mir war sofort klar, dass du etwas brauchtest.
+7585646	spa	El rey debe abdicar.
+7585647	spa	El rey abdicó por problemas de salud.
+7585648	spa	El rey fue obligado a abdicar.
+7585649	kab	Dayen ur zmireγ ara ukk ad aruγ.
+7585650	kab	Yettwaḥettem γef Ugellid ad yeknu.
+7585651	spa	Mi bajo vientre se siente hinchado.
+7585652	deu	Ich wusste gleich, dass du nicht einfach nur so angerufen hattest.
+7585653	spa	A Tom le dispararon dos veces en el abdomen.
+7585654	spa	Sami tenía un fuerte dolor en el abdomen.
+7585655	deu	Tom weiß, wo ich zu finden bin, wenn er mich braucht.
+7585656	epo	Tomo scias, kie trovi min, se li min bezonos.
+7585657	spa	Sami la hería una y otra vez, apuñalando a Layla seis veces en el pecho y abdomen.
+7585658	spa	El perro me saludó al correr a toda velocidad y al chocar sus dos patas delanteras contra mi bajo vientre.
+7585659	kab	Ilaq ad segmeγ acebbub-iw.
+7585660	spa	Mientras que la mayoría de embarazos ectópicos ocurren en los trompas de Falopio, también es posible para estos que ocurran en los ovarios, abdomen, o cuello uterino.
+7585661	spa	Tengo gases abdominales.
+7585662	spa	Sami tenía un terrible dolor abdominal.
+7585663	spa	Los dolores abdominales son un problema común.
+7585664	spa	Tom sufre de fuertes dolores abdominales.
+7585665	spa	Los dolores abdominales posoperatorios de Mary eran causados por un instrumento quirúrgico que el cirujano dejó dentro de ella.
+7585666	spa	La dieta y los ejercicios en el suelo, como los abdominales, pueden ayudar a deshacerse de una barriga prominente.
+7585667	spa	Después de recibir tratamiento para una enfermedad estomacal desarrollada al viajar al extranjero, Tom y Mary soportaron semanas de horribles gases abdominales de los antibióticos que les recetaron.
+7585668	spa	Estos son los fundamentos.
+7585669	spa	Es coser y cantar.
+7585670	spa	Bienvenido al equipo administrativo en ABC Japón.
+7585671	spa	Tom fue raptado.
+7585672	spa	Raptaron a Tom.
+7585673	spa	Me raptaron.
+7585674	hun	Horgonyt fel!
+7585675	lat	Verum est.
+7585676	kab	Ma triḍ ad tɣiwleḍ, lḥu weḥd-h; ma triḍ ad tbeɛdeḍ, ddu-d yid-i.
+7585677	fra	Si tu veux aller vite, marche seul; mais si tu veux aller loin, marchons ensemble.
+7585678	eng	If you want to go fast, walk alone; but if you want to go far, let's walk together.
+7585679	kab	Ma tebɣiḍ ad tɣiwleḍ, lḥu iman-ik; ma tebɣiḍ ad tbeɛdeḍ, ddu-d yid-i.
+7585680	fin	Tomi tuntee paljon ihmisiä.
+7585681	kab	Ma ur tessineḍ ara aṭas n tmeslayin, xas susem!
+7585682	kab	Ma tameslayt-ik yiwet, xas kan susem!
+7585683	fra	Si tu n’es pas polyglotte, tais-toi !
+7585684	rus	Люди, которые хотят поделиться с вами своими религиозными взглядами, почти никогда не хотят, чтобы вы делились с ними своими.
+7585685	pol	Dostałem pieniądze na urodziny.
+7585686	deu	Das ist mein absolutes Lieblingslied.
+7585687	deu	Guten Morgen, meine Freunde! Schön, dass es euch gibt!
+7585688	epo	Mi bedaŭras, sed ambaŭ havas malbonan reputacion.
+7585689	tur	Günaydın dostlarım! İyi ki varsınız!
+7585690	tur	İyi ki sen de varsın.
+7585691	deu	Und schön, das es auch dich gibt.
+7585692	deu	Eine schöne Landschaft fasziniert jeden Reisenden.
+7585693	tur	Güzel bir manzara her gezgini büyülüyor.
+7585694	tur	Beni de büyüledi.
+7585695	deu	Es hat mich auch fasziniert.
+7585696	ita	Era un'idea di mio marito.
+7585697	ita	È stata un'idea di mio marito.
+7585698	fra	Tom dit qu'il est malade.
+7585699	deu	Tom sagt, er ist krank.
+7585700	fra	Tom dit qu'il est fatigué.
+7585701	deu	Tom sagt, er ist müde.
+7585702	fra	Je suis content de savoir que vous allez venir.
+7585703	deu	Ich freue mich auf Ihren Besuch.
+7585704	fin	Tomi sanoi, että hän ei voi hyvin.
+7585705	fin	Tomi sanoi, että hänellä on huono olo.
+7585706	ita	Sono bravo a mantenere i segreti.
+7585707	ita	Io sono bravo a mantenere i segreti.
+7585708	ita	Sono brava a mantenere i segreti.
+7585709	ita	Io sono brava a mantenere i segreti.
+7585710	fra	Je me réjouis à l'avance de votre visite.
+7585711	fin	En olisi koskaan arvannut, että Tomi osaisi puhua ranskaa noin hyvin.
+7585712	ita	Damasco è la capitale della Siria.
+7585713	ita	Tom sarà impressionato.
+7585714	ita	Dov'è il mio boomerang?
+7585715	ita	Penso che comprerò a Tom un boomerang.
+7585716	ita	Io penso che comprerò a Tom un boomerang.
+7585717	fin	En juonut paljoa.
+7585718	ita	Penso che comprerò un boomerang per Tom.
+7585719	ita	Io penso che comprerò un boomerang per Tom.
+7585720	fin	Lapset ovat unessa.
+7585721	ita	Tom è decisamente più ricco di me, vero?
+7585722	fin	Muksut ovat unessa.
+7585723	ita	Quella regola non si applica in questa situazione.
+7585724	fin	Oletko nähnyt tuon elokuvan?
+7585725	fin	Oletko sinä nähnyt tuon elokuvan?
+7585726	fin	Ook sä nähny ton leffan?
+7585727	ita	Non ho il suo numero di telefono.
+7585728	ita	Io non ho il suo numero di telefono.
+7585729	ita	Tom non andrà a Boston senza Mary.
+7585730	fra	Je ne m'en lasse pas.
+7585731	fin	Yritä tulla toimeen Tomin kanssa.
+7585732	ita	Sono probabilmente la persona più ricca qui.
+7585733	fin	Tomi puhuu paljon Australiasta.
+7585734	ita	Io sono probabilmente la persona più ricca qui.
+7585735	ita	Sono probabilmente la persona più ricca qua.
+7585736	ita	Io sono probabilmente la persona più ricca qua.
+7585737	ita	Tom chiese a Mary di aiutarlo.
+7585738	ita	Sono felice del modo in cui sono andate le cose.
+7585739	ita	Io sono felice del modo in cui sono andate le cose.
+7585740	fin	Tomi vietti puolet elämästään Bostonissa.
+7585741	fra	Les bêtises c’est comme les impôts, on finit toujours par les payer.
+7585742	fin	Se tekee minut onnelliseksi.
+7585743	fin	Mä tykkään elokuvista tosi paljon.
+7585744	fin	Tomi ei löytänyt mitään.
+7585745	fin	Se oli epärealistista.
+7585746	fin	Onko muita kysymyksiä?
+7585747	ces	Mary zemřela při porodu.
+7585748	ces	Tom nemá lístek.
+7585749	fra	Vous êtes ici chez vous !
+7585750	ces	Tom dal pokyn ke klidu.
+7585751	ces	Tomův otec je policista.
+7585752	ces	Znečištění se dá regulovat.
+7585753	ces	Země byla studená.
+7585754	ces	Tom je velmi statečný.
+7585755	slk	Tom se musí varovat.
+7585756	fin	Tomi ei tiedä, missä hän syntyi.
+7585757	ces	Tom musí být varován.
+7585758	fra	Si je devais recommencer ma vie, je ferais les mêmes erreurs.
+7585759	ces	Bylo jasné, že řidič nebyl dost opatrný.
+7585760	ces	Nemůžu uvěřit, že to Tom řekl.
+7585761	ces	Určitě koupím lístek.
+7585762	ces	Přijel jsem domů autobusem.
+7585763	ita	Dovrei mollare il mio lavoro?
+7585764	ita	Dovrei lasciare il mio lavoro?
+7585765	ita	Dovrei abbandonare il mio lavoro?
+7585766	ita	Dovrei mollare il mio impiego?
+7585767	ita	Dovrei lasciare il mio impiego?
