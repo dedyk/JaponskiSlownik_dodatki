@@ -1,50 +1,3 @@
-3511942	rus	У меня такое ощущение, что я знаю тебя всю жизнь.
-3511943	rus	Вот так Том всегда и поступает.
-3511944	rus	У меня такое ощущение, что я тебя всегда знал.
-3511945	rus	Вы знаете Тома Джексона?
-3511946	ita	Penso che Tom sia già qui.
-3511947	ita	Io penso che Tom sia già qui.
-3511948	rus	Том ведет себя несколько странно в последнее время.
-3511949	ita	Potrò sbagliare, ma per me quest'uomo è innocente.
-3511950	ita	Potrò sbagliare.
-3511951	ita	Potrò sbagliare?
-3511952	ita	Per me quest'uomo è innocente.
-3511953	ita	Era la moglie ad insistere.
-3511954	ita	Era la moglie ad insistere?
-3511955	ita	Non commento.
-3511956	ita	Non commento?
-3511957	ita	Tira la pietra e nasconde la mano.
-3511958	ita	Hai una moglie bellissima e godi a vedere i porno con lei?
-3511959	ita	E se piacesse anche a lei?
-3511960	ita	Tu sei mentalmente perverso.
-3511961	ita	Ci sarai tu.
-3511962	ita	Ci sarai tu?
-3511963	ita	Lui sta negando quello, quando invece pare che dalle perquisizioni del suo PC emerga il contrario.
-3511964	ita	Complimenti alla signora!
-3511965	ita	È simpatico e fedele.
-3511966	ita	È simpatico e fedele?
-3511967	ita	La mia è un'opinione e sono libera di esprimerla.
-3511968	ita	In effetti tra i due sceglier non saprei.
-3511969	ita	Tolgono una serva e mettono un maggiordomo.
-3511970	ita	Tolgono una serva e mettono un maggiordomo?
-3511971	ita	Distrugge tutto quello che tocca.
-3511972	ita	Distrugge tutto quello che tocca?
-3511973	ita	Infatti lo hanno cacciato.
-3511974	ita	Meno male che non si vede più!
-3511975	ita	Le persone valgono davvero molto poco!
-3511976	ita	Le persone valgono davvero molto poco?
-3511977	ita	È la convenienza che fa girare il mondo!
-3511978	ita	È la convenienza che fa girare il mondo?
-3511979	deu	Tom benimmt sich in letzter Zeit ein wenig seltsam.
-3511980	deu	Tom arbeitete früher in Boston.
-3511981	deu	Tom hat früher in Boston gearbeitet.
-3511982	nld	Hoeveel tijd blijft er nog over?
-3511983	deu	Ich kann morgens kein Obst essen.
-3511984	deu	Dieses Wort hat drei Silben.
-3511985	epo	Ĉi tiu vorto havas tri silabojn.
-3511986	deu	Tom ist vor einem Monat nach Boston gefahren.
-3511987	deu	Tom hatte früher einen Sportwagen.
-3511988	deu	Tom wusste noch immer nicht, was er tun sollte.
 3511989	epo	Tomo ankoraŭ ne sciis, kion fari.
 3511990	ces	Tom pořád ještě nevěděl, co má dělat.
 3511991	ces	Dříve měl Tom sportovní vůz.
@@ -3636,8 +3589,11 @@
 3515792	deu	Kannst du morgen anfangen?
 3515793	rus	Что в корзине?
 3515794	rus	Что у тебя на тарелке?
+3515795	por	Ele foi a Boston de carro.
 3515796	ukr	Просто дай мені шанс, гаразд?
+3515797	por	O problema é que eu não tenho dinheiro comigo.
 3515798	ukr	Це мене не цікавить.
+3515799	por	Não olhe os pobres com desprezo.
 3515800	ukr	Я все це вже чув.
 3515801	rus	Я хотел бы извиниться за сегодняшнее утро.
 3515802	por	Estou procurando um trabalho fixo.
@@ -3648,10 +3604,15 @@
 3515809	rus	Пятница тринадцатое считается несчастливым днём.
 3515810	ukr	Я хочу потиснути тобі руку.
 3515812	rus	"Пятница 13-е" - это американский фильм ужасов.
+3515813	por	Ela é uma cantora.
+3515814	por	Onde é o restaurante?
+3515816	por	Um idioma nunca é o suficiente.
+3515819	por	Você é uma boa professora.
 3515822	rus	Не обращай на Тома внимания.
 3515823	rus	Не обращайте на Тома внимания.
 3515825	por	Ontem eu comprei sementes de abóbora antes da girafa me morder.
 3515826	rus	Не обращай на Тома внимания. Он слегка тормознутый.
+3515827	por	Ela estava apaixonada por ele.
 3515828	eng	Yesterday I bought pumpkin seeds before the giraffe bit me.
 3515830	hun	Minden nap hatkor kelek.
 3515832	rus	Это не моя кошка.
@@ -3681,6 +3642,7 @@
 3515864	rus	Они меня не поняли.
 3515865	rus	Они мне не верят.
 3515866	rus	Они не местные.
+3515867	por	Amanhã nós vamos viajar de Frankfurt para Munique.
 3515868	rus	Они этого не понимают.
 3515869	por	Ele vai a Leningado hoje à noite.
 3515870	rus	Вы этого не понимаете.
@@ -3689,12 +3651,15 @@
 3515873	por	"Por favor, senta-te", disse ele.
 3515874	rus	Она этого не понимает.
 3515875	rus	Он этого не понимает.
+3515877	por	Você quer que eu dirija?
 3515879	por	Ele fez isso sem que eu soubesse.
 3515880	rus	Я этого не понимаю.
+3515881	por	Não quero brincar com o Tom.
 3515882	por	Você tem alguma ideia de quem matou o Tom?
 3515883	por	Vós tendes alguma ideia sobre quem matou Tom?
 3515884	por	Talvez eu seja seu único amigo.
 3515885	por	Não quero mais te atormentar.
+3515886	por	O salário é miserável.
 3515887	por	Ele não entendeu a piada dela.
 3515889	por	Eu sei que você pensa que eu sou estúpida.
 3515890	rus	Они меня не знают.
@@ -3849,8 +3814,13 @@
 3516054	ita	Tom probabilmente ha lasciato la sua chitarra di sopra.
 3516055	ita	Tom probabilmente ha lasciato la sua chitarra al piano di sopra.
 3516056	por	Não precisamos de um novo idioma auxiliar, o inglês já cumpre esse papel.
+3516057	por	Você gosta de surpresas?
 3516058	por	Eu não fumo e nem bebo mais.
+3516059	por	Por que Tom não parou?
+3516060	por	Temos muito pouco tempo.
+3516061	por	Eu espero que você reconsidere.
 3516062	deu	Sie tauschten einen Zungenkuss.
+3516063	por	Mostre-me o que você tem!
 3516064	por	Você pode esperar por mim aqui.
 3516065	ita	Non assomiglia a nessuno.
 3516066	ita	Non assomiglia a nessuno?
@@ -10295,7 +10265,6 @@
 3523019	swe	Vi kommer att ta reda på vem som dödade Tom.
 3523020	swe	Han talar portugisiska.
 3523021	vol	Tom löfom umo dogis ka katis.
-3523022	swe	Är du på Facebook?
 3523023	swe	Är ni på Facebook?
 3523024	rus	Алло! Позовите, пожалуйста господина Джонсона.
 3523025	epo	Saluton! Voku sinjoron Ĝonson, mi petas.
@@ -11380,7 +11349,7 @@
 3524170	nld	Dat is zijn persoonlijke website.
 3524171	deu	Nichts davon bedeutet mir etwas.
 3524172	nld	Wanneer hij er is, starten we.
-3524173	nld	Het lijkt er op dat Tony een dure auto heeft gekocht.
+3524173	nld	Het lijkt erop dat Tony een dure auto heeft gekocht.
 3524174	nld	Er is niets meer beangstigend dan de dood.
 3524175	nld	Hij is niet dezelfde als voorheen.
 3524176	epo	Tomo ne fidas la policon.
@@ -14607,7 +14576,7 @@
 3527645	mar	तुझा बॉयफ्रेंड किती वर्षांचा आहे?
 3527646	hun	Bocsánat, nem értem.
 3527647	rus	Том живёт в Гренобле.
-3527648	mar	काय खरं काय खोटं हे साफ करू या.
+3527648	mar	काय खरं काय खोटं हे साफ करूया.
 3527649	tur	O yaratıcılıktan yoksundur.
 3527650	epo	Mi elŝiris la lancon el la manoj de la samurajo kaj mortigis la ŝogunon kun unu piko en ties koron.
 3527651	mar	चावी सोड.
@@ -22908,7 +22877,7 @@
 3536444	eng	That's precisely why I need to meet Tom.
 3536445	eng	That's why I need to meet Tom.
 3536446	eng	Where on earth did you meet Tom?
-3536447	epo	La akvo estas plej bona je la fonto.
+3536447	epo	La akvo estas plej bona ĉe la fonto.
 3536448	rus	Мы ждём, что вы выполните то, что однажды пообещали.
 3536449	rus	Вы ещё даже не пробовали.
 3536450	rus	Ты ещё даже не пытался.
@@ -26727,7 +26696,7 @@
 3540431	ces	Prodává vůbec ještě někdo olovnatý benzín?
 3540432	rus	Возможно, ты можешь сказать мне, где я могу найти Тома.
 3540433	ces	Dnes jsem koupil benzín za čtyřicet dolarů.
-3540434	ukr	Хто працюе у недiлю ввечорi?
+3540434	ukr	Хто працює у недiлю ввечорi?
 3540435	ces	Cena benzínu je tak vysoká, že velké auto si koupit nemůžeme.
 3540436	rus	Кто работает в воскресенье вечером?
 3540437	rus	Где же ты всё-таки нашёл Тома?
@@ -29958,7 +29927,7 @@
 3543835	rus	Я готов вам помочь.
 3543836	rus	Его речь меня очень вдохновила.
 3543838	rus	Меня зовут Салли.
-3543840	nld	Veel jonge docenten die les geven op het hbo verlaten binnen drie jaar hun werkgever.
+3543840	nld	Veel jonge docenten die lesgeven op het hbo verlaten binnen drie jaar hun werkgever.
 3543841	rus	Том хочет жениться.
 3543842	fra	Tom veut se marier.
 3543844	rus	Не трогайте меня!
@@ -31915,7 +31884,7 @@
 3545913	heb	יש בעולם יותר משבעת אלפים שפות.
 3545914	heb	יש יותר מ-7,000 שפות בעולם.
 3545915	heb	יש בעולם יותר מ-7,000 שפות.
-3545916	fra	Si vous parlez à un homme dans un language qu'il comprend, ça lui entre dans le crâne. Si vous lui parlez dans sa langue, ça lui va au cœur.
+3545916	fra	Si vous parlez à un homme dans un langage qu'il comprend, ça lui entre dans le crâne. Si vous lui parlez dans sa langue, ça lui va au cœur.
 3545917	eng	The arrival of the statuesque woman in her tailored red dress occasioned much comment at the funeral.
 3545918	eng	His expulsion from university was occasioned by his academic misconduct.
 3545919	eng	Tom's failure to pay rent on time had twice occasioned a penalty. Then the apartment manager warned that if it were to happen again, he would serve Tom with a ten-day notice of eviction.
@@ -46880,7 +46849,6 @@
 3561749	deu	Tom wünschte, er hätte etwas zu tun.
 3561750	tur	Bu onun şahsi internet sitesidir.
 3561751	ina	Le musica es un impulso del anima.
-3561752	rus	До экзаменов остаётся месяц. Я должен учиться с усердием.
 3561753	deu	Tom versuchte, in das verschlossene Zimmer zu gelangen.
 3561754	tur	Kan gördüğüm zaman, kendimi kötü hissederim.
 3561755	eng	What is the scale of this map?
@@ -49388,7 +49356,7 @@
 3564351	epo	Mi devintus surmeti mantelon.
 3564352	tur	Bu iyi bir tercih.
 3564353	tur	Ders nasıldı?
-3564354	fra	C'est une bonne choix.
+3564354	fra	C'est un bon choix.
 3564355	tur	Şimdi, size nasıl yardım edebilirim?
 3564356	tur	Şimdi, size yardım etmek için benim sıram.
 3564357	tur	Şimdi size nasıl yardım edebiliriz?
@@ -49998,3 +49966,35 @@
 3564984	deu	Schickst du Tom weg, oder soll ich?
 3564985	deu	Ich habe jede Menge Spaß.
 3564986	deu	Toll! Das ist großartig!
+3564987	deu	Gut, das reicht.
+3564989	spa	¿Quién los invitó?
+3564990	spa	¿Cómo puedes ser tan indiferente por el problema de tu esposa?
+3564991	spa	Casi me mataste.
+3564992	spa	Sabía quién era él.
+3564993	spa	Ya dormí esta semana.
+3564994	nld	Gedurende de week lees ik het nieuws in het Frans.
+3564995	eng	During the week I read the news in French.
+3564996	deu	Viele Unfälle kommen durch Unachtsamkeit zustande.
+3564997	eng	Chicago's population is a lot bigger than that of Boston.
+3564998	nld	De inwoners werden kwaad op de politici.
+3565000	nld	Bijvoorbeeld, zij zijn niet blij om klanten in de winkel te helpen.
+3565001	eng	For example, they are not happy to help clients in the store.
+3565002	deu	Die Einwohnerzahl von Chicago ist viel größer als die von Boston.
+3565003	nld	Ik geef een presentatie voor mijn klasgenoten.
+3565004	hun	Péter ajánlotta, hogy Japánba menjünk nyaralni.
+3565005	hun	Bagdadban pokolgép robbant reggel.
+3565006	hun	Ma a pénteki menetrend érvényes.
+3565007	eng	Nothing is so difficult that it cannot be studied.
+3565008	hun	Ingyen ebédet osztanak ma Budapesten.
+3565009	hun	A gyerekek a környező településekről érkeztek.
+3565010	hun	Izomlázam lett a tegnapi edzés után.
+3565011	hun	A társulatunkat meghívták Japánba.
+3565012	hun	Az első előadásunk nagy sikert aratott.
+3565013	hun	Pétert választották az év dolgozójának.
+3565014	hun	Piroska nem jött velünk korcsolyázni, mert megfázott.
+3565015	tur	Kendimi yeni doğmuş gibi hissediyorum.
+3565016	hun	Piroska ki sem mozdult a lakásból.
+3565017	eng	Tom is a sexologist.
+3565018	eng	Mary studied sexology.
+3565019	hun	A vihar miatt, félbe kellett szakítani a versenyt.
+3565020	hun	Egész nap vártam a hívásodat.
