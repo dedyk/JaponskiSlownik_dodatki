@@ -1,19 +1,3 @@
-1955128	eng	I can't watch.
-1955129	eng	You can't wear that hat to school.
-1955130	eng	I can't wear this old suit to that party.
-1955131	eng	You can't wear those clothes to work.
-1955132	eng	I can't wear those clothes. They don't fit.
-1955133	eng	Tom can't whistle.
-1955134	eng	You can't win all the time.
-1955135	eng	We can't win.
-1955136	eng	I can't work for you anymore.
-1955137	eng	I can't work for you.
-1955138	eng	I can't work like this.
-1955139	eng	Tom can't work tonight.
-1955140	eng	We can't work under these conditions.
-1955141	eng	I can't work with Tom.
-1955142	eng	You can't worry about me anymore.
-1955143	eng	We can't worry about that right now.
 1955144	eng	You can't yell at me like that.
 1955145	eng	You can't yell at Tom.
 1955146	eng	What can't you do?
@@ -1345,7 +1329,7 @@
 1956667	deu	Ich habe nur eine Frage.
 1956668	deu	Ich habe nur eine weitere Frage an dich.
 1956669	deu	Ich habe nur eine weitere Frage an Sie.
-1956670	epo	Kion vi volas demandi min?
+1956670	epo	Pri kio vi volis demandi min?
 1956671	deu	Ich möchte nur noch um einen weiteren Gefallen bitten.
 1956672	deu	Ich habe nur einen einzigen Bruder.
 1956673	deu	Ich habe nur einen Bruder.
@@ -3808,7 +3792,7 @@
 1959224	eng	Give peace a chance!
 1959225	spa	¡Dale a la paz una oportunidad!
 1959226	epo	Tom iris al Bostono por vidi Mary.
-1959228	jpn	私の話を聞いているの？
+1959228	jpn	私の話聞いてる？
 1959229	jpn	悲しいですか。
 1959230	epo	Unue, la modo ŝanĝiĝas rapide.
 1959231	spa	¿Eres de por aquí?
@@ -4557,7 +4541,7 @@
 1960030	epo	Eĉ post la parta reformo en la jaro 1917, kies celo estis transformi tiun rimedon de klasa skribo en rimedon de amasa klereco, la rusa alfabeto restas alfabeto de la naci-burĝa grand-rusa ideologio.
 1960031	dan	Jeg bad hende om råd.
 1960032	swe	Kragen sitter åt för hårt runt min hals.
-1960033	dan	Det spiller ingen rolle hvilket hold der vinder spillet.
+1960033	dan	Det spiller ingen rolle hvilket hold der vinder kampen.
 1960034	swe	Ljug aldrig igen.
 1960035	swe	Tom förväntade sig inte riktigt att Mary skulle svara på hans fråga.
 1960036	swe	Du borde verkligen inte dricka kranvattnet.
@@ -7251,7 +7235,7 @@
 1962874	swe	Just då stannade bussen.
 1962875	swe	Jag minns inte hans förklaring.
 1962876	swe	Vems cykel är det där?
-1962877	swe	Han ögon är blåa.
+1962877	swe	Hans ögon är blåa.
 1962878	fra	Ce livre vous apportera plus de tracas que d'aide.
 1962879	swe	Han har redan ätit.
 1962880	swe	Hon har redan ätit.
@@ -10447,8 +10431,7 @@
 1966227	fra	Vous ne pouvez pas avoir le poste.
 1966228	fra	Tu ne peux pas avoir la place.
 1966229	fra	Vous ne pouvez pas avoir la place.
-1966231	swe	Jag är så bråttom att jag inte kan hjälpa Er.
-1966232	swe	Jag är så upptaget att jag inte kan hjälpa Er.
+1966231	swe	Jag har så bråttom att jag inte kan hjälpa er.
 1966233	swe	Skulle jag kunna få lite mer mjölk i kaffet, tack.
 1966234	swe	Han är ingen poet, men en författare.
 1966235	swe	Skulle ni vara så snäll och öppna dörren åt mig?
@@ -12723,7 +12706,6 @@
 1968661	epo	La operacio bone sukcesis.
 1968662	swe	Under många år vände han på vartenda öre för att kunna spara pengar.
 1968663	swe	Hon jobbade flitigt för att kunna tjäna mycket pengar.
-1968664	swe	Det är dags att gå och lägg sig.
 1968665	swe	Jag är italiensk.
 1968666	rus	Мой младший брат еще не ходит в школу.
 1968667	deu	Die Chemo belastet den Körper sehr.
@@ -13112,7 +13094,7 @@
 1969063	swe	Tom dök aldrig upp på arbetet i dag.
 1969064	epo	Usono kaj Britujo havas malsamajn gestolingvojn. Ankaŭ la Meksika Gestolingvo distingiĝas de la Hispana Gestolingvo.
 1969065	swe	Säg Mexiko och tankar går till tacos.
-1969068	swe	För länge sedan fanns här en bra.
+1969068	swe	För länge sedan fanns här en bro.
 1969069	epo	Kiu estas la hodiaŭa rekomendo?
 1969070	swe	För en lång tid sedan fanns här en bro.
 1969071	swe	Jag känner inte den här staden så väl.
@@ -24671,7 +24653,7 @@
 1981202	dan	Han smed en sten i søen.
 1981203	dan	Jeg har ikke råd til denne bog.
 1981204	dan	Du er et godhjertet barn.
-1981205	dan	Så du burde være kommet.
+1981205	dan	Så de burde være kommet.
 1981206	dan	Hun beder om det umulige.
 1981209	dan	Hun rådede ham til at tage imod pengene.
 1981210	dan	De skændtes.
@@ -26208,7 +26190,7 @@
 1982825	spa	¿Esto está hecho en Suiza?
 1982826	tur	Elektrik birkaç dakika içerisinde tekrar geldi.
 1982827	deu	Du wirst nicht gezwungen es zu glauben, aber es ist trotzdem die Wahrheit.
-1982828	deu	Obwohlich zu viel schlafe, bin ich immer müde.
+1982828	deu	Obwohl ich zu viel schlafe, bin ich immer müde.
 1982829	spa	Vivir tan cerca de la estación es conveniente.
 1982830	tur	Elektrik kesildi fakat şimdi geri geldi.
 1982831	nno	Det er imot mine prinsipp.
@@ -26988,7 +26970,7 @@
 1983649	deu	Ich tu mich leichter damit. Also mach ich's.
 1983650	heb	הייתי רוצה לשאול שאלה.
 1983651	deu	Das darfst du nicht auf die leichte Schulter nehmen!
-1983652	eng	My father told me not to read a book in my bed.
+1983652	eng	My father told me not to read a book in bed.
 1983653	heb	אני רוצה להזמין אותו דבר.
 1983654	deu	Es fällt mir leicht, mich in andere Menschen hineinzudenken.
 1983655	deu	Der Bürgerkrieg in Griechenland endete.
@@ -28482,7 +28464,7 @@
 1985213	nob	Tom skulle ønske han ikke måtte hjelpe til med husarbeidet.
 1985214	epo	Tiu letero enhavis ne nur la demandojn de Tom, sed ankaŭ liajn esperojn kaj sopirojn.
 1985215	deu	Maria nahm ein leeres weißes Blatt aus einem Schubfach.
-1985216	deu	Maria prenis el tirkesto malplenan blankan paperfolion.
+1985216	epo	Maria prenis el tirkesto malplenan blankan paperfolion.
 1985217	nno	Tom skulle ynskje han ikkje måtte hjelpe til med husarbeidet.
 1985218	nob	Tom vil garantert dra til Boston i sommer.
 1985219	deu	Maria ging zum Tisch und setzte sich auf einen bequemen Drehstuhl.
@@ -29722,7 +29704,7 @@
 1986522	deu	Wollen es alle?
 1986523	ber	Tisednan akk kifkif-itent.
 1986524	deu	Hat er Geld?
-1986525	ber	Ɣas ur lliɣ ḥemmleɣ tusnakt, yella yessefk fell-i ad lemdeɣ ixwarizmen.
+1986525	ber	Ɣas ur lliɣ ḥemmleɣ tusnakt, yella yessefk fell-i ad lemdeɣ ilugaritmen.
 1986526	ber	Ɣas ur lliɣ ḥemmleɣ tusnakt, terra-iyi tmara ad lemdeɣ ixwarizmen.
 1986527	fra	Cette route est fermée aux voitures.
 1986528	ber	Ɣas ur lliɣ ḥemmleɣ tusnakt, maca terra-iyi tmara ad ɣreɣ ixwarizmen.
@@ -30671,7 +30653,6 @@
 1987510	swe	Sommaren är över.
 1987511	swe	I morgon ska jag gå och shoppa.
 1987512	rus	Том должен научиться расслабляться.
-1987513	swe	För länge sedan fanns här en bro.
 1987514	swe	För länge sedan fanns det en bro här.
 1987515	heb	בכל פעם שאני מתבונן בתצלום הזה, אני נזכר בזמנים הטובים שעברו עלי בכפר.
 1987516	jbo	na djica gi'onai na kakne
@@ -32502,7 +32483,7 @@
 1989415	heb	השארו רגע לשבת.
 1989416	heb	אל תדאג, אני הולכת לבד.
 1989417	heb	מותר לי לשאול מה שמך?
-1989418	eng	Kick it out, it's a witchcraft!
+1989418	eng	It's witchcraft!
 1989419	heb	בבקשה, הנה כרטיס הביקור שלי.
 1989420	spa	Todavía no escribo bien chino.
 1989421	epo	Ŝotu ĝin, ĉar ĝi estas makumbo!
@@ -45687,7 +45668,7 @@
 2003569	spa	Tom continuó pitando.
 2003570	spa	Tom continuó haciendo sonar la bocina.
 2003571	spa	Está medicina no me hace ningún bien.
-2003572	spa	Está medicina no me sienta nada bien.
+2003572	spa	Esta medicina no me sentó nada bien.
 2003573	spa	Nunca tuve la oportunidad de usarlo.
 2003574	epo	Kial atendi Kristnaskon?
 2003575	spa	Este tratamiento no me hace ningún bien.
@@ -49998,3 +49979,22 @@
 2008253	heb	הוא נח לרגע.
 2008254	heb	פגשתי בה במקרה בתחנת אוטובוס.
 2008255	tur	Dar görüşlü birisin.
+2008256	heb	פגשתי אותה באקראי בתחנת אוטובוס.
+2008257	tur	Sen bir kadınsın.
+2008258	heb	אבא אוכל מעט פירות.
+2008259	heb	אבא לא אוכל הרבה פירות.
+2008260	tur	İnanılmazsın.
+2008261	heb	אני יכול לכבות את האור?
+2008262	tur	Benim kahramanımsın.
+2008263	heb	אפשר לכבות את האור?
+2008264	epo	Lasu nin trankvilaj!
+2008265	tur	Sen özelsin.
+2008266	heb	המנוע נדם.
+2008267	heb	המנוע נעצר.
+2008268	tur	Sen erkeksin.
+2008269	epo	Eĉ se vi havas nenion riproĉindan, vi devus senkulpigi vin.
+2008270	tur	Onu yaptın!
+2008272	tur	Allan bir şairdir.
+2008274	epo	La francio estas unu el la plej raraj elementoj.
+2008275	tur	Sen Çinli misin?
+2008276	deu	Sei nicht so ungestüm!
