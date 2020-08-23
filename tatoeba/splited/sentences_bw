@@ -1,43 +1,3 @@
-2543758	eng	I was swamped with homework.
-2543759	eng	I was right in front of Tom.
-2543760	eng	I was pretty good, wasn't I?
-2543761	eng	I was out getting groceries.
-2543762	eng	I was off duty at that time.
-2543763	eng	I was never good at grammar.
-2543764	eng	I was never good at figures.
-2543765	eng	I was lucky to get this job.
-2543766	eng	I was lucky to get that job.
-2543767	eng	I was just talking with Tom.
-2543768	eng	I was just pulling your leg.
-2543769	eng	I was just messing with you.
-2543770	eng	I was just following orders.
-2543771	eng	I was in Australia with Tom.
-2543772	eng	I was here when you came in.
-2543773	eng	I was going to vote for Tom.
-2543774	eng	I was going to surprise you.
-2543775	eng	I was going to do it myself.
-2543776	eng	I was going to do it anyway.
-2543777	eng	I was going over Tom's file.
-2543778	eng	I was away for five minutes.
-2543779	eng	I was asked to deliver this.
-2543780	eng	I was afraid you'd say that.
-2543781	eng	I was afraid you'd ask that.
-2543782	eng	I want to wish you the best.
-2543783	eng	I want to talk to the press.
-2543784	eng	I want to be with my family.
-2543785	eng	I used to sing you to sleep.
-2543786	eng	I used to sing Tom to sleep.
-2543787	eng	I used to pretend I was Tom.
-2543788	eng	I used to have one of those.
-2543789	eng	I used to do the same thing.
-2543790	eng	I used to be a teacher here.
-2543791	eng	I understand what you meant.
-2543792	eng	I understand everything now.
-2543793	eng	I tried calling your office.
-2543794	eng	I took Tom's blood pressure.
-2543795	eng	I took care of that for you.
-2543796	eng	I told you Tom didn't do it.
-2543797	eng	I told you not to come here.
 2543798	eng	I told you it was dangerous.
 2543799	eng	I told you I couldn't do it.
 2543800	eng	I told you I could help you.
@@ -660,7 +620,7 @@
 2544417	eng	I thought you had fixed it.
 2544418	eng	I thought we were partners.
 2544419	eng	I thought we said tomorrow.
-2544420	eng	I thought Tom had got lost.
+2544420	eng	I thought Tom had gotten lost.
 2544421	eng	I thought Tom had given up.
 2544422	eng	I thought Tom had blown it.
 2544423	eng	I thought this was settled.
@@ -22988,7 +22948,7 @@
 2567975	heb	האם הגעתם לכדי החלטה?
 2567976	heb	הבא נשבה כולנו בצוותא ונעלעל יחדיו בירחוני תרבות והגות.
 2567977	por	Você seria capaz de me acusar?
-2567978	jpn	トムはメアリーを避た。
+2567978	jpn	トムはメアリーを避けた。
 2567979	por	Os manifestantes acusaram a polícia de abuso.
 2567980	deu	Das Kind wurde mit Kaiserschnitt entbunden.
 2567981	heb	אני לא מוצא את הגרב השנייה.
@@ -26226,7 +26186,7 @@
 2571364	bre	Hag ur zoo a zo e Boston ?
 2571365	epo	Tom ŝatas neĝon.
 2571366	epo	Tom ŝatas infanojn.
-2571367	epo	Tom preparis la matenmanĝon.
+2571367	epo	Tomo preparis la matenmanĝon.
 2571368	rus	В мой ноутбук встроен кардридер.
 2571369	bre	Lezit ac'hanomp d'ober hol labour.
 2571370	rus	В моём ноутбуке есть встроенный кардридер.
@@ -37054,7 +37014,7 @@
 2582842	ido	Tu esas leda.
 2582843	heb	המותג המוביל של משקאות מוגזים ברוב מדינות העולם הוא קוקה-קולה.
 2582844	heb	המותג המוביל של משקאות תוססים ברוב מדינות העולם הוא קוקה-קולה.
-2582845	epo	Krizo povas esti produktema situacio. Oni nur prenu ĝin kun kromgusto de katastrofo.
+2582845	epo	Krizo povas esti produktema situacio. Oni nur forigu de ĝi la kromguston de katastrofo.
 2582846	ido	Tu esas tre bela.
 2582847	rus	Ты идёшь со мной.
 2582848	rus	Вы идёте со мной.
@@ -49998,3 +49958,43 @@
 2596545	rus	Что-то, должно быть, произошло.
 2596546	rus	Он был очень счастлив.
 2596547	rus	Он был неимоверно счастлив.
+2596548	rus	Он был крайне счастлив.
+2596549	rus	Они пытались.
+2596550	rus	Не подходи ко мне. Ты омерзителен.
+2596551	rus	Не приближайся ко мне. Ты мерзок.
+2596552	rus	Мария воспользовалась метро, потому что её машина сломалась.
+2596553	rus	Ты почему это до сих пор не спишь?
+2596554	epo	Maria uzis la metroon, ĉar ŝia aŭto paneis.
+2596555	rus	Почему ты до сих пор не спишь?
+2596556	rus	Сейчас половина четвёртого.
+2596557	rus	Сейчас полчетвёртого.
+2596558	deu	Maria benutzte die U-Bahn, weil ihr Auto kaputt war.
+2596559	rus	Она клиент нашей фирмы.
+2596560	deu	Sie ist Kunde unserer Firma.
+2596561	deu	Sie ist Kundin unserer Firma.
+2596562	epo	Ŝi estas kliento de nia firmao.
+2596563	deu	Das macht mir keine Sorgen.
+2596564	eng	When you have food allergies, eating out is difficult, isn't it?
+2596565	ita	Quando si hanno delle allergie alimentari, mangiare fuori è difficile, vero?
+2596566	ces	To mi starosti nedělá.
+2596567	rus	В столице пятнадцать часов. В Петропавловске-Камчатском - полночь.
+2596568	rus	Короткие юбки больше не в моде.
+2596569	tur	Irmağın kaynağını bulmak için bütün gün tırmandılar.
+2596570	eng	They climbed all day to find the source of the river.
+2596571	ces	Čarodejnice lítají na košťatech.
+2596572	ita	Mi sembra che sia onesto.
+2596573	ita	Mi sembra che lui sia onesto.
+2596574	ita	A me sembra che sia onesto.
+2596575	ita	A me sembra che lui sia onesto.
+2596576	rus	Он британский учитель, который учит нас английскому языку.
+2596577	ita	Le streghe possono volare sulle scope.
+2596578	ita	Le streghe riescono a volare sulle scope.
+2596579	ita	È un insegnante britannico che ci insegna inglese.
+2596580	ita	Lui è un insegnante britannico che ci insegna inglese.
+2596581	ita	È un professore britannico che ci insegna inglese.
+2596582	ita	Lui è un professore britannico che ci insegna inglese.
+2596583	ita	È un professore britannico che ci insegna l'inglese.
+2596584	ita	Lui è un professore britannico che ci insegna l'inglese.
+2596585	ita	È un insegnante britannico che ci insegna l'inglese.
+2596586	ita	Lui è un insegnante britannico che ci insegna l'inglese.
+2596587	ita	Solo quattro cavalli hanno partecipato alla corsa.
