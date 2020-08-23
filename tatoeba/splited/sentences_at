@@ -1,23 +1,3 @@
-996167	epo	Li timas malsaniĝon.
-996168	por	Este menino fala como se fosse um adulto.
-996169	por	Este garoto fala como se fosse um adulto.
-996170	por	Um amigo de verdade teria me ajudado.
-996171	por	O que você faria em meu lugar?
-996172	ita	Chi è il tuo referente?
-996173	por	Ela não fala japonês em casa.
-996174	por	Temos a mesma idade.
-996175	por	Não é um brinquedo!
-996176	ita	Mio nonno è un reduce di guerra.
-996177	deu	Wirklichkeit und Phantasie sind schwer zu unterscheiden.
-996178	por	Os ricos se enriquecem e os pobres se empobrecem.
-996179	ita	Devo redigere un rapporto.
-996180	por	Esta história é crível.
-996181	por	Por isso não vim ontem.
-996182	ita	Questo è un paese remoto.
-996185	por	Não havia ninguém na sala.
-996186	por	Não tinha ninguém na sala.
-996187	por	O que significa URSS?
-996188	por	A terceira estrela pertencia ao rei.
 996189	por	Pergunto-me de quem serão as tesouras.
 996190	por	Devo completar este formulário agora?
 996191	por	Conheço muito bem o presidente do clube.
@@ -5981,7 +5961,6 @@
 1002446	spa	No os gusto.
 1002448	spa	No le gusto.
 1002451	spa	Si yo muriera, ¿quién se ocuparía de mis hijos?
-1002452	spa	Simplemente con escuchar "te amo" me hace sentir más fuerte.
 1002453	spa	Te he amado desde la primera vez que te vi.
 1002454	rus	Мне пришлось идти домой пешком.
 1002455	spa	Pensaba que él te amaba, pero parece ser que él amaba a otra.
@@ -6081,7 +6060,6 @@
 1002556	pol	Lubię podróżować.
 1002559	pol	Nie lubicie mnie.
 1002560	pol	Nie lubisz mnie.
-1002561	pol	Samo tylko usłyszenie „kocham cię” sprawia, że czuję się silniejszy.
 1002562	pol	Kocham cię od pierwszego wejrzenia.
 1002563	pol	Trzeba ci wiedzieć, że moją największą obawą w życiu jest to, że ludzie zorientują się, że jestem ubogi.
 1002564	pol	Trzeba ci wiedzieć, że kiedy się irytuję, robię się spokojny.
@@ -13113,7 +13091,7 @@
 1009981	heb	אני שמח לקבל את פניכם על האונייה.
 1009982	heb	אני שמח לקבל את פניכם על סיפון המטוס.
 1009983	epo	Se mi havus hundon, mi nomus ĝin Tom.
-1009984	epo	Hodiaŭ vi fariĝas kvar jarojn.
+1009984	epo	Hodiaŭ vi fariĝas kvar-jaraĝa.
 1009985	heb	הספרייה עומדת להיסגר.
 1009986	heb	רכבת פעם על סוס?
 1009987	epo	Ĉu vi iam rajdis ĉevalon?
@@ -13453,7 +13431,7 @@
 1010360	ile	Nequí venit!
 1010362	ido	Il konocas ni tre bone.
 1010363	ile	Il conosse nos tre bon.
-1010364	ido	Quon tu diris?
+1010364	ido	Quon tu dicis?
 1010365	ido	Me projetas laborar en bordelo.
 1010366	ido	La pomo ankore ne esas matura.
 1010367	ile	Li pom ancor ne es matur.
@@ -18854,7 +18832,7 @@
 1016098	epo	Mi evitigas la detalojn al vi.
 1016099	epo	Ŝi ankaŭ ne aŭskultas la patrinon de sia edzo.
 1016100	epo	Ĉu ci bezonas folion de papero por skribi leteron ?
-1016101	epo	Plibone ke vi ĉesu kuiri ovojn.
+1016101	epo	Plibone se vi ĉesu kuiri ovojn.
 1016102	epo	Estas frenezulejo ĉi tie!
 1016103	epo	Vi devas demandi la veran nomon de tiu afero.
 1016104	epo	Li nenion diras esperante al nia filino.
@@ -18874,7 +18852,7 @@
 1016118	epo	La urbo estas inter montaro kaj larĝa rivero.
 1016119	epo	Bedaŭrinde, unu parto de la horloĝo estas rompita.
 1016120	epo	Kie estas la necesejo? Maldekstre.
-1016121	epo	La malnova ŝipo estis plena da fiŝoj.
+1016121	epo	La malnova ŝipo estis plena de fiŝoj.
 1016122	epo	Estas io malantaŭe, ĉu ne?
 1016123	epo	Ŝi deturnis sin de mi por kaŝi larmon, kiu ekfluis sur ŝia vango.
 1016124	epo	La homoj ofte falas ĉirkaŭ tiu ĉi vilaĝo.
@@ -19983,7 +19961,7 @@
 1017326	fra	Vous avez perdu, n'est-ce pas ?
 1017327	rus	Я упал в обморок.
 1017328	rus	Я упала в обморок.
-1017329	epo	Mi ŝatas la stilon de Picasso, inter aliajn.
+1017329	epo	Mi ŝatas la stilon de Picasso, inter aliaj.
 1017330	fra	Tes problèmes ne sont rien, comparés aux miens.
 1017332	rus	Я потеряла сознание.
 1017333	ara	أين أبوك ?
@@ -20798,7 +20776,7 @@
 1018191	jpn	神道も仏教も、日本では宗教と言うよりも日常的な習慣の一種のようになってしまっているのです。
 1018192	rus	Так получилось, что и Синтоизм и Буддизм в Японии стали больше в своем роде повседневными обычаями, чем религией.
 1018193	eng	That's because Shintoism and Buddhism are practiced in their daily customs instead of as their religion.
-1018194	jpn	七夕祭りは、星祭とも呼ばれ、天の川に隔てられた恋人同士である星が、年に1回会えるとされる8月7日に行われます。
+1018194	jpn	七夕祭りは、星祭とも呼ばれ、天の川に隔てられた恋人同士である星が、年に1回会えるとされる7月7日に行われます。
 1018195	rus	Фестиваль Танабата, также известный как "хоси мацури", - единственный в году день, день 8 августа, когда влюбленная пара звезд, разделенная Млечным Путем, может встретиться.
 1018196	eng	The Tanabata Festival is often called the Star Festival. August 7th, the day of the festival, is said to be the only time when a pair of lovers, stars separated by the Milky Way, can see each other.
 1018197	jpn	敬老の日には祖父母を訪ねて孝行します。
@@ -33011,7 +32989,7 @@
 1030704	fin	Auringon korkeus on 20 astetta.
 1030705	epo	Zoologio estas la studo pri la vivo de animaloj.
 1030706	epo	Mi ĉiam opiniis, ke vartricikloj kaj sukijakoj estis la plej sukcesaj el la importaĵoj el Okcidento dum la Mejĝia periodo.
-1030707	deu	Meine Lieblingsfarbe ist braun.
+1030707	deu	Meine Lieblingsfarbe ist Braun.
 1030708	fin	Jonkin loistaa kovasti.
 1030709	fra	La zoologie est l'étude de la vie animale.
 1030710	epo	La lando devas esti tre bela.
@@ -36134,9 +36112,9 @@
 1033977	tur	Bu görevi başka bir kişiye vermelisin.
 1033978	tur	Her kovanda sadece bir kraliçe olabilir.
 1033979	deu	Er war mit dem Ergebnis überhaupt nicht zufrieden.
-1033980	epo	Malstreĉiĝu, mi garantias vin, ke ŝancoj estas por vi favoraj.
+1033980	epo	Malstreĉiĝu, mi garantias al vi, ke ŝancoj estas por vi favoraj.
 1033981	tur	Binlerce insan yunusu görmek için plaja gitti.
-1033982	epo	Malstreĉiĝu, mi garantias vin, ke ĉio okazos bone.
+1033982	epo	Malstreĉiĝu. Mi garantias al vi, ke ĉio okazos bone.
 1033983	epo	La gusto de la akvomelono plaĉas al mi.
 1033984	heb	איבדתי את המפתח שלי.
 1033985	tur	O tapınak türü, başta Mısır olmak üzere tüm Orta Doğu'yu etkiledi.
@@ -36303,7 +36281,7 @@
 1034164	oci	N'èra pas qu'una tintèna.
 1034165	deu	Das sind zweifellos hervorragende Neuigkeiten.
 1034166	nds	Dor sünd veel Böker in mien Kamer.
-1034167	epo	Estis nur kaprico.
+1034167	epo	Tio estis nur kaprico.
 1034168	nds	Lucy un ik hebbt üm un bi lieker veel Frünn.
 1034169	ind	Membuat hal semakin buruk, lalu lintasnya buruk.
 1034170	nds	Ik bün nu mööd.
@@ -39548,7 +39526,7 @@
 1037541	tur	O, kurnaz ve hesapçıdır.
 1037542	spa	Hay mucho deporte que ver en la televisión.
 1037543	tur	O, tam olarak ona söylediğim gibi yaptı.
-1037544	eng	I had to run all the step hill alone.
+1037544	eng	I had to run all the way down the steep hill alone.
 1037545	tur	O, işini iyi yapar.
 1037546	tur	O, işinin ehlidir.
 1037547	tur	O, hiç tereddüt etmeden kendi arabasını sattı.
@@ -40716,7 +40694,7 @@
 1038783	eng	As far as I remember, he didn't say that.
 1038784	spa	A las dos de la noche dio por fin con la solución.
 1038785	ita	Avete alternative al piano?
-1038786	epo	La paŝo de la infano skuas la pezan sitelon da akvo.
+1038786	epo	La paŝo de la infano skuas la pezan sitelon de akvo.
 1038787	spa	¿Sabes dónde vive ella?
 1038788	fra	J'ai réfléchi longtemps avant de me décider.
 1038789	oci	Lo dròlle carreja de l'aiga e pòt pas anar a l'escòla.
@@ -46271,7 +46249,7 @@
 1044573	hun	Mély levegőt vett, mielőtt belépett a főnöke irodájába.
 1044574	epo	Ekonomiistoj ne nomos vivnivelo la konsumnivelon nek nomos vivkvalito la kvanton de aĵoj.
 1044575	hun	Beth a testvérét, Sally-t, vádolta a sálja széttépésével.
-1044576	epo	Kuiristoj ne kredos ke palinuroj ravas esti boligataj vivantaj.
+1044576	epo	Kuiristoj ne kredos, ke palinurojn ravas esti boligataj vivantaj.
 1044577	epo	Historiistoj ne kredos ke la landoj ravas esti invaditaj.
 1044578	epo	La mondo ne plu militos kontraŭ malriĉuloj, sed kontraŭ malriĉeco, kaj la milit-industrio ne povos fari ion alian sed deklari sin bankrota.
 1044579	hun	Tom az utolsó ember, akit szeretnék most látni.
@@ -46672,7 +46650,7 @@
 1045013	spa	Libusza vive en Poznań.
 1045014	slk	Libusza je krásne a múdre dievča. Som jej najlepší priateľ.
 1045015	deu	Wer faulenzt, schafft Arbeitsplätze.
-1045016	slk	Polky nechcú Justina Biebera v Poľsku.
+1045016	slk	Poľky nechcú Justina Biebera v Poľsku.
 1045017	slk	Ani Ania ani Magdalena nemajú radi Justina Biebera.
 1045018	slk	Martyna je rodáčka z Wrocławu.
 1045019	deu	Geisterfahrer können sehr entgegenkommend sein.
@@ -49672,7 +49650,7 @@
 1048196	eng	What happened belongs to the past.
 1048197	spa	¿Cuándo podemos vernos otra vez?
 1048199	deu	Das ist der Schirm, den ich im Bus gefunden habe.
-1048200	deu	Wann können wir uns wiedersehen?
+1048200	deu	Wann können wir uns das nächstemal treffen?
 1048201	epo	Tio, kio okazis, apartenas al la estinteco.
 1048202	spa	"La próxima vez, vayamos al cine." "¿Qué te hace pensar que habrá una próxima vez?"
 1048203	spa	Le encanta el café.
@@ -49998,3 +49976,25 @@
 1048537	swe	I begynnelsen skapade Gud himmel och jord.
 1048538	ron	La început a făcut Dumnezeu cerul şi pământul.
 1048539	spa	Al principio Dios creó el cielo y la tierra.
+1048541	srp	Стотине птица су на језеру.
+1048542	heb	אני רעב, אז אלך לחפש משהו לאכול.
+1048543	epo	Mi malsatas, do mi serĉu ion por manĝi.
+1048544	srp	Добра припрема значи посао без муке.
+1048545	srp	Ја не мислим, значи ја не постојим.
+1048546	srp	Ми смо задовољни.
+1048547	srp	Ја сам пропустио воз.
+1048548	srp	Она је постала лекарка.
+1048549	srp	Ваш врт тражи иколико пажње.
+1048550	ita	Nessuno ha abbastanza tempo per fare tutto.
+1048551	epo	Neniu havas sufiĉe da tempo por fari ĉion.
+1048552	fin	Hetkinen.
+1048553	fin	Ootas vähän.
+1048554	fra	Personne n'a assez de temps pour tout faire.
+1048555	fra	Personne ne dispose d'assez de temps pour tout faire.
+1048556	srp	Sunce topi sneg.
+1048557	srp	Ја се надам да ћете се ви касније боље осећати.
+1048558	fra	Parler une langue implique l'apprentissage de milliers de mots et d'un nombre remarquable de règles de grammaire pour combiner et modifier les mots.
+1048559	srp	Да ли ви хоћете да ме гњавите?
+1048560	fra	Nous pensons tous, mais définir précisément ce qu'est la pensée n'est pas une simple affaire.
+1048561	fra	Dans la nature, chaque être vivant lutte, coure, mange, attaque ou fuit pour survivre.
+1048562	fra	Qui suis-je ? D'où viens-je ? Y a-t-il une vie après la mort ? Quel sens a la vie sur terre ?

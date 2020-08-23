@@ -1,18 +1,3 @@
-680412	eng	In 1880, the Irish boycotted a landowner, Captain C.C. Boycott, for failing to lower rents.
-680413	eng	They will boycott that product.
-680414	eng	Tom is the brains of our company.
-680415	eng	The human brain weighs about three pounds.
-680416	eng	Brave people feel fear, but that doesn't stop them.
-680417	eng	Tom is a brave skydiver.
-680418	eng	Someone broke the window.
-680419	eng	The little boy accidentally broke the glass.
-680420	eng	If you pull too hard, the chain will break.
-680421	eng	People normally breathe 12 to 20 times a minute.
-680422	eng	Dogs breathe approximately 30 times a minute.
-680423	eng	To relax, breathe slowly.
-680424	eng	The Golden Gate Bridge is in San Francisco.
-680425	eng	The bridge between Denmark and Sweden is almost five miles long.
-680426	eng	They had a brief date.
 680427	eng	Tom gave a brief talk.
 680428	eng	They took a brief vacation.
 680429	eng	The teacher gave a brief explanation.
@@ -3537,7 +3522,7 @@
 684001	epo	La bestoj sekvas siajn instinktojn.
 684002	hun	Az állatok az ösztöneiket követik.
 684003	epo	Hungara kemiisto inventis novtipan alumeton.
-684004	hun	A magyar vegyész egy új gyufát talált föl.
+684004	hun	A magyar vegyész egy újfajta gyufát talált föl.
 684005	eng	The batteries in my calculator are dead.
 684006	epo	Potenco estas ankaŭ matematika operacio.
 684007	hun	A hatványozás matematikai művelet is.
@@ -5758,7 +5743,7 @@
 686369	eng	It's not what I wanted to say.
 686370	heb	זה לא מה שרציתי לומר.
 686371	fra	Il y a beaucoup de larges avenues dans cette ville.
-686372	deu	Es ist nicht das, was ich sagen wollte.
+686372	deu	Das ist nicht das, was ich sagen wollte.
 686374	epo	Kion faras via fratino nun?
 686375	pes	رنگ این جعبه با آن یکی فرق دارد.
 686376	heb	אל תחשוש משום דבר, היות שאין שום דבר לחשוש מפניו.
@@ -11404,7 +11389,7 @@
 692393	wuu	噶行勿通个侬想。
 692394	heb	לצערי, המרק רק פושר.
 692395	epo	Mi deziras, ke vi redonu al mi la libron, kiun mi pruntedonis antaŭ nelonge al vi.
-692396	eng	Unfortunately, the soup is only warm.
+692396	eng	Unfortunately, the soup is only lukewarm.
 692397	epo	Helpante aliajn, oni helpas sin mem.
 692398	epo	Se mi estus vi, mi tuj irus hejmen.
 692399	pol	Co powiesz na kolację na mieście dziś wieczorem, tak dla odmiany?
@@ -20439,7 +20424,7 @@
 701947	nld	Ge hebt een hond, nietwaar?
 701948	deu	Bitte stellen Sie den Tisch an die Wand.
 701949	deu	Bitte stellt den Tisch an die Wand.
-701950	deu	Bitte stelle den Tisch an die Wand.
+701950	deu	Bitte stell den Tisch an die Wand.
 701951	nld	Uiteindelijk bereikte hij zijn doel.
 701952	nld	Er is een tijger ontsnapt uit de dierentuin.
 701953	deu	In den meisten Ländern beziehen Lehrer kein hohes Gehalt.
@@ -22887,12 +22872,12 @@
 704546	epo	Neniun konvinkis viaj polemikaj argumentoj.
 704547	rus	Людей, которые занимаются полемикой, называют полемистами.
 704548	epo	Homojn, kiuj okupiĝas pri polemikado, oni nomas polemikistoj.
-704549	ara	انصت و شاهد وابقى هادئ.
-704550	ara	الاستماع الى كلامه لم يكن بالامر الحكيم.
-704551	ara	من السخيف ان تصدقه.
-704552	ara	كلامه وافعاله لا يتفقان معا.
+704549	ara	أنصت و شاهد وابقَ هادئاً.
+704550	ara	الاستماع إلى كلامه لم يكن بالأمر الحكيم.
+704551	ara	من السخيف أن تصدقه.
+704552	ara	كلامه وأفعاله لا يتفقان معا.
 704553	ara	سلوكه يشعرني بالغثيان.
-704554	ara	كلامه واعماله متاناقضان.
+704554	ara	كلامه وأعماله متناقضان.
 704555	ara	ساعتي غير دقيقة.
 704556	epo	La manĝaĵo bonegas en tiu nova restoracio.
 704557	epo	Li eĉ ne trinkas bieron kaj certe ne viskion.
@@ -29505,7 +29490,6 @@
 711526	epo	Neniam antaŭe mi estis alparolita de eksterlandano.
 711527	epo	Aŭdu kaj vidu kaj estu senmova.
 711528	epo	Ekestis al mi ekzantemo per telerlava detergento.
-711529	epo	Mi aŭdis ke Roberto estas malsana.
 711530	epo	Vera scienco instruas nin dubi kaj forteni nin de nesciado.
 711531	epo	Paĉjo aĉetis por mi librojn.
 711532	epo	Mi pensas ke ne utilas provi persvadi lin.
@@ -48094,7 +48078,7 @@
 731193	spa	Estuvo lloviendo cinco días seguidos.
 731194	por	Vamos trocar de lugar.
 731195	spa	No se lo digas a papá.
-731196	fra	Des idées vertes incolores dorment furieusement.
+731196	fra	Les idées vertes incolores dorment intensément.
 731197	por	O Bob está procurando alguém para conversar.
 731198	deu	Das Wahlergebnis wird bald bekannt sein.
 731200	por	A que horas sai o seu voo?
@@ -49998,3 +49982,19 @@
 733186	nld	Het ticket is geldig tot en met maandag.
 733187	isl	Það eimir enn eftir af þessari hjátrú meðal þeirra.
 733188	isl	Henni vöknaði um augun við góðu fréttirnar.
+733189	isl	Draumurinn var mér ráðgáta.
+733190	isl	Draumurinn er orðinn að veruleika.
+733191	isl	Óháði frambjóðandinn tók fóstureyðingarmálefnið af stefnuskrá sinni.
+733192	epo	Ŝi ne havas kondukpermesilon.
+733193	isl	Engin stúlknanna er nemandi.
+733194	eng	None of the girls is a student.
+733195	isl	Stúlkan brast í grát.
+733196	isl	Stúlkan æpti af ótta — sem við deildum öll með henni.
+733197	isl	Stúlkan hefur meyrt hjarta.
+733198	isl	Báðar stúlkurnar eru með blá augu.
+733199	isl	Þýðingin er frumeintakinu trú.
+733200	isl	Þýðingin var frumeintakinu trú.
+733201	isl	Ekkjan þjáðist af magakrabbameini.
+733202	isl	Ekkjan klæddist svörtu.
+733203	isl	Sjáðu sofandi barnið.
+733204	isl	Það var ekki fyrr en að ég las bókina að ég vissi af því.

@@ -1,43 +1,3 @@
-2596548	rus	Он был крайне счастлив.
-2596549	rus	Они пытались.
-2596550	rus	Не подходи ко мне. Ты омерзителен.
-2596551	rus	Не приближайся ко мне. Ты мерзок.
-2596552	rus	Мария воспользовалась метро, потому что её машина сломалась.
-2596553	rus	Ты почему это до сих пор не спишь?
-2596554	epo	Maria uzis la metroon, ĉar ŝia aŭto paneis.
-2596555	rus	Почему ты до сих пор не спишь?
-2596556	rus	Сейчас половина четвёртого.
-2596557	rus	Сейчас полчетвёртого.
-2596558	deu	Maria benutzte die U-Bahn, weil ihr Auto kaputt war.
-2596559	rus	Она клиент нашей фирмы.
-2596560	deu	Sie ist Kunde unserer Firma.
-2596561	deu	Sie ist Kundin unserer Firma.
-2596562	epo	Ŝi estas kliento de nia firmao.
-2596563	deu	Das macht mir keine Sorgen.
-2596564	eng	When you have food allergies, eating out is difficult, isn't it?
-2596565	ita	Quando si hanno delle allergie alimentari, mangiare fuori è difficile, vero?
-2596566	ces	To mi starosti nedělá.
-2596567	rus	В столице пятнадцать часов. В Петропавловске-Камчатском - полночь.
-2596568	rus	Короткие юбки больше не в моде.
-2596569	tur	Irmağın kaynağını bulmak için bütün gün tırmandılar.
-2596570	eng	They climbed all day to find the source of the river.
-2596571	ces	Čarodejnice lítají na košťatech.
-2596572	ita	Mi sembra che sia onesto.
-2596573	ita	Mi sembra che lui sia onesto.
-2596574	ita	A me sembra che sia onesto.
-2596575	ita	A me sembra che lui sia onesto.
-2596576	rus	Он британский учитель, который учит нас английскому языку.
-2596577	ita	Le streghe possono volare sulle scope.
-2596578	ita	Le streghe riescono a volare sulle scope.
-2596579	ita	È un insegnante britannico che ci insegna inglese.
-2596580	ita	Lui è un insegnante britannico che ci insegna inglese.
-2596581	ita	È un professore britannico che ci insegna inglese.
-2596582	ita	Lui è un professore britannico che ci insegna inglese.
-2596583	ita	È un professore britannico che ci insegna l'inglese.
-2596584	ita	Lui è un professore britannico che ci insegna l'inglese.
-2596585	ita	È un insegnante britannico che ci insegna l'inglese.
-2596586	ita	Lui è un insegnante britannico che ci insegna l'inglese.
-2596587	ita	Solo quattro cavalli hanno partecipato alla corsa.
 2596588	ita	Solo quattro cavalli parteciparono alla corsa.
 2596589	ita	Soltanto quattro cavalli hanno partecipato alla corsa.
 2596590	ita	Soltanto quattro cavalli parteciparono alla corsa.
@@ -378,7 +338,7 @@
 2596943	fra	Je t'y rejoindrai plus tard.
 2596944	rus	Этого хватит на данный момент.
 2596945	fra	Je vais simplement vous aider à démarrer.
-2596946	rus	На самом деле я не спал хорошо.
+2596946	rus	На самом деле я не очень хорошо спал.
 2596947	fra	Je vais simplement t'aider à démarrer.
 2596948	rus	Эта фотография - моя любимая!
 2596949	fra	Je vous tuerai tous les deux.
@@ -1033,7 +993,7 @@
 2597627	epo	Tom estas lojala.
 2597628	epo	Tom laboris plu.
 2597629	spa	Tom desafió a Mary.
-2597630	epo	Tom parolis plu.
+2597630	epo	Tomo parolis plu.
 2597631	epo	Tom fosis plu.
 2597632	spa	Tom te llamó.
 2597633	spa	Tom me aburre.
@@ -4078,10 +4038,10 @@
 2600882	rus	Я видел его там.
 2600883	rus	У меня жгучая боль в этом месте.
 2600884	rus	Даже ребёнок может понять эту книгу.
-2600885	grn	Oĩ heta ava ha mba'yrumýi ko távape. Ko táva omba'apoveva.
+2600885	grn	Oĩ heta ava ha mba'yrumýi ko távape. Ko táva omba'apovéva.
 2600886	grn	Opa tavaygua ikatu oike táva arandukarendápe.
 2600887	grn	Tavao oĩ táva mbytépe.
-2600889	grn	Táva Osaka ogurekove tavayguakuéra Táva Kioto rehe.
+2600889	grn	Táva Osaka oguerekove tavayguakuéra Táva Kioto-gui.
 2600890	grn	Barcelona ha'e Kataluña itavusu ha táva tuichave mokõiha Epañape.
 2600891	fin	Etkö haista jotakin epätavallista?
 2600892	rus	Но там ещё нет 12 часов дня, верно?
@@ -4096,9 +4056,9 @@
 2600901	fin	Tomilla ei ollut tilaisuutta kertoa Marylle mitä hän ajatteli.
 2600902	grn	Nde ndeikatui rekañy táva guasúpe; oĩ yvyra'anga opa rendáre!
 2600903	fin	En kuullut Tomin lähtevän.
-2600904	grn	Florensia ha'e táva porãve Italiape.
+2600904	grn	Florensia ha'e táva iporãvéva Itáliape.
 2600905	fin	Lykkäsimme tapahtumaa.
-2600906	grn	Mboy mbo'ehao oĩ nde táva ipýpe?
+2600906	grn	Mboy mbo'ehao oĩ nde távape?
 2600907	fin	Totut pian asumaan asuntolassa.
 2600908	grn	Kanasagua ha'e táva py'aguapy.
 2600909	fin	Jopa pieninkin lapsi tietää tuollaisen asian.
@@ -4198,7 +4158,7 @@
 2601013	jpn	あなたはお母さんに似ていますね。
 2601014	grn	Tata ohapy ñande róga.
 2601015	grn	Maitei!
-2601016	grn	Heẽ.
+2601016	grn	Héẽ.
 2601018	lit	Iš šio žodyno nėra visiškai jokios naudos.
 2601019	rus	У нас есть две дочери.
 2601020	epo	Mi detale pripensis la strukturon de la retejo.
@@ -4625,7 +4585,7 @@
 2601470	ita	Questi sono freschi.
 2601471	ita	Queste sono fresche.
 2601472	ita	Questi sono dei bei cavalli.
-2601473	grn	Maitei. Che hera Joe Carlton. Ikatu añe'ẽ Michael ndie?
+2601473	grn	Maitei. Che réra Joe Carlton. Ikatu añe'ẽ Michael ndie?
 2601474	pol	Jesteśmy bliżej niż kiedykolwiek byliśmy.
 2601475	ita	Questo è un libro molto antico.
 2601476	ita	Questi sono belli.
@@ -4644,7 +4604,7 @@
 2601489	pol	"Byłeś kiedyś w Nowym Jorku?" "Tak, kilka razy."
 2601490	deu	Niemand hat Gott je gesehen; der eingeborene Sohn, der in des Vaters Schoß ist, der hat es uns verkündigt.
 2601491	grn	Maitei, Che ha'e Tomoko Sato Hapõ pegua.
-2601492	grn	Maitei. Ha'epa Goto hóga?
+2601492	grn	Maitei. Kóva piko Goto róga?
 2601493	eng	No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him.
 2601494	grn	Maitei, oĩpa Karai Freeman?
 2601495	ita	Pronto. È Ogawa che parla.
@@ -4693,21 +4653,21 @@
 2601542	ita	Queste sono pesanti.
 2601543	spa	Anoche bebí demasiado.
 2601544	grn	Omba'apo kuri peteĩ ary ha mbyte Holandape.
-2601545	grn	Che aiporavo kuri mbovy.
+2601545	grn	Ndarekói heta mba'e aiporavo hag̃ua.
 2601546	grn	Aha Mbo'ehaorusu Tokio pegua.
 2601547	grn	Che ndaiporuvy'a papapykuaa.
-2601548	grn	Máva oreko py'a potĩ heko hory, ha'ekuéra ohechata Ñandejára mimbiha.
-2601549	grn	Ohechavo pe mbyja, ha'ekuéra oiporuvy'a guasu.
+2601548	grn	Máva ipy'a potĩ heko hory, ha'ekuéra ohechata Ñandejára mimbiha.
+2601549	grn	Ohechávo pe mbyja, ha'ekuéra horyite vy'apópe.
 2601550	grn	Uperõ, Hesu ou Galilea pegua Huã-me, ysyry Hoydãme, omokarai ha'e hese.
 2601551	grn	Rrusiañe'ẽ ñeñe'ẽkuaa hendyete.
 2601552	spa	La construcción del parque de diversiones tardó diez años.
 2601553	grn	Ko yperana mitã iporã itereiva!
-2601554	grn	Yperana ha'e guyra ndokatui oveve.
-2601555	grn	Oikopa yperana Aytikope?
+2601554	grn	Yperana ha'e guyra ndovevekuaáiva.
+2601555	grn	Oikópa yperana Áytikope?
 2601556	spa	Un banquero es un hombre que presta el paraguas cuando brilla el sol y lo quiere en seguida de vuelta cuando se pone a llover.
-2601557	grn	Oikopa yperana Yvate Yvýpe?
-2601558	grn	Aytikope ndaipori yperana.
-2601560	grn	Rroma mburuvi ára porã ohasama.
+2601557	grn	Oikópa yperana Yvate Yvýpe?
+2601558	grn	Amo Áytikope ndaipóri yperana.
+2601560	grn	Rroma mburuvi ára porã ohasáma.
 2601561	grn	Che añe'ẽkuaata hyãsiañe'ẽme.
 2601562	lat	Nisi quis renatus fuerit denuo, non potest videre regnum Dei.
 2601563	deu	Wenn jemand nicht von neuem geboren wird, kann er das Reich Gottes nicht sehen.
@@ -7020,7 +6980,7 @@
 2603980	spa	Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir.
 2603981	ita	Voi me cercherete e non mi troverete; e dove io sarò, voi non potete venire.
 2603982	deu	Ihr werdet mich suchen, und nicht finden; und wo ich bin, könnet ihr nicht hinkommen.
-2603983	grn	Vikipetã ha'e ñe'ẽryrupavẽ porãveva opaite ñandutípe.
+2603983	grn	Vikipetã ha'e ñe'ẽryrupavẽ iporãvéva opaite ñandutíre.
 2603984	hun	Kerestek majd engem, és nem találtok meg, és a hol én vagyok, ti nem jöhettek oda.
 2603988	grn	Vikipetã ojepe'a jey!
 2603989	grn	Ha'ekuéra ohai Vikipetãme.
@@ -7041,7 +7001,7 @@
 2604004	por	Em termos gerais, ele é um bom professor.
 2604005	spa	Río Grande del Sur es un estado brasileño que está hacia el sur.
 2604006	rus	К сожалению, у него отсутствуют необходимые финансовые средства для участия в президентской кампании.
-2604007	grn	Taro, ikatu reipytyvõ chéve?
+2604007	grn	Taro, ikatumi piko nde chepytyvõ?
 2604008	por	"Você está pronto?" "Muito pelo contrário, eu nem sequer comecei."
 2604009	por	Você já terminou seu dever de casa?
 2604010	rus	Не стреляйте.
@@ -7049,9 +7009,9 @@
 2604012	por	Você terminou de ler esse livro?
 2604013	por	Você já terminou o trabalho?
 2604014	epo	Ŝi estas studema.
-2604015	grn	Ore rohechaga'uta nde rehotavo.
+2604015	grn	Ore rohechaga'úta nde rehótavo.
 2604016	por	Você se importaria se a gente atravessasse o seu jardim?
-2604017	grn	Ore rohechaga'uta nde rehotavo mombyrýre.
+2604017	grn	Ore rohechaga'úta nde rehótavo mombyry.
 2604018	por	Vai te incomodar se eu fumar?
 2604019	por	Não quero que ninguém me perturbe.
 2604020	por	Você se importa de esperar um minuto?
@@ -7065,12 +7025,12 @@
 2604028	por	Por favor, fale o mais claro possível.
 2604029	por	Nós o tratamos da forma mais gentil possível.
 2604030	por	Me avise o resultado o mais cedo possível.
-2604031	grn	Che ahechaga'uta nde tembi'ukuéra.
+2604031	grn	Che ahechaga'úta nde rembi'u.
 2604032	por	Enquanto não esfriar, está tudo bem.
 2604033	tur	Beni arayacaksınız ama bulamayacaksınız. Ve benim bulunduğum yere siz gelemezsiniz.
-2604034	grn	Che rohechaga'u eterei.
+2604034	grn	Che rohechaga'ueterei.
 2604035	por	Tudo bem. Me desculpa.
-2604036	grn	Rehechaga'upa chéve?
+2604036	grn	Nde cherechaga'u piko?
 2604039	por	Certo.
 2604040	por	Está certo! Você vai se arrepender disso.
 2604041	grn	Ahechaga'u che róga ha che retã.
@@ -8817,7 +8777,7 @@
 2605961	ara	يستطيع كل أصدقائي التحدث بالفرنسية.
 2605963	epo	Li diris, ke li volas helpi min.
 2605964	ara	نحن مطيعون.
-2605965	grn	Tom okuaase eterei hyãsiañe'ẽme.
+2605965	grn	Tom oikuaaseiterei hyãsiañe'ẽre.
 2605966	bul	Мисля, че френският ми не е много добър.
 2605967	bul	Искам да стана учител по френски.
 2605968	rus	Дождь всё шёл и шёл.
@@ -8830,7 +8790,7 @@
 2605975	epo	Mi aĉetis unu sakon.
 2605976	eng	This afternoon when our grandmother who is hard of hearing gets company from an even more hard of hearing girlfriend, we will try to prevent them at all cost from sitting in the garden, otherwise the whole neighbourhood will all at once know our business.
 2605977	bul	Иска ми се да можех да говоря на френски.
-2605978	grn	Che ha'eseta hyãsiañe'ẽ mbo'ehára.
+2605978	grn	Che ha'ese hyãsiañe'ẽ mbo'ehára.
 2605979	bul	Чудя се къде Том е учил френски.
 2605980	bul	Искам да говоря френски гладко.
 2605981	epo	Ĉu vi ne scias, kiel li nomiĝas?
@@ -8860,7 +8820,7 @@
 2606006	ara	أود أن أطلب منك معروفا.
 2606007	epo	Okupata!
 2606008	tur	Tom bu civarda değil.
-2606009	grn	Che ndaiporanduta pochyhápe nde reipotarõ reho hendive.
+2606009	grn	Che nañemoĩmo'ãi nde rehe rehosérõ hendive.
 2606010	tur	Tom silahlı değil.
 2606012	epo	Ĝi estas okupata.
 2606013	ara	هل وجدت كثيرا من الجزائريين في ألمانيا؟
@@ -8878,10 +8838,10 @@
 2606028	ara	لدى فرنسا حدود مشتركة مع إيطاليا.
 2606030	grn	Nde reikotevẽ va'erã peteĩ hasaha ndahi'aréiva.
 2606031	ara	لم أرك منذ سنوات.
-2606032	grn	Ñande mbarakaja oĩ kosinape.
+2606032	grn	Ñane mbarakaja oĩ kosíname.
 2606033	ara	كتبت لها رسالةً صباح أمس.
 2606034	ara	أردت الذهاب إلى مكان لم يسبق لي الذهاب إليه.
-2606035	grn	Mba'eichapa ne ko'ẽ?
+2606035	grn	Mba'éichapa ne ko'ẽ?
 2606036	epo	Ju pli vi legos la libron, des malpli vi komprenos ĝin.
 2606037	ara	بيرو هي ثالث دول أمريكا الجنوبية مساحةً بعد البرازيل والأرجنتين.
 2606038	grn	Ehasa porã ne ko'ẽ!
@@ -8894,7 +8854,7 @@
 2606045	ara	لديه مقعد في البرلمان.
 2606046	rus	На протяжении одной недели я была больна, и всё ещё не чувствую себя лучше.
 2606047	ara	هو عضو في البرلمان.
-2606048	grn	Mba'eichapa nde réra?
+2606048	grn	Mba'éichapa nde réra?
 2606049	ara	ليست لديّ شهية.
 2606050	eng	I've had a cold for one week, and I still haven't got better.
 2606052	por	Temo que você não possa fazer isso.
@@ -8959,15 +8919,15 @@
 2606114	rus	Я не могу поверить, что забыла об этом.
 2606115	grn	Mba'érepa nde reipota reñe'ẽkuaata Ingyaterrañe'ẽ?
 2606117	eng	Porto Alegre is the southernmost capital city of a Brazilian state.
-2606118	grn	Porto Alegre ha'e tavusu oĩveva ñemby gotyo peteĩ Pindorama tetãvore pegua.
+2606118	grn	Porto Alegre ha'e tavusu oĩvéva ñemby gotyo peteĩ Pindoráma retãvore pegua.
 2606119	por	Porto Alegre é a capital mais meridional de um estado brasileiro.
 2606120	ber	Bɣiɣ ad alyeɣ ɣer tqacuct n Tneḍḍaft n Eiffel.
 2606121	por	O garoto quer sair.
 2606122	grn	Mitã osẽse.
-2606123	grn	Ko tenda omokyhyjetereiva.
+2606123	grn	Ko tenda oporongyhyjeite.
 2606124	epo	Kial vi volas lerni la anglan lingvon?
 2606125	spa	Porto Alegre es la capital más al sur de un estado brasileño.
-2606126	grn	Ko kuña oñe'ẽkuaa etereiva Ingyaterrañe'ẽme.
+2606126	grn	Ko kuña oñe'ẽkuaaiterei Ingyaterrañe'ẽme.
 2606127	deu	Politische Notwendigkeiten erweisen sich bisweilen als politische Fehler.
 2606128	deu	Gehören alle diese Bücher dir?
 2606129	deu	Gehören alle diese Bücher Ihnen?
@@ -9002,18 +8962,18 @@
 2606161	lit	Aš norėčiau turėti jūsų nuotrauką.
 2606162	rus	Я отважный.
 2606163	rus	Я отважная.
-2606164	grn	Che año.
+2606164	grn	Cheaño.
 2606165	rus	Я первый.
 2606166	rus	Я первая.
-2606167	grn	Che ahata.
+2606167	grn	Che aháta.
 2606168	rus	Том ходил?
-2606169	grn	Ahata.
+2606169	grn	Aháta.
 2606170	rus	Том ездил?
 2606171	rus	Ты катаешься на лыжах?
 2606172	rus	Вы катаетесь на лыжах?
 2606174	rus	Найдите работу.
 2606176	rus	Идите спать.
-2606177	grn	Tom ohopa kuri?
+2606177	grn	Tom piko ohóma?
 2606178	lit	Jūsų klausimas nesusijęs su tema.
 2606179	rus	Я умею петь.
 2606180	grn	Che peteĩha.
@@ -9089,7 +9049,7 @@
 2606253	lit	Jau savaitę esu peršalęs ir vis nepasveikstu.
 2606254	lit	Greitai pradės lyti.
 2606255	grn	Ani reho remomatei'ỹ.
-2606256	grn	Oky eterei heta aravo rehe.
+2606256	grn	Okyiterei heta aravo jave.
 2606257	spa	Yo no les aplaudo.
 2606258	lit	Kai aš buvau maža, mes su tėčiu eidavome žvejoti.
 2606259	lit	Kai aš buvau mažas, mes su tėčiu eidavome žvejoti.
@@ -12197,7 +12157,7 @@
 2609563	epo	Mi ŝovas la ŝlosilon en la pordan seruron.
 2609565	lat	Triginta minutis post quintam horam domum advenit.
 2609566	eng	Close the curtains! The guy living in the house across the street is a Peeping Tom.
-2609568	grn	Nde ikatu reisãmbyhy, ajepa?
+2609568	grn	Nde ikatu reisãmbyhy, ajépa?
 2609569	lat	"Quot annos natus es?" "XVI annos natus sum."
 2609570	cmn	请冷静！
 2609571	lat	"Quot annos nata es?" "XVI annos nata sum."
@@ -12215,18 +12175,18 @@
 2609583	rus	Никуда не ходи.
 2609584	rus	Никуда не ходите.
 2609585	ita	Tom non può parlare.
-2609586	grn	Kóva ndojehuta.
+2609586	grn	Kóva ndojehumo'ãi.
 2609587	eng	When I play peekaboo with my baby, he stops crying immediately.
 2609588	lat	Puto Didymum se vulneravisse.
 2609589	lat	Didymus loqui non potest.
 2609590	heb	אתה תהיה עדין איתי?
 2609591	rus	Ты будешь нежным со мной?
-2609592	grn	Remondýipa?
+2609592	grn	Nemondýi piko?
 2609593	lat	Didymus cras laborare non poterit.
 2609594	grn	Añetépa? Araka'épa oho va'ekue?
 2609596	lat	Ain' vero? Quando profectum est?
 2609597	lat	Ain' vero? Quando profecta est?
-2609598	grn	Nde joguaha nde sýpe.
+2609598	grn	Nde rejoguaite nde sýpe.
 2609599	eng	I'm prepared for the worst.
 2609600	eng	Don't go around breaking young girls' hearts.
 2609601	rus	Все знали Тома.
@@ -12540,7 +12500,7 @@
 2609932	ber	Asseɣzef n wawal ur yessawaḍ ɣer wacemma.
 2609933	spa	¿Estás enamorado de mi hermano?
 2609934	rus	Я сразу же приду.
-2609935	grn	John, ejumi chéve!
+2609935	grn	John, ejumi che rendápe!
 2609937	rus	Я сделаю это сама.
 2609939	spa	Parece que me has entendido mal.
 2609940	ber	Nekk ad k-neṣḥeɣ, s yisem-inu d imsujji, akken ad tḥebsed ddexxan.
@@ -12554,7 +12514,7 @@
 2609948	grn	Tom ha'e peteĩ andýra.
 2609949	rus	Я поеду прямо сейчас.
 2609950	rus	Я отправлюсь прямо сейчас.
-2609951	grn	Che ahai kóva año.
+2609951	grn	Che cheaño ahaíkuri kóva.
 2609952	ber	Lliɣ ḥareɣ melmi ara d-taweḍ.
 2609953	rus	Я отдам это обратно.
 2609954	ber	D acu ay d anamek n uzamul-a?
@@ -12583,21 +12543,21 @@
 2609978	rus	Я скажу, что я сделала это.
 2609979	rus	Я скажу это снова.
 2609980	rus	Я скажу это опять.
-2609981	grn	Mboy aravo oñepyrũ ko ñembosarái?
+2609981	grn	Mbovy aravópe oñepyrũ ko ñembosarái?
 2609982	lit	Aš turiu grįžti atgal.
 2609983	ber	Qqareɣ idlisen aṭas.
 2609984	rus	Я буду сидеть с Томом.
 2609985	rus	Я посижу с Томом.
 2609986	lit	Aš turiu tai padaryti.
-2609987	grn	Araka'epa oñepyrũta ko ñembosarái?
+2609987	grn	Araka'épa oñepyrũta ko ñembosarái?
 2609988	eng	Sorry, I can't drink alcohol.
-2609989	grn	Che aimeta porã ko ápe.
+2609989	grn	Che aiméta porã ko ápe.
 2609990	ber	Yerza ɣef waṭas n yimukan.
 2609991	ber	Yedda ɣer waṭas n yimukan.
 2609992	epo	Ni tenisu ĉi-posttagmeze.
 2609993	rus	Я удивлю Тома.
 2609994	rus	Я расскажу кое-кому.
-2609995	grn	Che aimeta porã.
+2609995	grn	Che aiméta porã.
 2609996	rus	Мне немного холодно.
 2609997	rus	Я немного замёрз.
 2609998	lit	Aš turiu tuo įsitikinti.
@@ -12605,7 +12565,7 @@
 2610000	lit	Aš pasakysiu tai vėl.
 2610001	rus	Я боюсь Тома.
 2610002	rus	Я уже заскучал.
-2610003	grn	Hasaha omboja'o táva A táva B pegua.
+2610003	grn	Hasaha omboja'o táva A ha táva B.
 2610004	rus	Я уже заскучала.
 2610005	rus	Мне уже стало скучно.
 2610006	lit	Aš truputį sušalau.
@@ -12624,11 +12584,11 @@
 2610021	por	As groselhas são frutas que podem prolongar a vida.
 2610022	ita	Tom non riusciva a trovare la casa di Mary.
 2610023	lit	Man jau pasidarė nuobodu.
-2610024	grn	Che akueraima.
-2610025	grn	Ygarata osẽta ko'ẽro Honolulupe guarã.
+2610024	grn	Che akueráima.
+2610025	grn	Ygarata osẽta ko'ẽrõ Honolulúpe guarã.
 2610026	lit	Tomas negalėjo užmigti.
 2610027	lit	Tomas negalėjo miegoti.
-2610028	grn	Ha'e oikove ñemby tavavo táva pegua.
+2610028	grn	Ha'e oikove táva vore ñembyguiguáme.
 2610029	eng	One who does not work should not eat.
 2610030	epo	Mi volas iun!
 2610031	rus	Слишком холодно, чтобы включить вентилятор.
@@ -12637,7 +12597,7 @@
 2610035	ita	Tom non riusciva a parlare bene in francese.
 2610036	eng	You should not go against the rules.
 2610037	ita	Tom non riusciva a dormire la scorsa notte.
-2610038	grn	Tokio ha'e táva tuichaveva Hapõ pegua.
+2610038	grn	Tokio ha'e táva tuichavéva Hapõme.
 2610039	epo	Kaze de fajro, rompu la fenestron.
 2610040	ita	Tom non riusciva a smettere di piangere.
 2610041	ita	Tom non riusciva a fermarsi.
@@ -12648,10 +12608,10 @@
 2610046	eng	Today's broccoli is not good because it has been boiled for too long.
 2610047	grn	Hoga oĩ táva okápe.
 2610048	eng	How heavy is your suitcase?
-2610049	grn	Tataguasu ohapypa ete pe táva.
+2610049	grn	Tataguasu ohapypaite pe táva.
 2610050	epo	Mia ulcero doloras min, mi do vere ne povas manĝi.
 2610051	eng	Sorry, but can't you help me a little?
-2610052	grn	Okyta ra'e.
+2610052	grn	Okýta ra'e.
 2610053	ita	Quant'è pesante la tua valigia?
 2610054	eng	The restaurant will be on your right.
 2610056	epo	Mi ternadas la tutan tempon.
@@ -12668,7 +12628,7 @@
 2610069	ita	Tom non riusciva a capire.
 2610070	epo	Sen helpo mi ne sukcesintus en tio.
 2610071	lit	Tomui nepavyko rasti Merės namo.
-2610072	grn	Tom ndoñe'ẽkuaai ete akue hyãsiñe'ẽme.
+2610072	grn	Tom noñe'ẽkuaaporãi hyãsiñe'ẽme.
 2610073	epo	Frandema kato atentemigas servistinojn.
 2610074	epo	En Usono oni parolas angle.
 2610075	grn	Amba'apo mymbarendápe.
@@ -12680,7 +12640,7 @@
 2610081	grn	Aha akue Harvard-pe.
 2610082	lit	Tomas nemokėjo gerai kalbėti prancūziškai.
 2610083	grn	Tom ndokéi kuehe pyhare.
-2610084	grn	Aha akue mbo'ehaorusupe.
+2610084	grn	Aha akue mbo'ehaorusúpe.
 2610085	eng	The jam jar's lid is jammed.
 2610086	eng	This jam jar's lid is stuck and won't open.
 2610087	eng	The bottom lip is bigger than the top lip.
@@ -12734,7 +12694,7 @@
 2610135	rus	Не включай лампу много раз подряд. Она может сгореть.
 2610136	epo	Ne estis alia eblo ol akcepti la proponon.
 2610137	lit	Mano šeimą sudaro tėtis, mama, sesė ir aš.
-2610139	grn	Mba'eichapa oje'e "jajetopata" alemañañe'ẽme?
+2610139	grn	Mba'éichapa oje'e "jajetopata" alemañañe'ẽme?
 2610140	fin	Sade lakkasi ja voimme pelata loppuun tennisottelumme.
 2610141	lit	Mano šeima susideda iš tėčio, mamos, sesers ir manęs.
 2610142	rus	Лори живёт в Мельбурне.
@@ -12747,15 +12707,15 @@
 2610150	grn	Aguyje che Tupã.
 2610151	swe	Hans systrar så väl som han själv bor nu i Kyoto.
 2610152	grn	Tupã ojapo ñande Yvy.
-2610153	grn	Ñandejára toimeta ñandeve.
+2610153	grn	Ñandejára toime ñane ndive.
 2610154	eng	I'm begging you father. Please get on good terms with him. This friendship is so dear to me that I can't put it into words.
 2610155	lit	Ar ji žino tavo telefono numerį?
 2610156	lit	Ačiū Dievui.
-2610157	grn	Ava ikatupa omano?
+2610157	grn	Yvypóra piko ikatu omano?
 2610159	rus	Невозможно пить морскую воду, потому что она слишком солёная.
-2610160	grn	Tavetã Joaju oguereko ipýpe Ingyaterra, Ekosia, Gale Retã ha Yvate Ilanda.
+2610160	grn	Tavetã Joaju oguereko ipýpe Ingyatérra, Ekósia, Gále Retã ha Yvate Ilánda.
 2610161	lit	Mano šuo laukia manęs, kai aš pareinu namo iš mokyklos.
-2610162	grn	Aiporuvy'a akue kóva.
+2610162	grn	Che ahasaporãite.
 2610163	rus	Моя собака ждёт меня, когда я прихожу домой из школы.
 2610164	grn	Añetehápe, mavave ohekata ko ñe'ẽjoapy.
 2610165	eng	We don't look the same at all.
@@ -13181,15 +13141,15 @@
 2610603	epo	Do, kio novas?
 2610604	epo	Vi ankoraŭ ne estas pretaj.
 2610605	epo	Mia patro devis esti bela, kiam li estis juna.
-2610606	grn	Tembi'u serviha outa.
+2610606	grn	Tembi'u serviha oúta.
 2610607	tur	Sıradaki Tom.
 2610608	tur	Sınavın zor olduğunu biliyorum.
-2610609	grn	Upearõ, mba'épa marandu pyahu?
+2610609	grn	Upéarõ, mba'épa ipyahúva?
 2610610	grn	Ndokýiramo ko ndotykýi, he'i hóga osoropáva.
 2610611	spa	Si no llueve no gotea, dijo el que tenía la casa rota.
-2610612	grn	Ken roheka hina kuri.
+2610612	grn	Ken ndehekákuri.
 2610613	epo	Ili prenos la 8:30-an trajnon.
-2610614	grn	Eñangarekonte upe mba'e.
+2610614	grn	Eñangarekónte upévare.
 2610615	epo	Kio estas tiun fundan bruon, kion mi aŭdas?
 2610616	eng	I hear that keeping yourself hydrated at appropriate times can help prevent heatstroke.
 2610617	eng	Tom's the only guy in this class.
@@ -13202,7 +13162,7 @@
 2610626	grn	Ajuhúma!
 2610627	uig	ھاۋا ئىسسىپ كەتكەندە ئىشخانىغا پىيادە مېڭىش ياخشى ئىش ئەمەس.
 2610628	epo	Tom kaj Maria estas gravedaj je bebo.
-2610631	grn	Osẽva'ekue jahuhape ha osapukáiva'ekue "Ajuhúma!"
+2610631	grn	Osẽva'ekue jahuhágui ha osapukáiva'ekue "Ajuhúma!"
 2610632	epo	Ni dancis kun la muziko.
 2610633	cmn	那天很冷，而且还下起了雨。
 2610634	grn	Toiko tendy!
@@ -13229,7 +13189,7 @@
 2610657	eng	The spy made contact with the enemy.
 2610658	deu	Er holt Kaffee.
 2610659	por	Ele está pegando café.
-2610660	grn	Mitã ndorekoiva kamisa ipyti'are.
+2610660	grn	Mitã ikamisa'ỹ ipyti'áre.
 2610661	eng	He is getting some coffee.
 2610662	deu	Sie nimmt ihren Zimmerschlüssel.
 2610663	por	Ela está pegando a chave de seu quarto.
@@ -15546,7 +15506,7 @@
 2613146	eng	I like women but I don't get along with them.
 2613147	bul	Том може да говори френски много по-гладко от мене.
 2613148	grn	Che kyra puku.
-2613149	grn	Upearõ?
+2613149	grn	Upéarõ?
 2613150	ina	Mi corde es tote tue. Ubi tu non es io non pote esser.
 2613151	deu	Dein ist mein ganzes Herz. Wo du nicht bist, kann ich nicht sein.
 2613152	por	Meu coração é todo teu. Não posso ficar onde tu não estejas.
@@ -15697,7 +15657,7 @@
 2613299	lit	Nederėtų laužyti pažadų.
 2613300	bul	Надявам се да не е вярно.
 2613301	bul	Не знаех какво да правя.
-2613302	grn	Ojeñemupáma!
+2613302	grn	Oñeñemumbáma!
 2613303	bul	Не съм злопаметен.
 2613304	bul	Не съм злопаметна.
 2613305	bul	Гледахме филм.
@@ -18331,7 +18291,7 @@
 2616119	fin	Mistä tämä paniikki?
 2616120	fin	Etkös ole pessyt käsiäsi?
 2616121	lit	Aš privalau užbaigti savo darbą.
-2616122	fin	Sitä en koskaan uskonut sinusta.
+2616122	fin	Sitä en koskaan olisi uskonut sinusta.
 2616123	fin	Onko tämä paikka varattu?
 2616124	fin	Mikset sinä tullut?
 2616125	lit	Aš taip stipriai pasiilgstu Bostono.
@@ -36647,7 +36607,7 @@
 2635773	dan	Jeg har et kreditkort.
 2635774	dan	Jeg vil ikke have din medlidenhed.
 2635775	dan	Jeg ønsker ikke din medlidenhed.
-2635776	ron	Avionul s-a prăbuşit.
+2635776	ron	Avionul s-a prăbușit.
 2635777	ron	Eu voi merge în parc.
 2635779	dan	Luk venligst døren efter dig.
 2635780	ron	Zilele de naștere sunt importante.
@@ -49998,3 +49958,43 @@
 2649407	rus	Пришли ко мне Тома.
 2649408	rus	Пришлите ко мне Тома.
 2649409	rus	Покажи это ей.
+2649410	rus	Покажите это ей.
+2649411	rus	Покажи это ему.
+2649412	rus	Покажите это ему.
+2649413	rus	Покажи это Тому.
+2649414	rus	Покажите это Тому.
+2649415	rus	Спой нам песню.
+2649416	rus	Спойте нам песню.
+2649417	rus	Расскажи нам анекдот.
+2649418	rus	Расскажите нам анекдот.
+2649419	rus	Они выглядят занятыми.
+2649420	rus	Кажется, они заняты.
+2649421	rus	Это их.
+2649422	rus	Это принадлежит им.
+2649424	rus	Это не весело.
+2649425	rus	Том может меня видеть.
+2649426	rus	Том сделал это всё.
+2649427	rus	Том дал это мне.
+2649428	rus	У Тома было пиво.
+2649429	rus	У Тома был план.
+2649430	rus	У Тома есть план.
+2649431	rus	Том ненавидит крыс.
+2649432	rus	Том игнорирует меня.
+2649433	rus	Том не обращает на меня внимания.
+2649434	rus	Том такой классный.
+2649435	rus	Том много знал.
+2649436	rus	Том рано ушёл.
+2649437	rus	Том выглядит занятым.
+2649438	rus	Том снова проиграл.
+2649439	rus	Том побежал внутрь.
+2649440	rus	Кажется, Том занят.
+2649441	rus	Том не занят.
+2649442	rus	Это было да?
+2649443	rus	Это означало да?
+2649444	rus	Это было согласием?
+2649445	rus	Нам нужен герой.
+2649446	rus	Нам нужно поесть.
+2649447	rus	Мы не заняты.
+2649448	jpn	桜の花よりもの言う花が綺麗だ。
+2649449	rus	Они были здесь?
+2649450	rus	Они были тут?

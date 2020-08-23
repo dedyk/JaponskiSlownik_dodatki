@@ -1,44 +1,3 @@
-2754435	ita	Tom ha il denaro, ma io no.
-2754436	ita	Tom ha il denaro, però io no.
-2754437	lit	Jis yra nepatenkintas rezultatu.
-2754438	lit	Jis nėra patenkintas rezultatu.
-2754439	eng	Tom likes to look at pictures of animals.
-2754440	eng	Tom is only five, but he already knows how to read.
-2754441	eng	She already knows how to read.
-2754442	eng	She was born in the nineties.
-2754443	eng	He was born in the eighties.
-2754444	ita	Mia mamma ha sposato il mio papà negli anni novanta.
-2754445	ita	Mia mamma ha sposato il mio papà negli anni '90.
-2754446	lit	Neįmanoma nuspėti, kada ir kur gali įvykti žemės drebėjimas.
-2754447	ita	Mia mamma ha sposato il mio papà negli anni ottanta.
-2754448	ita	Mia mamma ha sposato il mio papà negli anni '80.
-2754449	lit	Bet kurią akimirką gali pradėti lyti.
-2754450	ita	Quello che ha chiamato si è rifiutato di dirci il suo nome.
-2754451	ita	Quello che chiamò si rifiutò di dirci il suo nome.
-2754452	deu	Der kleine Tom schaut sich gerne Bilder von Tieren an.
-2754453	eng	The caller refused to give us her name.
-2754454	ita	Quella che ha chiamato si è rifiutata di dirci il suo nome.
-2754455	ita	Quella che chiamò si rifiutò di dirci il suo nome.
-2754456	epo	Lia ĉambro ĉiam estas en ordo.
-2754457	epo	La poeto fine freneziĝis.
-2754458	epo	Kion ŝi diris ne havas sencon.
-2754459	epo	Ĉu vi lernas la francan lingvon ĉiutage?
-2754460	epo	Ju pli atentema vi estas, des malpli da eraroj vi faras.
-2754461	epo	Mi atendas mian panjon.
-2754462	rus	Жизнь продолжается.
-2754463	epo	Ŝi afektas esti dormanta. Jen kial ŝi ne ronkas.
-2754464	epo	Komenciĝis la sezono de pluvoj.
-2754465	epo	En la ĉambro estas multaj mebloj.
-2754466	epo	Mi aĝas dudek sep jarojn.
-2754467	epo	Ĉu vi ion aŭdis de li?
-2754468	epo	Du seĝoj estis neokupitaj.
-2754469	eng	Two of a kind.
-2754470	epo	Ne kompliku vian vivon.
-2754471	epo	Fumi estas malpermesate ĉi tie.
-2754472	epo	Vi estas ebria.
-2754473	rus	Мы из одного теста сделаны.
-2754474	epo	Miaopinie tio estas malbona ideo.
-2754475	epo	Hobio de Jumi estas kanti popularajn kantojn.
 2754476	epo	Ne agu kontraŭ la reguloj.
 2754477	epo	Enirejo por etatanoj.
 2754478	deu	Dieser Mond ist durch die Gezeitenkräfte auseinandergerissen worden.
@@ -886,7 +845,7 @@
 2755378	eng	"Who is there?" she asked without raising her head. He remained silent.
 2755379	rus	Он осыпал её комплиментами.
 2755380	por	"Quem está aí?" — perguntou ela, sem erguer a cabeça. Ele ficou calado.
-2755381	est	Me reisime Eestis järgmisel kuul.
+2755381	est	Me reisime järgmisel kuul Eestisse.
 2755382	ina	"Qui es ibi?" — illa demandava, sin levar su capite. Ille ha restate silente.
 2755383	ita	E fu così che dissi basta.
 2755384	rus	Старик пришёл к себе на квартиру.
@@ -3408,7 +3367,6 @@
 2758093	rus	В твоем городе сколько школ?
 2758094	eng	To form the plural in Esperanto, add a j to the singular.
 2758095	eng	Jim looked left and right before crossing the street.
-2758096	rus	В стакане есть немного воды.
 2758097	eng	The manager has many problems.
 2758098	ina	Si qualcosa le adveni, que Deo non lo permitte, tu conscientia te tormentara tote tu vita.
 2758100	spa	Para formar el plural en esperanto, agrega una j al singular.
@@ -6074,7 +6032,7 @@
 2760872	ell	Πώς είναι ο καιρός στην Αθήνα;
 2760873	est	Klaasis on natuke vett.
 2760874	est	Ma kõnnin nagu pingviin.
-2760875	est	Täna ma külastasin muuseumi.
+2760875	est	Täna külastasin ma muuseumi.
 2760876	tur	Birçok şifre ezberlemem gerekiyor.
 2760877	tur	Ölümünden sonra tabloları müzede sergilendi.
 2760878	hsb	Wokrjes Sakska Šwica-Wuchodne Rudne hory je wokrjes w južnej Sakskej, kotryž so po kónčinach na juh wot Drježdźan hač k čěskej hranicy wupřestrěwa.
@@ -19499,12 +19457,12 @@
 2774974	rus	Том представился.
 2774975	spa	Le mandé a Steina una carta en islandés.
 2774976	tur	İlaç bağımlılığı modern toplumda bir kanserdir.
-2774977	est	Mida on oma mõtteid?
+2774977	est	Millised su mõtted on?
 2774978	spa	El escándalo era un obstáculo para su carrera.
 2774979	eng	The school is divided into four houses which compete against each other for points.
 2774980	est	Sa oled väga heasüdamlik.
 2774981	tur	İki blok yürü ve sağa dön.
-2774982	est	Inimeste raskused on meie raskused.
+2774982	est	Rahva raskused on meie raskused.
 2774983	est	See on sinu auto.
 2774984	spa	La clonación de personas nos pone ante serios problemas éticos.
 2774985	spa	¿Puedes decir en esperanto todo lo que quieras decir?
@@ -20378,7 +20336,7 @@
 2775885	deu	Ich spreche recht gut Chinesisch und Spanisch und lerne Koreanisch sowie Kiswahili.
 2775886	deu	Wir haben derzeit 332 Sätze in unbekannten Sprachen.
 2775887	epo	Tio inter Tom kaj Johannes ne plu estas konkurso - tio estas milito.
-2775888	ina	Determina le resto del division de 2²º¹³ per 3.
+2775888	ina	Determina le resto del division de 2²⁰¹³ per 3.
 2775889	epo	Mi skribas leteron nun.
 2775890	deu	Wir alle machen Fehler.
 2775891	por	Determinar o ponto de intersecção do círculo de raio 2 centrado na origem com a reta y = x - 1.
@@ -23052,7 +23010,6 @@
 2778672	tur	Sanırım toplantıyı ertelemelisin.
 2778674	cmn	我可以说中文。
 2778675	tur	Şimdi gitmen gerektiğini düşünüyorum.
-2778676	tur	Sanırım simdi gitmelisin.
 2778678	tur	Geçen hafta ondan bahsettiğini düşünüyorum.
 2778679	tur	Sanırım geri dönmeliyiz.
 2778680	tur	Birden Tom hakkında çok endişelendim.
@@ -30273,19 +30230,19 @@
 2786234	fin	Älä luota häneen. Hän on kaksinaamainen.
 2786235	fin	Me pelasimme eilen jalkapalloa.
 2786236	fin	Voit lainata jopa kolmekin kirjaa kerrallaan tästä kirjastosta.
-2786237	est	Mida sa annad talle?
+2786237	est	Mida sa talle annad?
 2786238	fin	Olen todella pahoillani!
 2786239	est	Mida ma söön?
 2786240	deu	Ich würde dir einen Kaffee anbieten, wenn du Zeit hättest.
-2786241	est	Ma joon kohvi.
-2786242	est	Ma väga tahan teda näha.
+2786241	est	Ma joon selle kohvi ära.
+2786242	est	Ma tahan teda väga näha.
 2786243	est	Ta on inglise keele õpetaja.
 2786244	est	Keegi ei tea, kus me oleme.
 2786245	est	Ta on väga tundlik.
 2786246	por	A ONU definiu 20 de novembro como Dia Mundial da Criança. Nessa data se celebra a aprovação da Declaração dos Direitos da Criança. No Brasil, o Dia da Criança é 12 de outubro.
 2786247	est	Heather on armas tüdruk.
 2786248	eng	The UN has made November 20 Universal Children's Day. On this date, we celebrate the adoption of the Declaration on the Rights of the Child. In Brazil, Children's Day is October 12.
-2786249	est	Mis värvi on see kala?
+2786249	est	Mis värvi see kala on?
 2786250	tur	Birçok yabancı dil öğretmeninin sorunu şu ki, onlar öğretim yöntemlerinde yeni teknolojilere hak ettikleri değeri vermiyorlar.
 2786251	deu	Die Vereinten Nationen haben den 20. November zum Weltkindertag erklärt. An diesem Tag wird die Annahme der Erklärung über die Rechte des Kindes gefeiert. In Brasilien ist der Kindertag am 12. Oktober.
 2786252	est	Mul on valge kass.
@@ -30378,10 +30335,10 @@
 2786341	fin	Ihmisillä on taipumus aliarvioida tulevia tarpeitaan.
 2786342	swe	Jag gick upp för en timme sen.
 2786343	est	Vampiir imeb minu verd.
-2786344	est	Ma ei proovi laiselda.
+2786344	est	Ma ei ürita laiselda.
 2786345	fin	Minulla ei ole siitä todisteita.
 2786346	fin	Tulen soittamaan Tomille välittömästi.
-2786347	est	See hoone rajatakse linnas.
+2786347	est	See hoone rajatakse linna.
 2786348	fin	Tomin maha kurisi.
 2786349	nld	Dit nieuwe lied maakt furore.
 2786351	swe	Vem som än använder den här tandborsten är inte min mor.
@@ -30501,7 +30458,7 @@
 2786468	rus	Она упросила его остаться.
 2786469	rus	Фома говорит, что Маша определенно хотела пойти вместе с нами, так что мы должны подождать.
 2786470	fin	Tuo ääni vei huomioni lukemisesta.
-2786471	est	Kas sa jood õlle?
+2786471	est	Kas sa õlut jood?
 2786472	rus	Какое программное обеспечение обычно использует Фома?
 2786473	est	Kas sa oled minu sõber?
 2786474	fin	Voitko alentaa hintaa kymmeneen dollariin?
@@ -30519,7 +30476,7 @@
 2786486	rus	Она поблагодарила его за содействие.
 2786487	rus	Мы теперь семья.
 2786488	fin	Anteeksi että minulta vei niin pitkään kirjoittaa sinulle.
-2786489	est	Ma tahan raamatu.
+2786489	est	Ma tahan raamatut.
 2786490	fin	Olen saanut paljon ystäviä tultuani collegeen.
 2786491	rus	Мы ждали тебя в два тридцать.
 2786492	est	Õed on haiglas.
@@ -30528,7 +30485,7 @@
 2786495	epo	Kiamaniere vi lernis la germanan?
 2786496	rus	Мы ждали тебя полтретьего.
 2786497	swe	En mans ansikte är hans självbiografi. En kvinnas ansikte är hennes skönlitterära verk.
-2786498	est	Kas ma võin tühistada pileti?
+2786498	est	Kas ma saan selle pileti tühistada?
 2786499	rus	Он широко раскрыл рот.
 2786500	rus	Он широко открыл рот.
 2786501	swe	Det slog honom aldrig att hon skulle bli arg.
@@ -30797,7 +30754,7 @@
 2786772	est	Ma tahan rootsikeelset raamatut.
 2786773	lat	Ego, Ecclesiastes fui rex Israel in Ierusalem.
 2786774	fin	Emme tehneet mitään.
-2786775	est	Ma tahan raamatu. Kus on raamatupood?
+2786775	est	Ma tahan raamatut. Kus on raamatupood?
 2786777	fin	Pahimmillaan saan keskinkertaisen arvosanan.
 2786779	ido	Li es homeosexuali.
 2786780	fin	Tapettuaan Tomin Mary hautasi hänet matalaan hautaan.
@@ -30820,7 +30777,7 @@
 2786797	est	Ma olen restoranis.
 2786798	por	Eu, Coélet, fui rei de Israel em Jerusalém.
 2786799	epo	Ili estas lesbaninoj.
-2786800	est	Tüdruk joob tee.
+2786800	est	Tüdruk joob teed.
 2786801	epo	Ili estas samseksemulinoj.
 2786802	est	See on minu laud.
 2786803	est	See on minu koer.
@@ -30843,11 +30800,11 @@
 2786820	ido	Ili es homeosexualuli.
 2786821	spa	Una cervecita sí que me vendría bien ahora.
 2786822	eng	"Why are you angry?" "I'm not angry!"
-2786823	est	Ma joon vett.
-2786824	est	Ma kirjutan raamatu.
+2786823	est	Ma joon selle vee ära.
+2786824	est	Ma kirjutan raamatut.
 2786825	pol	Tom na pewno coś knuje.
-2786826	est	Ma loen raamatu.
-2786827	est	Ma võtsin raamatu.
+2786826	est	Ma loen raamatut.
+2786827	est	Ma võtsin selle raamatu.
 2786828	est	See on suur koer.
 2786829	est	Ma laulan.
 2786830	spa	Me parece que estás un poco confundido.
@@ -33754,7 +33711,6 @@
 2789847	spa	Tom no es comunista.
 2789848	rus	Том не коммунист.
 2789849	spa	Aquí hay una foto de mi familia.
-2789850	epo	Tom ekronkis.
 2789851	spa	Tom realmente amaba a Mary.
 2789852	eng	It's good to see that our efforts were not in vain.
 2789853	spa	Tom dice que estás mintiendo.
@@ -42611,7 +42567,7 @@
 2799181	fra	Elle mesure une tête de plus que moi.
 2799182	ita	Era proprio ora che noi comprassimo un nuovo forno a microonde.
 2799183	fin	Teidän ei pitäisi huolestua tutkinnosta. Olen varma että se on paljon alempitasoinen kuin lahjakkuutenne.
-2799184	ron	Limba română este singura limbă neolatină în care articolul hotărît este postpus substantivului.
+2799184	ron	Limba română este singura limbă neolatină în care articolul hotărât este postpus substantivului.
 2799185	ita	Mi piace la musica austriaca.
 2799186	ita	A me piace la musica austriaca.
 2799187	fin	Halusin tulla lääkäriksi.
@@ -48730,7 +48686,7 @@
 2805747	rus	Какой номер?
 2805748	tat	Ул һичберебезне белми.
 2805749	hun	A magazint az asztalra tette.
-2805750	ron	Tom a decis sa renunte la scoala si sa lucreze cu norma intreaga.
+2805750	ron	Tom a decis să renunțe la școală și să lucreze cu normă întreagă.
 2805751	spa	Nos vemos esta noche.
 2805752	tat	Ул һичберебезне танымый.
 2805753	rus	Мы не можем быть просто друзьями?
@@ -49998,3 +49954,47 @@
 2807065	eng	Sporadic gunfire was heard in the distance.
 2807066	fra	Ton vélo est beaucoup plus récent que le mien.
 2807067	fra	Puis-je avoir un verre de lait ?
+2807068	rus	Том сказал, у него есть для меня работа.
+2807069	fra	Je ne m'inquiète pas trop à propos de mon CV.
+2807070	fra	Il y a plus de 4000 langages dans le monde.
+2807071	rus	Сколько раз, по-твоему, ты здесь ел?
+2807072	rus	Сколько раз, по-твоему, ты здесь ела?
+2807073	rus	Том считает, что всему есть своё время и место.
+2807074	swe	Vi har inget behov av assistans.
+2807075	eng	The hairs on the violin bow should not be too taut.
+2807076	rus	Она приписала свою неудачу невезению.
+2807078	fra	La secrétaire de Dr. Georges est japonaise.
+2807079	rus	Нам не нужна помощь.
+2807080	eng	The chaplain listened sympathetically to his parishioner.
+2807081	fra	Ils s'amusaient avec des jeux vidéos.
+2807082	swe	Tom har studerat franska i ungefär tre år.
+2807083	fra	Je ne peux pas le faire plus longtemps.
+2807084	fra	Ce garçon est fainéant.
+2807085	eng	I intend to study the subject at a postgraduate level.
+2807086	rus	Он спит в обуви.
+2807087	vie	Sống làm sao, chết làm vấy.
+2807088	rus	Завтра в шесть двадцать пять утра мой поезд прибывает в Дюссельдорф.
+2807089	tat	Эткә эт үлеме.
+2807090	rus	Что ты любишь делать больше всего?
+2807091	rus	Чем ты больше всего любишь заниматься?
+2807092	rus	Чем вы больше всего любите заниматься?
+2807093	rus	Что вы любите делать больше всего?
+2807094	fra	Elle a la possibilité de travailler.
+2807095	tat	Тормыш йолдызларга чөерә, үлем туфракка батыра.
+2807096	fra	Tom a disparu sans laisser de trace.
+2807097	eng	The delegation were escorted around the newly-built stadium.
+2807098	fra	Tom triche.
+2807099	bel	Што ты любіш рабіць болей за ўсё?
+2807100	eng	There is plenty of space in the loft for storage.
+2807101	rus	Не гнев правит мной, а я гневом.
+2807102	bel	Камп’ютары як каты: цалкам непрадказальныя.
+2807103	bel	Уставайце! Мы не маем часу, каб яго марнаваць.
+2807104	swe	Inatt var det väldigt varmt och kvavt och jag sov inget vidare.
+2807105	swe	Tom och Mary var på Johns begravning.
+2807106	vie	Nườc đổ đầu vịt.
+2807107	rus	Компьютеры как коты: совершенно непредсказуемы.
+2807108	bel	Для мяне ніколі не было важным каханне, бо я яго не ведаў. Не ведаў, што гэта такое. Але цяпер я ведаю каханне і не хачу яго страчваць.
+2807110	bel	Маё прозвішча — Вонг.
+2807111	tat	Колагына да элми.
+2807112	fra	Il a étudié comment les oiseaux volent.
+2807113	tat	Үрдәк башына су.

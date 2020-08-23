@@ -299,7 +299,7 @@
 307	deu	"Wer ist es?" "Es ist deine Mutter."
 308	deu	„Wann wirst du zurückkommen?“ – „Das hängt ganz vom Wetter ab.“
 309	deu	„Was ist los?“ fragte das kleine weiße Kaninchen.
-310	deu	„Was passiert in der Höhle? Ich bin neugierig.“ „Ich habe keine Ahnung.“
+310	deu	„Was passiert in der Höhle? Ich bin neugierig.“ – „Ich habe keine Ahnung.“
 311	deu	"Was ist dein Wunsch?", fragte das kleine weiße Kaninchen.
 312	deu	Wir müssen lernen, als Brüder zusammen zu leben, oder wir werden als Narren zusammen untergehen.
 313	deu	Öh, wie funktioniert das?
@@ -4781,9 +4781,9 @@
 4912	jpn	「転がる石は苔をもつけず」はことわざである。
 4913	jpn	何かお飲みになりますか？
 4914	jpn	「どなたですか」「お母さんよ」
-4915	jpn	「いつ戻りますか。」　「天候次第です。」
+4915	jpn	「いつ戻りますか」「天候次第です」
 4916	jpn	「どうかしたの？」と小さな白いウサギが聞きました。
-4917	jpn	「洞穴の中で何が起こっているんだろう？すごく知りたいなあ」　「見当もつかないよ」
+4917	jpn	「洞穴の中で何が起こっているんだろう？すごく知りたいなあ」「見当もつかないよ」
 4918	eng	You have the same racket as I have.
 4919	eng	She has as many books as I.
 4920	jpn	私たちは兄弟として共に生きることを知らなければならない。さもなくば、愚か者として共に滅びるであろう。
@@ -4797,7 +4797,7 @@
 4928	jpn	「おっさん、やさしいなー。」ウィリーは言った。
 4929	jpn	「手伝ってくれてありがとう。」　「どういたしまして。」
 4930	jpn	またいつか風のように走るんだ。
-4931	jpn	「彼女は音楽が好きだ。」　「私もそうだ。」
+4931	jpn	「彼女は音楽が好きだ」「私もそうだ」
 4932	jpn	お願いだから泣かないで。
 4933	jpn	何か私にできることがありましたらお知らせ下さい。
 4934	jpn	そこで私たちを待っている幸福が、私たちが望むような幸福ではないかもしれない。
@@ -5029,7 +5029,7 @@
 5167	jpn	意志あるところには道がある。
 5168	jpn	ローマは一日にして成らず。
 5169	jpn	沈黙は同意を表す。
-5170	jpn	「おわったの。」「それどころかまだ始めていないよ。」
+5170	jpn	「おわったの」「それどころかまだ始めていないよ」
 5171	jpn	「おはよう」とトムは微笑みながら言った。
 5172	jpn	ワインとは、ボトルに詰められた詩である。
 5173	jpn	あの日が私の人生で最高の日だった。
@@ -12727,7 +12727,7 @@
 13143	fra	Peter en avait assez des filles puériles.
 13144	fra	Peter a décidé de partir demain.
 13145	fra	Je suis sorti dehors en laissant le chauffage allumé.
-13146	fra	Les beatles sont connus des jeunes gens.
+13146	fra	Les Beatles sont connus des jeunes gens.
 13147	fra	Les Beatles ont mis la planète sens dessus dessous avec leur musique incroyable.
 13148	fra	Je prendrais bien un verre de bière.
 13149	fra	Les bouteilles de bière sont faites de verre.
@@ -13113,7 +13113,7 @@
 13545	fra	Pourrais-je avoir le menu, s'il vous plaît ?
 13546	fra	Laissez-moi regarder le menu, s'il vous plaît.
 13547	fra	Je n'ai pas assez de mémoire RAM.
-13548	fra	Selon Mary il ne vient pas.
+13548	fra	Selon Marie, il ne viendra pas.
 13549	fra	Marie a reçu une augmentation de la part de son employeur.
 13550	fra	Mary s'intéresse à la politique.
 13551	fra	Je pense que Marie veut devenir professeur.
@@ -13157,7 +13157,7 @@
 13590	fra	Une autre erreur et il sera renvoyé.
 13592	fra	Pouvez-vous répéter cela, s'il vous plaît ?
 13594	fra	Envoyez-moi une autre copie, s'il vous plaît.
-13595	fra	Je voudrais regrimper le mont Fuji.
+13595	fra	Je voudrais refaire l'ascension du Mont Fuji.
 13596	fra	Donne-moi une autre tasse de thé.
 13597	fra	Cela était difficile à croire.
 13598	fra	Combien de temps vas-tu me le faire dire ? Sais-tu combien de fois j'ai tenté de le réveiller ?
@@ -18171,7 +18171,7 @@
 19136	eng	Education should not be a burden on the parents as well as on the children.
 19137	eng	Teaching is learning.
 19138	eng	Teaching demands a lot of patience.
-19139	eng	With teaching and studying my time is taken up.
+19139	eng	With teaching and studying, my time is taken up.
 19140	eng	They learn to do without being taught.
 19141	eng	Where did you go for that 30 minutes you were gone?
 19142	eng	Oh! Show it to me please.
@@ -18726,7 +18726,7 @@
 19731	eng	Hurry up, Tom.
 19732	eng	I have an urgent matter to attend to.
 19733	eng	Please hurry.
-19734	eng	Our bus comes late particularly when we are in a hurry.
+19734	eng	Our bus comes late, particularly when we are in a hurry.
 19735	eng	We've really got to step on it.
 19736	eng	Are you in a hurry?
 19737	eng	That sort of thing can happen when you are in haste.
@@ -18772,13 +18772,13 @@
 19779	eng	I move that the meeting adjourn.
 19780	eng	What did you do on your vacation?
 19781	eng	I spent idle days during the vacation.
-19782	eng	In the vacation, I read the entire works of Milton.
+19782	eng	During the vacation, I read the entire works of Milton.
 19783	eng	During the vacation my sister and I stayed at a small village at the foot of Mt. Fuji.
 19784	eng	While we were on holiday, a neighbor took care of our cat.
 19785	eng	Let's take advantage of the vacation to mow the lawn.
 19786	eng	The number of students who travel abroad for vacation is increasing.
 19787	eng	Let's take advantage of the vacation to go on a hike.
-19788	eng	Please cut short your vacation and return.
+19788	eng	Please cut your vacation short and return.
 19789	eng	If you don't take a vacation, you'll collapse.
 19790	eng	Enjoy your vacation.
 19791	eng	The holidays are costing me a lot.
@@ -23793,7 +23793,6 @@
 25137	eng	Come what may; I won't change my mind.
 25139	eng	Had he known what was about to happen, he would have changed his plan.
 25140	eng	What would happen?
-25141	eng	It is unexpected what breaks out.
 25143	eng	There is no predicting what may happen.
 25144	eng	There is no telling what will happen.
 25145	eng	There is no knowing what may happen.
@@ -36378,7 +36377,6 @@
 38682	eng	How did you come to know it?
 38683	eng	What are you doing that for?
 38685	eng	How can you tolerate such a deed?
-38686	eng	How comes it that you were there?
 38687	eng	What made you come here so early?
 38688	eng	Let's check why your answers differ from mine.
 38689	eng	I can't understand how your father managed to see through that man.
@@ -38164,7 +38162,7 @@
 40599	eng	I've reserved a double.
 40600	eng	I'd like a double room.
 40601	eng	I'd like a double with a bath.
-40602	eng	Double, please.
+40602	eng	A double, please.
 40603	eng	You're tough.
 40604	eng	Loose jackets are the latest fad.
 40605	eng	I have been there scores of times.
@@ -40389,7 +40387,7 @@
 42989	eng	He was punished all the same.
 42990	eng	Nevertheless, the topic is worth discussing.
 42991	eng	It is none the less true.
-42992	eng	But somehow, he managed to stagger to the doors.
+42992	eng	But somehow he managed to stagger to the doors.
 42993	eng	Nevertheless, many are choosing early retirement.
 42994	eng	All the same, we still need a scientific account of how exactly pains are caused by brain processes.
 42995	eng	That's reversing the logical order of things.
@@ -40722,7 +40720,7 @@
 43343	eng	The old man is the epitome of kindness.
 43344	eng	The old man looks sad.
 43345	eng	The old man gave her a small doll.
-43346	eng	The old man drew a large crowd around him by his music.
+43346	eng	The old man drew a large crowd with his music.
 43347	eng	The old man lives on his pension.
 43348	eng	The old man lived by himself.
 43349	eng	The old man walked across the road carefully.
@@ -41073,7 +41071,7 @@
 43708	eng	The problem was being discussed by the committee.
 43709	eng	The problem has arisen from your ignorance of the matter.
 43710	eng	The matter is all settled.
-43711	eng	Subject closed.
+43711	eng	The subject is closed.
 43712	eng	The problems are inherent in this system.
 43713	eng	The problems are easier than those I did yesterday.
 43714	eng	The question excited much controversy.
@@ -41837,7 +41835,7 @@
 44503	eng	The sight of the ruins brought home to him the meaning of war.
 44504	eng	Where should we dispose of the waste?
 44505	eng	The actor has a large yacht.
-44506	eng	The actor went up in his lines on the stage.
+44506	eng	The actor went onstage to deliver his lines.
 44507	eng	The actor died at the height of his popularity.
 44508	eng	The actor used to have the tailor make his suits.
 44509	eng	The actor is two years senior to me.
@@ -42551,7 +42549,7 @@
 45249	eng	The price includes tax.
 45250	eng	The price is reasonable.
 45251	eng	Does that price include soup and salad?
-45252	eng	The actor was on the stage for most of the play.
+45252	eng	The actor was onstage for most of the play.
 45253	eng	The man robbed her of her bag.
 45254	eng	The man is enjoying windsurfing alone.
 45255	eng	The man is checking in at a hotel.
@@ -43062,7 +43060,7 @@
 45784	eng	The teacher turned out to be sick.
 45785	eng	The teacher looked over the examination papers.
 45786	eng	The teacher grades easily.
-45787	eng	The teacher is in charge of the third year class.
+45787	eng	The teacher is in charge of the third-year class.
 45788	eng	The teacher has a great influence on his pupils.
 45789	eng	The teacher is fresh from college.
 45790	eng	The teacher is strict with his students.
@@ -44636,7 +44634,7 @@
 47440	eng	That child wouldn't let go of his mother's hand.
 47441	eng	The child played the baby to his mother.
 47442	eng	He stood behind his mother.
-47443	eng	That child teased his mother for candy.
+47443	eng	The child begged his mother for candy.
 47444	eng	That child resembles his father.
 47445	eng	The child painted her father.
 47446	eng	He insists on playing another game.
@@ -49069,7 +49067,6 @@
 52200	eng	Provided you come back soon you may go.
 52201	eng	You'd better go home at once.
 52202	eng	Please come back at once.
-52203	eng	You may go out as long as you came back soon.
 52204	eng	Come and see me right now.
 52205	eng	You may as well leave home at once.
 52206	eng	Come home at once.
@@ -49998,3 +49995,6 @@
 53178	eng	It looks like Jacob has been bitten by the love bug.
 53179	eng	What annoys me is that, although I object, she insists on buying it.
 53180	eng	Miss Jackson did not appear.
+53181	eng	Mr Jackson has recently transferred to Tokyo from Los Angeles.
+53182	eng	Have you dug up the potatoes?
+53183	eng	I'll boil you the potatoes.
