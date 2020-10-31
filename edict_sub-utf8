@@ -1,4 +1,4 @@
-　？？？ /EDICT, EDICT_SUB(P), EDICT2 Japanese-English Electronic Dictionary Files/Copyright Electronic Dictionary Research & Development Group - 2020/Created: 2020-10-17/
+　？？？ /EDICT, EDICT_SUB(P), EDICT2 Japanese-English Electronic Dictionary Files/Copyright Electronic Dictionary Research & Development Group - 2020/Created: 2020-10-30/
 〇 [れい] /(n) zero/nought/(P)/
 〇 [ゼロ] /(n) zero/nought/(P)/
 ０ [れい] /(n) zero/nought/(P)/
@@ -761,7 +761,7 @@
 まごまご /(adv,vs) (on-mim) confused/flustered/at a loss/(P)/
 ましょうか /(exp) (1) shall I?/(exp) (2) shall we?/(P)/
 ませんか /(exp) (1) (pol) won't (hasn't, isn't, doesn't, etc.)/(exp) (2) won't you/(P)/
-またね /(exp) good-bye/see you later/(P)/
+またね /(int) bye/see you later/(P)/
 まだまだこれから /(exp) it's not over yet/you haven't seen anything yet/it's not over until the fat lady sings/it's too soon to tell/we're not out of the woods/(P)/
 まったり /(adv,adv-to,vs) (1) (on-mim) rich (taste)/full-bodied (flavour, flavor)/mellow/(adv,adv-to,vs) (2) (on-mim) laid-back (lifestyle)/relaxed/comfortable/(P)/
 までなら /(exp) up to ... (e.g. items)/until ... (times)/as far as/(P)/
@@ -935,6 +935,7 @@
 アメリカ合衆国 [アメリカがっしゅうこく] /(n) United States of America/(P)/
 アメリカ人 [アメリカじん] /(n) American person/(P)/
 アユ /(n) (uk) sweetfish (Plecoglossus altivelis altivelis)/ayu/(P)/
+アラート /(n) alert/warning/(P)/
 アラカルト /(n) a la carte (fre:)/(P)/
 アラブ /(n,adj-no) Arab/(P)/
 アリーナ /(n) arena/(P)/
@@ -1304,7 +1305,7 @@
 オルグ /(n,vs) (1) (abbr) organizer/organiser/(n,vs) (2) organizing/organising/organization/organisation/(P)/
 オルゴール /(n) music box (dut: orgel)/musical box/(P)/
 オレンジ /(n,adj-no) orange (fruit, colour)/(P)/
-オレンジ色 [オレンジいろ] /(n) orange (colour, color)/(P)/
+オレンジ色 [オレンジいろ] /(n,adj-no) orange (colour, color)/(P)/
 オン /(n,vs) on/(P)/
 オンエア /(n,vs) on air/on the air/(P)/
 オンス /(n) ounce/(P)/
@@ -2319,7 +2320,7 @@
 ジャンボ /(adj-na,n) jumbo/(P)/
 ジャンル /(n) genre (fre:)/(P)/
 ジュークボックス /(n) juke-box/(P)/
-ジュース /(n) (1) juice/(n) (2) soft drink/(P)/
+ジュース /(n) (1) juice/(n) (2) soft drink (usu. fruit-based)/sweetened drink/(P)/
 ジュール /(n) joule/(P)/
 ジューンブライド /(n) June bride/(P)/
 ジュエリー /(n) jewelry/jewellery/(P)/
@@ -2849,7 +2850,7 @@
 ツリー /(n) (1) tree (e.g. Christmas)/(n) (2) tree structure/tree diagram/(P)/
 テーゼ /(n) thesis (ger: These)/statement/(P)/
 テーピング /(n,vs) taping (e.g. an injured joint)/(P)/
-テーブル /(n,adj-no) table/(P)/
+テーブル /(n) table/(P)/
 テープ /(n) tape/(P)/
 テープレコーダー /(n) tape recorder/(P)/
 テーマ /(n) theme (ger: Thema)/topic/subject matter/motif/project/slogan/(P)/
@@ -3157,7 +3158,7 @@
 ナイル /(n) (uk) Nile (river)/(P)/
 ナイロン /(n) nylon/(P)/
 ナイン /(n) (1) nine/(n) (2) (baseb) team/players on a team/(int) (3) no (ger: nein)/(P)/
-ナウ /(adj-na) (1) "in" (eng:)/trendy/now/(suf) (2) (net-sl) currently at .../now doing .../in the middle of .../(P)/
+ナウ /(adj-na) (1) trendy (eng:)/in/now/(suf) (2) (net-sl) currently at .../now doing .../in the middle of .../(P)/
 ナショナリズム /(n) nationalism/(P)/
 ナショナル /(adj-na,n) national/(P)/
 ナショナルチェーン /(n) national chain/(P)/
@@ -3365,7 +3366,7 @@
 ハンター /(n) hunter/(P)/
 ハンチング /(n) (1) hunting/(n) (2) oscillatory behavior of a non-converging feedback loop (behaviour)/(n) (3) (abbr) hunting cap/(P)/
 ハンティング /(n) hunting/(P)/
-ハンディ /(n) (1) (abbr) handicap/(adj-na) (2) compact/portable/easy-to-use/handy/(P)/
+ハンデ /(n) (abbr) handicap/(P)/
 ハンディキャップ /(n) handicap/(P)/
 ハンド /(n) (1) hand/(n) (2) (sports) (abbr) handball (soccer foul)/(P)/
 ハンドバッグ /(n) handbag/purse/(P)/
@@ -3433,7 +3434,7 @@
 バスケットボール /(n) basketball/(P)/
 バスター /(n) (baseb) fake bunt (eng: bastard)/slash bunt/(P)/
 バスツアー /(n) bus tour/(P)/
-バスト /(n) (1) bust (measurement)/(n) (2) breasts/bosom/(n) (3) upper half of the body (esp. statue or portrait)/bust/(P)/
+バスト /(n) (1) bust (measurement)/(n) (2) breasts/bosom/(n) (3) bust (sculpture)/half-length portrait/(P)/
 バスルーム /(n) bathroom/(P)/
 バス停 [バスてい] /(n) bus stop/(P)/
 バター /(n) (food) butter/(P)/
@@ -3484,7 +3485,7 @@
 バルコニー /(n) balcony/(P)/
 バルセロナ /(n) (place) Barcelona (Spain)/(P)/
 バルト /(n) Baltic/(P)/
-バルブ /(n) (1) bulb/(n) (2) valve/(P)/
+バルブ /(n) valve/(P)/
 バレー /(n) (1) (abbr) volleyball/(n) (2) valley/(n) (3) ballet/(n) (4) (music) barre (chord in guitar technique)/(P)/
 バレーボール /(n) volleyball/(P)/
 バレエ /(n) ballet (fre:)/(P)/
@@ -3929,7 +3930,6 @@
 フル /(adj-na,n) full/(P)/
 フルーツ /(n) fruit/(P)/
 フルート /(n) flute/(P)/
-フレー /(n) hurray/(P)/
 フレーズ /(n) (1) phrase/(n) (2) strawberry (fre: fraise)/(P)/
 フレーバー /(n) flavor/flavour/(P)/
 フレーム /(n) (1) frame/(n) (2) flame (abusive or threatening message)/(P)/
@@ -4328,7 +4328,7 @@
 ボクシング /(n) boxing/(P)/
 ボコーダー /(n) vocoder/(P)/
 ボサノバ /(n) bossa nova (por:)/(P)/
-ボス /(n) (1) boss/leader/head/(n) (2) difficult enemy in a video game, usu. found at the end of a level or game/(P)/
+ボス /(n) (1) boss/leader/head/(n) (2) boss (difficult enemy in a video game, usu. at the end of a section or level)/(P)/
 ボストン /(n,adj-no) Boston/(P)/
 ボスニア /(n) Bosnia/(P)/
 ボタン /(n) (uk) button (por:)/(P)/
@@ -4934,7 +4934,7 @@
 リストラ /(n) (abbr) (corporate) restructuring/downsizing/laying off people/(P)/
 リスナー /(n) listener/(P)/
 リスボン /(n) Lisbon (Portugal)/(P)/
-リズミカル /(adj-na) rhythmical/(P)/
+リズミカル /(adj-na) rhythmical/well-paced/(P)/
 リズム /(n) rhythm/(P)/
 リセ /(n) lycee (fre:)/(P)/
 リセッション /(n) (econ) recession/(P)/
@@ -5096,7 +5096,7 @@
 レトロ /(adj-na,n) retro/nostalgic/old-fashioned/(P)/
 レバー /(n) (1) lever/joystick/(n) (2) (food) liver/(P)/
 レパートリー /(n) repertoire/repertory/(P)/
-レビュー /(n,vs) (1) review/(n,vs) (2) revue/(P)/
+レビュー /(n,vs) review/(P)/
 レフ /(n) (1) (abbr) reflex camera/(n) (2) (abbr) reflector/(n) (3) lev (Bulgarian currency) (bul:)/(P)/
 レフェリー /(n) referee/(P)/
 レフト /(n) left/(P)/
@@ -5218,7 +5218,6 @@
 ワンマン /(adj-f) (1) one-man (show, team, etc.)/(n,adj-na,adj-no) (2) tyrant/dictatorial person/(n) (3) (abbr) conductorless bus (i.e. having only a driver)/conductorless train/(P)/
 ワンルームマンション /(n) studio apartment (wasei: one-room mansion)/studio flat/(P)/
 ヴァイオリン /(n) violin/(P)/
-ヴァルヴ /(n) valve/(P)/
 ヴァンパイア /(n) vampire/(P)/
 ヴォーカリスト /(n) vocalist/(P)/
 ヵ月 [かげつ] /(ctr) months (period of)/(P)/
@@ -5386,7 +5385,7 @@
 委ねる [ゆだねる] /(v1,vt) (1) to entrust (a matter) to/to leave to/(v1,vt) (2) to abandon oneself to (e.g. pleasure)/to yield to (e.g. anger)/to devote oneself to/(P)/
 委員 [いいん] /(n) committee member/(P)/
 委員会 [いいんかい] /(n) committee/commission/board/panel/committee meeting/(P)/
-委員長 [いいんちょう] /(n) committee chairman/(P)/
+委員長 [いいんちょう] /(n) (committee) chairman/president/(P)/
 委嘱 [いしょく] /(n,vs) commissioning/entrusting (with)/request/appointment (to a position)/(P)/
 委託 [いたく] /(n,vs) entrusting (something to a person)/consignment (of goods)/putting in someone's charge/trust/commission/(P)/
 委任 [いにん] /(n,vs) entrusting/charge/delegation/authorization/(P)/
@@ -5455,7 +5454,7 @@
 異性 [いせい] /(n,adj-no) (1) the opposite sex/(n,adj-no) (2) (chem) isomerism/(P)/
 異端 [いたん] /(n,adj-no) heresy/(P)/
 異動 [いどう] /(n,vs) change (personnel)/transfer/reshuffle/(P)/
-異物 [いぶつ] /(n) (1) foreign substance/foreign body/foreign contamination/(n) (2) strange object/unusual object/(n) (3) (arch) dead body/corpse/remains/(P)/
+異物 [いぶつ] /(n) (1) foreign substance/foreign body/foreign contamination/foreign material/(n) (2) strange object/unusual object/(n) (3) (arch) dead body/corpse/remains/(P)/
 異文 [いぶん] /(n) variant (in a manuscript or book)/part of a text that differs from other versions/(P)/
 異変 [いへん] /(n) unusual event/strange occurrence/strange phenomenon/something abnormal/change (for the worse)/accident/disaster/(P)/
 異名 [いみょう] /(n) another name/nickname/alias/(P)/
@@ -5750,7 +5749,7 @@
 一抹 [いちまつ] /(n) (1) (a) touch of/tinge of/wreath (e.g. of smoke)/(n) (2) one stroke/one brush/(P)/
 一万 [いちまん] /(num) 10,000/ten thousand/(P)/
 一味違う [ひとあじちがう] /(exp,v5u) to be somewhat different (from before, from others, etc.)/(P)/
-一面 [いちめん] /(n) (1) one face/one surface/(n) (2) the whole surface/(n) (3) one aspect/one side/(n,n-adv) (4) (on) the other hand/(n,n-adv) (5) one broad, flat object/(n,n-adv) (6) front page (e.g. newspaper)/(P)/
+一面 [いちめん] /(n) (1) one face/one surface/(n) (2) the whole surface/(n) (3) one aspect/one side/(n,n-adv) (4) (on) the other hand/(n) (5) one broad, flat object/(n) (6) front page (e.g. newspaper)/(P)/
 一目 [ひとめ] /(n) (1) glance/look/glimpse/(n) (2) complete view/bird's-eye view/(P)/
 一問 [いちもん] /(n) one question/(P)/
 一門 [いちもん] /(n) (1) family/clan/kin/(n) (2) sect/school/adherents/followers/disciples/(n) (3) (sumo) group of related sumo stables/(P)/
@@ -6029,7 +6028,7 @@
 栄誉 [えいよ] /(n) honour/honor/(P)/
 栄養 [えいよう] /(n,adj-no) nutrition/nourishment/(P)/
 栄養学 [えいようがく] /(n) dietetics/nutritional science/(P)/
-栄養士 [えいようし] /(n) nutritionist/(P)/
+栄養士 [えいようし] /(n) dietitian/(licensed) nutritionist/(P)/
 栄養失調 [えいようしっちょう] /(n,adj-no) malnutrition/(P)/
 栄養素 [えいようそ] /(n) nutrient/(P)/
 永遠 [えいえん] /(n,adj-no,adj-na) eternity/perpetuity/permanence/immortality/(P)/
@@ -6081,7 +6080,6 @@
 越権 [えっけん] /(n,adj-no) going beyond authority/unauthorized/unauthorised/ultra vires/(P)/
 越後 [えちご] /(n) Echigo (former province located in present-day Niigata Prefecture)/(P)/
 越冬 [えっとう] /(n,vs) passing the winter/hibernation/(P)/
-越年 [えつねん] /(n,vs) seeing the old year out/greeting the New Year/passing the winter/hibernation/(P)/
 閲覧 [えつらん] /(n,vs) (1) inspection/reading/perusal/(n,vs) (2) browsing (the web)/(P)/
 厭らしい [いやらしい] /(adj-i) (1) (uk) unpleasant/disagreeable/nasty/(adj-i) (2) (uk) lewd/lascivious/obscene/filthy/dirty/(P)/
 円 [えん] /(n) (1) yen (Japanese monetary unit)/(n) (2) circle/(P)/
@@ -6388,7 +6386,7 @@
 下 [もと] /(n) (1) under (guidance, supervision, rules, the law, etc.)/(n) (2) under (a flag, the sun, etc.)/beneath/(n) (3) with (e.g. one blow)/on (the promise, condition, assumption, etc. that ...)/in (e.g. the name of)/(n) (4) (somebody's) side/(somebody's) location/(P)/
 下がり [さがり] /(n) (1) fall/decline/lowering/hanging down/drooping/slanting (downward)/(n) (2) (sumo) string apron/ornamental cords hanging from the front of a sumo wrestler's belt/(n) (3) food offering to the gods/leftovers/hand-me-downs/(n) (4) leaving (one's master's place for home)/(n-suf,n) (5) a little after .../(P)/
 下がる [さがる] /(v5r,vi) (1) to come down/to go down/to fall/to drop/to sink/to get lower/(v5r,vi) (2) to hang/to dangle/(v5r,vi) (3) to move back/to step back/to withdraw/to retire/(v5r,vi) (4) to deteriorate/to fall off/to be downgraded/(v5r,vi) (5) to get closer to the present day/(v5r,vi) (6) to go south/(P)/
-下げる [さげる] /(v1,vt) (1) to hang/to suspend/to wear (e.g. decoration)/(v1,vt) (2) to lower/to reduce/to bring down/(v1,vt) (3) to demote/to move back/to pull back/(v1,vt) (4) to clear (plates)/to remove (food, etc. from table or altar)/(P)/
+下げる [さげる] /(v1,vt) (1) to hang/to suspend/to wear (e.g. decoration)/(v1,vt) (2) to lower/to reduce/to bring down/(v1,vt) (3) to demote/to move back/to pull back/(v1,vt) (4) to clear (plates)/to remove (food, etc. from table or altar)/(v1,vt) (5) (hanaf) to keep on playing after one has formed a scoring combination with captured cards/(P)/
 下さい [ください] /(exp) (1) (uk) (hon) please (give me)/(exp) (2) (uk) (hon) please (do for me)/(P)/
 下さる [くださる] /(v5aru) (1) (hon) (uk) to give/to confer/to bestow/(v5aru) (2) (hon) (uk) to kindly do for one/to oblige/to favour/to favor/(P)/
 下す [くだす] /(v5s,vt) (1) to make a decision/to draw a conclusion/(v5s,vt) (2) to give a judgement/to hand down a verdict/to pass a sentence/to give an order/(v5s,vt) (3) to let go down/to lower/(v5s,vt) (4) to do oneself/to do by oneself/(v5s,vt) (5) to beat/to defeat/(v5s,vt) (6) to have loose bowels/to have diarrhea/(v5s,vt) (7) to pass (in stool)/to discharge from the body/(aux-v,v5s) (8) to do in one go/to do to the end without stopping/(P)/
@@ -6432,7 +6430,7 @@
 下調べ [したしらべ] /(n,vs) preliminary investigation/preparation/(P)/
 下等 [かとう] /(adj-na,n) inferior/base/vulgar/low grade/lower class/(P)/
 下半期 [しもはんき] /(n) second half of the year/second half of the fiscal year/(P)/
-下半身 [かはんしん] /(n) lower half of body/(P)/
+下半身 [かはんしん] /(n) lower half of the body/(P)/
 下品 [げひん] /(adj-na,n) vulgar/indecent/coarse/crude/(P)/
 下敷 [したじき] /(n) (1) desk pad/sheet of plastic (or cardboard, felt, etc.) placed under writing paper/underlay/(n) (2) being pinned under/being caught under/being trapped under/being buried under/being crushed beneath/(n) (3) model/pattern/(P)/
 下敷き [したじき] /(n) (1) desk pad/sheet of plastic (or cardboard, felt, etc.) placed under writing paper/underlay/(n) (2) being pinned under/being caught under/being trapped under/being buried under/being crushed beneath/(n) (3) model/pattern/(P)/
@@ -6538,8 +6536,8 @@
 何百 [なんびゃく] /(n) hundreds/(P)/
 何分 [なにぶん] /(n,adj-no) (1) some/any/(a) little/of some kind/of some sort/(adv) (2) please/(adv) (3) anyway/anyhow/at any rate/after all/(P)/
 何遍 [なんべん] /(exp) how many times/how often/(P)/
-何方 [どちら] /(pn) (1) (uk) which way/which direction/where/(pn) (2) which one (esp. of two alternatives)/(pn) (3) who/(P)/
-何方 [どっち] /(pn) (1) (uk) which way/which direction/where/(pn) (2) which one (esp. of two alternatives)/(pn) (3) who/(P)/
+何方 [どちら] /(pn) (1) (uk) which way/which direction/where/(pn) (2) (uk) which one (esp. of two alternatives)/(pn) (3) (uk) who/(P)/
+何方 [どっち] /(pn) (1) (uk) which way/which direction/where/(pn) (2) (uk) which one (esp. of two alternatives)/(pn) (3) (uk) who/(P)/
 何方 [どなた] /(pn) (uk) (hon) who/(P)/
 何方か [どなたか] /(n) (hon) (uk) someone/(P)/
 何方でも [どなたでも] /(adv) (uk) (hon) anyone/(P)/
@@ -7011,8 +7009,8 @@
 灰皿 [はいざら] /(n) ashtray/(P)/
 灰色 [はいいろ] /(n,adj-no) grey/gray/ashen/(P)/
 界隈 [かいわい] /(n,n-suf) neighborhood/neighbourhood/vicinity/(P)/
-皆 [みな] /(adv,n) (1) (uk) all/everyone/everybody/(adv,n) (2) (uk) everything/(P)/
-皆 [みんな] /(adv,n) (1) (uk) all/everyone/everybody/(adv,n) (2) (uk) everything/(P)/
+皆 [みな] /(n,pn,n-adv) (1) (uk) everyone/everybody/all/(n,n-adv) (2) (uk) everything/all/(P)/
+皆 [みんな] /(n,pn,n-adv) (1) (uk) everyone/everybody/all/(n,n-adv) (2) (uk) everything/all/(P)/
 皆さん [みなさん] /(n) (hon) all/everyone/everybody/(P)/
 皆無 [かいむ] /(adj-na,adj-no,n) nonexistent/nil/none/nothing (at all)/bugger-all/(P)/
 皆目 [かいもく] /(adv) entirely/(not) at all/(P)/
@@ -7755,7 +7753,7 @@
 顔を出す [かおをだす] /(exp,v5s) to turn up/to make an appearance/to put in an appearance/to drop by/(P)/
 顔を潰す [かおをつぶす] /(exp,v5s) to make somebody lose face/to embarrass someone/to make someone look foolish/(P)/
 顔見知り [かおみしり] /(n) acquaintance/(P)/
-顔合わせ [かおあわせ] /(n,vs) meeting together/introduction/(P)/
+顔合わせ [かおあわせ] /(n,vs) (1) meeting together/introduction/(n,vs) (2) costarring/appearing together/(n,vs) (3) being matched/facing off/(P)/
 顔色 [かおいろ] /(n) (1) complexion/one's colour/one's color/(n) (2) countenance/expression/one's face/(P)/
 顔触れ [かおぶれ] /(n) (1) personnel/members/lineup (of a team)/roster/cast (of a play)/(n) (2) (sumo) announcement of next day's match-ups/(P)/
 顔付き [かおつき] /(n) (outward) looks/features/face/countenance/expression/(P)/
@@ -8097,7 +8095,7 @@
 偽造 [ぎぞう] /(n,vs,adj-no) forgery/falsification/fabrication/counterfeiting/(P)/
 偽物 [にせもの] /(n) spurious article/forgery/counterfeit/imitation/sham/(P)/
 儀 [ぎ] /(n) (1) ceremony/(n) (2) matter/affair/(suf) (3) with regard to/as for/as concerns/(P)/
-儀式 [ぎしき] /(n,adj-no) ceremony/rite/ritual/service/(P)/
+儀式 [ぎしき] /(n) ceremony/rite/ritual/service/(P)/
 儀礼 [ぎれい] /(n) etiquette/courtesy/(P)/
 宜しい [よろしい] /(adj-i) (uk) (hon) good/OK/all right/fine/very well/will do/may/can/(P)/
 宜しく [よろしく] /(exp,adv) (1) (uk) well/properly/suitably/(exp,adv) (2) best regards/please remember me/please treat me favorably (favourably)/please take care of/please do/(exp,adv) (3) just like .../as though one were .../(exp,adv) (4) by all means/of course/(P)/
@@ -8448,7 +8446,7 @@
 競り合う [せりあう] /(v5u,vi) to struggle for/to compete with/to vie with/(P)/
 競る [せる] /(v5r,vt) (1) to compete/(v5r,vt) (2) to bid/(v5r,vt) (3) to sell at auction/(P)/
 競泳 [きょうえい] /(n,vs) competitive swimming/swimming race/(P)/
-競演 [きょうえん] /(n,vs) recital contest/(P)/
+競演 [きょうえん] /(n,vs) contest (between performers)/competitive performance/(P)/
 競技 [きょうぎ] /(n,vs,adj-no) game/match/contest/(P)/
 競技場 [きょうぎじょう] /(n) field/sports stadium/arena/(P)/
 競合 [きょうごう] /(n,vs,adj-no) contention/competition/rivalry/quarrel/(P)/
@@ -8623,7 +8621,7 @@
 矯正 [きょうせい] /(n,vs,adj-no) correction (of fault, defect, flaw, etc.)/remedy/rectification/redress/reform/(P)/
 胸 [むね] /(n) (1) chest/breast/(n) (2) breasts/bosom/bust/(n) (3) heart/(n) (4) lungs/(n) (5) stomach/(n) (6) heart/mind/feelings/(P)/
 胸襟 [きょうきん] /(n) one's heart/(P)/
-胸像 [きょうぞう] /(n) bust (statue)/(P)/
+胸像 [きょうぞう] /(n) bust (sculpture)/half-length portrait/(P)/
 胸中 [きょうちゅう] /(n,adj-no) one's heart/one's mind/one's intentions/(P)/
 胸部 [きょうぶ] /(n,adj-no) chest/breast/(P)/
 脅かす [おどかす] /(v5s,vt) (1) to threaten/to menace/to intimidate/(v5s,vt) (2) to startle/to frighten/to scare/(P)/
@@ -9199,7 +9197,7 @@
 軽い [かるい] /(adj-i) (1) light (i.e. not heavy)/feeling light (i.e. offering little resistance, moving easily)/(adj-i) (2) light (i.e. of foot)/effortless/nimble/agile/(adj-i) (3) non-serious/minor/unimportant/trivial/(adj-i) (4) slight/small/gentle/soft/easy/lighthearted (e.g. joke)/(adj-i) (5) easy/simple/(adj-i) (6) indiscriminate/(P)/
 軽はずみ [かるはずみ] /(adj-na,n) thoughtless/rash/hasty/imprudent/(P)/
 軽やか [かろやか] /(adj-na) light/easy/non-serious/minor/(P)/
-軽音楽 [けいおんがく] /(n) light music/(P)/
+軽音楽 [けいおんがく] /(n) light music/popular music/(P)/
 軽快 [けいかい] /(adj-na,n) (1) light (of movements)/nimble/sprightly/springy/(adj-na,n) (2) light-hearted/cheerful/buoyant/jaunty/casual (e.g. clothing)/rhythmical (e.g. melody)/(n,vs) (3) taking a turn for the better (of an illness)/receding of symptoms/recovery/convalescence/(P)/
 軽減 [けいげん] /(n,vs) abatement/reduction/(P)/
 軽工業 [けいこうぎょう] /(n) light industry/(P)/
@@ -10127,7 +10125,7 @@
 公示 [こうじ] /(n,vs) edict/public announcement/(P)/
 公式 [こうしき] /(adj-no,n) (1) official/formal/(n) (2) formula (e.g. mathematical)/(n) (3) official (social media) account (of a company, organization, etc.)/(P)/
 公式サイト [こうしきサイト] /(n) official website/(P)/
-公式戦 [こうしきせん] /(n) regular game/pennant race/(P)/
+公式戦 [こうしきせん] /(n) (sports) regular game/regular-season game/(P)/
 公舎 [こうしゃ] /(n) official residence/(P)/
 公社 [こうしゃ] /(n) public corporation/(P)/
 公社債 [こうしゃさい] /(n) public bonds/(P)/
@@ -10442,6 +10440,7 @@
 耕作 [こうさく] /(n,vs) cultivation/farming/(P)/
 耕地 [こうち] /(n) arable land/(P)/
 考え [かんがえ] /(n) (1) thinking/thought/view/opinion/concept/(n) (2) idea/notion/imagination/(n) (3) intention/plan/design/(n) (4) consideration/judgement/deliberation/reflection/(n) (5) wish/hope/expectation/(P)/
+考えてみれば [かんがえてみれば] /(exp) if you think about it/come to think of it/(P)/
 考える [かんがえる] /(v1,vt) (1) to think (about, of)/to think over/to ponder/to contemplate/to reflect (on)/to meditate (on)/(v1,vt) (2) to consider/to bear in mind/to allow for/to take into consideration/(v1,vt) (3) to think (that)/to believe/to hold (a view)/to judge/to conclude/to suspect/(v1,vt) (4) to intend (to do)/to think of (doing)/to plan/(v1,vt) (5) to predict/to anticipate/to expect/to imagine/(v1,vt) (6) to come up with/to think up/to contrive/to devise/(v1,vt) (7) to consider (as)/to regard (as)/to look on (as)/to take/to view/(P)/
 考え直す [かんがえなおす] /(v5s,vt) to reconsider/to rethink/to reassess/(P)/
 考え方 [かんがえかた] /(n) way of thinking/(P)/
@@ -10837,8 +10836,8 @@
 此れから [これから] /(n-t) (uk) after this/(P)/
 此処 [ここ] /(pn) (1) (uk) here (place physically close to the speaker, place pointed by the speaker while explaining)/this place/(pn) (2) (uk) these last (followed by a duration noun and a past sentence: time period before the present time of the speaker)/(pn) (3) (uk) these next ... (followed by a duration noun and a non past sentence: time period after the present time of the speaker)/the next .../(P)/
 此奴 [こいつ] /(pn) (1) (uk) (col) (derog) (fam) he/she/this fellow/this guy/this person/(pn) (2) (uk) (col) (derog) (fam) this/this one/this thing/(int) (3) (uk) (col) (derog) (fam) Hey, you!/You bastard!/Damn you!/(P)/
-此方 [こちら] /(n) (1) (uk) this way (direction close to the speaker or towards the speaker)/this direction/(n) (2) here (place close to the speaker or where the speaker is)/(n) (3) this one (something physically close to the speaker)/(pn) (4) I/me/we/us/(pn) (5) this person (someone physically close to the speaker and of equal or higher status)/(P)/
-此方 [こっち] /(n) (1) (uk) this way (direction close to the speaker or towards the speaker)/this direction/(n) (2) here (place close to the speaker or where the speaker is)/(n) (3) this one (something physically close to the speaker)/(pn) (4) I/me/we/us/(pn) (5) this person (someone physically close to the speaker and of equal or higher status)/(P)/
+此方 [こちら] /(pn) (1) (uk) this way (direction close to the speaker or towards the speaker)/this direction/(pn) (2) (uk) here (place close to the speaker or where the speaker is)/(pn) (3) (uk) this one (something physically close to the speaker)/(pn) (4) (uk) I/me/we/us/(pn) (5) (uk) this person (someone physically close to the speaker and of equal or higher status)/(P)/
+此方 [こっち] /(pn) (1) (uk) this way (direction close to the speaker or towards the speaker)/this direction/(pn) (2) (uk) here (place close to the speaker or where the speaker is)/(pn) (3) (uk) this one (something physically close to the speaker)/(pn) (4) (uk) I/me/we/us/(pn) (5) (uk) this person (someone physically close to the speaker and of equal or higher status)/(P)/
 頃 [ころ] /(n,n-adv,n-suf) (1) (uk) (approximate) time/around/about/toward/(n,n-adv,n-suf) (2) suitable time (or condition)/(n,n-adv,n-suf) (3) time of year/season/(P)/
 頃 [ごろ] /(n,n-adv,n-suf) (1) (uk) (approximate) time/around/about/toward/(n,n-adv,n-suf) (2) suitable time (or condition)/(n,n-adv,n-suf) (3) time of year/season/(P)/
 今 [いま] /(n-t,n-adv,adj-no) (1) now/the present time/just now/soon/immediately/(adv) (2) another/more/(P)/
@@ -10986,7 +10985,7 @@
 砂漠 [さばく] /(n) desert/(P)/
 砂浜 [すなはま] /(n) sandy beach/(P)/
 砂防 [さぼう] /(n) erosion control/(P)/
-砂利 [じゃり] /(n,adj-no) (1) gravel/ballast/pebbles/(n,adj-no) (2) (col) child/rugrat/ankle-biter/(P)/
+砂利 [じゃり] /(n,adj-no) (1) gravel/ballast/pebbles/(n,adj-no) (2) (col) (uk) child/rugrat/ankle-biter/(P)/
 詐欺 [さぎ] /(n,adj-no) fraud/swindle/graft/cheating/trick/scam/(P)/
 詐欺師 [さぎし] /(n) swindler/imposter/crook/cheater/(P)/
 詐取 [さしゅ] /(n,vs) defrauding/swindle/(P)/
@@ -11358,7 +11357,7 @@
 三部 [さんぶ] /(n) three parts/three copies/(P)/
 三部作 [さんぶさく] /(n) trilogy/(P)/
 三方 [さんぼう] /(n) (1) three sides/(n) (2) small offering stand/(P)/
-三本 [さんぼん] /(n) (1) three (long cylindrical things)/(n) (2) (hanaf) three-of-a-kind/(P)/
+三本 [さんぼん] /(n) (1) three (long cylindrical things)/(n) (2) (hanaf) three-of-a-kind (in a dealt hand)/(P)/
 三枚 [さんまい] /(n) (1) three flat objects (sheets of paper, pieces of cloth, etc.)/(n) (2) cutting a fish into two boneless fillets and a piece with the skeleton/(P)/
 三味線 [しゃみせん] /(n) shamisen/samisen/three-stringed Japanese lute/(P)/
 三役 [さんやく] /(n) (1) three highest ranks (wrestling, unions, etc.)/(n) (2) three parts/three divisions/(P)/
@@ -11389,7 +11388,7 @@
 参謀 [さんぼう] /(n) (1) staff officer/military staff/(n) (2) adviser/counselor/counsellor/(P)/
 参与 [さんよ] /(n,vs,adj-no) (1) participation/taking part/(n) (2) consultant/councillor/adviser/(P)/
 参列 [さんれつ] /(n,vs) attendance/participation/presence/(P)/
-山 [やま] /(n,ctr) (1) mountain/hill/(n,ctr) (2) mine (e.g. coal mine)/(n,ctr) (3) heap/pile/(n) (4) crown (of a hat)/thread (of a screw)/tread (of a tire)/protruding part of an object/high part/(n) (5) climax/peak/critical point/(n) (6) guess/speculation/gamble/(n) (7) criminal case/crime/(n) (8) mountain climbing/mountaineering/(n) (9) festival float (esp. one mounted with a decorative halberd)/(n) (10) (mahj) wall/wall tile/(n) (11) (arch) temple/temple grounds/(n-pref) (12) wild/(P)/
+山 [やま] /(n,ctr) (1) mountain/hill/(n,ctr) (2) mine (e.g. coal mine)/(n,ctr) (3) heap/pile/(n) (4) crown (of a hat)/thread (of a screw)/tread (of a tire)/protruding part of an object/high part/(n) (5) climax/peak/critical point/(n) (6) guess/speculation/gamble/(n) (7) (sl) criminal case/crime/(n) (8) mountain climbing/mountaineering/(n) (9) festival float (esp. one mounted with a decorative halberd)/(n) (10) deck (of playing cards on table, face down, from which cards are drawn)/stack/(n) (11) (mahj) wall/wall tile/(n) (12) (arch) temple/temple grounds/(n-pref) (13) wild/(P)/
 山々 [やまやま] /(n) (1) (many) mountains/(adv) (2) (uk) very much (esp. wanting to do something one cannot)/greatly/really/(P)/
 山葵 [わさび] /(n) (uk) wasabi (Wasabia japonica)/(P)/
 山陰 [やまかげ] /(n) (1) place in the shade of a mountain/shelter of the mountains/(n) (2) mountain recess/(P)/
@@ -11871,7 +11870,7 @@
 試作 [しさく] /(n,vs) trial manufacture/experiment/test piece/prototype/(P)/
 試算 [しさん] /(n,vs) trial calculation/preliminary calculation/estimation/(P)/
 試写 [ししゃ] /(n,vs) preview/private showing/(P)/
-試食 [ししょく] /(n,vs) sampling food/(P)/
+試食 [ししょく] /(n,vs) sampling food/tasting/trying/(P)/
 試着 [しちゃく] /(n,vs) trying on clothes/(P)/
 試薬 [しやく] /(n) reagent/(P)/
 試料 [しりょう] /(n) sample/specimen/test piece/(P)/
@@ -12165,7 +12164,7 @@
 自動車 [じどうしゃ] /(n) automobile/motorcar/motor vehicle/car/auto/(P)/
 自動的 [じどうてき] /(adj-na) automatic/(P)/
 自動販売機 [じどうはんばいき] /(n) vending machine/(P)/
-自任 [じにん] /(n,vs) self-appointment/pretension/(P)/
+自任 [じにん] /(n,vs) regarding oneself (as)/fancying oneself (as)/seeing oneself (as)/considering oneself (to be)/pretension/(P)/
 自白 [じはく] /(n,vs) confession/acknowledgement/acknowledgment/(P)/
 自発 [じはつ] /(n) (1) spontaneity/(n) (2) (ling) spontaneous passive/(P)/
 自発的 [じはつてき] /(adj-na) spontaneous/voluntary/(P)/
@@ -12469,7 +12468,7 @@
 若しかしたら [もしかしたら] /(exp,adv) (uk) perhaps/maybe/perchance/by some chance/by any chance/(P)/
 若しかして [もしかして] /(adv) (1) (uk) perhaps/possibly/maybe/by any chance/if I'm not mistaken/(adv) (2) (uk) if/in case/in the event that/(P)/
 若しかすると [もしかすると] /(adv) (uk) perhaps/possibly/maybe/by some chance/(P)/
-若しくは [もしくは] /(conj,exp) (uk) or/otherwise/(P)/
+若しくは [もしくは] /(conj) (uk) or/otherwise/(P)/
 若しも [もしも] /(adv) (uk) if/in case/supposing/(P)/
 若干 [じゃっかん] /(adj-no) (1) some/few/a number of/a little (bit)/(n-adv) (2) somewhat/to a certain extent/(P)/
 若者 [わかもの] /(n,adj-no) young man/young woman/young people/youth/youngsters/(P)/
@@ -12850,7 +12849,7 @@
 宗家 [そうけ] /(n) head of family/originator/(P)/
 宗教 [しゅうきょう] /(n) (1) religion/religious affiliation/belief/faith/creed/(n) (2) religious activity/(P)/
 宗祖 [しゅうそ] /(n) sect founder/(P)/
-宗派 [しゅうは] /(n,adj-no) sect/denomination/(P)/
+宗派 [しゅうは] /(n) (1) sect/denomination/(n) (2) school (e.g. of poetry)/(P)/
 宗門 [しゅうもん] /(n) (religious) denomination/sect/(P)/
 就いて [ついて] /(exp) (uk) about/concerning/as to/regarding/(P)/
 就く [つく] /(v5k,vi) (1) to take (seat, position, course, office, etc.)/to assume/to be hired/to be employed/(v5k,vi) (2) to ascend (the throne)/to accede/(v5k,vi) (3) to start (on a journey)/to commence/to depart/(v5k,vi) (4) to study (under teacher)/to be an apprentice/(P)/
@@ -13146,7 +13145,7 @@
 出かける [でかける] /(v1,vi) (1) to go out (e.g. on an excursion or outing)/to leave/to depart/to start/to set out/(v1,vi) (2) to be about to leave/to be just going out/(P)/
 出し [だし] /(n) (1) (uk) dashi (Japanese soup stock made from fish and kelp)/(n) (2) pretext/excuse/pretense (pretence)/dupe/front man/(P)/
 出す [だす] /(v5s,vt) (1) to take out/to get out/(v5s,vt) (2) to put out/to reveal/to show/(v5s,vt) (3) to submit (e.g. thesis)/to turn in/(v5s,vt) (4) to publish/to make public/(v5s,vt) (5) to send (e.g. letter)/(v5s,vt) (6) to produce (a sound)/to start (fire)/(v5s,vt) (7) to serve (food)/(suf,v5s) (8) ... out (e.g. to jump out, to carry out)/(suf,v5s) (9) to begin .../to start to .../to burst into .../(P)/
-出すぎる [ですぎる] /(v1,vi) to project or protrude too much/to be too forward/to obtrude/(P)/
+出すぎる [ですぎる] /(v1,vi) (1) to stick out too much/to protrude too far/to be too strong (e.g. of tea)/(v1,vi) (2) to be too forward/to be too assertive/to be pushy/to be obtrusive/(P)/
 出る [でる] /(v1,vi) (1) to leave/to exit/to go out/to come out/to get out/(v1,vi) (2) to leave (on a journey)/to depart/to start out/to set out/(v1,vi) (3) to move forward/(v1,vi) (4) to come to/to get to/to lead to/to reach/(v1,vi) (5) to appear/to come out/to emerge/to surface/to come forth/to turn up/to be found/to be detected/to be discovered/to be exposed/to show/to be exhibited/to be on display/(v1,vi) (6) to appear (in print)/to be published/to be announced/to be issued/to be listed/to come out/(v1,vi) (7) to attend/to participate/to take part/to enter (an event)/to play in/to perform/(v1,vi) (8) to be stated/to be expressed/to come up/to be brought up/to be raised/(v1,vi) (9) to sell/(v1,vi) (10) to exceed/to go over/(v1,vi) (11) to stick out/to protrude/(v1,vi) (12) to break out/to occur/to start/to originate/(v1,vi) (13) to be produced/(v1,vi) (14) to come from/to be derived from/(v1,vi) (15) to be given/to get/to receive/to be offered/to be provided/to be presented/to be submitted/to be handed in/to be turned in/to be paid/(v1,vi) (16) to answer (phone, door, etc.)/to get/(v1,vi) (17) to assume (an attitude)/to act/to behave/(v1,vi) (18) to pick up (speed, etc.)/to gain/(v1,vi) (19) to flow (e.g. tears)/to run/to bleed/(v1,vi) (20) to graduate/(P)/
 出演 [しゅつえん] /(n,vs) performance/appearance (in a stage, film, TV show, etc.)/(P)/
 出火 [しゅっか] /(n,vs) outbreak of fire/(P)/
@@ -13425,7 +13424,7 @@
 助け合い [たすけあい] /(n) cooperation/mutual aid (help)/(P)/
 助け合う [たすけあう] /(v5u,vi) to help each other/to cooperate/(P)/
 助っ人 [すけっと] /(n) (1) helper/supporter/second/backer/(n) (2) foreign player (hired to strengthen a team)/(P)/
-助演 [じょえん] /(n,vs,adj-no) co-star/(P)/
+助演 [じょえん] /(n,vs) supporting performance/playing a supporting role/(P)/
 助教授 [じょきょうじゅ] /(n) assistant professor/associate professor/(P)/
 助言 [じょげん] /(n,vs,adj-no) advice/suggestion/(P)/
 助産婦 [じょさんぷ] /(n) midwife/(P)/
@@ -13632,7 +13631,7 @@
 少々 [しょうしょう] /(n-adv,n) just a minute/small quantity/(P)/
 少し [すこし] /(adv,n) (1) small quantity/little/few/something/(adv,n) (2) little while/(adv,n) (3) short distance/(P)/
 少しずつ [すこしずつ] /(adv) little by little/(P)/
-少しも [すこしも] /(exp,adv) anything of/not one bit (with negative sentence)/(P)/
+少しも [すこしも] /(adv) (not) at all/(not) a bit/(not) in the least/(not) in the slightest/(P)/
 少ない [すくない] /(adj-i) few/a little/scarce/insufficient/seldom/(P)/
 少なからず [すくなからず] /(adv) considerably/not a little/in no small numbers/(P)/
 少なくとも [すくなくとも] /(adv) at least/(P)/
@@ -13809,7 +13808,7 @@
 上 [じょう] /(n-suf) (1) from the standpoint of/as a matter of (e.g. fact)/in the field of/being of the type of/(n-suf) (2) aboard (a ship or vehicle)/on top of/on/above/(n) (3) first volume (e.g. book)/(n,pref) (4) superior quality/best/top/high class/(n,pref) (5) going up/(n,pref) (6) governmental/imperial/(n,pref) (7) presenting/showing/(pref) (8) (med) (biol) ana-/(P)/
 上々 [じょうじょう] /(adj-no,adj-na,n) the very best/excellent/superb/(P)/
 上がったり [あがったり] /(adj-na,n) doomed (business, trade, etc.)/in a bad state/poor/(P)/
-上がり [あがり] /(n,n-suf) (1) rise/increase/ascent/(n) (2) income/takings/earnings/proceeds/(crop) yield/return/profit/(n) (3) completion/end/finish/(n) (4) end result (e.g. of crafts)/how something comes out/finish/(n) (5) (abbr) green tea (esp. in a sushi restaurant)/(suf) (6) after (rain, illness, etc.)/(suf) (7) ex- (e.g. ex-bureaucrat)/former/(P)/
+上がり [あがり] /(n,n-suf) (1) rise/increase/ascent/(n) (2) income/takings/earnings/proceeds/(crop) yield/return/profit/(n) (3) completion/end/finish/(n) (4) end result (e.g. of crafts)/how something comes out/finish/(n) (5) (uk) finishing (in a board or card game, etc.)/(n) (6) (abbr) green tea (esp. in a sushi restaurant)/(suf) (7) after (rain, illness, etc.)/(suf) (8) ex- (e.g. ex-bureaucrat)/former/(P)/
 上がる [あがる] /(v5r,vi) (1) to rise/to go up/to come up/to ascend/to be raised/(v5r,vi) (2) to enter (esp. from outdoors)/to come in/to go in/(v5r,vi) (3) to enter (a school)/to advance to the next grade/(v5r,vi) (4) to get out (of water)/to come ashore/(v5r,vi) (5) to increase/(v5r,vi) (6) to improve/to make progress/(v5r,vi) (7) to be promoted/to advance/(v5r,vi) (8) to be made (of profit, etc.)/(v5r,vi) (9) to occur (esp. of a favourable result)/(v5r,vi) (10) to be adequate (to cover expenses, etc.)/(v5r,vi) (11) to be finished/to be done/to be over/(v5r,vi) (12) (of rain) to stop/to lift/(v5r,vi) (13) to stop (working properly)/to cut out/to give out/to die/(v5r,vi) (14) to win (in a card game, etc.)/(v5r,vi) (15) to be spoken loudly/(v5r,vi) (16) to get nervous/to get stage fright/(v5r,vi) (17) to be offered (to the gods, etc.)/(v5r,vi) (18) (hum) to go/to visit/(v5r,vi) (19) (hon) to eat/to drink/(v5r,vi) (20) to be listed (as a candidate)/(v5r,vi) (21) to serve (in one's master's home)/(v5r,vi) (22) to go north/(suf,v5r) (23) to be complete/to finish/(P)/
 上げ [あげ] /(n,n-suf) (1) tuck (e.g. in a dress)/(n) (2) rise (e.g. in price)/(P)/
 上げる [あげる] /(v1,vt) (1) to raise/to elevate/(v1,vt) (2) to do up (one's hair)/(v1,vt) (3) to fly (a kite, etc.)/to launch (fireworks, etc.)/to surface (a submarine, etc.)/(v1,vt) (4) to land (a boat)/(v1,vt) (5) to show someone (into a room)/(v1,vt) (6) (pol) (uk) to give/(v1,vt) (7) to send someone (away)/(v1,vt) (8) to enrol (one's child in school)/to enroll/(v1,vt) (9) to increase (price, quality, status, etc.)/to develop (talent, skill)/to improve/(v1,vt) (10) to make (a loud sound)/to raise (one's voice)/(v1,vt) (11) to earn (something desirable)/(v1,vt) (12) to praise/(v1,vt) (13) to give (an example, etc.)/to cite/(v1,vt) (14) to summon up (all of one's energy, etc.)/(v1,vt) (15) to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)/(v1,vt) (16) to bear (a child)/(v1,vt) (17) to conduct (a ceremony, esp. a wedding)/(v1,vi) (18) (of the tide) to come in/(v1,vi,vt) (19) to vomit/(aux-v,v1) (20) (uk) (pol) to do for (the sake of someone else)/(aux-v,v1) (21) to complete .../(aux-v,v1) (22) (hum) to humbly do .../(P)/
@@ -13856,7 +13855,7 @@
 上田 [じょうでん] /(n) high rice field/very fertile rice field/(P)/
 上等 [じょうとう] /(adj-no,adj-na,n) (1) superior/first-class/excellent/top quality/(int) (2) (that's) just fine!/bring it on!/(P)/
 上半期 [かみはんき] /(n) first half of the year/first half of the fiscal year/(P)/
-上半身 [じょうはんしん] /(n) upper half of (one's) body/upper body/bust/(P)/
+上半身 [じょうはんしん] /(n) upper half of the body/upper body/(P)/
 上品 [じょうひん] /(adj-na) (1) elegant/refined/polished/stylish/sophisticated/(n) (2) high-quality goods/first-class article/(P)/
 上部 [じょうぶ] /(n,adj-no) top part/surface/(P)/
 上方 [かみがた] /(n,adj-no) Kyoto and vicinity (esp. during Edo period)/Kyoto-Osaka region/Kansai region/(P)/
@@ -14331,7 +14330,7 @@
 真偽 [しんぎ] /(n) truth or falsehood/genuineness/authenticity/veracity/(P)/
 真逆 [まさか] /(int) (1) (uk) by no means/never!/well, I never!/you don't say!/certainly (not)/(n,adj-no) (2) (uk) something unexpected/emergency/(n) (3) (uk) (arch) currently/for the time being/presently/for now/(adv,adj-no) (4) (uk) (obsc) indeed/really/truly/unexpectedly/(P)/
 真空 [しんくう] /(adj-na,n) vacuum/hollow/empty/(P)/
-真剣 [しんけん] /(adj-na) (1) serious/earnest/(n) (2) real sword (as opposed to unsharpened or wooden practice weapon)/(P)/
+真剣 [しんけん] /(adj-na) (1) serious/earnest/(n) (2) real sword (as opposed to a wooden practice weapon)/(P)/
 真四角 [ましかく] /(adj-no,adj-na,n) square/(P)/
 真似 [まね] /(n,vs) (1) imitating/copying/mimicry/(n,vs) (2) behavior/behaviour/action/conduct/(P)/
 真似る [まねる] /(v1,vt) to mimic/to imitate/(P)/
@@ -14397,7 +14396,7 @@
 親日 [しんにち] /(adj-no,n) pro-Japanese/(P)/
 親不孝 [おやふこう] /(n,vs,adj-na) lack of filial piety/disobedience to one's parents/(P)/
 親父 [おやじ] /(gikun) (n) one's father/old man/one's boss/(P)/
-親分 [おやぶん] /(n) (sens) boss/kingpin/chief/head (e.g. of a crime syndicate)/(P)/
+親分 [おやぶん] /(n) boss/leader/kingpin/chief/head (e.g. of a crime syndicate)/(P)/
 親方 [おやかた] /(n) (1) (hon) master/boss/chief/foreman/supervisor/(n) (2) (sumo) (hon) stable master/(n) (3) (hon) craftsman/artisan/(n) (4) (arch) foster parent/(P)/
 親睦 [しんぼく] /(n,vs) friendship/amity/(P)/
 親密 [しんみつ] /(adj-na,n) intimacy/friendship/(P)/
@@ -14536,9 +14535,9 @@
 人文 [じんぶん] /(n) humanity/civilization/civilisation/culture/(P)/
 人文科学 [じんぶんかがく] /(n,adj-no) humanities/social sciences/liberal arts/(P)/
 人柄 [ひとがら] /(adj-na,n) personality/character/personal appearance/gentility/(P)/
-人並み [ひとなみ] /(adj-na,adj-no,n) being average (capacity, looks, standard of living)/ordinary/(P)/
+人並み [ひとなみ] /(adj-no,adj-na,n) ordinary/average/common/normal/like the average person/like most people/(P)/
 人脈 [じんみゃく] /(n) personal connections/(P)/
-人民 [じんみん] /(n) people/public/(P)/
+人民 [じんみん] /(n) the people/citizens/the populace/(P)/
 人民戦線 [じんみんせんせん] /(n) popular front/(P)/
 人名 [じんめい] /(n) person's name/(P)/
 人命 [じんめい] /(n) (human) life/(P)/
@@ -14720,12 +14719,12 @@
 数える [かぞえる] /(v1,vt) to count/to enumerate/(P)/
 数ヶ月 [すうかげつ] /(n) several months/(P)/
 数億年 [すうおくねん] /(n) several hundred million years/(P)/
-数回 [すうかい] /(n-adv) few times/several times/between two and six times/(P)/
+数回 [すうかい] /(n-adv,n) several times/a few times/(P)/
 数学 [すうがく] /(n) mathematics/arithmetic/(P)/
 数個 [すうこ] /(n) several (objects, usu. from two to six)/(P)/
 数字 [すうじ] /(n) (math) numeral/figure/digit/numeric character/(P)/
 数時間 [すうじかん] /(n) a few hours/(P)/
-数次 [すうじ] /(n) number of times/(P)/
+数次 [すうじ] /(n) several times/(P)/
 数珠 [じゅず] /(n) (Buddh) rosary/string of prayer beads/(P)/
 数十 [すうじゅう] /(n,adj-no) dozens/scores of/decades/(P)/
 数少ない [かずすくない] /(adj-i) few in number/(P)/
@@ -14792,7 +14791,7 @@
 是正 [ぜせい] /(n,vs) correction/revision/redressing/rectifying/(P)/
 是認 [ぜにん] /(n,vs,adj-no) approval/(P)/
 是非 [ぜひ] /(adv) (1) certainly/without fail/(n) (2) right and wrong/pros and cons/(P)/
-是非とも [ぜひとも] /(adv) by all means (with sense of not taking "no" for an answer)/(P)/
+是非とも [ぜひとも] /(adv) by all means/at all costs/absolutely/(P)/
 是非是非 [ぜひぜひ] /(adv) (uk) certainly/by all means/(P)/
 凄い [すごい] /(adj-i) (1) (uk) terrible/dreadful/(adj-i) (2) (uk) amazing (e.g. of strength)/great (e.g. of skills)/wonderful/terrific/(adj-i) (3) (uk) to a great extent/vast (in numbers)/(adv) (4) (uk) (col) awfully/very/immensely/(P)/
 凄まじい [すさまじい] /(adj-i) terrific/fierce/terrible/tremendous/dreadful/awful/amazing/absurd/cutthroat/intense/(P)/
@@ -15001,7 +15000,7 @@
 生成 [せいせい] /(n,vs) creation/generation/formation/derivation/(P)/
 生鮮 [せいせん] /(adj-na,n) fresh/(P)/
 生前 [せいぜん] /(n-adv,n-t) while alive/during one's lifetime/(P)/
-生憎 [あいにく] /(adj-na,adv,n,adj-no) (uk) unfortunately/Sorry, but .../(P)/
+生憎 [あいにく] /(adj-na,adv,n,adj-no) (uk) unfortunately/sorry, but .../(P)/
 生息 [せいそく] /(n,vs) inhabiting/living/(P)/
 生息地 [せいそくち] /(n) habitat/home (e.g. of the tiger)/(P)/
 生存 [せいぞん] /(n) (1) existence/being/survival/(vs) (2) to exist/to live/to survive/(P)/
@@ -15065,7 +15064,7 @@
 聖職者 [せいしょくしゃ] /(n) clergyman/churchman/clergy/(P)/
 聖人 [せいじん] /(n) (1) (Christian) saint/(n) (2) wise and virtuous person (esp. in Confucianism)/great religious teacher/sage/(n) (3) refined sake/(P)/
 聖戦 [せいせん] /(n) holy war/crusade/(P)/
-聖地 [せいち] /(n) sacred place/holy ground/the Holy Land/(P)/
+聖地 [せいち] /(n) (1) sacred place/holy ground/the Holy Land/(n) (2) (sl) real-life location used as a setting in a novel, film, anime, etc./(P)/
 聖堂 [せいどう] /(n) (Confucian) temple/church/sanctuary/(P)/
 聖母 [せいぼ] /(n) (1) holy mother/birth mother of a holy man (or woman)/(n) (2) Virgin Mary/(P)/
 声 [こえ] /(n) (1) voice/(n) (2) singing (of a bird)/chirping (of an insect)/hoot/(n) (3) voice/opinion (as expressed in words)/view/wish/attitude/will/(n) (4) sound/(n) (5) sense (of something's arrival)/feeling/(n) (6) (ling) voice/voiced sound/(P)/
@@ -15470,7 +15469,7 @@
 戦艦 [せんかん] /(n) battleship/(P)/
 戦況 [せんきょう] /(n) war situation/progress of a battle/(P)/
 戦後 [せんご] /(n-adv,n-t,adj-no) postwar period/period after Second World War/(P)/
-戦国 [せんごく] /(n) belligerent country/country in civil war/warring states/(P)/
+戦国 [せんごく] /(n) (1) country in civil war/country disarrayed by war/(n) (2) (abbr) Warring States period (Japan, China)/(P)/
 戦災 [せんさい] /(n) war damage/(P)/
 戦士 [せんし] /(n) soldier/combatant/warrior/(P)/
 戦死 [せんし] /(n,vs) death in battle/(P)/
@@ -15644,11 +15643,11 @@
 前面 [ぜんめん] /(n) (1) front part/frontage/facade/(n) (2) initial pledge (e.g. election)/opening slogan/(P)/
 前夜 [ぜんや] /(n-adv,n-t) (1) last night/the previous night/(n-adv,n-t) (2) night before (Christmas, etc.)/eve (of festival, major event, etc.)/(P)/
 前夜祭 [ぜんやさい] /(n) the eve (of a festival) (e.g. Christmas Eve)/(P)/
-前略 [ぜんりゃく] /(exp) (1) Forgive me for dispensing with the preliminaries, but I hasten to inform you that.../(n,vs) (2) omitting the beginning/(P)/
+前略 [ぜんりゃく] /(exp) (1) dispensing with the preliminaries .../(n,vs) (2) omitting the previous part/(P)/
 前例 [ぜんれい] /(n) precedent/(P)/
 前歴 [ぜんれき] /(n) personal history/(P)/
 善 [ぜん] /(n) good/goodness/right/virtue/(P)/
-善くも [よくも] /(adv) (uk) How dare .../How could .../(P)/
+善くも [よくも] /(adv) (uk) how dare .../how could .../(P)/
 善し悪し [よしあし] /(n) (1) right or wrong/good or bad/quality/suitability/(n) (2) having both merits and demerits/having both advantages and disadvantages/(P)/
 善悪 [ぜんあく] /(n) good and evil/(P)/
 善意 [ぜんい] /(n) (1) virtuous mind/(n) (2) good intentions/good will/(n) (3) positive mindset/(n) (4) (law) bona fides/good faith/(P)/
@@ -15969,7 +15968,7 @@
 草花 [くさばな] /(n) flower/flowering plant/(P)/
 草臥れる [くたびれる] /(v1,vi) (1) (uk) to get tired/to become exhausted/to grow weary/(v1,vi) (2) (uk) to become worn out/to become battered (from long use)/(aux,v1) (3) (uk) to get tired of (doing)/to get fed up with/(P)/
 草刈り [くさかり] /(n) mowing/mower/(P)/
-草原 [そうげん] /(n) grass-covered plain/grasslands/meadows/savannah/prairie/steppe/(P)/
+草原 [そうげん] /(n) (1) grassy field/grassland/meadow/(n) (2) grass-covered plain/savannah/prairie/steppe/(P)/
 草稿 [そうこう] /(n) notes/draft/manuscript/(P)/
 草書 [そうしょ] /(n) highly cursive style (of writing Chinese characters)/grass style/(P)/
 草食 [そうしょく] /(adj-no,n,vs) herbivorous/plant-eating/graminivorous/(P)/
@@ -15993,7 +15992,7 @@
 装飾 [そうしょく] /(n,vs,adj-no) ornament/decoration/(P)/
 装置 [そうち] /(n,vs) (1) equipment/device/installation/apparatus/(n) (2) stage setting/(P)/
 装着 [そうちゃく] /(n,vs) equipping/installing/fitting/mounting/putting on/(P)/
-装丁 [そうてい] /(n,vs) binding (book)/format/(P)/
+装丁 [そうてい] /(n,vs) (1) binding (of a book)/(n,vs) (2) design (of a book cover)/(P)/
 装備 [そうび] /(n,vs) equipment/(P)/
 走り [はしり] /(n) (1) running/(n) (2) gliding/(n) (3) first (harvest) of the season/(n) (4) beginning/start/(n) (5) (col) kitchen sink/(P)/
 走り回る [はしりまわる] /(v5r,vi) to run around/(P)/
@@ -16186,8 +16185,8 @@
 其処 [そこ] /(pn) (1) (uk) there (place relatively near listener)/(pn) (2) (uk) there (place just mentioned)/that place/(pn) (3) (uk) then (of some incident just spoken of)/that (of point just raised)/(pn) (4) (arch) you/(P)/
 其処で [そこで] /(conj) (uk) so/accordingly/now/then/thereupon/therefore/(P)/
 其奴 [そいつ] /(pn) (1) (uk) (col) (derog) he/she/that person/that guy/that fellow/(pn) (2) (uk) (col) (derog) that/that one/that thing/(P)/
-其方 [そちら] /(pn) (1) (uk) that way (direction distant from the speaker, close to the listener)/(pn) (2) there (place distant from the speaker, close to the listener)/(pn) (3) that one (something close to the listener)/(pn) (4) you/your family/your company/(pn) (5) that person (someone close to the listener)/(P)/
-其方 [そっち] /(pn) (1) (uk) that way (direction distant from the speaker, close to the listener)/(pn) (2) there (place distant from the speaker, close to the listener)/(pn) (3) that one (something close to the listener)/(pn) (4) you/your family/your company/(pn) (5) that person (someone close to the listener)/(P)/
+其方 [そちら] /(pn) (1) (uk) that way (direction distant from the speaker, close to the listener)/(pn) (2) (uk) there (place distant from the speaker, close to the listener)/(pn) (3) (uk) that one (something close to the listener)/(pn) (4) (uk) you/your family/your company/(pn) (5) (uk) that person (someone close to the listener)/(P)/
+其方 [そっち] /(pn) (1) (uk) that way (direction distant from the speaker, close to the listener)/(pn) (2) (uk) there (place distant from the speaker, close to the listener)/(pn) (3) (uk) that one (something close to the listener)/(pn) (4) (uk) you/your family/your company/(pn) (5) (uk) that person (someone close to the listener)/(P)/
 揃う [そろう] /(v5u,vi) (1) to be complete/to be all present/to make a full set/to be satisfied (of conditions)/(v5u,vi) (2) to be equal/to be uniform/to be even/to match/to agree/(v5u,vi) (3) to gather/to assemble/to be collected/(P)/
 揃える [そろえる] /(v1,vt) (1) to collect/to gather/to get together/to complete (a collection)/(v1,vt) (2) to arrange/to put in order/to prepare/to get ready/(v1,vt) (3) to make uniform/to make even/to match/(P)/
 存じる [ぞんじる] /(v1) (hum) to think, feel, consider, know, etc./(P)/
@@ -16240,9 +16239,9 @@
 他方 [たほう] /(n,adj-no) (1) one (esp. of two)/the other/one way/the other way/one direction/the other direction/one side/the other side/one party/the other party/(conj) (2) on the other hand/(P)/
 他面 [ためん] /(n) (1) other side/another side/different angle/(n-adv) (2) on the other hand/(P)/
 多 [た] /(n,pref) multi-/(P)/
-多い [おおい] /(adj-i) (1) many/numerous/a lot/(adj-i) (2) large quantity/large amount/(adj-i) (3) frequent/common/(P)/
+多い [おおい] /(adj-i) (1) many/numerous/a lot/(adj-i) (2) large amount of/large quantity of/a lot/much/(adj-i) (3) frequent/common/(P)/
 多く [おおく] /(n,adv,adj-no) (1) many/much/plenty/a lot/(n) (2) majority (of)/greater part (of)/(adv) (3) mostly/mainly/chiefly/usually/often/(P)/
-多め [おおめ] /(n,adj-na) somewhat larger quantity/larger portion/(P)/
+多め [おおめ] /(adj-no,adj-na,n) somewhat larger (amount)/quite a lot/a little more (than usual)/a little extra/(P)/
 多寡 [たか] /(n) degree (of something)/greatness or smallness (of something)/quantity/number/amount/size/(P)/
 多角 [たかく] /(n,adj-no) many-sided/versatile/polygonal/diversified/(P)/
 多角的 [たかくてき] /(adj-na) multilateral/many-sided/diversified/(P)/
@@ -16453,14 +16452,14 @@
 貸し [かし] /(n) (1) loan/lending/(n) (2) favor/favour/debt/obligation/(n) (3) (abbr) creditor/method of lending/credit side/(P)/
 貸し出し [かしだし] /(n,vs) lending/loaning/(P)/
 貸し出す [かしだす] /(v5s,vt) to lend/to loan/to let out on hire/(P)/
-貸し切り [かしきり] /(n,adj-no) reserving/chartering/engaging/reservation/(P)/
+貸し切り [かしきり] /(n,adj-no) reserving (for exclusive use)/(full) booking/chartering/block reservation/(P)/
 貸す [かす] /(v5s,vt) (1) to lend/to loan/(v5s,vt) (2) to rent out/to hire out/(P)/
 貸家 [かしや] /(n) house for rent/(P)/
 貸間 [かしま] /(n) room to let/room for rent/(P)/
 貸金 [かしきん] /(n) loan/advance/(P)/
 貸借 [たいしゃく] /(n,vs) loan/debit and credit/lending and borrowing/(P)/
 貸出用 [かしだしよう] /(n) circulation or lending (e.g. library books)/(P)/
-貸切り [かしきり] /(n,adj-no) reserving/chartering/engaging/reservation/(P)/
+貸切り [かしきり] /(n,adj-no) reserving (for exclusive use)/(full) booking/chartering/block reservation/(P)/
 貸付 [かしつけ] /(n,vs) loan/(P)/
 貸与 [たいよ] /(n,vs) loan/lending/(P)/
 退き時 [ひきどき] /(n) a good time to quit/(P)/
@@ -16684,7 +16683,7 @@
 大名 [だいみょう] /(n) daimyo (Japanese feudal lord)/(P)/
 大木 [たいぼく] /(n) large tree/(P)/
 大野 [おおの] /(n) large field/(P)/
-大役 [たいやく] /(n) (1) important task/important role/great duty/important mission/(n) (2) major part (e.g. in a movie)/(P)/
+大役 [たいやく] /(n) (1) important task/important role/great duty/important mission/(n) (2) major part (in a film, play, etc.)/leading role/(n) (3) (hanaf) high-scoring combination/(P)/
 大洋 [たいよう] /(n,adj-no) ocean/(P)/
 大理石 [だいりせき] /(n) marble/(P)/
 大陸 [たいりく] /(n,adj-no) (1) continent/(n) (2) continental Asia (esp. mainland China)/(n) (3) continental Europe/(P)/
@@ -16843,14 +16842,14 @@
 炭素 [たんそ] /(n,adj-no) carbon (C)/(P)/
 炭田 [たんでん] /(n) coalfield/coal field/(P)/
 短い [みじかい] /(adj-i) short/(P)/
-短め [みじかめ] /(adj-no,adj-na,n) rather short/somewhat short/(P)/
+短め [みじかめ] /(adj-no,adj-na,n) shortish/rather short/somewhat short/(P)/
 短歌 [たんか] /(n) tanka/31-mora Japanese poem/(P)/
 短期 [たんき] /(adj-no,n) short-term/(P)/
 短期間 [たんきかん] /(n) short term/short time/(P)/
 短期大学 [たんきだいがく] /(n) junior college/vocationally oriented two or three year post-secondary education institution/(P)/
 短気 [たんき] /(n,adj-na) short temper/quick temper/hot temper/impatience/irritability/(P)/
 短距離 [たんきょり] /(n) short distance/short range/short-haul/(P)/
-短冊 [たんじゃく] /(n) (1) long, narrow card on which Japanese poems are written (vertically)/strip of paper/(n) (2) (abbr) thin rectangle/(P)/
+短冊 [たんじゃく] /(n) (1) long, narrow card on which Japanese poems are written (vertically)/strip of paper/tanzaku/(n) (2) (abbr) thin rectangle/(P)/
 短時間 [たんじかん] /(n-adv,n-t) short time/(P)/
 短銃 [たんじゅう] /(n) pistol/revolver/(P)/
 短縮 [たんしゅく] /(n,vs) shortening/contraction/reduction/curtailment/abbreviation/(P)/
@@ -17080,7 +17079,7 @@
 畜生 [ちくしょう] /(n) (1) beast (i.e. any animal other than man)/(n) (2) (Buddh) person reborn into the animal realm/(n) (3) brute (i.e. a contemptible human being)/(int) (4) (uk) damn it/damn/Christ/for Christ's sake/(P)/
 竹 [たけ] /(n) (1) bamboo (any grass of subfamily Bambusoideae)/(n) (2) middle (of a three-tier ranking system)/(P)/
 竹刀 [しない] /(n) (MA) bamboo sword (for kendo)/bamboo fencing stick/(P)/
-竹林 [ちくりん] /(n) bamboo thicket/(P)/
+竹林 [ちくりん] /(n) bamboo thicket/bamboo grove/(P)/
 蓄える [たくわえる] /(v1,vt) (1) to store/to save up/to stock up on/to lay in stock/to set aside/(v1,vt) (2) to accumulate (e.g. knowledge)/to build up (e.g. experience)/to develop (e.g. one's skills)/(v1,vt) (3) to grow (a beard, moustache, etc.)/to wear/(P)/
 蓄財 [ちくざい] /(n,vs) amassing of wealth/(P)/
 蓄積 [ちくせき] /(n,vs,adj-no) accumulation/accumulate/store/(P)/
@@ -17255,7 +17254,7 @@
 注入 [ちゅうにゅう] /(n,vs) pouring/injection/(P)/
 注文 [ちゅうもん] /(n,vs) (1) order (for an item)/(n,vs) (2) request/demand/condition/(P)/
 注目 [ちゅうもく] /(n,vs) notice/attention/observation/(P)/
-虫 [むし] /(n) (1) insect/bug/cricket/moth/(n) (2) worm/roundworm/(n) (3) one's emotions/one's feelings/(n) (4) nervousness/fretfulness/(n) (5) person devoted to one thing/single-minded person/(n) (6) valve core/(P)/
+虫 [むし] /(n) (1) insect/bug/cricket/moth/(n) (2) worm/roundworm/(n) (3) one's emotions/one's feelings/(n) (4) nervousness/fretfulness/(n) (5) person devoted to one thing/single-minded person/(n) (6) valve core/(n) (7) (hanaf) (uk) mushi (type of game played with a stripped deck)/(P)/
 虫歯 [むしば] /(n) cavity/tooth decay/decayed tooth/dental caries/(P)/
 虫除け [むしよけ] /(n) insecticide/insect repellent/(P)/
 衷心 [ちゅうしん] /(n) innermost feelings/(P)/
@@ -17529,7 +17528,7 @@
 追いつく [おいつく] /(v5k,vi) (1) to catch up (with)/to draw level/to pull even/to reach/(v5k,vi) (2) to be compensated/to make up for one's losses/(P)/
 追い越す [おいこす] /(v5s,vt) (1) to pass (e.g. car)/to overtake/(v5s,vt) (2) to surpass/to outstrip/to get ahead of/to outdistance/(P)/
 追い掛ける [おいかける] /(v1,vt) to chase/to run after/to pursue/(P)/
-追い込み [おいこみ] /(n) (1) final stage/final stretch/final spurt/last spurt/final push/late charge/(n) (2) live printing area (in publishing)/(n) (3) gallery (in a theatre)/(n) (4) driving (animals, fish, etc.)/herding/chasing/(P)/
+追い込み [おいこみ] /(n) (1) final stage/final stretch/final spurt/last spurt/final push/late charge/(n) (2) live printing area (in publishing)/(n) (3) gallery (in a theatre)/(n) (4) driving (animals, fish, etc.)/herding/chasing/(n) (5) (hanaf) forcing another player to fold (so that oneself can participate in the game)/(P)/
 追い込む [おいこむ] /(v5m,vt) (1) to herd/to drive/to chase/to corral/(v5m,vt) (2) to corner/to force someone into doing/(v5m,vt) (3) to go hard/to push yourself/to make a last charge/(v5m,vt) (4) to run on (e.g. lines in printing)/(P)/
 追い出す [おいだす] /(v5s,vt) to expel/to drive out/(P)/
 追い上げる [おいあげる] /(v1,vt) to gain on/to put pressure on/to close in on/(P)/
@@ -18192,7 +18191,7 @@
 東京証券取引所 [とうきょうしょうけんとりひきじょ] /(n) Tokyo Stock Exchange/TSE/(P)/
 東経 [とうけい] /(n) east longitude/(P)/
 東口 [ひがしぐち] /(n) east entrance/(P)/
-東西 [とうざい] /(n,adj-no) (1) east and west/(n,adj-no) (2) Orient and Occident/East and West/(exp) (3) (abbr) Ladies and Gentlemen!/Your attention, please!/roll-up, roll-up/(P)/
+東西 [とうざい] /(n,adj-no) (1) east and west/(n,adj-no) (2) Orient and Occident/East and West/(int) (3) (abbr) ladies and gentlemen!/your attention, please!/roll-up, roll-up/(P)/
 東側 [ひがしがわ] /(n) east side/east bank/(P)/
 東都 [とうと] /(n) the Eastern Capital (now Tokyo)/Yedo/Edo/(P)/
 東独 [とうどく] /(n) (abbr) East Germany (1949-1990)/(P)/
@@ -18246,7 +18245,7 @@
 当初 [とうしょ] /(n,adj-no) (1) beginning/start/outset/(n-adv) (2) at first/at the beginning/initially/originally/(P)/
 当人 [とうにん] /(n) the person concerned/the person in question/the said person/(P)/
 当選 [とうせん] /(n,vs) (1) being elected/(n,vs) (2) being selected (to win a prize, etc.)/(n,vs) (3) winning (in a lottery, raffle, etc.)/(P)/
-当然 [とうぜん] /(adj-na,adj-no) natural/as a matter of course/justified/deserved/reasonable/(P)/
+当然 [とうぜん] /(adj-no,adj-na) (1) natural/right/proper/just/reasonable/appropriate/deserved/(adv) (2) naturally/as a matter of course/rightly/deservedly/justly/of course/(P)/
 当地 [とうち] /(n,adj-no) this place/here/(P)/
 当直 [とうちょく] /(n,vs,adj-no) (1) being on duty/being on watch/(n) (2) person on duty/(P)/
 当店 [とうてん] /(n) this store/(P)/
@@ -18584,7 +18583,7 @@
 読み方 [よみかた] /(n) (1) pronunciation/reading (e.g. of a kanji)/(n) (2) way of reading (out loud)/(n) (3) interpretation (e.g. of a text)/reading/(P)/
 読む [よむ] /(v5m,vt) (1) to read/(v5m,vt) (2) to count/(v5m,vt) (3) to guess/to predict/to read (someone's thoughts)/to see (e.g. into someone's heart)/to divine/(P)/
 読者 [どくしゃ] /(n) reader/(P)/
-読書 [どくしょ] /(n,vs) reading/(P)/
+読書 [どくしょ] /(n,vs) reading (books)/(P)/
 読本 [とくほん] /(n) (1) reading-book/reader/guidebook/manual/(n) (2) textbook (esp. a pre-war elementary school Japanese language textbook)/(P)/
 凸凹 [でこぼこ] /(n,adj-no,adj-na,vs) (1) unevenness/roughness/ruggedness/bumpiness/(n,adj-no,adj-na) (2) inequality/imbalance/unevenness/difference/(P)/
 凸版 [とっぱん] /(n,adj-no) letterpress/relief printing/(P)/
@@ -18610,7 +18609,7 @@
 突破 [とっぱ] /(n,vs) (1) breaking through/breakthrough/penetration/(n,vs) (2) surmounting/overcoming/(n,vs) (3) exceeding/passing/(P)/
 突風 [とっぷう] /(n) gust (of wind)/blast/(P)/
 届 [とどけ] /(n,n-suf) report/notification/registration/(P)/
-届く [とどく] /(v5k,vi) (1) to reach/to arrive/to get through/to get at/(v5k,vi) (2) to be attentive/to pay attention/(v5k,vi) (3) to be delivered/to carry (e.g. sound)/(P)/
+届く [とどく] /(v5k,vi) (1) to reach/to touch/to get to/to carry (of sound)/(v5k,vi) (2) to be delivered/to arrive/(v5k,vi) (3) to be attentive/to be scrupulous/to be thorough/(v5k,vi) (4) to be realized (of a desire)/to be fulfilled/to get through (to someone)/to be appreciated/to make an impression/(P)/
 届け [とどけ] /(n,n-suf) report/notification/registration/(P)/
 届ける [とどける] /(v1,vt) (1) to deliver/to forward/to send/(v1,vt) (2) to report/to notify/to file notice (to the authorities)/to give notice/to register/(P)/
 届け出 [とどけで] /(n) report/notification/(P)/
@@ -18692,7 +18691,7 @@
 縄 [なわ] /(n) (1) rope/cord/(n) (2) policeman's rope/(P)/
 縄張り [なわばり] /(n) (1) stretching a rope around/roping off/cordoning off/demarcation/(n) (2) one's turf/domain/territory/jurisdiction/sphere of influence/(n) (3) (zool) territory (of an animal)/(P)/
 縄跳び [なわとび] /(n) (1) skipping rope/jump rope/(n) (2) skipping/rope-jumping/(P)/
-縄文 [じょうもん] /(n) (1) straw-rope pattern pressed into earthenware/(n) (2) (abbr) Jomon period (ca. 10000-300 BCE)/(P)/
+縄文 [じょうもん] /(n) (1) straw-rope pattern pressed into earthenware/(n) (2) (abbr) Jomon period (ca. 14000-1000 BCE)/(P)/
 南 [みなみ] /(n) south/(P)/
 南アフリカ [みなみアフリカ] /(n) South Africa/(P)/
 南緯 [なんい] /(n) southern latitude/(P)/
@@ -19021,7 +19020,7 @@
 年頃 [としごろ] /(n) (1) approximate age/apparent age/(n,adj-no) (2) marriageable age (esp. of a woman)/age of maturity/age of adulthood/(n) (3) appropriate age (to ...)/old enough (to ...)/(n,n-adv) (4) (arch) past few years/for some years/(P)/
 年産 [ねんさん] /(n) annual production/(P)/
 年始 [ねんし] /(n) (1) beginning of the year/new year/(n) (2) New Year's call/New Year's greetings/(P)/
-年次 [ねんじ] /(n) (1) annual/(n) (2) fiscal year/school year/(suf) (3) year (in some sequence)/(P)/
+年次 [ねんじ] /(adj-f) (1) annual/yearly/(n-suf) (2) year (e.g. of graduation)/nth year (e.g. student)/order by year/(P)/
 年取った [としとった] /(adj-f) old (person)/aged/(P)/
 年収 [ねんしゅう] /(n) annual income/(P)/
 年初 [ねんしょ] /(n) beginning of the year/(P)/
@@ -19501,7 +19500,7 @@
 抜かる [ぬかる] /(v5r,vi) to make a mistake/(P)/
 抜き [ぬき] /(n,n-suf) (1) leaving out/omitting/skipping/dispensing with/(suf) (2) (beating) in succession/in a row/(P)/
 抜く [ぬく] /(v5k,vt) (1) to pull out/to draw out/to extract/to unplug/to weed/(v5k,vt) (2) to omit/to leave out/to go without/to skip/(aux-v,v5k) (3) to do to the end/to carry through/(v5k,vt) (4) to let out (e.g. air from a tyre)/to drain (e.g. water from a bath)/to empty/(v5k,vt) (5) to pick out/to choose/to select/to extract/(v5k,vt) (6) to pilfer/to steal/(v5k,vt) (7) to remove/to get rid of/to take out/(v5k,vt) (8) to pass/to overtake/to outstrip/to get ahead of/(v5k,vt) (9) to pierce/to break through/to go through/(v5k,vt) (10) to cut out (a shape)/to create (a pattern) by dying the surrounding area/(v5k,vt) (11) to seize/to capture/to reduce/(v5k,vt) (12) to scoop (a story)/(v5k,vt) (13) to take out (an opponent's stones; in go)/(v5k) (14) (sl) (vulg) to masturbate (of a male)/to ejaculate (while masturbating)/(v5k) (15) (sl) to take (a photo)/to record (video)/(P)/
-抜ける [ぬける] /(v1,vi) (1) to come out/to fall out/to be omitted/to be missing/to escape/to come loose/(v1,vi) (2) to fade/to discolour/(v1,vi) (3) to wear a hole (e.g. clothes)/(v1,vi) (4) to leave (e.g. a meeting)/(v1,vi) (5) to be clear/to be transparent (e.g. of the sky)/(v1,vi) (6) to be stupid/to be absentminded/to be careless/to be inattentive/(v1,vi) (7) (comp) to exit (a program loop)/(v1,vt) (8) to go through/to pass through/to give way/to collapse/(P)/
+抜ける [ぬける] /(v1,vi) (1) to come out/to fall out/to be omitted/to be missing/to escape/to come loose/(v1,vi) (2) to fade/to discolour/(v1,vi) (3) to wear a hole (e.g. clothes)/(v1,vi) (4) to leave (e.g. a meeting)/(v1,vi) (5) to be clear/to be transparent (e.g. of the sky)/(v1,vi) (6) to be stupid/to be absentminded/to be careless/to be inattentive/(v1,vi) (7) (comp) to exit (a program loop)/(v1,vt) (8) to go through/to pass through/to give way/to collapse/(v1,vt) (9) (hanaf) to finish a round with more than 88 points (not counting points gained from scoring combinations)/(P)/
 抜け出す [ぬけだす] /(v5s,vi) (1) to slip out/to sneak away/to break free/to get through (a difficult situation)/(v5s,vi) (2) to break into the lead/to get ahead/(v5s,vi) (3) to begin to fall out (e.g. hair)/(v5s,vi) (4) (comp) to break out (of a loop)/(P)/
 抜群 [ばつぐん] /(adj-no,adj-na) (1) outstanding/excellent/exceptional/surpassing/extraordinary/distinguished/(n) (2) preeminence/distinction/extraordinariness/(P)/
 抜粋 [ばっすい] /(n,vs,adj-no) extract/excerpt/selection/(P)/
@@ -19524,7 +19523,7 @@
 判例 [はんれい] /(n) (judicial) precedent/(P)/
 半 [はん] /(n,n-pref) (1) half/semi-/(n,n-suf) (2) half-past/(n) (3) odd number/(n) (4) (arch) unit of land area (595.8 m^2)/(P)/
 半々 [はんはん] /(n,adj-no) half and half/fifty-fifty/(P)/
-半ば [なかば] /(n-adv,n,n-suf) middle/half/semi/halfway/partly/(P)/
+半ば [なかば] /(n,n-suf) (1) middle/halfway/midway/(n) (2) half (of)/one half/(adv) (3) half (e.g. done, jokingly)/party/in part/partially/(adv) (4) mostly/almost/nearly/(P)/
 半額 [はんがく] /(n) half the amount (of money)/half price/half fare/(P)/
 半官半民 [はんかんはんみん] /(n,adj-no) (yoji) semi-governmental/semi-official/(P)/
 半期 [はんき] /(n-adv,n-t) half-term/half-time/half period/(P)/
@@ -19667,8 +19666,8 @@
 彼処 [あそこ] /(pn) (1) (uk) there (place physically distant from both speaker and listener)/over there/that place/yonder/you-know-where/(n) (2) (col) (uk) genitals/private parts/nether regions/(n) (3) (uk) that far (something psychologically distant from both speaker and listener)/that much/that point/(P)/
 彼女 [かのじょ] /(pn) (1) she/her/(n) (2) girlfriend/(P)/
 彼奴 [あいつ] /(pn) (uk) (col) he/she/that guy/(P)/
-彼方 [あちら] /(pn) (1) (uk) that way (direction distant from both speaker and listener)/over there/yonder/(pn) (2) that one (something physically distant from both speaker and listener, or something not visible but known by both speaker and listener)/that/(pn) (3) that person (someone physically distant from both speaker and listener, or someone not present but known by both speaker and listener)/(pn) (4) there (place distant from both speaker and listener)/over there/foreign country (esp. a Western nation)/(P)/
-彼方 [あっち] /(pn) (1) (uk) that way (direction distant from both speaker and listener)/over there/yonder/(pn) (2) that one (something physically distant from both speaker and listener, or something not visible but known by both speaker and listener)/that/(pn) (3) that person (someone physically distant from both speaker and listener, or someone not present but known by both speaker and listener)/(pn) (4) there (place distant from both speaker and listener)/over there/foreign country (esp. a Western nation)/(P)/
+彼方 [あちら] /(pn) (1) (uk) that way (direction distant from both speaker and listener)/over there/yonder/(pn) (2) (uk) that one (something physically distant from both speaker and listener, or something not visible but known by both speaker and listener)/that/(pn) (3) (uk) that person (someone physically distant from both speaker and listener, or someone not present but known by both speaker and listener)/(pn) (4) (uk) there (place distant from both speaker and listener)/over there/foreign country (esp. a Western nation)/(P)/
+彼方 [あっち] /(pn) (1) (uk) that way (direction distant from both speaker and listener)/over there/yonder/(pn) (2) (uk) that one (something physically distant from both speaker and listener, or something not visible but known by both speaker and listener)/that/(pn) (3) (uk) that person (someone physically distant from both speaker and listener, or someone not present but known by both speaker and listener)/(pn) (4) (uk) there (place distant from both speaker and listener)/over there/foreign country (esp. a Western nation)/(P)/
 彼方 [かなた] /(pn) (uk) beyond/across/the other side/the distance/(P)/
 彼方此方 [あちこち] /(adv,pn) (1) (uk) here and there/all around/everywhere/throughout/all over/(vs) (2) (uk) to get things in the wrong order (back to front)/to become muddled up/(P)/
 彼方此方 [あちらこちら] /(adv,pn) (1) (uk) here and there/all around/everywhere/throughout/all over/(vs) (2) (uk) to get things in the wrong order (back to front)/to become muddled up/(P)/
@@ -19941,7 +19940,7 @@
 描写 [びょうしゃ] /(n,vs) depiction/description/portrayal/(P)/
 病 [やまい] /(n) (1) illness/disease/(n) (2) bad habit/weakness/fault/(P)/
 病む [やむ] /(v5m,vi) (1) to fall ill/(v5m,vt) (2) to suffer from (e.g. a disease)/to have something wrong with (e.g. an inner organ)/(P)/
-病院 [びょういん] /(n,adj-no) hospital/(P)/
+病院 [びょういん] /(n) hospital/clinic/doctor's office/doctor's surgery/infirmary/(P)/
 病気 [びょうき] /(n,adj-no,vs) (1) illness (usu. excluding minor ailments, e.g. colds)/disease/sickness/(n,adj-no) (2) weirdness/bad habit/bad behaviour/craziness/perversion/(P)/
 病苦 [びょうく] /(n) pain of sickness/(P)/
 病死 [びょうし] /(n,vs) death from disease/death from illness/(P)/
@@ -20064,7 +20063,7 @@
 不戦 [ふせん] /(n,adj-no) (1) war renunciation/anti-war/(n,adj-no) (2) (sumo) bout cancelled due to absence of one of the wrestlers/(P)/
 不全 [ふぜん] /(adj-na,adj-no,n) partial/incomplete/imperfect/(P)/
 不相応 [ふそうおう] /(adj-na,n) unsuited/inappropriate/improper/undeserved/(P)/
-不足 [ふそく] /(adj-na,n,vs) insufficiency/shortage/deficiency/lack/dearth/(P)/
+不足 [ふそく] /(n,vs,adj-na) (1) insufficiency/deficiency/shortage/lack/scarcity/deficit/(n,adj-na) (2) dissatisfaction/discontent/complaint/(P)/
 不退転 [ふたいてん] /(n) determination/conviction/(P)/
 不断 [ふだん] /(adj-no,adj-na,n) (1) constant/persistent/unremitting/ceaseless/(n,adj-na) (2) indecisiveness/(adj-no,n-t) (3) usual/normal/everyday/habitual/ordinary/(P)/
 不仲 [ふなか] /(n,adj-no,adj-na) discord/(on) bad terms (with)/(P)/
@@ -20102,7 +20101,7 @@
 不便 [ふべん] /(n,adj-na) inconvenience/inexpediency/unhandiness/(P)/
 不法 [ふほう] /(adj-na,n) (1) unlawful/illegal/(adj-na,n) (2) unreasonable/outrageous/unjust/unwarranted/(P)/
 不本意 [ふほんい] /(adj-na,n) reluctant/unwilling/involuntary/unintentional/unintended/unlooked-for/disappointing/(P)/
-不満 [ふまん] /(adj-na,n) dissatisfaction/displeasure/discontent/complaints/unhappiness/disgruntled/(P)/
+不満 [ふまん] /(n,adj-na) dissatisfaction/discontent/displeasure/complaint/unhappiness/(P)/
 不味い [まずい] /(adj-i) (1) (uk) bad (taste)/unpalatable/unsavoury/unsavory/awful/terrible/unpleasant/(adj-i) (2) (uk) poor/unskillful/unskilful/bungling/clumsy/(adj-i) (3) (uk) ugly/unattractive/homely/plain/(adj-i) (4) (uk) awkward/problematic/troublesome/unfavorable/unfavourable/unwise/(P)/
 不眠 [ふみん] /(n,adj-no) sleeplessness/insomnia/wakefulness/(P)/
 不眠症 [ふみんしょう] /(n) sleeplessness/insomnia/wakefulness/(P)/
@@ -21265,7 +21264,7 @@
 凡そ [およそ] /(adv) (1) (uk) about/roughly/approximately/(adv) (2) (uk) generally/on the whole/as a rule/(adv) (3) (uk) completely/quite/entirely/altogether/totally/not at all (with neg. verb)/(n,adj-no) (4) (uk) outline/gist/(P)/
 凡人 [ぼんじん] /(n) ordinary person/average person/mediocre person/(P)/
 凡庸 [ぼんよう] /(adj-na,adj-no,n) mediocre/ordinary/commonplace/banal/(P)/
-盆 [ぼん] /(n) (1) tray/(n) (2) family/household/(n) (3) (abbr) O-Bon/Bon Festival/Lantern Festival/Festival of the Dead/(P)/
+盆 [ぼん] /(n) (1) tray/(n) (2) family/household/(n) (3) (abbr) O-Bon/Bon Festival/Lantern Festival/Festival of the Dead/(n) (4) (sl) gambler's den/(P)/
 盆栽 [ぼんさい] /(n) bonsai/miniature potted plant/(P)/
 盆地 [ぼんち] /(n) basin (e.g. between mountains)/(P)/
 盆踊り [ぼんおどり] /(n) Bon Festival dance/Lantern Festival dance/(P)/
@@ -21376,7 +21375,7 @@
 満場 [まんじょう] /(n,adj-no) whole house/whole audience/(P)/
 満場一致 [まんじょういっち] /(n,adj-no) (yoji) unanimity/(P)/
 満席 [まんせき] /(n,adj-no) full house/all seats occupied/fully occupied/(P)/
-満足 [まんぞく] /(adj-na,n,vs) (1) satisfaction/contentment/complacency/(adj-na,n) (2) sufficient/enough/adequate/proper/(P)/
+満足 [まんぞく] /(n,adj-na,vs) (1) satisfaction/contentment/gratification/(adj-na,n) (2) sufficient/satisfactory/enough/adequate/proper/decent/(n,vs) (3) (math) satisfying (an equation)/(P)/
 満足感 [まんぞくかん] /(n) feeling of satisfaction/(P)/
 満潮 [まんちょう] /(n) high tide/high water/full tide/(P)/
 満点 [まんてん] /(n,adj-no) (1) perfect score/full marks/(n,adj-no) (2) extremely/very/quite/(P)/
@@ -21446,7 +21445,7 @@
 密猟 [みつりょう] /(n,vs) poaching/(P)/
 密林 [みつりん] /(n) (1) close thicket/dense forest/jungle/(n) (2) (sl) amazon.com/(P)/
 蜜 [みつ] /(n) (1) nectar/(n) (2) honey/(n) (3) honeydew/(n) (4) treacle/molasses/(n) (5) sorbitol (when visible as dark patches inside an apple)/(P)/
-蜜柑 [みかん] /(n) (1) (uk) satsuma mandarin (Citrus unshiu)/satsuma orange/(n) (2) (uk) citrus (Citrinae spp.)/orange/(P)/
+蜜柑 [みかん] /(n) (1) (uk) satsuma mandarin (Citrus unshiu)/satsuma orange/satsuma/(n) (2) (uk) citrus (Citrinae spp.)/orange/(P)/
 脈 [みゃく] /(n) (1) pulse/(n) (2) vein/(n) (3) chain (of mountains, etc.)/(n) (4) hope/(n) (5) thread (of an argument)/(P)/
 脈拍 [みゃくはく] /(n,adj-no) (med) pulse/pulse rate/pulsation/stroke of pulse/(P)/
 脈絡 [みゃくらく] /(n) (1) logical connection/chain of reasoning/coherence/context/(n) (2) blood vessel/(P)/
@@ -21705,7 +21704,7 @@
 鳴らす [ならす] /(v5s,vt) (1) to ring/to sound/to chime/to beat/to snort (nose)/to snap (fingers)/to crack (joints)/(v5s,vt) (2) to be popular/to be esteemed/to be reputed/(v5s,vt) (3) to state/to insist/to complain/(v5s,vt) (4) (arch) to fart (loudly)/(P)/
 鳴り [なり] /(n) ringing/sound/(P)/
 鳴る [なる] /(v5r,vi) to sound/to ring/to resound/to echo/to roar/to rumble/(P)/
-鳴門 [なると] /(n) (1) strait with a roaring tidal ebb and flow/whirlpool/maelstrom/(n) (2) (abbr) kamaboko with a spiral whirlpool-like pattern/(n) (3) (food) cooking technique where ingredients are cut in a spiral pattern/(n) (4) Naruto/city in NE Tokushima pref/(n) (5) (abbr) Naruto Strait/(n) (6) (abbr) Naruto wakame/(P)/
+鳴門 [なると] /(n) (1) strait with a roaring tidal ebb and flow/whirlpool/maelstrom/(n) (2) (abbr) kamaboko with a spiral whirlpool-like pattern/(n) (3) (food) cooking technique where ingredients are cut in a spiral pattern/(n) (4) Naruto (city in Tokushima)/(n) (5) (abbr) Naruto Strait/(n) (6) (abbr) Naruto wakame/(P)/
 姪 [めい] /(n) niece/(P)/
 滅びる [ほろびる] /(v1,vi) to go to ruin/to go under/to fall/to be destroyed/to die out/to become extinct/to perish/(P)/
 滅ぼす [ほろぼす] /(v5s,vt) to destroy/to overthrow/to wreck/to ruin/(P)/
@@ -21759,7 +21758,7 @@
 妄信 [ぼうしん] /(n,vs) blind acceptance/blind belief/credulity/(P)/
 妄想 [もうそう] /(n,vs) wild idea/delusion/(P)/
 毛 [け] /(n) (1) hair/(n) (2) fur/wool/(n) (3) down/plumage/feathers/(P)/
-毛糸 [けいと] /(n,adj-no) knitting wool/woollen yarn/(P)/
+毛糸 [けいと] /(n,adj-no) knitting wool/woolen yarn/woollen yarn/(P)/
 毛虫 [けむし] /(n) (1) hairy caterpillar/woolly bear/(n) (2) pest/nudnik (nudnick)/(P)/
 毛皮 [けがわ] /(n,adj-no) (1) fur/skin/pelt/(n,adj-no) (2) kanji "fur" radical/(P)/
 毛筆 [もうひつ] /(n) (writing, painting) brush/(P)/
@@ -21829,7 +21828,7 @@
 目撃 [もくげき] /(n,vs) witnessing/observing/sighting/(P)/
 目減り [めべり] /(n,vs) (1) loss (of weight or volume, e.g. in transit)/ullage/outage/(n,vs) (2) decrease (in value)/reduction/(P)/
 目指す [めざす] /(v5s,vt) (1) to aim at/to have an eye on/(v5s,vt) (2) to go toward/to head for/(P)/
-目次 [もくじ] /(n) table of contents/(P)/
+目次 [もくじ] /(n) table of contents/contents/(P)/
 目出度い [めでたい] /(ateji) (adj-i) (1) (uk) happy/auspicious/propitious/joyous/(adj-i) (2) naive/(P)/
 目処 [めど] /(n) (1) (uk) aim/goal/(n) (2) prospect/outlook/(P)/
 目上 [めうえ] /(n) superior/superiors/senior/(P)/
@@ -22061,7 +22060,7 @@
 有機 [ゆうき] /(n,adj-no) organic/(P)/
 有機物 [ゆうきぶつ] /(n) organic matter/(P)/
 有給 [ゆうきゅう] /(n,adj-no) (1) salaried/with pay/(n) (2) (abbr) vacation/(paid) holiday/(P)/
-有権者 [ゆうけんしゃ] /(n) (1) (eligible) voter/elector/constituent/the electorate/(n) (2) holder of a right/qualified person/(P)/
+有権者 [ゆうけんしゃ] /(n) (1) (eligible) voter/elector/constituent/the electorate/(n) (2) holder of a right/rightsholder/right holder/(n) (3) bigwig/person with political clout/(P)/
 有限 [ゆうげん] /(adj-no,adj-na,n) finite/limited/(P)/
 有効 [ゆうこう] /(adj-na,n) (1) valid/effective/(n) (2) (MA) yuko (judo)/(P)/
 有罪 [ゆうざい] /(n,adj-no) guilt/culpability/(P)/
@@ -22326,7 +22325,7 @@
 要人 [ようじん] /(n) important person/(P)/
 要請 [ようせい] /(n,vs) (1) appeal/call for something/request/claim/demand/(n) (2) axiom/(P)/
 要素 [ようそ] /(n) (1) component/factor/item (e.g. in list)/(n) (2) (comp) element (e.g. in array)/member (e.g. data structure)/(P)/
-要注意 [ようちゅうい] /(n) attention (care) required/needs special attention/(P)/
+要注意 [ようちゅうい] /(n,adj-no) need for caution/need for care/requiring special attention/(P)/
 要点 [ようてん] /(n) gist/main point/(P)/
 要望 [ようぼう] /(n,vs) demand for/request/(P)/
 要約 [ようやく] /(n,vs,adj-no) summary/digest/(P)/
@@ -22806,7 +22805,7 @@
 輪 [わ] /(n) (1) ring/circle/loop/(n) (2) hoop/(n) (3) wheel/(n) (4) circle (e.g. of friends)/(P)/
 輪ゴム [わゴム] /(n) rubber band/(P)/
 輪郭 [りんかく] /(n) (1) contour/outline/border/silhouette/(n) (2) summary/outline/sketch/(n) (3) looks/features/appearance/(P)/
-輪切り [わぎり] /(n) round slices/(P)/
+輪切り [わぎり] /(n) (1) cutting in round slices/round slice/(n) (2) dividing into groups (e.g. by ability)/(P)/
 輪番 [りんばん] /(n,adj-no) rotation (e.g. of a duty)/taking turns/(P)/
 隣 [となり] /(adj-no,n) (1) next (to)/adjoining/adjacent/(n,adj-no) (2) house next door/neighbouring house/next-door neighbour/next-door neighbor/(P)/
 隣り合う [となりあう] /(v5u,vi) to adjoin each other/to sit side by side/(P)/
@@ -22926,7 +22925,7 @@
 恋しい [こいしい] /(adj-i) yearned for/longed for/missed/(P)/
 恋する [こいする] /(vs-s) to fall in love with/to love/(P)/
 恋愛 [れんあい] /(n,vs,adj-no) love/love-making/passion/emotion/affections/(P)/
-恋心 [こいごころ] /(n) one's love/awakening of love/(P)/
+恋心 [こいごころ] /(n) (feelings of) love/(P)/
 恋人 [こいびと] /(n) lover/sweetheart/boyfriend/girlfriend/(P)/
 恋文 [こいぶみ] /(n) love letter/(P)/
 煉瓦 [れんが] /(n) (uk) brick/(P)/
