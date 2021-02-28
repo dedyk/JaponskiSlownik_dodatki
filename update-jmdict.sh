@@ -1,12 +1,12 @@
-wget http://ftp.monash.edu.au/pub/nihongo/JMdict.gz
+wget http://ftp.edrdg.org/pub/Nihongo/JMdict.gz
 
 gzip -d JMdict.gz
 
-wget http://ftp.monash.edu.au/pub/nihongo/JMdict_e.gz
+wget http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz
 
 gzip -d JMdict_e.gz
 
-wget http://ftp.monash.edu.au/pub/nihongo/edict_sub.gz
+wget http://ftp.edrdg.org/pub/Nihongo/edict_sub.gz
 
 gzip -d edict_sub.gz
 
