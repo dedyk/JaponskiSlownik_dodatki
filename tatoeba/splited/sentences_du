@@ -1,455 +1,3 @@
-5223526	por	Você já esteve na Holanda?
-5223527	lat	Maria in nosocomio moritur.
-5223528	por	Maria está morrendo no hospital.
-5223529	lat	Per totam Hispaniam iter feci.
-5223530	por	Eu viajei por toda a Espanha.
-5223531	lat	Aquila ad serpentem advolavit.
-5223532	por	A águia voou em direção à serpente.
-5223533	lat	Amice, unde venis?
-5223534	por	Amigo, de onde você vem?
-5223535	lat	E Roma mihi est in animo Berolinum usque iter facere.
-5223536	por	Eu estou querendo ir de Roma a Berlim.
-5223537	lat	Fuistine unquam in Helvetia?
-5223538	por	Você já esteve na Suíça?
-5223539	lat	Novo Eboraco venis?
-5223540	por	Você vem de Nova York?
-5223541	lat	Nonne in Italiam iter fecit?
-5223542	por	Ele não viajou à Itália?
-5223543	lat	"Quanti eges?" "Tanti, quantum dare mihi potes."
-5223544	por	"De quanto você precisa?" "De quanto você puder me dar."
-5223545	lat	Hoc anno peregrinari nolo.
-5223546	por	Eu não quero viajar este ano.
-5223547	lat	Thomas moritur.
-5223549	lat	Per totam Rutheniam iter feci.
-5223550	por	Eu viajei por toda a Rússia.
-5223552	por	Quem ele pensa que é?
-5223553	lat	Quem se esse dicit?
-5223554	por	Quem ele se diz ser?
-5223556	por	Ele fez silêncio.
-5223557	lat	Fuistine unquam in Gallia?
-5223559	lat	Quanti potest hic equus esse?
-5223560	por	Quando este cavalo pode valer?
-5223561	lat	Vindobona in Austria est.
-5223562	por	Viena fica na Áustria.
-5223563	lat	Primo tribunus militum, nomine Valerius, consulem consuluit.
-5223564	por	Primeiro, o tribuno militar, de nome Valério, consultou o cônsul.
-5223565	lat	Cras Roma redit.
-5223566	por	Ele volta de Roma amanhã.
-5223567	lat	Liberi mei Romae habitant.
-5223568	por	Os meus filhos moram em Roma.
-5223569	lat	Athenisne venis?
-5223570	por	Você vem de Atenas?
-5223571	lat	Maria moritur.
-5223572	por	Maria está morrendo.
-5223573	lat	Moscoviane venis?
-5223574	por	Você vem de Moscou?
-5223575	lat	Puto eam ex Austria oriundam esse.
-5223576	por	Eu acho que ela é da Áustria.
-5223577	lat	Cras Novo Eboraco redit.
-5223578	por	Ele volta de Nova York amanhã.
-5223579	lat	Romulus vicinarum nationum virgines rapuit.
-5223580	por	Rômulo raptou as virgens das nações vizinhas.
-5223581	lat	Romae per quinos dies Senatores imperaverunt et, his regnantibus, annus unus completus est.
-5223582	por	Os senadores governaram em Roma por cinco dias cada um, e passou-se um ano sob o governo deles.
-5223585	lat	Estne tibi iter Lutetiam?
-5223586	por	Você vai a Paris?
-5223587	lat	Cras Athenis redit.
-5223588	por	Ele volta de Atenas amanhã.
-5223589	lat	Non hic moriere.
-5223591	lat	Liberi mei Pekini habitant.
-5223592	por	Os meus filhos moram em Pequim.
-5223593	lat	Cras Bostonia redit.
-5223594	por	Ele volta de Bostom amanhã.
-5223595	lat	Tokione venis?
-5223596	por	Você vem de Tóquio?
-5223597	lat	Fuistine unquam in Ruthenia?
-5223598	por	Você já esteve na Rússia?
-5223599	lat	Servius rex declaratus est.
-5223600	por	Sérvio foi declarado rei.
-5223601	lat	Liberi mei Bostoniae habitant.
-5223602	por	Os meus filhos moram em Boston.
-5223603	lat	Romulus Caeninenses vicit, Antemnates, Crustuminos, Sabinos, Fidenates, Veientes.
-5223604	por	Rômulo venceu os ceninenses, os antemnates, os fidenates e os veientes.
-5223605	lat	Mariam se esse dixit.
-5223606	por	Ela disse que era Maria.
-5223607	lat	Vivere est cogitare.
-5223608	por	Viver é pensar.
-5223609	lat	Quidnam tibi subreptum fuit?
-5223610	por	O que lhe foi roubado?
-5223611	lat	Thoman se esse dixit.
-5223612	por	Ele disse que era Tom.
-5223613	lat	Testis sum.
-5223614	por	Eu sou testemunha.
-5223615	lat	Quid tibi amicus tuus muneri dedit?
-5223616	por	O que o seu amigo lhe deu de presente?
-5223617	lat	Fuistine unquam in America Foederata?
-5223620	por	Ela trocou o carro branco pelo preto.
-5223621	lat	Haec omnia oppida Urbem cingunt.
-5223622	por	Todos esses povos rodeiam a cidade de Roma.
-5223623	lat	Liberi mei Lutetiae habitant.
-5223624	por	Os meus filhos moram em Paris.
-5223625	lat	Roma a Romulo et Remo condita est.
-5223626	por	Roma foi fundada por Rômulo e Remo.
-5223627	lat	Visne horologium motum dare?
-5223628	por	Você quer pôr o pêndulo em movimento?
-5223629	lat	Num quis tibi furtum fecit?
-5223630	por	Alguém lhe roubou?
-5223631	lat	Haec sunt omnia, quibus opus est mihi.
-5223632	por	Isto é tudo de que eu preciso.
-5223633	lat	Liberi mei Moscoviae habitant.
-5223634	por	Os meus filhos moram em Moscou.
-5223635	lat	Liberi mei Londinii habitant.
-5223636	por	Os meus filhos moram em Londres.
-5223637	lat	Haec tabula magni est pretii.
-5223638	por	Esta mesa custa caro.
-5223639	slk	Máte čas?
-5223640	rus	Свою первую компьютерную игру я написал в двенадцать лет.
-5223641	hun	Rossz irányba mész!
-5223642	rus	Я её уже простил.
-5223643	rus	Я его уже простил.
-5223644	hun	Miről van szó?
-5223645	slk	O čo ide?
-5223646	eng	He has to go to England in the summer.
-5223647	rus	Умиранию я предпочитаю смерть.
-5223648	fra	La couchette sur laquelle je dors est très petite.
-5223649	hun	Most éhes vagy?
-5223650	fra	Les chaussures que j'ai achetées sont trop petites.
-5223651	fra	L'ordinateur que je veux acheter est très récent.
-5223652	rus	Врача сюда, быстро!
-5223653	hun	Párizsban vagy?
-5223654	fra	L'ordinateur dont tu te sers est lent.
-5223655	gla	Do bheatha dhan duthaich!
-5223656	fra	Le cheval que tu as acheté est rapide.
-5223657	rus	Я жил в США с 2008 по 2011 год.
-5223658	gla	Ur beatha dhan duthaich!
-5223659	rus	Компьютер, которым ты пользуешься, медленный.
-5223660	eng	What needs to be done?
-5223661	eng	My children live in Boston.
-5223662	eng	Most of my children live in Boston.
-5223663	eng	I hope I don't die today.
-5223664	eng	I don't think you'll die today.
-5223665	eng	All of my children live in Boston.
-5223666	rus	Мои дети живут в Париже.
-5223667	gla	Tha fhios gu bheil.
-5223668	rus	Конь, которого ты купила, быстрый.
-5223669	fra	Il y a deux balais dans la cuisine.
-5223670	gla	Nach eil fhios gu bheil.
-5223671	fra	Est-ce qu'on vend des fleurs dans ce magasin ?
-5223672	lat	Non credo te hodie moriturum esse.
-5223673	lat	Non credo te hodie morituram esse.
-5223674	rus	Это люминесцентная лампа. А та — лампа накаливания.
-5223675	fra	Tu n'as rien.
-5223676	fra	Nous n'avons rien.
-5223678	fra	Ils n'ont rien.
-5223679	fra	Elles n'ont rien.
-5223680	fra	Vous n'avez rien.
-5223681	lat	Spero fore ut non hodie moriar.
-5223682	fra	Il n'a rien.
-5223683	fra	Elle n'a rien.
-5223685	rus	В этом магазине продают цветы?
-5223686	lat	Thomas in Germaniam migravit.
-5223687	fra	Nous n'avons pas beaucoup d'argent.
-5223688	rus	У нас ничего нет.
-5223689	eng	Tom won't be going back to Boston with us.
-5223690	fra	J'étais à l'école.
-5223691	eng	I wasn't sure I really wanted to go to Boston with Tom.
-5223692	eng	Tom and his wife are from Boston.
-5223693	eng	I'm pretty certain that Tom is in Boston now.
-5223694	eng	Tom arrived in Boston on Monday.
-5223695	eng	Why would I want to go to Boston with you?
-5223696	eng	Tom isn't going back to Boston.
-5223697	eng	I'm not going to go to Boston next week.
-5223698	eng	Tom died at his home in Boston.
-5223699	eng	I've got to go back to Boston tomorrow.
-5223700	eng	Tom is hoping to go to Boston.
-5223701	eng	I'm not going to go to Boston with you.
-5223702	eng	Tom also has family in Boston.
-5223703	eng	I'm really happy to be back in Boston.
-5223704	eng	Tom lives in the Boston area.
-5223705	eng	I'm supposed to be in Boston today.
-5223706	eng	Tom is a resident of Boston.
-5223707	eng	I wouldn't want to live in Boston.
-5223708	eng	What's Tom up to in Boston?
-5223709	eng	We're not far from Boston now.
-5223710	eng	Tom died in 2013 in Boston.
-5223711	eng	I don't like living in Boston.
-5223712	eng	I told Tom I'm from Boston.
-5223713	eng	I lived in Boston for years.
-5223716	eng	Tom is a native of Boston.
-5223717	eng	I'd love to live in Boston.
-5223718	eng	Tom spent time in Boston.
-5223719	eng	I intend to stay in Boston.
-5223720	lat	Omne quadratum rectangulum est.
-5223721	fra	Ma maison est sale.
-5223722	rus	Том и Мэри вместе вошли в церковь.
-5223723	lat	Ianuam aperientem audivi.
-5223724	rus	Всякий квадрат — прямоугольник.
-5223725	lat	Aliquem ianuam aperientem audivi.
-5223726	fra	Peux-tu m'apprendre le portugais ?
-5223727	rus	Можешь научить меня португальскому языку?
-5223728	fra	Tu as de beau doigts.
-5223729	lat	Pagina electronica Mozilla Firefox videri non potest.
-5223730	fra	Tes mains sont belles.
-5223731	lat	Pater procerus est.
-5223734	rus	Сайт не отображается в Mozilla Firefox.
-5223735	rus	Сайт не работает в Mozilla Firefox.
-5223736	rus	Ещё ребёнком я часто ходил с отцом на рыбалку.
-5223737	rus	Получилось! Сработало!
-5223738	rus	Тигры превосходят в жестокости многих других животных.
-5223739	rus	Ископаемые остатки организмов сохраняются в горных породах.
-5223740	rus	Ты делаешь то, что я думаю?
-5223741	epo	Mi loĝis en Bostono dum jaroj.
-5223742	epo	Mi vivis en Bostono dum jaroj.
-5223743	epo	Mi ne ŝatas loĝi en Bostono.
-5223744	eng	I wish I had done this earlier.
-5223745	eng	I wish you had told me earlier.
-5223746	rus	Дэн хотел пойти с Линдой.
-5223748	eng	I wish you had told me this earlier.
-5223749	epo	Ŝia filo estas surda.
-5223751	rus	Наилучшим порядком будет не 1-2-3, а 3-2-1.
-5223752	epo	Tiu tablo estas multekosta.
-5223753	epo	Tiu tablo kostas multe da mono.
-5223754	epo	Miaj gefiloj loĝas en Londono.
-5223755	epo	Miaj gefiloj vivas en Londono.
-5223756	rus	В озере очень чистая вода.
-5223757	epo	Miaj gefiloj loĝas en Parizo.
-5223758	epo	Vivi estas pensi.
-5223759	rus	Детям, которые здесь находятся, несмотря на возраст, пришлось пережить и выстрадать многое.
-5223760	epo	Ŝi diris, ke ŝi estas Maria.
-5223761	epo	Ĉu vi jam estis en Rusio?
-5223762	epo	Ĉu li ne vojaĝis al Italio?
-5223763	epo	Amiko, el kie vi venas?
-5223764	epo	Okazis mirinda afero.
-5223765	pol	Rząd Meksyku się poddał.
-5223766	pol	Pikachu jest Pokémonem.
-5223767	rus	Она может учить как английскому, так и французскому.
-5223768	pol	Liczyłem na Toma.
-5223769	rus	«Знаешь, сколько человек пришло?» — «Пока ни одного».
-5223770	rus	Вы на редкость догадливы.
-5223771	deu	Ich wünsche einen guten Abend!
-5223772	pol	Tom zarabia trzy razy więcej ode mnie.
-5223773	pol	Tom i Mary czekają na zewnątrz.
-5223774	pol	Muszą zapłacić z góry.
-5223775	pol	Pójdę jutro rano.
-5223776	pol	Tom jest rasistą.
-5223777	pol	Chciałbym znów usłyszeć tamtą piosenkę.
-5223778	rus	Это не самая любимая для меня тема.
-5223779	pol	Jedną trzecią wszystkich członków były kobiety.
-5223780	rus	Сейчас я тебе лицо разобью.
-5223781	pol	"Jak dobrze znasz Toma?" "Spotkałem go tylko raz."
-5223782	pol	"Jak dobrze znasz Toma?" "Spotkałam go tylko raz."
-5223783	pol	Dodała mnie na Facebooku.
-5223784	pol	Tom wiedział, że to się stanie.
-5223785	pol	Chyba znalazłem coś Twojego.
-5223786	pol	Nienawidzę swojego głosu.
-5223787	pol	Tomowi powiedziano aby tego nie robił.
-5223788	tur	Onun adresini öğrendiğimde ona yazacağım.
-5223789	tur	Bu Aradığınız anahtar mı?
-5223790	tur	Sen oraya onlar varmadan önce vardın.
-5223791	tur	Biz birkaç konu hakkında konuştuk.
-5223792	rus	Эти книги твои или мои?
-5223793	tur	Ben Tom olsaydım Mary'nin yüzüne yumruk atardım.
-5223794	rus	Вы должны знать, что Вы — мой первый клиент.
-5223795	rus	Вы будете работать здесь в Рио?
-5223796	rus	Наши отношения закончились, и на этот раз навсегда.
-5223797	rus	У неё есть дом у моря.
-5223798	rus	Давай, поезжай за ним. Только осторожно, не спугни.
-5223799	pol	Znam Toma bardzo dobrze.
-5223801	deu	Kannst du um neun kommen?
-5223803	nds	Kannst du üm negen kamen?
-5223804	eng	Proceed!
-5223805	rus	Ананас — это фрукт.
-5223806	rus	Ты станешь учителем.
-5223807	rus	Вы станете учителем.
-5223808	rus	Мне не нравится, когда меня обнимают.
-5223809	epo	Ni bezonas proviantojn.
-5223810	epo	Mi simple helpos vin komenci.
-5223812	pol	Podejrzany chciał uniknąć aresztowania.
-5223813	rus	Я разрушу эту стену.
-5223814	gla	Feumaidh tu dol còmhla ri Tòmas an-dràsta.
-5223815	epo	Ni devas trovi, kio misfunkcias.
-5223816	epo	La vino estis ruĝa.
-5223817	tur	Sandra trende bana koltuğunu önerdi.
-5223818	epo	Mi vizitos vin iam en proksima estonteco.
-5223820	epo	Mi ne deziras fari aĉetojn sola.
-5223822	tur	Seni tanıştırmak istediğim birisi var.
-5223823	pol	Porozmawiamy w moim biurze.
-5223824	eng	Stop talking and start working!
-5223825	tur	Nerede bir pizzacı bulabilirim?
-5223826	tur	Biraz daha sabırlı olsaydın başarabilirdin.
-5223827	epo	Li fanfaronis, kaj li ne estis multe amata.
-5223828	epo	Ni vagadis sencele ĉirkaŭ la komerca kvartalo.
-5223829	epo	Mi rigardis lin foriri.
-5223830	tur	Ben meşru müdafada Tom'u öldürdüm.
-5223831	pol	Czemu ze mną o tym nie porozmawiasz?
-5223832	tur	Tom kendini kaybetti ve Konrad'ın yüzüne vurdu.
-5223833	epo	Mi sentas min stresiĝinta.
-5223835	rus	Два бразильца были первыми, кто исследовал эту пещеру.
-5223836	rus	Астрономия — это наука о Вселенной.
-5223837	epo	Manjo ne imagis la sentojn, kiujn ŝi havigis al sia samklasano.
-5223838	epo	Tomo kaŝas al mi ion.
-5223839	epo	Estis vi la unua.
-5223840	epo	Vi diris, ke vi volas familion.
-5223841	epo	Tio estas la mondo renversita!
-5223842	epo	Vi estis alpremita al muro.
-5223843	epo	Estas tre probable, ke eĉ se oni formetas la elementon C, oni obtenos similan rezulton.
-5223844	epo	Vi estas amuza ulo.
-5223845	epo	Kion mi estas supozata fari nun?
-5223846	epo	Neniu fidas al li.
-5223847	epo	Neniu fidas al ŝi.
-5223848	epo	Ĉu mi maltrafis ion ajn?
-5223849	rus	Я могу взять это в самолёт?
-5223850	epo	Tiu kanzono memorigas min pri iu, kiun mi konis.
-5223851	ita	Non l'ho mai vista ballare.
-5223852	epo	La ina logiko ne ĉiam logikas.
-5223853	ita	Ho indovinato
-5223854	epo	Mi malfermas nun miajn donacojn.
-5223855	ita	Parlo alcune lingue.
-5223857	epo	Li fartas kiel la Nova Ponto.
-5223858	epo	Mi povas ekde nun morti feliĉa.
-5223859	ita	Mi sono spaventata quando l'ho visto.
-5223860	ita	Tom andrà per primo.
-5223861	ita	Non lo voglio alla mia festa.
-5223862	ita	Gli ho detto tutto.
-5223863	ita	Tom disse che lui sapeva dove stava andando Maria.
-5223864	ita	Se lo sapesse, ce lo direbbe.
-5223865	epo	La hirundoj foriris, sed ili revenos printempe.
-5223867	epo	Vi ĉirkaŭpromenis la tutan lagon.
-5223868	epo	Ŝia patrino lamentis, ke ŝi trovas en ŝi nek orgojlon, nek vantecon, nek la plej etan signon de koketeco.
-5223869	epo	Lasu Tomon respondi.
-5223870	epo	Tom estis akuzita pro stirado en ebria stato, post kiam li estis implikita en trafikakcidento en Bostono.
-5223871	epo	Ni gaŭloj prifekas vin!
-5223872	epo	Mi tre bone komprenas viajn maltrankvilojn.
-5223873	epo	Tomo ne volis iri al festo de Mario.
-5223874	epo	Li estas tiom malpuraĉa, ke mi foje vidis lin mungi sin en kravato.
-5223875	epo	Diru al mi, ke tio ne estas la vero.
-5223876	epo	Kio okazis en la parko?
-5223877	epo	Tomo ne povas pensi pri pli bona plano.
-5223878	epo	Vi havas gaston.
-5223879	epo	Mi ne forgesas pri vi.
-5223880	epo	Mi ne forgesu pri vi.
-5223881	tur	Bu yol şehre giden tek yoldur.
-5223882	tur	Ben nişanımızı bozdum.
-5223883	tur	Portreleri çizebileceğim bir okul arıyorum.
-5223884	tur	Ben radyo dinlerken her zaman çalışırım.
-5223885	tur	Benim iznim olmadan hiç kimde bana zarar veremez.
-5223886	tur	O, elbiseyi parçaladı.
-5223887	epo	Tomo estas sufiĉe bona en ŝako.
-5223888	tur	Yazar ne kadar önce öldü?
-5223889	epo	Tomo estas relative lerta en ŝako.
-5223890	epo	Tomo relative lertas pri ŝako.
-5223891	tur	Tom'un artık ne iş çevirdiğini merak ediyorum.
-5223892	tur	Ben onların evini geçerken Tom ve Mary tartışıyordu.
-5223893	tur	Onun üzerinde dikkatlice düşüneceğim.
-5223894	tur	Tom belgeleri Mary'nin masasına attı.
-5223896	epo	La knabino havis teleskopon en sia mano.
-5223898	tur	Amerika'nın göçmenlik sistemi bozuldu.
-5223899	tur	Tom'un bir kötü ikiz erkek kardeşi var.
-5223900	tur	Bir yanlış anlama olmalı.
-5223901	epo	Mi atendis ŝin.
-5223902	tur	Onun şimdi nerede olduğu hakkında bir fikrim yok.
-5223903	tur	Odamdaki pencereler kırık.
-5223904	epo	Via strategio estis bona.
-5223905	tur	O bir pislik, ama yine de onu seviyorum.
-5223906	tur	O, yoga vasıtasıyla mutluluğa ulaşır.
-5223907	tur	Tom kısaca başını salladı.
-5223908	epo	Se vi volis pli da kuko, vi devis nur peti.
-5223909	tur	Onun okuduğunu biliyordum.
-5223910	tur	Tom'u beladan korumaya çalışıyorum.
-5223911	tur	O bir kurtarıcı sürüyor.
-5223912	epo	Kion opinius via edzino pri tio ĉi?
-5223913	tur	Her pazar sabah yedide yatmaya giderim.
-5223914	epo	Kiom altas la minimuma salajro en Pakistano?
-5223915	hun	Ezek a fiatalok nem tudják, mit jelent az, valamit beosztani.
-5223916	epo	Laŭŝajne vi ne ŝatas Tomon.
-5223917	epo	Korina liveras viandajn pakaĵojn al privatuloj.
-5223918	epo	Ŝajnas, ke vi ne ŝatas Tomon.
-5223919	epo	Ĉu ne estas pretaj je tio?
-5223920	epo	Tenu vian armilon je manatingo!
-5223921	hun	Az emberek egyre nagyobb kényelemben és lelki ürességben élnek.
-5223922	epo	Ni ne estas junaj.
-5223923	epo	Mi sentas min streĉita.
-5223924	rus	Удивительно, что это предложение до сих не перевели на русский язык.
-5223925	epo	Se almenaŭ mi uzis mian tempon por legi la manlibron pri uzinstrukcioj!
-5223926	epo	Manjo kapablas paŝi per la manoj.
-5223927	epo	Ne utilas viziti la lernejon, se vi ne iras por lerni.
-5223928	epo	Tute proksime de ĉi tie estas panvendejo.
-5223929	hun	Minek kapcsolod még fel a villanyt ilyen világosban?
-5223930	hun	Linda drága ékszereket hordott.
-5223931	deu	Es wäre mir lieber gewesen, du hättest mir das früher gesagt.
-5223932	deu	Ich wünschte, du hättest es mir früher gesagt.
-5223933	hun	Volt néhány ékszer Lindán.
-5223934	deu	Ich habe Tom gesagt, dass ich aus Boston bin.
-5223935	deu	In Boston würde ich nicht gern leben.
-5223936	hun	Betört valaki Mary lakásába, és ellopta az ékszereit.
-5223937	epo	Ili klarigos tion al vi per tiu foto.
-5223938	spa	Me gustaría vivir en Boston.
-5223939	epo	Ni estis petataj veturi malrapidege en la parkejo.
-5223941	spa	Le dije a Tom que soy de Boston.
-5223942	spa	Tom también tiene familia en Boston.
-5223943	spa	No voy a ir a Boston contigo.
-5223944	deu	Tom ist ein aufstrebender Musiker.
-5223945	deu	Ich erinnere mich noch an den Geruch ihrer Haare.
-5223946	deu	Tom genierte sich zuzugeben, dass er mit dem Gitarrespielen angefangen hatte, um Mädchen zu beeindrucken.
-5223947	epo	Al subtileco neniam vi emis.
-5223948	epo	Li senpacience atendas la rezultojn de sia ekzameno.
-5223949	epo	Kiel mi faru por enigi tabulon?
-5223950	epo	Manjo ne adoras la idolojn.
-5223952	epo	Tomo estas elrevigita.
-5223954	hun	Emlékszem még hajának illatára.
-5223955	epo	Laŭ mi, ŝi estas allogita de vi.
-5223957	epo	Li matenmanĝis rapide.
-5223958	hun	Az orromban van még mindig hajának illata.
-5223959	epo	Manjo loĝas malproksime de la flughaveno.
-5223960	epo	Tiu vojo estas tro mallarĝa por veturi per aŭto.
-5223961	epo	Viaj respondoj estas tro prokrastitaj.
-5223962	hun	Három évet húzott le a sitten.
-5223963	hun	Nem szívesen élnék Bostonban.
-5223964	pol	Tom chciał być jak jego brat, Ken.
-5223965	epo	Tiu ino, kiun mi amas, ne estas kun mi, tial mi sentas min sola... Unu sola estaĵo mankas al vi, kaj ĉio senhomas.
-5223966	epo	Tio ne estas tiel bona ideo.
-5223967	epo	Dan ne toleras maljustecon.
-5223968	epo	Mi flustradis.
-5223969	epo	Li sentis sin malbone, kaj ili kuŝigis lin sur benkon.
-5223970	epo	Pli ol necese tedas min lia senhonteco.
-5223971	epo	Ĉu vi finfine kutimiĝis al la japana nutraĵo?
-5223972	epo	Vi ne ofte stiras.
-5223973	pol	Nigdy nie kłóć się z pijanym.
-5223974	epo	Mia nova skatolmalfermilo estas pli potenca ol la antaŭa, do mi esperu, ke tio ne postulos de mi pli ol du minutojn por atingi miajn fazeolojn.
-5223975	epo	Lasu min uzi vian komputilon.
-5223976	pol	Ona jest teraz starsza mądrzejsza.
-5223977	epo	Se vi volintus, ke mi varmigu vin, mi vin varmigintus.
-5223979	epo	Marika estas senpasia. Ŝi ne havas sentojn.
-5223980	epo	Kial mi estas tiom kruda?
-5223982	epo	Vi povas lui boaton laŭhore.
-5223983	tlh	buqwIj Daleghpu''a'?
-5223986	epo	Vi estas lernanta, ĉu ne?
-5223987	rus	Доказательство неопровержимо.
-5223988	epo	Tomo havas larĝajn ideojn.
-5223989	epo	Mi ankoraŭ memoras pri la odoro de ŝiaj haroj.
-5223990	epo	La pirarbo en la ĝardeno portas fruktojn en granda kvanto.
-5223991	epo	Ĉu vi estas ano de tiu ŝipanaro?
-5223992	epo	Hodiaŭ mi ne ricevos retmesaĝojn de Manjo.
-5223993	epo	Ni devus interparoli.
-5223994	epo	Ni interparolu.
-5223995	epo	Mi ne amas Tomon pro pravigeblaj kialoj.
-5223996	epo	Jen estas tio, kion ni ĉiuj volas.
-5223997	epo	Vi ne bezonas panikiĝi.
-5223998	epo	Kiudirekten ŝi iris?
-5223999	epo	Mi ne forgesos vin, Tom.
-5224000	epo	La akirado de kultivebla grundo fare de eksterlandanoj kaŭzas multe da maltrankvilo ene de la loĝantaro.
-5224001	epo	Mi volas fari mian laboron kiel eble plej bone.
-5224002	epo	Kiel pasis la lasta nokto?
-5224003	pol	Bill, nie idź tam!
-5224004	epo	Tion mi faris antaŭ jardekoj.
-5224005	epo	Iuj eventoj de mia infanaĝo estas tre klaraj, aliaj male estas nur svaga memoraĵo.
-5224006	epo	Mi estas danka al vi pro via vigla atento.
-5224007	epo	Mi opinias tion stulta ideo.
-5224008	epo	Mi streĉe laboros.
-5224009	epo	Mi ne volas, ke ŝi estu malfeliĉa.
-5224010	epo	Mi ŝatus aldoni novan lingvon al Tatoeba, kion mi faru?
-5224011	spa	¡Bill, no vayas ahí!
-5224012	epo	Ĉi-foje mi timas, ke mi ne povos savi vin.
 5224013	epo	Ili opinias necese studi la edukan sistemon kaj la lernejan medion en Japanio.
 5224014	pol	Jak byś ich opisał?
 5224015	epo	Vi pravas, kompreneble.
@@ -671,13 +219,13 @@
 5224248	hun	Hagyd abba a időjárásról való panaszkodást.
 5224250	por	Tom entediou-se após três minutos.
 5224251	hun	Én még többet tanulok.
-5224252	hun	(Én) Szeretnék most valamit rendelni.
+5224252	hun	Szeretnék most valamit rendelni.
 5224253	por	Você só precisa de prática.
 5224254	por	Não grite com o meu filho.
 5224255	por	Não grite com a minha filha.
 5224256	por	Ouvi dizer que você é muito rico.
 5224257	por	Estava aqui.
-5224258	hun	Hurrá, végre szabadság! Tenger, nap(fény), nők!
+5224258	hun	Hurrá, végre szabadság! Tenger, napfény, nők!
 5224259	por	Somos historiadores.
 5224260	por	Somos historiadoras.
 5224261	por	Eu fui à padaria.
@@ -2341,7 +1889,7 @@
 5226048	epo	La morto ne povas kapti nin. Ĉar tiom longe, ke ni vivas, la morto ne estas tie. Kiam ĝi estas tie, ni ne plu ekzistas.
 5226049	nds	Chiqui is en Papagei, de Esperanto snackt.
 5226050	epo	Unu ne pli valoras ol la alia.
-5226051	epo	Vi sukcesos, pro tio mi certas.
+5226051	epo	Vi sukcesos, pri tio mi certas.
 5226052	rus	Жизнь как катание на велосипеде. Чтобы сохранять равновесие, надо продолжать двигаться.
 5226053	rus	Ей больше нечего было делать.
 5226054	deu	In angenehmeren Teilen der Welt wollen die Menschen länger leben. Es ist das Gegenteil in weniger angenehmen Teilen.
@@ -3240,7 +2788,6 @@
 5227024	por	Quando começamos a sonhar, nossa respiração torna-se irregular e menos profunda.
 5227025	toki	jan li open pali e sitelen lape la kama kon li kama sama ala li kama wawa lili.
 5227026	por	Tom estava morrendo.
-5227027	toki	jan Ton li kama moli.
 5227028	por	Cada uma de suas palavras é uma mentira.
 5227029	por	A morte dele marca o fim de uma etapa da nossa história.
 5227030	toki	moli ona la wan pi tenpo pi mi mute li pini.
@@ -4318,7 +3865,7 @@
 5228192	epo	San-Paŭlo limas Rio-de-Ĵanejron.
 5228193	epo	Rio-de-Ĵanejro limas Minas-Ĝerajson.
 5228194	epo	Mi laboris en Rio-de-Ĵanejro dum du jaroj.
-5228195	eng	In the city.
+5228195	eng	She lives in the city.
 5228196	por	Eu não li muitos livros em francês.
 5228197	gle	Ní féidir liom labhairt.
 5228198	epo	Ĉu vi scias, ke Rio-de-Ĵanejro jam estis la ĉefurbo de Brazilo?
@@ -6727,7 +6274,6 @@
 5230875	tur	Tom dün gece sahneye çıktı.
 5230876	tur	Tom bütün bunları biliyordu.
 5230877	tur	Tom bütün bunları bilir.
-5230878	toki	sina weka ilo e pipi tan telo. taso sina moku e soweli suli.
 5230879	war	Makuri adto hin duro.
 5230880	war	Pumurot hiya hin salamin ngan ginkita an iya dila.
 5230881	war	¿Namati ka na hini nga kanta?
@@ -7525,7 +7071,6 @@
 5231717	epo	Rigardu la hundon salti!
 5231718	epo	Ĉiuj historioj estas interesaj.
 5231719	hun	Nem emlékszel a címére?
-5231720	epo	Ĉu ni povas kalkuli kun vi?
 5231721	epo	Johano tendencas koleriĝi, kiam li ne faras, kion li volas.
 5231722	epo	Estas multaj bestoj vidindaj.
 5231723	epo	Mi farigis tiun kostumon por mi laŭmezure.
@@ -8905,8 +8450,8 @@
 5233174	deu	Die Glatze ist erst unter der Mütze gut.
 5233175	deu	Die Augenblicke, die noch kommen, sind länger als die, die schon vergangen sind.
 5233176	deu	Leichtsinnigkeit ist eine schwere Last.
-5233177	kur	Berx û gurên tirkan bi hev re diçêrin.
-5233178	deu	Die Schafe und die Wölfe der Türken gehen Hand in Hand.
+5233177	kmr	Berx û gurên tirkan bi hev re diçêrin.
+5233178	deu	Türkische Schafe und Wölfe grasen zusammen.
 5233179	deu	Wer sich vor seiner Frau nicht fürchtet, der ist kein richtiger Mann.
 5233180	deu	Keiner fürchtet sich vor dem verräterischen Wolf.
 5233181	deu	Ich möchte wissen, wohin Tom ging.
@@ -9634,7 +9179,7 @@
 5233934	por	Tom está sendo razoável.
 5233935	fin	Olispa mulla tarpeeks rohkeutta siihen.
 5233936	rus	Увидимся следующим летом.
-5233937	fra	Tu a un bon cœur.
+5233937	fra	Tu as un bon cœur.
 5233938	por	Eu quero tudo o que não está funcionando consertado.
 5233940	hun	Tomnak van egy fiú ikertestvére, John.
 5233941	fra	Tu es dans mon cœur.
@@ -13946,7 +13491,6 @@
 5238725	rus	Он инвестировал в отрасль приличную сумму.
 5238726	epo	Tio doloras min.
 5238728	por	Estou feliz que tenha se lembrado de mim.
-5238729	epo	Bonaj studentoj diligente studas.
 5238730	por	Eu estou feliz que tenha se lembrado de mim.
 5238731	spa	"Ok, Kimi, necesitamos mantener trabajando todas las 4 ruedas por favor, todas las 4 ruedas". "Si, si, si, si, Estoy haciendo eso todo el tiempo. No necesitas recordármelo cada diez segundos".
 5238732	rus	Япония - лидер мировой индустрии высоких технологий.
@@ -16047,7 +15591,7 @@
 5240966	tur	Tom'un aynısını yapacağından eminim.
 5240967	tur	Ben eve geldiğimde babam dışarı çıkmak üzereydi.
 5240968	tur	"Şapkam nerede?" "Tam arkanda."
-5240969	tur	Korku kalbime süzüldü ve orada yerleşti.
+5240969	tur	Korku usul usul yüreğime yerleşmişti.
 5240970	tur	Her ihtimale karşı bir şey olursa, işte telefon numaram.
 5240972	tur	Ben beğenmediğim bir Kanadalı ile hiç tanışmadım.
 5240973	eng	I have no desire to go there.
@@ -16660,7 +16204,7 @@
 5241633	epo	Tomo rigardis tra la fenestro de la pordo.
 5241634	epo	Vi similas al mia patrino.
 5241635	fra	Jésus changea l'eau en vin.
-5241636	epo	Kian libron vi legas?
+5241636	epo	Kiajn librojn vi legas?
 5241637	fra	Quel genre de livre tu lis ?
 5241638	fra	Le bricoleur de Georges Brassens changeait le vin en eau.
 5241639	fra	Quel sorte de livre vous lisez ?
@@ -19430,7 +18974,7 @@
 5244589	deu	Tom fiel die Treppe herunter.
 5244590	epo	Kaj mi nun estas en Lviv!
 5244592	deu	Erzähl nicht so einen Blödsinn.
-5244593	prg	Tom viel hinunter.
+5244593	deu	Tom fiel hinunter.
 5244595	deu	Kein anderer bot seine Hilfe an.
 5244596	deu	Ich bin kein Einzelkind.
 5244597	deu	Es war kalt.
@@ -21101,7 +20645,7 @@
 5246393	deu	Tom musste nicht lange warten.
 5246394	deu	Ich möchte im Schwimmen besser werden.
 5246395	epo	Se la kvalito de via produkto trovos la aprobon de nia kliento, ni faros ĝustatempajn mendojn.
-5246396	deu	Tom hält Maria für einen Blödmann.
+5246396	deu	Tom hält Maria für eine Idiotin.
 5246397	deu	Ich fand das auch lustig.
 5246398	epo	Ankaŭ mi opiniis tion amuza.
 5246399	deu	Ich heiße es nicht gut, was Tom getan hat.
@@ -21906,7 +21450,7 @@
 5247224	rus	Я ем киви.
 5247226	rus	Я ем лимон.
 5247227	rus	Я ем бананы.
-5247228	hun	Az emberek arról beszéltek a fogadóban, hogy a mocsárban egy lány lelke kísért, és nem képes a nyugalmát megtalálni halála természetellenes volta végett, és borongós napokon a férfiakat tévútra csalja egy nedves sírba. Tom a vállára vette hátizsákját. A nap komor volt és más tennivalója nem volt Tomnak. Szóval, gondolta, fel is keresheti ezt a kísértetet.
+5247228	hun	Az emberek arról beszéltek a fogadóban, hogy a mocsárban egy lány lelke kísért, és nem képes a nyugalmát megtalálni halála természetellenes volta végett, és borongós napokon a férfiakat tévútra csalja egy nedves sírba. Tom a vállára vette hátizsákját. A nap komor volt és más tennivalója nem volt Tomnak, szóval, gondolta, fel is keresheti ezt a kísértetet.
 5247229	rus	Я ем малину.
 5247230	rus	Я ем виноград.
 5247231	fra	J'ai mangé un citron frais pour la vitamine C.
@@ -24946,7 +24490,7 @@
 5250556	eng	I had a hard time saying no.
 5250557	eng	Tom died a few months later.
 5250558	ces	To je poslední vlak.
-5250559	eng	I am a decendant of Isreal's famous King David.
+5250559	eng	I am a descendant of Israel's famous King David.
 5250560	eng	The doctors want to intensify the treatments.
 5250562	eng	The news will certainly devastate him.
 5250563	eng	My mother's mother is my only living grandparent.
@@ -25064,7 +24608,7 @@
 5250707	spa	¿Ahí estás?
 5250708	spa	Ahí estás.
 5250709	spa	¿Ahí estamos?
-5250710	spa	Ahi estamos.
+5250710	spa	Ahí estamos.
 5250711	spa	¿Ahí están?
 5250712	spa	Ahí están.
 5250713	spa	¿Ahí estáis?
@@ -25904,7 +25448,7 @@
 5251653	eng	I have had my driver's license since I was 18 years old.
 5251654	por	Os carneiros comem capim.
 5251658	dan	Jeg har haft mit kørekort siden jeg var 18 år gammel.
-5251662	toki	soweli mi li sona e toki Epelanto. taso ona li ken ala toki e ona.
+5251662	toki	soweli mi li sona e toki Epelanto. taso ona li ken ala toki kepeken ona.
 5251663	epo	Mi havas mian kondukpermesilon ekde kiam mi havis 18 jarojn.
 5251664	por	Quanto custam estas luvas?
 5251665	por	Ele tinha quarenta e quatro anos quando morreu.
@@ -26647,7 +26191,7 @@
 5252484	tur	Tom'a altı ay ertelenmiş hapis cezası verildi.
 5252485	ron	Tom și Mary au căzut de acord asupra unui preț.
 5252486	tur	Tom'un bisikleti bir uyuşturucu bağımlısı tarafından çalındı.
-5252487	por	Aonde estamos indo mesmo?
+5252487	por	Aonde você vai mesmo?
 5252488	tur	Oğlan grupları o zaman çok popülerdi.
 5252489	por	Por que você quer isso mesmo?
 5252490	tur	Ben ekmeğe yağ sürüyorum.
@@ -28871,13 +28415,13 @@
 5254844	kor	저희에게 거짓말 하지 마세요.
 5254846	jpn	やめた。
 5254848	jpn	食べた。
-5254850	jpn	食べる
+5254850	jpn	食べる。
 5254851	hun	Hogy figyelmet kérjek, hangosan megköszörültem a torkomat.
 5254852	deu	Um mir Aufmerksamkeit zu verschaffen, räusperte ich mich laut.
-5254853	jpn	反対
+5254853	jpn	反対です。
 5254854	hun	Ledöntötték a Sztálin-szobrot.
-5254856	jpn	出発した
-5254857	jpn	トムは良い子
+5254856	jpn	出発した。
+5254857	jpn	トムは良い子だ。
 5254858	hun	Voltam két éve Németországban.
 5254859	hun	Két éve voltam Németországban.
 5254860	hun	Ha a tengerszint-emelkedés a legnagyobb széndioxid kibocsátó országokon és nagyvállalatokon múlik, akkor szétnézhetünk máris a lakóhajók piacán.
@@ -30759,7 +30303,7 @@
 5256909	deu	Bis hierher und nicht weiter.
 5256910	rus	Том растянулся на диване и уснул.
 5256911	rus	Том растянулся на полу и уснул.
-5256912	epo	Tiu farmbieno estas por mi paradizo surtera.
+5256912	epo	Tiu bieno estas por mi paradizo surtera.
 5256913	rus	Что случилось с машиной?
 5256914	epo	Ne estas multaj libroj sur tiuj bretoj.
 5256915	tur	Bir dahaki sefere bu kadar şanslı olmayacaksın.
@@ -34103,7 +33647,7 @@
 5260479	rus	Какие они дураки!
 5260480	rus	Какие они дуры!
 5260481	spa	Emputado creo que no existe, pero sí imputado y empuntado.
-5260482	spa	¿Qué hago si hay una palabra que no deberia estar?
+5260482	spa	¿Qué hago si hay una palabra que no debería estar?
 5260483	epo	Mi havas infanojn.
 5260484	tur	Mary bir dansçının bedenine sahip.
 5260485	rus	Он был очень уставшим.
@@ -34864,7 +34408,7 @@
 5261287	hun	Azt mondta, hogy a gázcsöveket jött ellenőrizni, közben meg ellopta nagymamám tartalék szemüvegét.
 5261291	eng	Our task is to repair a wall.
 5261292	eng	ERROR: No body text!
-5261293	hun	- Mikor kezdi el Tomi? - Már csinálja. Nála minden pikk-pakk megy.
+5261293	hun	- Mikor kezdi el Tomi? - Már javában csinálja. Nála minden pikk-pakk megy.
 5261294	hun	- Nem tudom, de meg kellene csinálnom! - Neked meg kell tenned! - Nem tehetem!
 5261295	rus	По-моему, Том научился ездить верхом ещё до того, как научился ходить.
 5261296	eng	I always thought that suffering a heart attack was an omen of death.
@@ -38641,7 +38185,7 @@
 5265425	eng	No one seems to be telling the truth.
 5265426	eng	I don't think Tom is telling the truth.
 5265427	eng	I wonder if Tom is telling the truth.
-5265428	fra	Veuillez continuez.
+5265428	fra	Veuillez continuer.
 5265429	fra	Tom haussa les épaules.
 5265430	eng	Nobody tells the truth anymore.
 5265431	fra	Tom hocha la tête.
@@ -38740,7 +38284,6 @@
 5265527	swe	Jag är hemsk.
 5265528	swe	Tom stängde av radion.
 5265529	swe	När var senaste gången Tom pratade med dig?
-5265530	swe	Gör det vänstra ben fortfarande ont?
 5265531	swe	Det fanns inte tillräckligt med bränsle.
 5265532	swe	Tom kan inte tro att Mary är över trettio.
 5265533	swe	Jag skulle aldrig ha gissat att Tom är från Boston.
@@ -38754,7 +38297,7 @@
 5265541	swe	Tom och Mary tittar på teve i vardagsrummet.
 5265542	swe	Var snäll och ta med en sallad.
 5265543	swe	Jag är på väg mot Boston nu.
-5265544	swe	Jag har aldrig hört den är låten innan.
+5265544	swe	Jag har aldrig hört den här låten innan.
 5265545	swe	Jag var arg.
 5265546	swe	Tom och jag var båda glada.
 5265547	swe	Du borde inte ha läst Toms brev.
@@ -38777,7 +38320,7 @@
 5265566	swe	Tom visste inte att Marys hus var så nära Johns.
 5265567	swe	Du skrämde mig.
 5265568	swe	Allt jag vill är att åka och fiska.
-5265569	swe	Namnet på de som dog har inte tillkännagetts.
+5265569	swe	Namnen på de som dog har inte tillkännagetts.
 5265570	deu	Es ist wohl an der Zeit zu gehen.
 5265571	swe	Tom slutade aldrig leta efter Mary.
 5265572	swe	Klockan är två.
@@ -39682,7 +39225,7 @@
 5266523	ita	Come le vanno le cose?
 5266524	mar	त्यांनी काळे कपडे घातले होते.
 5266526	mar	टॉमकडे एक काळी मांजर आहे.
-5266527	mar	टॉमकडे एक काळा बोका आहे.
+5266527	mar	टॉमकडे एक काळं मांजर आहे.
 5266528	mar	मी एक काळी गाडी चालवतो.
 5266529	rus	Это была блестящая статья.
 5266530	mar	टॉमने काळे कपडे घातले होते.
@@ -46500,7 +46043,7 @@
 5273808	fra	Le chat était en train de manger la souris.
 5273809	epo	La kato estos manĝanta la muson.
 5273810	por	Acabo de voltar para casa.
-5273811	tur	Remorse regret ile eşanlamlı değildir.
+5273811	tur	Vicdan azabı ve pişmanlık eş anlamlı değildir.
 5273812	fra	Le chat sera en train de manger la souris.
 5273813	lfn	Me veni apena de reveni a casa.
 5273814	tur	Tekrar denedim ama boşuna.
@@ -46900,7 +46443,7 @@
 5274229	por	Acho que precisamos um do outro.
 5274230	por	Acho que precisamos uma da outra.
 5274231	por	O Tom ainda não está no ensino médio.
-5274232	lfn	Bon dia. Ce tu desira?
+5274232	lfn	Bon dia. Cual cosa tu desira?
 5274233	tur	İkiyüzlülük benim nefret ettiğim şeydir.
 5274234	rus	Тебя послушать - всё очень просто.
 5274235	rus	Вас послушать - всё очень просто.
@@ -49998,3 +49541,460 @@
 5277501	deu	Tom sagte, er wolle nicht befördert werden.
 5277502	ita	La casa è stata distrutta da un tornado.
 5277503	deu	Das ist heute eines der größten Rätsel der Wissenschaft.
+5277504	ita	La casa fu distrutta da un tornado.
+5277505	epo	Mi manĝas dum la tuta tago.
+5277506	ita	La casa di Tom è stata distrutta da un tornado.
+5277507	ita	La casa di Tom fu distrutta da un tornado.
+5277508	ita	La casa di Tom venne distrutta da un tornado.
+5277509	ita	La casa venne distrutta da un tornado.
+5277510	ita	La casa è stata fatta a pezzi dal tornado.
+5277511	ita	La casa fu fatta a pezzi dal tornado.
+5277512	ita	La casa venne fatta a pezzi dal tornado.
+5277513	ita	Il tornado ha toccato terra a due chilometri dalla mia scuola.
+5277514	ita	Il gatto di Tom è stato portato via da un tornado.
+5277515	ita	Il gatto di Tom fu portato via da un tornado.
+5277516	ita	Il gatto di Tom venne portato via da un tornado.
+5277517	tur	Birçok nemlendirici krem, anti-aging etkileri olduğunu iddia eder.
+5277518	ita	Con la sua macchina fotografica, Tom ha catturato un tornado in azione.
+5277519	ita	Con la sua macchina fotografica, Tom catturò un tornado in azione.
+5277520	ita	Il tornado ha lasciato una scia di distruzione al suo passaggio.
+5277521	fra	Je ne comprends pas la structure grammaticale du japonais.
+5277522	ita	Il tornado lasciò una scia di distruzione al suo passaggio.
+5277523	tur	Yin dişil ve yang erkektir.
+5277524	ita	Il tornado ha attraversato la città e si è diretto verso il mare.
+5277525	ita	Il tornado attraversò la città e si diresse verso il mare.
+5277526	ita	Anche se la mia casa era nel percorso del tornado, è rimasta illesa.
+5277527	ita	Anche se la mia casa era nel percorso del tornado, rimase illesa.
+5277528	ita	Dove pensi che sarebbe il posto più sicuro a casa tua durante un tornado?
+5277529	por	Todo mundo sabia que ele tinha sido um homem perigoso.
+5277530	ita	Dove pensa che sarebbe il posto più sicuro a casa sua durante un tornado?
+5277531	ita	Dove pensate che sarebbe il posto più sicuro a casa vostra durante un tornado?
+5277532	tur	Yang aydınlık iken, Yin karanlıktır.
+5277533	lfn	Lo ia deveni conoseda ce el ia es un om perilosa.
+5277534	epo	Ĉiuj sciis ke li estis danĝera viro.
+5277535	por	Alguém o comeu.
+5277536	lfn	Algun ia come lo.
+5277537	epo	Iu ĝin manĝis.
+5277538	por	Por ser um palhaço, ele sentou na cadeira quebrada.
+5277539	lfn	Esente un bufon, el ia senta sur la seja rompeda.
+5277540	epo	Estante klaŭno, li sidiĝis sur la rompita seĝo.
+5277541	fra	Pourrais-tu touiller la salade ?
+5277542	fra	La jeune fille le dévisagea.
+5277543	lfn	Me ama Frans.
+5277544	fra	Elle est un peu nunuche.
+5277545	epo	Mi amas Francion.
+5277546	fra	Il ne sait pas très bien comment s'y prendre.
+5277547	fra	Thomas ne sait pas encore très bien comment s'y prendre.
+5277548	epo	Mi amas Francujon.
+5277549	eng	How many different schools have you attended in all?
+5277550	eng	All in all, how many different schools have you attended?
+5277551	fra	Tout se passe bien entre Tom et toi ?
+5277552	fra	Tout se passe bien entre nous.
+5277553	lfn	Frans, me ama tu!
+5277554	fra	Je suis heureuse que tout se passe bien entre vous.
+5277555	epo	Francio, mi amas vin!
+5277556	epo	Francujo, mi amas vin!
+5277557	fra	Je ne sais pas encore comment je vais m'y prendre.
+5277558	fra	Thomas ne se consola pas de la mort de son épouse.
+5277559	eng	All of you behave similarly.
+5277560	deu	Wie viele verschiedene Schulen hast du insgesamt besucht?
+5277561	eng	You all display similar behavior.
+5277562	fra	Thomas s'est fourré dans un sacré merdier.
+5277563	fra	N'y va pas. C'est dangereux.
+5277564	tur	Yarın evi temizlememize yardım etmek zorundasın.
+5277565	tur	Fransızca fazla zor, onu öğrenmek istemiyorum.
+5277566	tur	Mary yalnız uyumaktan hoşlanmaz.
+5277567	tur	Tom yatağında en son ne zaman yalnız uyuduğunu hatırlayamıyor.
+5277568	deu	„Die Turnstunde wird nicht wie bisher viermal, sondern fünfmal wöchentlich stattfinden.“ – „O nein!“ – „Wie bitte?“ – „Ich meine natürlich: Gelobt sei, was hart macht!“
+5277569	por	Eu não quero me aposentar ainda.
+5277570	lfn	Me ancora no vole retira.
+5277571	lfn	Me ancora no vole jubila.
+5277572	por	Mas o nariz dela não é bonito.
+5277573	lfn	Ma la nas de el no es bela.
+5277574	eng	Windsocks are used to indicate the direction and strength of the wind.
+5277575	tur	Mary onu yapmadığında ısrar etti.
+5277576	eng	Tom and I don't feel that way.
+5277577	eng	I've got a wife and children.
+5277578	eng	Tom and I have worked so hard.
+5277579	eng	I've got no regrets about it.
+5277580	eng	Tom and I love being together.
+5277581	eng	I've got nothing else to eat.
+5277582	eng	Tom and Mary are now divorced.
+5277583	eng	I've got nothing else to say.
+5277584	eng	Tom and Mary are now together.
+5277585	eng	I've got to get my car fixed.
+5277586	eng	Tom and Mary both are artists.
+5277587	eng	Would you be able to do that?
+5277588	eng	Tom and Mary didn't deny that.
+5277589	eng	Do you want to learn to drive?
+5277590	eng	Tom and Mary were both killed.
+5277591	eng	Hopefully, no one will object.
+5277592	eng	Tom and Mary were the winners.
+5277593	eng	I advise you not to interfere.
+5277594	eng	Tom can swim better than Mary.
+5277595	eng	I agree with most people here.
+5277596	tur	"Okuldan sonra bir şey yapıyor musunuz?" "Hayır, gerçekten değil. Neden?" "Benimle bir şey yapmak ister misin?"
+5277597	tur	İnsan hayatı kutsaldır.
+5277598	tur	Yarın senin evine gideceğim.
+5277599	tur	"Onunla tanıştın mı?" "Hayır ama karısıyla tanıştım."
+5277600	tur	Tom denetimli serbestlik ve toplum hizmeti cezasına çarptırıldı.
+5277601	lfn	La mangas de venta es usada pеr indica la dirije e la fortia de la venta.
+5277602	por	Eu concordo com a maioria das pessoas aqui.
+5277603	por	Tom nada melhor do que Maria.
+5277604	por	Eu aconselho você a não interferir.
+5277605	tur	Büyükannem yine ilaçlarını almayı unutmuş.
+5277606	por	Eu ainda não quero me aposentar.
+5277607	tur	Oh hayır, haplarımı unuttum!
+5277608	tur	Hapların var mı?
+5277609	fra	Thomas est dans un coma éthylique.
+5277610	fra	La table est mise.
+5277611	fra	C'est prêt dans une minute.
+5277612	fra	Je vais faire un petit somme.
+5277613	por	Tom e Maria foram os campeões.
+5277615	por	Tom e Maria não negaram isso.
+5277616	por	Você teria capacidade de fazer aquilo?
+5277617	rus	Почему мы переезжаем в Бостон?
+5277618	por	Eu tenho que mandar meu carro para o conserto.
+5277619	rus	Почём груши?
+5277620	por	Tom e Maria estão juntos agora.
+5277621	por	Eu não tenho mais nada a dizer.
+5277622	por	Tom e Maria estão separados agora.
+5277623	por	Eu não tenho mais nada para comer.
+5277624	rus	Я тренер.
+5277625	rus	Это было так жутко.
+5277626	por	Eu não tenho qualquer arrependimento acerca disso.
+5277627	rus	Тома на следующей неделе не будет в городе.
+5277628	por	Eu e Tom trabalhamos com tanto esforço.
+5277629	rus	Я жил на ферме, когда был ребёнком.
+5277630	por	Eu tenho esposa e filhos.
+5277631	rus	Я отправился в поход.
+5277632	por	Tanto Tom quanto Maria são artistas.
+5277633	rus	Я многое видел.
+5277634	eng	"Thus was he handled for one year and ten months; after which time, by the advice of physicians, they began to carry him, and then was made for him a fine little cart, drawn with oxen, of the invention of Jehan Denyau."
+5277635	eng	I'm getting undressed.
+5277636	rus	Ты хотела бы спеть?
+5277637	rus	Ты хотел бы спеть?
+5277638	rus	Ты бы хотел спеть?
+5277639	rus	Ты бы хотела спеть?
+5277640	rus	Вы бы хотели спеть?
+5277641	rus	Вы хотели бы спеть?
+5277642	rus	Покажи Тому свой синяк.
+5277643	spa	Dudo que él vaya a ganar ambas carreras.
+5277644	spa	Vivimos en Belfast.
+5277645	spa	Rompí el periódico por la mitad.
+5277646	eng	It disgusts me, too.
+5277647	rus	Мы живём в Белфасте.
+5277648	spa	Tom trabaja los domingos.
+5277649	spa	Como desees.
+5277650	rus	Я не хочу, чтобы ты говорил Тому.
+5277651	rus	Я не хочу, чтобы ты говорила Тому.
+5277652	eng	I lost my key around here.
+5277654	eng	No man is a prophet in his house or in his country, if history is to be believed.
+5277655	eng	Hand me that hammer.
+5277656	eng	I have conflicting feelings about my childhood.
+5277657	eng	Pass me that hammer.
+5277659	epo	Ventmanikojn oni uzas por indiki la direkton kaj forton de la vento.
+5277660	eng	I have no idea what I'm going to do now.
+5277661	eng	It's time for me to leave.
+5277662	spa	El bosque bulle de pájaros.
+5277663	spa	Bonito día, ¿cierto?
+5277665	rus	Нам очень жаль.
+5277666	eng	I want a drink.
+5277668	eng	Aren't you asleep yet?
+5277669	spa	'¿Dónde está Laurie?' 'En la cocina".
+5277670	rus	Мы позже к вам присоединимся.
+5277671	rus	Том вернулся на кухню.
+5277672	eng	I met her in France.
+5277673	eng	Tom made a phone call.
+5277674	eng	Dad bought me books.
+5277675	eng	It isn't easy to teach little kids.
+5277676	eng	They hugged Mary.
+5277677	rus	Том не заметил ничего подозрительного.
+5277678	eng	He plays well.
+5277679	eng	I have made it my life's mission to eradicate procrastination.
+5277680	eng	I have made it my life's mission to eradicate malaria.
+5277681	eng	Have you tried this cake? It's to die for.
+5277683	epo	Tial Tomo ankoraŭ restas tie.
+5277684	rus	Мы не слушали музыку.
+5277685	eng	We won't go back there again.
+5277686	rus	Ты идёшь сегодня в школу?
+5277687	rus	Ты сегодня идёшь в школу?
+5277688	por	A porta se abriu.
+5277689	rus	Вы сегодня идёте в школу?
+5277690	deu	Hast du schon von diesem Kuchen probiert? Ein Traum!
+5277691	rus	Вы идёте сегодня в школу?
+5277692	lfn	La porte ia abri se.
+5277693	spa	Este es mi estilo.
+5277694	eng	You should practice the violin every day.
+5277696	rus	Том слишком глуп, чтобы понять твои шутки.
+5277697	eng	Can't you quit it?
+5277698	rus	Это мой стиль.
+5277699	eng	I don't know if I have enough time or not.
+5277700	deu	Er redet so, als wäre er ein Experte.
+5277701	rus	Пробовал этот торт? Пальчики оближешь!
+5277702	eng	I love the song of the mockingbird, the bird of four hundred voices. I love the color of jade, and the enervating perfume of flowers, but most of all, I love my brother, Man.
+5277703	deu	Er wäscht jede Woche sein Auto.
+5277704	eng	The leading brand of soda in most countries around the world is Coca-Cola.
+5277705	por	Eu fiz que ela fosse feliz.
+5277706	epo	Ĉu ne venos plia fojo?
+5277707	lfn	Me ia fa ce el es felis.
+5277708	rus	Том прячется за дверью.
+5277709	deu	Ihr habt die ganze Geschichte Maria erzählt.
+5277710	deu	Sie haben die ganze Geschichte Maria erzählt.
+5277711	epo	Vi rakontis la tutan historion al Manjo.
+5277712	eng	You can crash on the sofa if you're tired.
+5277713	epo	Mi faris ke ŝi estu feliĉa.
+5277714	por	Ela disse que eu sou estulto.
+5277715	deu	Das Flugzeug ist um zehn Uhr morgens in Narita abgeflogen.
+5277716	lfn	El ia dise ce me es stupida.
+5277717	deu	Ich hatte gehofft, dass ihr bis zu meiner Rückkehr fertig würdet.
+5277718	deu	Ich bin mir nicht sicher, ob das so klug ist.
+5277719	rus	Том очень сердит на своих детей.
+5277720	epo	Ŝi diris, ke mi estas stulta.
+5277721	rus	Я хочу какую-нибудь книгу, чтобы почитать в поезде.
+5277722	eng	In the big orchard, they grow citrus fruits that are juicy and rich in vitamins.
+5277723	por	Os exploradores deram ao rio o nome de Amazonas.
+5277724	lfn	La esplorores ia nomi la rio la Amazon.
+5277725	eng	I'm not exaggerating when I call him a prodigy.
+5277726	eng	It's no exaggeration to say that he's a prodigy.
+5277727	rus	Том заплатил наличными.
+5277728	rus	У тебя всё ещё есть ключ от дома?
+5277729	epo	La esploristoj donis al la rivero la nomon Amazono.
+5277730	rus	Я оставил свой телефон в машине.
+5277731	rus	Я оставила свой телефон в машине.
+5277732	rus	Мэри отправилась в салон красоты.
+5277733	por	Está quente demais nesta sala.
+5277734	lfn	Lo es tro calda en esta sala.
+5277735	rus	Том, нам надо поговорить.
+5277736	rus	Том, мы должны поговорить.
+5277737	rus	Это будет долгая зима.
+5277738	epo	Estas tro varme en tiu ĉi salono.
+5277740	lfn	Lo neva.
+5277743	lfn	Lo va pluve.
+5277744	por	Eu perdi um brinco.
+5277746	por	Tom tem um irmão em Boston.
+5277747	por	Tom estava gritando.
+5277748	por	Eu acordei há trinta minutos.
+5277749	por	Eu acordei trinta minutos atrás.
+5277750	por	Não sinto nada.
+5277751	por	Nós fomos a Boston no ano passado.
+5277752	por	A gente foi para Boston no ano passado.
+5277753	por	Você tem outro?
+5277754	por	Você tem outra?
+5277756	rus	Том не уважает женщин.
+5277757	por	Parece que você está certo.
+5277758	lfn	Lo pare ce tu es coreta.
+5277759	epo	Ŝajnas ke vi pravas.
+5277760	por	É importante que não esqueças isto.
+5277761	lfn	Lo es importante ce tu no oblida esta.
+5277762	epo	Gravas ke vi ne forgesu tion.
+5277763	non	Faðir vár es ert í himinríki, verði nafn þitt heilagt. Til komi ríki þitt, verði vili þín svá á jǫrðu sem í himnum. Gef oss í dag brauð várt dagligt. Ok fyrirgefðu oss syndir várar, sem vér fyrirgefum þeim er við oss hafa misgert. Leiddu oss eigi í freistni, heldr leystu oss frá ǫllu illu.
+5277764	por	Foi a bola azul que eu perdi.
+5277765	lfn	Lo es la bal blu cual me ia perde.
+5277766	rus	Я не могу вспомнить, где спрятал деньги.
+5277767	got	𐌰𐍄𐍄𐌰 𐌿𐌽𐍃𐌰𐍂 𐌸𐌿 𐌹𐌽 𐌷𐌹𐌼𐌹𐌽𐌰𐌼, 𐍅𐌴𐌹𐌷𐌽𐌰𐌹 𐌽𐌰𐌼𐍉 𐌸𐌴𐌹𐌽, 𐌵𐌹𐌼𐌰𐌹 𐌸𐌹𐌿𐌳𐌹𐌽𐌰𐍃𐍃𐌿𐍃 𐌸𐌴𐌹𐌽𐍃, 𐍅𐌰𐌹𐍂𐌸𐌰𐌹 𐍅𐌹𐌻𐌾𐌰 𐌸𐌴𐌹𐌽𐍃, 𐍃𐍅𐌴 𐌹𐌽 𐌷𐌹𐌼𐌹𐌽𐌰 𐌾𐌰𐌷 𐌰𐌽𐌰 𐌰𐌹𐍂𐌸𐌰𐌹. 𐌷𐌻𐌰𐌹𐍆 𐌿𐌽𐍃𐌰𐍂𐌰𐌽𐌰 𐌸𐌰𐌽𐌰 𐍃𐌹𐌽𐍄𐌴𐌹𐌽𐌰𐌽 𐌲𐌹𐍆 𐌿𐌽𐍃 𐌷𐌹𐌼𐌼𐌰 𐌳𐌰𐌲𐌰, 𐌾𐌰𐌷 𐌰𐍆𐌻𐌴𐍄 𐌿𐌽𐍃 𐌸𐌰𐍄𐌴𐌹 𐍃𐌺𐌿𐌻𐌰𐌽𐍃 𐍃𐌹𐌾𐌰𐌹𐌼𐌰, 𐍃𐍅𐌰𐍃𐍅𐌴 𐌾𐌰𐌷 𐍅𐌴𐌹𐍃 𐌰𐍆𐌻𐌴𐍄𐌰𐌼 𐌸𐌰𐌹𐌼 𐍃𐌺𐌿𐌻𐌰𐌼 𐌿𐌽𐍃𐌰𐍂𐌰𐌹𐌼, 𐌾𐌰𐌷 𐌽𐌹 𐌱𐍂𐌹𐌲𐌲𐌰𐌹𐍃 𐌿𐌽𐍃 𐌹𐌽 𐍆𐍂𐌰𐌹𐍃𐍄𐌿𐌱𐌽𐌾𐌰𐌹, 𐌰𐌺 𐌻𐌰𐌿𐍃𐌴𐌹 𐌿𐌽𐍃 𐌰𐍆 𐌸𐌰𐌼𐌼𐌰 𐌿𐌱𐌹𐌻𐌹𐌽. 𐌿𐌽𐍄𐌴 𐌸𐌴𐌹𐌽𐌰 𐌹𐍃𐍄 𐌸𐌹𐌿𐌳𐌰𐌽𐌲𐌰𐍂𐌳𐌹 𐌾𐌰𐌷 𐌼𐌰𐌷𐍄𐍃 𐌾𐌰𐌷 𐍅𐌿𐌻𐌸𐌿𐍃 𐌹𐌽 𐌰𐌹𐍅𐌹𐌽𐍃. 𐌰𐌼𐌴𐌽.
+5277768	por	Há uma cobra na rua.
+5277769	lfn	On ave un serpente en la rua.
+5277770	epo	Estas serpento en la strato.
+5277771	por	Não há peixes neste lago.
+5277772	lfn	On no ave pexes en esta lago.
+5277773	epo	Ne estas fiŝoj en ĉi tiu lago.
+5277774	por	Há muita gente aqui hoje.
+5277775	lfn	On ave multe persones asi oji.
+5277776	epo	Estas multaj homoj ĉi tie hodiaŭ.
+5277777	ben	ও দৌড়ালো।
+5277778	ben	আমি আপনাকে চাই না।
+5277779	ben	তুই কি আমার দেশে আসতে পারবি?
+5277780	ben	আপনি কি আমার দেশে আসতে পারেন?
+5277781	ben	এখন একটা সময়।
+5277782	ben	এখন সাতটা সময়।
+5277783	ben	এখন পাঁচটা সময়।
+5277784	ben	এখন দুইটা সময়।
+5277785	ben	দুইটা সময়ে আসো।
+5277786	ben	দুইটা সময়ে আসেন।
+5277787	ben	দুইটা সময়ে আসিস।
+5277788	ben	এখন দশটা সময়।
+5277789	ben	এখন তিনটা সময়।
+5277790	deu	Die Unfallursache ist noch ungeklärt.
+5277791	deu	Es steht nichts Interessantes in der Zeitung.
+5277792	deu	Ich möchte mich mal glücklich verlieben.
+5277793	deu	Oh, du bist noch wach? Du hättest dich doch ruhig schon hinlegen können.
+5277794	deu	Wenn du es wirklich nicht aushältst, wäre, finde ich, auch ein Berufswechsel eine Möglichkeit.
+5277795	eng	Facebook has a lot of data about you.
+5277796	eng	Google makes money by selling advertising.
+5277797	mar	तुला रॅप आवडतं का?
+5277798	eng	Many websites are supported by revenue from advertising.
+5277799	mar	तुम्हाला रॅप आवडतं का?
+5277800	eng	How does Facebook make money?
+5277801	eng	How does Google make money?
+5277802	deu	Da du von Kuchen geredet hast, Tom, habe ich eben Appetit darauf bekommen.
+5277803	deu	Wenn ich Ihnen denn genüge, helfe ich Ihnen gerne.
+5277804	eng	Facebook makes money by selling targeted advertising.
+5277805	deu	Mich so mit dir zu unterhalten, Tom, das ist für mich vielleicht das Allerschönste.
+5277806	eng	Advertisers can target ads on Facebook based on users' profiles.
+5277807	deu	Wären Sie so freundlich, Ihre Schuhe auszuziehen?
+5277808	rus	Переутомление стоило ей здоровья.
+5277809	eng	Tom can tell you all about it.
+5277810	eng	I agree with you 100 percent.
+5277811	eng	Tom can't really do much else.
+5277812	eng	I always have something to do.
+5277813	eng	Tom can't really help us much.
+5277814	eng	I ate breakfast on my balcony.
+5277815	eng	Tom can't win and he knows it.
+5277816	eng	I can't see what the hurry is.
+5277817	eng	Tom cares more than you think.
+5277818	eng	I can't tell you about it now.
+5277819	eng	Tom chose not to have surgery.
+5277820	eng	I closed my eyes and screamed.
+5277821	eng	Tom did a very good job today.
+5277822	eng	I couldn't get more than that.
+5277823	eng	Tom didn't ask for an apology.
+5277824	eng	I couldn't have done it alone.
+5277825	eng	Tom didn't even shake my hand.
+5277826	eng	I couldn't hear what you said.
+5277827	eng	Tom didn't even try to get up.
+5277828	eng	I did my best to prevent this.
+5277829	deu	Ich habe mein Möglichstes getan, um das zu verhindern.
+5277830	deu	Tom hat mir nicht mal die Hand gegeben.
+5277831	deu	Allein hätte ich das nicht geschafft.
+5277833	deu	Tom entschied sich gegen eine Operation.
+5277834	deu	Ich kann dir jetzt nicht davon berichten.
+5277835	deu	Tom nimmt sich das mehr zu Herzen, als du denkst.
+5277836	deu	Tom nimmt sich das mehr zu Herzen, als ihr denkt.
+5277837	deu	Tom nimmt sich das mehr zu Herzen, als Sie denken.
+5277838	deu	Tom kann nicht gewinnen, und er weiß das.
+5277839	deu	Ich habe auf dem Balkon gefrühstückt.
+5277840	deu	Tom kann uns nicht allzu sehr helfen.
+5277841	deu	Ich habe immer etwas zu tun.
+5277842	deu	Ich erkenne den Grund dieser Eile nicht.
+5277843	deu	Tom kann hier wirklich nicht allzu viel ausrichten.
+5277844	deu	Ich stimme dir hundertprozentig zu.
+5277845	deu	Ich stimme dir 100%ig zu.
+5277846	spa	No todos necesitan una gran fortuna para hacer feliz a una mujer.
+5277847	rus	Сколько ты сейчас весишь?
+5277848	rus	Ты знаешь, где моя книга рецептов?
+5277849	rus	Я согласен с тобой на сто процентов.
+5277850	rus	Я согласна с тобой на сто процентов.
+5277851	rus	Том дал мне эту книгу.
+5277852	rus	Ты не передумаешь?
+5277853	rus	Просто спроси Тома.
+5277854	rus	Том надел свитер.
+5277855	rus	Ты знаешь, чего я хочу?
+5277856	rus	Том не знает, к кому ему обратиться за советом.
+5277857	rus	Том не знает, у кого спросить совета.
+5277858	rus	Мы действительно этого хотим?
+5277859	rus	Убедитесь, что дверь заперта.
+5277860	rus	Убедись, что дверь заперта.
+5277861	rus	У нас другая проблема.
+5277862	rus	Вы знаете, чего хочет Том.
+5277864	rus	Ты знаешь, чего хочет Том.
+5277865	deu	Sind sie deshalb gestorben?
+5277866	deu	Wir sind alle Soldaten geworden.
+5277867	deu	Tom scheint zu gewinnen.
+5277868	deu	Sie ist schöner als jede andere.
+5277869	spa	No quiero tu amor a la fuerza.
+5277870	deu	Französisches Brot schmeckt gut.
+5277871	spa	No me parece nada normal separar a los hijos de sus madres.
+5277872	deu	Papa Schlumpf schlumpfte alle Schlümpfe des Dorfes zusammen, um seinen Rückschlumpf zu verschlumpfen.
+5277875	deu	Mein Vater gibt mir nie Geld, er ist ein Geizhals.
+5277876	hun	Törpapa összetörpölte a falu törpjeit, hogy közzétörpölje saját visszatörpölését.
+5277877	deu	Maria steht auf durchgeknallte Typen.
+5277878	deu	Tom ist ein großartiger Tänzer.
+5277879	eng	I can't believe I finally did it.
+5277880	eng	I can't believe I finally managed to do it.
+5277881	eng	I would like to thank many people for helping me win this award, but I won't.
+5277882	rus	Я не могу поверить, что я всё-таки сделал это.
+5277883	rus	Я не могу поверить в то, что я наконец-то сделал это.
+5277884	rus	Я не могу поверить в то, что я наконец-то сделала это.
+5277885	rus	Я сделал все возможное, чтобы предотвратить это.
+5277886	deu	Vitoria-Gasteiz wird scherzhaft oft Siberia-Gasteiz genannt.
+5277887	rus	Том даже не пожал мне руку.
+5277888	deu	Ich habe Toms Nummer nicht.
+5277889	rus	Я закрыл глаза и закричал.
+5277890	deu	Du solltest nicht schlafen.
+5277891	deu	Er hat sich heute früh erschossen.
+5277892	rus	В этом лесу водится много диких зверей.
+5277893	epo	Mi fermis la okulojn kaj ekkriis.
+5277894	deu	Das Kind weint nicht mehr.
+5277895	deu	Können wir das später erledigen?
+5277896	rus	Ты уйдешь или останешься?
+5277897	deu	Ich denke, Tom hat keinen Ehrgeiz.
+5277898	deu	Traue nie einem lahmen Hund oder den Tränen einer Frau.
+5277901	rus	Эта девочка любит эту музыку.
+5277902	rus	Эта кошка не любит этого пса.
+5277903	rus	Эта кошка довольна.
+5277904	rus	Том - хороший ребенок.
+5277905	epo	La knabo ŝatas urbe promeni.
+5277906	deu	Sie haben keine gleichberechtigte Beziehung.
+5277907	deu	Du hast kein Recht, so mit Tom zu sprechen.
+5277909	deu	Nun liegt es an mir.
+5277910	epo	La knabino ŝatas la muzikon.
+5277911	deu	Sie hassen sie.
+5277912	epo	La katino ne ŝatas la virhundon.
+5277913	deu	Ich bin mir ziemlich sicher, dass Tom schon vergessen hat, was ich ihm gestern erzählte.
+5277914	deu	Warum sollte das nötig sein?
+5277915	epo	Tomo devojiĝis.
+5277916	rus	Родной брат увёл у меня девушку.
+5277917	deu	Eine Wespe hat mich in den Arm gestochen.
+5277918	deu	Ich habe einen Monat gebraucht, um mich von der Erkältung zu erholen.
+5277919	deu	Er kann Gedanken lesen.
+5277920	eng	Tom does a lot of things well.
+5277921	eng	I did what they told me to do.
+5277922	eng	Tom does do some goofy things.
+5277923	eng	I didn't have anything to eat.
+5277924	eng	Tom doesn't act like a leader.
+5277925	eng	I didn't have anything to say.
+5277926	eng	Tom doesn't know when to quit.
+5277927	eng	I didn't have to say anything.
+5277928	eng	Tom doesn't look like a rebel.
+5277929	eng	I didn't mind doing it at all.
+5277930	eng	Tom doesn't often eat at home.
+5277931	eng	I didn't play very well today.
+5277932	eng	Tom doesn't seem to know Mary.
+5277933	eng	I didn't read the whole thing.
+5277934	eng	Tom ended up going to Harvard.
+5277935	eng	I didn't really have a choice.
+5277936	eng	Tom ended up winning the race.
+5277937	eng	I didn't say it would be easy.
+5277938	eng	Tom fired his gun three times.
+5277939	eng	I didn't want to believe that.
+5277940	deu	Mein Erfolg ist der Tatsache geschuldet, dass ich an meinem Arbeitsplatz nie eine Uhr hatte.
+5277942	deu	Schieß so fest, wie du kannst.
+5277943	deu	Maria freute sich, als sie die Wahlergebnisse erfuhr.
+5277944	deu	Sie identifizierte ihn als denjenigen, der den Mord begangen hatte.
+5277945	deu	März kommt zwischen Februar und April.
+5277946	deu	Im Winter zieht man sich warm an.
+5277947	deu	Ich bin länger geblieben, als ich vorher gedacht hatte.
+5277948	deu	Er hat uns gebeten, still zu sein.
+5277949	rus	Это для него очень важное дело.
+5277950	deu	Vergeben Sie stets Ihren Feinden; nichts ärgert sie mehr.
+5277951	deu	Sie waren schlecht.
+5277952	deu	Ich würde gerne morgen früh um sechs Uhr auschecken.
+5277953	deu	Nach langer Zeit bin ich mal wieder spät schlafen gegangen.
+5277954	deu	Unser Schicksal hängt von unseren Entscheidungen ab.
+5277955	deu	Er hat keine Zeit, Sport zu treiben.
+5277958	deu	Russland unterzeichnete seinen eigenen Friedensvertrag mit Deutschland.
+5277959	deu	Er hat immer Glück bei Damen.
+5277960	deu	Die Brücke brach unter dem Druck zusammen.
+5277961	deu	Tom und Maria halten Händchen.
+5277962	deu	Ich wünschte, ich könnte mich daran erinnern.
+5277963	deu	Tom ist nun mal kein sonderlich guter Tänzer.
+5277964	deu	Tom hat es so einfach aussehen lassen.
+5277965	deu	Klar kannst du.
+5277966	deu	Während Tiberius' Regentschaft wurde Rom von einem starken Erdbeben erschüttert.
+5277967	hun	Lakásban lakik.
+5277968	hun	A Nyugat azokat az országokat is nyugatosítani akarja, melyek nem akarnak nyugatizálódni.
+5277969	hun	Laosz a gyarmati időszakban visszautasította a franciák vasútépítési szándékát, ugyanis úgy vélték, hogy nagyon felgyorsult volna az élet.
+5277970	hun	Van egy lakása.
+5277971	hun	A civilizált ember az óceánokat szemeteskukaként használja.
+5277972	hun	A civilizált ember önpusztító életet folytat, míg lenézi a civilizálatlan kultúrákat, melyek talán kulturáltabbak náluk.
+5277974	hun	Én becsuktam mind a hat ablakot.
+5277975	rus	Надеюсь, тебе нравятся поезда.
+5277976	hun	Üdvözlök mindenkit!
+5277977	hun	Üdvözlet mindenkinek!
+5277979	hun	Nevet mindenki.
+5277980	hun	Nevetnek mindnyájan.
+5277981	hun	Érti mindenki?
+5277982	hun	A civilizált ember túl sokat képzel magáról.
+5277984	deu	Die Mutter stellte die Zuckerdose auf den Tisch.
+5277985	epo	Lia romano estos furorverko.
