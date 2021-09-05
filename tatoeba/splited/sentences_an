@@ -1,44 +1,3 @@
-680484	eng	Who caused the accident?
-680485	eng	Do they celebrate Mother's Day in your native country?
-680486	eng	Mary celebrates New Year's Day with her family.
-680487	eng	What are they doing to celebrate her birthday?
-680488	eng	Who is the chairperson of the meeting?
-680489	eng	The chairperson has asked for questions.
-680490	eng	Everyone is listening to the chairperson.
-680491	eng	He was an Olympic champion in weightlifting.
-680492	eng	She's a soccer champion.
-680493	eng	They're academic champions.
-680494	eng	They want to change the law.
-680495	eng	We changed the color of our house from tan to blue.
-680496	eng	Nature is changing.
-680497	eng	The police chased the stolen car.
-680498	eng	The man chased the robber into the street.
-680499	eng	The man is chasing the woman.
-680500	eng	Their team cheated during the baseball game.
-680501	eng	They cheated the workers out of money.
-680502	eng	Why is he cheating on the test?
-680503	eng	They cheered for their teammate.
-680504	eng	In 1899, the first cheerleaders were male students.
-680505	eng	They cheered for their sports teams.
-680506	eng	Who are they cheering for?
-680507	eng	I can't choose where to go on vacation.
-680508	eng	Choose a food from each part of the menu.
-680509	eng	Which cup will he choose?
-680510	eng	He's a citizen of China.
-680511	eng	Tom wants to become a citizen.
-680512	eng	Tom is a citizen of the United States.
-680513	eng	The fight for civil rights in the United States started in 1954, when the government said school had to be open to everyone.
-680514	eng	Martin Luther King Jr. fought for civil rights for African-Americans by teaching nonviolence.
-680515	eng	This product claims to help you lose weight.
-680516	eng	Tom claimed that he came from a rich family.
-680517	eng	The man claimed he didn't take the money.
-680518	eng	They're cleaning the beach.
-680519	eng	Tom just cleaned his room.
-680520	eng	We need to clean the car.
-680521	eng	Is my explanation clear?
-680522	eng	Most cars have clear glass.
-680523	eng	The fish is in clear water.
-680524	eng	Seattle has a very wet climate.
 680525	eng	What's your favorite climate?
 680526	eng	The Earth's climate is fragile.
 680527	eng	Did you climb trees when you were a child?
@@ -143,7 +102,6 @@
 680626	eng	Mary has danced since she was five.
 680627	eng	They like to dance.
 680628	eng	There's a lot of danger during a big storm.
-680629	eng	What city has the most danger?
 680630	eng	Some people like danger.
 680631	eng	This room is too dark.
 680632	eng	Tom doesn't like dark colors in his home.
@@ -2099,7 +2057,7 @@
 682584	deu	Die Ärzte betrachten ein Röntgenfoto.
 682585	epo	Ni neniel povas trovi la solvon.
 682586	pes	با خودتان خیلی سختگیر نباشید.
-682587	hun	Sehogy sem tudjuk megtalálni a megoldást
+682587	hun	Sehogy sem tudjuk megtalálni a megoldást.
 682588	deu	Zahnärzte benutzen Röntgenaufnahmen zur Zahnuntersuchung.
 682589	epo	Mi devas rifuzi vian proponon.
 682590	pes	سگ او یار خوب او است.
@@ -2117,9 +2075,9 @@
 682602	deu	Ich habe die falsche Adresse auf den Umschlag geschrieben.
 682603	deu	Ich schrieb die falsche Adresse auf den Umschlag.
 682604	hun	Tudja Ön, kik ezek?
-682605	hun	- Hol lakik Ön? - Én Tokióban lakom.
+682605	hun	- Hol lakik ön? - Én Tokióban lakom.
 682606	deu	Hundert Menschen wurden bei einem Zugunglück verletzt.
-682607	hun	- Mit szeretne Ön? - Én egy kutyát szeretnék.
+682607	hun	- Mit szeretne ön? - Én egy kutyát szeretnék.
 682608	pes	من آن نمایشنامه را نمی شناسم، ولی نویسنده اش را عمیقاً می شناسم.
 682609	eng	We've only picked off ripe fruit.
 682610	deu	Das Fahren auf einer glatten Straße kann zu einem Autounfall führen.
@@ -4821,7 +4779,6 @@
 685421	heb	הוא הסתכל עליו במראה.
 685422	heb	הוא התבונן בו במראה.
 685423	eng	He looked at him in the mirror.
-685424	eng	This is not about my capabilities. Even if I never had heard the slightest sound of english, I still could kneel down and put my face on the ground to show my submission. But who can force me into that?
 685425	epo	Mi volas vivi eterne.
 685426	rus	Если бы я мог заново выстроить порядок букв в английском алфавите, я бы поставил I и U вместе.
 685427	dan	Bla.
@@ -4907,7 +4864,7 @@
 685530	epo	Kio okazis al vi?
 685531	epo	Kion ni faras?
 685534	epo	Kion vi diris hieraŭ?
-685535	cmn	有好多朋友熟人来了。
+685535	cmn	好多朋友和熟人来了。
 685537	fra	Italo Calvino est né en 1923 sur l'île de Cuba.
 685538	uig	كەلگەن ئەل_ئاغىنە كەپ ئىكەن.
 685543	uig	ئۇ تېزلا ساقىيىپ كېتەمدۇ؟
@@ -6484,7 +6441,7 @@
 687225	epo	Mi studis tiun aferon, tamen mi ne povas helpi.
 687226	heb	שוב חזרת על אותה טעות.
 687227	heb	שוב עשית אותה טעות בדיוק.
-687228	hun	A lány volt olyan kedves, hogy megmutassa merre a múzeum.
+687228	hun	A lány volt olyan kedves, hogy megmutassa, merre van a múzeum.
 687229	deu	Wenn wir so weiter machen, fahren wir gegen die Wand.
 687230	epo	Se ni kontinuas tiamaniere, ni kolizios kun la muro.
 687231	epo	Mi vespermanĝas je la sepa kaj dek kvin.
@@ -7580,7 +7537,7 @@
 688405	eng	I can't remember her phone number no matter how much I try.
 688406	dan	Mor bemærkede at mine fødder ikke var rene.
 688407	eng	I can't remember her name.
-688408	epo	Patrino rimarkis, ke miaj piedoj ne estis puraj.
+688408	epo	Patrino rimarkis, ke miaj piedoj ne estas puraj.
 688410	hun	A későn jövőnek csak a csont jut.
 688411	fra	J'ai un ami dont le père est un pianiste connu.
 688412	deu	Er ist arm und konnte sich keinen Mantel kaufen.
@@ -9170,7 +9127,7 @@
 690072	spa	Durante la Edad Media, el honor era fundamental en la vida de un hombre libre y de un cristiano.
 690073	epo	Ŝia haŭto facile ekhavas sunbrulumon.
 690074	epo	Nia gastiganto proponis al ni trinkaĵon.
-690075	hun	Tovább vita a kérdésről nem vezet sehova.
+690075	hun	További vita a kérdésről nem vezet sehova.
 690076	epo	Diri, ke vi ne povas fari la taskon, ĉar vi estas tro okupata, estas nur elturniĝa preteksto.
 690077	hun	Az útlevél egy olyan dolog, ami nélkül külföldre soha nem utazhatsz.
 690078	cmn	我的信用卡在地铁上被扒了。
@@ -9275,7 +9232,6 @@
 690183	heb	שעוני זקוק לתיקון.
 690184	epo	Mia brakhorloĝo bezonas riparon.
 690185	epo	Vikipedio estas la plej bona enciklopedio en la reto.
-690186	epo	Vikipedio estas la plej bona enciklopedio en Interreto.
 690187	hun	Első óra mennyiségtan.
 690188	por	A primeira aula é de matemática.
 690189	heb	ויקיפדיה היא האנציקלופדיה הטובה באינטרנט.
@@ -11283,7 +11239,6 @@
 692340	rus	В эпоху Тан город Нинбо назывался "Минчжоу".
 692341	heb	הרכבת שלנו עברה דרך מנהרה ארוכה.
 692342	wuu	唉爿店地里向个新货侪扫光了。
-692343	epo	Lia pulovero estas griza.
 692344	por	O diabo se escondeu na sala de aula.
 692345	epo	Normale ni manĝas tri fojojn tage.
 692346	dan	Min fiasko svækkede ikke min selvtillid.
@@ -12671,7 +12626,7 @@
 693835	deu	Wir müssen uns vereinigen, um den Feind zu schlagen.
 693836	deu	Bitte schreibe die Antwort auf dieses Stück Papier.
 693837	spa	Por favor, escribe la respuesta en esta hoja de papel.
-693838	dan	Sproget Esperanto med en 130-årig historie og en righoldig litteratur kan tilegnes på en tiendedel af den tid som man skal bruge for at lære et af de udbredte store nationalsprog.
+693838	dan	Sproget esperanto med en 130-årig historie og en righoldig litteratur kan tilegnes på en tiendedel af den tid som man skal bruge for at lære et af de udbredte store nationalsprog.
 693839	deu	Zeige so viele Finger, dass sie die richtige Zahl anzeigen.
 693840	spa	¿Hasta qué punto podemos confiar en él?
 693841	deu	Alle Fragen dienen nur deinem kranken Kind.
@@ -15153,10 +15108,10 @@
 696467	ces	Někdy jdu, někdy ne.
 696468	pol	Mam taki sam słownik jak twój brat.
 696469	ces	Kočka se nahrbila.
-696471	ces	Prosím, řekněte jasně ano, nebo ne
+696471	ces	Prosím, řekněte jasně ano, nebo ne.
 696472	pol	Odkryliśmy tajemne przejście do tego budynku.
 696473	pol	Zgadza się pan z naszym poglądem?
-696474	ces	Počet obětí uragánu převýšil 200
+696474	ces	Počet obětí uragánu převýšil 200.
 696475	pol	W głębi serca to dobry człowiek.
 696476	pol	W gruncie rzeczy to dusza człowiek.
 696477	ces	Já nerozernám skokana od ropuchy.
@@ -15635,10 +15590,10 @@
 696977	dan	Politiet forventer at folk overholder loven.
 696978	heb	מה המרחק מכאן לכפר הקרוב?
 696979	epo	Kiom for de ĉi tie estas la proksima vilaĝo?
-696980	epo	Ĉu vi havis senton de "mortiga angoro" aŭ ne estis tiel terura?
+696980	epo	Ĉu vi havis senton de mortiga angoro aŭ ne estis tiel terura?
 696981	heb	אגיע במקרה הצורך.
 696982	spa	¿Por qué te pusiste de su lado y no del mío?
-696983	hun	Érzett-e "halálfélelmet", vagy nem volt olyan borzalmas a dolog?
+696983	hun	Érzett-e halálfélelmet, vagy nem volt olyan borzalmas a dolog?
 696984	epo	Se oni donus al vi milionon da enoj, kion vi farus per ĝi?
 696985	heb	אני נוסע להאנובר אתך.
 696986	dan	Jeg tager med dig til Hannover.
@@ -16836,7 +16791,7 @@
 698221	nld	Ik keek rondom mij.
 698222	nld	De assistent nam het geld.
 698223	nld	De medewerker nam het geld.
-698224	nld	He! Wacht alstublieft.
+698224	nld	Hé! Wacht alstublieft.
 698225	deu	Ich mag von allen Farben blau am liebsten.
 698226	nld	Is er iets veranderd?
 698227	nld	Welk boek is van u?
@@ -18854,7 +18809,7 @@
 700355	epo	Tio estas ŝia tasko.
 700356	spa	No debemos desperdiciar nuestros recursos energéticos.
 700357	eng	She is responsible for it.
-700358	fra	Je dois me lever demain, donc je vais me coucher aujourd'hui!
+700358	fra	Je dois me lever demain, donc je vais me coucher aujourd'hui !
 700360	ita	Devo alzarmi domani, quindi vado a dormire oggi!
 700361	spa	No está claro qué quiere decir el autor.
 700362	deu	Was für schöne Vögel in deinem Land sind!
@@ -20396,7 +20351,7 @@
 701981	hun	Jöjjünk össze itt hetenként egyszer.
 701982	nld	Ze hadden een eigen cultuur.
 701983	hun	Általában január a leghidegebb hónap.
-701984	hun	Egy órán belül felhívlak.
+701984	hun	Egy óra múlva felhívlak.
 701985	epo	Fromaĝo kaj butero estas laktoproduktoj.
 701986	nld	Uw zuster heeft een adellijke blik, net een prinses.
 701987	fra	Le fromage et le beurre sont des produits laitiers.
@@ -21545,7 +21500,7 @@
 703210	hun	A játékok mind fából vannak.
 703211	rus	Бумага всё стерпит.
 703212	hun	Van egy fából készült asztalom.
-703214	hun	Véleménye szerint a terv messze van az ideálistól
+703214	hun	Véleménye szerint a terv messze van az ideálistól.
 703215	ukr	Є дев'яьть планет що подорожують коло сонця, одна з них - Земля.
 703216	hun	Kérlek, add át neki legjobb üdvözleteimet.
 703217	hun	Mindkét kezével integetett, úgyhogy meg tudta őt találni.
@@ -23673,7 +23628,7 @@
 705452	deu	Würdest du mir das Salz geben?
 705453	deu	Die Zugabe von Salz verbessert den Geschmack sehr.
 705454	deu	Die übermäßige Anwendung von Salz sollte tabu sein.
-705455	deu	Könnten sie mir bitte das Salz geben?
+705455	deu	Könnten Sie mir bitte das Salz geben?
 705456	deu	Bitte geben Sie mir das Salz.
 705457	deu	Würden sie mir das Salz geben?
 705458	deu	Für einen Koch ist Salz notwendig.
@@ -23749,7 +23704,7 @@
 705532	hun	Ő egy szörnyen feledékeny fickó.
 705533	hun	Aki az ajtót kinyitva bejött, az egy teljesen ismeretlen ember volt.
 705534	rus	Что происходит, когда неудержимость наталкивается на непоколебимость?
-705535	deu	Unterbrich mich nicht während ich spreche.
+705535	deu	Unterbrich mich nicht, während ich spreche.
 705536	rus	Будущее было пять минут назад.
 705537	rus	Я не помню точно.
 705538	deu	Ich bin wegen dir gekommen.
@@ -24830,7 +24785,7 @@
 706668	nld	Bob heeft mij geholpen.
 706669	nld	Ze zal misschien komen.
 706670	nld	Vandaag was het plezant.
-706671	eng	Unit of resistance is ohm and its symbol is same with the capital letter Omega in Greek alphabet. It's "Ω".
+706671	eng	The unit of resistance is the ohm, and its symbol is the same as the capital letter Omega in the Greek alphabet, "Ω".
 706672	nld	Dit is de stoel van Kenji.
 706673	eng	The former Argentine currency was Austral. Its symbol was "₳".
 706674	nld	Ik ben de weg kwijt. Wilt ge mij alstublieft helpen?
@@ -24845,7 +24800,7 @@
 706683	eng	France's currency was the franc, and its symbol was ₣. While it is no longer used in France, francs are still in use in some former French colonies such as Guinea.
 706684	eng	The former Italian currency was the lira and its symbol was "₤". It's not related to the Turkish lira.
 706685	fra	On n'échappe pas à son destin.
-706686	nld	Uiteindelijk beslisten de twee Indiaanse stamhoofden de strijdbijl te begraven en de vredespijp te roken.
+706686	nld	Uiteindelijk beslisten de twee indiaanse stamhoofden de strijdbijl te begraven en de vredespijp te roken.
 706687	hun	A tó vize hideg.
 706688	nld	We zullen binnenkort sneeuw krijgen.
 706689	eng	In several European countries, the current currency is the Euro. Its symbol is €. One Euro is worth about two Turkish lira.
@@ -25492,7 +25447,7 @@
 707402	nld	Hallo! Is er iemand thuis?
 707403	eng	What are little boys made of? Snips and snails and puppy dog tails.
 707404	nld	Ik zou graag naar Hawaï gaan.
-707405	nld	He! Kijk wat ze meegebracht heeft!
+707405	nld	Hé! Kijk wat ze meegebracht heeft!
 707406	nld	Men behandelde hem goed, maar toch had hij schrik.
 707408	eng	He had just arrived.
 707409	eng	I ran into your girlfriend.
@@ -25758,7 +25713,7 @@
 707687	hun	A szomszédom kutyája kimúlt.
 707688	cmn	那座桥是罗马人修建的。
 707689	hun	Lakókocsimmal már sok eszperantó-kongresszusra ellátogattam.
-707690	hun	A földalatti kamrában csak öreg limlomot talált.
+707690	hun	A tető alatti kamrában csak öreg limlomot talált.
 707691	hun	Ennek a szektának a tagjai sohasem esznek véreshurkát.
 707692	epo	Tiu enbotela vivo estas ĉio, kion mi bezonas.
 707693	hun	Nézd kedvesem, ez így nem megy!
@@ -26044,7 +25999,7 @@
 707984	jbo	xu do tolcando
 707985	epo	Mi bezonis duonan horon por solvi tiun problemon.
 707986	epo	Preskaŭ ĉiuj hundoj vivas.
-707987	toki	mi wile tawa ma ni.
+707987	toki	mi wile tawa ni.
 707988	epo	Preskaŭ ĉiuj gepatroj okupas pri la edukado de siaj infanoj.
 707989	epo	Vi havas malbonan memoron!
 707990	epo	Preskaŭ ĉiuj japanoj havas malhelajn harojn.
@@ -26076,7 +26031,7 @@
 708019	toki	ona li suli li suli.
 708020	ara	شرحتها له.
 708021	ara	شرحت له الامر.
-708022	toki	jan lawa li toki wawa.
+708022	toki	jan pali pi nasin lawa li toki lawa sama soweli tomo.
 708023	jbo	ma nu prami
 708024	epo	Tio helpus al ni varbi por viaj produktoj en plej efika maniero.
 708026	heb	כמעט כל הפועלים התנגדו לעבוד בלילה.
@@ -28843,7 +28798,7 @@
 710919	hun	Kérem, várjon, mentőgépkocsival visszük haza.
 710920	eng	When the chips are down, the only one you can count on is yourself.
 710921	deu	Wann schreibst du?
-710922	fra	Quand écris-tu?
+710922	fra	Quand écris-tu ?
 710923	spa	¿Cuándo escribes?
 710924	eng	When we stepped off the bus we were immediately surrounded by a throng of children from the village.
 710925	hun	Uram, kérem, hogy töltse ki ezt a kérdőívet.
@@ -29997,7 +29952,7 @@
 712117	ita	Risponda in inglese.
 712118	ita	Rispondete in inglese.
 712119	ita	Rispondi in inglese.
-712120	nld	We discussieren hier op het scherp van de snede
+712120	nld	We discussiëren hier op het scherp van de snede.
 712121	epo	Ĉi-monde nenio povas esti nomata certa, escepte de la morto kaj impostoj.
 712122	epo	Mi ne plu estas la sama kia antaŭ dek jaroj.
 712124	eng	I like the taste of watermelon.
@@ -30104,7 +30059,7 @@
 712230	heb	הכניסה מותרת לסטודנטים בלבד.
 712231	heb	יכולתי לקרוא בין השורות.
 712232	heb	יכולתי לקרוא בין השיטין.
-712233	nld	Het engels heeft geen woord voor "gunnen"
+712233	nld	Het Engels heeft geen woord voor "gunnen".
 712234	nld	Barbertje moet hangen.
 712235	heb	הוא אף פעם לא שותה משקאות אלכוהוליים, למעט באירועים מיוחדים.
 712236	fra	Elle a eu la gentillesse de raccompagner la dame chez elle.
@@ -30125,7 +30080,7 @@
 712251	epo	La vojaĝanto alvenis al Novjorko vespere.
 712252	nld	Hij besloot zijn plan geheim te houden.
 712254	nld	Hij liet me zijn fotoalbum zien.
-712255	fra	Le monde est plein d’idiots.
+712255	fra	Le monde est plein d'idiots.
 712256	nld	Hij is in zijn kamer aan het spelen.
 712257	nld	Hij redde het kleine meisje ten koste van zijn leven.
 712259	nld	Hij was zeer lief voor hen.
@@ -32807,7 +32762,6 @@
 715064	por	Vamos sair antes do calor.
 715065	por	Eu ensino inglês para o segundo ano.
 715066	por	Quão frequentemente você esteve lá?
-715067	eng	"That shan't happen again," Fortunatus said to himself, and they started to ride at each other again. This time, Fortunatus's spear met his foe so powerfully that he flew from his horse like a ball and lay dead on the earth.
 715068	por	Os dias estão encurtando gradualmente.
 715069	por	Tem chovido desde segunda-feira.
 715070	por	Foi surpreendente ver quão rápido a criança cresceu.
@@ -32854,7 +32808,7 @@
 715112	epo	Pasintan nokton lia patro forpasis pro sia malsano.
 715113	epo	Kial li malamas Molly?
 715114	hun	Ezt a könyvet érdemes újra és újra elolvasni.
-715115	epo	La homo devus uzi teknologiojn por pacaj celoj.
+715115	epo	La homo devas uzi teknologiojn por pacaj celoj.
 715116	epo	Mi ordonis al mia filo, ke li akvumu la gazonon.
 715117	epo	Naĝado estas bona ekzercado.
 715118	hun	A békés dombokról és a vidéki tájról átköltöznek az utcák és tömegek élénk világába.
@@ -33487,7 +33441,7 @@
 715770	eng	Everyone was just flabbergasted that she was able to get pregnant at 48.
 715771	spa	Todo el mundo estaba alucinado de que ella pudo embarazarse a los 48.
 715773	nld	Ze is erg intelligent.
-715774	eng	A little, old woman foiled the robbery by whacking the thief on the head with her cane.
+715774	eng	A little old woman foiled the robbery by whacking the thief on the head with her cane.
 715775	eng	Any play opening to bad reviews won't last long.
 715776	eng	We took refuge in a cave and waited for the storm to pass.
 715778	eng	He marches to the beat of a different drummer.
@@ -34701,7 +34655,7 @@
 717060	fra	Toutes les langues se valent, mais l'anglais vaut plus que les autres.
 717061	fra	Tu as réalisé beaucoup de travail très rapidement.
 717062	fra	Tu n'es pas obligé de parler aussi fort.
-717063	fra	Comment es-tu arrivé en possession d'autant d'argent?
+717063	fra	Comment es-tu entré en possession d'autant d'argent ?
 717064	fra	Tu n'as pas à avoir aussi peur.
 717065	fra	Tu ne devrais pas les faire attendre aussi longtemps.
 717066	fra	Tu n'as pas à te lever aussi tôt.
@@ -35335,7 +35289,7 @@
 717719	ita	Alcune persone dicono che tredici è un numero sfortunato.
 717720	nld	Aangezien hij zulke kleine letters kan lezen, is hij niet bijziend.
 717721	eng	I asked her what kind of music she liked.
-717722	nld	Hij heeft drie maal Frankrijk bezocht.
+717722	nld	Hij heeft driemaal Frankrijk bezocht.
 717723	eng	People sometimes ask me what I'm going to do when I retire.
 717724	nld	Alle jongens waren verliefd op Julia.
 717725	eng	What about?
@@ -36416,7 +36370,7 @@
 718845	rus	Куда бы Вы ни пошли, Вам везде будут рады.
 718846	rus	Воскресенье следует за субботой.
 718847	rus	Понедельник следует за воскресеньем.
-718848	rus	Суббота приходит перед воскресеньем.
+718848	rus	Суббота идёт перед воскресеньем.
 718849	eng	My friend is studying Korean.
 718850	eng	He has been to France three times.
 718851	cmn	他话说得跟老师一样。
@@ -36429,13 +36383,12 @@
 718858	rus	Япония имеет дипломатические отношения с Китаем.
 718859	epo	Kiu famulo estas konsiderata seksalloga nuntempe?
 718860	cmn	你浸湿了。
-718861	rus	Я надел одежду в спешке.
-718862	rus	Я оделся в спешке.
+718861	rus	Я оделся в спешке.
 718863	rus	Я всегда хотел отправиться в Австралию вместе со своей семьей.
 718864	eng	I work better under pressure.
 718865	rus	Самолет приземлится ровно в шесть.
 718866	rus	Мы остались там на три месяца.
-718867	rus	Питер веселый парень.
+718867	rus	Питер - веселый парень.
 718868	rus	Прогноз погоды говорит, что завтра будет прохладнее.
 718869	rus	Прогноз погоды оповещает, что завтра будет прохладнее.
 718870	rus	Что бы ни случилось.
@@ -36661,7 +36614,7 @@
 719099	swh	Mawazo ya kijani yasiyokamili yanalala hoi.
 719100	swe	Färglösa gröna idéer sover rasande.
 719101	tgl	Natutulog nang magalit ang mga ideyang walang kulay at kulay berde.
-719102	toki	pilin mute jelo kule ala lape pilin ike wawa.
+719102	toki	sitelen insa laso pi kule ala li lape pi pilin utala.
 719103	tur	Renksiz yeşil fikirler öfkeli uyur.
 719104	ukr	Безбарвні зелені ідеї несамовито сплять.
 719105	urd	بی رنگ سبز خیالات شدت سے سوتی ہیں.
@@ -37048,7 +37001,7 @@
 719502	tlh	wa'DIch vIghovlaHbe'pu'.
 719503	deu	Gehörst Du zum Baseballclub?
 719504	hun	Bizonytalan vagyok, hogy itthon maradjak vagy menjek el hazulról.
-719505	hun	Elmentem Szendajba és azután rögtön vissza is jöttem,
+719505	hun	Elmentem Szendajba és azután rögtön vissza is jöttem.
 719506	hun	Egyáltalán miről van szó?
 719507	tlh	wej nughoS.
 719508	eng	I didn't envision him as a Klingon speaker; his forehead was too smooth.
@@ -37280,7 +37233,7 @@
 719742	spa	El Parlamento aprobó la nueva ley la semana pasada.
 719743	deu	Darüber sollte man überhaupt nicht lachen, sie aber lachten dennoch.
 719744	spa	Las vacas pacen.
-719745	deu	Ist es möglich, sich um 10:30 h zu treffen?
+719745	deu	Ist es möglich, sich um 10.30 h zu treffen?
 719746	spa	Ya me he tomado un café.
 719747	spa	Jim no ha ido nunca al extranjero.
 719748	deu	Japan befindet sich östlich von China.
@@ -38000,7 +37953,7 @@
 720484	spa	Esta tarde va a llover.
 720485	spa	¿Cuántos libros lees al mes?
 720486	eng	Let the game begin.
-720487	epo	Ke la ludo komenciĝu.
+720487	epo	La ludo komenciĝu.
 720488	jbo	carvi ca lo zi lecydo'i
 720489	eng	It rained this afternoon.
 720490	eng	Whenever you download something from the Internet, make sure it's from a trusted source.
@@ -38029,7 +37982,7 @@
 720514	rus	Я собираюсь во Францию изучать живопись.
 720515	rus	Они сидели на диване в гостиной.
 720516	rus	Ты присмотришь за моей кошкой?
-720517	rus	Ещё раз спасибо за все.
+720517	rus	Ещё раз спасибо за всё.
 720518	rus	Не забудь закрыть дверь на замок!
 720519	eng	Don't forget to lock the door!
 720520	eng	After that English exam, my brain is fried.
@@ -43456,7 +43409,7 @@
 726287	spa	¿Vendrás al pueblo?
 726288	hun	Szeretném tudni, mikor tudja szállítani.
 726289	pes	همسرم ترسیده به نظر می رسید.
-726290	hun	A férfi dolgok az első emeleten kaphatók
+726290	hun	A férfi dolgok az első emeleten kaphatók.
 726291	pes	نزد شما چه ساعتی ناهار می خورند؟
 726292	pes	آه، نام شیرین آزادی!
 726293	pes	شما به من دروغ گفتید، نه؟
@@ -43830,7 +43783,7 @@
 726717	eng	His selfishness makes me nervous.
 726718	por	O egoísmo dele me enerva.
 726719	epo	Mi prezentas mian demision.
-726720	eng	What time do you often lay down?
+726720	eng	When do you usually lie down?
 726721	por	Que horas você costuma ir se deitar?
 726722	por	A quem você deu isso?
 726723	tlh	'elI'Sabetlh be'nalDaj muSHa' teD.
@@ -44418,8 +44371,8 @@
 727334	cmn	融化中的极地冰盖也可以使海平面上涨的势态更加严重。
 727335	eng	People living on coastlines might lose their homes, and cities might be completely submerged.
 727336	fra	Je n'ai pas du tout peur des serpents.
-727337	cmn	住在海边的人可能失掉他们的家，而且城市可能被完全地淹没。
-727338	fra	Est-il arrivé quelque chose?
+727337	cmn	住在海边的人可能失去他们的家，并且城市可能会被完全淹没。
+727338	fra	Est-il arrivé quelque chose ?
 727339	eng	This would be a terrible tragedy.
 727340	fra	Nous avons posé un piège pour capturer un renard.
 727341	fra	Parce que j'habite près de l'école, je rentre à la maison pour le déjeuner.
@@ -45071,7 +45024,7 @@
 728010	fra	Tu dois couper le courant avant de vérifier le circuit.
 728011	deu	Vater ist noch im Bett.
 728012	deu	Es ist etwas Wasser in dem Glas.
-728013	cmn	人们因为热切地寻求更有现代风格的衣服，所以把以前的旗袍改变成一个适合他们品位的东西。
+728013	cmn	人们热切地寻求更有现代风格的衣服，所以把以前的旗袍改成了适合他们品位的东西。
 728014	eng	Slender and form-fitting with a high cut, the new qipao contrasted sharply with the traditional one.
 728015	epo	Neniam ekzistis bona milito nek malbona paco.
 728016	por	Não faço ideia.
@@ -45114,7 +45067,7 @@
 728053	deu	Ich fand den Jungen fest schlafend.
 728054	eng	The modernized version of the qipao is noted for accentuating the female figure.
 728055	deu	Er wird gut bezahlt.
-728056	cmn	现代版的旗袍版本因能突显女人的身材而闻名。
+728056	cmn	现代版旗袍因能突显女人的身材而闻名。
 728057	eng	With its distinctive Chinese features, the qipao enjoys growing popularity in the international world of high fashion.
 728059	nld	Ik voel me niet lekker.
 728060	deu	Ich fürchte, es wird am Nachmittag regnen.
@@ -45236,7 +45189,7 @@
 728186	epo	Ekstere estas malvarme, surmetu vian mantelon!
 728188	epo	Neniu konas la fakton.
 728189	epo	Mia aŭtoŝlosilo perdiĝis.
-728190	fra	Où se trouve le centre commercial le plus proche?
+728190	fra	Où se trouve le centre commercial le plus proche ?
 728191	epo	Li tre malŝatis la varbadajn interropmojn de televidaj filmoj.
 728192	epo	Li neniam revidu siajn gepatrojn.
 728193	epo	Li ĝuste volis forlasi la domon.
@@ -49885,7 +49838,7 @@
 733151	vie	Bạn đã bận trong bao nhiêu lâu?
 733152	vie	Chúng ta phải đi tới đó bằng xe hơi hay tắc xi?
 733153	vie	Anh ấy đang nói về việc sang Tây Ban Nha mùa đông này.
-733154	cmn	我用你的电话行吗？
+733154	cmn	我能用你的电话吗？
 733155	uig	تېلېڧونۇڭنى ئىشلەتسەم بولامدۇ؟
 733156	epo	Li estas parolanta pri irado al Hispanio tiun vintron.
 733157	cmn	这个家庭非常贫穷以至于无法偿还贷款。
@@ -49998,3 +49951,50 @@
 733265	pes	از دیروز هیچ نخورده‌ام.
 733266	deu	Ich habe genug von ihm.
 733267	pes	چطور او را شناختید؟
+733268	pes	چطور با او آشنا شدید؟
+733269	pes	جشن عروسی را ماه پیش سازمان‌دهی کردم.
+733270	pes	قهوه را بر چای ترجیح می‌دهم.
+733271	pes	در این‌جا اکنون فصل خشک است.
+733272	pes	من انسان آزادی هستم.
+733273	deu	Ich habe genug von dir.
+733274	pes	والدین اکثراً به‌فکر آینده‌ی فرزندان‌شان هستند
+733275	deu	Die Sekretärin lächelte mich freundlich an.
+733276	deu	Ich habe die Schnauze voll von dir.
+733277	deu	Er hat einen ausgezeichneten Sinn für Humor.
+733278	deu	Sie ist beileibe keine Schönheit, aber sie ist gutmütig.
+733279	pes	زندگی کردن با او برای ما سخت است، چراکه راضی کردن او فقط به‌زحمت امکان‌پذیراست.
+733280	jpn	彼らは私が日本人だと知らない。
+733281	epo	Ŝi vere ne estas beleco, sed ŝi estas bonanima.
+733282	epo	Li estas humorplena homo.
+733283	epo	Mia pacienco kun vi finiĝis.
+733284	epo	La sekretariino afable ridetis al mi.
+733285	epo	Fino de nia rilato.
+733286	epo	Li afable parolis kun mi.
+733287	epo	Anticipa lernado de la alfabeto multe helpas.
+733288	epo	Li ĝentile kondutis al ĉiuj.
+733289	heb	אלה הדיסקים שלי.
+733290	heb	אלה התקליטורים שלי.
+733292	epo	Li estas al ĉiuj komplezema.
+733293	epo	Tiuj ĉi estas miaj kompaktdiskoj.
+733294	epo	Ŝi estas al ĉiuj komplezema.
+733295	heb	שעוני ממהר בחמש שניות כל יום.
+733296	epo	Ŝi estas agrabla najbarino.
+733297	epo	Mia brakhorloĝo fruiĝas je 5 sekundoj ĉiutage.
+733298	fra	Elle est française de naissance.
+733299	heb	הסרט נמשך שעתיים.
+733300	heb	אורכו של הסרט היה שעתיים.
+733301	heb	הסרט היה באורך שעתיים.
+733302	fra	La terre sur sa ferme est très fertile.
+733303	fra	Je voudrais vous voir si possible.
+733304	fra	Plus d'enfants, plus de mains.
+733305	epo	Alta muro ĉirkaŭumas la tutan ĝardenon.
+733306	epo	Laŭ mia kutimo mi frue ellitiĝis.
+733307	pes	او در امتحان تقلب کرد؛ با کپی کردن پاسخ‌های دوست‌اش.
+733308	epo	Mi ne scias, ĉu mi devas ridi aŭ plori.
+733309	epo	Ambaŭ familioj amikece rilatas.
+733310	epo	Mi ne scias, ĉu ridi aŭ plori.
+733311	epo	Mi ne scias, ĉu ridi ĉu plori.
+733312	pes	افتخاری که به من می‌دهید، بیش از شایستگی من است.
+733313	epo	Ambaŭ familioj flegas harmonian kontakton.
+733314	pes	آه! ممنون، عزیزم.
+733315	heb	הוא רימה בבחינה, תוך שהוא מעתיק את התשובות מחברו.
