@@ -32,7 +32,7 @@
 32	cmn	你應該去睡覺了吧。
 33	cmn	我要走了。
 34	cmn	我請他們再寄給我一張票。
-35	cmn	我不能活那種命。
+35	cmn	我不能这样活着。
 36	cmn	我曾經想過當個太空物理學家。
 37	cmn	我從來沒喜歡過生物學。
 38	cmn	可惜这是真的。
@@ -3900,7 +3900,7 @@
 4014	fra	Un fleuve sortait d’Eden pour arroser le jardin, et là il se divisait pour former quatre bras.
 4015	fra	Faites cuire les pommes de terre pelées et coupées en morceaux 20 minutes à l’eau bouillante.
 4016	fra	Les fruits et les légumes sont essentiels à une alimentation équilibrée.
-4017	fra	Le fromage est un aliment solide fabriqué à partir du lait de vache, de chèvre, de mouton, et d'autres mammifères.
+4017	fra	Le fromage est un aliment solide fabriqué à partir du lait de vache, de chèvre, de brebis, et d'autres mammifères.
 4018	fra	J'aime toujours pas Cavalieri, Tonelli et Fubini... et demain j'ai déjà mon examen oral d'analyse.
 4019	fra	Je prends habituellement ma douche le soir.
 4020	fra	Il a passé la soirée à lire un bouquin.
@@ -3997,7 +3997,7 @@
 4111	fra	Si seulement on arrêtait d'essayer d'être heureux on pourrait passer un très bon moment.
 4112	fra	Prends bien soin de toi.
 4113	fra	Petit à petit, vous remarquerez des améliorations dans vos écrits.
-4114	fra	Le 18 mai, un jeune couple japonais a été arrêté après que leur bébé âgé d'un an ait été retrouvé enveloppé dans un sac plastique et abandonné dans un caniveau.
+4114	fra	Le 18 mai, un jeune couple japonais a été arrêté après que leur bébé âgé d'un an a été retrouvé enveloppé dans un sac plastique et abandonné dans un caniveau.
 4115	fra	Nous sommes hantés par une vie idéale, et c'est parce que nous avons en nous le début et la possibilité pour cela.
 4116	fra	La mort n'est qu'un horizon ; et un horizon n'est rien si ce n'est la limite de notre vision.
 4117	fra	La théorie scientifique que j'aime le plus est que les anneaux de Saturne sont entièrement composés de bagages perdus.
@@ -4144,7 +4144,7 @@
 4259	fra	À l'heure actuelle, il n'existe pas encore de politique claire concernant l'apport d'énergie décentralisée aux zones rurales.
 4260	fra	Pourquoi est-ce que tu ne viens pas avec nous ?
 4261	fra	Je ne peux pas dire le contraire.
-4262	fra	Pourquoi tu me parles d'hippopotames tout d'un coup ? Je ne vois pas le rapport entre ça et tes douze poissons rouges.
+4262	fra	Pourquoi tu me parles d'hippopotames tout à coup ? Je ne vois pas le rapport entre ça et tes douze poissons rouges.
 4263	fra	Ne l'écoute pas, il raconte n'importe quoi.
 4264	fra	Tu ne peux pas te perdre dans les grandes villes, il y a des plans partout !
 4265	fra	Nous sommes désolés, la personne que vous essayez de contacter n'est pas disponible.
@@ -4795,7 +4795,7 @@
 4926	jpn	彼らのコミュニケーションは我々が考えてきたものよりはるかに複雑かもしれません。
 4927	jpn	「電話が鳴っているよ。」　「私が出ます。」
 4928	jpn	「おっさん、やさしいなー。」ウィリーは言った。
-4929	jpn	「手伝ってくれてありがとう。」　「どういたしまして。」
+4929	jpn	「手伝ってくれてありがとう」「どういたしまして」
 4930	jpn	またいつか風のように走るんだ。
 4931	jpn	「彼女は音楽が好きだ」「私もそうだ」
 4932	jpn	お願いだから泣かないで。
@@ -7261,7 +7261,7 @@
 7481	fra	Je n'aime pas la crème glacée.
 7482	fra	Je resterai là jusqu'à six heures.
 7483	fra	Je ne connais aucune de ces cinq femmes.
-7484	fra	J'ai lu soixante pages, pendant qu'il en a seulement lues dix.
+7484	fra	J'ai lu soixante pages, pendant qu'il en a seulement lu dix.
 7485	fra	J'ai vécu à Osaka jusqu'à mes 6 ans.
 7486	fra	Je suis arrivé ici à 5 heures environ.
 7487	fra	Je vais finir ce travail à 5 h 00.
@@ -8750,7 +8750,7 @@
 9017	fra	Exprime ton idée clairement.
 9018	fra	Mangez-vous du riz dans votre pays ?
 9019	fra	Choisissez votre raquette préférée.
-9020	fra	J'ai aimé ton idée et l'ai adopté.
+9020	fra	J'ai aimé ton idée et l'ai adoptée.
 9021	fra	Fais comme tu veux.
 9022	fra	Même en admettant ce que vous dites, je n'aime pas la façon que vous avez de le dire.
 9023	fra	Même en admettant ce que vous dites, je pense toujours que vous avez tort.
@@ -10945,7 +10945,7 @@
 11288	fra	Pouvez-vous me dire comment utiliser ce logiciel de traitement de texte ?
 11289	fra	Combien coûte cette robe ?
 11290	fra	Pouvez-vous l'envoyer à cette adresse ?
-11291	fra	Mettons cette proposition noir sur blanc avant que nous la soumettions au patron.
+11291	fra	Mettons cette proposition noir sur blanc avant que nous ne la soumettions au patron.
 11292	fra	Quelques-uns des ingrédients de cette boisson sont nuisibles, spécialement si vous êtes enceinte.
 11293	fra	Il est hors de question de sortir avec cette pluie.
 11294	fra	J'en ai marre de ce temps.
@@ -15593,7 +15593,7 @@
 16337	eng	You worked hard, or you would have failed.
 16338	eng	You are too ready to speak ill of others.
 16339	eng	How dare you speak to me like that?
-16340	eng	How dare you speak like that?
+16340	eng	How dare you speak like that!
 16341	eng	You have a good chance to get well.
 16342	eng	How dare you say that?
 16343	eng	You're really a hard worker.
@@ -16751,7 +16751,7 @@
 17595	eng	He, just like you, is a good golfer.
 17596	eng	I as well as you am to blame.
 17597	eng	I am not excited any more than you are.
-17598	eng	I as well as you was late for school yesterday.
+17598	eng	I, as well as you, was late for school yesterday.
 17599	eng	I share your idea.
 17600	eng	I bought the same shirt as yours.
 17601	eng	He is no more a fool than you are.
@@ -19465,7 +19465,7 @@
 20522	eng	The known must be separated from the unknown.
 20523	eng	She knew what it was like for married women to look after houses, husbands and children.
 20524	eng	Let bygones be bygones.
-20525	eng	We tend to welcome only proofs of what we already know.
+20525	eng	We tend to welcome only proof of what we already know.
 20526	eng	Now, the situation is out of hand.
 20527	eng	I have already done my homework.
 20528	eng	As you already know.
@@ -19784,7 +19784,7 @@
 20864	eng	People who are afraid of making mistakes will make no progress in English conversation.
 20866	eng	It's absurd never to admit your mistakes.
 20868	eng	To err is human, to forgive divine.
-20869	eng	There is no one but commits errors.
+20869	eng	There is no one who doesn't make mistakes.
 20870	eng	Let's take the utmost caution against errors.
 20871	eng	Don't worry about making mistakes.
 20872	eng	Don't make a mistake.
@@ -20087,7 +20087,7 @@
 21191	eng	Kamakura is a place noted in connection with the Genji family.
 21192	eng	I have lived in Kamakura for twelve years.
 21193	eng	Air the futon.
-21194	eng	The shareholder's meeting was held.
+21194	eng	The shareholders meeting was held.
 21195	eng	Shareholders were concerned about the company's swift expansion overseas.
 21196	eng	Shareholders voted to liquidate the company's assets.
 21197	eng	The stockholders are making money hand over fist.
@@ -20352,7 +20352,7 @@
 21472	eng	My time in school will be one of my happiest memories.
 21473	eng	School systems have to cope with changing numbers of pupils.
 21474	eng	I usually went to bed at ten in my school days.
-21475	eng	He was very happy in his school days.
+21475	eng	He was very happy during his school days.
 21476	eng	I would often take part in an English speech contest in my school days.
 21477	eng	He ended up expelled.
 21478	eng	On leaving school, he went to Africa.
@@ -20412,7 +20412,7 @@
 21533	eng	The school is farther than the station.
 21534	eng	The school is located within five minutes' walk of the station.
 21535	eng	The school awarded Mary a prize.
-21536	eng	School will soon break up for the summer vacation.
+21536	eng	School will soon be over for summer vacation.
 21537	eng	The school drains the pool once a month.
 21538	eng	Where do you go to school?
 21539	eng	The school is only five minutes' walk from here.
@@ -20485,8 +20485,8 @@
 21612	eng	Schools have tried to limit their use by not allowing them to be used in math classes, although they allow them in science lessons to save time.
 21613	eng	This was third school shooting incident in six months.
 21614	eng	I wanted to have finished it by the time school was over.
-21615	eng	Success in school calls for much hard study.
-21616	eng	School being over, we went home.
+21615	eng	You must study hard to have success in school.
+21616	eng	When school was over, we went home.
 21617	eng	I am very glad school is over.
 21618	eng	School being over, we went swimming in the pool.
 21619	eng	You must be hungry after school is over.
@@ -20529,7 +20529,7 @@
 21665	eng	As we went around the corner, the lake came in sight.
 21666	eng	Round the corner came a large truck.
 21667	eng	You'll find the shop around the corner.
-21668	eng	There is a bookstore just 'round the corner.
+21668	eng	There is a bookstore just around the corner.
 21669	eng	Will you run down to the corner and buy me a paper?
 21670	eng	There's a pub just around the corner.
 21672	eng	The house on the corner is ours.
@@ -20579,7 +20579,7 @@
 21720	eng	Nuclear weapons are a threat to all humanity.
 21721	eng	Nuclear weapons will bring about nothing but the ruin of mankind.
 21722	eng	Nuclear weapons may bring about the annihilation of man.
-21723	eng	Nuclear weapons are a threat to the race.
+21723	eng	Nuclear weapons are a threat to the human race.
 21724	eng	Nuclear power plants are dangerous, not to mention nuclear weapons.
 21725	eng	We think nuclear weapons will destroy our earth.
 21726	eng	Nuclear war will bring life on this planet to an end.
@@ -20639,7 +20639,7 @@
 21782	eng	Generally speaking, Japanese are hard workers.
 21783	eng	It may be said, as a rule, that the climate of Japan is mild.
 21784	eng	Generally speaking, the climate of Japan is mild.
-21785	eng	As a rule we have much rain in June in Japan.
+21785	eng	As a rule, we have much rain in June in Japan.
 21787	eng	As a rule, twins have a lot in common.
 21788	eng	In general, people were against the consumption tax.
 21789	eng	As a rule, man is inclined to be lazy.
@@ -20865,7 +20865,7 @@
 22016	eng	Get out.
 22017	eng	May I go out to play?
 22018	eng	No sooner had I gone out than it began to rain.
-22019	eng	I stepped outside and was bathed in the harsh direct sunlight.
+22019	eng	I stepped outside and was bathed in the harsh, direct sunlight.
 22020	eng	As soon as I went out, it began to rain.
 22021	eng	I shivered with cold when I went outside.
 22022	eng	He would not go out.
@@ -21723,7 +21723,7 @@
 22917	eng	We should strike a balance between our expenditure and income.
 22918	eng	There is nothing for it but to put off our departure.
 22919	eng	In the fall we harvest our summer crops.
-22920	eng	We negotiated with the president about our working hours.
+22920	eng	We negotiated with the President about our working hours.
 22921	eng	We looked about us.
 22922	eng	We're eating up a lot of time writing letters by hand.
 22923	eng	We can dispose the car.
@@ -21900,7 +21900,7 @@
 23099	eng	We set out when the rain had eased.
 23100	eng	We eat a meal three times a day.
 23101	eng	We have three meals a day.
-23103	eng	We painted the house once, then we went over it again.
+23103	eng	We painted the house once, then went over it again.
 23104	eng	We are facing a violent crisis.
 23105	eng	Ever since we've been wearing clothes, we haven't known one another.
 23106	eng	We hit the right road in the dark.
@@ -22265,7 +22265,7 @@
 23475	eng	When our class performed a play, I took charge of stage effects.
 23476	eng	Our bodies respond to our feelings.
 23477	eng	All our efforts were without result.
-23478	eng	Give us the tools, and we will finish the job.
+23478	eng	Give us the tools, and we'll finish the job.
 23479	eng	Some members agree with us, some don't, and others haven't expressed their opinions.
 23480	eng	Famine stared us in the face.
 23481	eng	All we need now is action, not discussion.
@@ -22313,7 +22313,7 @@
 23523	eng	There's no need for us to argue about this.
 23524	eng	It takes us thirty minutes to walk from here to the station.
 23525	eng	It is not important whether we win the game or not.
-23526	eng	It is important whether we win the game or not.
+23526	eng	It's important for us to win the game.
 23527	eng	To our disappointment, our team lost the game.
 23529	eng	We own a few hundred acres between the three of us.
 23530	eng	I'm the witchfinder general.
@@ -29018,7 +29018,6 @@
 30768	eng	If the number of cars increases, so will the traffic.
 30769	eng	If the car breaks down, we'll walk.
 30770	eng	If they don't have a car, they'll come by taxi.
-30771	eng	What would you do, if you lost your job?
 30772	eng	If time permits, I'll visit the museum.
 30773	eng	I will come, time permitting.
 30774	eng	If you have time, please drop in on us.
@@ -31827,7 +31826,7 @@
 33758	eng	The membership of the Boy Scout troop swelled.
 33759	eng	The boy scouts went from door to door selling what they had made.
 33760	eng	Waiter, please give me a cup of tea.
-33761	eng	Waiter, give us separate checks please.
+33761	eng	Waiter, give us separate checks, please.
 33762	eng	I had the boy carry my bag.
 33763	eng	Waiter, three coffees, please.
 33764	eng	Barking dogs don't always bite.
@@ -33155,7 +33154,7 @@
 35151	eng	The batter struck out swinging.
 35152	eng	The batter has two balls and two strikes on him.
 35153	eng	Ichiro hit an eye-popping double.
-35154	eng	I'm going to have to start lobbing. I can't win with passing shots alone.
+35154	eng	Rather than passing, lobbing is the way to win.
 35155	eng	My bag was stolen.
 35156	eng	Keep an eye on the bags.
 35157	eng	Please show me your bag.
@@ -33316,7 +33315,7 @@
 35323	eng	The bus doesn't always come on time.
 35325	eng	The bus was two minutes early.
 35326	eng	There is only one bus every two hours.
-35327	eng	Buses are running at 20 minute intervals.
+35327	eng	Buses are running at 20-minute intervals.
 35328	eng	There is a bus every fifteen minutes.
 35329	eng	The bus leaves every fifteen minutes.
 35330	eng	The bus will arrive within ten minutes.
@@ -36022,7 +36021,7 @@
 38272	eng	Every now and then, I play tennis for recreation.
 38273	eng	Now and then, we go to London on business.
 38274	eng	Sometimes when it's very cold, I can't get my car to start.
-38275	eng	From time to time, a proposal to pull down a much-loved old building to make room for a new block of flats, raises a storm of angry protest.
+38275	eng	From time to time, a proposal to pull down a much-loved old building to make room for a new block of flats raises a storm of angry protest.
 38276	eng	Sometimes the boys would play a joke on the teacher.
 38277	eng	I hear from him once in a while.
 38278	eng	From time to time she stopped and looked round.
@@ -38650,7 +38649,7 @@
 41152	eng	The divers found a wreck on the sea-bed.
 41153	eng	Do you have any other guidebooks about Thailand?
 41154	eng	The dynamite went off with a bang.
-41155	eng	In Thailand, people use coconuts for food, drink and toys.
+41155	eng	In Thailand, people use coconuts for food, drinks and toys.
 41156	eng	In Thailand it has already become too dry to grow rice in some parts of the country.
 41157	eng	In Thailand, bringing up the children isn't the father's responsibility; it's entirely up to the mother.
 41158	eng	I usually walk.
@@ -40091,7 +40090,7 @@
 42679	eng	It was a very traditional ceremony.
 42680	eng	It was a very long meeting.
 42681	eng	It was a very big room.
-42682	eng	I think the film is a very heart warming one.
+42682	eng	I think the film is a very heartwarming one.
 42683	eng	It's beyond me.
 42684	eng	It was very expensive; in fact, I paid 100 dollars.
 42685	eng	That gives me great pleasure.
@@ -47480,7 +47479,7 @@
 50489	eng	The glass was dashed to pieces.
 50490	eng	There is a crack in the glass.
 50491	eng	The burglar was caught in the act of prying open the window.
-50492	eng	The coffee shop is my favorite haunt.
+50492	eng	That coffee shop is my favorite haunt.
 50493	eng	The coffee was so hot that I couldn't drink it.
 50494	eng	The coffee was not much to my liking.
 50495	eng	That coffee smells good.
@@ -48566,7 +48565,7 @@
 51682	eng	The wild beasts all gather.
 51683	eng	Suddenly all the lights went out.
 51684	eng	Not all books are good books.
-51685	eng	Not all the books are worth reading.
+51685	eng	Not all books are worth reading.
 51686	eng	All the clergy are against the new law.
 51687	eng	Every mother has affection for her child.
 51688	eng	Some common threads run through all cultures.
@@ -48985,7 +48984,7 @@
 52121	eng	Please write me a reply soon.
 52122	eng	I will write you back soon.
 52123	eng	Please write back soon.
-52124	eng	You can not miss it.
+52124	eng	You cannot miss it.
 52125	eng	I fly into a rage easily.
 52126	eng	Come into the room at once.
 52127	eng	You should go to the hospital at once.
@@ -49998,3 +49997,4 @@
 53194	eng	Beat the Giants!
 53195	eng	The Giants lost the game by 20 points.
 53196	eng	The Giants were well on the way to defeat.
+53197	eng	Which do you like better, the Giants or the Dragons?

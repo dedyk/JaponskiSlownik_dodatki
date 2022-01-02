@@ -1,27 +1,3 @@
-575112	lit	Ar tai tavo sesuo?
-575113	lit	Ar ji tavo sesuo?
-575114	heb	הם נעשים עצבניים.
-575115	epo	Mi estas informonta al vi pri la lastaj novaĵoj devenantaj de la vilaĝo.
-575116	heb	אנגלית היא לא שפה קלה, אבל היא מעניינת.
-575117	lit	Aš mačiau ją prieš savaitę.
-575118	vie	Tôi sắp thông báo cho anh những thông tin mới nhất từ làng.
-575119	epo	Tiu aĉa flavo memorigas min pri la koloro de via littuko.
-575120	lit	Pakvieskite daktarą!
-575121	lit	Kieno eilė?
-575122	lit	Paskambinkite daktarui!
-575123	fra	Dépêchons.
-575124	fra	Dépêchons-nous.
-575125	fra	Il n'y a pas d'urgence.
-575126	fra	Il n'y a pas le feu au lac.
-575127	fra	On se calme.
-575128	epo	Ŝi kriis por helpo.
-575129	vie	Không có gì khẩn cấp cả.
-575130	epo	Nenio urĝas.
-575131	epo	Kial ŝi ne venis hieraŭ?
-575132	epo	Ni hastu.
-575133	vie	Chúng ta hãy khẩn trương.
-575134	fra	Dépêche-toi ou tu vas manquer le bus.
-575135	fra	Dépêchez-vous ou vous allez manquer le car.
 575136	vie	Chị ấy kêu cứu.
 575137	fra	Une horloge est accrochée au mur.
 575138	epo	Hastu, alie vi maltrafos la buson.
@@ -5875,7 +5851,7 @@
 581294	hin	जब तक मेरी दवाई तैयार नहीं होती मैं यहीं इंतेज़ार करूंगी।
 581295	hin	वह दो सालों में डॉक्टर बन जाएगी।
 581296	pol	Chciałem powiedzieć więcej, ale przerwała połączenie.
-581297	hin	तुम्हे गाना गाना पसंद है?
+581297	hin	तुम्हें गाना गाना पसंद है?
 581298	pol	Kupiła komplet przyborów do herbaty.
 581299	hin	मैं अब थक गया हूँ।
 581300	hin	शुरू कब होता है?
@@ -6235,7 +6211,7 @@
 581674	hun	Azt mondják, azon a télen Észak-Európában oly szörnyű hideg volt, hogy sokan halálra fagytak.
 581675	ita	Ho intenzione di andare a fare una scampagnata domani.
 581676	hin	अरे! मैं उसके चंगुल में फंस गया!
-581677	jpn	上着を着なさいそうでないと風邪をひくよ。
+581677	jpn	上着を着なさい、でないと風邪をひくよ。
 581678	hun	Vedd fel a kabátod, különben megfázol!
 581679	ita	Ho intenzione di andare a comprare qualche materiale oggi.
 581681	hun	A kutya halálra fagyott.
@@ -7936,7 +7912,7 @@
 583467	epo	Li renverse falis de sur la tegmento.
 583469	epo	Estas damne varmege.
 583470	rus	В этом дворце живут король и королева.
-583471	hun	Reggel megetetteted a kutyát?
+583471	hun	Ma reggel megetetted a kutyát?
 583472	epo	Ĉu vi komprenas la koncepton de la aktuala valoro de la mono?
 583473	eng	Translation is like a woman. If it is beautiful, it is not faithful. If it is faithful, it is most certainly not beautiful.
 583474	hun	Senki nem él a lakásban.
@@ -7944,7 +7920,7 @@
 583476	epo	Liaj ŝuldoj adicias al rimarkinda sumo.
 583477	fra	Je ne dois normalement pas travailler le dimanche.
 583478	rus	Я могу починить раковину сегодня днём.
-583479	hun	A palotában él a király és a királyné.
+583479	hun	Ebben a palotában él a király és a királyné.
 583480	rus	Он не любил детей.
 583481	hun	Délutánra megjavítom a mosogatót.
 583482	fra	Je l'ai amené à changer son plan.
@@ -8366,7 +8342,7 @@
 583917	ukr	Моя сестра часто дивиться за дитиною.
 583918	ron	Am o durere de cap teribilă.
 583919	ukr	Моя сестра часто доглядає дитину.
-583920	hun	Két kézzel fogja a vázát.
+583920	hun	Két kézzel fogja a vázát!
 583921	hun	Hogyan mondják ezt olaszul?
 583922	epo	Estis varmege ĉiposttagmeze.
 583923	heb	קשה לכסות על זמן שבוזבז.
@@ -8509,7 +8485,7 @@
 584064	hun	Van itt a közelben egy ifjúsági szállás?
 584065	deu	Karen ist wütend auf mich.
 584066	spa	Ella ama a Tom.
-584067	deu	China ist das größste Land Asiens.
+584067	deu	China ist das größte Land Asiens.
 584068	hun	Tartózkodok a szeszes italoktól.
 584069	deu	Die Waren sind in gutem Zustand eingetroffen.
 584070	ron	Nu a fost deloc recunoscător fostului său profesor.
@@ -9394,7 +9370,7 @@
 584973	rus	- Ну скажите, за что вы всё-таки его убили? - За любовь.
 584974	eng	"But tell us, just what did you kill him for?" "For love."
 584975	fra	« Mais dites-nous, pourquoi l'avez-vous tué, exactement ? » « Pour l'amour. »
-584976	cmn	“请告诉大家，您究竟为了什么把他杀掉？”　“是为了爱情。”
+584976	cmn	“但请告诉我们，您究竟为了什么杀了他？”　“是为了爱情。”
 584977	spa	Abandonó a su familia y se fue al extranjero.
 584978	spa	El doctor recetó medicina para el paciente.
 584979	eng	I looked around and noticed that I was the only car on the road.
@@ -10379,7 +10355,7 @@
 586020	dan	Er du i stand til at gøre dig forståelig på engelsk?
 586021	dan	Kan du gøre dig forståelig på engelsk?
 586022	spa	Ser y estar no son el mismo verbo.
-586023	dan	Jeg vil gøre at hvad jeg kan for at hjælpe dig.
+586023	dan	Jeg vil gøre alt hvad jeg kan for at hjælpe dig.
 586024	cat	Sóc prim però estic gras
 586025	dan	Jeg vil gøre alt hvad jeg kan for at hjælpe jer.
 586026	spa	Soy delgado pero estoy gordo.
@@ -12802,7 +12778,7 @@
 588536	hin	मैं निकम्मा हूँ।
 588537	hin	अंग्रेज़ी बोलना आसान नहीं है।
 588538	hin	उसे छूना मत।
-588539	hin	मैं बहुत व्यस्थ हूँ।
+588539	hin	मैं बहुत व्यस्त हूँ।
 588540	hin	मेरी चीनी समझती है।
 588541	hin	मेरी को चीनी समझ में आती है।
 588543	deu	Langsam aber sicher etablieren sich digitale Technologien im Sprachunterricht.
@@ -20851,7 +20827,7 @@
 597080	epo	Sally renkontis Harry ĉe la stacio.
 597081	epo	Ĉar mi loĝas en la kamparo, mi malofte havas vizitantojn.
 597082	epo	Maria sidas ĉe la skribotablo.
-597083	hun	Találnom kell állást részmunkaidőben.
+597083	hun	Találnom kell egy részmunkaidős állást.
 597084	epo	Mi ĉiam konfuzas Johanon kun Paŭlo.
 597085	epo	Nuntempe multaj homoj vojaĝas aŭtomobile.
 597086	heb	מה הביאך הלום מוקדם כל כך?
@@ -22541,7 +22517,7 @@
 598866	rus	Водители должны знать правила дорожного движения.
 598867	rus	Другими словами, язык есть нечто, чему мы учим и чему мы учимся, а не то, что мы инстинктивно знаем.
 598868	rus	Вам нельзя здесь играть в бейсбол.
-598869	rus	У меня сильная жажда и я хочу пить чего-нибудь холодного.
+598869	rus	Я испытывал сильную жажду, и мне хотелось выпить чего-нибудь холодного.
 598870	rus	Я хочу учиться в университете.
 598871	rus	Мой отец имел дело с этой фирмой.
 598872	rus	Мы люди.
@@ -29362,7 +29338,7 @@
 606171	ita	Capii che era una grande bugia il fatto che lei volesse diventare un'attrice.
 606172	spa	¿A quién le pertenece este terreno?
 606173	spa	Evangeline Lilly es canadiense.
-606174	spa	No importa como muere alguien, sino como vivió la vida.
+606174	spa	No importa cómo muere alguien, sino cómo vivió la vida.
 606175	spa	Estoy convencido de que mi hijo es inocente.
 606176	spa	Me gustaría vivir en Nueva York.
 606177	spa	Mis amigos me felicitaron por mí éxito.
@@ -32771,7 +32747,7 @@
 609781	spa	Él era un dios para su gente.
 609782	spa	Tom me agradeció por el regalo.
 609783	spa	El señor Brown enseña en Harvard.
-609784	spa	Le veo de vez en cuando
+609784	spa	Le veo de vez en cuando.
 609785	spa	No hay otra montaña en Japón más alta que el monte Fuji.
 609786	deu	Ich sehe dich ab und zu.
 609787	spa	Suelo platicar con él en el autobús.
@@ -34343,7 +34319,7 @@
 611431	hin	मेरा बेटा घड़ी देखकर समय बता सकता है।
 611432	hin	आपको ऐमब्यूलेंस की ज़रूरत है क्या?
 611433	hin	जेन खुश लगती है।
-611434	hin	तुम्हे बच्चे को अकेला नहीं छोड़ना चाहिए।
+611434	hin	तुम्हें बच्चे को अकेला नहीं छोड़ना चाहिए।
 611435	hin	वह अपना काम खतम करते ही घर चला गया।
 611436	hin	वह कैंसर से नहीं मरा।
 611437	fra	Je viens juste de terminer mes devoirs d'anglais.
@@ -34371,7 +34347,6 @@
 611459	dan	Tag det roligt!
 611460	dan	I paladset bor kongen og dronningen.
 611461	dan	Han gjorde klart at han ikke havde noget med sagen at gøre.
-611462	dan	Det var i 1912 at Titanic sank under sin første rejse.
 611463	cmn	国内是有不少假冒的肯德基。
 611464	fra	En effet, il y a pas mal de contrefaçons de KFC à l'intérieur du pays.
 611465	jbo	le do zdani cu barda
@@ -44118,7 +44093,7 @@
 621644	est	Tunnistan, et ma ei saa aru.
 621645	dan	Giv ikke drikkepenge hvis du ikke er tilfreds med betjeningen.
 621646	est	Nad pidid otsast peale hakkama.
-621647	dan	Jeg var ude og fiske i mandags.
+621647	dan	Jeg var ude at fiske i mandags.
 621648	ita	Oggi è lunedì.
 621649	epo	La Fuji-monto estas la plej alta monto de Japanujo.
 621650	dan	Hvor er du?
@@ -46315,7 +46290,7 @@
 623956	epo	Aŭdinte la novaĵojn, li paliĝis.
 623957	spa	Entro a trabajar a las nueve en punto cada mañana.
 623958	spa	Como estaba muy bebido, no pudo llevar el coche de vuelta a casa.
-623959	spa	El gobierno nos hace pagar impuestos.
+623959	spa	El Gobierno nos hace pagar impuestos.
 623960	spa	¿A cuánto está el kilo de puerros?
 623961	spa	Puedes hablar tanto como quieras.
 623962	ara	هذه الوردة هي أجمل الورود على الإطلاق.
@@ -47120,7 +47095,7 @@
 624790	epo	Ni devas purigi la kuirejon.
 624791	epo	Oni parolu kiom eble per agoj, kaj ne nur diru, kion oni povus fari.
 624792	ita	Me ne darai un po'?
-624793	ita	Era seduto di fronte a me.
+624793	ita	Era seduto davanti a me.
 624794	epo	Valoras ne la vesto, valoras la enesto.
 624795	ita	Costruire un tunnel dal Giappone alla Cina è fuori questione.
 624796	ita	Non l'ho mai visto in jeans.
@@ -47822,7 +47797,7 @@
 625529	gle	An bhfuil aon rud a ól sa chuisneoir?
 625530	heb	את זה עדיין לא עשיתי.
 625531	gle	Táim ábalta an Spáinnis a léamh go heasca.
-625532	gle	Fuair Taro bás dhá bhliain o shin.
+625532	gle	Fuair Taro bás dhá bhliain ó shin.
 625533	epo	La aviadilo baldaŭ malaperis el la vido.
 625534	gle	Déan mise cupán tae, más é do thoil é.
 625535	spa	Tenemos previsto asistir a un concierto esta noche.
@@ -49998,3 +49973,28 @@
 627872	epo	Li estas la pli alta el ambaŭ.
 627873	spa	El amor debe tener alas para alejarse volando del amor, y volver otra vez.
 627874	epo	Li estas fiera gajninte la premion.
+627875	epo	Li meritas la premion.
+627876	epo	Li decidis vendi sian aŭton.
+627877	spa	Cualquier profesor que pueda ser reemplazado por una máquina debería serlo.
+627878	spa	A la religión la consideran verdadera la gente normal, falsa los sabios, y útil los mandatarios.
+627880	epo	Li fakte pagis unu milionon de dolaroj por tiu pentraĵo.
+627881	spa	Hemos creado vida a nuestra imagen y semejanza.
+627882	spa	El poder tiende a corromper y el poder absoluto corrompe absolutamente.
+627883	spa	Se te dio la elección entre guerra y deshonor. Elegiste deshonor y tendrás guerra.
+627884	epo	Ili fondis sian regnon en Peruo antaŭ ĉirkaŭ kvincent jaroj.
+627885	epo	La malvigleco de mia filino estas vera problemo.
+627886	jpn	これからの星勘定を考えると、一敗もしたくない！
+627887	eng	When I think of our standing in the series from now I don't want us to lose even once!
+627888	epo	Venontmonate ni transloĝiĝos al nia nova domo, kondiĉe ĝi estos preta.
+627889	rus	Они основали своё государство в Перу около пятисот лет назад.
+627890	rus	Он решил продать свою машину.
+627891	epo	Vi povas iri kien vi volas.
+627892	rus	Он заслуживает награды.
+627893	epo	Patricino proksimiĝis al la domo.
+627894	epo	Ĉiu studento uzas sian propran komputoron.
+627895	rus	Этих денег хватит, чтобы купить продукты.
+627896	epo	Ni admiras la lunon pro ĝia lumado, sed estas la suno, kiu briligas lin per siaj radioj.
+627897	rus	Поблизости нет продуктового магазина.
+627898	hun	Elhatározta, hogy eladja a kocsiját.
+627899	hun	Mi mindig is a Földdel mozogtunk.
+627900	hun	Ez a kölyök egy istencsapása!
