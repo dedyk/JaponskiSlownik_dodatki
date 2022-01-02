@@ -1,25 +1,3 @@
-417686	rus	Штаб-квартира корпорации IBM находится в городе Армонк, штат Нью-Йорк.
-417687	rus	Забудь об этом. Всё-таки он наш общий друг.
-417688	rus	У неё элегантные манеры.
-417689	jpn	私は5人の男性を見ました。
-417690	jpn	私はペンを１０本持っています。
-417691	ara	من أين جئت بالساعة؟
-417692	ara	كان يجب عليك أن ترى الصورة.
-417693	ara	من الأفضل لك أن تستغل الفرصة.
-417694	ara	كل ما عليك فعله هو أن تكبس الزر.
-417695	ara	ماعليك إلا أن تضغط على الزر.
-417696	ara	أسمعت الأخبار؟
-417697	ara	ماذا كنت تفعل في ذلك الوقت؟
-417698	ara	أنجحت في الإختبار؟
-417699	ara	يمكنك أن تأخذ أحد الكتابين.
-417700	ara	ما عليك إلا أن تذهب.
-417701	ara	ليس من الضروري أن تذهب.
-417702	ara	يجب أن تذهب.
-417703	ara	أرأيتها هناك؟
-417704	ara	أتحب الرياضة؟
-417705	ara	إنك فتى لطيف.
-417706	ara	كنت مشغولاً.
-417707	ara	أيمكنك التزلج؟
 417708	ara	يجب عليك البدأ قريبا.
 417709	ara	عليك زيارة الطبيب حالا.
 417710	ara	عليك أن تؤدي واجباتك حالاً.
@@ -1927,7 +1905,7 @@
 419658	ara	أتعرف كم الساعة؟
 419659	ara	لما لم تقل لها؟
 419660	eng	You should wear a coat.
-419661	ara	لما لم تأتي؟
+419661	ara	لِمَ لمْ تأتِ؟
 419662	ara	عما تتحدث؟
 419663	eng	Please wait a little while longer.
 419664	ara	ماذا اشتريت؟
@@ -3247,7 +3225,7 @@
 421037	wuu	工资末，是侬个零头；上班末，大家淘淘浆糊。
 421038	cmn	工资是你的零头；上班时间大家随便混混。
 421039	wuu	下班辰光勿到末，大家就想滑脚。
-421040	cmn	下班时间还没，大家就想溜走。
+421040	cmn	下班时间还没到，大家就想溜走。
 421041	wuu	侬讲有劲𠲎？
 421042	cmn	你说有劲吗？
 421043	wuu	侬除脱仔专业之外，还有啥特别爱好𠲎？
@@ -4960,7 +4938,7 @@
 422804	nld	Er is geen pot zo scheef, of er past wel een deksel op.
 422805	nld	Ervaring is de beste leermeester.
 422806	nld	Gedeelde smart is halve smart.
-422807	nld	Geen geld, geen Zwitsers.
+422807	nld	Geen geld, geen zwitsers.
 422808	nld	Geld maakt niet gelukkig.
 422809	nld	Geen rozen zonder doornen.
 422810	nld	Geen profeet is in zijn eigen land geëerd.
@@ -6576,7 +6554,7 @@
 424459	fra	Betty conduit rapidement.
 424460	fra	Betty a une voix charmante.
 424461	rus	Лошадь бежит быстро.
-424462	fra	Supposons que tu avais dix millions de yens, que ferais-tu ?
+424462	fra	Supposons que tu aies dix millions de yens, que ferais-tu ?
 424463	rus	Суббота — день, когда он свободен.
 424464	rus	Он тогда лежал на той же кровати.
 424465	rus	В Японии учебный год начинается в апреле.
@@ -6907,6 +6885,7 @@
 424803	fra	Où se trouve la gare Hakata ?
 424804	eng	Where is Hakata station located?
 424807	ita	Dove si trova la stazione di Hakata?
+424809	swe	Vi körde för snabbt för att kunna njuta av det vackra landskapet.
 424818	eng	He disguised himself as a peasant and infiltrated the walled city.
 424820	swe	Var inte dum.
 424821	fra	L'ordinateur est une machine compliquée.
@@ -7102,7 +7081,7 @@
 425028	deu	Diese Creme macht die trockensten Hände weich, regeneriert sie und verschafft ihnen Linderung.
 425029	deu	Sie ist erst zwei Jahre alt, aber sie kann schon bis 100 zählen.
 425030	jpn	彼が電話をかけてきたら、僕からあとで連絡すると言ってください。
-425031	deu	Sie sagte: "Ich bin sehr zufrieden".
+425031	deu	Sie sagte: „Ich bin sehr zufrieden.“
 425032	fra	Il s'est désisté de cette enquête pour meurtre.
 425033	deu	Ich bleibe zu Hause, wenn es morgen regnet.
 425034	fra	Il se vante d'être un artiste.
@@ -9572,7 +9551,7 @@
 427564	cmn	我有个黄鱼脑袋。
 427565	fra	Pourriez-vous me dire quel bus ou quel train prendre pour aller au centre-ville ?
 427566	epo	Mia patro ne manĝas multe da fruktoj.
-427567	fra	Elle se demandait quelle porte ouvrir ?
+427567	fra	Elle se demandait quelle porte ouvrir.
 427568	fra	Quelle est votre équipe préférée ?
 427569	epo	Mia patro ĉesis fumi.
 427570	fra	Quelle équipe va gagner ?
@@ -12104,7 +12083,7 @@
 430203	eng	We hadn't credited this report.
 430204	eng	The train is ten minutes late today.
 430205	eng	It snowed for four days.
-430206	eng	I've got three times more money as you.
+430206	eng	I've got three times more money than you.
 430208	eng	He is American to the soles of his feet.
 430209	fra	Tu me demandes l'impossible.
 430210	eng	He's American through and through.
@@ -14733,7 +14712,7 @@
 432926	fra	Je suis le maître de mon destin ; je suis le capitaine de mon âme.
 432927	cmn	你对于现在的年轻人有什么看法？
 432928	fra	Chacun doit prendre soin de lui-même.
-432929	cmn	2001年时21世纪的开始。
+432929	cmn	2001年是21世纪的开始。
 432930	epo	Mi ŝatas klasikan muzikon.
 432931	fra	Tu dois travailler dur pour réussir.
 432932	fra	Ce sont des cadeaux pour mes amis.
@@ -16299,7 +16278,7 @@
 434579	spa	¿Tiene mangos?
 434580	eng	Do you have python snakes?
 434581	spa	¿Tienen serpientes pitón?
-434582	eng	Do you have renaissance paintings?
+434582	eng	Do you have Renaissance paintings?
 434583	spa	¿Ustedes tienen pinturas del renacimiento?
 434584	eng	Do you have shoes and socks?
 434585	spa	¿Tienes zapatos y calcetines?
@@ -16926,7 +16905,7 @@
 435236	cmn	她一看到蜘蛛就尖叫。
 435237	cmn	他已經做完功課了。
 435238	cmn	鸚鵡懂得模仿人類說話。
-435239	jpn	慈悲深く慈悲あまねき神の御名において
+435239	jpn	慈悲深く慈悲あまねき神の御名において。
 435240	cmn	賣完了！
 435241	yue	賣晒喇！
 435242	cmn	女孩的眼睛充滿了淚水。
@@ -25350,7 +25329,7 @@
 444055	rus	Зайдите на мою интернет-страничку, чтобы узнать больше обо мне.
 444056	rus	Это всё равно что искать иголку в стоге сена.
 444057	fra	Cette émission de télé-réalité est d'une stupidité qui dépasse l'entendement.
-444058	rus	Ты должен был выйти на пол часа раньше.
+444058	rus	Ты должен был выйти на полчаса раньше.
 444059	rus	Очень важно, чтобы ты был пунктуальным.
 444060	fra	C'est comme chercher une aiguille dans une botte de foin.
 444061	rus	Эта дорога приведёт тебя туда.
@@ -27688,7 +27667,7 @@
 446462	deu	Hast du irgendwelche Pläne?
 446463	fra	Ça ne lui dit rien de le faire lui-même.
 446464	epo	Tio estas nia lernejo.
-446465	hin	तुम्हे इसे राज़ रखना चहिए था।
+446465	hin	तुम्हें इसे राज़ रखना चहिए था।
 446466	deu	Ich habe das Wort im Wörterbuch nachgeschlagen.
 446467	epo	Mi havas multajn librojn.
 446468	deu	Alle Studenten haben gegen den Krieg protestiert.
@@ -35255,7 +35234,7 @@
 454370	epo	Mi ludas Chopin.
 454371	ara	لعب كرة القاعدة بعد المدرسة.
 454372	epo	Mia amiko sendis al mi leteron, en kiu li demandas min, ĉu mi bonfartas.
-454373	fra	Ce serpent n'est pas vénéneux.
+454373	fra	Ce serpent n'est pas venimeux.
 454374	epo	Mi pripensis tion.
 454376	eng	I studied in Boston from 2003 to 2007.
 454378	uig	مەن 2003_يىلدىن 2007_يىلغا بوستوندا ئوقۇغان.
@@ -36069,8 +36048,8 @@
 455231	hin	मेज़ के नीचे एक बिल्ली है।
 455232	deu	Gebrannte Kinder scheuen das Feuer.
 455233	deu	Dumm gelaufen.
-455235	hin	मेरे ख़याल से तुम्हे सिगरेट पीना छोड़ देना चहिए।
-455236	hin	मैं तुम्हे सिगरेट पीना छोड़ देने की सलाह देना चाह्ता हूँ।
+455235	hin	मेरे ख़याल से तुम्हें सिगरेट पीना छोड़ देना चहिए।
+455236	hin	मैं तुम्हें सिगरेट पीना छोड़ देने की सलाह देना चाह्ता हूँ।
 455237	hin	तुम जो भी कहो, मैं तो उससे शादी कर के ही रहूँगा।
 455238	jpn	水色は澄んだ水の色を表し、明るく淡い青色のことである。
 455239	hin	तुम जो भी कहो, मैं तो उससे ही शादी करूँगा।
@@ -42016,7 +41995,7 @@
 461545	yue	我係唔講對唔住呀，你吹得我漲咩？
 461546	cmn	我把你的花瓶打破了，真對不起。
 461547	yue	我打爛咗你個花樽，真係好對唔住呀。
-461548	cmn	他们试图冲破敌军线路。
+461548	cmn	他们试图冲破敌军防线。
 461549	cmn	你是怎么做到这一点的呢？
 461550	tur	1956'da Atina'da doğdu.
 461551	tur	Hava bugün sıcak.
@@ -44304,7 +44283,7 @@
 463938	cmn	他做这个是为了钱。
 463939	fra	Nous terminons ainsi les activités d'aujourd'hui.
 463940	cmn	为什么玛丽和他去野餐？
-463941	fra	Pouvez-vous me donnez plus de café ?
+463941	fra	Pouvez-vous me donner plus de café ?
 463942	cmn	我问了她能不能来派对。
 463943	cmn	他非常喜欢他的学校。
 463944	fra	Y a-t-il une station de métro dans le coin ?
@@ -44953,7 +44932,7 @@
 464618	dan	Titanic sank på sin jomfrurejse.
 464619	epo	Vi ne devas resti ĝis la fino.
 464620	epo	Mi iam havis instruiston, kiu ofte ĵetis kreton al iu neatentanto, kaj tiam tiu devis reporti ĝin al li.
-464621	dan	Det var i 1912, at Titanic sank under hendes første rejse.
+464621	dan	Det var i 1912 at Titanic sank under sin første rejse.
 464622	dan	Alt i alt er jeg tilfreds med resultatet.
 464623	dan	Det er cirka 8 kilometer væk.
 464624	deu	Die Titanic sank auf ihrer Jungfernfahrt.
@@ -49453,7 +49432,7 @@
 469299	fra	Elle adore son frère ainé.
 469300	isl	Eldri bróðir minn fékk stöðu í stóru fyrirtæki.
 469301	cmn	您做啦！
-469302	cmn	你做啦！
+469302	cmn	你做到啦！
 469303	est	Mis laule siis lauldi?
 469304	cmn	您记不记得以前见过我？
 469305	fra	Ôtez les abats du poulet avant de le cuire.
@@ -49998,3 +49977,24 @@
 469859	rus	Какая скука.
 469860	rus	В августе я поеду со своей девушкой в Японию.
 469861	epo	Mi malfeliĉus, sed ne mortigus min.
+469862	rus	Вот это да!
+469863	epo	Kion vi imagas, kiam vi rigardas tiun pentraĵon?
+469864	rus	Вы говорите по-английски?
+469865	rus	Следующим летом я хочу поехать на Гавайи.
+469866	rus	Кто был на Гавайях?
+469867	epo	Kiam mi vekiĝis, mi malĝojis.
+469868	rus	Эта река в три раза длиннее другой.
+469869	rus	Он мой друг детства.
+469870	rus	Она моя подруга детства.
+469871	epo	La akvo estas poluita per oleo.
+469872	rus	Твоя школа отсюда далеко?
+469873	rus	Я постараюсь решить проблему всеми способами.
+469874	rus	Тебе следует сообщить в полицию немедленно.
+469875	rus	"Я видел это представление." - "Я тоже".
+469876	rus	Ты его знал?
+469877	rus	Ты его знала?
+469878	deu	Ist deine Schule weit von hier?
+469879	rus	Пожалуйста, позвони мне, как только сможешь.
+469880	rus	Мне приснился ужасный сон прошлой ночью.
+469881	rus	Корабль был построен за солидные деньги.
+469882	rus	Она открывает окно.

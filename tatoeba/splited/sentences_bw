@@ -1,76 +1,3 @@
-2544108	eng	I'm ready whenever you are.
-2544109	eng	I'm only three blocks away.
-2544110	eng	I'm on my way to a meeting.
-2544111	eng	I'm off to help my friends.
-2544112	eng	I'm occupied at the moment.
-2544113	eng	I'm not used to Boston yet.
-2544114	eng	I'm not trying to be funny.
-2544115	eng	I'm not that desperate yet.
-2544116	eng	I'm not talking about that.
-2544117	eng	I'm not taking any chances.
-2544118	eng	I'm not sure what you mean.
-2544119	eng	I'm not sure what it means.
-2544120	eng	I'm not sure what happened.
-2544121	eng	I'm not sure I believe you.
-2544122	eng	I'm not staying in a hotel.
-2544123	eng	I'm not so sure it was Tom.
-2544124	eng	I'm not so sure about this.
-2544125	eng	I'm not so sure about that.
-2544126	eng	I'm not really in the mood.
-2544127	eng	I'm not much of a mechanic.
-2544128	eng	I'm not leaving Tom behind.
-2544129	eng	I'm not keeping this thing.
-2544130	eng	I'm not interested in that.
-2544131	eng	I'm not going to sign this.
-2544132	eng	I'm not going to shoot you.
-2544133	eng	I'm not going to open this.
-2544134	eng	I'm not going to need that.
-2544135	eng	I'm not going to live here.
-2544136	eng	I'm not going to leave you.
-2544137	eng	I'm not going to judge you.
-2544138	eng	I'm not going to fight you.
-2544139	eng	I'm not going to blame you.
-2544140	eng	I'm not going to ask again.
-2544141	eng	I'm not doing this for you.
-2544142	eng	I'm not doing this anymore.
-2544143	eng	I'm not certain what to do.
-2544144	eng	I'm not being unreasonable.
-2544145	eng	I'm not allowed to do that.
-2544146	eng	I'm not afraid of you, Tom.
-2544147	eng	I'm not a bachelor anymore.
-2544148	eng	I'm meeting Tom in an hour.
-2544149	eng	I'm meeting Tom for dinner.
-2544150	eng	I'm looking for my glasses.
-2544151	eng	I'm living with my parents.
-2544152	eng	I'm leaving that up to you.
-2544153	eng	I'm leaving in the morning.
-2544154	eng	I'm just worried about you.
-2544155	eng	I'm just trying to be kind.
-2544156	eng	I'm just thinking out loud.
-2544157	eng	I'm just stating the facts.
-2544158	eng	I'm just going to sit here.
-2544159	eng	I'm just glad I could help.
-2544160	eng	I'm just calling to say hi.
-2544161	eng	I'm just a phone call away.
-2544162	eng	I'm just a little confused.
-2544163	eng	I'm investigating a murder.
-2544164	eng	I'm in enough pain already.
-2544165	eng	I'm hoping you can help me.
-2544166	eng	I'm here to talk about Tom.
-2544167	eng	I'm having second thoughts.
-2544168	eng	I'm handling the situation.
-2544169	eng	I'm going to work with Tom.
-2544170	eng	I'm going to win this time.
-2544171	eng	I'm going to try something.
-2544172	eng	I'm going to throw Tom out.
-2544173	eng	I'm going to throw a party.
-2544174	eng	I'm going to tell Tom that.
-2544175	eng	I'm going to take Tom home.
-2544176	eng	I'm going to stay with Tom.
-2544177	eng	I'm going to stay in today.
-2544178	eng	I'm going to set the table.
-2544179	eng	I'm going to see you later.
-2544180	eng	I'm going to see Tom again.
 2544181	eng	I'm going to open the wine.
 2544182	eng	I'm going to need a minute.
 2544183	eng	I'm going to miss you, Tom.
@@ -6582,7 +6509,6 @@
 2550793	tur	Heyecan vericiydi.
 2550794	rus	Том живёт на оживлённой улице.
 2550795	tur	Terörizmdi.
-2550796	tur	Korkunçtu.
 2550797	tur	Müthişti.
 2550800	tur	Kar yağışıydı.
 2550801	rus	Ей было девятнадцать в то время.
@@ -6608,7 +6534,6 @@
 2550821	tur	Olağanüstüydü.
 2550822	dan	Er I tilfredse med min forklaring?
 2550823	rus	Это старая книга.
-2550824	rus	Эта книга стара.
 2550825	mar	तिथे गाढ सावली असते जिथे भरपूर प्रकाश असतो.
 2550826	tur	Dışardaydı.
 2550827	tur	Bizimkiydi.
@@ -17892,7 +17817,7 @@
 2562845	eng	If you press the nose, the mouth opens.
 2562846	rus	При крушении самолёта никто не выжил.
 2562847	rus	Франция - очень красивая страна.
-2562849	hin	ना घर का ना घाट का.
+2562849	hin	ना घर का ना घाट का।
 2562850	eng	Happy to help you!
 2562851	ita	Sei molto gentile.
 2562852	rus	Я думаю, что Франция - самая красивая страна в Европе.
@@ -18593,7 +18518,7 @@
 2563602	ita	Lo conosco quel posto.
 2563603	fra	Elles se mariaient.
 2563604	ita	Io lo conosco quel posto.
-2563605	rus	Всякий, кто скажет так - лжец.
+2563605	rus	Всякий, кто скажет так, - лжец.
 2563606	fra	Tu te mêlais de ce qui ne te regardait pas.
 2563607	rus	Он окончательно спятил?
 2563608	rus	Он совсем сошёл с ума?
@@ -25232,7 +25157,7 @@
 2570694	deu	Wer auf sich sieht, strahlt nicht in die Welt.
 2570695	fin	Haluan lukea tämän kirjan.
 2570696	deu	Wer sich selbst rühmt, kann nicht gewinnen.
-2570697	deu	Wer unbeirrbar seine Platz behauptet, ist dauerhaft.
+2570697	deu	Wer unbeirrbar seinen Platz behauptet, ist dauerhaft.
 2570698	fin	Sumun tähden kone on ohjattu Muncheniin.
 2570699	fin	Kuulin että saattaisi sataa lunta.
 2570700	uig	سورا-ھە!
@@ -26610,7 +26535,7 @@
 2572138	epo	Ili lasis siajn pluvombrelojn en la buso.
 2572139	tur	Terfi ettim.
 2572140	deu	Ich habe nur zwanzig Euro.
-2572141	epo	Tom perdis sian pluvombrelon.
+2572141	epo	Tomo perdis sian pluvombrelon.
 2572142	tur	Sinirlendim.
 2572143	tur	Evlendim.
 2572144	epo	Ili fermis siajn pluvombrelojn kaj ekkuris.
@@ -31791,7 +31716,7 @@
 2577590	por	É minha vez.
 2577591	por	A polícia o seguiu para Paris.
 2577592	eng	There are no secrets except the secrets that keep themselves.
-2577593	eng	When Tom described me Mary's appearance, he "omitted" the fact that she is very very fat!
+2577593	eng	When Tom described Mary's appearance to me, he omitted the fact that she is very, very fat!
 2577594	deu	Es gibt keine Geheimnisse außer jenen, die sich selber hüten.
 2577595	eng	Conceive. That is the word that means both the beginning in imagination and the end in creation.
 2577596	eng	Everything happens to everybody sooner or later if there is time enough.
@@ -44611,7 +44536,7 @@
 2591155	tur	Terk edemeyiz.
 2591156	tur	Gidemeyiz.
 2591157	tur	Kaçamayız.
-2591158	tur	Devam edemeyiz.
+2591158	tur	Katılamayız.
 2591161	rus	Мы можем попытаться.
 2591162	jbo	mi'ai ka'e troci
 2591163	tur	Konuşabiliriz.
@@ -49998,3 +49923,78 @@
 2596913	rus	И твоя мама тоже.
 2596914	fra	J'expliquerai tout plus tard.
 2596915	fra	Je l'expliquerai en entier plus tard.
+2596916	fra	Je réfléchirai à quelque chose.
+2596917	rus	Я хочу продлить моё пребывание здесь ещё на несколько дней.
+2596918	fra	Je trouverai mon propre chemin de retour.
+2596919	tur	Bak! Kar yağıyor.
+2596920	fra	Je le découvrirai bien assez tôt.
+2596921	fra	Je vous préparerai une tasse de thé.
+2596922	fra	Je te préparerai une tasse de thé.
+2596924	fra	Je vous reconduirai chez vous.
+2596925	fra	Je vous reconduirai chez nous.
+2596926	rus	Для учителя учить её было весело.
+2596927	fra	Je te reconduirai chez toi.
+2596928	fra	Je te reconduirai chez nous.
+2596929	fra	Je vais aller chercher votre manteau.
+2596930	fra	Je vais aller chercher ton manteau.
+2596931	fra	J'irai où vous voulez.
+2596932	fra	J'irai où tu veux.
+2596933	fra	Je vais aller prendre une douche maintenant.
+2596934	rus	Мы положили в сумку фрукты и овощи.
+2596935	fra	Je vais le conserver pour l'instant.
+2596936	fra	Je vais la conserver pour l'instant.
+2596937	rus	Он не хотел продавать книгу.
+2596938	fra	Je devrai le faire moi-même.
+2596939	fra	Je vous rejoindrai dans un moment.
+2596940	fra	Je te rejoindrai dans un moment.
+2596941	rus	Этого пока что будет достаточно.
+2596942	fra	Je vous y rejoindrai plus tard.
+2596943	fra	Je t'y rejoindrai plus tard.
+2596944	rus	Этого хватит на данный момент.
+2596945	fra	Je vais simplement vous aider à démarrer.
+2596946	rus	На самом деле я не очень хорошо спал.
+2596947	fra	Je vais simplement t'aider à démarrer.
+2596948	rus	Эта фотография - моя любимая!
+2596949	fra	Je vous tuerai tous les deux.
+2596950	rus	Это фото - моё любимое!
+2596951	fra	Je vous tuerai toutes les deux.
+2596952	fra	Je laisserai ça à vos soins.
+2596953	fra	Je laisserai ça à tes soins.
+2596954	deu	Es ist tiefste Nacht.
+2596955	rus	Глядя в окно, я увидел приближающуюся машину.
+2596956	fra	Je vais préparer une cafetière.
+2596957	fra	Je vous rendrai fier de moi.
+2596958	fra	Je te rendrai fier de moi.
+2596959	deu	Tom hinkt jetzt.
+2596960	fra	Je vous rendrai fière de moi.
+2596961	fra	Je te rendrai fière de moi.
+2596962	fra	Je vous rendrai fières de moi.
+2596963	fra	Je vous rendrai fiers de moi.
+2596964	deu	Sie scheint das Geheimnis gekannt zu haben.
+2596965	fra	Je vous ferai du café.
+2596966	fra	Je te ferai du café.
+2596967	fra	J'aurai besoin que vous soyez là.
+2596968	fra	J'aurai besoin que tu sois là.
+2596969	rus	Он рядом.
+2596970	deu	Leih mir dein Fahrrad!
+2596971	rus	Она рядом.
+2596972	rus	Оно рядом.
+2596973	fra	Je ne serai jamais aussi connu.
+2596974	fra	Je ne serai jamais aussi connue.
+2596975	fra	Je ne vous comprendrai jamais.
+2596976	fra	Je ne te comprendrai jamais.
+2596977	deu	Ohne bemerkt zu werden, ging ich hinter ihm vorbei.
+2596978	rus	Что мне следует надеть поверх свитера?
+2596979	fra	Je vais le répéter une fois de plus.
+2596981	rus	Том выглядит довольным.
+2596982	rus	Погода не будет хорошей.
+2596983	deu	Was meinst du, wie lange braucht man zum Flughafen?
+2596984	fra	Je verrai ce qui est possible.
+2596985	fra	Je te verrai à la fête.
+2596986	fra	Je vous verrai à la fête.
+2596987	fra	Je te verrai à la soirée.
+2596988	fra	Je vous verrai à la soirée.
+2596989	rus	Том мало что помнит о том, что произошло в тот день.
+2596990	deu	Er gab keine spezielle Erklärung für sein merkwürdiges Verhalten.
+2596991	fra	Je vais vous montrer la sortie.
+2596992	fra	Je vais te montrer la sortie.

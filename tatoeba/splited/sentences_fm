@@ -1,191 +1,3 @@
-7486484	ber	Anda ay t-teǧǧam?
-7486485	ber	Anda ay t-teǧǧamt?
-7486486	ber	Anda ay t-ǧǧan?
-7486487	ber	Anda ay t-ǧǧant?
-7486488	ber	Anda ay tt-yeǧǧa?
-7486489	ber	Anda ay tt-teǧǧa?
-7486490	ber	Anda ay tt-yeǧǧa Yidir?
-7486491	ber	Anda ay tt-teǧǧa Taninna?
-7486492	ber	Anda ay tt-teǧǧam?
-7486493	ber	Anda ay tt-teǧǧamt?
-7486494	ber	Anda ay tt-ǧǧan?
-7486495	ber	Sanda ay t-yerra?
-7486496	ber	Sanda ay t-terra?
-7486497	eng	Where did she put it?
-7486498	ber	Sanda ay t-yerra Yidir?
-7486499	ber	Sanda ay t-terra Taninna?
-7486500	ber	Sanda ay t-terram?
-7486501	ber	Sanda ay t-terramt?
-7486502	ber	Sanda ay t-rran?
-7486503	ber	Sanda ay t-rrant?
-7486504	ber	Sanda ay tt-yerra?
-7486505	ber	Sanda ay tt-terra?
-7486506	ber	Sanda ay tt-yerra Yidir?
-7486507	ber	Sanda ay tt-terra Taninna?
-7486508	ber	Sanda ay tt-terram?
-7486509	ber	Sanda ay tt-terramt?
-7486510	ber	Sanda ay tt-rran?
-7486511	ber	Sanda ay tt-rrant?
-7486512	ber	Anda ay d-yufa wi?
-7486513	ber	Anda ay d-tufa ti?
-7486514	eng	Where did she find these?
-7486515	ber	Anda ay d-yufa Yidir wi?
-7486516	ber	Anda ay d-tufa Taninna wi?
-7486517	ber	Anda ay d-tufam wi?
-7486518	ber	Anda ay d-tufamt wi?
-7486519	ber	Anda ay d-ufan wi?
-7486520	ber	Anda ay d-ufant wi?
-7486521	ber	Anda ay d-yufa ti?
-7486522	ber	Anda ay d-yufa Yidir ti?
-7486523	ber	Anda ay d-tufa Taninna ti?
-7486524	ber	Anda ay d-tufam ti?
-7486525	ber	Anda ay d-tufamt ti?
-7486526	ber	Anda ay d-ufan ti?
-7486527	ber	Anda ay d-ufant ti?
-7486528	ber	Anda ay yeɣra aya?
-7486529	ber	Anda ay teɣra aya?
-7486530	eng	Where did she read that?
-7486531	ber	Anda ay yeɣra Yidri aya?
-7486532	ber	Anda ay teɣra Taninna aya?
-7486533	ber	Anda ay teɣram aya?
-7486534	ber	Anda ay teɣramt aya?
-7486535	ber	Anda ay ɣran aya?
-7486536	ber	Anda ay ɣrant aya?
-7486537	ber	Anda ay d-yesɛedda takurmut?
-7486538	ber	Anda ay d-tesɛedda takurmut?
-7486539	eng	Where did she do time?
-7486540	ber	Anda ay d-yesɛedda Yidir takurmut?
-7486541	ber	Anda ay d-tesɛedda Taninna takurmut?
-7486542	ber	Anda ay d-tesɛeddam takurmut?
-7486543	ber	Anda ay d-tesɛeddamt takurmut?
-7486544	ber	Anda ay d-sɛeddan takurmut?
-7486545	ber	Anda ay d-sɛeddant takurmut?
-7486546	ber	Sanda ay tuzned Yidir?
-7486547	ber	Sanda ay yuzen Yidir?
-7486548	ber	Sanda ay tuzen Yidir?
-7486549	eng	Where did she send Yidir?
-7486550	ber	Sanda ay yuzen Yuba Yidir?
-7486551	ber	Sanda ay tuzen Taninna Yidir?
-7486552	ber	Sanda ay tuznem Yidir?
-7486553	ber	Sanda ay tuznemt Yidir?
-7486554	ber	Sanda ay uznen Yidir?
-7486555	ber	Sanda ay uznent Yidir?
-7486556	ber	Anda ay t-yeffer?
-7486557	ber	Anda ay t-teffer?
-7486558	eng	Where did she hide it?
-7486559	ber	Anda ay t-yeffer Yidir?
-7486560	ber	Anda ay t-teffer Taninna?
-7486561	ber	Anda ay t-teffrem?
-7486562	ber	Anda ay t-teffremt?
-7486563	ber	Anda ay t-ffren?
-7486564	ber	Anda ay t-ffrent?
-7486565	ber	Anda ay tt-yeffer?
-7486566	ber	Anda ay tt-teffer?
-7486567	ber	Anda ay tt-yeffer Yidir?
-7486568	ber	Anda tt-teffer Taninna?
-7486569	ber	Anda ay tt-teffrem?
-7486570	ber	Anda ay tt-teffremt?
-7486571	ber	Anda ay tt-ffren?
-7486572	ber	Anda ay tt-ffrent?
-7486573	ber	Sanda ay iguǧǧ?
-7486574	ber	Sanda ay tguǧǧ?
-7486575	eng	Where did she move to?
-7486576	ber	Sanda ay iguǧǧ Yidir?
-7486577	ber	Sanda ay tguǧǧ Taninna?
-7486578	ber	Sanda ay tguǧǧem?
-7486579	ber	Sanda ay guǧǧen?
-7486580	ber	Sanda ay guǧǧent?
-7486581	ber	Sanda ay ten-yewwi?
-7486582	ber	Sanda ay ten-tewwi?
-7486583	eng	Where did she take them?
-7486584	ber	Sanda ay ten-yewwi Yidir?
-7486585	ber	Sanda ay ten-tewwi Taninna?
-7486586	ber	Sanda ay ten-tewwim?
-7486587	ber	Sanda ay ten-tewwimt?
-7486588	ber	Sanda ay ten-wwin?
-7486589	ber	Sanda ay ten-wwint?
-7486590	ber	Sanda ay tent-yewwi?
-7486591	ber	Sanda ay tent-tewwi?
-7486592	ber	Sanda ay tent-yewwi Yidir?
-7486593	ber	Sanda ay tent-tewwi Taninna?
-7486594	ber	Sanda ay tent-tewwim?
-7486595	ber	Sanda ay tent-tewwimt?
-7486596	ber	Sanda ay tent-wwin?
-7486597	ber	Sanda ay tent-wwint?
-7486598	ber	Sanda ay ten-yuzen?
-7486599	ber	Sanda ay ten-tuzen?
-7486600	eng	Where did she send them?
-7486601	ber	Sanda ay ten-yuzen Yidri?
-7486602	ber	Sanda ay ten-tuzen Taninna?
-7486603	ber	Sanda ay ten-tuznem?
-7486604	ber	Sanda ay ten-tuznemt?
-7486605	ber	Sanda ay ten-uznen?
-7486606	ber	Sanda ay ten-uznent?
-7486607	ber	Sanda ay tent-yuzen?
-7486608	ber	Sanda ay tent-tuzen?
-7486609	ber	Sanda ay tent-yuzen Yidir?
-7486610	ber	Sanda ay tent-tuzen Taninna?
-7486611	ber	Sanda ay tent-tuznem?
-7486612	ber	Sanda ay tent-tuznemt?
-7486613	ber	Sanda ay tent-uznen?
-7486614	ber	Sanda ay tent-uznent?
-7486615	ber	Sanda ay t-yuzen?
-7486616	ber	Sanda ay t-yuzen Yidir?
-7486617	ber	Sanda ay t-tuzen?
-7486618	eng	Where did she send him?
-7486619	ber	Sanda ay t-tuzen Taninna?
-7486620	ber	Sanda ay t-tuznem?
-7486621	ber	Sanda ay t-tuznemt?
-7486622	ber	Sanda ay t-uznen?
-7486623	ber	Sanda ay t-uznent?
-7486624	ber	Sanda ay tt-yuzen?
-7486625	eng	Where did she send her?
-7486626	ber	Sanda ay tt-tuzen?
-7486627	ber	Sanda ay tt-yuzen Yidir?
-7486628	ber	Sanda ay tt-tuzen Taninna?
-7486629	ber	Sanda ay tt-tuznem?
-7486630	ber	Sanda ay tt-tuznemt?
-7486631	ber	Sanda ay tt-uznen?
-7486632	ber	Sanda ay tt-uznent?
-7486633	ber	Anda ay t-yeẓra?
-7486634	ber	Anda ay t-teẓra?
-7486635	eng	Where did she see him?
-7486636	ber	Anda ay t-yeẓra Yidir?
-7486637	ber	Anda ay t-teẓra Taninna?
-7486638	ber	Anda ay t-ẓran?
-7486639	ber	Anda ay t-ẓrant?
-7486640	ber	Anda ay yeẓra Yidir?
-7486641	ber	Anda ay teẓrid Yidir?
-7486642	ber	Anda ay teẓra Yidir?
-7486643	ber	Anda ay yeẓra Yuba Yidir?
-7486644	ber	Anda ay teẓra Taninna Yidir?
-7486645	ber	Anda ay teẓram Yidir?
-7486646	ber	Anda ay teẓramt Yidir?
-7486647	ber	Anda ay ẓran Yidir?
-7486648	ber	Anda ay ẓrant Yidir?
-7486649	ber	Sanda ay yewweḍ?
-7486650	ber	Sanda ay tewweḍ
-7486651	eng	Where did she get to?
-7486652	ber	Sanda ay yewweḍ Yidir?
-7486653	ber	Sanda ay tewweḍ Taninna?
-7486654	ber	Sanda ay wwḍen?
-7486655	ber	Sanda ay wwḍent?
-7486656	ber	Anda ay yečča imekli?
-7486657	ber	Anda ay tečča imekli?
-7486658	eng	Where did she eat lunch?
-7486659	ber	Anda ay yečča Yidir imekli?
-7486660	ber	Anda ay tečča Taninna imekli?
-7486661	ber	Anda ay teččam imekli?
-7486662	ber	Anda ay teččamt imekli?
-7486663	ber	Anda ay ččan imekli?
-7486664	ber	Anda ay ččant imekli?
-7486665	ber	Anda ay tzerwed tamaziɣt?
-7486666	ber	Anda ay yezrew tamaziɣt?
-7486667	ber	Anda ay tezrew tamaziɣt?
-7486668	eng	Where did she study Tamazight?
-7486669	ber	Anda ay yezrew Yidir tamaziɣt?
-7486670	ber	Anda ay tezrew Taninna tamaziɣt?
-7486671	ber	Anda ay tzerwem tamaziɣt?
 7486672	ber	Anda ay tzerwemt tamaziɣt?
 7486673	ber	Anda ay zerwen tamaziɣt?
 7486674	ber	Anda ay zerwent tamaziɣt?
@@ -1465,7 +1277,7 @@
 7487953	lat	Hic erravi fateor, sed hoc consolatur me, quod mercator habetur bonus vir, utpote evangelicæ professionis.
 7487954	deu	Wir haben den Patienten im Krankenzimmer nicht angetroffen.
 7487955	nld	Een koe geeft ons melk.
-7487956	kab	Iṭij meqqer azal umelyun iberdan ɣef Lqaεa.
+7487956	kab	Iṭij i meqqer s wazal umelyun imuren ɣef Lqaεa.
 7487957	nld	De koeien eten gras.
 7487958	nld	De koeien zijn gras aan het eten.
 7487959	kab	Nwerreq-iten.
@@ -2510,26 +2322,26 @@
 7489562	rus	Он слушал музыку у себя в комнате.
 7489563	rus	Сегодня я поеду в аэропорт.
 7489564	rus	Я поеду в аэропорт.
-7489565	kab	Aɣerbaz-nneɣ yuḍen.
+7489565	ber	Aɣerbaz-nneɣ yuḍen.
 7489567	rus	Я не поеду в аэропорт.
 7489568	fra	Notre école est malade.
-7489569	kab	D yiwen n uqcic yettaɣen awal.
+7489569	ber	D yiwen n uqcic yettaɣen awal.
 7489570	fra	C’est un enfant obéissant.
-7489571	kab	Ur yettaweḍ ara.
+7489571	ber	Ur yettaweḍ ara.
 7489572	rus	Куда мы едем?
 7489573	rus	Куда ты меня везёшь?
 7489574	rus	Куда вы меня везёте?
 7489575	fra	Il ne cherche pas querelle.
-7489576	kab	Ur iteffeɣ ara deg yiḍ.
+7489576	ber	Ur iteffeɣ ara deg yiḍ.
 7489577	fra	Il ne sort pas la nuit.
 7489578	kab	D lεib fell-as i yukren tamɣart.
 7489579	kab	Wissen ma s tidet d agacur.
 7489580	kab	Wissen ma s tidet d asamma.
-7489581	kab	Ur yettɣullu yiwen.
+7489581	ber	Ur yettɣullu yiwen.
 7489582	fra	Il ne refuse rien à personne.
 7489583	rus	Том думает, что Мэри умеет плавать?
 7489584	kab	Ɣur-k astilu azeggaɣ?
-7489585	kab	Ur iḥeqqer yiwen.
+7489585	ber	Ur iḥeqqer yiwen.
 7489586	kab	Ɣur-m astilu azeggaɣ?
 7489587	rus	Он никому ни в чём не отказывает.
 7489588	kab	Tesεiḍ imru azeggaɣ?
@@ -2538,36 +2350,36 @@
 7489591	rus	Она очень хороший человек.
 7489592	rus	Ты очень хороший человек.
 7489593	rus	Вы очень хороший человек.
-7489594	kab	Yufa-tt tettheggi iman-is ad truḥ s amahil.
+7489594	ber	Yufa-tt tettheggi iman-is ad truḥ s amahil.
 7489595	kab	Sliɣ-as yeffeɣ.
 7489596	rus	Он никого не презирает.
 7489597	fra	Il l’a trouvée en train de se préparer à aller au travail.
-7489598	kab	Yufa-iyi-d ttheggiɣ iman-iw ad ruḥeɣ s amahil.
+7489598	ber	Yufa-iyi-d ttheggiɣ iman-iw ad ruḥeɣ s amahil.
 7489599	fra	Il m’a trouvé en train de me préparer à aller au travail.
 7489600	rus	Подписываюсь под каждым словом.
 7489601	rus	Я готов подписаться под каждым словом.
-7489602	kab	Yufa-t yettheggi iman-is ad iruḥ s amahil.
+7489602	ber	Yufa-t yettheggi iman-is ad iruḥ s amahil.
 7489603	fra	Il l’a trouvé en train de se préparer à aller au travail.
-7489604	kab	Yufa-k tettheggiḍ iman-ik ad truḥeḍ s amahil.
+7489604	ber	Yufa-k tettheggiḍ iman-ik ad truḥeḍ s amahil.
 7489605	fra	Il t’a trouvé en train de te préparer à aller au travail.
-7489606	kab	Yufa-kem tettheggiḍ iman-im ad truḥ s amahil.
+7489606	ber	Yufa-kem tettheggiḍ iman-im ad truḥ s amahil.
 7489607	fra	Il t’a trouvée en train de te préparer à aller au travail.
-7489608	kab	Yufa-aɣ-d nettheggi iman-nneɣ ad nruḥ s amahil.
+7489608	ber	Yufa-aɣ-d nettheggi iman-nneɣ ad nruḥ s amahil.
 7489609	fra	Il nous a trouvés en train de nous préparer à aller au travail.
 7489610	kab	Walaɣ yella ḥedd i d-iteddun metwal-iw.
 7489611	rus	Он не ищет ссоры.
-7489612	kab	Yufa-ken tettheggim iman-nwen ad truḥem s amahil.
+7489612	ber	Yufa-ken tettheggim iman-nwen ad truḥem s amahil.
 7489613	kab	Ur teεriḍeḍ ara ad d-tawiḍ ssḍa-ya s ugiṭar?
 7489614	fra	Il vous a trouvés en train de vous préparer à aller au travail.
 7489615	rus	Я не верю ни одному сказанному Томом слову.
-7489616	kab	Yufa-kent tettheggimt iman-nkent ad truḥemt s amahil.
+7489616	ber	Yufa-kent tettheggimt iman-nkent ad truḥemt s amahil.
 7489617	fra	Il vous a trouvées en train de vous préparer à aller au travail.
 7489618	lat	"Ego quoque precor idem; nec solum nobis, sed omnibus piis." "Facis ut decet pium puerum."
-7489619	kab	Yufa-ten ttheggin iman-nsen ad ruḥen s amahil.
+7489619	ber	Yufa-ten ttheggin iman-nsen ad ruḥen s amahil.
 7489620	rus	Он предложил какое-то новое решение?
 7489621	por	"Eu também desejo a mesma coisa, e não apenas para nós, mas para todos os fiéis." "Tu fazes o que se espera de um garoto religioso."
 7489622	fra	Il les a trouvés en train de se préparer à aller au travail.
-7489623	kab	Yufa-tent ttheggint iman-nsent ad ruḥent s amahil.
+7489623	ber	Yufa-tent ttheggint iman-nsent ad ruḥent s amahil.
 7489624	fra	Il les a trouvées en train de se préparer à aller au travail.
 7489625	epo	"Ankaŭ mi deziras la samon, kaj ne nur por ni, sed por ĉiuj fideluloj." "Vi agas kiel konvenas al pia knabo."
 7489626	rus	Зря ты доверил Тому такое важное дело.
@@ -2582,30 +2394,30 @@
 7489635	rus	Ты вообще не изменился.
 7489636	rus	Ты вообще не изменилась.
 7489637	rus	Вы вообще не изменились.
-7489638	kab	Qqim dagi!
+7489638	ber	Qqim dagi!
 7489639	kab	Yiwen n lemri yif akk amazrar n ttṣawer n lejdud.
 7489640	fra	Reste ici!
 7489641	rus	Больше мы не встречались.
-7489642	kab	Ur ttruḥu ara.
+7489642	ber	Ur ttruḥu ara.
 7489643	fra	Ne t'en va pas.
 7489644	kab	Lekdeb yettawi-d wayeḍ.
 7489645	fra	Ne l’écoute pas.
 7489646	kab	S wacu i k-d-wtent?
-7489647	kab	Ur as-smuzgut ara.
-7489648	kab	Anef-as ad yehder.
+7489647	ber	Ur as-smuzgut ara.
+7489648	ber	Anef-as ad yehder.
 7489649	kab	Acu-tt tuzegt-ik?
 7489651	fra	Souviens-toi de lui.
-7489652	kab	Snemmer-it.
+7489652	ber	Snemmer-it.
 7489653	fra	Remercie-le.
-7489654	kab	Yefka afus deg-s.
+7489654	ber	Yefka afus deg-s.
 7489655	fra	Il l’a trahi.
-7489656	kab	Yettarra-tt kan i lekdubad.
+7489656	ber	Yettarra-tt kan i lekdubad.
 7489657	fra	Il ne fait que mentir.
 7489658	rus	Он только и делает, что врёт.
 7489659	rus	Он его предал.
 7489660	kab	Bezzaf d tamadwant tiẓri ɣer ɣur-i.
 7489661	rus	Поблагодари его.
-7489662	kab	Leɛmer i d-yenna tidet.
+7489662	ber	Leɛmer i d-yenna tidet.
 7489664	rus	Скажи ему спасибо.
 7489665	fra	Il n'a jamais dit la vérité.
 7489666	rus	Поблагодарите его.
@@ -5117,14 +4929,14 @@
 7492193	kab	Seg ilindi nekk ttruḥeɣ yal ssebt ɣer temsirin n lebni n yiqbac.
 7492194	fra	Marie a essayé de me donner un baiser.
 7492195	fra	Marie a essayé de m'embrasser.
-7492196	kab	Anef-as kan i tinna.
-7492197	kab	Ala, ur nennuɣ ur neqqim.
-7492198	kab	Yura-asen tabrat.
+7492196	ber	Anef-as kan i tinna.
+7492197	ber	Ala, ur nennuɣ ur neqqim.
+7492198	ber	Yura-asen tabrat.
 7492199	fra	Il leur a écrit une lettre.
-7492200	kab	Yura-asent tabrat.
+7492200	ber	Yura-asent tabrat.
 7492201	rus	Он написал им письмо.
 7492202	eng	He works at the European Central Bank.
-7492203	kab	Yura-awen tabrat.
+7492203	ber	Yura-awen tabrat.
 7492204	rus	Мы посмотрели в окно, но ничего не увидели.
 7492205	rus	Мир его не признал.
 7492206	rus	Том у нас непризнанный гений.
@@ -5132,43 +4944,43 @@
 7492208	rus	Я почти каждый день говорю по-китайски.
 7492209	eng	If I were you, I would walk.
 7492210	fra	Il vous a écrit une lettre.
-7492211	kab	Yura-awent tabrat.
+7492211	ber	Yura-awent tabrat.
 7492212	rus	Он написал вам письмо.
 7492213	rus	Он пишет мне письма.
-7492214	kab	Yura-iyi-d tabrat.
+7492214	ber	Yura-iyi-d tabrat.
 7492215	rus	Она пишет мне письма.
 7492216	rus	Мы пишем друг другу письма.
 7492217	fra	Il m’a écrit une lettre.
-7492218	kab	Yura-aɣ-d tabrat.
+7492218	ber	Yura-aɣ-d tabrat.
 7492219	fra	Il nous a écrit une lettre.
-7492220	kab	Tura-as tabrat.
+7492220	ber	Tura-as tabrat.
 7492221	rus	Он написал нам письмо.
 7492222	fra	Elle lui a écrit une lettre.
 7492223	rus	Она написала мне письмо.
 7492224	fra	Elle m'a écrit une lettre.
 7492225	rus	Она написала ему письмо.
 7492226	rus	Она написала ей письмо.
-7492227	kab	Tura-asen tabrat.
+7492227	ber	Tura-asen tabrat.
 7492228	rus	У тебя классная мама.
 7492229	fra	Elle leur a écrit une lettre.
 7492230	rus	У вас классная мама.
-7492231	kab	Uriɣ-as tabrat.
+7492231	ber	Uriɣ-as tabrat.
 7492232	rus	Она написала им письмо.
 7492233	fra	Je lui ai écrit une lettre.
 7492234	fra	Il lui a écrit une lettre.
 7492235	rus	Он написал ему письмо.
-7492236	kab	Uriɣ-asen tabrat.
+7492236	ber	Uriɣ-asen tabrat.
 7492237	rus	Он написал ей письмо.
 7492238	fra	Je leur ai écrit une lettre.
-7492239	kab	Uriɣ-asent tabrat.
-7492240	kab	Uriɣ-awen tabrat.
+7492239	ber	Uriɣ-asent tabrat.
+7492240	ber	Uriɣ-awen tabrat.
 7492241	fra	Je vous ai écrit une lettre.
-7492242	kab	Uriɣ-awent tabrat.
-7492243	kab	Uriɣ-ak-n tabrat.
+7492242	ber	Uriɣ-awent tabrat.
+7492243	ber	Uriɣ-ak-n tabrat.
 7492244	rus	Он похож на врача?
 7492245	fra	Je t’ai écrit une lettre.
 7492246	rus	Он был похож на врача?
-7492247	kab	Uriɣ-am-n tabrat.
+7492247	ber	Uriɣ-am-n tabrat.
 7492249	rus	Он похож на доктора?
 7492250	kab	Yura-yi-d tabrat.
 7492251	kab	Tura-yi-d tabrat.
@@ -5200,7 +5012,7 @@
 7492278	kab	Ad cfuɣ fell-akent.
 7492279	kab	Ad cfuɣ ɣef lecɣal-is.
 7492280	kab	Ad cfuɣ ɣef lecɣal-nsen.
-7492281	kab	Yeḥmmel aṭas tilelli.
+7492281	ber	Yeḥmmel aṭas tilelli.
 7492282	kab	Ad cfuɣ ɣef lecɣal-nsent.
 7492283	kab	Ad ɛeddiɣ ar wexxam.
 7492284	kab	Ad tɛeddiḍ ar wexxam.
@@ -5216,10 +5028,10 @@
 7492294	kab	Ad tkecmemt ar wexxam.
 7492295	kab	Ad ikcem ar wexxam.
 7492296	rus	Я думаю, Поль - мой друг.
-7492297	kab	Amer ittaf ala talwit ara yilin deg ddunit.
+7492297	ber	Amer ittaf ala talwit ara yilin deg ddunit.
 7492298	kab	Ad tekcem ar wexxam.
 7492299	kab	Ad kecmen ar wexxam.
-7492300	kab	Ad kecment ar wexxam.
+7492300	kab	Ad kecment ɣer wexxam.
 7492301	kab	Ad iffeɣ seg uxxam.
 7492302	kab	Ad teffeɣ seg uxxam.
 7492303	kab	Ad ffɣen seg uxxam.
@@ -5229,14 +5041,14 @@
 7492307	kab	Ad teffɣem seg uxxam.
 7492308	kab	Ad teffɣemt seg uxxam.
 7492309	fra	Il souhaite que la paix règne dans le monde.
-7492310	kab	Ulac i yifen talwit.
+7492310	ber	Ulac i yifen talwit.
 7492311	kab	Ad d-yaɣ ayefki.
 7492312	kab	Ad d-taɣ ayefki.
 7492313	kab	Ad d-aɣen ayefki.
 7492314	kab	Ad d-aɣent ayefki.
 7492315	kab	Ad d-taɣem ayefki.
 7492316	kab	Ad d-taɣemt ayefki.
-7492317	fra	Il n'y'a pas meilleur que la paix.
+7492317	fra	Il n'y a pas meilleur que la paix.
 7492318	kab	Yeznuzay ayefki.
 7492319	kab	Teznuzay ayefki.
 7492320	kab	Znuzayen ayefki.
@@ -5244,7 +5056,7 @@
 7492322	kab	Znuzayeɣ ayefki.
 7492323	kab	Neznuzay ayefki.
 7492324	kab	Teznuzayem ayefki.
-7492325	kab	Anida akka i tetteddu talsa-agi.?
+7492325	ber	Anida akka i tetteddu talsa-agi.?
 7492326	kab	Teznuzayemt ayefki.
 7492327	kab	Cfiɣ fell-am.
 7492328	kab	Anda akk i teffɣeḍ?
@@ -9467,18 +9279,18 @@
 7496595	slk	Milujem Francúzsko.
 7496596	rus	В наше время большинство людей не понимает, что такое дружба.
 7496597	hun	Franciaország, szeretlek.
-7496598	kab	Lmut yiwet, ma d ssebbat aṭas.
+7496598	ber	Lmut yiwet, ma d ssebbat aṭas.
 7496599	fra	Une seule mort, mais plusieurs causes.
 7496600	hun	Az édesanyámat még mindig mamának hívom.
-7496601	kab	Anda i teddiḍ ad dduɣ.
+7496601	ber	Anda i teddiḍ ad dduɣ.
 7496602	fra	Là où tu vas, je viens.
 7496603	rus	Ты всё, что меня волнует в этой жизни.
 7496604	rus	Вы всё, что меня волнует в этой жизни.
-7496606	kab	Leǧyub-nsen ttaččaren-ten, s tidi n wid i ttɣullun.
+7496606	ber	Leǧyub-nsen ttaččaren-ten, s tidi n wid i ttɣullun.
 7496607	kab	Ur yewjid ara.
 7496608	fra	Ils remplissent leurs poches du travail des humbles gens.
 7496609	eng	Yet again, Tom was passed over for a promotion even though he was the most qualified candidate.
-7496610	kab	Taḍsa ḍsan-tt, s yimeṭṭi n widak yettrun.
+7496610	ber	Taḍsa ḍsan-tt, s yimeṭṭi n widak yettrun.
 7496611	fra	Des rires fusant dans le ciel, des pleurs des pauvres gens.
 7496612	cat	Soc de París, França.
 7496613	kab	Tessḥeqreḍ Tom.
@@ -9487,7 +9299,7 @@
 7496616	nld	Weten jullie hoe ik daar kan komen?
 7496617	nld	Weet u hoe ik daar kan komen?
 7496618	kab	Llant dehhunt.
-7496619	kab	Tamezduɣt mi ara tt-zedɣen, deg yixxamen n wid i neffun,ulac lbaṭel am wa.
+7496619	ber	Tamezduɣt mi ara tt-zedɣen, deg yixxamen n wid i neffun,ulac lbaṭel am wa.
 7496620	rus	Почему компьютеры такие умные? Потому что слушают свою материнскую плату.
 7496621	nld	Je spreekt heel goed Frans.
 7496622	nld	U spreekt heel goed Frans.
@@ -9603,7 +9415,7 @@
 7496733	rus	Мэри точно знает, чего хочет.
 7496734	kab	Yessken-aɣ-d kra n tewlafin.
 7496735	kab	Yessken-aɣ-d kra n ttṣawer.
-7496736	kab	Teḥsa Mary d akken ur tufiḍ d acu ara s-iruḥen.
+7496736	ber	Teḥsa Mary d akken ur tufiḍ d acu ara s-iruḥen.
 7496737	rus	Мэри знает, как сильно Том её любит.
 7496738	rus	Мэри знает, что ей здесь не рады.
 7496739	kab	Marie tella telha-d daɣen d iɣersiwen.
@@ -9615,7 +9427,7 @@
 7496745	rus	Остались самые стойкие.
 7496746	kab	Ur ttuqadreɣ ara.
 7496747	rus	Мэри знает, что будет делать.
-7496748	kab	Anda akka i yufa Tom taxatemt-a?
+7496748	ber	Anda akka i yufa Tom taxatemt-a?
 7496749	rus	У него развито логическое мышление.
 7496750	rus	Мэри знает, что ищет.
 7496751	por	A que horas você abre?
@@ -9634,7 +9446,7 @@
 7496764	ita	Ricordate questo ponte?
 7496765	fra	Tom, où a-t-il acheté cette chemise?
 7496766	kab	Kra n teflukin atent-a deg ugelmim.
-7496767	kab	Anda akka i d-yuɣ Tom taqemǧet-a?
+7496767	ber	Anda akka i d-yuɣ Tom taqemǧet-a?
 7496768	hun	Vannak azok, akikre szükségem van, vannak azok, akiket szeretek, és vannak olyanok, mint te, akikre azért van szükségem, mert szeretem őket.
 7496769	kab	Ddem kra n lgaṭu deg leεnaya-m.
 7496770	ita	Questo ponte è a New York.
@@ -10847,12 +10659,12 @@
 7497997	toki	tenpo mute la jan Ton li tawa kepeken tomo tawa tan ni: ona li wile jo e ma lili pi tomo tawa.
 7497998	kab	Idles-inek d aqbayli.
 7497999	kab	Idles-inem d aqbayli.
-7498000	fra	On en prend une autre!
+7498000	fra	On en prend une autre !
 7498001	ber	Taninna tcennu.
 7498002	kab	Idles-nwen d aqbayli.
 7498003	kab	Ur lliɣ ara wejdeɣ i wayen ara d-yeḍrun.
 7498004	kab	Idles-nkent d aqbayli.
-7498005	fra	On en prend un autre!
+7498005	fra	On en prend un autre !
 7498006	eng	She sneezed.
 7498007	ber	Teɛḍes Taninna.
 7498008	toki	jan Ton li pona ala tawa kepeken.
@@ -17864,7 +17676,7 @@
 7505039	eng	It was clear Tom was expecting you to do that for Mary.
 7505040	eng	It was clear Tom was expecting Mary to do that for him.
 7505041	eng	It was clear Tom and Mary were in love with each other.
-7505042	eng	I've never loved anybody as much as much as I love Tom.
+7505042	eng	I've never loved anybody as much as I love Tom.
 7505043	eng	I've begun to realize that isn't very likely to happen.
 7505044	eng	I'm pretty sure Tom didn't know I was going to do that.
 7505045	eng	I'm pretty sure Tom didn't know I was going to be here.
@@ -23872,7 +23684,7 @@
 7511058	eng	I hope that you won't take this the wrong way.
 7511059	eng	I hope that you have a good time at the party.
 7511060	eng	I hope that you enjoy yourselves this evening.
-7511061	eng	I hope that we didn't make the right decision.
+7511061	eng	I hope that we didn't make the wrong decision.
 7511062	eng	I hope that Tom hasn't been seriously injured.
 7511063	eng	I hope Tom knows that he has to help us today.
 7511064	eng	I hear that Tom and Mary are getting divorced.
@@ -26352,7 +26164,7 @@
 7513549	eng	Tom told Mary he had seen John in October.
 7513550	eng	Tom thought that I didn't need to do that.
 7513551	eng	Tom thought that I didn't have to do that.
-7513552	eng	Tom thinks that Mary is the woman for her.
+7513552	eng	Tom thinks that Mary is the woman for him.
 7513553	eng	Tom talked to the boys he met in the park.
 7513554	eng	Tom started to take things out of the box.
 7513555	eng	Tom soon realized that Mary wasn't joking.
@@ -29135,7 +28947,7 @@
 7516349	eng	Tom didn't know Mary couldn't do that.
 7516350	eng	Tom didn't know I was able to do that.
 7516351	eng	Tom caught more fish than anyone else.
-7516352	eng	Tom caught more fish than anybody did.
+7516352	eng	Tom caught more fish than anybody else did.
 7516353	eng	Tom can do that much better than Mary.
 7516354	eng	Tom bought everything we asked him to.
 7516355	eng	Tom believed that Mary was telepathic.
@@ -29674,7 +29486,7 @@
 7516893	eng	Tom thought that I needed to do that.
 7516894	eng	Tom thought I didn't need to do that.
 7516895	eng	Tom thought I didn't have to do that.
-7516896	eng	Tom thinks Mary is the woman for her.
+7516896	eng	Tom thinks Mary is the woman for him.
 7516897	eng	Tom still doesn't know that I'm here.
 7516898	eng	Tom soon realized Mary wasn't joking.
 7516899	eng	Tom says that he'll always love Mary.
@@ -29747,7 +29559,7 @@
 7516967	eng	Tom didn't even know that I was here.
 7516968	eng	Tom did the only thing that he could.
 7516969	eng	Tom claims he didn't damage the book.
-7516970	eng	Tom caught more fish than anyone did.
+7516970	eng	Tom caught more fish than anyone else did.
 7516971	eng	Tom built the house that he lives in.
 7516972	eng	Tom bought his son a model train set.
 7516973	eng	Tom bought everything that he needed.
@@ -35163,7 +34975,7 @@
 7522459	eng	I hope you have a good time at the party.
 7522460	eng	I hope you enjoy yourselves this evening.
 7522461	eng	I hope Tom hasn't been seriously injured.
-7522462	eng	I hope we didn't make the right decision.
+7522462	eng	I hope we didn't make the wrong decision.
 7522463	eng	I hear Tom and Mary are getting divorced.
 7522464	eng	I have something that I want to show you.
 7522465	eng	I have something that I need to show you.
@@ -36602,7 +36414,7 @@
 7523917	eng	The elevator cable snapped.
 7523918	eng	A cold snap is expected this week.
 7523919	nld	Er zijn geen gay mensen in dit land.
-7523920	nld	Er zijn geen homo's mensen in dit land.
+7523920	nld	Er zijn geen homo's in dit land.
 7523921	eng	I couldn't believe that this was really happening.
 7523922	eng	Tom couldn't believe that this was really happening.
 7523923	nld	Edu heeft min of meer duizend homovrienden.
@@ -36970,8 +36782,8 @@
 7524288	ber	Tom yesserḍ seg-i.
 7524289	ber	Ur yezmir ara Tom ad iyi-iḥettem ad geɣ aya.
 7524290	ber	Ur yezmir ara Tom ad iyi-yeḥrez aya.
-7524291	ita	Non ho pianto di fronte a lui.
-7524292	ita	Non piansi di fronte a lui.
+7524291	ita	Non ho pianto davanti a lui.
+7524292	ita	Non piansi davanti a lui.
 7524293	ita	Penso che sia innamorato di lei.
 7524294	ita	Io penso che sia innamorato di lei.
 7524295	ita	Penso che lui sia innamorato di lei.
@@ -37557,7 +37369,7 @@
 7524878	fra	Savais-tu que Tom a un fils?
 7524879	tur	Bundan kesin emin misin?
 7524880	fra	Tu sais que je suis marié.
-7524881	kab	D arrac yessagren tazmert, tuwi-d fell-asen ad tt-id-ssuffɣen akken ad afen iman-nsen u ad ilin deg lehna.
+7524881	ber	D arrac yessagren tazmert, tuwi-d fell-asen ad tt-id-ssuffɣen akken ad afen iman-nsen u ad ilin deg lehna.
 7524882	fra	Tu sais que tu en as besoin.
 7524883	fra	Me trouves-tu sexy?
 7524884	kab	Ad neɛṛeḍ tikkelt nniḍen.
@@ -37575,7 +37387,7 @@
 7524896	fra	Je ne savais pas que Tom m'appréciait.
 7524897	tur	Kendini Tom'un yerine koy.
 7524898	fra	Je ne savais pas que Tom m'aimait.
-7524899	kab	Kra n ugummu n tsemhuyt ad dlun fell-as, maca ur ilaq ara ad ttwiṭṭfen.
+7524899	ber	Kra n ugummu n tsemhuyt ad dlun fell-as, maca ur ilaq ara ad ttwiṭṭfen.
 7524900	tur	Bir de Tom'un penceresinden bak.
 7524901	fra	Je ne savais pas que Tom aurait pleuré.
 7524902	tur	Günah benden gitti.
@@ -37597,67 +37409,67 @@
 7524918	kab	Teggummaḍ ad txellṣeḍ.
 7524919	kab	Teggummam ad txellṣem.
 7524920	kab	Teggummamt ad txellṣemt.
-7524921	kab	Deg wakken ɣezzif yerna rqiqet tfekka-s ssawalen-as “Acacfal”.
+7524921	ber	Deg wakken ɣezzif yerna rqiqet tfekka-s ssawalen-as “Acacfal”.
 7524923	fra	Il est tellement haut et mince de corps qu'on l'appelle "Bâton de gaule".
 7524924	slk	Ďakujem, že si prišiel.
 7524925	fra	Je ne savais pas que Tom aurait laissé Mary le faire.
-7524926	kab	Ifassen-is imeqqranen ḥercawit seg tuṭṭfa yezgan n terggaɣin n wallalen n unqac.
+7524926	ber	Ifassen-is imeqqranen ḥercawit seg tuṭṭfa yezgan n terggaɣin n wallalen n unqac.
 7524927	\N	Nörüyon?
 7524928	hun	Tamásnak beszélnie kell Máriával.
 7524929	tur	Gidelim gari!
 7524930	fra	Ses grandes mains sont devenues rugueuses à force de manier à longueur de journée des manches des outils de pioches.
-7524931	kab	Awal ɣur-s drus, akud-is yečča-as-t akk umahil n tfellaḥt.
+7524931	ber	Awal ɣur-s drus, akud-is yečča-as-t akk umahil n tfellaḥt.
 7524932	\N	Ne ediysen?
 7524933	fra	Il parle peu, tout son temps est pris par son travail de cultivateur.
-7524934	kab	Tajnant d aseklu i d-imeqqin anda yella uzɣal.
+7524934	ber	Tajnant d aseklu i d-imeqqin anda yella uzɣal.
 7524935	tur	Tom tabakları masaya dizdi.
 7524936	tur	Tom'un kazanmasını beklemiyordum.
 7524937	fra	La vigne est une plante qui pousse là où il fait chaud.
 7524938	tur	Tom'un Avustralya hakkında pek bilgisi yoktu.
 7524939	hun	Tamás csak játszik.
 7524940	tur	Tom'un köpeği var mı?
-7524941	kab	Iferrawen n tejnant d ihrawanen, ɣellin-as deg umwan.
+7524941	ber	Iferrawen n tejnant d ihrawanen, ɣellin-as deg umwan.
 7524942	tur	Tom köpek besliyor mu?
 7524943	fra	Les feuilles de la vigne sont larges, elles tombent au automne.
-7524944	kab	Seg yifurkan-is irqaqanen ttaglen-d yiguza n tẓurin.
+7524944	ber	Seg yifurkan-is irqaqanen ttaglen-d yiguza n tẓurin.
 7524945	fra	De ses minces branches pendent des grappes de raisin.
-7524946	kab	Agummu-a ntett-it akka mi yewwa, ɣer taggara n unebdu mi ara yekkaw yettuɣal d zbib.
+7524946	ber	Agummu-a ntett-it akka mi yewwa, ɣer taggara n unebdu mi ara yekkaw yettuɣal d zbib.
 7524947	fra	Ce fruit est ainsi consommé quand il devient mûr, vers la fin de l'été il devient du raisin sec.
-7524948	kab	Tanqelt d aseklu i d-imeqqin anda yella uzɣal.
+7524948	ber	Tanqelt d aseklu i d-imeqqin anda yella uzɣal.
 7524949	fra	Le figuier est arbre qui pousse dans des pays chauds.
 7524950	kab	D acu xeddmen da?
-7524951	kab	Tafga-ines d tamellalt, mačči d tazurant am tin n tzemmurt, d tareqqaqt.
+7524951	ber	Tafga-ines d tamellalt, mačči d tazurant am tin n tzemmurt, d tareqqaqt.
 7524952	kab	Kcem. Ur tsekkeṛ ara tewwurt.
 7524953	kab	Kecmet. Ur tsekkeṛ ara tewwurt.
 7524954	kab	Kecmemt. Ur tsekkeṛ ara tewwurt.
 7524955	kab	Acu tenna deg-s tmeṭṭut-ik?
 7524956	kab	Iqerreḥ-iyi uqerru-iw d wallen-iw seg imeṭṭawen.
 7524957	fra	Son tronc est de couleur blanche, Il est mince, il n'est pas aussi épais que celui de l'olivier.
-7524958	kab	Agummu-ines aẓidan, qqaren-as tabexsist ma yella yewwa kan ma ɣer taggara yekkaw yettuɣal d iniɣem.
+7524958	ber	Agummu-ines aẓidan, qqaren-as tabexsist ma yella yewwa kan ma ɣer taggara yekkaw yettuɣal d iniɣem.
 7524959	kab	D gma, mačči d baba.
 7524960	kab	Bɣiɣ ad rnuɣ ad ssisemḍeɣ ccrab-yi ciṭuḥ.
 7524961	fra	Son fruit doux s'appelle figue quand il est juste mûr, mais vers la fin il devient une figue sèche.
 7524962	ita	Vuole tutto e subito.
 7524963	ita	Ti facevo più intelligente.
-7524964	kab	Amcic d aɣersiw amsuṭṭaḍ, yettidir d umdan.
+7524964	ber	Amcic d aɣersiw amsuṭṭaḍ, yettidir d umdan.
 7524966	fra	Le chat est un mammifère, il vit avec l'homme.
-7524967	kab	Dderya iqersen d urar ay tturaren warrac d teqcicin.
-7524968	kab	Mi kkren ad t-uraren ad bḍun iman-nsen ɣef snat n trebbaɛ.
+7524967	ber	Dderya iqersen d urar ay tturaren warrac d teqcicin.
+7524968	ber	Mi kkren ad t-uraren ad bḍun iman-nsen ɣef snat n trebbaɛ.
 7524969	fra	Quand ils vont jouer, ils se départagent en deux groupes.
-7524970	kab	Yal aɛeggal n taggayt ad ibeddel isem-is.
+7524970	ber	Yal aɛeggal n taggayt ad ibeddel isem-is.
 7524971	fra	Chaque élément d'un groupe doit changer de nom.
 7524973	kab	Ttwaḥasfent ɣef ayen xedment.
 7524974	kab	Nnan-d acu yeḍran?
-7524975	kab	Neḥsa d akken Tom yettwaxneq.
+7524975	ber	Neḥsa d akken Tom yettwaxneq.
 7524976	kab	Werǧin ffɣeɣ ɣer tmura n berra.
 7524977	kab	Tusa-d ɣer da d taɣallit fell-aɣ.
-7524978	kab	Tom d nekk, nettmeslay i sin tafransist.
-7524979	kab	Tom ixeddem ayen yebɣa.
+7524978	ber	Tom d nekk, nettmeslay i sin tafransist.
+7524979	ber	Tom ixeddem ayen yebɣa.
 7524980	kab	Tusa-d ɣer da ad tesɣalli fell-aɣ.
-7524981	kab	Yuɣ-d Tom takarust i Mary.
+7524981	ber	Yuɣ-d Tom takarust i Mary.
 7524982	kab	Ur tceɣɣbeɣ ara maḍi.
 7524983	kab	Ur y-iceɣɣeb ara lḥal akk.
-7524984	kab	Nnan-iyi-d yemmut Tom.
+7524984	ber	Nnan-iyi-d yemmut Tom.
 7524985	kab	Tuɣ ɣilleɣ tehnnaḍ.
 7524986	kab	D ayen i tzemreḍ ad yi-d-tefkeḍ?
 7524987	kab	D ayen i thewwneḍ?
@@ -40362,11 +40174,11 @@
 7527714	kab	Kerhen-iyi merra deg uɣerbaz.
 7527715	kab	Tesεiḍ kra usenfaṛ ssya ɣer zzat?
 7527716	tur	Senin gibi birini daha önce hiç tanımadım.
-7527717	kab	Kkreɣ-d deg tlemmast n yiḍ.
+7527717	ber	Kkreɣ-d deg tlemmast n yiḍ.
 7527718	kab	Ddem ayen tuḥwaǧeḍ.
-7527719	kab	Iḍelli kkreɣ-d zik.
+7527719	ber	Iḍelli kkreɣ-d zik.
 7527720	kab	Ad yili yuker-it deg teswiεt n lɣeflan.
-7527721	kab	Ur gganeɣ alma izeggen yiḍ.
+7527721	ber	Ur gganeɣ alma izeggen yiḍ.
 7527722	tur	Ata binersin.
 7527723	tur	Ata biner.
 7527724	tur	Ata bineriz.
@@ -40569,14 +40381,14 @@
 7527921	kab	Aql-i sḥassfeɣ, maca dayen sεiɣ tamdakelt.
 7527922	kab	Drus inerza i nseεεu da.
 7527923	fra	Je ne m’endors qu’après minuit.
-7527924	kab	Yal iḍ ttarguɣ.
+7527924	ber	Yal iḍ ttarguɣ.
 7527925	fra	Je fais des rêves chaque nuit.
 7527926	fra	Le fait que les conditions soient encore plus précaires ailleurs n'est pas une raison pour se satisfaire des conditions précaires ici.
-7527927	kab	Ur ceffuɣ ara i tirga-w.
+7527927	ber	Ur ceffuɣ ara i tirga-w.
 7527928	fra	Je ne me souviens pas de mes rêves.
-7527929	kab	Uḍan ɣezzifit, ussan wezzilit deg tegrest.
+7527929	ber	Uḍan ɣezzifit, ussan wezzilit deg tegrest.
 7527930	fra	En hiver, les nuits sont longues et les jours courts.
-7527931	kab	Akka i d netta, yettargu allen-is ldint.
+7527931	ber	Akka i d netta, yettargu allen-is ldint.
 7527932	fra	Il est comme ça, il rêve les yeux ouverts.
 7527933	ita	Dove si è nascosta?
 7527934	ita	Dove ha provato a farlo?
@@ -40592,13 +40404,13 @@
 7527944	ita	Dove ha nascosto i miei soldi?
 7527945	ita	Dove ha nascosto il mio denaro?
 7527946	ita	Dove si è nascosto?
-7527947	kab	Iḥemmel ad yargu.
+7527947	ber	Iḥemmel ad yargu.
 7527948	fra	Il aime faire des rêves.
-7527949	kab	Targit-is teffeɣ.
+7527949	ber	Targit-is teffeɣ.
 7527950	fra	Son rêve est devenu réalité.
 7527951	kab	Aql-iyi akken wwḍeɣ ɣer ur anafag.
 7527952	hun	Tudom, hogy Tamás nem viccelt.
-7527953	kab	Ttarguɣ-kem yal iḍ.
+7527953	ber	Ttarguɣ-kem yal iḍ.
 7527954	kab	Ttagadeɣ ad nɣeɣ iɣersiwen.
 7527955	ita	Abbiamo portato fuori la spazzatura.
 7527956	fra	Je rêve de toi chaque nuit.
@@ -40606,7 +40418,7 @@
 7527958	ita	Vuoi che ti massaggi le spalle?
 7527959	ita	Vuole che le massaggi le spalle?
 7527960	ita	Volete che vi massaggi le spalle?
-7527961	kab	Urgaɣ targit-iw tetteddu ad teffeɣ.
+7527961	ber	Urgaɣ targit-iw tetteddu ad teffeɣ.
 7527962	kab	Ur berru ara! Ṭṭef mliḥ!
 7527963	kab	Ur berrut ara! Ṭṭfet mliḥ!
 7527964	hun	Tamás mikor énekelt?
@@ -40625,14 +40437,14 @@
 7527977	kab	Siwa tafat ma tecεel-d, i s-yeɣzan.
 7527978	kab	Kkes ṭṭlam i Teqbaylit deg uxxam.
 7527979	kab	Ԑawed-as yiwen webrid!
-7527980	kab	Ttarguɣ, ihi lliɣ.
+7527980	ber	Ttarguɣ, ihi lliɣ.
 7527981	fra	Je rêve, donc je suis.
 7527982	hun	Nyilvánvaló, hogy Tamás eltitkol valamit előlünk.
-7527983	kab	Menyif targit yelhan wala yir targit.
+7527983	ber	Menyif targit yelhan wala yir targit.
 7527984	kab	Ddeqs-aya ur k-neẓri.
 7527985	kab	Anwa xtarent?
 7527986	fra	Je préfère les beaux rêves que les cauchemars.
-7527987	kab	Urgaɣ ttafgeɣ deg yigenni.
+7527987	ber	Urgaɣ ttafgeɣ deg yigenni.
 7527988	fra	Je rêvais que je volais dans le ciel.
 7527989	kab	Lqaεa, Meɣres d Yebter d imtiwag.
 7527990	hun	Náluk voltunk vendégségben.
@@ -42724,32 +42536,32 @@
 7530091	lit	Jis turėtų būti kvailas jeigu tuo tiki.
 7530092	fra	Ce n’est pas comme ça.
 7530093	fra	C’est vrai.
-7530094	kab	Yif-it ma qqimeɣ.
+7530094	ber	Yif-it ma qqimeɣ.
 7530095	fra	Il vaut mieux que je reste.
-7530096	kab	Yif-it ma ruḥeɣ.
+7530096	ber	Yif-it ma ruḥeɣ.
 7530097	fra	Il vaut mieux que je parte.
-7530098	kab	Yif-it win yessusmen.
+7530098	ber	Yif-it win yessusmen.
 7530099	fra	Il vaut mieux se taire.
-7530100	kab	Turew-d tayaziḍt snat n tmellalin.
+7530100	ber	Turew-d tayaziḍt snat n tmellalin.
 7530101	fra	La poule a pondu deux œufs.
-7530102	kab	Tayaziḍt ur tettafeg ara.
+7530102	ber	Tayaziḍt ur tettafeg ara.
 7530103	fra	La poule ne vole pas.
-7530104	kab	Mel-iyi abrid.
+7530104	ber	Mel-iyi abrid.
 7530105	fra	Montre-moi le chemin.
-7530106	kab	Ssiɣzef asurif, ad tawḍeḍ zik.
+7530106	ber	Ssiɣzef asurif, ad tawḍeḍ zik.
 7530107	kab	Nnan-iyi-d d kečč i iɣelṭen.
 7530108	kab	Nnan-iyi-d d kemm i iɣelṭen.
 7530109	fra	Allonge le pas et tu arriveras tôt.
 7530110	kab	Amek theddreḍ d tlawin?
-7530111	kab	Fiḥel ma tusiḍ-d.
+7530111	ber	Fiḥel ma tusiḍ-d.
 7530112	deu	Ich bin nicht in Schwierigkeiten.
 7530113	fra	Ce n’est pas la peine que tu viennes.
 7530114	kab	Mi bḍan idrimen gar-asen, ssawḍen ad d-aɣen aselkim d ajdid i lbiru-nni.
-7530115	kab	Ttxemmim fell-asen.
+7530115	ber	Ttxemmim fell-asen.
 7530116	deu	Er sagte den Termin ab, um an dem Treffen teilzunehmen.
 7530117	kab	Tuɣ yenna-yi-d Tom belli ad iqewwu lḥess da.
 7530118	dan	Tom er stadig teenager.
-7530119	kab	Mmekti-d amek i telliḍ zik.
+7530119	ber	Mmekti-d amek i telliḍ zik.
 7530120	kab	Yella d aceǧεi.
 7530121	deu	Ich wusste nicht, dass ihr diejenigen wart, die das hätten tun sollen.
 7530122	deu	Tom sagte, dass Mary davon fasziniert sei.
@@ -42757,7 +42569,7 @@
 7530124	kab	Yella d afeḥli.
 7530125	deu	Ich dachte, dass Tom in der Lage wäre, uns zu helfen.
 7530126	kab	Yella d lǧid.
-7530127	kab	Dhu d yiman-ik.
+7530127	ber	Dhu d yiman-ik.
 7530128	deu	Tom ist viel weiser als ich dachte.
 7530129	epo	Tomo ankoraŭ estas dekkelkjarulo.
 7530130	deu	Tom wollte mit Mary lernen.
@@ -42767,7 +42579,7 @@
 7530134	deu	Tom sagte, dass er dachte, dass Mary im Stande wäre dies ohne Hilfe zu tun.
 7530135	kab	Meqqer mliḥ azadaɣ-a.
 7530136	deu	Zu lehren ist zweimal lernen.
-7530137	kab	Ur tufiḍ d acu i iyi-ixussen.
+7530137	ber	Ur tufiḍ d acu i iyi-ixussen.
 7530138	kab	Yenbeddal fell-am lḥal?
 7530139	deu	Ich glaube nicht, dass es irgendwelche Probleme geben wird.
 7530140	fra	Je ne manque de rien.
@@ -42778,36 +42590,36 @@
 7530145	deu	Sie sagen, dass Tom das tun kann.
 7530146	deu	Mit wem bist du zu dem Tanz gegangen?
 7530147	kab	Tenniḍ-d yakan belli mačči d nekk i tt-ixedmen.
-7530148	kab	D ayen ibanen am yiṭij.
+7530148	ber	D ayen ibanen am yiṭij.
 7530149	fra	C'est clair comme l'eau de roche.
 7530150	kab	Anda-t ujernan-nneɣ?
 7530151	kab	Sliɣ ur tettetteḍ ara aksum.
 7530152	kab	Kerheɣ tidiwenniyin.
-7530153	kab	Ula d nekk walaɣ d acu i k-iceɣben.
+7530153	ber	Ula d nekk walaɣ d acu i k-iceɣben.
 7530154	fra	Moi aussi je sais ce qui te préoccupe.
 7530155	deu	Tom hat mir nichts zu Weihnachten geschenkt.
 7530156	kab	Tufeg-d yiwet n tzizwit si ṭṭaq.
 7530157	deu	Lasst uns Tom treffen.
 7530158	kab	Aqcic-nni yella yettqellib ɣef tsarut i s-iruḥen.
-7530159	kab	Kullec a-t-an deg ufus n Rebbi.
+7530159	ber	Kullec a-t-an deg ufus n Rebbi.
 7530160	deu	Sprichst du kein Französisch?
 7530161	kab	Qrib azgen n tsaɛet nekk ttrajuɣ.
 7530162	kab	Yelha ccrab.
 7530163	deu	Ich werde ein Treffen mit ihnen organisieren.
 7530164	kab	Sliɣ s wakka. Ttexfan yimawlan-ik, ǧǧan ṭṭlaba-nsen, yak?
 7530165	deu	Die Schuhe sind unter dem Bett.
-7530166	kab	D acu akka i kem-yuɣen a Cabḥa?
+7530166	ber	D acu akka i kem-yuɣen a Cabḥa?
 7530167	deu	Am nächsten Morgen fühlte er sich ein bisschen besser.
 7530168	fra	Qu'est ce que tu as comme ça Chabha?
 7530169	deu	Sie haben unser Angebot.
 7530170	kab	Tajerrumt d ayen ikersen nezzeh.
 7530171	deu	Ich und Tom sind jetzt Eheleute.
-7530172	kab	Ayen iɛeddan iɛedda, xemmem ɣef uzekka.
+7530172	ber	Ayen iɛeddan iɛedda, xemmem ɣef uzekka.
 7530173	kab	Tehder-d yid-i yiwet seg-sent.
 7530174	kab	Yettili dima amek ara tessegziḍ kra.
 7530175	fra	Ce qui est passé est passé, pense à l'avenir.
 7530176	deu	Sie kam um halb drei an und Marie kam ein bisschen später an.
-7530177	kab	Ur ttruẓu ara aqerruy-ik.
+7530177	ber	Ur ttruẓu ara aqerruy-ik.
 7530178	kab	Ar tura ugur ur d-yelli.
 7530179	fra	Ne te casse pas la tête.
 7530180	deu	Ich habe Hollywood besucht, als ich in Los Angeles war.
@@ -44851,13 +44663,13 @@
 7532234	ita	Fu trovata morta nel suo garage.
 7532235	ita	Ha finalmente pagato il suo affitto.
 7532236	ita	Lei ha finalmente pagato il suo affitto.
-7532237	kab	Icennu akken i ilaq.
+7532237	ber	Icennu akken i ilaq.
 7532238	kab	Sefqed tiqellaɛin-nni i tundiḍ.
-7532239	kab	Icennu tizlit tamḥaddit.
+7532239	ber	Icennu tizlit tamḥaddit.
 7532240	kab	Sfeqdet tiqellaɛin-nni i tundam.
 7532241	kab	Sfeqdemt tiqellaɛin-nni i tundamt.
 7532242	fra	Il chante la chanson engagée.
-7532243	kab	Bɣiɣ ad cnuɣ.
+7532243	ber	Bɣiɣ ad cnuɣ.
 7532244	ita	Dice che non ha intenzione di farlo.
 7532245	ita	Lui dice che non ha intenzione di farlo.
 7532246	ita	Ha detto che non l'ha mai detto.
@@ -44874,14 +44686,14 @@
 7532257	ita	Hanno annullato il loro viaggio.
 7532258	ita	Annullarono il loro viaggio.
 7532259	ita	Lui pensa di avere sempre ragione.
-7532260	kab	Ḥemmleɣ ad cnuɣ.
+7532260	ber	Ḥemmleɣ ad cnuɣ.
 7532261	ita	Non può farlo, vero?
 7532262	ita	Non riesce a farlo, vero?
 7532263	ita	Non lo può fare, vero?
 7532264	ita	Non lo riesce a fare, vero?
 7532265	ita	Lei non può farlo, vero?
 7532266	ita	Lei non riesce a farlo, vero?
-7532267	kab	D acennay ameqqran.
+7532267	ber	D acennay ameqqran.
 7532268	ita	Lei non lo può fare, vero?
 7532269	ita	Lei non lo riesce a fare, vero?
 7532270	ita	Possono farlo, vero?
@@ -44896,7 +44708,7 @@
 7532279	ita	Ha detto che poteva aiutarci oggi.
 7532280	ita	Ha detto che riusciva ad aiutarci oggi.
 7532281	ita	Ha detto che ci poteva aiutare oggi.
-7532282	kab	Ittas-d deg unebdu.
+7532282	ber	Ittas-d deg unebdu.
 7532283	kab	Tcukkeḍ ad yas wass ideg ad yezdeɣ wemdan deg Meɣres?
 7532284	kab	Tcukkem ad yas wass ideg ad yezdeɣ wemdan deg Meɣres?
 7532285	kab	Tcukkemt ad yas wass ideg ad yezdeɣ wemdan deg Meɣres?
@@ -44905,41 +44717,41 @@
 7532288	ita	Hai detto che potevo parlare con lui.
 7532289	ita	Ha detto che potevo parlare con lui.
 7532290	ita	Avete detto che potevo parlare con lui.
-7532291	kab	Wissen anida-tt?
+7532291	ber	Wissen anida-tt?
 7532292	ita	Hai detto che potevo parlare con lei.
 7532293	ita	Ha detto che potevo parlare con lei.
 7532294	ita	Avete detto che potevo parlare con lei.
 7532295	fra	J’ignore où elle se trouve.
-7532296	kab	Akeyyef diri-t.
+7532296	ber	Akeyyef diri-t.
 7532297	kab	Ḥemmleɣ ad sleɣ i ṛṛadio BBC Radio World Service.
 7532298	fra	Fumer est mauvais.
-7532299	kab	Tura kan i iɛedda.
+7532299	ber	Tura kan i iɛedda.
 7532300	fra	Il vient juste de passer.
 7532301	kab	Tselleḍ i ṛṛadio BBC Inside Science?
 7532302	tur	İşe arabanla gidiyorsun, değil mi?
 7532303	tur	İşe arabayla gidiyorsun, değil mi?
-7532304	kab	Bdiɣ tira n yiwen ungal amaynut.
+7532304	ber	Bdiɣ tira n yiwen ungal amaynut.
 7532305	tur	Tom bitirmek üzere, değil mi?
 7532306	fra	Je viens de commencer l'écriture d'un nouveau roman.
 7532307	tur	Tom'un işi bitmek üzere, değil mi?
-7532308	kab	Wissen kan melmi ara t-fakkeɣ ?
+7532308	ber	Wissen kan melmi ara t-fakkeɣ ?
 7532309	tur	Neptün Güneş etrafındaki dönüşünü 165 yılda tamamlar.
 7532310	fra	J'ignore quand je le terminerai.
 7532311	kab	Bɣiɣ ad ak-heḍṛeɣ.
 7532312	kab	Bɣiɣ ad am-heḍṛeɣ.
 7532313	kab	Bɣiɣ ad awen-heḍṛeɣ.
 7532314	kab	Bɣiɣ ad akent-heḍṛeɣ.
-7532315	kab	Ttafeɣ iman-iw mi ttaruɣ.
+7532315	ber	Ttafeɣ iman-iw mi ttaruɣ.
 7532316	kab	D acu i k-yewwin ad as-theḍṛeḍ?
 7532317	kab	D acu i kem-yewwin ad as-theḍṛeḍ?
 7532318	kab	D acu i ken-yewwin ad as-theḍṛem?
 7532319	fra	Je me sens bien quand j'écris.
 7532320	kab	D acu i kent-yewwin ad as-theḍṛemt?
-7532321	kab	Tira d assesfer.
+7532321	ber	Tira d assesfer.
 7532322	kab	Tzemreḍ ad suqqleḍ idlisen n F.Nietzsche ɣer teqbaylit?
 7532323	kab	Tzemrem ad suqqlem idlisen n F.Nietzsche ɣer teqbaylit?
 7532324	kab	Tzemremt ad suqqlemt idlisen n F.Nietzsche ɣer teqbaylit?
-7532325	kab	Asefru issejjay.
+7532325	ber	Asefru issejjay.
 7532326	kab	Lmed taglizit ma tebɣiḍ ad tesmeɣṛeḍ taqbaylit.
 7532327	kab	Lemdet taglizit ma tebɣam ad tesmeɣṛem taqbaylit.
 7532328	fra	La poésie soulage.
@@ -46393,7 +46205,7 @@
 7533783	hun	Ezért én vállalom a felelősséget.
 7533784	kab	Ilaq ad teɣṛeḍ idlisen n Ɛmeṛ Mezdad.
 7533785	hun	Ezért én tartom a hátam.
-7533786	kab	Ilaq ad teɣṛem idlisen n Malek Ḥud.
+7533786	kab	Ilaq ad teɣṛem idlisen n Samir.
 7533787	kab	D tiziri iḍ-a iεeddan.
 7533788	kab	Ur yeẓwir ara deg tutlayin.
 7533789	kab	Ur teẓwir ara deg tutlayin.
@@ -46930,36 +46742,36 @@
 7534323	rus	Позвони мне, если нужна будет помощь.
 7534324	rus	Позвоните мне, если нужна будет помощь.
 7534325	fra	Il n’y’a pas d’aussi libre qu’un oiseau.
-7534326	kab	Timura n ddunit akk n ufrux.
+7534326	ber	Timura n ddunit akk n ufrux.
 7534327	fra	Tous les pays du monde appartiennent à l’oiseau.
-7534328	kab	Yettruḥu ufrux anda yebɣa.
+7534328	ber	Yettruḥu ufrux anda yebɣa.
 7534329	fra	L’oiseau va là où il veut aller.
 7534330	lit	Išaiškėjo, kad niekas nenori apie tai pasisakyti. Ką mes dabar darysime?
-7534331	kab	Ini-d ih!
+7534331	ber	Ini-d ih!
 7534332	fra	Dis oui!
-7534333	kab	Uɣal-d!
+7534333	ber	Uɣal-d!
 7534334	fra	Reviens!
-7534335	kab	Rebbi ad ak-t-id-yerr.
+7534335	ber	Rebbi ad ak-t-id-yerr.
 7534336	fra	Pour ton anniversaire, nous allons faire une grande fête.
 7534337	fra	Dieu te le rendra.
 7534338	rus	Долги лишили меня сна.
 7534339	lit	Tu tikrai puiki.
 7534340	deu	An deinem Geburtstag machen wir ein großes Fest.
 7534341	lit	Tu labai graži.
-7534342	kab	Xussen-iyi mraw d tẓa (19) akken ad sɛuɣ snat tmerwin (20).
+7534342	ber	Xussen-iyi mraw d tẓa (19) akken ad sɛuɣ snat tmerwin (20).
 7534343	fra	En octobre nous irons à Berlin.
 7534344	deu	Sie hat sich in ihren Lehrer verliebt.
 7534345	deu	Sie hat sich in ihre Lehrerin verliebt.
 7534346	fra	Il me manque dix-neuf (19) pour faire vingt (20).
-7534347	kab	Ulac am zzit n uzemmur.
+7534347	ber	Ulac am zzit n uzemmur.
 7534348	deu	Im Oktober fahren wir nach Berlin.
 7534349	fra	Il n’y’a pas meilleure que l’huile d’olive.
 7534350	deu	Ich bin mir nicht sicher, ob Mary weiß, was sie tut.
-7534351	kab	Tizemmrin ttidirent aṭas.
+7534351	ber	Tizemmrin ttidirent aṭas.
 7534352	fra	Te souviens-tu de lui ?
 7534353	deu	Ich habe ihr gesagt, dass ich mich anders entschieden habe.
 7534354	fra	Les oliviers vivent longtemps.
-7534355	kab	Yeɛya, yesgunfa.
+7534355	ber	Yeɛya, yesgunfa.
 7534356	lit	Ar tu rytoj mokysiesi?
 7534357	epo	Fermentas la vino.
 7534358	deu	Sie hat ihre Tasche gepackt.
@@ -46967,35 +46779,35 @@
 7534360	fra	Fatigué, il se reposa.
 7534361	deu	Erinnerst du dich an ihn?
 7534362	deu	Tom ist 2013 in Australien verstorben.
-7534363	kab	Ruḥ s leɛqel!
+7534363	ber	Ruḥ s leɛqel!
 7534364	deu	Tom ist 2013 in Australien gestorben.
-7534365	kab	Tuɣ-it tawla.
+7534365	ber	Tuɣ-it tawla.
 7534366	epo	Li multe mensogis al ŝi.
 7534367	deu	Ich hätte fast mein Handy in den Pool fallen lassen.
 7534368	fra	Il est fiévreux.
 7534369	lit	Jo veidas buvo aptaškytas purvu.
 7534370	fra	Le hibou est un oiseau nocturne.
-7534371	kab	Ifis d aɣersiw i itetten imurḍusen.
+7534371	ber	Ifis d aɣersiw i itetten imurḍusen.
 7534372	eng	He is the biggest man in the world.
 7534375	kab	Sserdeɣ udem-iw.
 7534376	fra	L’hyène est un charognard.
 7534377	kab	Igerrez wass.
-7534378	kab	Isem-is yuɣ-d akk ddunit.
+7534378	ber	Isem-is yuɣ-d akk ddunit.
 7534379	kab	Abeḥri yeskikiḍ iferriwen n yisekla.
 7534380	fra	Son nom est célébré de par le monde.
-7534381	kab	Fiḥel ma tegulleḍ-d.
+7534381	ber	Fiḥel ma tegulleḍ-d.
 7534382	fra	Ce n’est pas la peine de jurer.
 7534383	kab	Rwiɣ afenǧal n lqahwa.
-7534384	kab	Ireggem-as lǧennet.
+7534384	ber	Ireggem-as lǧennet.
 7534385	kab	Muqleɣ ar seɛɛa, walaɣ-tt iruḥ lḥal.
 7534386	fra	Il lui a promis le paradis.
 7534387	deu	Ich bin hungrig nach einer langen Wanderung.
 7534388	kab	Abrid yekker, yeččur d ixemjan.
-7534389	kab	Tella ɣur-s aṭas n tissas.
+7534389	ber	Tella ɣur-s aṭas n tissas.
 7534390	fra	Il a beaucoup d'audace.
 7534391	kab	Teqqim sdat lemri.
 7534392	kab	Ussan n tegrest wezzil-it, iṭij mi d-yecreq din ad d-yeɣli.
-7534393	kab	Yal taɣawsa ɣur-s taggara.
+7534393	ber	Yal taɣawsa ɣur-s taggara.
 7534394	kab	Iɛeggalen-is ttraǧun s lḥir talalit n llufan-nsen.
 7534395	kab	Tamɣart-is teqqim s idis-is, teṭṭef-as afus-is.
 7534396	fra	Chaque chose a une fin.
@@ -48658,7 +48470,6 @@
 7536062	nld	Tom was niet goed in wiskunde.
 7536063	rus	Нам нужно, чтобы ты помог нам сегодня вечером.
 7536064	nld	Mijn wiskundeleraar was een viezerik.
-7536065	nld	Wiskunde en Engels waren mijn lievelingsvakken.
 7536066	rus	Мы не знаем, где будем жить в следующем году.
 7536067	nld	Wiskunde en Engels waren mijn favoriete vakken.
 7536068	hun	Az ENSZ számításai szerint az ötszázmilliós lakosú Európa további 3,3 milliárd migránst tudna felvenni és kellene is neki.
@@ -49388,7 +49199,7 @@
 7536806	kab	Yeqbel ad yexdem akk ayen tebɣa.
 7536807	ber	Tessersc aqerruy-is ɣef ṭṭabla.
 7536808	kab	Ur εqileɣ ara tasedrit-a. W'i tt-ilan?
-7536809	kab	Lissans irennu kan deg ssuma.
+7536809	kab	Liṣans irennu kan deg ssuma.
 7536810	ber	Ttaǧǧaɣ aɣmis-iw udmawan ɣef ṭṭabla yellan tama n wusu-inu.
 7536811	ber	Ilaq ad d-naɣ usu nniḍen.
 7536812	ber	Sami yeffer lehyuf ddaw w wusu-ines.
@@ -49616,10 +49427,10 @@
 7537035	ita	Tom potrebbe essere in grado di aiutarvi.
 7537036	ita	Tom potrebbe essere in grado di aiutarla.
 7537037	ita	Prometto che lo farò.
-7537038	kab	Tḍurr-it tuɣmest-is, yeqleɛ-as-tt-id umejjay n wuglan.
+7537038	ber	Tḍurr-it tuɣmest-is, yeqleɛ-as-tt-id umejjay n wuglan.
 7537039	ita	Uscii dalla piscina.
 7537040	fra	Sa dent lui faisait mal, elle a été extraite par le dentiste.
-7537041	kab	Qerḥent-iyi tuɣmas-iw.
+7537041	ber	Qerḥent-iyi tuɣmas-iw.
 7537042	ita	Tom stava cercando un impiego.
 7537043	ita	Tom stava cercando un lavoro.
 7537044	fra	J’ai mal aux dents.
@@ -49631,15 +49442,15 @@
 7537050	ita	C'è qualcosa in particolare che vuole?
 7537051	ita	C'è qualcosa in particolare che volete?
 7537052	tur	İşte bu be!
-7537053	kab	Ttcitiɣ uglan-iw kraḍet n tikal deg wass.
+7537053	ber	Ttcitiɣ uglan-iw kraḍet n tikal deg wass.
 7537054	fra	Je brosse mes dents trois fois par jour.
 7537055	tur	Ne var be!
 7537056	ita	Non te l'ho chiesto.
-7537057	kab	Yal aseggas, yesfugul amulli-ines.
+7537057	ber	Yal aseggas, yesfugul amulli-ines.
 7537058	ita	Non ve l'ho chiesto.
 7537059	fra	Chaque année, il célèbre son anniversaire.
 7537061	tur	Ee?
-7537062	kab	Amulli-inu iɣelli-d deg tefsut.
+7537062	ber	Amulli-inu iɣelli-d deg tefsut.
 7537063	fra	Mon anniversaire tombe au printemps.
 7537064	tur	Ee, ne olmuş?
 7537065	ita	Vogliamo che i nostri figli siano al sicuro.
@@ -49647,16 +49458,16 @@
 7537067	ita	Tom non vede Mary dal 2013.
 7537068	ita	Tom non ha detto a Mary quello che deve comprare.
 7537069	tur	Bu karar kamu vicdanını yaraladı.
-7537070	kab	Imulliyen zerrin, ccib irennu-d.
+7537070	ber	Imulliyen zerrin, ccib irennu-d.
 7537071	tur	Ayıp yorgan altında olur.
 7537072	fra	Les anniversaires passent et les cheveux blanchissent de plus en plus.
 7537073	tur	Çok ayıp.
 7537074	tur	Görmemiş olayım.
 7537075	tur	Ne sen sor ne ben söyleyeyim.
-7537076	kab	Yemmut ass n umulli-ines.
+7537076	ber	Yemmut ass n umulli-ines.
 7537077	fra	Il meurt le jour de son anniversaire.
 7537078	rus	Это кольцо не золотое, но всё равно стоит много денег.
-7537079	kab	Yezgel lɣerḍ.
+7537079	ber	Yezgel lɣerḍ.
 7537080	kab	Anda ara t-afeɣ?
 7537081	kab	Anda ara tt-afeɣ?
 7537082	kab	Anda ara ten-afeɣ?
@@ -49709,7 +49520,7 @@
 7537131	fra	Il a loupé la cible.
 7537132	kab	Teẓṛiḍ dacu i txeddmeḍ.
 7537133	kab	Neẓṛa dacu i nxeddem.
-7537134	kab	Ideɛɛu yal ass.
+7537134	ber	Ideɛɛu yal ass.
 7537135	kab	Yeẓṛa dacu i ixeddem.
 7537136	ita	Non ho mai ferito Tom.
 7537137	kab	Teẓṛa dacu i txeddem.
@@ -49723,9 +49534,9 @@
 7537145	kab	Teẓṛamt dacu i tebɣamt.
 7537146	ita	Tom vuole indossare dei jeans.
 7537147	kab	Necfa ar wanda ara nuɣal.
-7537148	kab	Yufa d waniwa ara yehder.
+7537148	ber	Yufa d waniwa ara yehder.
 7537151	fra	Il a trouvé avec qui parler.
-7537152	kab	Ihedder kan cwiṭ.
+7537152	ber	Ihedder kan cwiṭ.
 7537153	kab	Azlem ay iḍaṛṛen-iw!
 7537154	kab	Afgem ay afriwen-iw.
 7537155	kab	Ččaṛ ay aqeṛṛuy-iw!
@@ -49735,7 +49546,7 @@
 7537159	kab	Ḥṛec ay agdud!
 7537160	kab	Faq-d ay agdud!
 7537161	kab	Ndekwal-d ay agdud!
-7537162	kab	Takuski-ines iman-is.
+7537162	ber	Takuski-ines iman-is.
 7537163	kab	Acimi i teṭṭṣeḍ ay agdud?
 7537164	kab	Acuɣeṛ i tegneḍ ay agdud?
 7537165	fra	Sa beauté est unique.
@@ -49745,15 +49556,15 @@
 7537169	kab	Acuɣeṛ i tegganemt aṭas?
 7537170	kab	Acuɣeṛ i yeggan aṭas?
 7537171	kab	Acuɣeṛ i teggan aṭas?
-7537172	kab	Meqqrit wallen-is am tid n tfunast.
+7537172	ber	Meqqrit wallen-is am tid n tfunast.
 7537173	fra	Ses yeux sont aussi grands que ceux d’une vache.
 7537174	kab	D kečč i d ssebba.
-7537175	kab	D tahuskay s tidet.
-7537176	kab	Yemla-as abrid yelhan.
+7537175	ber	D tahuskay s tidet.
+7537176	ber	Yemla-as abrid yelhan.
 7537177	fra	Il lui a indiqué le bon chemin.
 7537178	kab	D allen n tfunast i yesɛa.
 7537179	kab	D allen n tfunast i tesɛa.
-7537180	kab	Yugi ad yettu ayen yesɛedda.
+7537180	ber	Yugi ad yettu ayen yesɛedda.
 7537181	kab	D allen n weqjun i yesɛa.
 7537182	kab	D allen n weqjun i tesɛa.
 7537183	kab	D allen n wuccen i yesɛa.
@@ -49761,63 +49572,63 @@
 7537185	kab	D allen n wuccen i tesɛa.
 7537186	kab	D allen n weɣyul i yesɛa.
 7537187	kab	D allen n weɣyul i tesɛa.
-7537188	kab	Yiwen ur t-yettamen.
+7537188	ber	Yiwen ur t-yettamen.
 7537189	kab	D allen n wefṛux i yesɛa.
 7537190	kab	D allen n wefṛux i tesɛa.
 7537191	kab	D allen n wemcic i yesɛa.
 7537192	kab	D allen n wemcic i tesɛa.
 7537193	kab	D allen n uɣerda i yesɛa.
-7537194	kab	Aṭas n yicernanen i ixedem.
+7537194	ber	Aṭas n yicernanen i ixedem.
 7537195	kab	D allen n uɣerda i tesɛa.
 7537196	kab	D ifassen n wefṛux i yesɛa.
 7537197	kab	D ifassen n wefṛux i tesɛa.
 7537198	kab	D ifassen n wemcic i tesɛa.
 7537199	kab	D ifassen n wemcic i yesɛa.
 7537200	fra	Il a commis trop de bêtises.
-7537201	kab	Ayen yexdem deg wayen n diri, yiwen wass kan ad d-yuɣal fell-as.
+7537201	ber	Ayen yexdem deg wayen n diri, yiwen wass kan ad d-yuɣal fell-as.
 7537202	fra	Ce qu’il a fait de mauvais, un jour ou l’autre se retournera contre lui.
-7537203	kab	Ur yenwi ara ad tqelleb tegnit.
+7537203	ber	Ur yenwi ara ad tqelleb tegnit.
 7537204	fra	Il ne s’attendait pas au retournement de la situation.
 7537205	spa	Quiero volverme artista.
-7537206	kab	Yemla-aɣ-d abrid yelhan.
+7537206	ber	Yemla-aɣ-d abrid yelhan.
 7537207	fra	Il nous a indiqué le bon chemin.
-7537208	kab	Yemla-awen-d abrid yelhan.
+7537208	ber	Yemla-awen-d abrid yelhan.
 7537209	fra	Il vous a indiqué le bon chemin.
-7537210	kab	Yemla-awent-d abrid yelhan.
-7537211	kab	Yemla-asen-d abrid yelhan.
+7537210	ber	Yemla-awent-d abrid yelhan.
+7537211	ber	Yemla-asen-d abrid yelhan.
 7537212	fra	Il leur a indiqué le bon chemin.
-7537213	kab	Yemla-asent-d abrid yelhan.
-7537214	kab	Yemla-iyi-d abrid yelhan.
+7537213	ber	Yemla-asent-d abrid yelhan.
+7537214	ber	Yemla-iyi-d abrid yelhan.
 7537215	fra	Il m’a indiqué le bon chemin.
-7537216	kab	Yemla-ak-d abrid yelhan.
+7537216	ber	Yemla-ak-d abrid yelhan.
 7537217	fra	Il t’a indiqué le bon chemin.
-7537218	kab	Yemla-am-d abrid yelhan.
-7537219	kab	Nemla-awen-d abrid yelhan.
+7537218	ber	Yemla-am-d abrid yelhan.
+7537219	ber	Nemla-awen-d abrid yelhan.
 7537220	fra	Nous vous avons indiqué le bon chemin.
-7537221	kab	Nemla-awent-d abrid yelhan.
-7537222	kab	Nemla-asen-d abrid yelhan.
+7537221	ber	Nemla-awent-d abrid yelhan.
+7537222	ber	Nemla-asen-d abrid yelhan.
 7537223	fra	Nous leur avons indiqué le bon chemin.
-7537224	kab	Nemla-asent-d abrid yelhan.
-7537225	kab	Nemla-as-d abrid yelhan.
+7537224	ber	Nemla-asent-d abrid yelhan.
+7537225	ber	Nemla-as-d abrid yelhan.
 7537226	fra	Nous lui avons indiqué le bon chemin.
-7537227	kab	Reḍleɣ-as adlis ad t-iɣer.
+7537227	ber	Reḍleɣ-as adlis ad t-iɣer.
 7537228	fra	Je lui ai prêté un livre pour qui’il le lise.
-7537229	kab	Reḍleɣ-ak adlis ad t-teɣreḍ.
+7537229	ber	Reḍleɣ-ak adlis ad t-teɣreḍ.
 7537230	fra	Je t’ai prêté un livre pour que tu le lises.
-7537231	kab	Reḍleɣ-am adlis ad t-teɣreḍ.
-7537232	kab	Reḍleɣ-awen adlis ad t-teɣrem.
+7537231	ber	Reḍleɣ-am adlis ad t-teɣreḍ.
+7537232	ber	Reḍleɣ-awen adlis ad t-teɣrem.
 7537233	fra	Je vous ai prêté un livre pour que le lisiez.
-7537234	kab	Reḍleɣ-awent adlis ad t-teɣremt.
+7537234	ber	Reḍleɣ-awent adlis ad t-teɣremt.
 7537235	fra	Je vous ai prêté un livre pour que vous le lisiez.
-7537236	kab	Reḍleɣ-asen adlis ad t-ɣren.
+7537236	ber	Reḍleɣ-asen adlis ad t-ɣren.
 7537237	fra	Je leur ai prêté un livre pour qu’ils le lisent.
-7537238	kab	Reḍleɣ-asent adlis ad t-ɣrent.
+7537238	ber	Reḍleɣ-asent adlis ad t-ɣrent.
 7537239	fra	Je leur ai prêté un livre pour qu’elles le lisent.
-7537240	kab	Irḍel-iyi-d adlis ad t-ɣreɣ.
+7537240	ber	Irḍel-iyi-d adlis ad t-ɣreɣ.
 7537241	fra	Il m’a prêté un livre pour que je le lise.
-7537242	kab	Irḍel-ak-d adlis ad t-teɣreḍ.
+7537242	ber	Irḍel-ak-d adlis ad t-teɣreḍ.
 7537243	fra	Il t’a prêté un livre pour que tu le lises.
-7537244	kab	Irḍel-am-d adlis ad t-teɣreḍ.
+7537244	ber	Irḍel-am-d adlis ad t-teɣreḍ.
 7537245	eng	You need to come see this.
 7537246	eng	I don't have to justify my decision to you.
 7537247	eng	Tom's apartment has exposed-brick walls.
@@ -49998,3 +49809,192 @@
 7537424	eng	I don't think we'll be able to convince Tom to do that.
 7537425	eng	I didn't know you and Tom went to the same high school.
 7537426	eng	Tom is living in the apartment that I used to live in.
+7537427	eng	Tom has been driving us everywhere that we want to go.
+7537428	eng	Swimming is one thing that both Tom and I are good at.
+7537429	eng	Is it true Mr. Jackson is going to be our new teacher?
+7537430	eng	I'm just saying that you shouldn't trust Tom too much.
+7537431	eng	I'll never forget the first time that I saw Tom dance.
+7537432	eng	I think it would be better if we didn't do that today.
+7537433	eng	I had the impression that Tom wasn't enjoying himself.
+7537434	eng	I don't think that giving Tom a knife was a good idea.
+7537435	eng	I don't think that Tom did what he was supposed to do.
+7537436	eng	I didn't know that you and Tom didn't like each other.
+7537437	eng	How can you let your daughter marry somebody like Tom?
+7537438	eng	Are you going to tell Tom you've spent time in prison?
+7537439	eng	Tom is showing Mary the new saxophone he just bought.
+7537440	eng	Tom drives the old car that his grandfather gave him.
+7537441	eng	The woman that Tom married is even fatter than he is.
+7537442	eng	It's no secret that Tom and Mary are having problems.
+7537443	eng	It's no secret Tom's opinion is different from yours.
+7537444	eng	It was obvious that Tom didn't want to talk about it.
+7537445	eng	It doesn't seem to me that Tom knows what he's doing.
+7537446	eng	I thought the best thing would be to tell Tom myself.
+7537447	eng	I think that you'll discover that it was Tom's fault.
+7537448	eng	I think that I'll be able to convince Tom to do that.
+7537449	eng	I think Tom is expecting somebody to make him dinner.
+7537450	eng	I hope we can figure out a way to solve this problem.
+7537451	eng	I don't want you to make the same mistake that I did.
+7537452	eng	I didn't know that Tom and I were from the same town.
+7537453	eng	How can you let your daughter marry someone like Tom?
+7537454	eng	What makes you think that Tom was talking about you?
+7537455	eng	Tom is driving the old car his grandfather gave him.
+7537456	eng	That's not the only thing I don't like about Boston.
+7537457	eng	It's obvious that Tom doesn't want to talk about it.
+7537458	eng	It's hard to believe Tom is only thirteen years old.
+7537459	eng	I'm worried because I think that Tom might get hurt.
+7537460	eng	I'm sure that you'll enjoy studying French with Tom.
+7537461	eng	I think that it's time for us to tell Tom the truth.
+7537462	eng	I think that it's time for us to buy a larger house.
+7537463	eng	I think it's very unlikely that Tom will go bowling.
+7537464	eng	I think Tom is expecting someone to make him dinner.
+7537465	eng	I still can't believe that Tom and Mary got married.
+7537466	eng	I know Tom will always help me when I need his help.
+7537467	eng	Tom ate all the cupcakes Mary baked this afternoon.
+7537468	eng	The letter that was in the mailbox wasn't from Tom.
+7537469	eng	The last time I saw Tom, he was thirteen years old.
+7537470	eng	I'm pretty sure Tom doesn't live in Boston anymore.
+7537471	eng	I'd hoped that we could do that without Tom's help.
+7537472	eng	I thought that Tom would answer all your questions.
+7537473	eng	I think that Tom's plan is better than Mary's plan.
+7537474	eng	I think that Tom is expecting somebody to help him.
+7537475	eng	I think that Tom has been expecting this to happen.
+7537476	eng	I swear that I didn't know that Tom would be there.
+7537477	eng	I didn't realize that Tom was from another country.
+7537478	eng	I didn't know you and Tom were both from Australia.
+7537479	eng	I didn't know you and Tom were both born in Boston.
+7537480	eng	I didn't know that Tom was going to move to Boston.
+7537481	eng	Don't forget that Tom is going to be here tomorrow.
+7537482	eng	Tom was handcuffed to the chair he was sitting on.
+7537483	eng	Tom lets his children do whatever they want to do.
+7537485	eng	I'm afraid Tom will get mad at you if you do that.
+7537486	eng	I wonder if Tom knows how many hours a day I work.
+7537487	eng	I was told that I need your permission to do that.
+7537488	eng	I thought it would be better if you told Tom that.
+7537489	eng	I think that Tom will eventually learn to do that.
+7537490	eng	I think that Tom is expecting someone to help him.
+7537491	eng	I think Tom doesn't like the way I make spaghetti.
+7537492	eng	I think Tom doesn't like the kind of music I play.
+7537493	eng	I swear that I didn't know that Tom would do that.
+7537494	eng	I hope that we can figure out a way to solve this.
+7537495	eng	I heard that Tom has married a very wealthy woman.
+7537496	eng	Have we already drunk all the wine that I brought?
+7537497	eng	Do you think that we should discuss this with Tom?
+7537498	eng	Do you really think that Tom will let you do that?
+7537499	eng	You didn't tell Tom that you're married, did you?
+7537500	eng	Would you consider selling your motorcycle to me?
+7537501	eng	Why do you think that Tom likes baseball so much?
+7537502	eng	What kind of gift can you give somebody like Tom?
+7537503	eng	Tom was probably thirteen years old at that time.
+7537504	eng	Tom needs somebody who speaks French to help him.
+7537505	eng	Tom is living in the apartment I used to live in.
+7537506	eng	Tom is eating the sandwich that you made for him.
+7537507	eng	Tom has been driving us everywhere we want to go.
+7537508	eng	Tom and Mary are married and have three children.
+7537509	eng	Swimming is one thing that Tom and I are good at.
+7537510	eng	Swimming is one thing both Tom and I are good at.
+7537511	eng	It's unlikely that Tom will go to Boston with us.
+7537512	eng	It'll be difficult to get Tom to change his mind.
+7537513	eng	It doesn't matter to me whether Tom comes or not.
+7537514	eng	I'm pretty sure that Tom doesn't do that anymore.
+7537515	eng	I'm just saying you shouldn't trust Tom too much.
+7537516	eng	I'm afraid that Tom is going to try to kill Mary.
+7537517	eng	I'll never forget the first time I saw Tom dance.
+7537518	eng	I think that you should take Tom to the hospital.
+7537519	eng	I have a few more questions that I'd like to ask.
+7537520	eng	I had the impression Tom wasn't enjoying himself.
+7537521	eng	I don't think that very many people will do that.
+7537522	eng	I don't think giving Tom a knife was a good idea.
+7537523	eng	I don't think Tom did what he was supposed to do.
+7537524	eng	I didn't know you and Tom didn't like each other.
+7537525	eng	Getting Tom to show up on time will be difficult.
+7537526	eng	What kind of gift can you give someone like Tom?
+7537527	eng	Tom needs someone who speaks French to help him.
+7537528	eng	Tom drives the old car his grandfather gave him.
+7537529	eng	The woman Tom married is even fatter than he is.
+7537530	eng	It was obvious that Tom didn't want to be there.
+7537531	eng	It was obvious Tom didn't want to talk about it.
+7537532	eng	It doesn't seem to me Tom knows what he's doing.
+7537533	eng	If you want somebody to help you, go ask Tom.
+7537534	eng	I think you'll discover that it was Tom's fault.
+7537535	eng	I think that you'll discover it was Tom's fault.
+7537536	eng	I think that Tom likes animals more than people.
+7537537	eng	I think I'll be able to convince Tom to do that.
+7537538	eng	I doubt that the police are going to arrest Tom.
+7537539	eng	I don't want you to make the same mistake I did.
+7537540	eng	I don't think that many people liked that movie.
+7537541	eng	I didn't know Tom and I were from the same town.
+7537542	eng	I always thought that Tom and Mary were married.
+7537543	eng	French is the only foreign language that I know.
+7537544	eng	Are you absolutely sure that Tom has to do that?
+7537545	eng	You should make sure that you're there on time.
+7537546	eng	Why do you think that that would be impossible?
+7537547	eng	What makes you think Tom was talking about you?
+7537548	eng	Tom is in the living room, asleep on the couch.
+7537549	eng	Should I tell Tom that you're not feeling well?
+7537550	eng	It's obvious Tom doesn't want to talk about it.
+7537551	eng	It's hard to believe that Tom is only thirteen.
+7537552	eng	Is it true that Tom was here all day yesterday?
+7537553	eng	Is it really true that Tom wants me to do that?
+7537554	eng	If you want someone to help you, go ask Tom.
+7537555	eng	I'm worried because I think Tom might get hurt.
+7537556	eng	I'm afraid that the police going to arrest Tom.
+7537557	eng	I wish that I could forget about that incident.
+7537558	eng	I think that it's time for us to buy a new car.
+7537559	eng	I think it's time for us to tell Tom the truth.
+7537560	eng	I think it's time for us to buy a larger house.
+7537561	eng	I hope that that didn't take you too much time.
+7537562	eng	I doubt that the police are going to catch Tom.
+7537563	eng	I didn't think that Tom would be so interested.
+7537564	eng	I didn't know that you and Tom worked together.
+7537565	eng	I didn't know that Tom was one of your friends.
+7537566	eng	Are you sure that this umbrella belongs to Tom?
+7537567	eng	Are you sure that Tom doesn't suspect anything?
+7537568	eng	You didn't even notice that I got my hair cut.
+7537569	eng	Would you consider selling me your motorcycle?
+7537570	eng	Tom was maybe thirteen years old at that time.
+7537571	eng	Tom says that he's interested in volunteering.
+7537572	eng	Tom lets his kids do whatever they want to do.
+7537573	eng	Tom is in the living room, asleep on the sofa.
+7537574	eng	The young police officer put handcuffs on Tom.
+7537575	eng	The police suspect that Tom committed suicide.
+7537576	eng	It seemed that Tom was getting ready to leave.
+7537577	eng	I'm not the one who gave that umbrella to Tom.
+7537578	eng	I'd hoped we could do that without Tom's help.
+7537579	eng	I'd hoped that we could do without Tom's help.
+7537580	eng	I thought Tom would answer all your questions.
+7537581	eng	I think that Tom's plan is better than Mary's.
+7537582	eng	I think Tom's plan is better than Mary's plan.
+7537583	eng	I think Tom is expecting somebody to help him.
+7537584	eng	I think Tom has been expecting this to happen.
+7537585	eng	I swear that I didn't know Tom would be there.
+7537586	eng	I swear I didn't know that Tom would be there.
+7537587	eng	I doubt that the police are going to find Tom.
+7537588	eng	I doubt that the police are going to bust Tom.
+7537589	eng	I didn't realize Tom was from another country.
+7537590	eng	I didn't know that Tom lived in the dormitory.
+7537591	eng	I didn't know Tom was going to move to Boston.
+7537592	eng	French is the only foreign language Tom knows.
+7537593	eng	Don't forget Tom is going to be here tomorrow.
+7537594	eng	Do you think that Tom and Mary will get along?
+7537595	eng	Didn't you know that Tom was taller than Mary?
+7537596	eng	Are you sure that Tom didn't suspect anything?
+7537597	eng	Tom and Mary are married and have three kids.
+7537598	eng	Neighbors said that they heard Tom screaming.
+7537599	eng	Is there something that you want to tell Tom?
+7537600	eng	I'm pretty sure that Tom lives in Boston now.
+7537601	eng	I wish that you wouldn't call me Tom anymore.
+7537602	eng	I was told I need your permission to do that.
+7537603	eng	I think that that question isn't appropriate.
+7537604	eng	I think Tom will eventually learn to do that.
+7537605	eng	I think Tom is expecting someone to help him.
+7537606	eng	I swear that I didn't know Tom would do that.
+7537607	eng	I swear I didn't know that Tom would do that.
+7537608	eng	I promised Tom that I'd play tennis with him.
+7537609	eng	I promised Tom that I'd go swimming with him.
+7537610	eng	I promised Tom that I'd go shopping with him.
+7537611	eng	I hope we can figure out a way to solve this.
+7537612	eng	I heard Tom has married a very wealthy woman.
+7537613	eng	I have the impression that Tom is doing well.
+7537614	eng	I don't believe that your name is really Tom.
+7537615	eng	I didn't know that you and Tom were brothers.
+7537616	eng	Have we already drunk all the wine I brought?
