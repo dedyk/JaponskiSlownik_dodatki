@@ -1,80 +1,3 @@
-2490802	epo	Ĝi estas vere bona libro.
-2490803	eng	She has a tidy apartment.
-2490804	eng	My apartment is messy and cluttered.
-2490805	eng	They looked at him.
-2490806	eng	She looked at him.
-2490807	eng	He has wavy brown hair and dark eyes.
-2490808	eng	She went too far.
-2490809	eng	He went too far.
-2490810	eng	You went too far!
-2490811	eng	My professor of French is my own age.
-2490812	eng	The sheets are clean.
-2490813	eng	The sheets are dirty.
-2490814	fra	Mon professeur de français est de mon âge.
-2490815	eng	He's an attractive guy.
-2490816	por	Cedo ou tarde ele vai lamentar isso.
-2490817	epo	Mia instruistino de la franca havas mian aĝon.
-2490818	fra	Ma professeur de français est de mon âge.
-2490820	spa	No era tan caro como yo pensaba.
-2490821	deu	Ich beginne keinen Satz mit „aber“.
-2490822	deu	Beginne einen Satz nicht mit „aber“!
-2490823	epo	Ne komencu frazon per ‘sed’.
-2490824	jpn	仮眠をとることにした。
-2490825	epo	Ankaŭ mi ankoraŭ ne legis ‘Milito kaj Paco’.
-2490826	deu	Ich habe „Krieg und Frieden“ auch noch nicht gelesen.
-2490827	tur	Ben her yerdeydim.
-2490829	tur	Ülserim var.
-2490830	tur	Davetim var.
-2490831	tur	Bir mazeretim var.
-2490832	tur	Bir acil durumum var.
-2490833	tur	Bir asistanım var.
-2490834	tur	Onu her zaman sevdim.
-2490835	tur	Onu her zaman tanıyordum.
-2490836	tur	Her zaman yardım aldım.
-2490837	tur	Onu önceden gördüm.
-2490838	tur	Onu önceden okudum.
-2490839	tur	Onu önceden yaptım.
-2490840	tur	Onu neredeyse aldım.
-2490841	epo	Ŝi legis la libron Milito kaj Paco dekkvinfoje.
-2490842	tur	Bir web sitem var.
-2490843	tur	Bir fragmanım var.
-2490844	epo	Milito kaj Paco estas unu el la plej longaj romanoj iam skribitaj.
-2490845	tur	Bir tost makinem var.
-2490846	tur	Boş bir odam var.
-2490848	epo	Kion alian vi volas scii?
-2490850	epo	Ĉu li demandis vin pri mi?
-2490851	tur	Bir programım var.
-2490852	tur	Bir yelkenlim var.
-2490853	epo	Ŝia okulo estis ŝvelinta.
-2490854	tur	Bir yüzüğüm var.
-2490855	epo	Homoj estas strangaj.
-2490856	tur	Bir talebim var.
-2490857	tur	Bir planım var.
-2490858	tur	Bir dakikam var.
-2490859	tur	Bir mesajım var.
-2490860	tur	Burada bir listem var.
-2490862	epo	Milito kaj Paco estas unu el la plej imponaj libroj el ĉiuj tempoj.
-2490863	tur	Bir anahtarım var.
-2490864	epo	Ĝi estas unu el la plej imponaj libroj el ĉiuj tempoj.
-2490867	tur	Harika bir işim var.
-2490868	tur	Harika bir fikrim var.
-2490869	tur	İyi bir fikrim var.
-2490870	tur	İyi bir ekibim var.
-2490871	tur	Birkaç dakikam var.
-2490872	tur	Birkaç fikrim var.
-2490873	tur	Birkaç işim var.
-2490874	epo	Mi volas rekompenci al li la insulton.
-2490875	tur	Birkaç dolarım var.
-2490876	tur	Bir sakatlığım var.
-2490877	tur	Ödeyecek bir borcum var.
-2490878	epo	Mi sendis al vi florojn.
-2490879	epo	Ĉu vi ploris?
-2490880	epo	Ploru tiom, kiom vi volas.
-2490882	epo	Ŝi ŝatas florojn kaj plantojn.
-2490883	epo	Ĉu tio estas kvazaŭ truko?
-2490884	tur	Bir kontratım var.
-2490885	epo	Mi ne volas tro personajn amaferojn. Mi amas ĉiujn florojn.
-2490886	epo	Bone, ni faris kontrakton.
 2490887	tur	Bir son teslim tarihim var.
 2490888	epo	Liaj gepatroj estis eksterurbe.
 2490889	tur	Bir itirafım var.
@@ -4066,7 +3989,7 @@
 2495057	eng	Tom cracked several jokes before beginning his speech.
 2495058	rus	Перед началом своей речи Том отпустил несколько шуток.
 2495059	eng	Tom carefully covered up all his mistakes.
-2495060	rus	Том тщательно скрыл все свой ошибки.
+2495060	rus	Том тщательно скрыл все свои ошибки.
 2495061	eng	This book covers the subject completely.
 2495062	rus	В этой книге тема раскрыта полностью.
 2495063	eng	The windows in my room are cracked.
@@ -5131,7 +5054,7 @@
 2496183	ita	Le dica che si deve alzare.
 2496184	ita	Ditele che si deve alzare.
 2496185	rus	Я Вам поверил.
-2496186	rus	Тебе меня не победить. Я играю в теннис с детства.
+2496186	rus	Тебе меня не победить, Том. Я играю в теннис с детства.
 2496187	ita	Dove sono? Cos'è successo?
 2496188	eng	Why didn't you wake me up?
 2496189	eng	Why did you wake me up?
@@ -14262,7 +14185,7 @@
 2505857	eng	Does he have gray hair?
 2505858	epo	La kuirado de pastaĵo estas facila.
 2505859	eng	Does he have a big house?
-2505860	toki	mi kalama uta wawa.
+2505860	tok	mi kalama uta wawa.
 2505861	epo	Mi ŝatas sanga mian bifstekon.
 2505862	spa	Me gusta mi bistec poco cocido.
 2505863	fra	J'aime mon bifteck saignant.
@@ -14275,7 +14198,7 @@
 2505870	eng	When is the last time you showered?
 2505871	eng	When's the last time you showered?
 2505872	epo	"Vi ne havas bonan rilaton kun via patro?" "......." "Pardonu, tio estis nesentema de mi."
-2505873	toki	sina wile ala tawa la o awen.
+2505873	tok	sina wile ala tawa la o awen.
 2505874	epo	Ne ĉiam estas facile atingi sian celon.
 2505875	epo	Mi ŝatus esti kia li.
 2505876	eng	How is it possible?
@@ -14349,7 +14272,7 @@
 2505949	epo	Mezsangita kaj terpomo, mi petas.
 2505950	spa	Él trabaja en algunos proyectos realmente locos.
 2505951	spa	Poco cocido y una papa, por favor.
-2505952	toki	telo sewi li pini ala pini?
+2505952	tok	telo sewi li pini ala pini?
 2505953	fra	Saignant et une pomme de terre, s'il vous plaît.
 2505954	spa	Yo no me afeito las piernas.
 2505955	jbo	.ue cu'i
@@ -17665,7 +17588,7 @@
 2509487	eng	Tom has his first date with Mary tonight.
 2509488	rus	Сегодня вечером у Тома первое свидание с Мэри.
 2509489	eng	Tom has kept me in the dark about his plans.
-2509490	rus	Том скрывал от меня свой планы.
+2509490	rus	Том скрывал от меня свои планы.
 2509492	rus	Том смуглолицый.
 2509493	eng	Tom phoned me yesterday from Boston.
 2509494	rus	Вчера Том звонил мне из Бостона.
@@ -19196,7 +19119,7 @@
 2511150	ber	Ẓriɣ kemm tettxemmeḍ ulac assirem.
 2511151	ita	Tom a volte chiama Mary anche cinque volte al giorno.
 2511152	nld	Ik weet niets over zijn verleden.
-2511153	ita	Questo lago ha la profondità massima in questo punto
+2511153	ita	Questo lago ha la profondità massima in questo punto.
 2511154	ita	Non so niente del suo passato.
 2511155	ita	Io non so niente del suo passato.
 2511156	ita	Non so nulla del suo passato.
@@ -32425,7 +32348,7 @@
 2525759	deu	Dieses Problem ist für mich zu schwierig zu erklären.
 2525760	tur	Bu öyle değil.
 2525761	rus	Он взял в руки экспонат и начал тщательно его рассматривать.
-2525763	rus	Она взял в руки экспонат и начала его пристально изучать.
+2525763	rus	Она взяла в руки экспонат и начала его пристально изучать.
 2525764	deu	Diese Aufgabe ist für Grundschulkinder zu schwierig.
 2525765	rus	Я не королевская особа, так что не стоит вставать передо мной на колени.
 2525766	tur	Bu ilgili değil.
@@ -32652,7 +32575,7 @@
 2526018	tur	O çalışırdı.
 2526019	tur	O yardım ederdi.
 2526020	tur	O izlerdi.
-2526021	tur	O uyardı.
+2526021	tur	Bu uyar.
 2526022	tur	Bu beni endişelendiriyor.
 2526023	tur	Bu iyi çalıştı.
 2526025	tur	Bu değişmeyecek.
@@ -32774,7 +32697,7 @@
 2526152	epo	Vi devos liveri vian raporton lundon.
 2526154	epo	Mary estas la koramikino de Tom.
 2526156	deu	Sie hatte zwei Mobiltelefone. Eins zum Verlieren, und das andere, um das verlorene per Anruf wiederfinden zu können.
-2526158	ita	Probabilmente ci metterai circa 10 minuti per risolvere questo problema
+2526158	ita	Probabilmente ci metterai circa 10 minuti per risolvere questo problema.
 2526159	ber	Iwiɣ‑tt d aqjam.
 2526160	deu	Wir geben uns Mühe.
 2526161	epo	La bremsoj ne funkciis.
@@ -40757,7 +40680,7 @@
 2534818	eng	In the end, he still had something to say.
 2534819	eng	I know you have more important things to do.
 2534820	eng	It's free and fast!
-2534821	eng	What helps you to sleep better?
+2534821	eng	What helps you sleep better?
 2534822	eng	It's of my liking.
 2534823	epo	Mi ne povas imagi, kia estus vivo sur alia planedo.
 2534824	eng	Tomorrow will be the day of truth.
@@ -49998,3 +49921,80 @@
 2544178	eng	I'm going to set the table.
 2544179	eng	I'm going to see you later.
 2544180	eng	I'm going to see Tom again.
+2544181	eng	I'm going to open the wine.
+2544182	eng	I'm going to need a minute.
+2544183	eng	I'm going to miss you, Tom.
+2544184	eng	I'm going to miss you guys.
+2544185	eng	I'm going to lock the door.
+2544186	eng	I'm going to join the army.
+2544187	eng	I'm going to go inside now.
+2544188	eng	I'm going to do that again.
+2544189	eng	I'm going to do it for you.
+2544190	eng	I'm going to deal with Tom.
+2544191	eng	I'm going to call you back.
+2544192	eng	I'm going to call it a day.
+2544193	eng	I'm going to call for help.
+2544194	eng	I'm going to be right here.
+2544195	eng	I'm going jogging tomorrow.
+2544196	eng	I'm going back to work now.
+2544197	eng	I'm going as fast as I can.
+2544198	eng	I'm glad you're still here.
+2544199	eng	I'm glad you feel that way.
+2544200	eng	I'm glad you could make it.
+2544201	eng	I'm glad you agree with me.
+2544202	eng	I'm glad we got here early.
+2544203	eng	I'm glad it all worked out.
+2544204	eng	I'm getting a little drunk.
+2544205	eng	I'm feeling better already.
+2544206	eng	I'm feeling a little woozy.
+2544207	eng	I'm feeling a little tense.
+2544208	eng	I'm fairly sure it'll work.
+2544209	eng	I'm excited about tomorrow.
+2544210	eng	I'm doing this to help Tom.
+2544211	eng	I'm doing a lot of reading.
+2544212	eng	I'm delighted to hear that.
+2544213	eng	I'm certain it can be done.
+2544214	eng	I'm calling from my mobile.
+2544215	eng	I'm better off without you.
+2544216	eng	I'm being paid to help you.
+2544217	eng	I'm aware of your problems.
+2544218	eng	I'm aware of the situation.
+2544219	eng	I'm asking you to trust me.
+2544220	eng	I'm anxious to get started.
+2544221	eng	I'm afraid you're too late.
+2544222	eng	I'm afraid Tom will say no.
+2544223	eng	I'm afraid I have bad news.
+2544224	eng	I'm about to take Tom home.
+2544225	eng	I'm a pretty good handyman.
+2544226	eng	I'm a different person now.
+2544227	eng	I'm a big fan of your work.
+2544228	eng	I'll write it down for you.
+2544229	eng	I'll turn thirty next week.
+2544230	eng	I'll try to control myself.
+2544231	eng	I'll tell you when to stop.
+2544232	eng	I'll tell you what I'll do.
+2544233	eng	I'll tell you what I think.
+2544234	eng	I'll tell you if I find it.
+2544235	eng	I'll tell Tom you're ready.
+2544236	eng	I'll tell Tom where I went.
+2544237	eng	I'll teach you many things.
+2544238	eng	I'll take Tom there myself.
+2544239	eng	I'll take good care of Tom.
+2544240	eng	I'll take care of your dog.
+2544241	eng	I'll take care of it later.
+2544242	eng	I'll stay right where I am.
+2544243	eng	I'll show you to your room.
+2544244	eng	I'll settle with you later.
+2544245	eng	I'll send you the schedule.
+2544246	eng	I'll send a message to Tom.
+2544247	eng	I'll see you later tonight.
+2544248	eng	I'll see you later at home.
+2544249	eng	I'll see you in a few days.
+2544250	eng	I'll see you all next week.
+2544251	eng	I'll see to it immediately.
+2544252	eng	I'll return in ten minutes.
+2544253	eng	I'll open the door for you.
+2544254	eng	I'll never trust you again.
+2544255	eng	I'll never trust Tom again.
+2544256	eng	I'll never leave you again.
+2544257	eng	I'll never forget you, Tom.
