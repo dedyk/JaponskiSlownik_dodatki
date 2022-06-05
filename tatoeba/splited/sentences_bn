@@ -1,68 +1,3 @@
-2062483	pes	حال مادرم بهتر است.
-2062484	pes	با دانش امروز، ممکن است دیروز اشتباهات دیگری انجام داده باشم.
-2062485	pes	دانشجویان بااستعداد تحصیلی به دیگران در کلاس کمک کردند.
-2062486	pes	به دلیل اینکه می توان سرعت بازتکرار صدا روی دستگاه ضبط صوت همراه را تغییر داد، من از آن برای یادگیری فرانسه استفاده می کنم.
-2062487	pes	اقیانوس را ستایش کن، اما بر روی خشکی بمان.
-2062488	pes	تو فقط یکبار زندگی می کنی.
-2062489	pes	آنها زیان زیادی کرده اند.
-2062490	pes	کنفرانس تا ساعت 5 ادامه یافت.
-2062491	pes	می توانم بعدازظهر به شنا بروم.
-2062492	pes	مسئولیت بر عهده من است.
-2062493	spa	No lo olvidaremos nunca más.
-2062494	nld	Hij komt niet altijd te laat.
-2062495	heb	אח הוא כמו כתף.
-2062496	deu	Sie verdient mehr als sie ausgibt.
-2062497	eng	Hello, new timer here hailing from Canada!
-2062498	fra	Salut ! Je suis nouveau ici et je vous salue du Canada !
-2062499	fra	Elle gagne davantage qu'elle ne dépense.
-2062500	fra	Elle gagne plus qu'elle ne dépense.
-2062501	rus	Ему удалось сбежать через окно.
-2062502	eng	You could've said something.
-2062503	fra	Tu aurais pu dire quelque chose !
-2062504	eng	You've got to do something.
-2062505	fra	Vous auriez pu dire quelque chose !
-2062506	eng	You're something else.
-2062507	eng	You're forgetting something.
-2062508	eng	You'll think of something.
-2062509	eng	You should eat something.
-2062510	fra	On ne peut pas enterrer la vérité.
-2062511	eng	You should do something you enjoy doing.
-2062512	fra	Tu ne sais pas danser, si ?
-2062513	eng	You really are something.
-2062514	fra	Vous ne savez pas danser, si ?
-2062515	fra	On ne peut plus l'acheter.
-2062516	fra	On ne saurait le faire trop tôt.
-2062517	rus	Почему ты всегда такой злой?
-2062518	fra	Tu ne peux pas le faire, si ?
-2062519	fra	Vous ne pouvez pas le faire, si ?
-2062522	fra	Tu ne devrais pas être là-dedans.
-2062523	fra	Vous ne devriez pas être là-dedans.
-2062524	fra	Tu ne devrais pas te trouver là-dedans.
-2062525	fra	Vous ne devriez pas vous trouver là-dedans.
-2062526	fra	Tu passes à côté.
-2062527	fra	Vous passez à côté.
-2062528	heb	שאלתי אותו אם אפשר לקרוא את הספר שלו.
-2062529	fra	Tu ne saisis pas.
-2062530	fra	Vous ne saisissez pas.
-2062532	rus	Вчерашние враги завтра могут стать друзьями.
-2062533	fra	Et alors, qu'as-tu fait ?
-2062534	fra	Et alors, qu'avez-vous fait ?
-2062535	rus	Не рассчитывай на его помощь.
-2062536	rus	Этот город находится в Соединённых Штатах.
-2062537	rus	Она не такая красивая, как её сестра.
-2062538	heb	זה ילמד אותך לא להציק לאנשים אחרים.
-2062539	eng	This will teach you not to annoy other people.
-2062540	heb	למה זה לא עובד?
-2062541	heb	המברשת הזאת עשויה שיער גמל.
-2062542	rus	Откуда?
-2062543	rus	Они уже не дети, но ещё и не взрослые.
-2062544	rus	Ты не должен был этого делать.
-2062545	epo	Hardu vian spiriton, hejtu vian koron.
-2062546	eng	I could use something to drink.
-2062547	eng	You must eat something.
-2062548	eng	There's something missing.
-2062549	eng	There's something on the table.
-2062550	eng	Something terrible's happened.
 2062551	rus	Компьютеры - это сложные машины.
 2062552	eng	I forgot to tell you something.
 2062553	rus	Мальчик рассказал мне, почему он плачет.
@@ -1263,11 +1198,11 @@
 2063871	epo	Kie vi aĉetis la florojn?
 2063872	deu	Wer zu schweigen nicht versteht, der versteht es auch nicht zu sprechen.
 2063873	rus	Где ты купил цветы?
-2063875	toki	sina esun e kasi lon seme?
+2063875	tok	sina esun e kasi lon seme?
 2063876	deu	Mein Rechner schaltet sich manchmal unvermittelt aus.
 2063877	epo	Mi ne vendos la fabrikojn.
 2063878	epo	Vi mensogis al mi!
-2063879	toki	o toki ala!
+2063879	tok	o toki ala!
 2063881	epo	Mi estas riĉa.
 2063884	epo	Parolu mallaŭte.
 2063885	epo	Ĉu vi povas diri al mi, kie ĝi estas?
@@ -2892,7 +2827,7 @@
 2065919	fra	Je l'ai fait de plein gré.
 2065921	fra	Pouvez-vous résoudre l'énigme, les mecs ?
 2065922	ber	Ilemmed s tɣawla.
-2065923	toki	mi pilin e ni: jan sewi li ala.
+2065923	tok	mi pilin e ni: jan sewi li ala.
 2065924	ara	يتعلم بسرعة.
 2065926	ara	هو سريع التعلم.
 2065927	fra	Les journaux n'ont pas imprimé cette histoire.
@@ -3000,7 +2935,7 @@
 2066077	rus	Том - мужеложец.
 2066081	spa	La cerveza caliente es asquerosa.
 2066083	pan	ਮੱਧਕਾਲੀਨ ਸਮੇਂ ਵਿਚ ਦੁੱਧ ਦਵਾਈ ਜਿਨਾ ਹੀ ਮਸ਼ਹੂਰ ਸੀ।
-2066084	toki	mije Ton li wile unpa e mije.
+2066084	tok	mije Ton li wile unpa e mije.
 2066086	fra	C'est l'heure d'aller te coucher.
 2066087	fra	C'est l'heure d'aller vous coucher.
 2066090	fra	Il a porté plainte.
@@ -3310,7 +3245,7 @@
 2066511	epo	Io embarasa okazis pasintsemajne.
 2066512	epo	Senkulpulo erare arestiĝis.
 2066513	epo	Mi supozas, ke Tom estas iel enplektita en tio.
-2066514	epo	Mi supozas, ke mi faris ion, kio ĉagrenis Tom.
+2066514	epo	Mi supozas, ke mi faris ion, kio ĉagrenis Tomon.
 2066515	epo	Vi pli bone eliru de tie.
 2066516	epo	Ili ne permesos al ni iri en la ĝardenon.
 2066517	epo	Konduku la sinjoron al la elirejo!
@@ -4286,8 +4221,8 @@
 2067805	eng	OK, who are you?
 2067806	heb	בסדר, מי אתה?
 2067807	heb	בסדר, מי את?
-2067808	toki	mi ken musi wawa e utala lon supa pi kule tu.
-2067810	toki	pona! sina seme?
+2067808	tok	mi ken musi wawa e utala lon supa pi kule tu.
+2067810	tok	pona! sina seme?
 2067821	heb	שכבנו על הדשא.
 2067822	heb	זה של אחי.
 2067823	heb	היא שייכת לאחי.
@@ -4317,7 +4252,7 @@
 2067861	tur	Çocuk bir oyuncak istiyor.
 2067862	rus	Я разочарован его отсутствием.
 2067863	tur	Çalı yanıyor.
-2067864	toki	mi pilin ike tan ni: ona li lon ala.
+2067864	tok	mi pilin ike tan ni: ona li lon ala.
 2067865	tur	Araba sarsıldı.
 2067866	rus	На небе так много звёзд, я не могу пересчитать их.
 2067867	heb	האופניים הם שלי.
@@ -4355,7 +4290,7 @@
 2067914	ita	È da domenica che piove.
 2067915	tur	Balık kötü kokuyor.
 2067916	rus	Не используйте "открыть", когда на самом деле вы подразумеваете "изобрести".
-2067918	toki	jan Ton li wile e ni: jan Mewi li lukin e jan lili.
+2067918	tok	jan Ton li wile e ni: jan Mewi li lukin e jan lili.
 2067919	tur	Isı yoğun.
 2067920	epo	Tomaso petis Maria'n varti la infanojn.
 2067922	tur	Mektup geri geldi.
@@ -4403,7 +4338,7 @@
 2067990	epo	Mi mem faris tiun ĉi hundujon.
 2067991	tur	İçeride yer var.
 2067992	tur	Bunlar kötü zamanlar.
-2067993	toki	mi taso li pali e tomo soweli ni.
+2067993	tok	mi taso li pali e tomo soweli ni.
 2067994	rus	Не забудь запереть дверь.
 2067995	urd	ہمیں اب چلنا نہیں چاہیئے؟
 2067996	eng	The house fell down one week later.
@@ -4938,7 +4873,7 @@
 2068566	hun	Ez milyen madár?
 2068567	epo	Ŝi manĝadas nur legomojn.
 2068568	hun	Miféle madár ez?
-2068569	toki	ona li moku e kili taso.
+2068569	tok	ona li moku e kili taso.
 2068570	rus	Пираты спрятали сокровища под землей.
 2068571	hun	Kórházba ment tegnap.
 2068572	epo	Mi estas tiom saĝa, ke iam mi ne povas kompreni eĉ unu vorton el tio, kion mi diras.
@@ -4947,7 +4882,7 @@
 2068575	epo	Li laboras en granda amerika firmao.
 2068576	rus	Он работает в крупной штатовской фирме.
 2068577	rus	Он работает в крупной американской фирме.
-2068578	toki	ona li pali lon tomo pali suli Mewika.
+2068578	tok	ona li pali lon tomo pali suli pi ma Mewika.
 2068579	epo	Montru al mi la menuon.
 2068581	epo	Donu al mi la menuon.
 2068582	rus	Ты должен сделать это сейчас же.
@@ -5013,7 +4948,7 @@
 2068686	rus	Без понятия.
 2068692	epo	Mi sentas min tre malkomforte, kiam mi rimarkas lian rigardon al mi.
 2068693	deu	Ich glaube, er war ärgerlich.
-2068695	toki	ona li lukin e mi la mi pilin ike.
+2068695	tok	ona li lukin e mi la mi pilin ike.
 2068696	heb	אני אוכל תפוח.
 2068697	heb	אני אוכלת תפוח.
 2068701	deu	Sie hat gestern ein bisschen Gemüse gekauft.
@@ -5116,7 +5051,7 @@
 2068826	heb	היה עדין ושתוק.
 2068827	deu	Ich hatte den Schlüssel vergessen und bin deshalb noch einmal zurückgegangen.
 2068828	rus	Пообедав, они ушли.
-2068829	toki	ona li pini moku li tawa weka.
+2068829	tok	ona li pini moku li tawa weka.
 2068830	heb	הרובע הצרפתי בשנחאי בוודאי קטן מזה הבריטי, אך לדעתי בעל קסם רב יותר. מחמת אופיי הלאומני, בוודאי תגיד.
 2068831	heb	אינני מאמין שהוא כנה.
 2068832	deu	Viele Leute auf der Welt beklagen, dass sie keine Zeit zum Lesen haben.
@@ -5322,7 +5257,7 @@
 2069053	deu	Feiert man in diesem Land Weihnachten?
 2069054	epo	Ĉu estas elirmalpermeso?
 2069055	deu	Für diesen Geldbetrag bekommst du nur ein Brot.
-2069056	toki	mi unpa ala e meli ni.
+2069056	tok	mi unpa ala e meli ni.
 2069057	deu	Für so viel Geld bekommst du nur ein Brot.
 2069058	por	Eu tento não usar mais papel do que preciso.
 2069059	epo	Tankoj ne timas koton.
@@ -6684,7 +6619,7 @@
 2070583	eng	Tom is a likeable person.
 2070584	lat	Habesne liberos?
 2070585	vol	Li-labol cilis?
-2070587	toki	sina jo ala jo e jan lili?
+2070587	tok	sina jo ala jo e jan lili?
 2070588	swe	Han vill inte att du berättar för honom om ditt sexliv.
 2070589	swe	Han vill inte att du berättar för honom om ert sexliv.
 2070590	swe	Han vill inte att ni berättar för honom om ert sexliv.
@@ -6704,11 +6639,11 @@
 2070604	deu	Die Esperanto-Handbücher sind billig.
 2070605	deu	Tom ist ein sympathischer Mann.
 2070606	rus	Она приоткрыла дверь.
-2070607	toki	ona li open lili e lupa tawa.
+2070607	tok	ona li open lili e lupa tawa.
 2070608	rus	В апельсинах много витамина "C".
 2070609	ita	Da chi ha preso?
 2070610	epo	Inter ni estas fremduloj!
-2070611	toki	jan ante li lon poka pi mi mute!
+2070611	tok	jan ante li lon poka pi mi mute!
 2070612	epo	La ĉas-hundoj ĉasas la vulpon.
 2070613	epo	Finfine ili konsentis nian edziĝon.
 2070614	ber	Ɣef waya ay rfiɣ fell-as.
@@ -8513,7 +8448,7 @@
 2072557	rus	У тебя есть что поесть?
 2072558	rus	Я не знал, что ты приедешь.
 2072559	epo	Ni promenadis sur la blanka strando je la plej tristaj horoj.
-2072560	epo	Ĉu mi faris ion, kio ĉagrenis Tom?
+2072560	epo	Ĉu mi faris ion, kio ĉagrenis Tomon?
 2072561	deu	Schaff sie hier raus!
 2072562	deu	Schaffen Sie sie hier raus!
 2072563	deu	Schafft sie hier raus!
@@ -10039,7 +9974,7 @@
 2074252	rus	Он всё знает.
 2074253	jpn	火星は二つ衛星がある。
 2074254	eng	In Japan there are a lot of beautiful cities. Kyoto and Nara, for example.
-2074255	toki	jan li pilin e ijo la ona li ken toki e ni ali kepeken toki pi ma ante.
+2074255	tok	jan li pilin e ijo la ona li ken toki e ni ali kepeken toki pi ma ante.
 2074256	eng	Tanks aren't afraid of dirt.
 2074257	eng	Tanks don't fear dirt.
 2074258	rus	Человек рождается без зубов, без волос и без иллюзий, и умирает так же - без волос, без зубов и без иллюзий.
@@ -10089,7 +10024,7 @@
 2074306	ita	Il mio computer è tornato a casa.
 2074307	deu	Ich weiß wirklich nicht, warum er das Buch geschrieben hat.
 2074308	rus	Сегодня погода дождливая.
-2074309	toki	telo nasa li pakala e insa jan.
+2074309	tok	telo nasa li pakala e insa jan.
 2074310	heb	תום אתלט מבטן ולידה.
 2074311	heb	נכנעתי לדרישותיהם.
 2074312	heb	למורה שלנו יש עכשיו מצב רוח טוב.
@@ -10179,7 +10114,7 @@
 2074412	heb	הנה משאית עצומה!
 2074415	hun	Hol lakik ön?
 2074416	hun	Hol laktok?
-2074420	toki	jan li ken toki e ali kepeken toki pi ma ante.
+2074420	tok	jan li ken toki e ali kepeken toki pi ma ante.
 2074422	hun	Tavaly New-Yorkban laktam.
 2074423	hun	A múlt évben New-Yorkban éltem.
 2074426	hun	Bocsánat. Mit mondott?
@@ -14684,7 +14619,6 @@
 2079596	heb	היא רוצה לנשק אותה.
 2079597	ukr	Я наривався на неодноразовий обман.
 2079598	eng	Please ensure that your speakers are connected and sound turned up. Please note that the file size to be viewed/downloaded is large so the download times may vary depending upon the local internet connectivity.
-2079599	ces	Já stál před opakovaného podvodu.
 2079601	rus	Знай, что я храплю.
 2079602	rus	Такэси поднял руку, чтобы задать вопрос.
 2079603	rus	Том не хотел, чтобы Мэри подумала о нём как об осле.
@@ -15899,7 +15833,7 @@
 2080934	deu	An einem solch kalten Tag möchte nicht ohne Mantel rausgehen.
 2080935	vie	Thắp đèn lên đi. Tôi chẳng nhìn thấy gì cả !
 2080936	vie	Tôi đã mơ về anh ấy !
-2080937	toki	jan li ken toki e pilin ali ona kepeken toki pi ma ante.
+2080937	tok	jan li ken toki e pilin ali ona kepeken toki pi ma ante.
 2080938	ita	Lo sapevate che questa è una falsità grossa come una casa?
 2080939	rus	Представляю, как чувствуют себя звезды на гастролях!
 2080940	eng	I can imagine how the stars feel on tour.
@@ -16035,7 +15969,7 @@
 2081134	epo	Mi ne komprenas tute, kion vi volas diri.
 2081136	epo	Informu min, kiam vi estos preta.
 2081137	epo	La filmo estis vere enuiga.
-2081138	epo	Ĉu vi enuiĝas ĉi tie?
+2081138	epo	Ĉu vi enuas tie ĉi?
 2081139	epo	La pordo estis nur tuŝanta, ne fermita.
 2081140	epo	Estis preskaŭ tagmeze, kiam li atingis la urbon.
 2081141	epo	Dimanĉe la muzeo estas fermita.
@@ -16047,7 +15981,7 @@
 2081147	pol	Kto znalazł przyjaciela, skarb znalazł.
 2081148	epo	Tom bone zorgas por Mary.
 2081149	epo	La sovetia avangarda scienco malkaŝis la tutan senbazecon de la rasismaj elpensaĵoj fare de usonaj kaj anglaj burĝaj biologoj kaj sociologoj.
-2081150	toki	meli mute sin li lon seme?
+2081150	tok	meli mute sin li lon seme?
 2081151	epo	Eble ni ne havos la kapitalon por aĉeti ĝin.
 2081152	epo	Kie estas la ceteraj knabinoj?
 2081153	epo	Kie estas la ceteraj fraŭlinoj?
@@ -16740,9 +16674,9 @@
 2081908	fra	Dites-moi où est Tom.
 2081909	fra	Je suis tout à fait d'accord !
 2081910	fra	L'hiver est la saison la plus froide de l'année, la preuve, de la neige y tombe !
-2081911	eng	Winter is the coldest season of the year, proof, sometime it snows.
+2081911	eng	Winter is the coldest season of the year. As proof, sometimes it snows.
 2081912	fra	L'abaissement de ses notes fut progressif.
-2081913	eng	His mark's lowering was progressive.
+2081913	eng	His marks fell steadily.
 2081914	heb	אני יודע שלא תבוא למסיבה שלי, אבל הייתי רוצה שתבוא.
 2081915	rus	Мы не знали, какую машину купить.
 2081916	rus	Это всего лишь игра.
@@ -16962,7 +16896,7 @@
 2082151	heb	אני מבקשת ממך, שתקשיב לי עד הסוף, לפני שאתה מתפרץ ומתנגד.
 2082152	heb	אני צ'יליאני מלידה ודובר ספרדית גאה.
 2082153	swe	Jag vill bara ha kul.
-2082154	fra	A cause de toi, j'ai des problèmes de pression sanguine.
+2082154	fra	À cause de toi, j'ai des problèmes de tension artérielle.
 2082155	heb	היא חיכתה לבעלה אחרי ספונג'ה מושלמת כזאת, שהעכברים חטפו התקף לב.
 2082156	rus	Все ушли на фронт.
 2082157	spa	Él siempre habla mal de su esposa.
@@ -18762,7 +18696,7 @@
 2084055	epo	La registaro de la lando nun estas stabila.
 2084056	fra	Si vous traduisez de votre seconde langue dans votre propre langue maternelle, plutôt que dans l'autre sens, il y a moins de chances que vous commettiez des fautes.
 2084057	rus	Правительство страны сейчас устойчиво.
-2084058	toki	tenpo ni la jan lawa ma li wawa.
+2084058	tok	tenpo ni la jan lawa ma li wawa.
 2084059	fra	« L'économie en partant du haut vers le bas, ça ne marche jamais, » a dit Obama. « Le pays ne réussit pas lorsque seulement ceux qui sont au sommet s'en sortent bien. Nous réussissons lorsque la classe moyenne s'élargit, lorsqu'elle se sent davantage en sécurité. »
 2084060	rus	В настоящее время нефть имеется в достаточном количестве, однако очевидно, что её запасы не бесконечны.
 2084061	fra	Ça fait deux heures que j'essaie de mettre la main sur toi.
@@ -25874,7 +25808,7 @@
 2091574	rus	Дверь осталась закрытой.
 2091575	rus	Под партой лежит яблоко.
 2091576	ces	Narodila se devatenáctého listopadu 1946 v Kalifornii.
-2091577	toki	kili li lon anpa pi supa sitelen.
+2091577	tok	kili li lon anpa pi supa sitelen.
 2091578	ces	Pod stolem leží jablko.
 2091579	epo	La avo aĉetis multekostan ludilon por li.
 2091580	rus	Дед купил ему дорогую игрушку.
@@ -25887,7 +25821,7 @@
 2091587	deu	Ich würde Tom nicht bitten, irgendetwas zu tun, was er nicht wirklich tun möchte.
 2091588	ces	Všechno je tu pokryto prachem.
 2091589	ces	Je tu vše zaprášeno.
-2091590	toki	tenpo ni la jan li ken pakala e ma ali.
+2091590	tok	tenpo ni la jan li ken pakala e ma ali.
 2091591	ces	Cena ropy stoupá.
 2091592	deu	Jeden Tag gehe ich ins Café und trinke Kaffee.
 2091593	deu	Du und ich, wir sind gleichaltrig.
@@ -26019,14 +25953,14 @@
 2091728	rus	Ключ на столе.
 2091729	ces	Dnes večer nikdo nepřijde na náš mejdan.
 2091731	ita	Dov'è esattamente il tuo ufficio?
-2091732	toki	ilo open li lon supa.
+2091732	tok	ilo open li lon supa.
 2091734	ita	Dov'è esattamente il suo ufficio?
 2091735	ita	Dov'è esattamente il vostro ufficio?
 2091736	heb	כל גאליה מחולקת לשלושה.
 2091737	heb	כל גאליה מחולקת לשלושה חלקים.
 2091738	heb	אף אחד לא בא הערב למסיבה שלנו.
 2091739	epo	Neniu venas hodiaŭ vespere al nia festeno.
-2091740	toki	jan ali li olin e jan Siwe.
+2091740	tok	jan ali li olin e jan Siwe.
 2091741	epo	Stefano estis amata de ĉiuj.
 2091742	rus	Стив был любим всеми.
 2091743	lat	Stephanus ab omnibus amabatur.
@@ -27048,7 +26982,7 @@
 2092804	deu	Eure Forderungen sind unvernünftig.
 2092805	deu	Es hat zu nichts geführt.
 2092806	rus	У Тома больше не было вопросов.
-2092808	toki	jan Ton li wile sona e ala sin.
+2092808	tok	jan Ton li wile sona e ala sin.
 2092809	deu	Lass es unentschieden.
 2092810	deu	Lassen Sie es unentschieden.
 2092811	deu	Lasst es unentschieden.
@@ -27554,7 +27488,7 @@
 2093338	ita	Devo riuscire a disintossicarmi.
 2093339	nld	Hier! En vergeet mijn goedheid niet.
 2093340	nld	Pak aan! En ontzeg jezelf niets.
-2093341	toki	mi pilin ala e ni: jan sewi li lon.
+2093341	tok	mi pilin ala e ni: jan sewi li lon.
 2093342	nld	Ga weg! Ik doe het zelf wel!
 2093343	nld	Sorry, ik zal het niet meer doen.
 2093345	jbo	.a'a .i ko di'a co'e .i ba ku ma fasnu
@@ -28002,7 +27936,7 @@
 2093811	epo	Li devus kapitulacii.
 2093812	epo	Li devus cedi.
 2093813	epo	Neniu scias lian nomon.
-2093814	toki	jan ali li sama ala.
+2093814	tok	jan ali li sama ala.
 2093815	epo	Neniu ofendas vin.
 2093816	epo	Neniu sciis kiel respondi la demandon.
 2093817	epo	Neniu invitis min al la festo.
@@ -28065,7 +27999,7 @@
 2093876	epo	Ĉu iu alia estis ĉirkaŭe?
 2093877	ukr	Брати гроші в борг проти моїх правил.
 2093878	epo	Ĉu iu alia estis tie?
-2093879	toki	kulupu pi tomo pali li pana e lipu toki.
+2093879	tok	kulupu pi tomo pali li pana e lipu toki.
 2093880	epo	Ĉu vi vidas iu nun?
 2093881	ukr	Ти і я - ми обидва повинні піклуватися про собаку.
 2093882	epo	Ĉu vi vidas iun?
@@ -28082,7 +28016,7 @@
 2093897	epo	Mi ne kutime atendas iun.
 2093898	epo	Mi ne fidas al iu ajn.
 2093899	epo	Ne fidu al iu ajn.
-2093900	toki	meli li sitelen pona e nimi li pakala e nimi tu anu nimi wan tu taso.
+2093900	tok	meli li sitelen pona e nimi li pakala e nimi tu anu nimi wan tu taso.
 2093901	heb	בואו נודֶה בָּאמת: המשפט הזה פשוט גרוע.
 2093902	eng	Let's face it: this sentence is simply bad.
 2093903	epo	Mi ne pensas, ke Tom ŝatas iun.
@@ -29223,7 +29157,7 @@
 2095092	rus	Том выглядит нездоровым.
 2095093	rus	Том скучает по тебе.
 2095094	rus	Том побледнел.
-2095095	toki	sinpin pi jan Ton li kama walo.
+2095095	tok	sinpin pi jan Ton li kama walo.
 2095096	epo	Tomaso paliĝis.
 2095097	jpn	やってみるつもりだ。
 2095098	jpn	屋根裏部屋にいるよ。
@@ -29523,7 +29457,7 @@
 2095407	heb	אף אחד לא תִשאֵל אותך?
 2095408	epo	Ĉiu amis Tom.
 2095409	epo	Ĉiuj amis Tomason.
-2095410	toki	jan ali li olin e jan Ton.
+2095410	tok	jan ali li olin e jan Ton.
 2095411	rus	Все любили Тома.
 2095412	heb	תום לא פצע אף אחד.
 2095413	heb	תום לא נתן אמון באיש.
@@ -30442,7 +30376,7 @@
 2096355	spa	Ahora voy para allá.
 2096357	epo	Mi neniam antaŭe havis amikinon.
 2096359	spa	Se lo diré a Tom más tarde.
-2096360	toki	mi wile kama sona e nimi mute sin.
+2096360	tok	mi wile kama sona e nimi mute sin.
 2096361	epo	Mi diris al vi, ke mi havas amikinon.
 2096364	epo	Amikinon mi ne havas.
 2096365	epo	Amikinon ne havas mi.
@@ -30452,7 +30386,7 @@
 2096369	epo	Mi nur provas esti amika.
 2096370	epo	Mi ĉesos provi esti amika kun vi.
 2096371	epo	Mi esperas, ke ili estas amikaj.
-2096372	toki	sinpin tomo ni li lete mute pilin.
+2096372	tok	sinpin tomo ni li lete mute pilin.
 2096373	epo	La muro estas tre malvarma palpe.
 2096374	pes	تام نمی داند مری الان چکار می کند.
 2096375	heb	טום לא יודע מה מרי עושה עכשיו.
@@ -31223,7 +31157,6 @@
 2097179	jbo	le'o ro ko tinbe fi mi
 2097180	eng	Hey! Everybody get in line! Follow me!
 2097181	jbo	le'ocu'i mi pu troci lo nu slabu rinsa do
-2097182	eng	Hey, I was trying to familiarly greet you.
 2097183	jbo	.i le'ocu'i do na bredi lo nu casnu lo kagni kei poi plixau
 2097184	eng	No worries, you aren't ready to talk about the company, which is useful.
 2097185	jbo	lo go'i na danfu lo mi preti vau le'o nai
@@ -31421,10 +31354,10 @@
 2097380	rus	У одной маленькой девочки на носу выросли две голубые ленты. Случай особенно редкий, ибо на одной ленте было написано «Марс», а на другой — «Юпитер».
 2097381	ell	Καλώς ορíσατε.
 2097382	epo	Je kioma horo alvenos la fino de la mondo?
-2097383	toki	tenpo pini la kulupu mama ona li olin e mi.
+2097383	tok	tenpo pini la kulupu mama ona li olin e mi.
 2097384	rus	Его семья любила меня.
 2097385	eng	A space is missing here between these two words.
-2097386	toki	tenpo pini la mi pona tawa kulupu mama ona.
+2097386	tok	tenpo pini la mi pona tawa kulupu mama ona.
 2097387	epo	Spaceto mankas ĉi tie inter tiuj du vortoj.
 2097388	heb	חסר כאן רווח בין שתי המילים האלה.
 2097389	eng	A polar bear is a rectangular bear after a coordinate transform.
@@ -32461,7 +32394,7 @@
 2098478	heb	חכה! אנחנו צריכים כאן לחשוב מחדש על האסטרטגיה שלנו.
 2098479	hun	Szorosan ölelkeztek.
 2098480	heb	חכי! אנחנו צריכים כאן לשקול מחדש את האסטרטגיה שלנו.
-2098481	spa	Su hermano casi muere en un accidente de tráfico hace seis meses.
+2098481	spa	Su hermano casi muere en un accidente de tráfico hace nueve años.
 2098482	hun	A macskák nem szeretnek vizesek lenni.
 2098483	spa	¡No te acerques a ella!
 2098484	heb	רק רגע! אנחנו צריכים כאן לשקול מחדש את האסטרטגיה שלנו.
@@ -33422,7 +33355,7 @@
 2099484	fra	N'importe qui pouvait faire cela.
 2099486	fra	Qui que ce soit est-il là ?
 2099487	fra	Quiconque s'y trouve-t-il ?
-2099488	toki	tenpo pimeja la waso li kalama musi. ni li pona tawa mi.
+2099488	tok	tenpo pimeja la waso li kalama musi. ni li pona tawa mi.
 2099489	fra	Qui que ce soit est-il prêt pour le dessert ?
 2099490	fra	Ai-je manqué à quiconque ?
 2099491	fra	Ai-je manqué à qui que ce soit ?
@@ -33434,7 +33367,7 @@
 2099499	vol	Logob das Volapük binom pük gudik.
 2099500	eng	I see that Volapük is a good language.
 2099501	rus	Я вижу, что Воляпюк - хороший язык.
-2099502	toki	mi lukin e ni: toki Walapi li pona.
+2099502	tok	mi lukin e ni: toki Walapi li pona.
 2099503	epo	Mi vidas, ke Volapuko estas bona lingvo.
 2099504	heb	אל תתפרץ לדבריהם של זקנים.
 2099505	heb	לא הייתי רוצה להקלע למצב הזה.
@@ -33469,7 +33402,7 @@
 2099534	rus	Я тоже хотел знать.
 2099535	rus	Я тоже хотел бы знать.
 2099536	epo	Ankaŭ mi volus scii.
-2099537	toki	mi kin li wile kama sona e ni.
+2099537	tok	mi kin li wile kama sona e ni.
 2099538	spa	No es ningún secreto.
 2099539	spa	¿Volverá usted mañana?
 2099540	spa	El budismo fue introducido en Japón en 538.
@@ -33539,7 +33472,7 @@
 2099606	eng	Some holy men affected sackcloth and ashes.
 2099607	eng	The administration effected a change in compensation policy that affected all the workers.
 2099608	eng	My sentences are not sacrosanct.
-2099609	toki	tenpo pi suli seme la sina wile awen?
+2099609	tok	tenpo pi suli seme la sina wile awen?
 2099611	eng	Tatoeba's corpus is heterogeneous in many dimensions.
 2099613	eng	Purity is at best an approximation.
 2099614	eng	When a word is borrowed from another language, it frequently begins by having the same meaning; but with continued use in both languages, the now separate words may accrete disparate connotations.
@@ -33794,7 +33727,7 @@
 2099883	spa	Yo puedo nadar rápido.
 2099884	spa	Casi me reí a toda voz.
 2099885	rus	Я умею плавать быстро.
-2099886	toki	o pana ala e moku tawa soweli.
+2099886	tok	o pana ala e moku tawa soweli.
 2099887	epo	Bonvolu ne nutri la animalojn.
 2099888	eng	In the Pleistocene the Sunda Platform, which today underlies the Java Sea, was dry land.
 2099889	rus	Пожалуйста, не кормите животных.
@@ -34227,7 +34160,7 @@
 2100331	ber	Tom ur yesseɣyel inelmaden.
 2100332	fra	Elle n'a pas abruti les étudiants.
 2100333	epo	Mi havis longan konversacion kun ŝi.
-2100334	toki	tenpo suli la mi en ona li toki.
+2100334	tok	tenpo suli la mi en ona li toki.
 2100335	ber	Ur tesseɣyel inelmaden.
 2100336	fra	Marie n'a pas abruti les étudiants.
 2100337	ber	Marie ur tesseɣyel inelmaden.
@@ -34269,7 +34202,7 @@
 2100373	ber	Ur tesseɣyaleḍ inelmaden.
 2100374	fra	Il n'abrutit pas les étudiants.
 2100375	ber	Ur yesseɣyal inelmaden.
-2100376	toki	sina pana ala pana e nanpa pi ilo toki sina tawa mi?
+2100376	tok	sina pana ala pana e nanpa pi ilo toki sina tawa mi?
 2100377	fra	Tom n'abrutit pas les étudiants.
 2100378	ber	Tom ur yesseɣyal inelmaden.
 2100379	fra	Elle n'abrutit pas les étudiants.
@@ -34708,7 +34641,7 @@
 2100843	ita	Oggi ho fatto la sfoglia!
 2100844	ber	Tedda ed yigerdan s aɣerbaz.
 2100845	mar	पाय सांभाळ.
-2100846	toki	tawa kon li pakala e ijo mute.
+2100846	tok	tawa kon li pakala e ijo mute.
 2100847	fra	Marie a accompagné les enfants à l'école.
 2100848	mar	पाय सांभाळा.
 2100849	ber	Marie tessaweḍ igerdan s aɣerbaz.
@@ -34952,7 +34885,7 @@
 2101105	epo	Ili akompanis la infanojn al la lernejo.
 2101106	epo	Helpu al mi!
 2101107	ber	Marie ur tessawaḍ igerdan s aɣerbaz.
-2101108	toki	o pona e mi!
+2101108	tok	o pona e mi!
 2101109	ber	Marie ur tetteddu ed yigerdan s aɣerbaz.
 2101111	fra	Nous n'accompagnons pas les enfants à l'école.
 2101112	epo	Mi ne akompanis la infanojn al la lernejo.
@@ -36407,7 +36340,7 @@
 2102707	ber	Iṛeggem-iyi ad d-yas ɣer da.
 2102708	ber	Yeqqen-iyi ad d-yas ɣer da.
 2102709	ber	Tesmeɛreq kan teḍḍes. Ɣef waya ur la tcexxer.
-2102710	toki	jan li wile alasa e soweli tu la ona li kama jo e ala.
+2102710	tok	jan li wile alasa e soweli tu la ona li kama jo e ala.
 2102711	tur	Geçen gece güzel bir rüya gördüm.
 2102712	tur	Hala golf oynuyor musun?
 2102713	cmn	他不但没帮我，还骂了我。
@@ -36418,7 +36351,7 @@
 2102718	nld	Ik kan snel zwemmen.
 2102719	nld	Ik had een mooie droom vannacht.
 2102720	nld	Zing ik dat lied goed?
-2102722	toki	mi wile tawa noka tan ni: tomo tawa li pakala.
+2102722	tok	mi wile tawa noka tan ni: tomo tawa li pakala.
 2102723	epo	La aŭto kraŝis, do ni devis iri piede.
 2102724	fra	Nous n'avons pas aidé les pauvres.
 2102725	ber	Ur nɛawen igellilen.
@@ -36704,7 +36637,7 @@
 2103028	epo	Mi manĝas ĉion.
 2103029	deu	Ich esse alles.
 2103030	deu	Ich bin ein Allesesser.
-2103031	toki	sina jo e tenpo tawa kama sona pi toki wan taso la o kama sona e toki Epelanto. tenpo kama la sina kama sona e toki ante mute kin.
+2103031	tok	sina jo e tenpo tawa kama sona pi toki wan taso la o kama sona e toki Epelanto. tenpo kama la sina kama sona e toki ante mute kin.
 2103032	tur	Bu oda çok büyük.
 2103033	tur	Bu tanıdık geliyor.
 2103034	heb	איש שרודף אחר שתי ארנבות לא יתפוס ולו אף אחת.
@@ -36765,12 +36698,12 @@
 2103095	deu	Die Leute standen um den Block herum Schlange und warteten darauf, dass das Theater öffnet.
 2103096	epo	Dum mia tuta vivo mi ĝuis vojaĝadon tra la mondo kaj laboradon en multaj diversaj landoj.
 2103097	deu	Als sie bemerkte, dass der Mann ihr folgte, begann sie sich zu ängstigen.
-2103098	toki	sina wile e mi la o kepeken e ilo kalama.
+2103098	tok	sina wile e mi la o kepeken e ilo kalama.
 2103099	eng	"Why?" "Why not?"
 2103100	eng	"You slept with her!" "I did not."
 2103101	eng	Did you spend the night with her?
 2103102	eng	He twirled his mustache.
-2103103	toki	sina unpa ala unpa e ona?
+2103103	tok	sina unpa ala unpa e ona?
 2103104	eng	You slept with her?
 2103105	eng	Are you sleeping with her?
 2103106	eng	You screwed her?
@@ -36781,9 +36714,9 @@
 2103112	eng	She slept with her boss.
 2103113	eng	What do you mean, you slept with her?
 2103114	eng	Did you sleep with that woman?
-2103115	toki	ona li unpa e jan lawa ona.
+2103115	tok	ona li unpa e jan lawa ona.
 2103116	eng	How many people have you slept with?
-2103117	toki	sina unpa ala unpa e meli ni?
+2103117	tok	sina unpa ala unpa e meli ni?
 2103118	eng	I haven't actually slept with him.
 2103119	spa	Tom siempre te amó.
 2103120	deu	Es ist sehr schwierig zu wissen, aus welchem Land eine Person kommt.
@@ -36800,7 +36733,7 @@
 2103131	deu	Die Krankheit ist leicht heilbar mit einer Bluttransfusion von einem Verwandten, insbesondere einem Bruder.
 2103132	rus	Ты находишься под постоянным контролем.
 2103133	nob	Sykdommen kan kureres ganske enkelt med blodoverføring fra en slektning, særlig en bror.
-2103134	toki	ali li ken pini.
+2103134	tok	ali li ken pini.
 2103136	pol	Wszystko musi mieć swój koniec.
 2103137	ber	Ur zmireɣ ara ad t-geɣ i yiman-inu.
 2103138	ber	Yessefk ad iyi-tɛawneḍ.
@@ -40459,7 +40392,7 @@
 2107020	fra	Elle le presse toujours d'essayer de nouvelles choses.
 2107021	tlh	weQmey DIwovmoHta'.
 2107022	jpn	トムとは長年の友達だ。
-2107023	fra	Ça à en effet l'air très marrant.
+2107023	fra	Ça a en effet l'air très marrant.
 2107024	tlh	chay' Heghpu' vavDaj? bISov'a'?
 2107025	avk	Ezlopa tir dum omavasinka va jin ; va ezlopiskafa blira me roguzeká.
 2107026	ber	Tudert i Tegduda!
@@ -42121,7 +42054,7 @@
 2108794	por	Não podemos entrar de sapatos.
 2108795	por	Passe muito bem.
 2108796	por	Passar bem.
-2108797	deu	Ich sagte dir doch, doch sollest schlafen gehen!
+2108797	deu	Ich sagte dir doch, du sollest schlafen gehen!
 2108798	spa	Aquel distinguido señor es digno de nuestra admiración.
 2108799	deu	Einen Augenblick glaubte ich, Tom würde loslachen.
 2108800	spa	Es muy bueno para la salud.
@@ -42466,7 +42399,7 @@
 2109162	deu	Ist er freundlich zu euch?
 2109163	rus	Всё не так просто.
 2109164	deu	Das ist schwer zu sagen.
-2109165	toki	ni li pona ala.
+2109165	tok	ni li pona ala.
 2109166	deu	Mach es doch selbst!
 2109167	deu	Macht es doch selbst!
 2109168	deu	Machen Sie es doch Fall selbst!
@@ -42965,7 +42898,7 @@
 2109692	fra	Pourriez-vous me donner des médicaments contre le mal de l'air ?
 2109693	spa	¿Qué saben ustedes?
 2109694	eng	There’s class warfare all right, but it’s my class, the rich class, that’s making war, and we’re winning.
-2109695	toki	jan Ton li moku.
+2109695	tok	jan Ton li moku.
 2109696	heb	אז הפיראטים הציעו נפח אחסון על אחד משרתי האינטרנט שלהם לכל הפלגים של ה-CDU בקאסל, אליהם הצנזורה נגעה.
 2109697	rus	Том ест.
 2109698	rus	Том кушает.
@@ -42980,7 +42913,7 @@
 2109707	heb	יש מלחמת מעמדות אמנם, אבל זה המעמד שלי, מעמד העשירים שמכריז מלחמה, ואנחנו מנצחים.
 2109708	vol	Tom binom fidöl.
 2109709	fra	Cet ouvrage semblait être intéressant.
-2109710	toki	tenpo ni la jan Ton li moku.
+2109710	tok	tenpo ni la jan Ton li moku.
 2109711	fra	Reposons-nous un peu, voulez-vous ?
 2109712	heb	נוסעים מכובדים! עיריית מינסק והועד הפועל של מינסק מאחלים לכם מקרב לב אושר, בריאות ושגשוג לרגל חג המולד וראש השנה.
 2109713	fra	Nous avons un examen de maths aujourd'hui.
@@ -43373,7 +43306,7 @@
 2110139	deu	Ich habe streng die Regel befolgt, alle mir angebotenen Zigaretten zurückzuweisen.
 2110140	jpn	ひげを整えるようにあなたに言ったはずですが。
 2110141	jpn	トムが料理したものを誰かが食べたなんて信じられない。
-2110142	toki	tenpo ni la sina pali e seme?
+2110142	tok	tenpo ni la sina pali e seme?
 2110143	jpn	メアリーの住んでいる場所をトムが知っているなんて信じられない。
 2110144	deu	Ich erkläre dir später alles.
 2110145	fra	Il vaut mieux que tu obéisses à ton père.
@@ -44254,7 +44187,7 @@
 2111080	epo	Nia lando produktas multe da sukero.
 2111081	fin	Hän ravisti päätään.
 2111082	swe	Han ruskade på huvudet.
-2111083	toki	ma mi li pali mute e suwi walo.
+2111083	tok	ma mi li pali mute e suwi walo.
 2111084	epo	Tom parolas kelkajn lingvojn, kiujn mi ne konas eĉ laŭnome.
 2111085	fin	Sinä olet niin virallinen.
 2111086	rus	Два-три раза в неделю я занимаюсь в спортзале.
@@ -44290,7 +44223,7 @@
 2111117	epo	Li jam havas edzinon.
 2111118	fin	Nyt on lasten nukkumaanmenoaika.
 2111119	swe	Nu är det läggdags för barnen.
-2111120	toki	ona li jo kin e meli.
+2111120	tok	ona li jo kin e meli.
 2111121	vol	Om ya labom jimateli.
 2111122	fin	Me olemme veneilemässä.
 2111123	swe	Vi är ute med båten.
@@ -45776,7 +45709,7 @@
 2112657	epo	Dio benas tiujn, kiuj pentas.
 2112658	epo	"Kiu diras?" - "Diras mi."
 2112659	deu	Die Interpretation dieser Daten ist jedoch sehr umstritten.
-2112660	toki	"jan seme li toki?" - "mi toki."
+2112660	tok	"jan seme li toki?" - "mi toki."
 2112661	vol	"Kim sagom?" - "Ob sagob."
 2112662	deu	Allerdings ist die Interpretation dieser Daten äußerst umstritten.
 2112663	heb	פסוקיי אינם דברי אלוהים חיים.
@@ -46102,7 +46035,7 @@
 2113009	nld	Mijn lief katje is al weken verdwenen.
 2113010	swe	Tom såg sig inte om.
 2113011	swe	Tom såg inte tillbaka.
-2113012	swe	Tom tänkte inte tillbaka.
+2113012	swe	Tom tänkte inte tillbaka på gamla tider.
 2113013	epo	Mia kara kateto jam semajnojn malaperis.
 2113014	swe	Tom drog sig inte ur.
 2113015	tur	İstediğini dile!
@@ -46162,7 +46095,7 @@
 2113071	jpn	その少女には前に会ったことがあります。
 2113072	deu	Geht zum Teufel!
 2113073	deu	Gehen Sie zum Teufel!
-2113074	toki	o tawa monsuta sewi!
+2113074	tok	o tawa monsuta sewi!
 2113075	rus	Да идите вы все к чёрту!
 2113076	rus	Это прошлый век.
 2113077	spa	Sigue a ese auto.
@@ -46307,7 +46240,7 @@
 2113219	tur	Betty herkesi öldürdü.
 2113220	epo	Mi atendis vin.
 2113221	fra	« Où habitiez-vous ? » « J'habitais à Amsterdam. »
-2113222	toki	mi pilin e ni: sina nasa ala.
+2113222	tok	mi pilin e ni: sina nasa ala.
 2113224	tur	Sana edebildiğim kadar yardım edeceğim.
 2113225	ber	"Anda ay tellid tzedɣed?" "Lliɣ zedɣeɣ deg Amsterdam."
 2113226	tgl	Takot ka sa agham dahil parang babae ka.
@@ -49108,7 +49041,7 @@
 2116188	epo	Ĉu tiuj homoj estas la samaj, kiujn vi vidis hieraŭ?
 2116189	eng	Not here!
 2116190	epo	Ĉu eblas, ke ekzistas komputilo, kiu estas sufiĉe saĝa por diri ŝercon?
-2116191	toki	jan Ton li kepeken e ilo nasa li kama nasa.
+2116191	tok	jan Ton li kepeken e ilo nasa li kama nasa.
 2116192	dan	Fodbold er mere populært end tennis.
 2116193	deu	Das Saunabaden stimulierte mich.
 2116194	tur	Aynı fikirde değil gibi görünüyor.
@@ -49998,3 +49931,70 @@
 2117135	spa	El médico le sugirió que dejase de fumar.
 2117136	tur	Tom'a teşekkür etmek için aradım.
 2117137	heb	מה היתרונות?
+2117138	heb	תבלו!
+2117139	heb	תבלה!
+2117140	fra	Comment mange-t-on cela ?
+2117141	heb	מה לא בסדר איתך?
+2117142	heb	מה פתאום?
+2117143	heb	אולי הוא עשה זאת בכוונה.
+2117144	heb	תבלי!
+2117145	heb	לא פה!
+2117146	tur	Seni güçlükle duyabiliyorum.
+2117147	heb	אתנקם בך על זה.
+2117148	heb	אתה פרופסור.
+2117149	heb	התקשרתי כדי להודות לטום.
+2117150	tur	Onu tek başıma yapabilirim!
+2117151	heb	כמה זמן תשרוד התרבות שלנו?
+2117152	heb	הדשא תמיד ירוק יותר.
+2117153	heb	יש לך זמן לבוא מחר?
+2117154	heb	תמיד אפשר לנסות.
+2117155	tur	Oraya yaya gidebilirim.
+2117156	heb	הוא יגיע בכל רגע.
+2117157	spa	¿Es usted miembro de esta sociedad?
+2117158	heb	היא תמיד ניסתה לגרות אותי לומר משהו שאצטער עליו מאוחר יותר.
+2117160	heb	הוא תמיד ניסה לגרות מחלוקת.
+2117161	spa	¿Cómo de grande es vuestra casa?
+2117162	heb	הלילה היה כל כך אפל, אפל כמעט כמו ליבה.
+2117163	spa	¿Cómo estáis vosotros dos?
+2117164	tur	Okyanusun kokusunu alabiliyorum.
+2117165	heb	היזהר במיוחד על קרח בגשרים ובמעברים עיליים כשאתה נוהג בחורף.
+2117166	tur	Ona bakabilirim.
+2117167	heb	הדואר מחולק כל יום.
+2117168	tur	Buna tanıklık edebilirim.
+2117169	tur	Kazandığıma inanamıyorum.
+2117170	heb	אם למאן דהוא הזכות לחיות, יש לו גם את הזכות למות. אחרת החיים אינם זכות אלא חובה.
+2117171	spa	No llenes las botellas viejas de vino nuevo.
+2117172	heb	התוצאה היתה די שונה מהכוונה.
+2117173	heb	היתה לכך תוצאה שונה למדי ממה שהתכוונו.
+2117174	spa	Sorprendente, ¿verdad?
+2117175	heb	חותמת איכות לתבונה היא הנדיבות העולצת שהיא מעניקה.
+2117177	heb	אנו אמורים להיטיב לעשות.
+2117178	tur	Ben artık bunu yapamam.
+2117179	heb	ראיתי את דן ואת אנדריי.
+2117180	deu	Finnland hat erkannt, wie wichtig es ist, in Bildung zu investieren. Darum hat das Land im Bereich Erziehung und Familie große Anstrengungen unternommen. Die guten Erfahrungen aus Schweden, Dänemark und der DDR wurden zu einem neuen Modell kombiniert.
+2117181	heb	בקטגוריה שונה היתה נבואת העידן החדש.
+2117182	spa	No está siempre feliz.
+2117183	heb	להדגיש את חסרונות הזולת בשעה שמתעלמים מהחסרונות של עצמנו זו הבורות בהתגלמותה.
+2117185	heb	אני לא יכול לעשות זאת עוד.
+2117186	heb	חייל שרוצה להלחם.
+2117187	tur	Onu tekrar yapamam.
+2117188	heb	אני לא יכול לעשות את זה עוד.
+2117189	tur	Bunu tekrar yapamam.
+2117190	heb	בחרתי בין שתי ברירות.
+2117191	spa	Me quedé dormido esta mañana, así que no he desayunado.
+2117192	heb	אני לא יכולה לעשות את זה עוד.
+2117193	heb	"בן כמה אתה?" "בן שש עשרה".
+2117194	heb	"בת כמה את?" "בת שש עשרה".
+2117195	heb	"בני כמה אתם?" "בני שש עשרה".
+2117196	tur	Alkol içemem.
+2117197	tur	Hiçbir şey hissetmiyorum.
+2117198	heb	אני לא יכול לשתות אלכוהול.
+2117199	heb	אני לא יכולה לשתות אלכוהול.
+2117200	tur	Ondan kurtulamıyorum.
+2117201	heb	אינני יכול לשתות אלכוהול.
+2117202	spa	Está más ocupado que Taro.
+2117203	heb	איני יכולה לשתות אלכוהול.
+2117204	fra	Tom ne pense pas que cela soit une bonne idée.
+2117205	epo	Finnlando ekkonis kiom gravas investi en la instruado. Tial tiu lando faris grandajn fortostreĉojn en la kampo de edukado kaj familio. La bonajn spertojn el Svedio, Danio kaj GDR oni kombinis en nova modelo.
+2117206	spa	Está de vacaciones.
+2117207	spa	La cuerda está muy floja.

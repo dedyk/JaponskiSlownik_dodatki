@@ -1,82 +1,3 @@
-2649870	eng	Tom is in his thirties.
-2649871	rus	Тому за тридцать.
-2649872	eng	Line up in single file.
-2649873	rus	Станьте в одну шеренгу.
-2649874	eng	Is the food good there?
-2649875	rus	Там хорошо кормят?
-2649876	eng	I can't figure Tom out.
-2649877	rus	Я никак не могу раскусить Тома.
-2649878	eng	How much is rye flour?
-2649879	rus	Почём ржаная мука?
-2649880	eng	Have you flown before?
-2649881	rus	Вы уже летали когда-нибудь?
-2649882	eng	May I have the floor?
-2649883	rus	Могу я взять слово?
-2649885	rus	Том скрестил руки на груди.
-2649886	eng	Put it on the floor.
-2649887	rus	Поставьте это на пол.
-2649889	rus	Как все ваши поживают?
-2649890	eng	Tom has flat feet.
-2649891	rus	У Тома плоскостопие.
-2649892	eng	Fill up the ditch.
-2649893	rus	Засыпьте эту канаву.
-2649894	eng	Where's the fire?
-2649895	rus	Где горит?
-2649896	eng	My feet are sore.
-2649897	rus	У меня болят ноги.
-2649898	eng	Can you fix this?
-2649899	rus	Вы можете это поправить?
-2649900	pol	Japonia ma klimat umiarkowany.
-2649901	epo	Estas bela tago kaj mi volas promeni.
-2649902	epo	Ĉu vi estis malsana?
-2649903	epo	Ĉu vi povas ripari tion?
-2649904	deu	Ich habe eine Theorie.
-2649905	deu	Ich war sehr beschäftigt.
-2649907	epo	Kie estas la fajro?
-2649908	epo	Kie estas la incendio?
-2649909	deu	Gönne uns eine Pause!
-2649910	deu	Wo brennt es?
-2649911	deu	Gönnen Sie uns eine Pause!
-2649912	deu	Gönnt uns eine Pause!
-2649913	deu	Wo ist das Feuer?
-2649914	eng	That's really interesting.
-2649916	deu	Geben Sie mir das!
-2649917	epo	Donu tion al mi.
-2649918	deu	Gebt mir das!
-2649919	epo	Ili vespermanĝas je noktomezo.
-2649920	deu	Geh arbeiten, Tom!
-2649921	eng	Sure honey.
-2649922	eng	He complained to the chef.
-2649923	deu	Geh und warte draußen!
-2649924	deu	Gehen Sie und warten Sie draußen!
-2649925	deu	Geht und wartet draußen!
-2649926	deu	Gute Nacht, Tom!
-2649927	eng	You're a moron.
-2649928	eng	They had a brainstorming session.
-2649930	deu	Könntest du das tun?
-2649931	deu	Könnten Sie das tun?
-2649932	deu	Könntet ihr das tun?
-2649933	eng	That's really neat.
-2649934	eng	That's just what I've heard.
-2649935	deu	Hast du das getan?
-2649936	deu	Habt ihr das getan?
-2649937	eng	Now, there's an idea.
-2649938	deu	Haben Sie das getan?
-2649940	deu	Alle sind beschäftigt.
-2649941	epo	Ĉiuj estas okupataj.
-2649942	epo	Alvoku Tom.
-2649943	eng	I'm sorry for not replying to your letter earlier.
-2649945	eng	I'm sorry for not replying to your email earlier.
-2649949	eng	Don't you hate it when they do that?
-2649950	eng	Don't you hate it when he does that?
-2649951	eng	Don't you hate it when she does that?
-2649952	deu	Ist Tom dazu in der Lage?
-2649953	eng	That's not scientific.
-2649954	deu	Ist mit dir alles in Ordnung, Tom?
-2649955	eng	I squeezed his shoulders.
-2649956	eng	He squeezed my shoulders.
-2649957	eng	He squeezed her shoulders.
-2649958	deu	Bist du nicht beschäftigt?
 2649959	deu	Sind Sie nicht beschäftigt?
 2649960	deu	Seid ihr nicht beschäftigt?
 2649961	epo	Ĉu vi ne estas okupata?
@@ -1304,7 +1225,7 @@
 2651279	rus	Тебе следовало бы записать это, пока ты не забыл.
 2651280	rus	Тебе следовало бы записать это, пока ты не забыла.
 2651281	rus	Вам следовало бы записать это, пока вы не забыли.
-2651282	ara	أحب أن أقرأ الكتب.
+2651282	ara	أحب قراءة الكُتُب.
 2651283	deu	Schreib’s auf, bevor du es vergisst!
 2651284	rus	Выпиши это себе, чтобы не забыть.
 2651285	rus	Выпишите это себе, чтобы не забыть.
@@ -2053,7 +1974,7 @@
 2652092	nob	Rommen er fylt av pokaler, premier, plaketter, medaljer og diplomer.
 2652093	rus	Я устал с вами об этом разговаривать.
 2652094	rus	Я устала с вами об этом разговаривать.
-2652095	epo	La ĉambro estas plena de pokaloj, premioj, plakedoj, medaloj kaj diplomoj.
+2652095	epo	La ĉambro estas plena de pokaloj, premioj, memorŝildoj, medaloj kaj diplomoj.
 2652096	deu	Der Raum ist voller Pokale, Preise, Plaketten, Medaillen und Diplome.
 2652098	rus	Я устал, вот и всё.
 2652099	rus	Я устала, вот и всё.
@@ -2639,7 +2560,7 @@
 2652725	rus	Я не в состоянии это остановить.
 2652726	rus	Я не могу её остановить.
 2652727	rus	Я не могу его остановить.
-2652728	toki	sina wile ala wile moku e akesi suli pi tenpo pini suli?
+2652728	tok	sina wile ala wile moku e akesi suli pi tenpo pini suli?
 2652729	eng	The guy was acquitted when the prosecutor failed to prove that he had committed the crime.
 2652730	rus	Хочешь съесть динозавра?
 2652731	eng	Don't tickle me!
@@ -4378,7 +4299,7 @@
 2654557	rus	Сколько компьютеров у этого инженера?
 2654558	hin	एक पढ़ा-लिखा दंभी व्यक्ति नाव में सवार हुआ।
 2654559	eng	He likes to wear socks with sandals.
-2654560	eng	An educated/literate arrogant person got into a boat.
+2654560	eng	An arrogant educated person got into a boat.
 2654561	spa	Ella trató de ocultar su enfado.
 2654562	hin	यह बहुत मुश्किल था।
 2654564	eng	He has a bad fashion sense.
@@ -4673,7 +4594,7 @@
 2654882	eng	The chairs were spaced out two feet apart.
 2654883	eng	She spaced out in front of the TV.
 2654884	eng	You look spaced out this morning.
-2654885	eng	My mother loved lilac bushes so I planted some outside her door .
+2654885	eng	My mother loved lilac bushes so I planted some outside her door.
 2654886	eng	I needed a new hairbrush because I broke the handle trying to get out all the snarls in my hair.
 2654887	eng	The bridal bouquet was made of roses and tulips.
 2654888	epo	Tom aĉetis fotilon, kiu estas la sama kiel via.
@@ -7994,7 +7915,7 @@
 2658389	epo	Ŝajne li estis malriĉa dum sia junaĝo.
 2658390	epo	Ŝajnas ke li estis malriĉa dum sia juneco.
 2658391	epo	Mi neniam vidis mungon, tial mi tute ne scias pri kio temas.
-2658392	eng	When I was child, whenever I did something bad, I would get spanked.
+2658392	eng	When I was a child, whenever I did something bad, I would get spanked.
 2658393	eng	I learned many things about Greek culture.
 2658394	eng	You shouldn't take advantage of other people's weaknesses.
 2658395	eng	The pay is based on sales.
@@ -9166,7 +9087,7 @@
 2659623	hun	Teniszezni megyek.
 2659624	fra	Qu'est-ce qu'il raconte ? Ça ne veut strictement rien dire !
 2659625	hun	Teniszezni fogok.
-2659626	eng	How can you eat only rich food like this every day.
+2659626	eng	How can you eat only rich food like this every day?
 2659627	rus	Выбрось это из твоей головы.
 2659628	rus	Мы часто играем в карты в воскресенье.
 2659629	eng	Take a glance at the mirror.
@@ -9716,7 +9637,7 @@
 2660201	deu	Der Chōkai ist ein gewaltiger Berg in der Präfektur Akita.
 2660202	por	De qual caixa você gosta mais?
 2660203	por	Todo mundo precisa de um passatempo.
-2660204	por	Nunca deixe uma senhora esperado.
+2660204	por	Nunca deixe uma senhora esperando.
 2660205	por	O Tom se escondeu nas montanhas porque não queria ser pego pela polícia.
 2660206	por	Tenho uma ideia para um filme.
 2660207	por	Ela parece amistosa.
@@ -10764,7 +10685,7 @@
 2661310	epo	Mi havas dek tri jarojn, kaj mi ne povas trovi mian vaginon. Ĉu estas io misa ĉe mi?
 2661311	deu	Ich bin dreizehn Jahre alt, und ich kann meine Scheide nicht finden. Stimmt etwas nicht mit mir?
 2661312	eng	It's a big dog.
-2661313	ara	ذلك كلب كبير.
+2661313	ara	إنه كلبٌ كبير.
 2661314	eng	The faucet was broken, so I wasn't able to use it.
 2661315	hun	Az utóbbi években sok helyi hagyomány elfelejtődött.
 2661316	kat	ის დიდი ძაღლია.
@@ -10792,7 +10713,7 @@
 2661339	rus	Я могу узнать его по его манере общения.
 2661340	hun	Sok ember látogatta meg Japánt.
 2661341	hun	Rengeteg ember látogatott el Japánba.
-2661342	uzb	Men vrach emas.
+2661342	uzb	Men vrach emasman.
 2661343	rus	Ешь свой суп, Джон!
 2661344	nob	I dag har jeg plukket mye blåbær og tyttebær.
 2661345	kaz	Мен дәрігер емеспін.
@@ -18247,7 +18168,7 @@
 2669056	por	Tente se controlar.
 2669057	eng	You want to hear something funny?
 2669058	eng	Call me whenever you want.
-2669059	eng	If you're busy I'd be happy to help.
+2669059	eng	If you're busy, I'd be happy to help.
 2669060	eng	The clock is down.
 2669061	fra	La pendule est arrêtée.
 2669062	eng	You're very late.
@@ -18888,7 +18809,7 @@
 2669729	ita	Non gli creda!
 2669730	ita	Non condivido la tua opinione.
 2669731	ita	Io non condivido la tua opinione.
-2669733	ara	أريد أن أشترى غذاء.
+2669733	ara	أريد أن أشتري طعام.
 2669734	ita	Io non condivido la sua opinione.
 2669736	ita	Io non condivido la vostra opinione.
 2669737	ita	Il rumore ha spaventato il bebè.
@@ -25557,7 +25478,7 @@
 2676741	ita	Firma in basso, per piacere.
 2676742	ita	Di' a Tom quello che vuoi fare.
 2676743	ita	Dica a Tom quello che vuole fare.
-2676744	eng	Allocation of RAM usually involves a system call trough or not trough a system library or framework.
+2676744	eng	Allocation of RAM usually involves a system call that may or may not go through a system library or framework.
 2676745	ita	Dite a Tom quello che volete fare.
 2676746	fra	Je ne peux pas voyager en avion.
 2676747	eng	There are only two possibilities.
@@ -27012,7 +26933,6 @@
 2678258	deu	Es gab zwei Momente, in denen es für mich nicht einfach war.
 2678259	spa	Le vimos entrar en el parque.
 2678260	spa	A menudo iba al cine con mi padre.
-2678261	spa	No tienes que ir si no quieres.
 2678262	epo	Estis du momentoj, kiuj por mi ne estis facilaj.
 2678263	eng	The pizza is cooking in the oven.
 2678264	eng	The pies are still cooking.
@@ -36868,7 +36788,7 @@
 2688615	epo	La amasigon de akvo en la pulmo ni ankoraŭ ne regas.
 2688616	deu	Wir sollten uns die Zeit und das Geld lieber sparen.
 2688618	swe	Tom tände bordslampan.
-2688619	toki	jan Mali li pona lukin.
+2688619	tok	jan Mewi li pona lukin.
 2688620	epo	Mi laboras dimanĉe.
 2688621	epo	Tio pli disvastiĝis, ol vi opinias.
 2688623	epo	Katoj pli ruzas, ol vi opinias.
@@ -39013,7 +38933,7 @@
 2690850	cmn	我依旧爱着他。
 2690851	por	Trata-se de um trabalho muito difícil.
 2690852	ina	Diana es multo attrahite per le luxo.
-2690853	cmn	滑完冰后，我发现我食欲大增。
+2690853	cmn	滑完雪后，我发现我食欲大增。
 2690854	por	Diana sente forte atração pelo luxo.
 2690855	por	Diana é fortemente atraída pelo luxo.
 2690856	ina	Le ex-ministro es multo circumspecte in su declarationes.
@@ -49998,3 +49918,83 @@
 2702374	pcd	Ch'est eune urlue.
 2702375	ita	Tom non vuole la cena.
 2702376	jpn	トムは会議を欠席した。
+2702377	ita	Tom non lo vuole.
+2702378	ita	Tom non la vuole.
+2702379	ber	Uhu, cikkeɣ yetteg kan tiɣawsiwin-a akken ad yeɛjeb i tmeṭṭut-nnes.
+2702380	jpn	私は小説より詩の方が好きです。
+2702381	ita	Tom non vuole il mio aiuto.
+2702382	ita	Tom non vuole che io vada.
+2702383	jpn	トムの悪口はやめて！
+2702384	ita	Tom non vuole che Mary parta.
+2702385	ita	Tom non vuole che Mary se ne vada.
+2702386	jpn	トムは高血圧で塩分を控えている。
+2702387	tur	Tom, benim anlayamadığım Fransızca bir şey söyledi.
+2702388	jpn	トムはインドの農村事情に詳しい。
+2702389	ita	Tom non vuole pulire la sua stanza.
+2702390	ita	Tom non vuole pulire la sua camera.
+2702392	ber	Ma yella yebɣa ad yerbeḥ, yessefk ad yeḥṛes iman-nnes deg uxeddim.
+2702393	ita	Tom non vuole questo.
+2702394	ita	Tom non vuole ciò.
+2702395	ita	Tom non vuole venire.
+2702396	ita	Tom non vuole farlo.
+2702397	ita	Tom non vuole fare questo.
+2702398	ita	Tom non vuole fare ciò.
+2702399	ita	Tom non vuole essere qui.
+2702400	pcd	In voïache squ'à ch'leune ch'n'est pu in rêfe.
+2702401	tur	Bunu zamanında bitireceksem yardımına ihtiyacım olacak.
+2702402	tur	Kendimi bunu yaparken hayal edemiyorum.
+2702403	ita	Tom non vuole il nostro aiuto.
+2702404	tur	Nasıl yorgun olduğumu hayal edemezsin.
+2702406	pcd	J'caire el' glaire.
+2702407	ita	Tom non vuole lottare.
+2702408	ber	Ad as-ɛemmdeɣ i Tom ad yeg akk ayen ay yebɣa.
+2702409	ita	Tom non vuole combattere.
+2702410	ita	Tom non vuole mangiare.
+2702411	ita	Tom non vuole pranzare ora.
+2702412	ita	Tom non vuole pranzare adesso.
+2702413	tur	Mutlu bir aile gibi gözüküyorlar.
+2702414	ita	Tom non vuole andare a casa.
+2702415	ita	Tom non vuole andare.
+2702416	ita	Tom non vuole andare lì.
+2702417	ita	Tom non vuole andarci.
+2702418	tur	Hâlâ nefes alıyor.
+2702419	pcd	Ch'est in grind capenoule.
+2702420	eng	He's still breathing.
+2702421	eng	She's still breathing.
+2702422	ita	Tom non vuole partire.
+2702423	ita	Tom non vuole andarsene.
+2702424	ber	Netta yettsetḥi aṭas. Yenna-d yebɣa ad kem-iẓer.
+2702425	ita	Tom non vuole vivere con me.
+2702426	ita	Tom non vuole abitare con me.
+2702427	ita	Tom non vuole leggere quel libro.
+2702428	eng	My friend just sent me this picture of his little cousin.
+2702429	pcd	In clo cache l'aute.
+2702430	ita	Il mio amico mi ha appena mandato questa foto del suo cuginetto.
+2702431	ita	Il mio amico mi ha appena mandato questa fotografia del suo cuginetto.
+2702432	ita	Tom non vuole guardare.
+2702433	tur	Saklambaç oynamak ister misiniz?
+2702434	ita	Tom non vuole abitare a Boston.
+2702435	tur	Saklambaç oynamak ister misin?
+2702436	fra	Tom ne veut pas habiter à Boston.
+2702437	ber	Tom yenna-d belli yella yebɣa ad yeqqim i yiman-nnes, sakkin yuley ɣer texxamt-nnes.
+2702438	ita	Tom non vuole vederti.
+2702439	ita	Tom non vuole vedervi.
+2702440	ita	Tom non vuole vederla.
+2702441	ita	Tom non vuole parlarne.
+2702442	ita	Tom non vuole parlare con te.
+2702443	ber	Tom yettɛawan Mary acku yebɣa ad yeg aya, maci d tamara ay t-yerran.
+2702444	ita	Tom non vuole parlare con voi.
+2702445	ita	Tom non vuole parlare con lei.
+2702446	ita	Tom non vuole parlare con nessuno.
+2702447	tur	Pazartesiye kadar Boston'da olmak zorundayım.
+2702448	tur	Gel Tom'la tanış.
+2702450	tur	Beni yalnız bırakmayın.
+2702451	ber	Netta yebɣa ad yessenz takeṛṛust-nnes yerna nekk bɣiɣ ad d-sɣeɣ yiwet.
+2702452	tur	Ben bunu sipariş etmedim.
+2702453	ita	Tom non vuole lavorare domani.
+2702454	ita	Tom non vuole aspettare.
+2702455	pcd	Eun' mouque n'rintre point dins eun' bouque freumée.
+2702456	ita	Tom non guarda la TV.
+2702457	ita	Tom non guarda la tele.
+2702458	ita	Tom non guarda la televisione.
+2702459	ber	Ad d-yaf lḥal yefren tasdawit aydeg ay yebɣa ad iɣer.

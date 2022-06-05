@@ -1,41 +1,3 @@
-890513	fra	Le téléphone sonne. Si tu veux, j'y vais.
-890514	cmn	我太太剛剛清理了桌子。
-890515	deu	Starre keine Leute an.
-890516	hun	Igen, nagyon meglepett a hír.
-890517	spa	Vivo en Cantón.
-890518	cmn	我的母親在廚房裡正忙著。
-890519	hun	Igen, nagyon meglepődtem a híreken.
-890520	fra	Le téléphone sonne. Si tu veux, je réponds.
-890521	cmn	凱特從她的父親那裡得到了一些錢。
-890522	eng	I love her so much I would die for her.
-890523	spa	Estoy trabajando duro para aprender inglés.
-890524	hun	Kérem, vegye biztosra, hogy be van kötve a biztonsági öve.
-890525	fra	L'homme brosse ses dents.
-890526	hun	Csak a hozzávetőleges életkorát tudhatjuk.
-890527	spa	Él juega mañana al béisbol.
-890529	fra	Alpha du Centaure est un système de trois étoiles. On ne sait pas encore s'il a des planètes.
-890531	fra	Je vis à Canton.
-890533	hun	Csak a körülbelüli korát lehet tudni.
-890534	eng	I don't understand Dutch. It's difficult.
-890535	deu	Ich kann kein Niederländisch. Es ist schwierig.
-890536	hun	Két öcsém és három húgom van.
-890537	eng	The dog seems sick.
-890539	hun	Hasmenésem van.
-890540	fra	Elle connaît peut-être la réponse.
-890541	hun	1941 decemberében az Egyesült Államok háborúban volt.
-890542	hun	Amint megláttam, kitört belőlem a nevetés.
-890543	hun	Amint megláttam, rögtön elnevettem magam.
-890544	deu	Seine Krankheit rührte daher, dass er zu viel trinkt.
-890545	deu	Seine Krankheit kam davon, dass er zu viel trinkt.
-890546	ita	Che cos'era quel rumore?
-890547	fra	Jamais l'étoile rouge ne s'effondrera.
-890548	ita	C'è una esposizione dei disegni di Picasso.
-890549	hun	Van itt egy rendelkezésre álló idegenvezető?
-890551	ita	È troppo grasso per correre veloce.
-890552	fra	Son étoile pâlit.
-890553	hun	Senki sem tudja, hogy néz ki egy ufó.
-890554	fra	Toute étoile est une sphère.
-890555	hun	Senki sem tudja igazán, hogy néz ki egy ufó.
 890556	epo	Ŝi prenis taksion al la malsanulejo.
 890557	epo	Ŝi taksiis al la malsanulejo.
 890558	ita	Anche se era ubriaco, la sua condotta è imperdonabile.
@@ -551,7 +513,7 @@
 891085	swe	Jag går hellre än att ta bussen.
 891086	swe	När man talar om trollen står de i farstun.
 891087	swe	När man talar om trollen.
-891088	cmn	每年，這個機構組織很多會議的志工挨家挨戶地賣菲仕蘭書。
+891088	cmn	每年，這個機構組織很多會議的志工挨家挨戶地賣弗里斯蘭語書。
 891089	swe	Pojken var så trött att han inte kunde ta ett steg till.
 891090	isl	Fullkomið kort þyrfti að vera jafnstórt og landsvæðið sem það lýsir.
 891091	swe	Man kan lära sig många ord genom att läsa.
@@ -6246,7 +6208,7 @@
 897047	jpn	彼には賛成できません。
 897048	fra	Nous acceptons les chèques.
 897049	fra	Je vais prendre un bain.
-897050	jpn	狼は普通人々を襲ったりしません。
+897050	jpn	狼は普通、人々を襲ったりしません。
 897051	jpn	毎日朝と夜、猫に餌を与えています。
 897052	jpn	試験に失敗したくないよ。
 897053	rus	Ну что ж, эта Кейко — или она милая, или злобная, просто не могу понять её.
@@ -6516,9 +6478,9 @@
 897329	jpn	こんな些細なことでガタガタ文句言うな。
 897330	jpn	歯並びがガタガタだから、矯正治療することにしたの。
 897331	jpn	社長の突然の辞任で、会社の中はガタガタだね。俺達これからどうなるんだろう。
-897332	toki	mi pakala.
-897333	toki	sina pilin ala pilin e ni: tomo li tawa.
-897334	toki	jan Pesi li lon ala lon tomo sona sina?
+897332	tok	mi pakala.
+897333	tok	sina pilin ala pilin e ni: tomo li tawa insa nasa?
+897334	tok	jan Pesi li lon ala lon tomo sona sina?
 897335	spa	Solo voy a echar una cabezada.
 897336	eng	I'm just going to take a nap.
 897337	por	Só vou tirar uma soneca.
@@ -6532,10 +6494,10 @@
 897345	por	As duas irmãs viviam bem tranquilamente.
 897346	por	Tem uma pedra no meu sapato.
 897347	por	Ele arremessou seu brinquedo.
-897348	toki	mi wile e sona sina tawa ni: mi wile sitelen lon lipu ni. o pana e pona sina tawa mi.
+897348	tok	mi wile e sona sina tawa ni: mi wile sitelen lon lipu ni. o pana e pona sina tawa mi.
 897349	por	Forçaram-no a contar a verdade.
 897350	por	Acusaram-no de estar na sala de aula para causar confusão.
-897351	toki	o sitelen e nimi lon lipu ni. pona!
+897351	tok	o sitelen e nimi lon lipu ni. pona!
 897352	por	Os cientistas ainda não encontraram uma vacina para o câncer.
 897353	por	Onde eles moram?
 897354	por	Caso você queira, fá-lo-ei.
@@ -6553,7 +6515,7 @@
 897366	rus	Ходить с длинными волосами несовременно.
 897367	por	Kanazawa é uma cidade tranquila.
 897368	por	O senhor Brown fala japonês muito bem.
-897369	toki	tomo ni li tomo sona pi mama mi.
+897369	tok	tomo ni li tomo sona pi mama mi.
 897370	por	Minha boca está entorpecida.
 897371	por	A metade dos alunos estava ausente.
 897372	por	Resolva o problema.
@@ -9649,7 +9611,7 @@
 900624	fra	C'est un mélange savamment élaboré de diplomatie de la canonnière et de diplomatie du panda.
 900625	fra	Ce livre a beaucoup d'images.
 900626	fra	Malheur à celui qui se trouvera entre deux grands.
-900627	ita	Ha preso un taxi per andare all'ospedale
+900627	ita	Ha preso un taxi per andare all'ospedale.
 900628	ita	Prese un taxi per andare all'ospedale.
 900629	eng	The British and the French came around, took a map and drew up a few lines here and there.
 900630	fra	Dominique Strauss-Kahn est incarcéré dans la prison de l'île de Rikers.
@@ -16044,7 +16006,7 @@
 907374	ita	Sei un bravo cuoco, vero?
 907375	ita	È un bravo cuoco, vero?
 907376	fra	Je redoute l'hiver parce que c'est la saison du confort !
-907377	ita	È una brava cuoca, vero
+907377	ita	È una brava cuoca, vero?
 907378	ita	Sei una brava cuoca, vero?
 907379	eng	Once, if I remember well, my life was a feast where all hearts opened and all wines flowed.
 907380	eng	One must be absolutely modern.
@@ -18199,7 +18161,7 @@
 909615	rus	Обычно я предпочитаю платить кредиткой, а не наличными.
 909616	rus	Я обязал его нести чемодан.
 909617	rus	Я заставил его нести чемодан.
-909618	rus	Премьер-министр объявил, что он, возможно, подаст в отставку в ближайшие несколько недель.
+909618	rus	Премьер-министр объявил, что он подаст в отставку в ближайшие несколько недель.
 909619	rus	Этот зал вмещает две тысячи людей.
 909620	epo	Ili estas birdoj.
 909621	rus	Она положила голову на плечо её матери.
@@ -18423,39 +18385,39 @@
 909849	cmn	我期待著您的光臨。
 909850	tat	Менә аның берничә уңай сыйфаты.
 909851	tat	Күлмәгеңнең төймәсе төшкән.
-909852	toki	mi wile unpa monsi e sina.
+909852	tok	mi wile unpa monsi e sina.
 909853	fra	Après avoir consommé des sucreries, je me lave toujours les dents.
 909854	tat	Хәйлә киемгә төренә, ә хакыйкать исә япа-ялангач булырга тели.
 909855	fra	J'ai lu que la pâte d'amandes contenait des substances carcinogènes.
 909856	cmn	誰該為這次事故負責？
-909857	toki	tan seme la meli pi ale ala li olin e meli? mi sona ala.
+909857	tok	tan seme la meli pi ale ala li olin e meli? mi sona ala.
 909858	cmn	這肉已經壞了。
 909859	deu	Sie ist zwei Jahre älter als er.
 909860	tat	Йена күтәрелә, доллар төшә.
 909861	deu	Sie ist zwei Jahre jünger als er.
-909862	toki	mi sona pona e ijo ona.
+909862	tok	mi sona pona e ijo ona.
 909863	deu	Sie ist gleich alt wie er.
 909864	cmn	他已經成為了棒球隊員。
-909865	toki	o pana ala e linja nimi ni lon toki ante!
+909865	tok	o pana ala e linja nimi ni lon toki ante!
 909866	tat	Ул автомобиль сатып ала алмый, өй турында сөйләп тә торасы юк.
 909867	deu	Sie ist jünger als er.
 909868	srp	Koja mesta ti se sviđaju?
 909869	deu	Sie ist größer als er.
 909870	tat	Ә син шактый үзгәргәнсең бит.
-909871	toki	sina pali sama, la luka li utala e sinpin sina!
+909871	tok	sina pali sama, la luka li utala e sinpin sina!
 909872	deu	Sie ist klüger als er.
 909873	fra	Et ouvrez votre livre de classe en page dix.
 909874	deu	Sie ist älter als er.
 909875	deu	Sie ging mit ihm.
 909876	tat	Банк бу кәсәбәгә бер миллион доллар акча бирде.
-909877	toki	sina sona a tawa musi anu seme?
+909877	tok	sina sona a tawa musi anu seme?
 909878	deu	Sie ist mit ihm in den Zoo gegangen.
 909879	deu	Sie ist mit ihm in das Kino gegangen.
 909880	deu	Sie ging mit ihm ins Kino.
-909881	toki	mi toki ala taso ona li kama pilin utala.
+909881	tok	mi toki ala taso ona li kama pilin utala.
 909882	deu	Sie ist mit ihm nach Boston gegangen.
 909883	cmn	他對政治沒有興趣。
-909884	toki	mi pilin e ni: ni li pona lili.
+909884	tok	mi pilin e ni: toki mi li pona pi lili ike.
 909885	deu	Sie ging mit ihm nach Boston.
 909886	deu	Sie winkte ihm.
 909887	deu	Sie schaute ihm beim Schwimmen zu.
@@ -18678,7 +18640,7 @@
 910113	tat	Вьетнам ветераннары мемориалы АКШ кораллы көчләренең Вьетнам сугышында катнашкан солдатларына багышлап төзелгән.
 910114	epo	Tiuj homoj estis tre feliĉaj.
 910115	epo	La imperiestro rikoltis venkon.
-910116	toki	jan seme li unpa e jan seme?
+910116	tok	jan seme li unpa e jan seme?
 910117	tat	Син коралсызлануны яклап чыгарга тиешсең.
 910118	hun	A császár győzelmet aratott.
 910120	hun	Jaj a legyőzötteknek!
@@ -23208,7 +23170,7 @@
 914864	fra	Il est de très mauvaise humeur.
 914865	fra	Nous n'aborderons pas ce problème.
 914866	fra	Nous ne traiterons pas de ce problème.
-914867	fra	Je ne me rappelle plus comment dire "Merci" en allemand.
+914867	fra	Je ne me rappelle plus comment dire « merci » en allemand.
 914868	fra	Elle vit seule.
 914869	tur	Korkma, sönmez bu şafaklarda yüzen al sancak.
 914870	tat	Курыкма, сүнмәс бу шәфәкъ нурында йөзгән ал байрак.
@@ -24903,7 +24865,7 @@
 916657	cmn	爸爸害羞地看著媽媽。
 916658	epo	Tio ne taŭgas por mi.
 916659	cmn	他父親不打高爾夫球。
-916660	cmn	我的感冒怎麼也不會好。
+916660	cmn	我的感冒怎麼也不好。
 916661	eng	She devoted her entire life to the study of physics.
 916662	deu	Gebt mir etwas Geistliches zum Nachdenken, die Nahrung für den Magen finde ich selber.
 916663	rus	Дайте мне пищу для размышления, еду для желудка я и сам найду!
@@ -25231,7 +25193,7 @@
 916998	ukr	Сьогодні середа. Я читаю.
 916999	ukr	Вона така розумна жінка.
 917000	fra	Le complexe sportif se situe à côté de l'école.
-917001	eng	Do you know me? - No, I don't.
+917001	eng	"Do you know me?" "No, I don't."
 917002	fra	Celui qui a une vraie femme n'a pas besoin de harem.
 917003	ukr	Зазвичай він їде до школи автобусом.
 917004	eus	Gela uzten utzi zidan.
@@ -25915,7 +25877,7 @@
 917757	tat	Минем Геттер Яани белән үләсем килә.
 917758	eng	"I'm getting too old to be playing with bugs", said the boy.
 917759	srp	Украо си ми бицикл и сад ћу да ти сломим фацу.
-917760	fra	"Je suis trop vieux pour jouer avec des insectes", dit le garçon.
+917760	fra	« Je suis trop vieux pour jouer avec des insectes », dit le garçon.
 917761	fra	Luc, je suis ton fils.
 917762	fra	Luc, je suis ton père.
 917763	fra	Luc, je suis ton cousin.
@@ -27181,7 +27143,7 @@
 919080	fra	Plus j'y pense, moins je le comprends.
 919081	fra	Plus j'y pense, moins je la comprends.
 919082	fra	Plus j'y réfléchis, moins je le comprends.
-919083	epo	Mi bone rememoras al tiu.
+919083	epo	Mi bone memoras tion.
 919084	fra	Plus j'y réfléchis, moins je la comprends.
 919085	deu	Sie können sich aussuchen, was immer Sie möchten.
 919086	fra	Ils m'ont fait attendre longtemps.
@@ -28495,7 +28457,7 @@
 920502	fra	Elle pense que l'argent et le bonheur sont la même chose.
 920503	fra	Elle est ivre de bonheur.
 920504	fra	En dépit de toute sa renommée, il n'est pas heureux.
-920505	fra	Non seulement elle mais aussi ses parents ont été invité à la fête.
+920505	fra	Non seulement elle, mais aussi ses parents ont été invités à la fête.
 920506	fra	Il se faisait ballotter par la tempête.
 920507	eng	There is always the risk of losing all the data on your hard disk.
 920508	eng	Tom was risking losing his job by talking to his boss that way.
@@ -28699,7 +28661,7 @@
 920724	fra	Elle était submergée de bonheur.
 920725	ukr	Те що тобі потрібно зараз найбільше - це відвага.
 920726	fra	Attendre le train est ennuyeux.
-920728	epo	Ĉu vi povas sendi al mi mapon per fakso?
+920728	epo	Ĉu vi povas sendi al mi mapon per faksilo?
 920729	epo	Lia nomo estas konata tra la tuta mondo.
 920730	epo	Oni diras ke ŝi kaj ŝia edzo ne akordas je io.
 920731	epo	Traduki helpas al ni pli bone koni nian gepatran lingvon.
@@ -28980,7 +28942,7 @@
 921024	deu	Er ist sturzbesoffen.
 921025	fra	«Je deviens trop grand pour jouer avec des insectes», dit le garçon.
 921026	epo	Li estas ebriega.
-921027	fra	«Je suis trop grand pour jouer avec des insectes», dit le garçon.
+921027	fra	« Je suis trop grand pour jouer avec des insectes », dit le garçon.
 921028	fra	Tu es en retard. Qu'as-tu fait ?
 921029	epo	Ne troigu!
 921030	fra	Ils sont des victimes de la prétendue guerre.
@@ -34516,7 +34478,7 @@
 926867	fra	Le vendeur a fait un gros rabais sur le prix.
 926868	epo	La konflikto ekis pro simpla miskompreno.
 926869	fra	Je ne comprends pas ce que tu dis.
-926870	toki	mi sona ala e toki sina.
+926870	tok	mi sona ala e toki sina.
 926871	jpn	もう、本当にお父さんたら、話のわからない石頭なんだから！
 926872	epo	Mi blokis ĉiujn miajn pagokartojn krom unu.
 926874	fra	Il se fait sombre dehors.
@@ -34548,7 +34510,7 @@
 926904	fra	Père est un homme bien.
 926905	fra	Père est quelqu'un de bien.
 926906	spa	Sólo necesitaba tiempo para acabar su cuadro.
-926907	toki	mama mije mi li mije pona.
+926907	tok	mama mije mi li mije pona.
 926908	epo	Ŝia ideo ne multe gravas.
 926909	epo	Ekstere malheliĝas.
 926910	fra	La saison de la chasse est ouverte.
@@ -38063,7 +38025,7 @@
 930657	nds	Ik heff Kaviar eten.
 930658	ita	Sarebbe meglio per lui se non fosse nato.
 930659	ita	Ero seduto in aereo vicino ad un uomo che ha russato tutto il tempo.
-930660	toki	ken la ijo ike sijelo pi kasi palisa pi laso jelo li tan ni: jan li unpa e soweli. jan li ken ala toki e ni.
+930660	tok	ken la ijo ike sijelo pi kasi palisa pi laso jelo li tan ni: jan li unpa e soweli. jan li ken ala toki e ni.
 930661	ita	Mostra un grande entusiasmo per il suo lavoro.
 930662	ita	Sbrigati e prenderai il treno.
 930663	epo	Ĉu tiu foto estas freŝdata?
@@ -38124,7 +38086,7 @@
 930722	fra	Elle m'a tapé sur la tête avec un marteau.
 930723	deu	Kleine Geschenke erhalten die Freundschaft.
 930724	fra	Mike a une jolie raquette.
-930725	toki	mi pilin lon sina.
+930725	tok	mi pilin lon sina.
 930726	fra	Ce livre est pour toi.
 930727	nds	Sünd ji beiden praat to gahn?
 930728	deu	Almosen geben macht niemanden arm.
@@ -38161,7 +38123,7 @@
 930759	deu	Lass mich die Möhren schneiden.
 930761	deu	Wie viel kosten die Möhren?
 930762	nds	He hett mit sien Kamera en Foto von mi maakt.
-930763	toki	mi jan pi kama sona.
+930763	tok	mi jan pi kama sona.
 930764	nds	Bob deed Preester warrn.
 930765	nds	Bob deed Pastoor warrn.
 930766	nds	Ik deed in ’t Kino gahn, wenn ik Tied harr.
@@ -39980,7 +39942,7 @@
 932745	jbo	lo sairfa'o zo'u cidjrsatsuma .e'u
 932746	rus	Возможно, ты прав, я вёл себя эгоистично.
 932747	fra	Voilà, ta phrase est désormais léguée à la postérité !
-932748	toki	o kute e pilin sina, sina kama sona e ni: ni li lon.
+932748	tok	o kute e pilin sina, sina kama sona e ni: ni li lon.
 932749	rus	Мы лучше ещё хорошенько подумаем об этом вместе и придумаем что-нибудь получше.
 932750	jbo	ta'o .e'u zo muiriel. cmene mi do
 932751	fra	Nous espérons vous revoir.
@@ -41325,7 +41287,7 @@
 934183	cmn	我的木床实在很笨重。
 934184	cmn	奶奶觉得板床比“席梦思”睡着舒服。
 934185	cmn	他没带钥匙，用铁丝拨动了两下，门居然开了。
-934186	eng	Forgetting his key, he was able to open the door by inserting a wire in the key hole.
+934186	eng	Having forgotten his key, he was able to open the door by inserting a wire in the keyhole.
 934187	eng	I have the key to the safe.
 934188	cmn	保险箱的钥匙在我这儿。
 934189	srp	Bravo,bravo, idemo sad na spavanje, ti si fino dete.
@@ -43103,7 +43065,7 @@
 936079	ita	Mentre la bella si pretende, la brutta si marita.
 936080	pol	Sam wiem o tym.
 936081	fra	À Tatoeba, ça ne manque pas de pain sur la planche !
-936082	ita	Quando il diavolo ti accarezza vuole l'anima
+936082	ita	Quando il diavolo ti accarezza, vuole l'anima.
 936083	ita	La mano destra non sa quello che fa la sinistra.
 936084	eng	Because of the water shortage, I couldn't take a bath.
 936085	deu	Das waren keine zufälligen Schnitte, sondern gezielte.
@@ -44384,7 +44346,7 @@
 937468	deu	"Ich bin zu alt, um mit Insekten zu spielen", sagte der Junge.
 937469	fra	Je sortais juste lorsque le téléphone sonna.
 937470	epo	Lia mano difektiĝis dum li falis.
-937472	hin	यह उपन्यास उस से काफी ज्यादा रोचक है।
+937472	hin	यह उपन्यास उस से काफ़ी ज़्यादा रोचक है।
 937473	epo	Mia brako rompiĝis.
 937474	deu	Ich möchte etwas Süßes essen.
 937476	fra	Ne pas utiliser l'ascenseur en cas d'incendie.
@@ -44861,7 +44823,7 @@
 937991	fra	Quand il commença à pleuvoir, je venais de quitter la maison.
 937992	fra	Quand il se mit à pleuvoir, je venais de quitter la maison.
 937993	fra	Depuis que je me suis moqué en classe des lunettes du prof, il ne peut plus me saquer. Et ironie de la chose, je crois que c'est pour cela qu'il n'arrête pas de me saquer.
-937994	rus	Зелёный абажур рассеивал по комнате тёплый свет.
+937994	rus	Зелёный абажур рассеивает по комнате тёплый свет.
 937995	fra	Une lourde neige tomba sur Kyoto pour la première fois depuis des lustres.
 937996	hun	Magdalena és Ania is Lengyelországból van.
 937997	eng	I have to translate our company’s website into the local language, which is English.
@@ -45209,7 +45171,7 @@
 938360	fra	J'ai pris plaisir à collaborer au projet Tatoeba.
 938361	fra	Le commerce est dans le rouge.
 938362	fra	L'affaire est dans le rouge.
-938363	toki	mi mute li kama lukin.
+938363	tok	mi mute li kama lukin.
 938364	eng	I never drink water. You never know, foxes might have peed in it.
 938365	fra	Mon père peut m'accompagner jusqu'à l'aéroport.
 938366	fra	Laquelle est votre équipe préférée ?
@@ -46718,7 +46680,7 @@
 939963	eng	"You've had two wishes already," the hag said, "but your second wish was for me to return everything to the way it was before you had made your first wish. This is why you remember nothing."
 939964	eng	"All right," said the man, "I don't believe this, but there's no harm in wishing. I wish to know who I am."
 939965	fra	Il avait peu d'amis et peu d'argent.
-939966	fra	Par dessus tout je veux être en bonne santé.
+939966	fra	Par-dessus tout, je veux être en bonne santé.
 939967	fra	Nous avons été pleinement satisfaits.
 939968	fra	Il était en train de déjeuner quand je suis entré dans la pièce.
 939969	fra	Il était en train de déjeuner quand je suis entrée dans la pièce.
@@ -49998,3 +49960,41 @@
 943501	epo	Li diras, ke li neniam mensogis, kio estas mensogo.
 943502	cmn	世俗的人，都喜歡別人和自己相同而厭惡別人和自己不同。
 943503	deu	Er grinst wie ein Honigkuchenpferd.
+943504	deu	Ich lerne normalerweise nicht, deshalb ist es auch nicht so, als würde ich bei dem Test morgen eine gute Note bekommen.
+943506	cmn	人生了病就會憂愁害怕，憂愁害怕就會有看見鬼出現的感覺。
+943507	deu	Bitte nehmen Sie auf dem Stuhl hier Platz und warten Sie.
+943508	epo	Unu eŭro estas unu dolaro kvindek cendoj.
+943509	deu	Ich war schon mal im Ausland.
+943510	deu	Ich warte bis 4 Uhr.
+943511	deu	Mach dein Bett.
+943512	cmn	志，是氣的統帥；氣充塞在人體全身。志朝向哪裡，氣就跟隨到哪裡。所以說：「要做到不動心，一定要堅守這個志，同時不要擾亂了氣。」
+943513	deu	Herr Tanaka scheint die Prüfung geschrieben zu haben.
+943514	deu	Ich gehe nicht zur Party.
+943515	deu	Ich hab das Papier in kleine Stücke zerrissen.
+943516	epo	En Tatoeba vi ĉiam devas obei la spertajn membrojn. Ili diros al vi, kio ne povas esti farita kaj kial. Poste faru ĝin.
+943517	deu	Japanisch und Koreanisch sind wirklich interessant, deswegen liebe ich sie.
+943518	deu	Bitte!
+943519	deu	Also dann, macht euch zu den wichtigsten Punkten bitte Notizen.
+943520	fra	Tout nombre pair est la somme de deux nombres premiers.
+943521	ita	Non ho intenzione di andare alla festa.
+943522	deu	Nach der gelungenen Darbietung der beiden, sparte das Publikum nicht mit Applaus.
+943523	ita	Abbiamo imparato che l'inglese è una lingua internazionale.
+943524	ita	Possiamo chiamare l'inglese una lingua internazionale.
+943525	epo	Ĉiu para nombro estas sumo de du primoj.
+943526	deu	So, hier hören wir für heute auf.
+943527	deu	Der Wind war sehr stark und hat meine Frisur ganz durcheinandergebracht.
+943528	eng	English is considered an international language.
+943529	eng	English is often considered an international language.
+943530	eng	English is always considered an international language.
+943531	ita	L'inglese è considerato una lingua internazionale.
+943532	ita	L'inglese è spesso considerato una lingua internazionale.
+943533	deu	Früher oder später werde ich das Erbe meiner Eltern antreten.
+943534	ita	L'inglese è sempre considerato una lingua internazionale.
+943535	deu	Wie viel Erbschaftssteuer muss ich eigentlich zahlen?
+943536	deu	Im Zimmer ist eine große Spinne! Mach sie schnell weg!
+943537	spa	Dos mujeres cantan.
+943538	cmn	春天陽光明媚，福祿綿長；春夏秋冬四時交替，井然有序，絕對不會有偏差，諸事如意，維持盛泰。
+943539	spa	Dos mujeres están cantando.
+943540	epo	Kio okazis, okazis.
+943541	epo	La ĉambro estis tiel malluma, ke ni palpante devis serĉi la pordon.
+943542	fra	Mon café est encore brûlant, je vais prendre une douche en attendant qu'il refroidisse et après j'irai bouquiner dans le fauteuil en le sirotant.

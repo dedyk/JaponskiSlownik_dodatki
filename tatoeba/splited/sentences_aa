@@ -22,7 +22,7 @@
 22	cmn	這樣做的話什麼都不會改變的。
 23	cmn	這個要三十歐元。
 24	cmn	我一天賺一百歐元。
-25	cmn	也许我会马上放弃然后去睡一觉。
+25	cmn	也许我会马上放弃然后去打盹。
 26	cmn	那是不會發生的。
 27	cmn	我会尽量不打扰你复习。
 28	cmn	不要擔心。
@@ -286,7 +286,7 @@
 294	deu	Du hast wirklich nicht die richtigen Prioritäten!
 295	deu	Man darf nicht darauf warten, dass die anderen für einen denken!
 296	deu	Du hast nie Zeit für die wichtigen Dinge!
-297	deu	Das ist die Mühe nicht wert, so zu tun, als würdest du mich dazu bringen, zu glauben, dass ich Dinge glaube, die du nicht glaubst.
+297	deu	Es ist die Mühe nicht wert, so zu tun, als würdest du mich dazu bringen zu glauben, dass ich Dinge glaube, die du nicht glaubst.
 298	deu	Das würde zu lange dauern, dir zu erklären, warum das nicht funktionieren wird.
 299	deu	Ich bin so blöd... ich versuche, dir Dinge zu erklären, die ich selbst nicht verstehe.
 300	deu	Hör auf, mich als einen "normalen" Menschen anzusehen!
@@ -1711,7 +1711,7 @@
 1779	eng	"Have you finished?" "On the contrary, I have not even begun yet."
 1780	eng	"Good morning", said Tom with a smile.
 1781	eng	Why does one say "Good day" when the day is not good?
-1782	eng	Wine is poetry filled in bottles.
+1782	eng	Wine is poetry in bottles.
 1783	eng	That was the best day of my life.
 1784	eng	I don't understand German.
 1785	eng	I made my decision.
@@ -6506,7 +6506,7 @@
 6685	fra	Je n'aime pas prendre de risque.
 6686	fra	Je n'aime pas le froid.
 6687	fra	Je n'aime pas les enfants gâtés.
-6688	fra	"Allons-y" m'a-t-il dit.
+6688	fra	« Allons-y » m'a-t-il dit.
 6689	fra	Je veux être infirmière.
 6690	fra	Il m'a fait l'honneur de dire que j'avais raison.
 6691	fra	J'ai pris son parapluie par erreur.
@@ -9547,7 +9547,7 @@
 9850	fra	Combien de mots anglais connais-tu ?
 9851	fra	J'étais appelé dans une classe d'anglais.
 9852	fra	As-tu un livre écrit en anglais ?
-9853	fra	Certains mots anglais comme «gray» ou «grey» ont deux orthographes.
+9853	fra	Certains mots anglais comme « gray » ou « grey » ont deux orthographes.
 9854	fra	Quant à l'anglais, personne ne peut faire mieux que moi.
 9855	fra	Elle détourna la tête de peur qu'il puisse voir ses larmes.
 9856	fra	Ce n'était pas si simple d'écrire une lettre en anglais.
@@ -11567,7 +11567,7 @@
 11931	fra	Combien de temps avez-vous connu Mme Smith ?
 11932	fra	Je voudrais voir M. Serrurier.
 11933	fra	S'il vous plait mettez-moi en relation avec Mr Smith.
-11934	fra	Mr Smith vivait à Kyoto il y a trois ans.
+11934	fra	M. Smith vivait à Kyoto il y a trois ans.
 11935	fra	M. Smith boit du café.
 11936	fra	M. Smith a vécu trois ans à Kyoto.
 11937	fra	M. Smith a été annoncé comme le nouveau président.
@@ -20546,7 +20546,7 @@
 21684	eng	She is rich, to be sure, but I don't think she's very smart.
 21685	eng	She is not beautiful, to be sure, but she is good-natured.
 21686	eng	No doubt she loves him, but she won't marry him.
-21687	eng	It is true she is a rare beauty.
+21687	eng	It is true; she is a rare beauty.
 21688	eng	Indeed she is young and beautiful, but she is in delicate health.
 21689	eng	She sings well, to be sure, but she can't act.
 21690	eng	It is true that she is pretty, but she is selfish.
@@ -21621,7 +21621,7 @@
 22810	eng	We are faced with the alternative of resistance or slavery.
 22811	eng	We should deal with this matter without delay.
 22812	eng	We must die sooner or later.
-22813	eng	We eat bread and butter for lunch.
+22813	eng	We eat buttered bread for lunch.
 22814	eng	We felt the ground sinking.
 22815	eng	We have to respect local customs.
 22816	eng	We must think about the community.
@@ -21759,7 +21759,7 @@
 22954	eng	We yawn when we are short of oxygen.
 22955	eng	We crawled like so many ants along the mountain pass.
 22956	eng	We stood on the top of the mountain.
-22957	eng	We climbed up the stream in the mountain.
+22957	eng	We climbed along the stream in the mountains.
 22958	eng	We were filled with anger against the murderer.
 22959	eng	We skied down the slope.
 22960	eng	We climbed Mt. Fuji last summer.
@@ -22141,7 +22141,7 @@
 23347	eng	Our bodies are our gardens, to which our wills are gardeners.
 23348	eng	All our things were turned upside down.
 23349	eng	Our ownership in the company is 60%.
-23350	eng	Even our brains are all subject to the laws of physics.
+23350	eng	Even our brains are subject to the laws of physics.
 23351	eng	Our efforts did not result in success.
 23352	eng	All our effort ended in failure.
 23353	eng	All our efforts were in vain.
@@ -22152,7 +22152,7 @@
 23359	eng	Insofar as we know, he is guilty.
 23360	eng	Our representative argued against the new tax plan.
 23361	eng	Mutual understanding is essential.
-23362	eng	Only a handful of activists are articulate in our union.
+23362	eng	Only a handful of activists in our union are articulate.
 23363	eng	Our class consists of fifty boys.
 23364	eng	We have many difficulties before us.
 23365	eng	Our boat drifted to shore on the tide.
@@ -22484,7 +22484,7 @@
 23716	eng	Hanako is set on going to Paris.
 23717	eng	Hanako likes cake very much.
 23718	eng	Hanako grew taller than her mother.
-23719	eng	Hanako seems quiet, but she also get things done when it's necessary.
+23719	eng	Hanako seems quiet, but she gets things done when it's necessary.
 23720	eng	Hanako has attended an American college for four years.
 23721	eng	Hanako came all the way from Hokkaido in order to see her father.
 23722	eng	Hanako turned out to be a surprisingly nice person.
@@ -22809,7 +22809,7 @@
 24057	eng	The cattle starved to death.
 24058	eng	Their cattle are all fat.
 24059	eng	The whole house was ill in bed.
-24060	eng	All the family set off on the trip.
+24060	eng	The whole family set off on the trip.
 24061	eng	It made my mother's day when all the family gathered and had a party.
 24062	eng	His whole family is like that. They're like peas in a pod.
 24063	eng	All my family is very well.
@@ -22817,7 +22817,7 @@
 24065	eng	Supporting his family was a great burden for him.
 24066	eng	He has to work hard to support his family.
 24068	eng	May I bring my family along?
-24070	eng	All the family got out of the car.
+24070	eng	The whole family got out of the car.
 24071	eng	We're practically family.
 24072	eng	My family are all well.
 24073	eng	A family is the smallest unit of society.
@@ -22858,7 +22858,7 @@
 24108	eng	The houses stand near to each other.
 24109	eng	The fronts of the houses were hung with flags.
 24110	eng	The houses looked like so many matchboxes.
-24111	eng	There are a lot of persons who try to buy a house.
+24111	eng	There are a lot of people who try to buy a house.
 24112	eng	There are a great many people trying buy houses.
 24113	eng	I mortgaged my house.
 24114	eng	We'll borrow some money on the house.
@@ -22987,7 +22987,7 @@
 24245	eng	There was much food in the house.
 24246	eng	We had a lot of furniture.
 24247	eng	We have two television sets.
-24248	eng	There are 5 computers in the house, but 2 of them aren't any use.
+24248	eng	There are 5 computers in the house, but 2 of them are useless.
 24249	eng	He is away from home.
 24250	eng	Entering the house, I tripped over the mat.
 24251	eng	The house was blazing with lights.
@@ -23216,7 +23216,7 @@
 24482	eng	He has lied to me again and again.
 24483	eng	Some books are worth reading over and over again.
 24484	eng	Having lost the game over and over again, he finally gave in.
-24485	eng	Having visited Rome many times, he knows about it well.
+24485	eng	Having visited Rome many times, he knows it well.
 24486	eng	Read it again and again.
 24487	eng	I tried again and again, but I couldn't succeed.
 24488	eng	After several delays, the plane finally left.
@@ -24342,7 +24342,7 @@
 25748	eng	Salt is a useful substance.
 25749	eng	Salt is sold by weight.
 25750	eng	Salt is used to season food.
-25751	eng	Salt helps stop food from perishing.
+25751	eng	Salt prevents food from perishing.
 25752	eng	Salt helps to preserve food from decay.
 25753	eng	Salt preserves fish from decay.
 25754	eng	We cannot do without salt even for a single day.
@@ -24769,7 +24769,7 @@
 26209	eng	The position requires applicants to be skilled in spoken English.
 26210	eng	To speak English well is difficult.
 26211	eng	I can speak a little English.
-26212	eng	You must exercise more care in writing English.
+26212	eng	You must exercise more care when writing in English.
 26213	eng	When he writes English, he often consults the dictionary.
 26214	eng	When writing English, she rarely makes a mistake.
 26215	eng	You should persist in your efforts to learn English.
@@ -25058,7 +25058,7 @@
 26529	eng	If there were no clouds, we could not enjoy the sun.
 26530	eng	The clouds are getting darker.
 26531	eng	The clouds are getting darker; it's going to rain.
-26532	eng	By good luck, he was in time for the train.
+26532	eng	Luckily, he was on time for the train.
 26533	eng	Luckily he had enough money to pay the bill.
 26534	eng	Luckily, he found a good seat.
 26535	eng	Destiny is sometimes cruel.
@@ -25193,7 +25193,7 @@
 26672	eng	It is cool after the rain.
 26673	eng	The leaves are fresh after a rainfall.
 26674	eng	Let's get out of the rain.
-26675	eng	Do you go to school by bus on a rainy day?
+26675	eng	Do you go to school by bus on rainy days?
 26676	eng	It's a rainy day.
 26677	eng	It's a rainy day, so we can't play outside.
 26679	eng	Cheap apartment houses are multiplying rapidly.
@@ -25256,7 +25256,7 @@
 26737	eng	The rain kept us from going out.
 26738	eng	The rain prevented me from coming.
 26739	eng	Because of the rain they had to cancel the game.
-26740	eng	The rain damped their spirits.
+26740	eng	The rain dampened their spirits.
 26741	eng	We had to call off the game because of rain.
 26742	eng	We called off the game on account of rain.
 26743	eng	The rain prevented us from playing baseball.
@@ -25456,7 +25456,7 @@
 26954	eng	They went on a hike, though it rained.
 26955	eng	Since it rained, I did not go.
 26956	eng	The rain was beating against the windows.
-26957	eng	The rain was driving against the windows.
+26957	eng	The rain was lashing against the windows.
 26958	eng	A heavy rain began to fall.
 26959	eng	It's raining hard and yet I must go.
 26960	eng	It was raining hard, but she insisted on going for a drive.
@@ -25640,7 +25640,7 @@
 27149	eng	The drawer is stuffed full of odds and ends.
 27150	eng	The lock on my drawer had been tampered with and some of my papers were missing.
 27151	eng	I forgot to lock the drawer.
-27152	eng	It is no use your holding me back.
+27152	eng	It's no use holding me back.
 27153	eng	May I see your claim tags?
 27154	eng	Don't pull it. Push it open.
 27155	eng	I persuaded him to give up the idea.
@@ -25806,7 +25806,7 @@
 27332	eng	Generally speaking, the Japanese people are diligent.
 27333	eng	Generally speaking, men can run faster than women can.
 27335	eng	Admittedly, models of hegemonic order cannot provide an explanation for all observed successful bargaining strategies.
-27336	eng	The English people in general, are extremely fond of their pets.
+27336	eng	In general, the English are extremely fond of their pets.
 27337	eng	Generally speaking, history repeats itself.
 27338	eng	Generally speaking, boys like girls with long hair.
 27339	eng	Generally speaking, men are physically stronger than women.
@@ -26595,7 +26595,7 @@
 28185	eng	It is under the chair.
 28186	eng	No sooner had I sat down and relaxed than the phone rang.
 28187	eng	Two seats were vacant.
-28188	eng	You may sit down on the chair.
+28188	eng	You may sit down in the chair.
 28189	eng	The chair hasn't arrived yet.
 28190	eng	Written as it is in easy style, the book is for beginners.
 28191	eng	Could you say that in plain English?
@@ -29383,7 +29383,7 @@
 31167	eng	Have you met him yet?
 31168	eng	I've had it with him.
 31169	eng	I won't talk with him anymore.
-31170	eng	It's high time you had your hair cut; it has grown too long.
+31170	eng	It's high time you had your hair cut; it's grown too long.
 31171	eng	Seeing that it is 8 o'clock, I think you should leave for school soon.
 31172	eng	Here it's August and our summer vacation is nearly over.
 31173	eng	It's out of stock, but I can give you a rain check.
@@ -32158,7 +32158,7 @@
 34099	eng	It is best to review the material before the presentation.
 34100	eng	Please give us a 20-30 min. time slot for our presentation.
 34101	eng	Since PlayStation 2 came out the game software store shelves have bloomed riotously with colorful new titles.
-34102	eng	I'm really looking forward to next March, when they roll out the new Play Station 2.
+34102	eng	I'm really looking forward to next March, when they roll out the new PlayStation 2.
 34103	eng	Blake loved to walk in the country round London.
 34104	eng	Press the brake pedal to turn on your brake lights.
 34105	eng	The function of the brake is to stop the car.
@@ -33122,7 +33122,7 @@
 35117	eng	Where are you going, Dad?
 35118	eng	So this is Lady Evans.
 35119	eng	Give me a ride on your shoulders, Daddy.
-35120	eng	Two vanilla ice creams please.
+35120	eng	Two vanilla ice creams, please.
 35121	eng	He's very shy. He says he wants to see you.
 35122	eng	The Panama Canal connects the Atlantic with the Pacific.
 35123	eng	Your nose is running. Blow it.
@@ -33344,7 +33344,7 @@
 35356	eng	The driver told us to be careful when we got off the bus.
 35357	eng	The bus drivers are on strike today.
 35359	eng	The bus service won't be available until the snow has melted.
-35360	eng	I was late for the bus, late for work, and got a run my stockings.
+35360	eng	I was late for the bus, late for work, and got a run in my stocking.
 35361	eng	You must buy a ticket to get on the bus.
 35362	eng	It was careless of you to miss the bus.
 35363	eng	Don't miss the bus.
@@ -36028,7 +36028,7 @@
 38279	eng	From time to time, he goes to the library to get new information about books.
 38280	eng	Sometimes we lie to keep from hurting someone else's feelings.
 38281	eng	Degas was born more than 150 years ago.
-38282	eng	A new year began meanwhile.
+38282	eng	Meanwhile, a new year began.
 38283	eng	It should be noted that Dole did not intend to change the configuration of the communication protocol.
 38284	eng	Not a soul was to be seen in the street.
 38285	eng	Mr Thomas is a very able teacher.
@@ -36234,7 +36234,7 @@
 38515	eng	Please have a try.
 38518	eng	Please come and see me again.
 38519	eng	Please use your headsets.
-38520	eng	Pass me the butter, will you please.
+38520	eng	Pass me the butter, will you please?
 38522	eng	By all means.
 38523	eng	Open the door, please.
 38524	eng	Close the door, please.
@@ -37159,7 +37159,7 @@
 39559	eng	I'll support you as much as I can.
 39560	eng	The alternative possibilities were resistance and flight.
 39561	eng	I feel like I've done all I can. Now all there is to do is wait and see what comes of it.
-39562	eng	Please don't take it out, if possible?
+39562	eng	Please don't take it out, if possible.
 39563	eng	Don't use slang if you can help it.
 39564	eng	I spend what time I can spare reading.
 39565	eng	We'll get this as clear as possible.
@@ -38615,7 +38615,7 @@
 41117	eng	I'm not wearing a diamond ring, but I'm happy.
 41118	eng	We found a nail stuck in the tire.
 41119	eng	Could you check the tire pressure?
-41120	eng	If you pump air into a tire it expands.
+41120	eng	If you pump air into a tire, it expands.
 41121	eng	I pumped up the tire.
 41122	eng	I must put some air in the tire.
 41123	eng	Fill the tires with air.
@@ -39038,7 +39038,7 @@
 41558	eng	Don't worry about such a silly thing.
 41559	eng	It was foolish of him to waste his money on such trifles.
 41560	eng	Don't worry about such a trifle.
-41561	eng	Don't bother your parents with such a trivial thing.
+41561	eng	Don't bother your parents with such a pointless thing.
 41562	eng	Don't look so fiercely at me.
 41563	eng	Don't bother me with such trifles.
 41564	eng	Don't worry about such a trivial problem.
@@ -39653,7 +39653,7 @@
 42213	eng	That's beside the point.
 42214	eng	That's hindsight.
 42215	eng	That is a matter of degrees.
-42216	eng	It's in a small room at the end of garden.
+42216	eng	It's in a small room at the end of the garden.
 42217	eng	That's common sense.
 42218	eng	It is on the left side of the street.
 42219	eng	Is it a direct flight?
@@ -39723,7 +39723,7 @@
 42285	eng	How amazing that your mother speaks six languages!
 42286	eng	It's the fastest railroad in the world.
 42287	eng	It'll be forgotten in a few months' time.
-42288	eng	It was a sublime scenery.
+42288	eng	It was sublime scenery.
 42290	eng	It is founded on supposition.
 42291	eng	It is beyond the boundary of human knowledge.
 42292	eng	It is beyond the boundaries of human intellect.
@@ -40978,7 +40978,7 @@
 43624	eng	It is not easy to solve the problem.
 43625	eng	I found it easy to solve the problem.
 43626	eng	It is easy to solve the problem.
-43627	eng	The solution of the problem took me five minutes.
+43627	eng	It took me five minutes to solve the problem.
 43628	eng	It was impossible for him to solve the problem.
 43629	eng	He was the only boy who solved the problem.
 43630	eng	It was clever of Bob to solve that problem.
@@ -42530,7 +42530,7 @@
 45241	eng	The news confirmed my suspicions.
 45242	eng	Upon finding the news true, she couldn't help but cry for joy.
 45244	eng	Whether the news is true or false makes little difference.
-45245	eng	It was not until few days later that the news arrived.
+45245	eng	It was not until a few days later that the news arrived.
 45246	eng	The price includes postage charges.
 45247	eng	The price was in the neighbourhood of 50 dollars.
 45248	eng	Does that include everything?
@@ -44322,7 +44322,7 @@
 47125	eng	When did the accident happen to her?
 47126	eng	When did the accident happen?
 47127	eng	When did the accident take place?
-47128	eng	The accident took place at a crossroads.
+47128	eng	The accident happened at a crossroads.
 47129	eng	The accident happened on a rainy day.
 47130	eng	The accident happened at that crossing.
 47132	eng	The accident happened two hours ago.
@@ -44389,7 +44389,7 @@
 47200	eng	Ten people were slightly injured in the accident.
 47201	eng	The accident almost cost him his life.
 47202	eng	The accident caused traffic confusion.
-47203	eng	Almost all of the passenger in the bus were asleep when the accident happened.
+47203	eng	Almost all of the passengers on the bus were asleep when the accident happened.
 47204	eng	He had been working in the factory for three years when the accident occurred.
 47205	eng	It is a complete mystery what caused the accident.
 47206	eng	Confusion arose from the accident.
@@ -44433,7 +44433,7 @@
 47247	eng	The businessman withdrew from the transaction.
 47248	eng	The incident sowed the seeds of the war.
 47249	eng	The business will pay in due course.
-47250	eng	The business will yields a fair return on the investment.
+47250	eng	The business will yield a fair return on the investment.
 47251	eng	The undertaking entailed great expense upon the government.
 47252	eng	The enterprise was doomed to failure.
 47253	eng	The undertaking was a failure from the beginning.
@@ -47142,7 +47142,7 @@
 50110	eng	The news turned out false.
 50111	eng	The news spread abroad.
 50112	eng	The news broke her heart.
-50113	eng	The news spread fast.
+50113	eng	The news spreads fast.
 50114	eng	The news was rushed into print.
 50115	eng	The news had a great impact on us.
 50117	eng	The news surprised us much.
@@ -48791,7 +48791,7 @@
 51915	eng	The beefsteak tasted marvelous.
 51917	eng	How would you like your steak done?
 51918	eng	I have steak, eggs, hash browns, toast, and coffee.
-51919	eng	I would like steak with a baked potato.
+51919	eng	I would like a steak with a baked potato.
 51920	eng	Steak is often accompanied by red wine.
 51921	eng	Steak and red wine make a good combination.
 51922	eng	We dined off steak and salad.
@@ -49400,7 +49400,7 @@
 52575	eng	John began trade personally.
 52576	eng	John doesn't know what to do next.
 52577	eng	On hearing himself praised, John was deeply embarrassed.
-52578	eng	John sometime goes overboard in drinking.
+52578	eng	John sometimes goes overboard in drinking.
 52579	eng	John passed the examination.
 52580	eng	John made believe that he passed the exam.
 52581	eng	John is my junior by two years.

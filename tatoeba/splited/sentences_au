@@ -1,43 +1,3 @@
-1048744	srp	Уместо ње, са нама ће ићи њена сестра.
-1048745	tur	Bu raporla ilgili olumlu musunuz?
-1048746	tur	Borçtan sorumlusun.
-1048747	epo	Kato postsekvis muson.
-1048748	nld	Mijn vader leeft op de buiten.
-1048749	tur	Dikkatsiz davranışının hesabını vermelisin.
-1048750	nld	Ze droeg een mannenhemd dat haar niet paste.
-1048752	tur	Gizemli cinayeti hatırlıyor musunuz?
-1048753	epo	Ŝia filo pereis en la aŭtomobila akcidento.
-1048754	nld	Ge rookt niet zeker?
-1048755	epo	Katoj estas puregaj bestoj.
-1048756	tur	Sırrı açıklamamalıydın.
-1048757	tur	O gün bir piyano dersi var mı?
-1048758	tur	Telgrafı ne zaman aldın?
-1048759	tur	Teklifin lehine misiniz?
-1048760	epo	Kato povas vidi en mallumo.
-1048761	tur	Havuzda yüzmemelisiniz.
-1048762	tur	Pencere açabilir misiniz?
-1048763	tur	Pencereyi açabilirsiniz.
-1048764	tur	Bilet almak için sırada durmalısınız.
-1048765	epo	Kato kapablas vidi en mallumo.
-1048766	tur	Yeni yasayı onaylıyor musunuz?
-1048767	tur	Tanığın beyanına inanıyor musunuz?
-1048768	epo	Kato kapablas vidi multe pli bone dumnokte.
-1048769	tur	Bölümün sonunda onun anlamını tahmin etmiş olacaksınız.
-1048770	tur	Mektuba derhal bir cevap yazmalısın.
-1048771	tur	Mektuba derhal bir cevap göndermelisin.
-1048772	tur	Arabayı satın alacak mısınız?
-1048773	tur	Soruyu cevaplamalısın.
-1048774	epo	Post varma bano en la liton.
-1048775	tur	O zaman bir kitap okuyor muydunuz?
-1048776	tur	O zaman ne gördüğünüzü itiraf etmelisiniz.
-1048777	deu	Mehr als zwanzig Jungen gingen da hin.
-1048778	epo	Varmo transformas glacion en akvon.
-1048779	deu	Ich bin eine Person.
-1048780	tur	Gerçeği dikkate almalısın.
-1048781	deu	Mein Vater ist Elektriker.
-1048783	deu	Mein Vater ist Eisenbahner.
-1048784	epo	Ne moku maljunulojn.
-1048785	deu	Wer kann diese Maschine bedienen?
 1048786	tur	Kazanın hesabını nasıl verirsin?
 1048787	deu	Diese Puppe kostet nur 60 Cent.
 1048789	tur	Konu ile ilgili ne yapmak zorundasın?
@@ -443,7 +403,7 @@
 1049205	jpn	発表の時間は三十分でお願いします。
 1049206	ita	Tom non voleva che Mary uscisse con altri ragazzi.
 1049207	ita	Si abituò a svegliarsi presto.
-1049208	ita	La ragazza immagina di essere una dottoressa
+1049208	ita	La ragazza immagina di essere una dottoressa.
 1049209	ita	Ognuno dei suoi figli ha la sua stanza.
 1049210	ita	Vorrei che tu andassi lì.
 1049211	ita	Confermerò la mia prenotazione del volo.
@@ -462,7 +422,7 @@
 1049225	ita	Ho fatto una lista di cibi che non posso mangiare.
 1049226	rus	Чёрный телефон дороже белого.
 1049227	ita	Lei è la segretaria del signor Uda.
-1049228	ita	Kate Middleton è ora la duchessa di Cambridge
+1049228	ita	Kate Middleton è ora la duchessa di Cambridge.
 1049229	epo	Escepte de la prononcado ĉiu povas perfekte paroli la francan.
 1049230	ita	Tokyo è intervenuta subito.
 1049231	ita	Tokyo non ha sprecato tempo nell'intervenire.
@@ -477,9 +437,9 @@
 1049240	ita	Ho dei begli occhi.
 1049241	epo	Ribelo prepariĝis.
 1049242	tur	Kızım beyin sarsıntısı geçirdi.
-1049243	ita	Tom mi disse che era possibile noleggiare una bicicletta
+1049243	ita	Tom mi disse che era possibile noleggiare una bicicletta.
 1049244	ita	Tom è un mio caro amico.
-1049245	ita	Non sapevo del tuo piano
+1049245	ita	Non sapevo del tuo piano.
 1049246	ita	Ricordo di aver cantato quella canzone tempo fa.
 1049247	ita	C'è un posto dove posso sdraiarmi?
 1049248	ita	Il prete che parla francese sarà qui la prossima settimana.
@@ -1881,7 +1841,7 @@
 1050705	por	Acho que Yumi está doente.
 1050706	por	Não tem rival.
 1050707	lvs	Vecs cilvēks nomira no bada.
-1050709	toki	jan Tome li pilin e ni: jan Mali li pali pona e pali sin ona.
+1050709	tok	jan Tome li pilin e ni: jan Mali li pali pona e pali sin ona.
 1050710	por	Ele está melhorando aos poucos.
 1050711	tur	Lütfen sana ihtiyacım olduğunda, yanımda ol.
 1050712	tur	Başınız belada olduğu zaman, bana güvenebilirsiniz.
@@ -5512,7 +5472,7 @@
 1054529	epo	Tomo aĉetis belan fotilon por Manjo.
 1054531	deu	Das Schiff lief auf Grund.
 1054532	eng	The ship ran aground.
-1054533	epo	Tom aĉetis relative multekostan fotilon por Mary.
+1054533	epo	Tomo aĉetis relative multekostan fotilon por Manjo.
 1054534	epo	Tomo aĉetis fotilon por Manjo.
 1054535	deu	Lasst uns den ICE nehmen.
 1054536	epo	Tomo aĉetis novan fotilon por Manjo por anstataŭigi la fotilon, kiun li pruntis kaj perdis.
@@ -5539,7 +5499,7 @@
 1054558	rus	Я встретил своего друга.
 1054559	eng	We have to rent a room to hold the party in.
 1054560	eng	We have to rent a room for our party.
-1054561	jpn	私がバスを待っている間に、交通事故を見ました。
+1054561	jpn	私がバスを待っているときに、交通事故を見ました。
 1054562	jpn	熟したパパイアは、おう吐物のような匂いがする。
 1054563	jpn	私は鞄と傘をクロークに預けた。
 1054564	jpn	日曜日は何も用がありません。
@@ -7616,7 +7576,7 @@
 1056725	spa	Seguramente cree en ti si aún te da una oportunidad.
 1056726	nld	Ze hebben wiskunde gebruikt om de vorm van het universum vlak voor en na de oerknal te berekenen.
 1056727	eng	He definitely believes in you if he still gives you an opportunity.
-1056728	nld	Vergelijk me alsjeblieft niet met m'n broer.
+1056728	nld	Vergelijk me alsjeblieft niet met mijn broer.
 1056729	spa	Nadie puede creer en ti más que tú mismo.
 1056730	nld	Vroeger sprak ze me altijd aan met Tom.
 1056731	ron	Nimeni nu poate crede în tine mai mult decât tu însuți.
@@ -12879,7 +12839,7 @@
 1062221	tur	Yirmi kişiyi partime davet ettim fakat onların hepsi gelmedi.
 1062222	ita	Si affrettò come per prendere l'autobus.
 1062223	ita	Gli ho fatto una domanda.
-1062224	ita	Gli ho posto una domanda
+1062224	ita	Gli ho posto una domanda.
 1062225	ita	La gente pensò che fosse morta.
 1062226	ita	Non approvo il fatto che tu esca con lui.
 1062227	fra	Elle ne sait pas distinguer le bien du mal.
@@ -12931,7 +12891,7 @@
 1062277	fra	J'ai à m'entretenir de quelque chose avec toi.
 1062278	fra	La sauterelle fit un grand bond.
 1062280	eng	I don't give a toss that you are tired.
-1062282	ita	Ha ritrovato per caso la macchina fotografica che aveva perso
+1062282	ita	Ha ritrovato per caso la macchina fotografica che aveva perso.
 1062287	eng	The police have been after him for a long time.
 1062289	eng	Blue movies are rated X, which means that only people of 18 and over can watch them.
 1062290	eng	Tom was always jealous of his younger brother because he knew Jack was their mother's blue-eyed boy.
@@ -19835,7 +19795,7 @@
 1069571	jpn	日本の政界は群雄割拠だ。
 1069572	eng	Bringing a cup of tea is the only thing I can do.
 1069573	tlh	Sargh ghaj loDvam.
-1069574	eng	The only thing that matters isn't size.
+1069574	eng	Size isn't the only thing that matters.
 1069575	eng	The only thing that matters is that you are alive.
 1069576	eng	The only thing that matters is what you do today, yesterday is gone.
 1069577	eng	The only thing that matters is that you are safe.
@@ -22452,7 +22412,7 @@
 1072350	spa	Está prohibido estacionar aquí.
 1072351	tur	Otobüsler her on dakikada bir çalışır.
 1072352	por	Eu sou a própria inocência.
-1072353	toki	mi tawa e supa lon tomo mi.
+1072353	tok	mi tawa e supa lon tomo mi.
 1072355	spa	Se me durmieron los pies y no pude levantarme.
 1072356	tur	Otobüs her on dakikada bir gider.
 1072357	tur	Bir otobüs güzergahı haritası alabilir miyim?
@@ -22790,7 +22750,7 @@
 1072703	lat	Dominus Smith potionem Arabicam bibit.
 1072704	ara	أحب أمي.
 1072705	ara	أنا أحب حياتي.
-1072706	ara	لا تضع الكتب على الطاولة.
+1072706	ara	لا تضع الكُتُب على الطاولة.
 1072707	ara	والدي في غرفته.
 1072708	lat	Pater meus in cubiculo suo est.
 1072709	lat	E Ruthenia oriundus sum.
@@ -23236,7 +23196,7 @@
 1073167	spa	Sus gatas son las más feas que he visto en mi vida.
 1073168	tlh	qabbe'.
 1073169	cmn	不错。
-1073170	pol	Jej kotki sa najbrzydszymi, jakie w życiu widziałem.
+1073170	pol	Jej kotki są najbrzydszymi, jakie w życiu widziałem.
 1073171	epo	"Super-ĉefa akcidento" estas signifripeto.
 1073172	ita	La decisione non è facile.
 1073173	tlh	De' lI' 'oH.
@@ -23717,7 +23677,7 @@
 1073671	jbo	ki'u ma do klaku
 1073672	tur	Seçilmiş olanlar kapsamlı tıbbi ve psikolojik testlerle yüzleşmek zorunda kalacak.
 1073673	ell	Το όνομα αυτού του τραγουδιού είναι "Only You".
-1073674	jpn	この歌の名前は｢Only You」です。
+1073674	jpn	この歌の名前は「Only You」です。
 1073675	spa	El dióxido de carbono no es tóxico en sí mismo.
 1073676	ita	La rivoluzione portò ad una nuova era.
 1073677	ita	Dovrebbe esserci qualcosa di cui possiamo parlare.
@@ -24335,7 +24295,6 @@
 1074311	por	Por que é que estás a fazer essas caretas?
 1074312	por	Deito-me cedo, por volta das dez, e levanto-me de madrugada.
 1074313	ara	هل سوف تذهب إلى المدرسة غدا؟
-1074314	ara	إنه قوي كالحصان .
 1074316	tur	İnsan gıda olmadan 40 gün kadar yaşayabilir fakat susuz en fazla 7.
 1074317	spa	¿A cuál de los dos hermanos viste?
 1074318	tur	Biz gıda olmadan yaşayamayız.
@@ -38799,7 +38758,7 @@
 1089710	spa	Déjame tranquilo.
 1089711	spa	Me estoy lavando.
 1089712	spa	Me lavo.
-1089713	spa	No sabía acerca de su plan.
+1089713	spa	No sabía nada de su plan.
 1089714	ron	Ea are mulţi bani.
 1089716	eng	Neither the one nor the other.
 1089717	spa	No deberías dejar al bebé solo.
@@ -45277,7 +45236,7 @@
 1096304	eng	You catch more flies with honey than you do with vinegar.
 1096305	eng	You can't unscramble an egg.
 1096306	eng	You can't see Mt. Fuji from here.
-1096307	eng	Would you like go out for a drink after work?
+1096307	eng	Would you like to go out for a drink after work?
 1096308	eng	Would one of you be willing to lend me your bicycle for twenty minutes or so?
 1096309	eng	With five minutes left to play in the third quarter, the game was stopped because of lightning.
 1096311	eng	Why don't you take a long walk off a short pier?
@@ -46480,7 +46439,6 @@
 1097567	spa	Mañana iré a un campamento de entrenamiento. Sin embargo, no será la parte física la que entrenaré, sino la mental.
 1097568	spa	La casa era más cara de lo que había esperado.
 1097569	spa	Cada uno de los tres niños obtuvo un premio.
-1097570	toki	tenpo kama la mi kama sin tawa ma ni.
 1097571	spa	Quiero saber la verdad, nada más.
 1097572	spa	Vivo en la ciudad, pero extraño la vida en el campo.
 1097573	spa	Un artículo acerca de nuestra escuela apareció en el periódico.
@@ -47235,7 +47193,7 @@
 1098375	deu	Seltsam: Wenn es einen juckt, kratzt man sich automatisch.
 1098376	fra	Il faut être très précis.
 1098377	ita	Bisogna essere molto precisi.
-1098378	ita	bisogna provare a parlargli.
+1098378	ita	Bisogna provare a parlargli.
 1098379	ita	Bisogna intervenire.
 1098380	ita	Bisogna aspettare la fine dello spettacolo.
 1098381	deu	Wenn man z.B. stinkt, wäscht man sich nicht automatisch.
@@ -49998,3 +49956,45 @@
 1101272	nds	Dat is aver en lütte Arvt!
 1101273	tur	Onun cep telefonu, diğer telefonları engelleyen radyo emisyonu üretti.
 1101274	nds	Op ’n Teller weer en Stück Höhnerfleesch, en Kartuffel un en poor Arvten.
+1101275	nds	Dat deed na Rook reken.
+1101276	nds	Dat gifft noch veel to doon.
+1101277	tur	Bazı yönetim kurulu üyeleri onun şirketi işletme yeteneğini sorguladı.
+1101278	nds	Wi hebbt över di snackt.
+1101279	nds	Wi hebbt över jo snackt.
+1101280	nds	Wi hebbt över jem snackt.
+1101281	nds	Woneem hest du disse List funnen?
+1101282	nds	Du schusst mehr eten.
+1101283	nds	Ji schullen mehr eten.
+1101284	tur	Onun deneyimi, ona işi yapma niteliği kazandırıyor.
+1101285	tur	Onun deneyimsizliğini hesaba katmalısın.
+1101286	nds	Wi hebbt jeden Dag söss Lexen.
+1101287	nds	Kann ik wat to eten kriegen?
+1101288	tur	Onun tecrübe eksikliğini kabul etmeme rağmen, hâlâ daha iyi yapması gerektiğini düşünüyorum.
+1101289	nds	Ik deed em schrieven, wenn ik sien Adress wüss.
+1101290	nds	Allens, wat du doon musst, is töven.
+1101292	tur	Onun alt yapısı onun selefininki ile paralellik göstermektedir.
+1101293	nds	Du dröffst en poor Daag lang nix eten.
+1101294	nds	Een lüggt.
+1101295	nds	Ik heff de Naricht in ’t Radio höört.
+1101296	tur	Ben onun iş kaydı için şirkete başvurdum.
+1101297	nds	Dat Bild lett mi an miene Kindheid denken.
+1101298	tur	Onun planı uygulamaya konulmuştur.
+1101299	nds	He füng sien Dag mit en good Fröhstück an.
+1101300	tur	Onun planı bir sürü para gerektirmektedir.
+1101301	nds	Paris warrt de Stad von de Lichten nöömt. Veel smucke Bowarken warrt nachtens anstrahlt.
+1101302	eng	She was eager to go home.
+1101303	nds	Ik draag nich geern anner Lüüd ehr Tüüg.
+1101304	nds	Ik heff en Probleem mit mien Wagen.
+1101305	nds	Ik will geern en Spoorkonto opmaken.
+1101306	tur	Onun planının hem erdemleri hem de yükümlülükleri vardır.
+1101307	nds	Mien Opa is mit achtig jümmer noch krall.
+1101308	tur	Onun planına katılıyorum.
+1101309	tur	Onun planını kabul etmekten başka seçenek yoktur.
+1101310	nds	Goethe siene letzten Wöör weren nich „Mehr Licht!“, man wat he seggen wull, weer „Mer licht hier net guud.“, wat Hessisch is un soveel heet as „Men liggt hier nich good.“.
+1101311	epo	Estas lakto en la fridujo.
+1101312	tur	Onun planı o nehir üzerinde bir köprü inşa etmektir.
+1101313	tur	Onun planı pazartesi günü başlamaktı.
+1101314	nld	Hij viel in slaap met de radio nog aan.
+1101315	nds	Dat bringt nix, to wenen.
+1101316	nds	Röögt jo!
+1101317	nds	De Mantel liggt op ’n Stohl.
