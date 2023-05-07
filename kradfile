@@ -42,32 +42,33 @@
 # The mappings of the characters used to the characters in the Unicode,
 # mostly in the, "CJK Radicals Supplement" and "KangXi Radicals", are below.
 #
-# 化 2E85
-# 个 2F09
-# 并 none available - upside-down ハ
-# 刈 2E89
-# 込 2ECC
-# 尚 2E8C
-# 忙 2E96
-# 扎 2E97
-# 汁 2EA1
-# 犯 2EA8
-# 艾 2EBE
-# 邦 2ECF
-# 阡 2ED9
-# 老 2EB9
-# 杰 2EA3
-# 礼 2EAD
-# 疔 2F67
-# 禹 2F71
-# 初 2EC2
-# 買 2EB2
-# 滴 5547
+# 化 U+2E85
+# 个 U+2F08
+# 并 U+4E37
+# 刈 U+2E89
+# 込 U+2ECC
+# 尚 U+2E8C
+# 忙 U+2E96
+# 扎 U+2E98
+# 汁 U+2EA1
+# 犯 U+2EA8
+# 艾 U+2EBE
+# 邦 U+2ECF
+# 阡 U+2ED6
+# 老 U+2EB9
+# 杰 U+2EA3
+# 礼 U+2EAD
+# 疔 U+2F67
+# 禹 U+2F71
+# 初 U+2EC2
+# 買 U+2EB2
+# 滴 U+5547
 # 
 # Jim Breen, Tokyo, January 2001
 #            Melbourne, July 2001
 #            Melbourne, Dec  2004
 #            Melbourne, Oct  2013
+#            Melbourne, Mar  2023
 #
 ####### CHANGES (some of them) ############################
 # Nov 2004 - 八 replaced by ハ and 并
@@ -102,6 +103,7 @@
 # Apr 2022 - add 凵 to kanji containing 出.
 # May 2022 - 爿 and 片 added to 淵
 # Jun 2022 - made sure the 夫 pattern is indexed by 二 + 人 and 亠 + 大
+# May 2023 - changed 廃 to have 二 instead of 一
 ###########################################################
 亜 : ｜ 一 口
 唖 : ｜ 一 口
@@ -2313,7 +2315,7 @@
 芭 : 巴 艾
 馬 : 馬 杰
 俳 : 化 非
-廃 : 一 儿 广 癶
+廃 : 二 儿 广 癶
 拝 : ｜ 一 干 扎
 排 : 非 扎
 敗 : 貝 目 ハ 攵 乞
