@@ -1,45 +1,3 @@
-1374753	epo	Kion la birdetoj faris tie? - Ili kantadis tie.
-1374754	por	Que faziam os passarinhos ali? - Eles cantavam ali.
-1374755	epo	Kiu venis? - Venis ĉasisto.
-1374756	por	Quem chegou? - Chegou um caçador.
-1374757	epo	Kion faris la ĉasisto? - Li pafis kaj mortigis du birdetojn.
-1374758	por	Que fez o caçador? - Ele atirou e matou dois passarinhos.
-1374759	epo	Kiam la ĉasisto mortigis du birdetojn, kion faris la aliaj? - La aliaj disflugis.
-1374760	por	Quando o caçador matou dois passarinhos, que fizeram os outros? - Os outros voaram em diversas direções.
-1374761	epo	Ĉu la birdetoj revenis? - Ne, ili ne revenis.
-1374762	por	Os passarinhos voltaram? - Não, eles não voltaram.
-1374763	epo	Kie loĝadis la muso? - Ĝi loĝadis apud marĉo.
-1374764	por	Onde morava o camundogo? - Ele morava junto a um pântano.
-1374765	epo	Kun kiu amikiĝis la muso? - Ĝi amikiĝis kun rano.
-1374766	por	De quem o camundongo se tornou amigo? - Ele se tornou amigo de uma rã.
-1374767	epo	Ĉu la muso kaj la rano restis ĉiam amikoj? - Ne, ili ne restis ĉiam amikoj.
-1374768	por	O camundongo e a rã ficaram sempre amigos? - Não, eles não ficaram sempre amigos.
-1374769	epo	Pri kio ili disputadis? - Ili disputadis pri la tero kaj la akvo.
-1374770	por	A respeito de que eles disputavam? - Eles disputavam a respeito da terra e da água.
-1374771	epo	Kion ekkriis la rano? - La rano ekkriis: “Mi invitas vin al duelo”.
-1374772	por	Que exclamou a rã? - A rã exclamou: “Eu te convido a um duelo”.
-1374773	epo	Ĉu ili ekbatalis, kaj kiam? - Ili ekbatalis la sekvantan tagon, frumatene.
-1374774	por	Eles começaram a brigar, e quando? - Eles começaram a brigar no dia seguinte, de manhã cedo.
-1374775	epo	Ĉu ili pensis pri danĝero? - Ne, ili ne pensis pri danĝero.
-1374776	por	Eles pensavam em perigo? - Não, eles não pensavam em perigo.
-1374777	epo	Kiu flugis super iliaj kapoj? - Super iliaj kapoj flugis milvo.
-1374778	por	Quem voava por cima de suas cabeças? - Por cima de suas cabeças voava um milhafre.
-1374779	epo	Ĉu la milvo ekvidis la muson kaj la ranon? - Jes, ĝi ekvidis ilin.
-1374780	por	O milhafre viu o camundongo e a rã? - Sim, ele os viu.
-1374781	epo	Kion faris la milvo? - Ĝi ekprenis la batalantojn kaj forportis ilin.
-1374782	por	Que fez o milhafre? - Ele agarrou os combatentes e os levou.
-1374783	epo	Por kio ĝi forportis ilin? - Ĝi forportis ilin por ilin manĝi.
-1374784	por	Para que ele os levou? - Ele os levou para comê-los.
-1374785	epo	Ĉu milvo estas birdeto, aŭ ĉu ĝi estas granda rabobirdo? - Milvo ne estas birdeto; ĝi estas granda rabobirdo.
-1374786	por	O milvo é um passarinho, ou ele é uma grande ave de rapina? - O milvo não é um passarinho; ele é uma grande ave de rapina.
-1374787	epo	La frato de mia edzino estas mia bofrato.
-1374788	por	O irmão da minha esposa é meu cunhado.
-1374789	epo	La patrino de mia edzino estas mia bopatrino.
-1374790	por	A mãe da minha mulher é minha sogra.
-1374791	epo	La edzino de via filo estas via bofilino.
-1374792	por	A mulher do seu filho é sua nora.
-1374793	epo	Knabo kaj knabino estas geknaboj.
-1374794	por	Um menino e uma menina são um casal de meninos.
 1374795	epo	Edzo kaj edzino estas geedzoj.
 1374796	por	Um marido e uma mulher são um casal.
 1374798	por	Um esposo e uma esposa são um casal.
@@ -1107,7 +1065,7 @@
 1376792	por	Seria melhor escolhermos outro dia qualquer.
 1376794	por	Seria melhor que escolhêssemos um outro dia.
 1376796	por	Alguém veio.
-1376797	epo	Mi petas, escolham outra pessoa.
+1376797	epo	Mi petas, ni aŭskultu alian personon.
 1376798	por	Por favor, escolham outra pessoa.
 1376799	epo	Iuj dormis, aliaj staris garde.
 1376800	por	Uns dormiam, outros estavam de guarda.
@@ -1608,7 +1566,7 @@
 1377465	epo	Ĉiuj, kiujn mi vokos devos stariĝi.
 1377466	por	Todos aqueles que eu chamar deverão se levantar.
 1377468	por	Todos aqueles que eu chamar eu premiarei.
-1377469	epo	Ĉiujn, kiuj stariĝos mi vokos.
+1377469	epo	Ĉiujn, kiuj stariĝos, mi vokos.
 1377470	por	Todos aqueles que se levantarem eu chamarei.
 1377472	por	Todos aqueles que vierem serão bem-vindos.
 1377473	epo	Ĉio, kio estas en tiu libro estas profitebla.
@@ -3090,7 +3048,7 @@
 1379475	por	Por que você não responde ao seu pai?
 1379476	epo	Ĉio cedas al amo.
 1379477	por	Tudo cede ao amor.
-1379478	epo	En domo proksima al rivereto.
+1379478	epo	En domo proksima al rivereto sidis maljuna virineto.
 1379479	por	Numa casa próxima a um córrego.
 1379480	epo	La amo al la familio estas nia unua devo.
 1379481	por	O amor da família é o nosso primeiro dever.
@@ -3315,7 +3273,7 @@
 1379757	por	Junto da casa brincavam duas crianças.
 1379758	epo	Apud li iris bela virino.
 1379759	por	Ao lado dele ia uma bela mulher.
-1379760	epo	La batalo apud Vaterlo fariĝis fama.
+1379760	epo	La batalo apud Vaterloo fariĝis fama.
 1379761	por	A batalha de Waterloo tornou-se famosa.
 1379762	epo	Ni longe interparoladis ĉe la fajro.
 1379763	por	Estivemos muito tempo a conversar ao pé do fogo.
@@ -6453,7 +6411,7 @@
 1383748	epo	Vi ne povas kalkuli kun financa helpo de li.
 1383749	epo	Ambaŭ varoj havas la saman prezon, sed iliaj produktadokostoj estas tre malsamaj.
 1383750	deu	Beide Waren haben den selben Preis, aber ihre Herstellungskosten sind sehr verschieden.
-1383751	epo	Ili subskribis la packontrakton.
+1383751	epo	Ili subskribis la pactraktaton.
 1383752	epo	La espertizisto taksis la prezon de la parcelo je ducent mil eŭroj.
 1383753	epo	Mi per tio hontigis min.
 1383754	deu	Der Gutachter hat den Preis des Grundstücks auf zweihunderttausend Euro geschätzt.
@@ -7258,7 +7216,7 @@
 1384593	tlh	nIpon Hol vIghoj.
 1384594	spa	Me sacas de quicio.
 1384595	tlh	leng chaw'lIj wej mIlloghmey chonobnIS.
-1384596	deu	Du machst du noch ganz wahnsinnig.
+1384596	deu	Du machst mich noch ganz wahnsinnig.
 1384598	fra	Cette proposition est en accord avec notre stratégie.
 1384599	tlh	reHtaH puqpu' ghom.
 1384600	epo	Ni ellitiĝos morgaŭ ja la sepa.
@@ -14619,7 +14577,7 @@
 1392314	fra	Elle l'aida elle-même car personne d'autre ne voulait le faire.
 1392315	spa	¿Quieres una galleta?
 1392316	fra	Elle l'a elle-même aidé car personne d'autre ne le ferait.
-1392317	eng	Tom is playing on his gamecube.
+1392317	eng	Tom is playing on his GameCube.
 1392318	lat	Dominus Ioannes in America Foederata natus est.
 1392319	spa	Yo considero a Vivi como la persona más increíble que haya conocido, a sabiendas de que eso alimenta su ego.
 1392320	eng	Those lazy men neglect their duties over and over again.
@@ -14768,7 +14726,7 @@
 1392471	deu	Was für ein Quatsch!
 1392472	spa	¡Qué disparate!
 1392473	epo	Ŝi estas grandkapa.
-1392476	epo	Mi ŝatus partopreni de la festo.
+1392476	epo	Mi ŝatus partopreni en la festo.
 1392477	spa	¿Dónde están mis relojes?
 1392478	eng	I am drinking coffee.
 1392479	eng	I went to many shops to look for the book.
@@ -14783,7 +14741,6 @@
 1392488	spa	Ha metido la pata pero bien.
 1392489	spa	He metido la pata.
 1392490	deu	Ich bin ins Fettnäpfchen getreten.
-1392491	epo	Mi ne povas legi sen okulvitro.
 1392492	eng	He returned home after being away for ten months.
 1392493	deu	Ich habe Scheiße gebaut.
 1392494	yue	佢唔係美國人。
@@ -17976,7 +17933,7 @@
 1395816	nld	Ik merkte op dat ik geobserveerd werd.
 1395817	heb	יגיע יום שהוא יתחרט על כך.
 1395818	epo	Pli bone iam ol neniam.
-1395821	spa	Las hojas de repollo son importantísimas en el tratamiento del reumatismo
+1395821	spa	Las hojas de repollo son importantísimas en el tratamiento del reumatismo.
 1395822	heb	אתה רוצה יחיד או כפול?
 1395823	heb	טום לא היה אומר לא.
 1395824	heb	טום לא היה מסרב.
@@ -18366,7 +18323,7 @@
 1396243	epo	Sen akvo ne eblas vivi.
 1396244	eng	I'll postpone my trip to Scotland until it's warmer.
 1396246	lat	Mendacium est libum.
-1396247	epo	Mi, persone, neniam vidis UFOn.
+1396247	epo	Mi, persone, neniam vidis nifon.
 1396248	epo	Ĉu plaĉas al vi tiu ĉi T-ĉemizo?
 1396250	epo	Interese, ĉu li venos hodiaŭ?
 1396251	eng	Croatia is in the southeastern part of Europe.
@@ -19303,7 +19260,7 @@
 1397240	ara	يجب عليك أن تختار وظيفة تتعلق بمواهبك واهتماماتك.
 1397241	eng	Tom was framed.
 1397242	deu	Tom wurde reingelegt.
-1397243	ron	Există oameni cărora le este dat să guste numai otrava din lucruri, pentru care orice surpriză este o surpriză dureroasă şi orice experienţă un nou prilej de tortură.
+1397243	ron	Există oameni cărora le este dat să guste numai otrava din lucruri, pentru care orice surpriză este o surpriză dureroasă și orice experiență un nou prilej de tortură.
 1397244	epo	Li faras multajn klopodojn, por ke oni permesu lian eniron.
 1397245	ron	Ce vrei să fac cu asta?!
 1397246	ron	Dorm prea mult și sunt mereu obosit.
@@ -20285,7 +20242,7 @@
 1398293	epo	Du grandegaj ondorompiloj etendas sin kiel longaj mallarĝaj brakoj en la golfon kaj ĉirkaŭprenas la antaŭurban akvosupraĵon, kie ŝipoj el ĉiuj partoj de la mondo malrapide alnaĝas la havenon.
 1398294	lat	Vulpe ignea utor.
 1398295	epo	Malsame al ĉiuj knaboj samaĝe kiel li, piedpilkludo ne gravas por li.
-1398296	epo	Ken ĉiutage ludas piedpilkon.
+1398296	epo	Ken ĉiutage ludas piedpilkadon.
 1398297	deu	Zwei riesige Wellenbrecher strecken sich wie lange schmale Arme in die Bucht und umarmen die vor der Stadt liegende Wasserfläche, wo Schiffe aus allen Erdteilen langsam auf den Hafen zulaufen.
 1398298	epo	Hieraŭ mi piedpilkludis.
 1398299	epo	Mi kontuzis la genuon dum mi ludis piedpilkon.
@@ -22782,7 +22739,7 @@
 1400934	tur	Bütün gece ağlamaya devam etti.
 1400935	tur	O, İngilizcede iyi dereceler aldı.
 1400936	tur	O, günlüğünü İngilizce olarak tutar.
-1400937	epo	Vi alportas min en tento!
+1400937	epo	Vi alportas min en tenton!
 1400938	tur	O, İngilizcede iyi notlar alır.
 1400939	tur	O, çatıdan indi.
 1400940	tur	O saatlerce bekledi.
@@ -27595,7 +27552,7 @@
 1405932	eng	I refrained from voting.
 1405933	eng	Saints are always depicted with a halo over their heads.
 1405934	eng	The survey revealed that most pregnant women prefer girls.
-1405935	epo	Litovio estas unu bona lando.
+1405935	epo	Litovio estas bona lando.
 1405936	eng	He always manages to find a way out of everything.
 1405937	eng	I wish I were by your side!
 1405938	eng	I'm invited to a party tonight.
@@ -37115,12 +37072,12 @@
 1415854	eng	I went to China two years ago.
 1415855	hun	Ő már több mint 70 éves.
 1415856	hun	Jövő héten Európába utazom.
-1415857	epo	Ŝi estas jam pli ol 70 jaraĝa.
+1415857	epo	Ŝi estas jam pli ol 70-jaraĝa.
 1415858	hun	Könyvek nélkül unalmas lenne az élet.
 1415859	deu	Er will nicht zum Arzt gehen, obwohl er Schmerzen hat.
 1415860	epo	Pardonu, ke mi per tiom ŝarĝis vin.
 1415861	hun	Ne állj fel!
-1415862	epo	Li estas jam pli ol 70 jaraĝa.
+1415862	epo	Li estas jam pli ol 70-jaraĝa.
 1415863	eng	We'd better cancel the hike.
 1415864	eng	We learn a lot from experience.
 1415865	ell	Δεν θέλει να πάει στο γιατρό παρ'όλο που πονάει.
@@ -44795,7 +44752,7 @@
 1423922	tur	O, onu dün yapmış olmalı.
 1423923	eng	In spite of the fact that he's 38, he's still dependent on his parents.
 1423924	eng	Even though he's 38, he's still dependent on his parents.
-1423925	epo	Agitantoj ariĝis en la vilaĝon.
+1423925	epo	Agitantoj ariĝis en la vilaĝo.
 1423926	tur	O, onu kelimesi kelimesine çevirdi.
 1423927	epo	Se vi ne ekzistus, oni devus vin inventi.
 1423928	tur	O, bir taksi aramak için dışarı çıktı.
@@ -45163,7 +45120,6 @@
 1424305	swe	Ni kommer att bli tvättad.
 1424306	por	Você cuidaria dos meus filhos enquanto eu estiver de férias?
 1424307	por	Mostre-me as fotos que tirou em Paris.
-1424308	rus	Том мог пропустить этот поезд. Он не прибыл еще.
 1424309	por	Temos de atualizar nossos métodos de ensino.
 1424310	rus	Том никогда не шутит про свою работу.
 1424311	cmn	第一还是第二的版本比较齐全？
@@ -46090,9 +46046,9 @@
 1425266	glg	Prefiro traballar duro a sentarme sen facer nada.
 1425267	spa	Prefiero trabajar duro a sentarme sin hacer nada.
 1425268	ido	Vu esas vere tre laborema.
-1425269	glg	¿Que vou facer? Non podo pechar o meu voo.
+1425269	glg	¿Que vou facer? Non podo pechar a miña bragueta.
 1425270	heb	אליס מצוננת מאז יום ראשון שעבר.
-1425271	spa	¿Qué voy a hacer ahora? No puedo cerrar mi vuelo.
+1425271	spa	¿Qué voy a hacer? No puedo cerrar mi bragueta.
 1425272	tur	Onun davranışına güçlükle katlanıyorum.
 1425273	deu	Tom sagte, er wolle chinesisches Essen essen.
 1425274	ido	Vu esas vere forta laborero.
@@ -47239,7 +47195,7 @@
 1426451	deu	Die See ist trübe.
 1426452	epo	Mi ne estas okupita per tiu afero.
 1426453	cmn	我跟她不熟。
-1426454	epo	Mi ne okupiĝas per tiu afero.
+1426454	epo	Mi ne okupiĝas pri tiu afero.
 1426455	deu	Ich möchte nicht mit diesem Stift schreiben.
 1426456	cmn	这是在浪费时间和金钱。
 1426457	eng	When making a cake, you must use eggs, butter and sugar.
@@ -49998,3 +49954,47 @@
 1429375	ita	Dove si trova la strada?
 1429376	ita	Ti dice niente?
 1429377	ita	Perché non si possono fare pupazzi di neve di fianco alla chiesa?
+1429378	ita	Non ti riconosco più.
+1429379	ita	Non mi ricordavo già più.
+1429380	epo	Ĝi estas mia jupo!
+1429381	epo	Ankaŭ mi ne komprenis ĝin.
+1429382	spa	Jamás aprietes este botón.
+1429383	spa	Nunca presiones este botón.
+1429384	spa	Yo tampoco lo entiendo.
+1429385	deu	Ich verstehe es genauso wenig.
+1429386	deu	Ich verstehe das genauso wenig.
+1429387	jpn	私にも分からない。
+1429388	jpn	私だって判らない。
+1429389	epo	Mi ne plu iluziiĝos.
+1429390	spa	Ya no me haré ilusiones.
+1429391	ita	Spero di vederla presto.
+1429392	spa	Espero que nos veamos pronto.
+1429394	ita	Mancavate solo voi due ieri sera.
+1429395	ita	Dalla prossima volta non mancherò più!
+1429399	heb	בוא מחר בבוקר.
+1429400	heb	בואי מחר בבוקר.
+1429401	heb	בואו מחר בבוקר.
+1429402	deu	Komme morgen Vormittag.
+1429403	spa	¿Cómo se dice eso?
+1429404	epo	Kiel oni diras tion?
+1429406	spa	Todos vivimos en el mismo vecindario.
+1429407	rus	Моё отношение к нему изменилось.
+1429408	spa	No puedo cambiar la dirección del viento, pero sí ajustar mis velas para llegar siempre a mi destino.
+1429409	spa	No le digas nada a nadie.
+1429410	rus	Почему небо голубое?
+1429411	spa	Los dos países estaban unidos bajo un solo Gobierno.
+1429412	ita	Stasera cosa facciamo?
+1429413	epo	Li metis la libron sur la breton.
+1429414	ita	Ci mancherete stasera!
+1429415	jpn	誰にも一言も言わないで。
+1429418	por	Espero vê-la logo.
+1429419	por	Espero que nos vejamos logo.
+1429420	por	Como se diz isso?
+1429421	por	Espero vê-lo logo.
+1429422	por	Eu também não o entendo.
+1429423	por	Nunca pressione este botão.
+1429425	por	Aprendo chinês em Pequim.
+1429426	por	Estou aprendendo chinês em Pequim.
+1429427	spa	Ella rompe un plato cada vez que los lava.
+1429429	por	Qual é a sua cidade favorita nos Estados Unidos?
+1429430	por	Odeio neve e carnaval.
