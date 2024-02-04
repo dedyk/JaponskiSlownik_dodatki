@@ -1,69 +1,3 @@
-2599823	fin	Onko niitä olemassa?
-2599824	deu	Dieses Buch ist besser als alle, die ich gelesen habe.
-2599825	fin	Oliko tämä jonkun muun idea?
-2599826	fin	Oliko tämä jonkun muun ajatus?
-2599827	deu	Das Buch gehört mir. Ich habe selbst meinen Namen hineingeschrieben.
-2599828	deu	Das Buch erscheint mir einfach.
-2599830	fin	Huolimatta siitä mitä tapahtuu en tule koskaan muuttamaan mieltäni.
-2599831	fin	Mitä tahansa tapahtuu, en muuta mieltäni.
-2599832	deu	Das Buch geht weit über meinen Horizont.
-2599833	deu	Aus einem Fass mit faulen Äpfeln kann man immer noch einen oder zwei genießbare herausfischen.
-2599834	deu	Dieses Buch ist für mich sehr schwer verständlich.
-2599835	deu	Dieses Buch ist zu schwierig für mich.
-2599836	fin	Tämä viini maistuu hyvältä.
-2599837	deu	Dieses Buch ist so einfach, dass ich es lesen kann.
-2599838	fin	Tämä viini on hyvää.
-2599839	fin	Miksi joku tahtoisi tehdä sen?
-2599840	fin	Miksi joku haluaisi tehdä sitä?
-2599841	deu	Dieses Buch ist für Kinder verständlich.
-2599843	deu	Dieses Buch ist für Kinder.
-2599844	fin	Seisoin hetken ja katsoin pakokaasuputkea.
-2599845	fin	Seisoin hetken katsomassa pakoputkea.
-2599846	fin	Lyhyt tukka sopii hänelle todella.
-2599847	fin	Lyhyet hiukset sopivat todella hänelle.
-2599848	fin	Aioin kirjoittaa puistoistamme ja vuoristamme.
-2599849	deu	Das Buch verkauft sich aktuell gut.
-2599850	cmn	汽车在汽车工厂里生产。
-2599851	eng	Even children can understand this book.
-2599852	deu	Selbst Kinder können dieses Buch verstehen.
-2599853	fin	Kiinalaiset eivät tiedä etten ole inhimillinen.
-2599854	deu	Exakte Maße sind erforderlich.
-2599855	epo	Tiu ĉi libro eĉ por infanoj estas komprenebla.
-2599856	deu	Das Buch enthält, wenn überhaupt, nur wenige Druckfehler.
-2599857	deu	Exakte Maße sind nötig.
-2599858	fin	Fysiikka on lempiaineeni.
-2599859	deu	Dieses Buch kommt auf das oberste Regalbrett.
-2599860	deu	Leichte Lesbarkeit kann man diesem Buch nicht bescheinigen.
-2599861	fin	Hänen käsivartensa on kipsattu.
-2599862	deu	Die Maße müssen stimmen.
-2599863	fin	Olette oikeassa. Nuudelikeitto on aika kallista täällä.
-2599864	fin	Minulla ei ole niin paljon rahaa mukanani.
-2599865	cmn	这家工厂生产汽车配件。
-2599866	fin	Minulla ei ole paljoa rahaa mukanani.
-2599867	epo	Al tiu libro ne eblas atesti facilan legeblecon.
-2599868	fin	Hän juoksi edestakaisin.
-2599869	deu	Diese Buch beschäftigt sich mit der neuen linguistischen Theorie.
-2599871	fin	Tom alensi ääntään.
-2599872	cmn	这家工厂生产电炉。
-2599873	fin	Tomin tarvitsee voittaa aikaa.
-2599874	fin	Tom pani kirjan pois.
-2599875	rus	Этот завод производит электрические печи.
-2599876	fin	Tom laittoi kirjan pois.
-2599877	rus	На этом заводе производятся электропечи.
-2599878	deu	Dieses Buch ist seine bislang beste Leistung.
-2599879	epo	Tiu libro estas plena de stilfiguroj.
-2599880	deu	Dieses Buch ist eine Kurzfassung des Originals.
-2599881	ukr	Він розлютився, тому що його не запросили
-2599882	deu	Ist der Chef da?
-2599883	deu	Dieses Buch beschäftigt sich mit den Anwendungen von Atomkraft.
-2599884	rus	В том гараже есть место для двух автомобилей.
-2599885	rus	В том гараже хватит места для двух автомобилей.
-2599886	tur	Kimseyi ürkütmemek lazım.
-2599887	deu	Das ist ein altes Buch in neuer Aufmachung.
-2599888	tur	Düşüncelerim gelişti ama ana hatları çok değişmedi.
-2599889	tur	Bir gün anlayacaksınız.
-2599890	ukr	Я повинен поспішити, а то запізнюсь.
-2599891	epo	Ĝis nun tiu libro estas lia plej bona verko.
 2599892	rus	Я должен поспешить, иначе я опоздаю.
 2599893	deu	Worüber haben wir uns gleich noch mal unterhalten?
 2599894	deu	Sagst du mir noch mal eben, was wir bisher besprochen haben?
@@ -3666,7 +3600,7 @@
 2603708	epo	Ĉu vi promesos, pripensi mian proponon?
 2603709	por	Eu tenho certeza de que posso lidar com isso.
 2603710	por	Eu tenho certeza de que isso não é necessário.
-2603711	epo	Ĉu vi promesos, pensi pri mia propono?
+2603711	epo	Ĉu vi promesos pensi pri mia propono?
 2603712	tur	Ben hazırım, ya siz?
 2603713	por	Eu tenho certeza de que vocês dois concordam.
 2603714	por	Eu tenho certeza de que há uma ligação.
@@ -9778,7 +9712,7 @@
 2610291	ita	Ho realizzato che non ero pronta.
 2610292	epo	Tom kaŝis sin en la montaro.
 2610293	ita	Lei era sul punto di piangere.
-2610294	deu	Das Ideal der Teilhabe aller an einer Gesellschaft, an kreativen Schaffensprozessen und Ausdrucksmöglichkeiten die allen gemeinsam, unabhängig von der ethnischen oder nationalen Herkunft, zur Verfügung stehen, begleitet Esperanto von Beginn an, und dank ihm wurde die Bewegung zu einem Bündnis für Frieden und Humanität
+2610294	deu	Das Ideal der Teilhabe aller an einer Gesellschaft, an kreativen Schaffensprozessen und Ausdrucksmöglichkeiten, die allen gemeinsam, unabhängig von der ethnischen oder nationalen Herkunft, zur Verfügung stehen, begleitet Esperanto von Beginn an, und dank ihm wurde die Bewegung zu einem Bündnis für Frieden und Humanität.
 2610295	epo	Ŝi surhavis robaĉon.
 2610296	spa	No te sientes encima.
 2610297	epo	Homo vivas ne nur per pano.
@@ -11111,7 +11045,7 @@
 2611716	rus	Я сложил полотенце вдвое.
 2611717	ita	Leggo tutti i giorni un quotidiano.
 2611718	ita	Non credo a ciò che egli dice.
-2611719	eng	I don't believe to what he says.
+2611719	eng	I don't believe what he says.
 2611720	rus	Я сложил полотенце пополам.
 2611721	ita	Scrivo un SMS a un mio amico.
 2611722	ben	এটা কখনোই শেষ হবে না।
@@ -13051,7 +12985,7 @@
 2613780	por	Eu copiei e colei da Wikipédia.
 2613781	por	Eu conseguirei a minha vingança.
 2613782	por	Eu farei o que for necessário para conseguir a minha vingança.
-2613783	epo	Ni eĉ ne konsideras tiu eblon.
+2613783	epo	Ni eĉ ne konsideras tiun eblon.
 2613784	por	Há uma bomba a bordo!
 2613785	por	Nunca diga a palavra "bomba" em um avião.
 2613786	por	O disco rígido foi totalmente destruído.
@@ -13098,7 +13032,7 @@
 2613827	por	Algumas cenas desse filme são muito perturbadoras.
 2613828	por	Aquele filme é perturbador.
 2613829	por	Essa cena é perturbadora.
-2613830	epo	Ne rajtas manki eĉ nur unu ero el tiu listo.
+2613830	epo	Ne rajtas manki eĉ nur unu ero el tiu ĉi listo.
 2613831	por	Se isso é um sinal, qual é a mensagem?
 2613832	por	Agora só nos resta esperar.
 2613833	ina	Illos entrava con vos justo ora, e le solite sonios mie, tote mi belle sonios, se ha tosto dissipate!
@@ -18464,7 +18398,7 @@
 2619622	por	As folhas do abacá podem chegar a 2 metros de comprimento.
 2619623	por	O abacá foi domesticado nas Filipinas.
 2619624	por	O abacá é uma planta de clima cálido e alta umidade.
-2619625	por	Nas Filipinas, cultivam-se mais de 70 variedades do abacá, planta cujas fibras são muito importantes na indústria da cordaria.
+2619625	por	Nas Filipinas, cultivam-se mais de 70 variedades do abacá, planta cujas fibras são muito importantes na indústria da cordoaria.
 2619626	por	O período para o corte do abacá pode chegar a 1,5 ano.
 2619627	por	Anualmente, extraem-se cerca de 50 kg de fibra de abacá por acre.
 2619628	por	Os antigos filipinos costuravam roupas a partir das fibras do abacá.
@@ -25954,7 +25888,7 @@
 2627606	rus	Я знала, что ты бы не поверила мне.
 2627607	rus	Я знала, что вы бы не поверили мне.
 2627608	deu	Wir trotzen unseren Feinden; denn unser Leiden macht uns stark!
-2627609	epo	Mi sciis, ke tio feliĉigos Tom.
+2627609	epo	Mi sciis, ke tio feliĉigos Tomon.
 2627610	rus	Я знал, что ты бы не понял.
 2627611	tur	Denizde geçirecekleri üç yıl için yeteri kadar erzak aldılar.
 2627612	rus	Я знал, что ты бы не поняла.
@@ -35989,7 +35923,7 @@
 2638406	mar	ती खूप बोलते.
 2638407	epo	Tom ĉiam scias, kiel sukcese fari aferojn.
 2638408	mar	ते पत्र तिने लिहिलेलं.
-2638409	epo	La vero foje povas esti ŝarĝo.
+2638409	epo	La vero fojfoje povas esti ŝarĝo.
 2638410	epo	Esti patro fojfoje povas esti ŝarĝo.
 2638411	tur	Hoş sözlerin için teşekkürler.
 2638412	epo	Tom purigis sian ĉambron rapide.
@@ -35997,7 +35931,7 @@
 2638414	nob	Hun vil også at de skal være en morsom dag.
 2638415	epo	Ankaŭ ŝi volas, ke hodiaŭ estu amuza tago.
 2638416	mar	मी तिला अगदी बर्‍यापैकी ओळखत नाही.
-2638417	epo	Tom nun pladas siajn ĉemizojn.
+2638417	epo	Tomo gladas siajn ĉemizojn.
 2638418	rus	Я говорю по-арабски.
 2638419	rus	Я говорю на арабском языке.
 2638420	mar	मी त्याच्याबरोबर शाळेत जातो.
@@ -37481,7 +37415,7 @@
 2639966	eng	Come on, Tom, aren't you just a little bit curious?
 2639967	eng	You're not the only one here who can speak French.
 2639968	eng	When was the last time you played tennis with Tom?
-2639969	eng	Tom's not the only one around here who likes Mary.
+2639969	eng	Tom is not the only one around here who likes Mary.
 2639970	eng	Tom was about to complain, but decided against it.
 2639971	eng	Tom walked down the street whistling a happy tune.
 2639972	eng	Tom told Mary that he had been abducted by aliens.
@@ -49998,3 +49932,69 @@
 2652767	epo	Tom parolos dum proksimume tri kvaronoj de horo.
 2652768	vie	Giáo dục là chìa khóa dẫn tới thành công.
 2652769	vie	Cô ấy là người dậy sớm nhất trong nhà.
+2652770	vie	Bây giờ là đúng giữa trưa.
+2652771	vie	Khả năng đặc biệt của tôi là có thể làm bạn với bất kỳ ai ở mọi lúc, mọi nơi.
+2652772	jbo	lo zbiseljirna na dinsauru
+2652773	vie	Anh ta quá mập nên không thể tự mình di chuyển.
+2652774	vie	Trong đám trẻ chỉ có 1 đứa đang học còn lại thì lo chơi.
+2652775	nob	Arbeidsplassen var fin.
+2652776	deu	Der Arbeitsplatz war prima.
+2652777	epo	La laborposteno estis tre agrabla.
+2652778	vie	Tôi gần đây đang lên cân.
+2652779	vie	Một ngày nọ anh bạn của tôi gọi điện và bảo rằng: "Có chuyện này hay lắm, anh đến nhà tôi chơi không ?", thế là hôm đó tôi đi đến nhà anh ta.
+2652780	nob	Alt så lyst og forhåpningsfullt ut.
+2652781	epo	Ĉio aspektis brila kaj esperoplena.
+2652782	vie	Mary hôm qua thức đêm.
+2652783	deu	Alles sah hell und hoffnungsvoll aus.
+2652784	jbo	dinsauru sovda xu .i na cumki .i lo bi'unai danlu ca morsi jutsi
+2652785	vie	Cô ta có một tâm hồn giản đơn như một đứa trẻ.
+2652786	vie	Thư viện trường ta có rất nhiều sách.
+2652787	vie	Mà này phòng này không có thiết bị làm lạnh nào cả, có mỗi quạt giấy à.
+2652788	vie	Con chó nhà tôi chôn xương ở trong vườn.
+2652789	deu	Das mache ich nie.
+2652790	epo	Tion mi faras neniam.
+2652791	deu	Es regnet draußen. Es ist kalt. Es stürmt. Es ist nass.
+2652792	epo	Pluvas ekstere. Estas malvarme. Ŝtormas. Estas malseke.
+2652793	eng	I go to work at seven o'clock.
+2652794	ara	أذهب إلي العمل في الساعة السابعة.
+2652795	deu	Ich habe es leider nicht verstanden.
+2652796	epo	Tion mi bedaŭrinde ne komprenis.
+2652797	deu	Das überlebt ihr nicht.
+2652798	epo	Tion vi ne transvivos.
+2652799	deu	Das überlebst du nicht.
+2652800	deu	Das überleben Sie nicht.
+2652801	deu	Das habe ich leider nicht verstanden.
+2652802	eng	I will sleep at ten o'clock.
+2652803	ara	سأنام في الساعة العاشرة.
+2652804	eng	I slept at ten o'clock yesterday.
+2652805	eng	She slept at ten o'clock yesterday.
+2652806	eng	He slept at ten o'clock yesterday.
+2652807	deu	„Sind Sie hier der kommandierende Offizier?“ — „Jawohl.“ — „Jetzt nicht mehr.“
+2652808	rus	Не дерись.
+2652809	rus	Не боритесь.
+2652810	rus	Я могу одеться сам.
+2652811	rus	Я могу одеться сама.
+2652812	ara	هي نامت في الساعة العاشرة أمس.
+2652813	rus	Я поранился при беге.
+2652814	ara	هو نام في الساعة العاشرة أمس.
+2652815	rus	Я поранилась при беге.
+2652816	eng	I wasn't the one who wrote that letter.
+2652817	ara	ما كتبت رسالةً.
+2652818	jbo	mi nelci la'o gy. Rock .gy.
+2652819	eng	I didn't drink the water.
+2652820	ara	أنا ما شربت الماء.
+2652821	eng	I didn't drink the milk.
+2652822	ara	أنا ما شربت الحليب.
+2652823	por	O Tom pediu à Mary que ela me ajudasse.
+2652824	jbo	nu dormijysai
+2652825	por	O Tom pediu à Mary para me ajudar.
+2652826	por	O Tom pediu à Mary que ela abrisse a janela.
+2652827	por	O Tom pediu à Mary para ela abrir a janela.
+2652828	ara	هذا بيت جميل.
+2652829	nob	I seks uker gikk det bra.
+2652830	ara	هذا كتاب صغير.
+2652831	deu	Sechs Wochen lang ging es gut.
+2652832	epo	Dum ses semajnoj tio funkciis bone.
+2652833	por	O Tom pediu à Mary que ela falasse mais devagar.
+2652834	por	O Tom pediu à Mary que ela falasse mais lentamente.
+2652835	por	O Tom pediu à Mary para ela falar mais devagar.

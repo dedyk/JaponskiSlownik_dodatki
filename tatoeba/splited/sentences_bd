@@ -1,50 +1,3 @@
-1535268	kaz	Өте суық болды.
-1535269	kaz	Мен бүгін көп жұмыс тындырдым.
-1535270	rus	Сегодня я сделал много дел.
-1535271	kaz	Бүгінгі күнде Бурж Халифа әлемдегі ең биік ғимарат.
-1535272	cmn	我最喜愛朱古力的味道。
-1535273	cmn	積遜不能信任他們。
-1535274	rus	Назовите крупные притоки Дуная.
-1535275	ukr	Назвіть великі притоки Дунаю.
-1535276	kaz	Оның анасы әнші болды.
-1535277	kaz	Ол халықтың сүйікті әншісі болды.
-1535278	eng	You must always say the truth.
-1535279	rus	Он был любимым певцом народа.
-1535280	cmn	我要他不要去，但他還是去了。
-1535281	cmn	你們何時結婚？
-1535282	deu	Was du auch machst, führe es durch.
-1535283	deu	Das ist ein Film, der Bildung mit Vergnügen verbindet.
-1535284	deu	Sie ist wütend auf dich.
-1535285	deu	Erwarte eine zweite Chance.
-1535286	deu	Der Tag kam schließlich, als er von ihr fortgehen musste.
-1535287	cmn	我仍然忙碌。
-1535288	cmn	例如，這是一支筆。
-1535289	deu	Ich mag das brasilianische Klima.
-1535291	deu	Der Buchladen ist nahe am Park.
-1535292	deu	Ich schätze Wissen immer sehr hoch ein.
-1535293	urd	اس کے تین بچے ہے۔
-1535294	urd	ان کے تین بچے ہے۔
-1535295	yue	你係個記者。
-1535296	cmn	我兄弟向你送上他們的敬意。
-1535297	rus	Это было слишком сложно для меня.
-1535298	urd	اس دوائی سے تمہیں ٹھنڈ سے افاقہ ملے گا۔
-1535299	rus	Если хоть чуть-чуть повезёт, то уроков завтра не будет.
-1535300	urd	اس کے ٹوکیو سے آنے کے دو دن بعد یہ واقعہ پیش آیا۔
-1535301	urd	پیسے ادھار لینا میرے اصولوں کے خلاف ہے۔
-1535302	urd	مجھے آج رات کال کرنا۔
-1535303	epo	Nia kompanio trairis longan vojon ekde tiam, kiam ĝi estis establita.
-1535304	rus	Катя удивилась, когда увидела такую большую собаку.
-1535305	deu	Der Lehrer sagte ihm, seinen Aufsatz neu zu schreiben.
-1535306	urd	ابھی بھی بہت ٹھنڈ ہے۔
-1535307	eng	Children love cakes.
-1535308	ita	Ho paura di no.
-1535309	urd	زیارہ دیر نہ لگانا۔
-1535310	urd	جلدی واپس آنا۔
-1535311	ita	Non siamo americani.
-1535312	deu	Seine Theorie basiert nicht auf Experimenten.
-1535313	eng	Food is not love.
-1535314	rus	Наш запас нефти подходит к концу.
-1535315	urd	اور وہ آپ کو گیٹ نظر آ رہا ہو گا جو جونز صاحب نے بنایا تھا۔
 1535316	eng	A man must learn throughout his whole life.
 1535317	rus	Они еле-еле что-то видели.
 1535318	deu	Er ist ja der Mann, den ich möchte.
@@ -2749,7 +2702,7 @@
 1538165	nld	Kan je de radio zachter zetten?
 1538166	fra	Peux-tu baisser la radio ?
 1538167	tur	Son pişmanlık fayda etmez.
-1538169	eng	The Japanese's basic diet consists of rice and fish.
+1538169	eng	The basic diet of the Japanese consists of rice and fish.
 1538170	eng	The Earth is blue like an orange.
 1538171	ita	Le previsioni del tempo si avverano raramente.
 1538172	eng	Cry: tears are the heart's petals.
@@ -3813,7 +3766,7 @@
 1539261	epo	Mi ne devas purigi mian ĉambron.
 1539262	epo	Ĉu vi ŝatus iri eksterlanden?
 1539263	ita	Metti gli animali nella gabbia.
-1539264	epo	Tom bezonas helpon.
+1539264	epo	Tomo bezonas helpon.
 1539265	ita	In Giappone ci sono molte usanze antiche.
 1539266	epo	Johano kaj mi estas malnovaj amikoj.
 1539267	ita	Non disturbarmi.
@@ -5754,7 +5707,7 @@
 1541324	por	Eles são meus irmãos.
 1541329	por	Esqueçam.
 1541330	por	Aqui estou.
-1541331	por	A França fica no leste europeu.
+1541331	por	A França fica no oeste europeu.
 1541332	por	Ela não é paga por mês, mas por dia.
 1541333	por	Ela não é paga mensalmente, mas diariamente.
 1541335	por	Ele sabe onde a gente mora.
@@ -13200,7 +13153,7 @@
 1549137	deu	Wer kann schon sagen, was die Zukunft bringen wird?
 1549138	deu	Heben Sie die rechte Hand.
 1549140	deu	Ich bin ein japanischer Lehrer.
-1549141	deu	Wir haben im Moment -10 °C
+1549141	deu	Wir haben im Moment −10 °C.
 1549142	eng	Would you like to tell the next story?
 1549143	ita	Vorresti raccontare la prossima storia?
 1549144	deu	Holzhäuser fangen am leichtesten Feuer.
@@ -15537,7 +15490,7 @@
 1551642	spa	La hija menor de Tom está casada.
 1551643	cym	Bardd yw e.
 1551644	epo	Ŝi konsilis al li trinki pli da lakto.
-1551645	epo	Mi komencas kompreni kial vi ne ŝatas Tom.
+1551645	epo	Mi komencas kompreni kial vi ne ŝatas Tomon.
 1551646	epo	Ŝi konsilis al li ekzerci sin.
 1551647	fra	Les femmes pardonnent parfois à celui qui brusque l’occasion, mais jamais à celui qui la manque.
 1551648	fra	L’esprit sert à tout, mais il ne mène à rien.
@@ -19503,7 +19456,6 @@
 1555813	ron	De ce îți plac fustele scurte?
 1555814	spa	¿Hay algo que quieras decirme?
 1555815	deu	Tom ist nach San Diego umgezogen.
-1555816	ron	Câți ani ai?
 1555817	ron	A decedat la 70 de ani.
 1555818	spa	Nada de lo que dijo Tom era verdad.
 1555819	ron	Se înserează.
@@ -21764,7 +21716,7 @@
 1558230	heb	היא אסרטיבית.
 1558231	heb	היא תקיפה.
 1558232	tur	Bir fincan kahve içer misiniz?
-1558233	rus	Дети слушали, затаив дыхание, когда я рассказывал им эту историю.
+1558233	rus	Дети слушали затаив дыхание, когда я рассказывал им эту историю.
 1558234	heb	שב ישר.
 1558236	rus	Как долго вы пробыли в Японии?
 1558237	tur	Bisikletinizi bana ödünç verir misiniz?
@@ -24165,7 +24117,6 @@
 1560763	tur	Bunu elinle mi diktin?
 1560764	tur	Ben değil ama erkek kardeşim Sendai'de yaşar.
 1560765	tur	Nehirdeki akıma karşı kürek çekiyorum.
-1560766	epo	Ili ne apartenas tiun kategorion.
 1560767	tur	Hâlâ birçok batıl inanca inanılıyor.
 1560768	tur	Meşgul olmasına rağmen beni uğurlamaya geldi.
 1560769	tur	Savaşı kazanıp kazanmamamız çok önem arz edecek.
@@ -26324,7 +26275,7 @@
 1563042	ita	Io non l'ho mai considerato.
 1563043	ita	Io non l'ho mai considerata.
 1563044	rus	Он утверждал, что он не виновен.
-1563045	epo	Li afirmis sin esti senkulpa.
+1563045	epo	Li asertis, ke li estas senkulpa.
 1563046	ita	Questo è un tasto dolente.
 1563047	ita	Il sabato è sacro.
 1563048	hun	Pisztolyokkal fegyverkeztek fel.
@@ -28465,7 +28416,7 @@
 1565311	rus	На этом производстве достаточно специалистов.
 1565312	kaz	Бұл тұмар ұрпақтан ұрпаққа жеткізеді.
 1565313	rus	Этот талисман передаётся из поколения в поколение.
-1565314	eng	Many people, especially ignorant people want to punish you for speaking the truth, for being correct, for being you. Never appologize for being correct or for being years ahead of your time. If you’re right and you know it, speak your mind. Even if you are a minority of one, the truth is still the truth.
+1565314	eng	Many people, especially ignorant people want to punish you for speaking the truth, for being correct, for being you. Never apologize for being correct or for being years ahead of your time. If you’re right and you know it, speak your mind. Even if you are a minority of one, the truth is still the truth.
 1565315	epo	Multaj homoj, precipe nesciuloj volas puni vin por diri la veron, por pravi, por esti vi mem. Neniam pardonpetu pro tio ke vi pravas, aŭ ĉar vi estas jaroj antaŭ via epoko. Se vi pravas kaj vi konscias pri tio, malkaŝigu viajn opiniojn. Eĉ se vi estas minoritato de unuopulo, la vero ankoraŭ estas la vero.
 1565316	deu	Ich wusste zwar, dass er reich ist, aber ich hätte nicht gedacht, dass er so reich ist!
 1565317	kaz	Сізбен танысуға ұлықсат етіңіз.
@@ -30421,7 +30372,7 @@
 1567441	por	Não sei por onde começar.
 1567442	spa	No entiendo nada de lo que dice.
 1567443	por	Não entendo nada do que ele diz.
-1567444	ron	Proletari din toate ţările, uniţi-vă!
+1567444	ron	Proletari din toate țările, uniți-vă!
 1567445	eng	I don't understand a word of what he says.
 1567446	spa	¡Trabajadores de todos los países, uníos!
 1567447	fra	« Me faut-il dire ce que je pense ? » « Oui, je vous en prie »
@@ -31165,7 +31116,7 @@
 1568245	jpn	我々はその医者の失踪について調査しなければならない。
 1568248	jpn	私たちはこのような事故の再発を防止しなければならない。
 1568251	heb	זו בדיחה ותו לא.
-1568253	epo	Ĉu tiuj ovoj vendiĝas dekduope?
+1568253	epo	Ĉu tiuj ovoj vendiĝas dek-duope?
 1568254	heb	אתה כל כך בוטה, שבא לי להכות אותך.
 1568256	epo	Mi ne bezonas iun ajn.
 1568257	deu	Ich brauche niemanden.
@@ -31863,7 +31814,7 @@
 1569027	rus	Отец купил мне новый велосипед.
 1569028	rus	Меня тревожит будущее.
 1569029	rus	Наше любимое место еды - этот маленький ресторанчик на углу.
-1569030	rus	Даже сейчас, через много лет после холодной войны существует до сих пор много злобы между русскими и немцами, особенно в тех местах, которые были когда-то захвачены Советским Союзом.
+1569030	rus	Даже сейчас, через много лет после холодной войны, существует много злобы между русскими и немцами, особенно в районах, занимаемых ранее Советским Союзом.
 1569031	spa	Mi papá está en el baño afeitándose.
 1569032	spa	Ella amaba sus flores, y todas las mañanas besaba a cada una de ellas.
 1569033	deu	Gib mir meine Brille.
@@ -36401,7 +36352,7 @@
 1573777	tur	O, küvette şarkı söylemeyi sever.
 1573778	tur	O, Connie'yi kız kardeşim sandı.
 1573779	tur	O, bir röportaj yapmayı reddetti.
-1573780	epo	Tom konfesis, ke li murdis Mary.
+1573780	epo	Tomo konfesis, ke li murdis Manjon.
 1573781	epo	Tom konfesis al Mary sian amon.
 1573782	rus	Отношения между Советским Союзом и западными союзниками были неоднозначными.
 1573783	epo	Pasintan nokton mi sonĝis pri vi.
@@ -39609,7 +39560,7 @@
 1577192	cmn	人们认为，他完全能胜任这个工作。
 1577193	epo	Tiu ĉi aviadilo estas konstruita en Francio.
 1577194	deu	Ich will nach Japan gehen und die Japaner im Mahjongg besiegen.
-1577195	epo	Ŝi ne tiom grandas, kiel li.
+1577195	epo	Ŝi ne tiel grandas, kiel li.
 1577196	cmn	去年我们学院建了一个新教学楼。
 1577197	epo	Nia teamo gajnis la ludon hieraŭ.
 1577198	cmn	他的腿受伤了。
@@ -43382,7 +43333,7 @@
 1581445	pol	Myślimy, że najgorsze za nami.
 1581446	pol	To jest najgorszy hotel w mieście.
 1581447	pol	To jest najgorsza książka jaką kiedykolwiek czytałem.
-1581448	epo	La plej alta pinto estas tiu de la Monto Everest.
+1581448	epo	La plej alta pinto estas tiu de Monto Everest.
 1581449	pol	To jest najgorszy film jaki kiedykolwiek widziałem.
 1581450	pol	Najgorsze za nami.
 1581451	ara	هو أطول من أي طفل آخر في قسمه.
@@ -44261,7 +44212,7 @@
 1582403	epo	La lageto makuliĝis per falintaj folioj.
 1582404	rus	Каждого мальчика и девочку учат читать и писать.
 1582405	epo	Iu ajn povas fari ĝin, se li provas.
-1582406	epo	Vi devas mem zorgi pro via hundo.
+1582406	epo	Vi devas mem zorgi pri via hundo.
 1582407	epo	Vintre mi suferas pro malvigliĝo.
 1582408	epo	Kiu ne estis ĉi tie?
 1582409	epo	Ŝi rekonante min ridetis al mi.
@@ -46184,7 +46135,7 @@
 1584517	ind	Saya harus ingat untuk membeli buku itu esok hari.
 1584518	deu	Er zögerte ein wenig, bevor er antwortete.
 1584519	cmn	在他答复之前，他犹豫迟疑了一下。
-1584520	deu	Bei dem Angebot sollte man nicht zögern, sondern gleich zugreifen
+1584520	deu	Bei dem Angebot sollte man nicht zögern, sondern gleich zugreifen.
 1584521	cmn	面对这个机会不能犹豫，要赶快行动。
 1584522	cmn	我不能收这份礼。
 1584523	deu	Sie sahen Pedro mit der Kunstlehrerin sprechen.
@@ -48912,7 +48863,7 @@
 1587493	epo	Tomo malfermis la monŝrankon.
 1587494	epo	Li volas lerni kuiri.
 1587495	epo	Frue aŭ malfrue li rakontos ĉion al mi.
-1587496	epo	Tom puŝis Marion de la ŝtuparo.
+1587496	epo	Tomo puŝis Manjon de la ŝtuparo.
 1587497	epo	Ĝi estas mumio!
 1587498	epo	En tiu nokto li havis teruran sonĝon.
 1587499	epo	Mi laboras laŭeble plej rapide.
@@ -49998,3 +49949,52 @@
 1588680	ita	Voglio scendere alla prossima fermata.
 1588681	ita	È stato punito per abuso su minori.
 1588682	ita	Il tramonto brilla ad ovest.
+1588683	ita	Sei troppo intelligente a pensare che saresti più intelligente di me.
+1588684	eng	What colour is the car she bought herself?
+1588685	eng	What colour is the car which she bought for herself?
+1588686	ita	Mio zio è snello, ma mia zia è grossa.
+1588687	ita	Spero che farete più attenzione la prossima volta.
+1588688	ita	Vengo oggi.
+1588689	ita	Ha comprato le verdure ieri.
+1588690	ita	Un uomo si lamentava di qualcosa in una voce aspra.
+1588693	ita	Magari il Diavolo verrà.
+1588694	deu	Die Waschmaschine ist kaputtgegangen.
+1588695	ita	Tutto l'amore e tutta la tristezza si fondono nel mio cuore.
+1588696	eng	No one other than you knows how to make such a tasty salad.
+1588697	eng	The washing machine has broken down.
+1588698	ita	L'amore è qualcosa che non si può afferrare né esprimere.
+1588699	ita	Cos'è la vita senza la radiosità dell'amore?
+1588700	ita	L'amore è vederla nei sogni.
+1588701	eng	She cried and cried, but nobody came to comfort her.
+1588702	ita	Com'è difficile, amare ed essere saggio allo stesso tempo.
+1588704	ita	Non piangere sulla perdita del tuo amore per troppo tempo.
+1588705	eng	This poor cat almost died of hunger.
+1588706	ita	Non siamo nati per noi stessi.
+1588707	ita	Abbiamo creato l'istituto allo scopo di facilitare la ricerca.
+1588708	ita	Dobbiamo fare il meglio di quel che siamo.
+1588709	eng	Over my dead body!
+1588710	ita	Mentre odiamo la forza, riconosciamo il bisogno dell'ordine pubblico.
+1588711	ita	Non fa per noi vivere in una casa così bella.
+1588712	eng	This book is really old!
+1588713	eng	This coffee has a bitter taste.
+1588714	cym	Dros fy nghrogi!
+1588717	eng	Tom is doing everything he can to save money.
+1588718	eng	Tom is doing everything possible to save money.
+1588719	eng	She likes to go to the library.
+1588720	eng	She likes going to the library.
+1588722	eng	He found me a good place.
+1588723	eng	He found a good place for me.
+1588724	eng	Quiet!
+1588725	eng	I bought a return ticket.
+1588726	ita	Mi piacerebbe andare negli Stati Uniti un giorno.
+1588727	eng	The last Russian Emperor, Nicholas II (Nikolay Alexandrovich Romanov), was born 144 years ago (in 1868).
+1588728	eng	You are the only one who can help me.
+1588729	eng	Mary is a strong woman.
+1588730	eng	The next morning, he was gone.
+1588731	eng	Don't believe him!
+1588732	eng	Tom did this to me.
+1588733	deu	Am nächsten Morgen war er weg.
+1588734	deu	Am nächsten Morgen war er tot.
+1588735	deu	Am nächsten Morgen war er fort.
+1588736	eng	There are 150 museums in Kazakhstan.
+1588737	eng	You deserve a medal.
