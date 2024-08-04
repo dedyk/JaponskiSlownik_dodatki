@@ -1,14 +1,3 @@
-368055	deu	Du verlässt dich zu viel auf andere.
-368056	deu	Ich habe mich auf ihn verlassen.
-368057	deu	Sie lehnte meine Bitte ab.
-368058	pol	Skończmy tą bezowocną dyskusję.
-368059	pol	To bezowocne naciskać go dalej.
-368060	pol	Skończmy tą bezowocną kłótnię.
-368061	pol	Mam ochotę na świeżego owoca.
-368062	pol	Nagle miałem pragnienie, żeby zjeść jakąś chrupką, pieczoną skórkę kurczaka
-368063	pol	Dołączyłem plik Microsoft Excel.
-368064	pol	Australijczycy wyróżniają się w sporcie i rekreacji.
-368065	deu	Die Boxen haben einen guten Klang.
 368066	jpn	そのボックス型スピーカーは響きが良い。
 368067	jpn	彼女の美しい声は耳にとても心地よく響いた。
 368068	deu	Ihre schöne Stimme war sehr angenehm fürs Ohr.
@@ -4199,7 +4188,7 @@
 372397	deu	Er ist jetzt fast so groß wie sein Vater.
 372398	deu	Er ging trotz des Regens raus.
 372399	deu	Er ging aus dem Zimmer.
-372400	deu	Die Tür öffnete sich und ein Mann kam hinaus.
+372400	deu	Die Tür öffnete sich, und ein Mann kam heraus.
 372401	deu	Ist ihr Vater Lehrer?
 372402	deu	Ist sein Vater Lehrer?
 372403	swe	Hon är en tillförlitlig person.
@@ -24394,7 +24383,7 @@
 393139	nld	Hij twijfelde even.
 393140	eng	I think he could be the one who took the stolen money.
 393141	jpn	このようなケースは、その会社の本社に連絡するのが常道です。
-393142	eng	It is normal practise to contact the company's home office in these kinds of cases.
+393142	eng	It is normal practice to contact the company's home office in these kinds of cases.
 393143	nld	Ik kan je amper verstaan.
 393144	nld	Deze doos is leeg. Er zit niets in.
 393145	nld	We zaten op een bank in het park.
@@ -32272,6 +32261,7 @@
 401212	cmn	Roland女士，你对这个问题怎么看？
 401214	cmn	他去美国学英语了。
 401216	cmn	他讨厌坐飞机旅行。
+401218	swe	Han håller de gamla fotografierna mycket kära.
 401219	cmn	我有很多作业要做。
 401220	uig	نەدە ياشايسەن؟
 401221	spa	Es posible que llueva.
@@ -32380,6 +32370,7 @@
 401439	deu	Wir vergnügten uns beim Schlittschuhlaufen.
 401440	deu	Zu jenem Konzert kamen viele Menschen.
 401441	deu	Was sollen wir zum Abendessen machen?
+401442	swe	Jag försökte skriva med vänster hand.
 401443	swe	En bra lärare måste vara tålmodig med sina elever.
 401444	eng	My brother is an idiot.
 401445	fra	Mon frère est un imbécile.
@@ -32393,6 +32384,7 @@
 401499	jpn	翌月にはＮＨＬ初シャットアウトゲームを記録しＮＨＬスーパーゴーリーとしての才能を見せた。
 401500	eng	The next month he achieved his first NHL shutout and showed the talent of an NHL super goalie.
 401505	swe	Jag har bott här.
+401511	swe	En kombination av flera misstag ledde till olyckan.
 401513	swe	Så här långt ser det bra ut.
 401525	swe	När jag besökte deras lägenhet, var paret mitt i ett gräl.
 401531	swe	Han är säker på att han kommer att vinna matchen.
@@ -32922,6 +32914,7 @@
 402098	rus	В английском во многих словах есть буквы, которые не произносятся.
 402099	swe	Man har funnit olja under Nordsjön.
 402100	rus	Если есть такая возможность, я бы хотел, чтобы Вы приняли участие в следующей встрече.
+402102	swe	Prova den tröjan.
 402105	swe	Han klagade över att rätten smakade illa.
 402109	swe	Våra ansträngningar medförde inte någon framgång.
 402110	cmn	島上的飛機場已經長滿了雜草。
@@ -34162,6 +34155,7 @@
 403448	yue	佢好鍾意喺電視度睇網球比賽。
 403450	deu	Sei nett zu den anderen!
 403452	deu	Ich arbeite jeden Tag außer sonntags.
+403453	swe	Jag kommer inte att glömma bort din vänlighet så länge jag lever.
 403454	cmn	你有沒有去過外國？
 403455	swe	Det är lite kallt idag.
 403456	yue	你有無去過外國呀？
@@ -38986,7 +38980,6 @@
 408406	rus	Я попал под дождь и промок.
 408407	deu	Er arbeitet von morgens bis abends auf dem Bauernhof.
 408409	deu	Ich habe hier chronische Schmerzen.
-408410	deu	Lass uns warten bis der Regen aufhört.
 408411	deu	Dezember ist der letzte Monat des Jahres.
 408412	deu	Er arbeitete Tag und Nacht, um reich zu werden.
 408413	deu	Bringen Sie mir bitte eine Tasse Tee.
@@ -40546,7 +40539,7 @@
 410011	ita	Grazie per averci invitati a cena.
 410012	ita	Assolutamente no! C'è troppo freddo oggi.
 410013	pol	Praktycznie nie ma zagrożenia trzęsieniami ziemi.
-410014	spa	Los niños resolvieron el problema ellos mismos
+410014	spa	Los niños resolvieron el problema ellos mismos.
 410015	pol	Zdenerwowanie w momencie startu samolotu to rzecz normalna.
 410016	uig	ئۇ ئون تىلنى سۆزلىشەلەيدۇ.
 410017	ita	I bambini hanno risolto il problema da soli.
@@ -40966,7 +40959,7 @@
 410440	por	Deitar dinheiro à rua.
 410441	fra	Manger les pissenlits par la racine.
 410442	por	Estar a fazer tijolo.
-410443	fra	Ne pas réveiller le chat qui dort.
+410443	fra	Ne réveille pas un chat qui dort.
 410444	por	Não acordar o cão que dorme.
 410445	pol	Czy cel uświęca środki?
 410446	por	Uma vida sem amor não tem sentido.
@@ -43298,7 +43291,7 @@
 412826	rus	Думаешь, он только хотел, чтобы мы поверили, будто он болен?
 412827	rus	Надо полагать, он брат Мэри.
 412828	rus	Некоторые экономисты полагают, что работа домохозяек, будучи выраженной в деньгах, составила бы 25% валового продукта.
-412829	rus	Я был бы очень признателен, если бы мы могли перенести нашу встречу 15:00 шестого марта.
+412829	rus	Я был бы очень признателен, если бы мы могли перенести нашу встречу на 15:00 шестого марта.
 412830	rus	Тебе нужен хороший торт.
 412831	eng	Consider what we do to our children. We do not say to them: 'Some people think the earth is round, and others think it is flat; when you grow up, you can, if you like, examine the evidence and form your own conclusion.' Instead of this we say: 'The earth is round.' By the time our children are old enough to examine the evidence, our propaganda has closed their minds...
 412832	fra	C'est une de ces opinions si absurdes que seuls des hommes très savants pourraient l'adopter.
@@ -43954,7 +43947,7 @@
 413494	nld	Gelukkige gezinnen lijken alle op elkaar, ieder ongelukkig gezin is ongelukkig op zijn eigen wijze.
 413495	nld	De mijnwerker vroeg de geest uit de lamp om een gelukkig leven.
 413496	nld	Kom, we verstoppen ons achter het gordijn.
-413497	rus	Наконец, мы достигли Англии.
+413497	rus	Наконец мы достигли Англии.
 413498	rus	От пара запотели мои очки.
 413499	rus	Ты бы вытерпел, чтобы с тобой кто-нибудь так обращался?
 413500	rus	Этот опыт убеждает меня в том, что партнёрство между исламом и Америкой должно быть основано на том, чем ислам является, а не на том, чем не является. И я считаю это частью моей ответственности как президента Соединённых Штатов — бороться против негативных стереотипов об исламе, где бы они ни появились.
@@ -45927,6 +45920,7 @@
 415524	eng	I'm glad I met you today.
 415525	deu	Schnick, Schnack, Schnuck.
 415526	swe	Vi ses!
+415530	swe	Jag har inte hört något från honom sedan dess.
 415535	deu	Haben Sie japanische Zeitschriften?
 415536	fra	Il a utilisé le temps restant de façon optimale.
 415537	fra	Elle est arrivée une heure après l'heure convenue.
@@ -46119,6 +46113,7 @@
 415886	rus	Давай поговорим по дороге.
 415888	rus	Он совершил поездку в Париж.
 415890	rus	В целом то, что она сказала, — правда.
+415891	swe	Han är bra på att imitera hennes irländska accent.
 415892	rus	Он пишет книги.
 415893	rus	Они сравнили новый автомобиль со старым.
 415896	swe	Hur gammal är han?
@@ -46403,6 +46398,7 @@
 416190	eng	Real happiness comes cheap; if it's expensive, it's not of a good type.
 416191	spa	Al ladrón lo agarraron esta mañana.
 416198	swe	Man lär sig av erfarenheter.
+416207	swe	Kom tillbaka om två veckor från och med i dag, är du snäll.
 416210	swe	Tom förlöjligar sig alltid över John på grund av hans dialekt.
 416211	swe	Tom gör alltid narr av John på grund av hans dialekt.
 416213	swe	De utsmyckade rummet med blommor.
@@ -49998,3 +49994,7 @@
 419891	bel	Я прывязаў свайго сабаку да дрэва на падвор'і.
 419892	bel	Яго амнэзія — псіхалагічная, а не фізічная праблема.
 419893	bel	Я чую гук барабана.
+419894	bel	Калі ласка, скапіюйце гэтую старонку.
+419895	bel	Ён амаль заснуў.
+419896	eng	You should read books beneficial to you.
+419897	nld	Ik had een geldig visum, dus mocht ik het land binnen.
