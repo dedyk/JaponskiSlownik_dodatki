@@ -1,651 +1,3 @@
-11044964	deu	Tom ist ein Erfolgsschriftsteller.
-11044965	deu	Tom riss aufgeregt seine Geschenke auf.
-11044966	deu	Die italienischen Strände sind jetzt wieder brechend voll.
-11044967	deu	Tom rief Maria um die 15mal an.
-11044968	deu	Mach dir keine Sorgen! Es ist noch jede Menge Zeit.
-11044969	jpn	ママハハは、僕に厳しかった。
-11044970	jpn	義理の母は、僕に厳しかった。
-11044971	eng	What are some things that you can do well?
-11044972	eng	What are some things that you aren't good at doing?
-11044973	jpn	継母は、私に厳しかった。
-11044974	spa	El futuro de las islas Galápagos es incierto.
-11044975	spa	El futuro es muy incierto.
-11044976	eng	What are some things you can't do well?
-11044977	jpn	心配するな。まだ、時間はたっぷりある。
-11044978	eng	My stepmother is very strict.
-11044979	eng	My stepmother was very strict.
-11044980	spa	La reserva marina de Galápagos es un santuario de 3.500 especies.
-11044981	eng	My stepfather treats me better than my real father did.
-11044982	deu	Meine Stiefmutter war streng zu mir.
-11044983	epo	Mia duonpatrino estis strikta kontraŭ mi.
-11044984	deu	Mein Stiefvater behandelt mich besser, als es mein richtiger Vater tat.
-11044985	epo	Mia duonpatro traktas min pli bone, ol tion faris mia vera patro.
-11044986	deu	Was gibt es, was du nicht gut kannst?
-11044987	deu	„Mein Mathelehrer, Herr Müller, ist mir nicht wohlgesonnen.“ – „Das bildest du dir ein.“
-11044988	epo	„Mia instruisto de matematiko, Sinjoro Muelisto, estas malbonvola kontraŭ mi.” – „Tion vi imagas.”
-11044989	nld	In welke straat woon je?
-11044990	vie	Tom thiếu sáng kiến.
-11044991	eng	In Brazil, I would like to visit Rio de Janeiro, as I practice my Portuguese in the Carioca accent. I like the vision of Brasilia, so I would like to visit the capital. I would also like to visit Manaus, the only city in the Amazon Rainforest with over one million inhabitants. The Amazon has a luxuriant ecosystem. Brazil is in my bucket list.
-11044992	vie	Anh ta phản đối sáng kiến này.
-11044993	vie	Tôi ngưỡng mộ sáng kiến của cậu.
-11044994	jpn	継父は、実父より良くしてくれます。
-11044995	jpn	義理の父は、実の父より良くしてくれます。
-11044996	tgl	Sa Brazil, gusto kong bisitahin ang Rio de Janeiro, habang sinasanay ko ang aking Portuges sa puntong Carioca. Gusto ko ang bisyon ng Brasilia, kaya gusto kong bisitahin ang kabesera. Gusto ko ring bisitahin ang Manaus, ang tanging lungsod sa Maulang Gubat ng Amazong may higit sa isang milyong mga naninirahan. Ang Amazon ay may malagong ekosistema. Ang Brazil ay nasa aking listahan.
-11044997	epo	En Brazilo, mi ŝatus viziti Rio-de-Ĵanejron, ĉar mi praktikas mian portugalan per la karioka akĉento. Mi ŝatas la vizion de Braziljo, do mi ŝatus viziti la ĉefurbon. Mi ankaŭ ŝatus viziti Manaŭson, la solan urbon en la Amazona Pluvarbaro kun pli ol unu miliono da loĝantoj. Amazono havas riĉan ekosistemon. Brazilo estas en mia listo.
-11044998	spa	¿Qué significan esos símbolos?
-11044999	deu	Ketten, die fallen, machen eine schöne Musik.
-11045000	epo	Ĉenoj kiuj falas, faras belan muzikon.
-11045001	deu	Jede Nacht ist wichtig.
-11045002	epo	Ĉiu nokto estas grava.
-11045003	deu	Mit Toleranz ist es egal, wie vermessen eine kleine Differenz ist!
-11045004	epo	Kun toleremo, ne gravas, kiel aroganta estas malgranda diferenco!
-11045005	deu	Schmetterlinge sind fliegende Blumen!
-11045006	epo	Papilioj estas flugantaj floroj!
-11045007	deu	Die Mühe ist es immer Wert, egal wie schwer!
-11045008	epo	Ĉiam valoras la peno, egale kiom malfacila!
-11045009	deu	Philosophie ist die Kunst, sich so im Kreis zu drehen, dass den Anderen dabei schwindelig wird!
-11045010	epo	Filozofio estas la arto rondiriĝi tiel, ke la aliaj kapturniĝu!
-11045011	deu	Hinter jeder Heimlichkeit steckt eine Absicht, die sich sehen lassen kann!
-11045012	epo	En la ĉielo, la flugantaj birdoj estas purpuraj.
-11045013	epo	En la ĉielo, la flugantaj birdoj estas flavaj.
-11045014	epo	En la ĉielo, la flugantaj birdoj estas violaj.
-11045015	epo	En la ĉielo, la flugantaj birdoj estas blankaj.
-11045016	epo	En la ĉielo, la flugantaj birdoj estas nigraj.
-11045017	epo	En la ĉielo, la flugantaj birdoj estas oranĝaj.
-11045018	epo	En la ĉielo, la flugantaj birdoj estas grizaj.
-11045019	epo	En la ĉielo, la flugantaj birdoj estas cejanaj.
-11045020	epo	En la ĉielo, la flugantaj birdoj estas ruĝaj.
-11045021	epo	En la ĉielo, la flugantaj birdoj estas verdaj.
-11045022	epo	Malantaŭ ĉiu sekreto estas intenco, kiu vidigas ion!
-11045023	deu	Schreiben ist Reden mit den Fingern und Lesen ist Hören mit den Augen!
-11045024	epo	Skribi estas paroli per la fingroj kaj legi estas aŭdi per la okuloj!
-11045025	deu	Mangel führt zu erhöhtem Verbrauch und Überfluss führt zu Sparsamkeit!
-11045026	epo	Manko kondukas al pliigita konsumo kaj superfluo kondukas al ŝparemo!
-11045027	deu	Sex ist verstecken der Scham, Liebe ist ermutigen der Lust daran und Glück ist beides zugleich!
-11045028	pol	Rozłącz się.
-11045029	rus	Все элементы структуры данных по умолчанию открыты.
-11045030	nld	De dagen vliegen voorbij.
-11045031	nld	Het was het allemaal waard.
-11045032	nld	Wat is het minimumloon in Duitsland?
-11045033	nld	Ik heb het niet gelezen.
-11045034	nld	Er is een verschil.
-11045035	nld	Hij was een grote, zware man,
-11045036	nld	Tom is van plan om elke dag te tennissen tijdens zijn zomervakantie.
-11045037	nld	Ze heeft dat boek eerder gelezen.
-11045038	eng	How much is a return ticket?
-11045039	eng	Have you booked yourself a holiday?
-11045040	eng	Have you got a holiday booked?
-11045041	eng	Where are you tonight?
-11045042	eng	It's been an interesting three years.
-11045043	eng	Tom pinched Mary's phone and took a few selfies before sneaking it back into her handbag.
-11045044	eng	It's a quarter past four.
-11045045	eng	It's quarter past four.
-11045046	eng	It's 4.15.
-11045047	jpn	めっちゃわかるわ。
-11045048	eng	The number of visitors to the town is increasing year-on-year.
-11045049	jpn	よし、今日は帰れ。
-11045050	jpn	心底どうでもいい。
-11045051	jpn	これめっちゃうまい。
-11045052	jpn	さすがに恥ずかしい。
-11045053	jpn	何か考えてやっから。
-11045054	jpn	夜の方が頭が冴える。
-11045055	eng	It's inadvisable.
-11045056	eng	It's not recommended.
-11045057	eng	Where has my key got to again?
-11045058	eng	Where has my key gone again?
-11045059	jpn	握力テストで筋肉痛。
-11045060	jpn	最後はわかりあえる。
-11045061	jpn	私も今から行くから。
-11045062	eng	The hut was wantonly destroyed.
-11045063	jpn	それがサテンのドレス？
-11045064	jpn	もっと本気さがほしい。
-11045065	jpn	バイクの音がうるさい。
-11045066	eng	He denies having done that.
-11045067	jpn	会員登録はこちらから。
-11045068	ces	Tom musí být tady, ne někde jinde.
-11045069	jpn	何もかも馬鹿馬鹿しい。
-11045070	jpn	待ってろよ、馬鹿ども。
-11045071	eng	Tom must be here, not somewhere else.
-11045072	eng	I've got a piano lesson in a minute. I just need to practise.
-11045073	jpn	情報抜かれそうで怖い。
-11045074	ces	Je to povinnost Toma starat se o ně.
-11045075	jpn	材料は残り物で大丈夫。
-11045076	eng	The boss has just given my holiday plans the nod.
-11045077	eng	It's Tom's duty to take care of them.
-11045078	jpn	機能もデザインも無難。
-11045079	jpn	あごに手をあてて考える。
-11045080	ces	Za chvilku mám hodinu klavíru. Musím cvičit.
-11045081	jpn	ある程度は図太さも必要。
-11045082	jpn	こういうのほんとダサい。
-11045083	jpn	この傷、いつできたっけ？
-11045084	jpn	はいはい、分かったから。
-11045085	jpn	スッポンの飼育は難しい。
-11045086	fra	La nouvelle a fait énormément de bruit.
-11045087	jpn	プロかと思うほどうまい。
-11045088	eng	Can you tell me where the polling station is?
-11045089	jpn	学校なんてどうでもいい。
-11045090	fra	La nouvelle a provoqué un très vif émoi.
-11045091	eng	He had just signed a new contract.
-11045092	jpn	恥ずかしくて見てられん。
-11045093	hun	Egyre több embernek nem tetszik világszerte, hogy az Egyesült Államok és a NATO játsza a világ önjelölt csendőrének szerepét.
-11045094	eng	She had just signed a new contract.
-11045095	jpn	朝からカラスがうるさい。
-11045096	jpn	麺よりもやしの量が多い。
-11045097	jpn	いつ買えるようになるんだ？
-11045098	jpn	この肩幅は見るからに強い。
-11045099	hun	— Visszhangzik nagyon a telefon. — Ja, mert épp vécén vagyok.
-11045100	jpn	とにかく疲れた、足が痛い。
-11045101	jpn	ほんとよく頑張ったと思う。
-11045102	eng	His house is quite a long way away from the railway station.
-11045103	eng	His house is quite a long way away from the station.
-11045104	jpn	もう一度試してから考える。
-11045105	jpn	もう売る気ないでしょこれ。
-11045106	eng	His house is quite some distance from the station.
-11045107	jpn	ストレス発散に食べまくる。
-11045108	eng	I'll make sure that you get a pay rise after the first year.
-11045109	jpn	売れてるけど満足度は低い。
-11045110	eng	We weren't very well prepared.
-11045111	jpn	新しく始めてみようと思う。
-11045112	jpn	歌詞はいいけど声が小さい。
-11045113	jpn	流行の移り変わりが激しい。
-11045114	eng	We weren't properly prepared.
-11045115	jpn	続けるだけでも才能が必要。
-11045116	eng	Tom said he'd ring you later.
-11045117	eng	Tom said he'd phone you later.
-11045118	jpn	肉売り場に客が殺到してる。
-11045119	eng	Tom said that he'd phone you later.
-11045120	jpn	酒のつまみにちょうどいい。
-11045121	eng	He got straight to the point.
-11045122	jpn	食欲が失せたし店出ようぜ。
-11045123	fra	Fais attention. Tu vas mettre le feu aux poudres.
-11045124	jpn	いつになったら出るんだろう。
-11045125	jpn	うまくやるためには運も必要。
-11045126	eng	Does that help a bit?
-11045127	jpn	ここから立て直すのは厳しい。
-11045128	eng	Try to burn some fat.
-11045129	eng	How do you burn fat?
-11045130	jpn	とにかく世界観が素晴らしい。
-11045131	eng	You're losing meat.
-11045132	eng	You're losing muscle.
-11045133	kab	Tdegger-it si ṭṭaq.
-11045134	eng	How do you have such a good body?
-11045135	jpn	なんでもいいから歌を聴こう。
-11045136	eng	Get in shape.
-11045137	eng	How do you have such good muscles?
-11045138	eng	It can't be left like that.
-11045139	jpn	テレビとモニタを兼用してる。
-11045140	eng	How do you have such a good shape?
-11045141	eng	You can't leave it like that.
-11045142	eng	Why are you doing something you don't love?
-11045143	eng	Give me one good reason why you're doing a job you don't love.
-11045144	jpn	データはあればあるほどいい。
-11045145	fra	Je suis sûr qu'elle va faire sensation dans le monde de la mode tokyoïte.
-11045146	eng	Why don't you just leave it like that?
-11045147	eng	Live a meaningful life.
-11045148	jpn	ヤバい、頭おかしいだろこれ。
-11045149	jpn	何の用途で使うのかわからん。
-11045150	jpn	作風は地味だが完成度は高い。
-11045151	jpn	元ネタ知らない人の方が多い。
-11045152	kab	Yenna-d d akken illa yelluẓ.
-11045153	jpn	分かりにくい書き方でごめん。
-11045154	jpn	味の問題じゃなく手間の問題。
-11045155	kab	Tedder dinna weḥd-s.
-11045156	jpn	彼女から学ぶべきことは多い。
-11045157	eng	We have breakfast at eight.
-11045158	jpn	心配なんかしなくていいから。
-11045159	eng	We've been waiting half an hour for you.
-11045160	eng	We've been waiting for you for half an hour.
-11045161	jpn	明日になればもう終わるから。
-11045162	kab	Ur ttanzeɣ ara.
-11045163	jpn	水分補給しすぎて腹いっぱい。
-11045164	jpn	状況を確かめるまで戻らない。
-11045165	kab	Ur nteffeɣ ara.
-11045166	jpn	納得できる製品にはほど遠い。
-11045167	jpn	細かい規則ばかりで息苦しい。
-11045168	jpn	聞いてるこっちが恥ずかしい。
-11045169	kab	Ad iswu snat tikkal ɣef wannect-a.
-11045170	jpn	草むしりのお駄賃ちょうだい。
-11045171	hun	Egész héten meleg volt, amikor dolgoztunk bent a gyárban, és hétvégén most megint hűvös van.
-11045172	jpn	超展開すぎるだろ、この映画。
-11045173	jpn	風は吹いてるけどひどく暑い。
-11045174	jpn	ひたいの汗をぬぐって一息つく。
-11045175	eng	It might help you.
-11045176	nld	Tom heeft waarschijnlijk heimwee.
-11045177	jpn	あせってすぐに買わなくていい。
-11045178	nld	Het is nu half twee.
-11045179	jpn	こんな田舎にも電波は届いてる。
-11045180	eng	It leaves me cold.
-11045181	jpn	インスタント食品は塩分が多い。
-11045182	jpn	タバコを取り出し、火をつける。
-11045183	jpn	人口が増えて経済も成長してる。
-11045184	eng	The wind is blowing, but it's terribly hot.
-11045185	eng	The wind is blowing, but it's awfully hot.
-11045186	jpn	今、声優は大人気の職業らしい。
-11045187	vie	Cuộc đời con người ngắn dài không quan trọng, quan trọng khi nào mình ngộ ra.
-11045188	jpn	何かに集中できる環境が欲しい。
-11045189	jpn	何度見ても息をのむほど美しい。
-11045190	eng	Bees were buzzing around the flowers.
-11045191	deu	Es war die ganze Woche, während wir im Betrieb gearbeitet haben, warm, und jetzt am Wochenende ist es wieder kühl.
-11045192	eng	There's a wind, but it's terribly hot.
-11045193	jpn	夜中、トイレでよく目が覚める。
-11045194	fra	C'est pour brouiller les pistes.
-11045195	eng	I've seen hardly any bees this year.
-11045196	jpn	子供に読ませるにはいいと思う。
-11045197	jpn	寝ながら使うのにちょうどいい。
-11045198	hun	Fúj a szél, de pokoli meleg van.
-11045199	fra	J'ai vraiment l'impression que c'est une fausse piste.
-11045200	jpn	帰ったらまずはラーメン食べる。
-11045201	hun	Alig láttam idén méheket.
-11045202	jpn	怖いくらいに賢くて末恐ろしい。
-11045203	jpn	整合性のない説明に怒声が飛ぶ。
-11045204	jpn	朝から雨が降っていて気が重い。
-11045205	jpn	枝豆は採れたてが最高にうまい。
-11045206	hun	A fáknak különleges aurájuk van.
-11045207	jpn	準備運動しないとケガするかも。
-11045208	jpn	縦置きにしたら倒れそうで怖い。
-11045209	eng	What to do if someone insults you at work?
-11045210	jpn	買い物袋からネギが顔出してる。
-11045211	eng	What's the best response to an Islamophobic insult?
-11045212	eng	When someone insults you, say nothing.
-11045213	jpn	返信気づかなかったわ、すまん。
-11045214	eng	Ziri said absolutely nothing.
-11045215	eng	Ziri got insulted.
-11045216	eng	Ziri got attacked verbally.
-11045217	jpn	選手が言うなら交代させてやれ。
-11045218	eng	Ziri got his shield up and drew his sword.
-11045219	deu	Bäume haben eine besondere Aura.
-11045220	eng	Ziri became defensive.
-11045221	jpn	食パンは六枚切りか八枚か迷う。
-11045222	eng	Don't even give that bitch the luxury of a response.
-11045223	eng	How to respond to an insult?
-11045224	fra	Nous n'avons pas de parking, mais vous pouvez vous garer dans la rue.
-11045225	jpn	いかんせんルーキーには荷が重い。
-11045226	eng	Don't let it fester inside you.
-11045227	eng	Don't let it boil inside of you.
-11045228	fra	Le docteur m'a demandé d'enlever ma chemise.
-11045229	eng	Ziri changed his tone.
-11045230	epo	Tomo rigardis ŝian hundon.
-11045231	jpn	お金を使ってストレス解消してる。
-11045232	eng	It doesn't mean that you agree.
-11045233	eng	I heard your insults.
-11045234	fra	L'artiste a mis ses œuvres dans le domaine public.
-11045235	epo	Tomo rigardis lian hundon.
-11045236	eng	Whistles could clearly be heard.
-11045237	jpn	ここで俺なら逃げずに攻めまくる。
-11045238	eng	I'm going to do something appropriate with what you just told me.
-11045239	eng	Try saying something polite.
-11045240	jpn	このお店でコスパ求めたらいかん。
-11045241	fra	Mets-le dans une boîte aux lettres.
-11045242	eng	"Go fuck yourself!" "Okay!"
-11045243	eng	"Go fuck yourself!" "Thank you!"
-11045244	fra	Je suis content qu'il pleuve.
-11045245	eng	Whistling could clearly be heard.
-11045246	jpn	ゆうべは確かにここにあったのに。
-11045247	eng	Do you love being insulted?
-11045248	eng	Thank you for your input.
-11045249	epo	Kial ni devas lerni la francan?
-11045250	eng	Rainwater was gurgling in the gutter.
-11045251	eng	Thank you for your feedback on the situation.
-11045252	eng	Rainwater gurgled in the gutter.
-11045253	jpn	グラボが値上がりしすぎてつらい。
-11045254	eng	Thank you for your interesting look on things.
-11045255	eng	You don't need to explain all of that.
-11045256	jpn	デカ盛り特盛りばかり注文してる。
-11045257	eng	That'll probably happen next summer.
-11045258	hun	Jankovics Tamás a kormány által fizetett influencer és provokátor.
-11045259	fra	J'essaie d'effacer ça de ma mémoire.
-11045260	jpn	バランスのよい食事にはほど遠い。
-11045261	jpn	パチンと音がなって蛍光灯が点く。
-11045262	eng	Tell me all the things you don't like about me.
-11045263	eng	Please tell me all the things you don't like about me.
-11045264	jpn	下旬はいつも閉店セールやってる。
-11045265	fra	À l'époque, je ne mangeais que des cochonneries.
-11045266	eng	"You're beautiful." "Tell me something I don't know."
-11045267	jpn	冬の寒い日に食べるおでんは最高。
-11045268	jpn	冷凍食品はおいしくなってきてる。
-11045269	eng	Tom Jackson is an influencer and provocateur paying by the government.
-11045270	jpn	少しずつでも絶対に良くなってる。
-11045271	fra	J'étais allongé dans l'herbe.
-11045272	jpn	意識して目を休めるようにしてる。
-11045273	jpn	懐かしい、昔よく食べたよなこれ。
-11045274	fra	J'ai arrosé le jardin.
-11045275	jpn	早く起きすぎて二度寝するか迷う。
-11045276	eng	The fire has already been extinguished.
-11045277	eng	The fire has already been put out.
-11045278	jpn	枕が合わなくて頭がちょっと痛い。
-11045279	fra	En été, il fait chaud et le soleil brille.
-11045280	jpn	肉とラーメンがあればそれで満足。
-11045281	jpn	良い医師は、患者の話を良く聞く。
-11045282	fra	Elle vit dans le coin ?
-11045283	fra	Parle-moi d'elle.
-11045284	jpn	見た目がひどくて買う気にならん。
-11045285	fra	Le placard est plein.
-11045286	jpn	運が悪かったと思って割り切ろう。
-11045287	jpn	道に迷うのもそれはそれで楽しい。
-11045288	jpn	野菜も添えられていて彩りがいい。
-11045289	jpn	雰囲気で物事を決めない方がいい。
-11045290	jpn	いまさら漢字ドリルをやらされてる。
-11045291	jpn	おいしいけど、とにかく食べにくい。
-11045292	jpn	ここで堂々と意見する勇気がすごい。
-11045293	eng	I really like chips.
-11045294	eng	I like chips a lot.
-11045295	jpn	このリモコンは分厚くて使いにくい。
-11045296	eng	Mary is no night owl. On the contrary, she's an early riser.
-11045297	jpn	それ考察というより二次創作だから。
-11045298	eng	Her coat has big brass buttons.
-11045299	jpn	やることなすこと全部しくじってる。
-11045300	jpn	よし、これで今日の仕事はおしまい。
-11045301	eng	The wind toppled trees.
-11045302	jpn	ペットボトルのリサイクル率は高い。
-11045303	eng	The wind toppled the trees.
-11045304	hun	Nehéz ezt pontosan megmondani.
-11045305	jpn	出来立てしかおいしくないのが難点。
-11045306	eng	I'm having buttered toast.
-11045307	eng	I'm eating buttered toast.
-11045308	eng	I eat toast with butter.
-11045309	deu	Es ist schwer, das genau zu sagen.
-11045310	eng	I'm having toast with butter.
-11045311	jpn	参加しなくても見てるだけで楽しい。
-11045312	eng	I'm having buttered toast with jam.
-11045313	jpn	同期なのでおたがい強く意識してる。
-11045314	jpn	君まで、巻き添えにしたくないから。
-11045315	hun	Mindennaposak az Egyesült Államokban készült videók a rendőri túlkapasokról és brutalitásról.
-11045316	jpn	夏休みのためか、子どもたちが多い。
-11045317	jpn	小さな八百屋だが安くて繁盛してる。
-11045318	hun	Átléptem a száz kilót. Sokat fogytam.
-11045319	jpn	常軌を逸した犯人の行動に息をのむ。
-11045320	eng	It tastes good, but it's hard to eat.
-11045321	jpn	次から次へと新しい技術が出てくる。
-11045322	eng	You have just saved me so much work.
-11045323	jpn	知らない駅まで自転車で行ってみる。
-11045324	eng	We're learning a foreign language at school.
-11045325	eng	I'm putting the washing in the washing machine.
-11045326	jpn	節約だけでなくダイエットにもいい。
-11045327	eng	I'll hang the washing out.
-11045328	eng	I'm hanging the washing out.
-11045329	jpn	証拠を見せれば言い逃れはできまい。
-11045330	eng	The windows are dirty.
-11045331	jpn	過度のストレスが原因だったらしい。
-11045332	eng	We've caught the train.
-11045333	jpn	非常事態なのにみんな落ちついてる。
-11045334	jpn	風邪ひいてるから普段と声がちがう。
-11045335	jpn	いや、そういうのはどうでもいいんで。
-11045336	jpn	おかしいな、昨日はうまくいったのに。
-11045337	hun	A kifli görbe.
-11045338	eng	The lower floors of the buildings were sunk in the blue of dusk.
-11045339	jpn	このチャーハン、パラパラでおいしい。
-11045340	jpn	さもないと、このナイフで一突きだぜ。
-11045341	jpn	しばらく使っていると重くなってくる。
-11045342	deu	Kipferl sind krumm.
-11045343	jpn	アイス買ってきてよ、カップ系のやつ。
-11045344	jpn	サラダとヨーグルトじゃ腹へって当然。
-11045345	jpn	ルールがわからなくても見てて楽しい。
-11045346	jpn	今までが安すぎただけで、これが普通。
-11045347	jpn	今度は逆に、黒い部分に注目してみる。
-11045348	eng	The guided walk through the city centre was very informative.
-11045349	eng	Why do you want to stay in a relationship with her?
-11045350	eng	Ziri and Rima hurt each other all the time.
-11045351	eng	The view from the hotel balcony of the nearby mountain range is magnificent.
-11045352	jpn	市販の調味料よりうまいと言いきれる。
-11045353	eng	I have the best marriage I know of.
-11045354	eng	This is an absurd situation.
-11045355	jpn	最初のうちはサクサク進むから楽しい。
-11045356	jpn	柔らかくなったトマトはスープに使う。
-11045357	eng	You're brilliant. Thank you for the good work that you're doing.
-11045358	eng	Some carriages were derailed.
-11045359	jpn	立て続けに注文が入り、厨房は大忙し。
-11045360	eng	Some carriages have been derailed.
-11045361	eng	State what happened.
-11045362	eng	Simply state what happened.
-11045363	jpn	線路沿いに歩いていけば必ず見つかる。
-11045364	eng	We started to like each other.
-11045365	jpn	肩を落とし、ため息まじりに語りだす。
-11045366	eng	Move to step number four.
-11045367	eng	We arrived at half past six, slightly earlier than necessary.
-11045368	eng	We arrived slightly earlier than necessary at half past six.
-11045369	jpn	いい加減にしねえと、命の保証はねえぜ。
-11045370	eng	After receiving a numbered ticket at reception, I took a seat in a waiting room.
-11045371	eng	Accept that.
-11045372	eng	We spent three hours there.
-11045373	eng	How they treat you matters.
-11045374	eng	We were there for three hours.
-11045375	jpn	この歌の歌詞、まったく意味がわからん。
-11045376	eng	I love that you are here.
-11045377	eng	Spend some time on things like this.
-11045378	jpn	たんまりメモリ積んでるのになんか遅い。
-11045379	eng	She said that I'm to come back at the same time in a fortnight.
-11045380	eng	She said I should come back at the same time in a fortnight.
-11045381	eng	We left the press conference baffled.
-11045382	jpn	ちょっと高い調味料使うと、やっぱ違う。
-11045383	jpn	ケガでベンチにも入れずとても歯がゆい。
-11045384	jpn	スゴい人と一緒に働くと刺激をもらえる。
-11045385	eng	She's aware of it.
-11045386	eng	She's aware of that.
-11045387	jpn	チャイムが鳴って、みな一斉に席を立つ。
-11045388	eng	Many factors need to be considered.
-11045389	eng	Many factors need to be taken into consideration.
-11045390	eng	We must consider many factors.
-11045391	jpn	バグ使って記録更新って、いいのかそれ？
-11045392	eng	Mary performed a U-turn and now advocates that everything that can be privatised should be privatised.
-11045393	hun	Tudatában van ennek.
-11045394	jpn	ライバルを見つけることが上達への近道。
-11045395	hun	Ez számára tudott.
-11045396	jpn	味噌、納豆などの発酵食品は健康にいい。
-11045397	eng	You won't pull the wool over my eyes.
-11045398	eng	I'll manage on my own.
-11045399	jpn	基本的な道具を揃えるだけで十万超える。
-11045400	eng	There used to be houses here.
-11045401	eng	There were houses here once.
-11045402	jpn	家から近いから様子でも見にいってくる。
-11045403	eng	There were once houses here.
-11045404	eng	Songs can be heard in the distance.
-11045405	jpn	店の中をネコが我が物顔でうろついてる。
-11045406	jpn	残ったおにぎりをお茶づけにして食べる。
-11045407	jpn	気になって毎日様子を見にいってしまう。
-11045408	eng	That would be a huge mistake.
-11045409	jpn	鮮度がいいかどうか見極めるのは難しい。
-11045410	eng	I love the roar of the sea.
-11045411	jpn	あいつの察しの良さは超能力と言っていい。
-11045412	eng	A lot of people see that differently.
-11045413	eng	Many people see that differently.
-11045414	jpn	ここはそういう人たちが集まる場所だから。
-11045415	eng	We were enjoying the gentle autumn breeze.
-11045416	jpn	この調味料、万能すぎて何にでもかけてる。
-11045417	eng	He pushed the glass over to my side of the table.
-11045418	jpn	どうにか隙を見つけて逃げなければまずい。
-11045419	jpn	なんでそこまでして遊びたいのかわからん。
-11045420	eng	I'm a plumber by trade.
-11045421	jpn	グレープフルーツはあたりはずれが大きい。
-11045422	eng	One of the doors was open.
-11045423	jpn	凶暴な顔つきの犬がこちらへ近寄ってくる。
-11045424	jpn	分析なんて意味はない、直感だけで決めろ。
-11045425	jpn	店内にかかる懐かしい歌にふと耳を傾ける。
-11045426	nld	Zullen we een pizza bestellen?
-11045427	jpn	異臭を放つ煙がすき間から入り込んでくる。
-11045428	jpn	自分が悪いとはまったく思ってないだろう。
-11045429	jpn	迷ったら取りあえずカレー作っとけばいい。
-11045430	jpn	障子に穴あけて怒られたっけな、懐かしい。
-11045431	jpn	あの人とは、ビジネスライクな関係ってやつ。
-11045432	jpn	お土産は食べ物がいいか工芸品にするか迷う。
-11045433	jpn	ここに座りなさい、いいから。怒らないから。
-11045434	jpn	たまに塩ラーメンを食べるとめっちゃうまい。
-11045435	jpn	ドアを開けた途端、飼い犬が駆け寄ってくる。
-11045436	jpn	ピッチャーは青ざめた顔で打球の行方を追う。
-11045437	nld	Hoeveel kopjes koffie heb je gedronken?
-11045438	jpn	メモリなど半導体は価格の浮き沈みが激しい。
-11045439	jpn	下手なパロディがあると萎えて見る気なくす。
-11045440	hun	Napjainkban nem trendi gondolkozni.
-11045441	jpn	同時進行でいろんなプロジェクトが動いてる。
-11045442	jpn	子供たちの走る姿がモニターに映しだされる。
-11045443	jpn	工事の音でたびたびテレビの音声が遮られる。
-11045444	jpn	応援団の何人かは泣きそうな表情を浮かべる。
-11045445	hun	Megkímélheted magad a gondolkodás megterhelő folyamatától, mert influencerek megmondják, mit gondoljál.
-11045446	nld	Zijn deze tassen van Tom?
-11045447	jpn	既存のバージョンと大差ないという声も多い。
-11045448	jpn	暑くなってきたせいか、食品が傷むのが早い。
-11045449	jpn	最近は洗練された製品が多くて選ぶのに迷う。
-11045450	jpn	腹いっぱい食ったから、ちょっと横になるわ。
-11045451	nld	Is er een supermarkt in dit winkelcentrum?
-11045452	jpn	試験を受けたところ、普通に受かったらしい。
-11045453	jpn	遠くからパトカーのサイレンが聞こえてくる。
-11045454	jpn	うなぎ屋からおいしそうなにおいが流れてくる。
-11045455	nld	Ik weet niet waarom Tom de politie heeft gebeld.
-11045456	jpn	この大一番に勝てば優勝も現実味を帯びてくる。
-11045457	jpn	そろそろ落ち着くと思ってたのにまだ続いてる。
-11045458	jpn	クロスワードパズルは頭の体操にちょうどいい。
-11045459	jpn	少し変更するだけでも、けっこう手間がかかる。
-11045460	jpn	待つ時間ってなんでこんな長く感じるんだろう。
-11045461	jpn	最上段にある目当ての本を背伸びして手にとる。
-11045462	jpn	校門の前を通ると部活のかけ声が聞こえてくる。
-11045463	jpn	道具をたくさんそろえても使うのは限られてる。
-11045464	jpn	遠くからでも体型と服だけであいつだとわかる。
-11045465	jpn	あのヘディングのゴールは技ありといったところ。
-11045466	jpn	いつもの休日のパターンを過ごして、日が暮れる。
-11045467	jpn	おにぎり二つに、アイスが一つ。それが僕の昼食。
-11045468	jpn	低価格にありがちな薄っぺらなサウンドとは無縁。
-11045469	jpn	取り立ててすばらしいわけではないが満足できる。
-11045470	jpn	君の名前を確認すると、僕は二十号棟から離れる。
-11045471	jpn	夏が終わったばかりなのにもうストーブつけてる。
-11045472	jpn	暑いのにエアコンがどこも売り切れてて泣きそう。
-11045473	jpn	あいつらの言うことなんか、気にしなくていいから。
-11045474	jpn	あれだけ買いだめしたコーヒーがもうなくなってる。
-11045475	jpn	この香水をつけたら、少しモテそうな気がしてくる。
-11045476	nld	Misschien moet ik een andere keer terugkomen.
-11045477	jpn	シュートが飛んでくる方向を確認してからでは遅い。
-11045478	jpn	新しいわけではなく、ずいぶん前からあったと思う。
-11045479	jpn	部屋の中を見ながら、変わっていないねと君は言う。
-11045480	eng	Stills from science fiction films hang on the walls.
-11045481	jpn	集会所の出口まで行くと、扉を開け、僕は外に出る。
-11045482	jpn	駐輪場がないからあちこちに自転車がとめられてる。
-11045483	jpn	最後尾はこちらというプラカードを見つけ列に加わる。
-11045484	hun	Ti mindig így élitek az életeteket!? Savanyúan, minden viccelődést nélkülözve?
-11045485	jpn	鳥の囀りが聞こえる中、淹れたてのコーヒーを味わう。
-11045486	fra	Des clichés tirés de films de science-fiction sont accrochés aux murs.
-11045487	jpn	ずっと昔、こうなってしまう前の君を思い出そうとする。
-11045488	hun	Ádám aszexuális volt, míg meg nem evett egy almát.
-11045489	jpn	国によってはお酒に対してかなり厳しいので注意が必要。
-11045490	jpn	どれだけの人が貧困に苦しんでいるのかわかってなさそう。
-11045491	jpn	ふとしたきっかけで、ささいな思い出が鮮明によみがえる。
-11045492	jpn	君はテレビを眺めながら、そうだ、と興味なさそうに呟く。
-11045493	jpn	律儀に全部読むんじゃなくて、好きなとこだけ読めばいい。
-11045494	jpn	機内食の見た目はいまいちだったけど、味は本格的で満足。
-11045495	deu	Adam war asexuell gewesen, bis er einen Apfel aß.
-11045496	jpn	パリパリの皮にかぶりつくと肉汁がジュワジュワもれてくる。
-11045497	jpn	帰宅するとドアから猫が顔をのぞかせてじっと見つめてくる。
-11045498	jpn	救急車で病院に運ばれる途中に、息を引き取ったのだという。
-11045499	eng	Adam had been asexual until he ate an apple.
-11045500	jpn	毎年低迷してるのに、監督がずっと続投のままで闇を感じる。
-11045501	jpn	虫、自動車の排気ガス、台風など、苗木を害するものは多い。
-11045502	jpn	つくづく彼がうちのサッカー部に来てくれたらと思ってしまう。
-11045504	jpn	頭の中に一つのイメージが湧きあがる。不気味で真っ黒な円盤。
-11045505	hun	Éva megkínálta Ádámot almával, majd barackkal, Ádám Évát meg banánnal.
-11045506	kab	Iḍelli, lliɣ ɣer Tom.
-11045507	jpn	いざという時のためにテレホンカードを財布に入れておくといい。
-11045508	jpn	彼らは僕に気づき、僕を見て話を止めて、集会所へと戻っていく。
-11045509	kab	Ayen akken i d-tenniḍ mačči d tidet.
-11045510	jpn	木片をつまんで、火の付いた炭の上に捨てる動作を三回繰り返す。
-11045511	jpn	このゲーム、あまりに売れなくて対戦モードでマッチングできない。
-11045512	jpn	吹けば飛ぶようなボロい店構えだが、いつも常連客でにぎわってる。
-11045513	jpn	スナック菓子やカップラーメンの新商品を見かけるとつい買ってしまう。
-11045514	jpn	やりたいゲームがあった時にゲーム機買って、クリアしたら売ってしまう。
-11045515	jpn	キャッチャーが確実に捕ってくれるとピッチャーは思いっきり投げられる。
-11045516	jpn	宿題を早く終わらせるぞと意気込むが、やっぱりだらだら過ごしてしまう。
-11045517	jpn	そして、会場を埋める人々の顔を眺めながら、僕は出口に向けて歩いていく。
-11045518	jpn	その結果、雨が降れば、大量の表土、赤土、化学肥料、農薬が、海に流れだす。
-11045519	jpn	秀麗な富士山も、一歩足を踏み入れれば、岩石の露出した、荒々しい姿を現す。
-11045520	jpn	ランドセルをそっと玄関に放りこんで、母親に見つからぬように、外に出ていく。
-11045521	jpn	従業員の提案や懸念事項に注意深く耳を傾けることは、潜在的な危機を回避するのに役立つ。
-11045522	fra	Pensez-vous que les dessins animés pour enfants doivent être didactiques ? Ou simplement amusants ?
-11045523	jpn	十分間の休憩を与えられ、乱れた髪を結い直し、肩の汗をぬぐって、支度部屋で呼吸を整える。
-11045524	jpn	スピーカーから流れる歌声、セミの鳴き声。いろんな音が混ざり合って、公園の中は少し騒がしい。
-11045525	jpn	君の創ったロボットが暴走し、これだけの犧牲が出ていると言うのに、君は何も感じないと言うのかね？
-11045526	hun	A pillangók röpködő virágok.
-11045527	jpn	目が覚めたら11時だし、着替えしてたら荷物が来るし、昨日は洗い物やってなかったしで……もう、滅茶苦茶。
-11045528	hun	A nevelőapám jobb hozzám, mint az igazi apám volt.
-11045529	hun	A nevelőanyám szigorú volt velem.
-11045530	hun	Ne aggódj! Idő, mint a tenger.
-11045531	eng	They use tractors and equipment that clean stones and sift soil, allowing them to detect gold faster than locals who use manual tools.
-11045532	hun	Az olasz strandok ismét tele vannak szarásig.
-11045533	por	Eles utilizam tratores e equipamento para limpar as pedras e peneirar o solo, permitindo-lhes detetar ouro mais rapidamente do que os habitantes locais, que utilizam ferramentas manuais.
-11045534	hun	Ha leviszed az árat, megveszem.
-11045535	hun	Ez nekem nagyon drága.
-11045536	fra	Un appareil GPS peut localiser votre position n'importe où dans le monde.
-11045537	eng	Health workers in protective suits and masks continue to sift through evidence at the Amoy Gardens housing complex in Hong Kong.
-11045538	por	Profissionais de saúde com fatos e máscaras de proteção continuam a analisar os indícios no complexo residencial de Amoy Gardens, em Hong Kong.
-11045539	pes	من توان نوجوانان در گول زدن خودشان را دست کم گرفتم.
-11045540	pes	شما خودتان را گول می‌زنید.
-11045541	fra	Je n'arrive pas à cerner le problème.
-11045542	fra	Je n'arrive pas à identifier le problème.
-11045543	eng	It's not important whether your lifespan is short or long but when you reach enlightenment.
-11045544	kab	Yefres akk tibḥirt-is.
-11045545	kab	Yettrejdil ma yetteddu.
-11045546	kab	Yettrejdil ma ileḥḥu.
-11045547	fra	Il boîte lorsqu'il marche.
-11045548	kab	Ur isekked ara deg iḍ.
-11045549	kab	Ur yettwali ara deg iḍ.
-11045550	kab	Ur iẓeṛ ara deg ṭṭlam.
-11045551	fra	Le voleur s'est glissé dans la maison.
-11045552	kab	Ɣef arraw-is i ixeddem.
-11045553	kab	Yekkes-iyi lxiq tura.
-11045554	kab	Ṭṛad tkeṛṛust-is.
-11045555	kab	Taxxamt-iw d tazeddgant tura.
-11045556	kab	Ur teɛyiḍ ara deg-s?
-11045557	kab	Ɛyiɣ seg turart.
-11045558	kab	Ḥfan iḍaṛṛen-iw seg tikli.
-11045559	kab	D adrar-iw.
-11045560	kab	D aẓaṛ n tjaddit.
-11045561	kab	Tutlayt taqbaylit mačči d menwala.
-11045562	fra	Laisse-moi enfiler quelque chose de plus confortable.
-11045563	fra	Il est clair qu'il a échoué par manque de prudence.
-11045564	kab	Tekkaw taɣect-iw.
-11045565	fra	Glisse-le dans ton sac à main.
-11045566	eng	Visitors from across the world gathered Thursday in Aswan, Egypt, for a rare glimpse of a unique event that still amazes the world — when the sun rays go inside the corridor of the Abu Simbel temples and perpendicular on the faces of Ramses II, his wife, Queen Nefertari and the god Amun on the back wall.
-11045567	por	Visitantes vindos do mundo inteiro reuniram-se na quinta-feira em Assuão, no Egipto, para o raro vislumbre de um acontecimento único que ainda impressiona o mundo — quando os raios do sol entram no corredor dos templos de Abu-Simbel perpendicularmente às faces de Ramsés II, da sua esposa, a Rainha Nefertari, e do deus Amon na parede atrás.
-11045568	eng	Everybody has his or her own idiolect of each language that he or she knows. My own English idiolect is weird for some. In speaking, I choose a variety of accents, depending on the listener. When I speak English to Filipinos, I try to use a more Filipino-accented English, because it is easier for them to understand. When I speak to a Canadian or American, I shift to a more North American accent. In writing, I learned the American way until age 10 in the Philippines. From age 10 and above in Canada, I learned Canadian English writing, up to university level. My appetite for science fiction and fantasy books from both American and British authors has affected my writing style. Some Cantonese opine that my writing is British, and it reminds them of England. My philosophy is that English is an international language and its origin can be divorced from its essence, as the case, I think, also of Spanish and French. Ergo, I urge Cantonese to divorce the essence of English from its land of origin. My favourite English writers are the British sci-fi author Olaf Stapledon and the American inventor-philosopher Buckminster Fuller.
-11045569	fra	Elle a glissé son bras sous le sien.
-11045570	hun	Bár balkezes vagyok, a szerszámokat jobb kézzel használom.
-11045571	fra	Il a glissé une lettre d'amour dans son manteau.
-11045572	deu	Obgleich ich linkshändig bin, benutze ich Werkzeuge mit der rechten Hand.
-11045573	fra	Elle a glissé de l'argent dans la main de son fils.
-11045574	fra	Il pensait que quelqu'un avait glissé du poison dans sa soupe.
-11045575	fra	Il a glissé un paquet de cigarettes dans sa poche.
-11045576	hun	A lehulló láncok csörgése muzsika.
-11045577	fin	Soitatuttaneekohan heitä?
-11045578	eng	The move gives authorities greater latitude to forcibly restrict public gatherings and enforce quarantines on those with the virus.
-11045579	por	A medida dá às autoridades maior liberdade para restringir coercivamente os ajuntamentos públicos e impor quarentenas às pessoas com o vírus.
-11045580	hun	— Milyen az idióták zászlója? — Nem tudom. Miért, nekik is van már!? — Nyugodt lehetsz.
-11045581	tlh	bIHu'nIS.
-11045582	tlh	nuqDaq De'vam Suq tam?
-11045583	tlh	bep tam.
-11045584	tlh	bI'el 'e' luchaw'be'bej.
-11045585	eng	Is that a satin dress?
-11045586	tlh	SaQtaHmo' puqpu'wI' jIpuQ.
-11045587	tlh	venglIjDaq DuSaQ 'ar tu'lu'?
-11045588	tlh	QongtaH Hoch loDpu'.
-11045589	deu	„Was haben Idioten für eine Fahne?“ – „Ich weiß nicht. Wieso? Die haben auch schon eine?“ – „Ganz bestimmt.“
-11045590	ita	Ho spiegato l'errore.
-11045591	tlh	loQHa' wIb tera' na'ran naH SuqSIv.
-11045592	tlh	peghmey DamuS qar'a'?
-11045593	tlh	qaStaHvIS cha' DIS bIHIl'eghbe'.
-11045594	tlh	magh yotlh yIchIp!
-11045595	eng	The more data we have, the better.
-11045596	deu	Mäh die Wiese!
-11045597	eng	The more data we can get, the better.
-11045598	eng	Yeah, I understand.
-11045599	vie	Làm những gì bạn thích, thích những gì bạn làm, giỏi những gì bạn thích, kiếm tiền từ những gì bạn giỏi.
-11045600	eng	Don't worry about what they say.
-11045601	eng	You don't have to worry about what they say.
-11045602	eng	Clearly he was one of those rare beings who can radiate energy standing still and convey the impression of impetuous force without motion, a trick of the eyes, a refusal to sag.
-11045603	hun	— Ez Maître Gims? — Mid fáj? — ...a zene, ami most szól? — Nem tudom. Én csak hallgatom.
-11045604	por	Claramente ele era um daqueles seres raros que conseguem irradiar energia permanecendo parados e transmitir a impressão de força impetuosa sem movimento, um truque da visão, uma recusa de ceder.
-11045605	vie	Do what you like, like what you do, be good at what you like, earn from what you're good at.
-11045606	rus	Он сунул в карман пачку сигарет.
-11045607	rus	Он сунул себе в карман пачку сигарет.
-11045608	fra	C'est du même ordre.
-11045609	rus	Он сунул ему в карман пачку сигарет.
-11045610	rus	Он сунул ей в карман пачку сигарет.
-11045611	deu	„Ist das Maître Gims?“ – „Was willst du?“ – „Der Song, der jetzt läuft?“ – „Ich weiß nicht. Ich höre ihn nur an.“
-11045612	hun	— Ez biztos egy Picasso! — Miért gondolod, hogy egy expresszionista kép csak Picasso lehet!? Nézd ezeket a pasztell színeket és lágy vonalakat! Ez egyértelműen Matisse.
 11045613	vie	Thiên đạo cần mẫn.
 11045614	vie	Tài tan nhân tụ.
 11045615	vie	Bác ái lĩnh chúng sanh.
@@ -729,8 +81,8 @@
 11045694	rus	Я так понимаю, вы довольно консервативны.
 11045695	rus	Мне бы хотелось узнать тебя поближе.
 11045696	rus	Я хочу знать, действительно ли ты понимаешь.
-11045697	eng	The Egyptian parliament approved a major government reshuffle Saturday involving 13 ministerial changes.
-11045698	por	O parlamento egípcio aprovou no sábado uma importante reorganização governamental que envolveu 13 mudanças ministeriais.
+11045697	eng	The thick liquid tested by the Stanford University team was found to extend the life of the fire retardants without harming the environment.
+11045698	por	O líquido espesso testado pela equipa da Universidade Stanford prolonga a vida dos retardadores de incêndio sem prejudicar o ambiente.
 11045699	rus	Выцветший, так и не выброшенный дедушкой ковёр лежал в центре его спальни.
 11045700	rus	Тыщу лет здесь не был.
 11045701	rus	Меня здесь как будто тысячу лет не было.
@@ -892,7 +244,7 @@
 11045859	fra	Je parle français avec mes associés.
 11045860	eng	Prime Minister Ali Mohamed Gedi told reporters in Nairobi Saturday that his government strongly condemns what he called an "abhorrent, criminal and inhumane act."
 11045861	fra	Cette station passe de la bonne musique.
-11045862	por	O primeiro-ministro Ali Mohamed Gedi disse aos repórteres em Nairobi no sábado que o seu governo condena veementemente aquilo a que ele chamou um "ato abominável, criminoso e desumano".
+11045862	por	O primeiro-ministro Ali Mohamed Gedi disse aos repórteres em Nairóbi no sábado que o seu governo condena veementemente aquilo a que ele chamou um "ato abominável, criminoso e desumano".
 11045863	fra	Je cherche un homme qui me ressemble.
 11045864	fra	Il y a tellement de poussière ici.
 11045865	eng	I don't care if you don't come home.
@@ -1479,7 +831,7 @@
 11046447	spa	No tengo nada que escribir, pues no tengo noticias y ya he respondido a todas sus cartas.
 11046448	nld	Tom gaat nooit naar buiten.
 11046449	eng	Another time is also okay, but you know it's better to strike while the iron is hot, right?
-11046450	por	Não tenho nada que escrever, pois não ouvi nenhuma notícia e já respondi a todas as suas cartas.
+11046450	por	Não tenho nada que escrever, pois não ouvi nenhuma novidade e já respondi a todas as suas cartas.
 11046451	nld	Ik ben me bewust van mijn verantwoordelijkheden.
 11046452	nld	De was is nog niet droog.
 11046453	nld	Het wasgoed is nog niet droog.
@@ -1988,7 +1340,7 @@
 11046962	eng	Once upon a time there was a flourishing covey of fifteen: Pa Tridge, Ma Tridge, and thirteen little Tridges, all brown and speckled and very chirpy.
 11046963	por	Era uma vez um bando próspero de quinze: o pai perdiz, a mãe perdiz e treze pequenas perdizes, todas elas castanhas e sarapintadas e muito chilreadoras.
 11046964	eng	People were in disbelief — an economic collapse, worsened by the COVID-19 lockdown, then renewed tensions with Israel on the border, and now this.
-11046965	por	As pessoas estavam em choque — um colapso económico agravado pelo confinamento anticovid-19, depois tensões renovadas com Israel na fronteira e agora isto.
+11046965	por	As pessoas estavam perplexas: um colapso económico, agravado pelo confinamento devido ao coronavírus, depois o recrudescimento das tensões com Israel na fronteira e agora isto.
 11046966	eng	I have clients to see.
 11046967	eng	Mom loves you more than she loves me.
 11046968	eng	The Western media have only one enemy and it's Russia.
@@ -2137,7 +1489,7 @@
 11047113	epo	Kiam vi ĝin al mi redonos?
 11047114	kab	Iwacu ur yi-d-tessukiḍ ara?
 11047115	kab	Ayɣer ur yi-d-tessukiḍ?
-11047116	eng	Transparency International is a civil society group that monitors corruption and publishes reports that name and shame countries, which acquiesce to dirty business practices.
+11047116	eng	Transparency International is a civil society group that monitors corruption and publishes reports that name and shame countries which acquiesce to dirty business practices.
 11047117	por	A Transparência Internacional é um grupo da sociedade civil que monitoriza a corrupção e publica relatórios que denunciam abertamente os países que aderem a práticas comerciais sujas.
 11047118	lit	Į mišką atėjo dramblys.
 11047119	hbo	אֵיכָה יָשְׁבָה בָדָד הָעִיר רַבָּתִי עָם הָיְתָה כְּאַלְמָנָה רַבָּתִי בַגּוֹיִם שָׂרָתִי בַּמְּדִינוֹת הָיְתָה לָמַס׃
@@ -3116,10 +2468,10 @@
 11048103	epo	Ĝi estas magia.
 11048104	epo	Kio estas la plej bona rimedo kontraŭ virkato?
 11048105	epo	La suno brilas, tamen ankoraŭ malvarmas ekstere.
-11048106	xmf	ma brelc bkitxule.
+11048106	xmf	Ma brelts bǩitxule.
 11048107	eng	The tiny plants are not usually toxic on their own, but the overabundance creates so-called dead zones because they suck all the oxygen out of the water. In Sweden, researchers have enlisted the aid of native fish that can slow down the out of control growth of algae.
 11048108	por	As pequenas plantas não são normalmente tóxicas por si só, mas a sua superabundância cria o que se chama de zonas mortas porque elas sugam todo o oxigénio da água. Na Suécia, os investigadores recorreram à ajuda de peixes nativos para abrandar o crescimento descontrolado de algas.
-11048109	xmf	aucilebelo qobgholanqƨ.
+11048109	xmf	Autsilebelo kobǧolankƨ.
 11048110	fra	Ils ne tiennent pas à être visibles.
 11048111	dan	Nogle svampe er giftige.
 11048112	epo	Mi loĝas proksime de Tomo.
@@ -3127,7 +2479,7 @@
 11048114	rus	Должен же кто-то быть виновным.
 11048115	eng	Mario Draghi resigned.
 11048116	eng	Who might replace Draghi?
-11048117	xmf	qudoskidi tiʒkƨma, soishax ma moulu.
+11048117	xmf	Kudosǩidi titzǩuma, soishax ma moulu.
 11048118	eng	India is accelerating action against the monkeypox virus after reporting its first death due to monkeypox in the southern state of Kerala, that of a 22-year-old man who had recently returned from the United Arab Emirates.
 11048119	por	A Índia procura acelerar os esforços contra o vírus da varíola dos macacos depois de ter relatado a sua primeira morte devido à varíola dos macacos no Estado sul de Querala, a de um homem de 22 anos de idade que tinha regressado recentemente dos Emirados Árabes Unidos.
 11048120	ita	Senza dubbio è mattina, perché gli uccelli cantano.
@@ -3233,7 +2585,7 @@
 11048221	epo	Ĉu mi povas havi plastron?
 11048222	epo	Mi ne volis, ke vi ŝanĝu viajn planojn.
 11048223	eng	Tomorrow, there will be a lunar eclipse.
-11048224	kab	Neggumma ad t-beg war tallalt.
+11048224	kab	Neggumma ad t-neg war tallalt.
 11048225	eng	Ziri successfully rescued Rima from the demon.
 11048226	eng	Ziri was successfully rescued from the demon.
 11048227	eng	People were gathering in the square.
@@ -3432,8 +2784,8 @@
 11048420	fin	Anna minun mitata verenpaineesi.
 11048421	fin	Salli minun mitata verenpaineesi.
 11048422	eng	Dear me, I think I'm becoming a god.
-11048423	eng	A Manila court has dismissed a cyber libel charge against Maria Ressa, an award-winning journalist and founder of the Philippine news site Rappler.
-11048424	por	Um tribunal em Manila indeferiu um processo de difamação cibernética contra Maria Ressa, uma jornalista premiada e fundadora do site de notícias filipino Rappler.
+11048423	eng	In what is believed to be the largest attack of its kind ever recorded, a cyberextortion attack struck in dozens of countries Friday, locking up computers and holding users’ files for ransom at dozens of hospitals, companies and government agencies.
+11048424	por	Naquele que se crê ser o maior ataque do género alguma vez registado, um ataque de ciberextorsão atingiu dezenas de países na sexta-feira, bloqueando computadores e mantendo os ficheiros dos utilizadores para resgate em dezenas de hospitais, empresas e agências governamentais.
 11048425	fin	Hän on saavuttanut tavoitteensa.
 11048426	fin	Lopulta Tomi saavutti tavoitteensa.
 11048427	fin	Lopultakin Tomi saavutti tavoitteensa.
@@ -3441,8 +2793,8 @@
 11048429	eng	Tom is fighting a fire.
 11048430	ces	Tom je jeden z nejlepších hasičů, které máme.
 11048431	eng	Tom is one of the best firemen that we have.
-11048432	eng	Indeed the latest temper tantrum may make Washington less inclined to take Saudi concerns into account in deciding what is best for U.S. interests in the region.
-11048433	por	De facto, a última birra mal humorada pode fazer com que Washington se sinta menos inclinado a ter em conta a vontade saudita ao decidir o que é melhor para os interesses dos EUA na região.
+11048432	eng	Attackers using 'ransomware' encrypt files on mobile devices or PCs and lock out their users until they comply with a demand to pay ransom.
+11048433	por	Os atacantes que utilizam "ransomware" encriptam os ficheiros em dispositivos móveis ou PCs e impedem o acesso dos utilizadores até que estes cumpram o pedido de pagamento de um resgate.
 11048434	nld	Waar is je kluisje?
 11048435	eng	No reasonable person would believe that.
 11048436	eng	No reasonable person would have believed that.
@@ -3615,11 +2967,11 @@
 11048607	oss	Дæхорзæхæй бадзур Томмæ .
 11048608	oss	Æз дæ уый тыххæй нæ уарзын.
 11048609	tok	ona li lon sinpin pi ilo jasima.
-11048610	xmf	si lexi vareqi.
+11048610	xmf	Si lexi vareki.
 11048612	lat	Stabat ante speculum.
 11048614	oss	Бæрæг нæу суинаг афоны цы рцæудзæнис .
 11048615	oss	Ферох мæ ис кетчуп балхæнын .
-11048616	xmf	qumort malas.
+11048616	xmf	Kumorti malas.
 11048617	ita	Si fermò davanti allo specchio.
 11048618	oss	Том уарзы кæсын баскетболмæ .
 11048619	ces	Vaše snídaně je připravena.
@@ -3627,14 +2979,14 @@
 11048621	oss	Æз зыдтон дæу кæй бафæнддзæнис ацæуын махимæ .
 11048622	ces	Kde je Melissa?
 11048623	lit	Jeigu jis neateis, ką jūs tada darysite?
-11048624	xmf	osurefi shxvaneri adamieref rena.
+11048624	xmf	Osurepi shxvaneri adamierepi rena.
 11048625	ces	Kdy platíš nájem?
 11048626	oss	Цы нын дзурынц?
 11048627	oss	Ды йе’мæ зонгæ уыдтæ ?
 11048628	ces	Popište svůj den.
 11048629	oss	Фылдæр дзул хæрут .
 11048630	oss	Дæхорзæхæй , ам æрлæу .
-11048631	xmf	qesheilebuno qomuche?
+11048631	xmf	Kesheilebuno komuche?
 11048632	ces	Snaží se zbavit mravenců.
 11048633	oss	Зоныс , цæмæннæ цæуыс Томы зæрдæмæ?
 11048634	oss	Исчи ма цæуы ноджы
@@ -3863,14 +3215,14 @@
 11048858	yid	זיי רעדן לשון־הרע.
 11048859	epo	Kiu spektas ĝin?
 11048860	epo	Tio ja povus esti la okazo.
-11048861	por	O preço reflecte a procura.
+11048861	por	O preço reflete a procura.
 11048862	epo	Vi devos elekti.
 11048863	epo	Tiu juvelisto estas talentulo.
 11048864	lat	Pretium postulatum reddit.
-11048865	xmf	ma tash vafirqenq.
-11048866	xmf	germanias breli alⱬirel rduo?
+11048865	xmf	Ma tashi vapiprke.
+11048866	xmf	Germanias breli alzhirel rduo?
 11048867	por	Muitas frases escrevi sobre a palavra "espelho".
-11048868	xmf	Toms vauꞇorsƨ skolasha gilula.
+11048868	xmf	Toms vauorsu skolasha gilula.
 11048869	lat	Multas sententias de vocabulo "speculum" scripsi.
 11048870	tok	nimi "jasima" la mi sitelen e linja nimi mute.
 11048871	eng	If you see something and no one is in danger, mind your own business.
@@ -3891,7 +3243,7 @@
 11048886	eng	If you see something, mind your own business.
 11048887	lit	Jie negali jos sustabdyti.
 11048888	lit	Jie negali jo sustabdyti.
-11048889	xmf	qortxint, xolo arti shansi qomuchiti.
+11048889	xmf	Kortxint, xolo arti shansi komuchiti.
 11048890	por	De várias maneiras algo pode ser dito em Toki Pona.
 11048891	lat	Multis modis aliquid dici potest in Toki Pona.
 11048892	nld	Ik vraag me af waarom Tom afwezig is.
@@ -3901,7 +3253,7 @@
 11048896	epo	Multmaniere oni povas diri ion en Tokipono.
 11048897	hun	A miniszterelnök felemelte a fizetését a duplájára.
 11048898	fra	En Algérie, une lutte acharnée, quoique vaine, est actuellement menée contre la langue française par les islamistes et leurs acolytes.
-11048899	xmf	tina re çhiçhet idealisṫi.
+11048899	xmf	Tina re ç̌iç̌et idealisṫi.
 11048900	hun	— Évtizedek óta dolgozom tisztességesen, mégsincs szinte semmim. — Legyél politikus.
 11048901	lit	Aš vakar vakare buvau su juo.
 11048902	fra	De bien des façons, on peut dire la même chose à toki pona.
@@ -3920,8 +3272,8 @@
 11048915	xmf	Ma oxordja vore.
 11048916	deu	In Toki Pona kann man etwas auf verschiedene Weisen sagen.
 11048917	lit	Ar jūs dar kokia nors kalba kalbate?
-11048918	xmf	Chqimi joxo rikardo re.
-11048919	xmf	Vamichqu.
+11048918	xmf	Chkimi djoxo rikardo re.
+11048919	xmf	Vamichku.
 11048920	lit	Ten buvo daug žmonių, kurių aš nepažinojau.
 11048921	rus	В Toki Pona то же самое можно сказать по-разному.
 11048922	lit	Ar čia pas jus galima rūkyti?
@@ -7329,9 +6681,7 @@
 11052362	jpn	なんで冷蔵庫の中に食べ物がないんだよ。
 11052363	jpn	ライオンです。
 11052364	deu	Nichts wird ohne Beispiel richtig gelehrt.
-11052365	kab	Susem !
 11052366	jpn	大きくなったら、僕も先生になろっと。
-11052367	kab	Susmemt !
 11052368	kab	Susmem !
 11052369	jpn	２つとも買います。
 11052370	kab	Susmet !
@@ -8024,8 +7374,8 @@
 11053059	lat	Noli aquam illam bibere.
 11053060	spa	No bebas esa agua.
 11053061	rus	Я виновата.
-11053062	eng	President Yusuf is expected soon to append his signature to Dheere's official letter of dismissal.
-11053063	por	O Presidente Yusuf deverá em breve acrescentar a sua assinatura à carta oficial de despedimento de Dheere.
+11053062	eng	She said during the campaign all expectant mothers will be given anti-malaria drugs to prevent them from suffering from malaria while pregnant.
+11053063	por	Ela disse que durante a campanha todas as futuras mães receberão medicamentos antimalária para evitar que sofram de malária durante a gravidez.
 11053064	rus	Она их собрала.
 11053065	por	Ninguém quis adotar o Tom.
 11053066	lat	Nemo Thomam adoptare voluit.
@@ -9546,8 +8896,8 @@
 11054595	ita	Hanno finito il progetto secondo i piani.
 11054596	fra	Je fais un tour du lac tous les matins.
 11054597	rus	Ну же, ребят, поднатужьте свои извилины, решение же должно лежать прямо на поверхности.
-11054598	eng	The director of Spy Nation, Choi Seung-ho, uses Yu’s case and others documented in the film to argue the NIS’s over-zealous pursuit of spies is a symptom of a powerful and secretive agency reporting only to the president, that operates with little outside oversight or control.
-11054599	por	O diretor de «Nação de Espiões», Seung-ho Choi, usa o caso de Yu e de outros documentados no filme para argumentar que a perseguição demasiado zelosa de espiões por parte do SNI é o sintoma de uma agência poderosa e secretista que responde apenas ao presidente, que opera com pouca supervisão e controlo externo.
+11054598	eng	And then the forlorn and haunting howls echoed down the river narrows and into our ears from a mile away, and before we had a chance to look at each other in disbelief the dogs answered the pack joyously. "We're over here!" they seemed to say. "And we're over here!" the wolves howled back.
+11054599	por	E então os uivos desolados e assombrosos ecoaram pelos estreitos do rio e chegaram aos nossos ouvidos a uma milha de distância e antes que tivéssemos a oportunidade de olhar uns para os outros incrédulos, os cães responderam alegremente à matilha. "Estamos aqui!" pareciam eles dizer. "E nós estamos aqui!" uivaram os lobos.
 11054600	ita	Abbiamo continuato a parlare di quella cosa.
 11054601	rus	Я не слежу за местными новостями.
 11054602	ita	Penso che dovremmo aspettare ancora trenta minuti.
@@ -11719,10 +11069,10 @@
 11056788	epo	Ne ekzistas sanaj homoj. Ekzistas nesufiĉe esploritaj.
 11056789	por	Eu iria sentir a falta das barracas de comida, da cadência do idioma tailandês, do bombardeamento constante de publicidade foleira.
 11056790	epo	Kuracistoj ja emas diri, ke ne ekzistas tute sanaj homoj. Ekzistas nur nesufiĉe esploritaj.
-11056791	eng	Born and bred on Poland's soil, son of a French father and a Polish mother, Frédéric Chopin (1809-1849) combined within himself two natures, each complementing the other, both uniting to form a personality not understood by every casual observer.
+11056791	eng	Born and bred on Poland's soil, son of a French father and a Polish mother, Frédéric Chopin (1809–1849) combined within himself two natures, each complementing the other, both uniting to form a personality not understood by every casual observer.
 11056792	vol	Adelo binos vamiko, no-li?
 11056793	rus	«Перед началом работы вам нужно будет ознакомиться с вот этим вот руководством для новичков». — «Но здесь же больше 10000 страниц! Когда же я в итоге приступлю к работе, если мне нужно запомнить буквально всё, что здесь написано?» — «Насчёт этого не волнуйтесь. Во-первых, десять тысяч — это не так уж и много, а во-вторых, никто не обещал, что будет легко. В конце концов, вы собираетесь стать ангелом, а ангелы, как известно, должны быть идеальны. Касательно времени, которое вам придётся потратить, тоже не переживайте. Напоминаю вам, что сейчас вы бессмертны и находитесь в раю, а следовательно во времени никак не ограничены».
-11056794	por	Nascido e criado em solo polaco, filho de pai francês e mãe polaca, Frédéric Chopin (1809-1849) combinava em si duas naturezas, cada uma complementando a outra, ambas unindo-se para formar uma personalidade não compreendida por todos os observadores casuais.
+11056794	por	Nascido e criado em solo polaco, filho de pai francês e mãe polaca, Frédéric Chopin (1809–1849) combinava em si duas naturezas, cada uma complementando a outra, ambas unindo-se para formar uma personalidade não compreendida por todos os observadores casuais.
 11056795	eng	The tit-for-tat consulate closures further escalated the tensions between the two countries over issues from trade and industrial espionage to human rights.
 11056796	por	O encerramento retaliatório de consulados agravou ainda mais as tensões entre os dois países sobre questões que vão desde o comércio e a espionagem industrial aos direitos humanos.
 11056797	rus	Добавлено в качестве альтернативного перевода.
@@ -12432,7 +11782,7 @@
 11057507	srp	То је Томово.
 11057508	lit	Tu atidarei dėžutę.
 11057509	srp	За мене је то добар знак.
-11057510	srp	Думњам да би било опасно да урадимо то.
+11057510	srp	Сумњам да би било опасно да урадимо то.
 11057511	srp	Нисам паметан као Том.
 11057512	srp	Још сам ти дужник.
 11057513	srp	Одакле сте ви?
@@ -13912,10 +13262,10 @@
 11058993	eng	Ziri's company ran new tests.
 11058994	eng	The test damaged the launch pad.
 11058995	eng	The rocket exploded.
-11058996	eng	Deputy federal police commissioner Demesash Woldemikael says there is no truth to allegations that a new anti-terrorism law is being used to stifle political dissent.
+11058996	eng	The deputy federal police commissioner says there is no truth to allegations that a new anti-terrorism law is being used to stifle political dissent.
 11058997	eng	The rocket was launched.
 11058998	eng	The rocket landed successfully on the launch pad.
-11058999	por	O comissário federal adjunto da polícia Demesash Woldemikael diz não haver veracidade nas alegações de que uma nova lei antiterrorismo está a ser usada para abafar a dissidência política.
+11058999	por	O comissário adjunto da polícia federal diz não haver veracidade nas alegações de que uma nova lei antiterrorismo está a ser usada para abafar a dissidência política.
 11059000	eng	The probe extracted rock samples from Mars.
 11059001	kab	Yella iteddu s ttawil akken ad yizmir ad t-yeḍfer ugrud-nni.
 11059002	eng	The rocket could fly from Algiers to Beijing in twenty-four minutes.
@@ -13983,8 +13333,8 @@
 11059064	kab	Ilaq-asent ad qadrent ilugan.
 11059065	eng	The nuns belong to the order known as the Slaves of the Immaculate Heart of Mary, whose members consecrate their lives to the woman they call “The Blessed Mother” of Jesus.
 11059066	por	As freiras pertencem à ordem denominada os Escravos do Imaculado Coração de Maria, cujos membros consagram a sua vida à senhora a quem eles chamam «A Abençoada Mãe» de Jesus.
-11059067	eng	The ultra-modern city state Singapore has become a model that other Asian nations aspire to — organized, immaculate and efficient — but at what cost?
-11059068	por	A cidade ultramoderna de Singapura tornou-se num modelo a que outras nações asiáticas aspiram — organizada, imaculada e eficiente — mas a que preço?
+11059067	eng	The ultra-modern city state Singapore has become a model that other Asian nations aspire to — organized, immaculate and efficient.
+11059068	por	A cidade ultramoderna de Singapura tornou-se num modelo a que outras nações asiáticas aspiram — organizada, imaculada e eficiente.
 11059069	kab	Teqqimem.
 11059070	kab	Teqqimemt.
 11059071	kab	Ilaq ad teddu yid-i.
@@ -14638,22 +13988,22 @@
 11059721	eng	Tom is one of the best fire fighters that we have.
 11059722	fin	Lentokoneet ovat korvanneet sähköjunat.
 11059723	fin	Aloitettuani en kykene lopettamaan.
-11059724	fin	Tomin pitää ostaa lippu myös Marylle.
+11059724	fin	Tomin täytyy myös ostaa lippu Marille.
 11059725	fin	Et pilaa vaatteitasi.
 11059726	fin	Söin aikaisemmin tänä iltana jotain sopimatonta.
-11059727	fin	Lopulta Tom ryhtyi puhumaan.
+11059727	fin	Lopulta Tommi alkoi puhua.
 11059729	fin	Jean tunnettiin töykeästä luonteestaan.
-11059730	fin	Tämä nainen on hänen puolisonsa, luulen.
+11059730	fin	Tuo nainen on hänen vaimonsa, arvelen.
 11059731	fin	Se on höyryllä keitetty peruna!
 11059732	fin	Ota kiinni tämän köyden päästä!
-11059733	fin	Mayuko oli yksin huoneessa.
+11059733	fin	Mayuko oli yksin huoneessaan.
 11059734	por	É melhor contarmos aos outros.
 11059735	fin	Afrikka on manner, Grönlanti ei.
 11059736	fin	Hänen teoksestaan tuli nopeasti menestyskirja.
 11059737	jpn	今日、誕生日だね。
 11059738	deu	Ist das ein Satinkleid?
 11059739	eng	Is that a silk dress?
-11059740	fin	Olet niin jalo ja niin nuori noustaksesi mestauslavalle!
+11059740	fin	Olet niin jalo ja niin nuori nousemaan mestauslavalle!
 11059741	eng	That dress is made of silk.
 11059742	eng	That dress is made out of silk.
 11059743	dan	Den kjole er lavet af silke.
@@ -14668,9 +14018,9 @@
 11059752	fin	Korjautan hänellä kenkäni.
 11059753	por	Até quando o Tom vai ficar aqui?
 11059754	por	A história de Boston é muito interessante.
-11059755	fin	Syö kaikki ruoka joka sinulla on lautasellasi, koska maailmassa on lapsia, jotka kuolevat nälkään!
+11059755	fin	Syö kaikki se ruoka, joka sinulla on lautasellasi, koska maailmassa on lapsia, jotka kuolevat nälkään!
 11059756	fin	Onko tämä radio teidän?
-11059757	fin	En pysty kuvittelemaan elämistä ilman sähköä.
+11059757	fin	En voi kuvitella eläväni ilman sähköä.
 11059758	deu	Tom hatte Maria sofort gern.
 11059759	por	Tom chamou uma ambulância imediatamente.
 11059760	por	Eu venho à escola de trem.
@@ -14699,8 +14049,7 @@
 11059783	fin	Minulla on sama ongelma.
 11059784	fin	Tiedätkö syyn, miksi hän on niin vihainen?
 11059785	fin	Tänään on vaalit Puolassa.
-11059786	fin	Meidän täytyy tulla väliin.
-11059787	fin	Meidän täytyy puuttua asiaan.
+11059786	fin	Meidän täytyy puuttua asiaan.
 11059788	epo	Li faras bieron.
 11059789	fin	Voisinko vaihtaa tämän käteiseksi?
 11059790	epo	Ne eblas, ke vi kredas tion, Tomo.
@@ -14732,11 +14081,11 @@
 11059816	fin	Pidin sitä protestina.
 11059817	fin	Ole hyvä ja lue se vielä kerran.
 11059818	fin	Kuinka mielenkiintoinen elämä!
-11059819	fin	Tom yritti saada Maryn nauramaan.
+11059819	fin	Tommi yritti saada Marin nauramaan.
 11059820	fin	Ziri on kirjailija.
 11059821	fin	En edes ollut siellä.
-11059822	fin	Kenelle työskentelette?
-11059823	fin	Hänellä on paljon ennakkoluuloja transihmisistä.
+11059822	fin	Kenelle te työskentelette?
+11059823	fin	Hänellä on paljon ennakoluuloja transihmisiä kohtaan.
 11059824	eng	Comrade Jackson was brought before the Central Committee.
 11059825	fin	Meidän pitäisi olla hänen kanssaan.
 11059826	fin	Isäni ei vihaa sinua.
@@ -14747,7 +14096,7 @@
 11059832	eng	Skip to the part where Tom and Mary get to Boston.
 11059833	eng	Tom is a banker from Boston.
 11059834	fin	Se oli jännittävää.
-11059835	fin	Muistan vielä ilon.
+11059835	fin	Muistan vielä sen ilon.
 11059836	fin	He ottivat hänet vastaan kukkasin ja suudelmin.
 11059837	fin	He ajoivat autoillaan toiselle puolelle.
 11059838	eng	Tom has had a rough life.
@@ -14755,7 +14104,7 @@
 11059840	fin	Toiset tanssivat.
 11059841	fin	He sanoivat sen televisiossa.
 11059842	fin	Te sanoitte sen televisiossa.
-11059843	fin	He eivät tietäneet miten reagoisivat.
+11059843	fin	He eivät tietäneet, miten heidän pitäisi reagoida.
 11059844	fin	Monet ihmiset ovat kuolleet.
 11059845	fin	Monet ihmiset kuolivat.
 11059846	eng	Did we travel back in time?
@@ -14772,35 +14121,35 @@
 11059857	eng	I cry every time.
 11059858	fin	Matkustimmeko ajassa taaksepäin.
 11059859	eng	It's going to be a bit longer than I anticipated.
-11059860	fin	Hän kerää materiaalia kirjaansa varten.
+11059860	fin	Hän on keräämässä aineistoa kirjaa varten.
 11059861	eng	This is going to take a bit longer than we expected.
 11059862	eng	This is going to take a bit longer than we anticipated.
 11059863	por	Ela me empurrou.
-11059864	fin	Sanokaa Tomille, että teen juuri kotitehtäviäni!
+11059864	fin	Sanokaa Tomille, että teen juuri läksyjä!
 11059865	por	Diga a Tom que não quero falar com ele.
 11059866	eng	The CIA is listening.
 11059867	fin	Hän yritti kirjoittaa muistiin kaiken, minkä opettaja sanoi.
 11059868	por	Tom parecia surpreso quando eu o disse o que havia acontecido.
 11059869	por	Nós sempre usamos capacetes.
 11059870	por	Tom possui um carro caro.
-11059871	fin	Luojalle kiitos ateismista!
+11059871	fin	Kiitos Luojalle ateismista!
 11059872	por	As histórias de Ziri são bem entediantes.
 11059873	eng	The gods work for the CIA.
-11059874	fin	Jumalat työskentelevät CIA:n hyväksi.
+11059874	fin	Jumalat tekevät työtä CIA:n hyväksi.
 11059875	fin	Hallitus rankaisi heitä ankarasti.
 11059876	eng	We're closing for lunch.
 11059877	fin	Hän paransi laitetta.
 11059878	por	Quero agradecer-lhe.
 11059879	por	Eles não precisam de dinheiro.
-11059880	fin	Ei ole tarvetta valehdella.
+11059880	fin	Ei tarvitse valehdella.
 11059881	fin	Mistä lähtevät bussit keskikaupungille?
 11059882	por	Se ela pelo menos estivesse aqui para ajudar, o trabalho teria sido terminado mais rápido.
-11059883	fin	On helppoa omaksua pahoja tapoja.
+11059883	fin	On helppo omaksua pahoja tapoja.
 11059884	jpn	この取り組みについては後年、評価されるだろう。
 11059885	por	Precisamos contratar novos funcionários. Os antigos foram demitidos.
-11059886	fin	Cleveland ei ollut varma oliko poika hänen poikansa.
+11059886	fin	Cleveland ei ollut varma siitä, oliko poika hänen oma poikansa.
 11059887	por	Qual língua é falada em seu país?
-11059888	fin	Hän lopetti puheensa joihinkin vitseihin.
+11059888	fin	Hän päätti puheensa muutamilla sutkauksilla.
 11059889	por	Ele ficou com sua tia.
 11059890	por	Me diga, onde você nasceu?
 11059891	jpn	僕がやってあげるよ。
@@ -15406,12 +14755,11 @@
 11060493	kab	Ad iṛuḥ umbɛed ma yebɣa.
 11060494	kab	Nebɣa akk lehna.
 11060495	kab	D talwit i tebɣiḍ? Ihi, ula d nekk bɣiɣ-tt.
-11060496	fin	Menin ennen kouluun hänen kanssaan.
+11060496	fin	Kävin ennen koulua hänen kanssaan.
 11060497	kab	D acu i tebɣiḍ daɣen?
 11060498	kab	Ẓiɣ d kečč aya!
 11060499	kab	Yid-m i sɛeddaɣ ussan yelhan.
 11060500	deu	Hier ist für jeden Geschmack etwas dabei!
-11060501	fin	Minulla oli tapana mennä kouluun hänen kanssaan.
 11060502	fin	Tom on oikein hyvä kuvanveistäjä.
 11060503	kab	Umbɛed ad nṛuḥ.
 11060504	kab	Mazal-it din seg zgelli?
@@ -15421,12 +14769,12 @@
 11060508	kab	D acu i tettnadiḍ daɣen?
 11060509	kab	D kečč aya, naɣ?
 11060510	kab	Yid-k i sɛeddaɣ ussan lɛali, ma tecfiḍ xeṛṣum!
-11060511	fin	Ketä Tom sinusta muistuttaa?
+11060511	fin	Ketä Tommi sinusta muistuttaa?
 11060512	fin	Anna minun viedä sinut kotiin.
-11060513	fin	Isäni antoi minulle pennun syntymäpäivälahjaksi.
+11060513	fin	Isäni antoi minulle koiranpennun syntymäpäivälahjaksi.
 11060514	kab	Ad tṛuḥ umbɛed?
 11060515	kab	Mazal-it yehlek?
-11060516	fin	Minun pitää tehdä joitakin asioita.
+11060516	fin	Minun pitää tehdä pari asiaa.
 11060517	kab	Ad tt-iẓeṛ umbɛed ma tebɣa.
 11060518	kab	Nebɣa akk ad nidir s tezmert d rrbeḥ.
 11060519	kab	D aya kan i tebɣiḍ? Ihi, kifkif-aɣ!
@@ -15442,7 +14790,6 @@
 11060529	kab	D aksum i la ttettem?
 11060530	kab	Ččiɣ aɣrum aḥerfi.
 11060531	kab	Mazal ur ṛwiɣ awal yid-s.
-11060532	fin	Hän ei ole mikään lääkäri.
 11060533	kab	Iqbel-itent akk tuttriwin-nni.
 11060534	epo	Tomo preparis tagmanĝon.
 11060535	hun	Amit Tom tett, az nagy bajba sodorta.
@@ -15463,7 +14810,7 @@
 11060550	kab	Akka i s-yehwa i baba!
 11060551	epo	Tion Tomo faras, kiam li malsatas.
 11060552	epo	Tion Tomo faras, malsatante.
-11060553	fin	Tarvitsen jonkin parannuskeinon särkyyn.
+11060553	fin	Tarvitsen jonkin lääkkeen särkyyn.
 11060554	kab	Yesselqaq-it.
 11060555	kab	Yesḥelmumec-it.
 11060556	kab	Yesselbubeɣ-it.
@@ -15479,7 +14826,7 @@
 11060566	fra	Il l'a ramollie.
 11060567	eng	He softened it.
 11060568	rus	Я думаю, я понял в чëм проблема.
-11060569	fin	Haluan saman sanakirjan kuin sinulla on.
+11060569	fin	Haluaisin saman sanakirjan kuin sinulla on.
 11060570	fin	Hän oli tietoinen vaarasta.
 11060571	rus	Он последовал примеру отца.
 11060572	rus	Это шёлковое платье?
@@ -15761,15 +15108,15 @@
 11060848	tok	jan Ton li wile ala pali e ni.
 11060849	rus	Прошу, уйди и оставь меня одного.
 11060850	rus	Прошу, просто уйди и оставь меня одну.
-11060851	fin	Kukaan ei äänestänyt vastaan.
+11060851	fin	Kukaan ei äänestänyt sitä vastaan.
 11060852	rus	Торжественно заявляю, что являюсь самопровозглашённым экспертом во всём и вся. Возражения не принимаются.
 11060853	rus	Меньше слушай всяких самоназванных экспертов.
 11060854	zsm	Awak tak boleh pergi begitu saja.
-11060855	fin	María auttoi äitiään koristelemaan joulukuusen.
+11060855	fin	Maria auttoi äitiään joulukuusen koristelemisessa.
 11060856	rus	Тебе лучше поменьше слушать по телевидению всяких самоназванных экспертов.
 11060857	kzj	Au' ko koongoi do ingkaa.
 11060858	rus	Данные, которые у вас были, безнадёжно устарели, пока ваша группа была замурована в этой пещере.
-11060859	fin	Tänä kesänä menemme vuorille ja merelle.
+11060859	fin	Tänä kesänä matkustamme vuorille ja meren rannalle.
 11060860	rus	Ты очень хороший водитель.
 11060861	rus	Вы очень хороший водитель.
 11060862	rus	Вы очень хорошо водите.
@@ -15782,17 +15129,17 @@
 11060869	fin	Sinä olet ongelmani.
 11060870	rus	Да в этом общежитии порядки ещё жёстче, чем были в моей религиозной школе.
 11060871	rus	А это довольно внушительные цифры, однако.
-11060872	fin	Tom ei pysty muistamaan Maryn osoitetta.
+11060872	fin	Tom ei pysty muistamaan Marin osoitetta.
 11060873	kzj	Songkuo hinaid ii mugad id sitisin kulitapui miampai do tiksi?
 11060874	ita	Domani sarà un grande giorno.
 11060875	rus	«Цензура запрещается». — «А запрет цензуры не является цензурой?»
 11060876	ita	Domani sarà un giorno importante.
-11060877	fin	Kuinka voi suojautua tehokkaasti kyberrikollisilta?
+11060877	fin	Kuinka voi suojautua tehokkaasti nettirikollisilta?
 11060878	fin	Uteliaisuus on veressäni.
 11060879	zsm	Adakah awak tinggal bersama keluarga awak?
 11060880	fin	Nukuin koko iltapäivän.
 11060881	kzj	Mizon ko naku miampai di sampaganakan nu?
-11060882	fin	Haluan tanssia Maryn kanssa.
+11060882	fin	Haluan tanssia Marin kanssa.
 11060883	fin	Pidän pavuista.
 11060884	yue	你同你啲屋企人一齊住呀？
 11060885	rus	Как часто вы покупаете напитки в пластиковых бутылках?
@@ -16941,7 +16288,7 @@
 11062042	ber	Ur sett ara seksu-nni.
 11062043	rus	Не было никаких следов, связывающих Сэми с этим преступлением.
 11062044	eng	When I woke up, my briefcase had disappeared.
-11062045	jpn	私たちの先生は疲れました。
+11062045	jpn	先生はお疲れなのよ。
 11062046	jpn	ミリーは青い目をしています。
 11062047	jpn	自分を欺いています。
 11062048	jpn	ゼィリは電話を充電しました。
@@ -17153,18 +16500,18 @@
 11062258	yid	אַ פּשרה איז דערגרייכט געוואָרן.
 11062259	yid	צי קענסטו עס דערגרייכן?
 11062260	yid	צי קענסטו עס דערלאַנגען?
-11062261	fin	Haluan pyytää anteeksi kaikkia kauheita asioita, jotka olen sanonut.
+11062261	fin	Haluan pyytää anteeksi kaikkia niitä kauheita asioita, jotka sanoin.
 11062262	fin	Rentoudun mieluummin kuin työskentelen.
 11062263	fin	Tämän vuoden sato ei ylitä viime vuoden satoa.
 11062264	fin	Tuomari kuulusteli minua.
 11062265	kaz	Оған жете аласың ба?
 11062266	fin	Yö oli rauhallinen.
-11062267	fin	Ostin kupin kahvia.
+11062267	fin	Ostin kupillisen kahvia.
 11062268	tuk	Ejeň nähili?
 11062269	fin	Kaleeriorjalla oli jalkaraudat nilkoissaan.
-11062270	fin	Ystäväni tottui tapaan siihen, kuinka asiat olivat Ranskassa tuohon aikaan.
-11062271	fin	Hän voi mennä kanssani.
-11062272	fin	Tom on töykeä mutta hyväntahtoinen.
+11062270	fin	Ystäväni tottui siihen tapaan, kuinka asiat olivat Ranskassa noina päivinä.
+11062271	fin	Hän voi mennä minun kanssani.
+11062272	fin	Tommi on töykeä, mutta hyväntahtoinen.
 11062273	deu	„Wie sehe ich aus?“ – „Du siehst gut aus.“
 11062274	deu	Die Menschen lassen sich in zwei große Gruppen teilen: solche, die operieren, und solche, die operiert werden.
 11062275	deu	Sie hatte ihn nie erwähnt.
@@ -17217,7 +16564,7 @@
 11062322	fin	Kuinka kauan se kesti?
 11062323	fin	Emme olleet tarpeeksi varovaisia.
 11062324	slk	Zatiaľ všetko prebiehalo dobre.
-11062325	fin	Hallituksen pitäisi edistää yhteistä hyvinvointia.
+11062325	fin	Hallituksen pitäisi edistää yhteistä hyvää.
 11062326	eng	Gerda disappeared!
 11062327	tlh	loQHa' bIghelbej.
 11062328	eng	Tom lent an umbrella to Mary.
@@ -19306,7 +18653,7 @@
 11064429	fin	Sumuvaloni ovat päällä.
 11064430	eng	I am listening.
 11064431	hun	Általában 11-kor fekszem le.
-11064432	fin	Kävelin kunnes jalkani väsyivät.
+11064432	fin	Kävelin, kunnes jalkani väsyivät.
 11064433	hun	Este 11-kor szoktam lefeküdni.
 11064434	fin	Pidän tästä vastauksesta.
 11064435	fin	Dan teki itsemurhan välttääkseen pidätyksen.
@@ -19422,8 +18769,8 @@
 11064547	fra	C'est un homme d'honneur.
 11064548	kab	D anifi.
 11064549	kab	D afeḥli.
-11064550	eng	EU foreign policy chief Javier Solana said he is deeply shocked by what he called a despicable act that is an attack against people who are working for Iraq's future.
-11064551	por	O chefe da política externa da UE, Javier Solana, disse estar profundamente chocado com aquilo a que chamou um ato desprezível, que é um ataque contra pessoas que estão a trabalhar pelo futuro do Iraque.
+11064550	eng	EU foreign policy chief Javier Solana said he is deeply shocked by what he called a despicable act that is an attack against people who are working for that country's future.
+11064551	por	O chefe da política externa da UE, Javier Solana, disse estar profundamente chocado com aquilo a que chamou um ato desprezível, que é um ataque contra pessoas que estão a trabalhar pelo futuro desse país.
 11064552	fra	Un homme à la mer !
 11064553	fra	Elle s'est donnée à cet homme.
 11064554	fra	C'est un meneur d'hommes.
@@ -21375,10 +20722,10 @@
 11066515	lit	Marija miega ant pilvo.
 11066516	rus	Том плакал по дороге домой.
 11066517	kab	Ayɣer ur tettizmireḍ ara ad tṣeggdeḍ dagi?
-11066518	eng	While a U.S.-made social media awareness campaign against a wanted Ugandan rebel leader has been hugely successful in terms of attention, it has also created a blizzard of commentary, some of which has become viral in its own way.
+11066518	eng	The report alleges that human activity as a whole is responsible for a 60 percent decline in global wildlife between 1970 and 2014.
 11066519	mar	मी फुटबॉल खेळू शकतो.
 11066520	rus	Нос корабля рассекал перед собой водную гладь.
-11066521	por	Embora uma campanha de sensibilização nas redes sociais realizada pelos EUA contra um líder rebelde ugandês procurado pela lei tenha sido extremamente bem sucedida em termos de atenção captada, ela também suscitou uma vaga de comentários, alguns dos quais se tornaram virais à sua própria maneira.
+11066521	por	O relatório alega que a atividade humana no seu conjunto é responsável por um declínio de 60% da vida selvagem a nível mundial entre 1970 e 2014.
 11066522	mar	मला फुटबॉल खेळता येतो.
 11066523	kab	Ayɣef ur tettizmireḍ ara ad tṣeggdeḍ dagi?
 11066524	mar	मी फुटबॉल खेळू शकते.
@@ -21538,8 +20885,8 @@
 11066679	eng	People are frustrated with Western racism.
 11066680	eng	People are frustrated with the West's war crimes.
 11066681	tlh	buSHachwIj wa'DIch 'oH.
-11066682	eng	Assomo says all militias must henceforth be registered and controlled by local government officials and Cameroon military.
-11066683	por	Assomo diz que, a partir de agora, todas as milícias têm de estar registadas e sob o controlo de funcionários dos governos locais e das forças armadas camaronesas.
+11066682	eng	He says all militias must henceforth be registered and controlled by local government officials and the military.
+11066683	por	Ele diz que, a partir de agora, todas as milícias têm de estar registadas e sob o controlo de funcionários dos governos locais e das forças armadas.
 11066684	lit	Bet kokiu atveju, tu apie tai niekada nesužinosi.
 11066685	eng	India's Modi is siding with Russia.
 11066686	eng	India didn't condemn the war in Ukraine.
@@ -24084,7 +23431,7 @@
 11069253	kab	Nawleɣ seksu.
 11069254	kab	Tusa-yi-d yiwet n tekti lɛali.
 11069255	kab	D aɣrum-iw.
-11069256	fra	C'est mon gagne pain.
+11069256	fra	C'est mon gagne-pain.
 11069257	kab	D tin i d tafellaḥt-is.
 11069258	fra	C'est son domaine d'expertise.
 11069259	kab	Tuɣaleḍ d ṛṛxis.
@@ -24625,7 +23972,6 @@
 11069795	lat	Quem vocas?
 11069796	rus	Пусть так, но мне всё равно.
 11069797	kab	Ur ssawal ara i temsulta.
-11069798	kab	Awi-yi-d aɣmis n wass-a.
 11069799	rus	Твоя неспособность к предательству благородна, но на войне бессмысленна.
 11069800	rus	Мы осядем на какое-то время в Бостоне.
 11069801	epo	Eĉ se tielas, mi indiferentas.
@@ -24662,8 +24008,8 @@
 11069832	eng	Can you recommend me a good audiobook to fall asleep to?
 11069833	eng	Maria spends a lot of money.
 11069834	eng	Oh, if only I was rich!
-11069835	eng	Analysts are also asking why AirAsia would allow an aircraft part to malfunction 23 times without grounding the plane for further investigation.
-11069836	por	Os analistas perguntam também porque é que a AirAsia permitiu que um componente do avião avariasse 23 vezes sem aterrar o avião para uma investigação posterior.
+11069835	eng	Kahn, a University of Pennsylvania professor, taught at Yale part-time — when he wasn't designing other icons of modernism, including the Kimbell Museum of Art in Texas, the Indian Institute of Management, and Bangladesh's parliament building — as well as another museum for Yale, the Center for British Art.
+11069836	por	Kahn, um professor da Universidade da Pensilvânia, ensinava em Yale a tempo parcial — quando não estava a projetar outros ícones do modernismo, incluindo o Museu de Arte Kimbell no Texas, o Instituto Indiano de Gestão e o edifício do parlamento do Bangladeche — bem como outro museu para Yale, o Centro de Arte Britânica.
 11069837	eng	Russian space officials said Friday that a software malfunction had caused the unexpected firing of thrusters on a newly arrived module, moving the International Space Station out of its intended attitude.
 11069838	por	Oficiais espaciais russos disseram na sexta-feira que uma falha de programação causou o acionamento inesperado dos propulsores num módulo recém-chegado, tirando a Estação Espacial Internacional da sua atitude prevista.
 11069839	ces	Vždycky se snažím říkat pravdu.
@@ -26642,7 +25988,7 @@
 11071826	eng	He's the duly elected president of our country.
 11071827	kzj	Au' zou daa mimang humozog do baino.
 11071828	zsm	Saya tidak mahu berenang hari ini.
-11071829	ita	Ha trascorso all'estero gran paret della sua vita.
+11071829	ita	Ha trascorso all'estero gran parte della sua vita.
 11071830	zsm	Awak telah menjawab soalan awak sendiri.
 11071831	hun	A világhatalmi elit energia- és élelmiszerválságot generál.
 11071832	kzj	Nokosimba ko no do tudizo nu sondii.
@@ -28717,7 +28063,7 @@
 11073916	spa	Las vas a cuidar.
 11073917	fra	Aḥriq est un village qui se situe en Kabylie.
 11073918	spa	Vas a velar por ellas.
-11073919	spa	No vio a aquel caballo
+11073919	spa	No vio a aquel caballo.
 11073920	rus	В следующий раз приходи один.
 11073921	rus	В следующий раз приходи одна.
 11073922	rus	В следующий раз приходите один.
@@ -29541,7 +28887,7 @@
 11074750	kab	Rawuf iḥemmel yemma-s.
 11074751	kab	Ala,d tanelmadt deg uɣerbaz alemmas.
 11074752	kab	Tedduɣ ɣer lakul.
-11074753	kab	Lǧefna-nni ḥettten-tt akken iwata.
+11074753	kab	Lǧefna-nni ḥetten-tt akken iwata.
 11074754	kab	Ɣur-k ad tennaleḍ tawwurt.
 11074755	kab	Ɣur-k ad tennaleḍ tawwurt-nni.
 11074756	por	Estou de férias a partir do dia dois.
@@ -29549,7 +28895,7 @@
 11074758	por	Estou de férias a partir do dia 20.
 11074759	kab	Wehhan-d lemgaḥel ɣur-neɣ.
 11074760	kab	Ur ḥemmleɣ gma,ur ḥemmleɣ win ara t-yewwten.
-11074761	kab	Ẓiɣ tasisnut.
+11074761	kab	Ẓẓiɣ tasisnut.
 11074762	kab	Teɣli tsekkurt gar yilili.
 11074763	kab	Yefcel kan taggara-agi.
 11074764	vol	Änedom moni.
@@ -30331,7 +29677,6 @@
 11075545	jpn	冷蔵庫にトマトがあるよ。
 11075546	eng	If the box remains open, the food will perish.
 11075547	kab	Tagerfa tesɣaɣay.
-11075548	kab	Ikerri yesbaɛbuɛ.
 11075549	kab	Tayaziḍt tesqaqa.
 11075550	ita	Se la scatola rimane aperta, il cibo perirà.
 11075551	deu	Bleibt die Kiste offen, verderben die Lebensmittel.
@@ -31568,8 +30913,7 @@
 11076792	fra	Tout ce qu'il a fait en vain.
 11076793	eng	Everyone in the room laughed at Tom's joke.
 11076794	eng	Everybody thought that what Tom said was funny.
-11076795	epo	Kanabo estas laŭleĝa en Novjorkio.
-11076796	epo	Kanabo estas laŭleĝa en Novjorko.
+11076795	epo	Kanabo estas laŭleĝa en la ŝtato Nov-Jorko.
 11076797	eng	What more is there to say on this subject?
 11076798	rus	Что ещё можно сказать по этой теме?
 11076799	fra	L'huile d'olive est trop chère.
@@ -31993,7 +31337,7 @@
 11077218	vol	Kisi lemoböd?
 11077219	hun	Mindent megpróbáltam, amivel meggyőzhetném őket arról, hogy fejezzék be az életük tönkretételét, de makacsak maradtak.
 11077220	kab	Asɣersif d aseklu.
-11077221	kab	Yecceḍ uḍar-is.
+11077221	kab	Yecceḍ uḍar-is deg waluḍ.
 11077222	tur	Tom matematikçi satanistlerden oluşan bir tarikatta yer alıyor.
 11077223	kab	Qɛed aḍref-nni.
 11077224	tur	Erkek kardeşim bir tarikatın etkisi altında kaldı.
@@ -33361,7 +32705,6 @@
 11078590	ita	Lasciò la casa.
 11078591	ita	Ha pitturato la casa.
 11078592	ita	La mia casa è sporca.
-11078593	ita	La casa era grande.
 11078594	ita	Ha fotografato la casa.
 11078595	ita	Fotografò la casa.
 11078596	ber	D Zzayer i d tamurt ideg luleɣ yernu deg-s ara mmteɣ.
@@ -34723,7 +34066,7 @@
 11079973	por	Encontrei a Porta Aurélia na cidade de Roma.
 11079974	kab	Llan yimaziɣen deg tegzirin Tiknaṛiyin.
 11079975	fra	Il lui est difficile de conduire en ville.
-11079976	kab	Telha tezdeg.
+11079976	kab	Yeqqen allen-is.
 11079977	kab	Ɛebban-as azenbil.
 11079978	kab	Tenɣel tqecwalt-nni.
 11079979	kab	Teččur tqecwalt-nni.
@@ -35515,7 +34858,7 @@
 11080766	ron	Vreau să stau cu el.
 11080767	ron	Ți-ai notat numărul de telefon al lui Tom?
 11080768	ara	كانت السيارة الرباعية الدفع تلك تلاحق الحافلة عن كثب.
-11080769	epo	Kial vi volas, ki ni foriru?
+11080769	epo	Kial vi volas, ke ni foriru?
 11080770	ron	Tom caută un apartament mai mare.
 11080771	ara	كانت الحافلة في الجانب الآخر من الشارع.
 11080772	ron	Sunt responsabil pentru Tom.
@@ -35739,7 +35082,6 @@
 11080991	kab	Nɛucer-itent.
 11080992	kab	Suref-iyi, ur ak-d-sliɣ ara.
 11080993	eng	I just shipped it yesterday or Monday. Hope it gets there OK.
-11080994	kab	Werǧin sliɣ i tezlit-is.
 11080995	kab	Txeddmeḍ weḥd-m.
 11080996	kab	Yefka tayet i yeɛdawen.
 11080997	kab	Ḥrez arraw-im.
@@ -36750,7 +36092,7 @@
 11082014	rus	Игнорировать то, что произошло до вашего рождения, - значит всегда оставаться ребенком.
 11082015	rus	Игнорировать то, что произошло до вашего рождения, — это всегда быть ребенком.
 11082016	por	O coração não mente.
-11082017	tok	pilin li toki e lon taso.
+11082017	ron	Inima nu minte.
 11082018	lat	Bene optasti.
 11082019	eng	The heart does not lie.
 11082020	ron	Care este diferența dintre Judo și Ju-jitsu?
@@ -38131,7 +37473,7 @@
 11083401	epo	Mi france salutis Tomon.
 11083402	ber	Temdel tewwurt n lkaṛ.
 11083403	ber	Yanni iṛuḥ ad iwali tawwurt.
-11083404	kab	Yuɣ tannumi.
+11083404	kab	Tuɣ tannumi.
 11083405	ber	Ziri irẓa tawwurt n llakav.
 11083406	ber	Ziri irwel seg tewwurt n sdat.
 11083407	ber	Ziri isla-as i tewwurt n texxamt n tarda teldi-d.
@@ -41286,7 +40628,7 @@
 11086586	por	As férias de verão passaram.
 11086587	xmf	kaxa so rdu?
 11086588	por	Ela é um pouco esnobe, não é?
-11086589	xmf	çhurçhuli!
+11086589	xmf	Ç̌urç̌uli!
 11086590	por	Ela gosta de todos os climas.
 11086591	xmf	ṫabakis oçhkumali giladzu.
 11086592	por	Eu seria perfeito para fazer isso.
@@ -41307,8 +40649,8 @@
 11086607	por	Sinto sua falta mais do que nunca.
 11086608	epo	Ĉesu sakri, damna putino.
 11086609	por	Tom se perguntava porque a sua esposa o deixou.
-11086610	eng	In a six-hour procedure, space station commander Sunita Wiliams and Japanese astronaut Akihiko Hoshide successfully reconfigured ammonia coolant lines to bypass the suspect radiator, which may have been hit by space debris months earlier.
-11086611	por	Num procedimento que durou seis horas, a comandante da estação espacial Sunita Wiliams e o astronauta japonês Akihiko Hoshide reconfiguraram com sucesso os tubos do refrigerante amoniacal de modo a contornar o radiador suspeito, que pode ter sido atingido por detritos espaciais meses antes.
+11086610	eng	In a six-hour procedure, space station commander Sunita Williams and Japanese astronaut Akihiko Hoshide successfully reconfigured ammonia coolant lines to bypass the suspect radiator, which may have been hit by space debris months earlier.
+11086611	por	Num procedimento que durou seis horas, a comandante da estação espacial Sunita Williams e o astronauta japonês Akihiko Hoshide reconfiguraram com sucesso os tubos do refrigerante amoniacal de modo a contornar o radiador suspeito, que pode ter sido atingido por detritos espaciais meses antes.
 11086612	por	Eles nem sempre obedecem a seus pais.
 11086613	por	Eu vou conduzi-lo à estação.
 11086614	por	Ela disse que sentia que precisava fazer isso.
@@ -45676,7 +45018,7 @@
 11091023	kab	Nniɣ-as ur d-yettas ara.
 11091024	kab	Nniɣ-as ur d-tettas ara.
 11091025	ara	هو سائق حافلة.
-11091026	kab	Ad tt-trqɛeḍ, neɣ ala?
+11091026	kab	Ad tt-treqɛeḍ, neɣ ala?
 11091027	kab	Ad tt-treqɛem, neɣ ala?
 11091028	ara	لاحقت الحافلة.
 11091029	kab	Ad tt-treqɛemt, neɣ ala?
@@ -46235,9 +45577,9 @@
 11091583	rus	Что вам делать - ваше дело.
 11091584	rus	Что тебе делать - твоё дело.
 11091585	rus	С приходом нового руководства предприятие начало деградировать.
-11091586	eng	A Central African Republic official said rebels are edging closer to the capital and to a so-called red line set up by an African multi-national force.
+11091586	eng	As both nations continue to develop, they have been hungrily gobbling up the world's resources, such as steel and cement.
 11091587	oss	Томы алчидæр уарзы.
-11091588	por	Um funcionário da República Centro-Africana disse que rebeldes estão a aproximar-se da capital e de uma chamada «linha vermelha» criada por uma força multinacional africana.
+11091588	por	À medida que ambas as nações continuam a desenvolver-se, elas têm estado a devorar avidamente os recursos mundiais, como o aço e o cimento.
 11091589	rus	Сёстры не должны ссориться.
 11091590	oss	Мах асаудзыстæм иумæ.
 11091591	fra	Une femme de quatre-vingt-neuf ans a été agressée par trois adolescents, mais comme ils ont quatorze ans, ils ont droit de la massacrer.
@@ -47053,7 +46395,7 @@
 11092408	fin	Tomi sahaa puuta.
 11092409	fin	Voinko lainata sahaa?
 11092410	fin	Voinko lainata sahan?
-11092411	epo	Oni petis nin ĉiujn foriru.
+11092411	epo	Oni petis nin ĉiujn foriri.
 11092412	fin	Tarvitsen sahaa.
 11092413	fin	Tarvitsen sahan.
 11092414	fin	Minä tarvitsen sahaa.
@@ -47879,7 +47221,7 @@
 11093238	por	Tem alguém que quer ficar com o gatinho fofo?
 11093239	por	Prometo que não vou olhar.
 11093240	rus	«Напомни, какие изменения мы хотели внести в пользовательскую документацию?» — «Ты хотел проиллюстрировать её, то бишь добавить ещё больше иллюстраций для наглядности».
-11093241	kab	Ur ḥṣiɣ ara d acu iḍarrun.
+11093241	kab	Ur ḥṣiɣ ara d acu iḍerrun.
 11093242	rus	Я не постесняюсь спросить, а ты что тут делаешь?
 11093243	rus	Том хочет построить оранжерею у себя на ферме.
 11093244	por	Tom está economizando para comprar uma tuba.
@@ -48002,8 +47344,8 @@
 11093362	kab	Tamara i idegger tawwurt.
 11093363	kab	Taferracit-im d tamerkut.
 11093364	kab	Seg zik mi yi-ttεawanen yiwenniten-ik s waṭas.
-11093365	eng	At 4:00 p.m., the 7-11 convenience stores which occupy nearly every street corner in this school district are packed with boys buying fried fish-balls, barbecued pork buns and chocolate bars.
-11093366	por	Às 4 da tarde, as lojas de conveniência da 7-11 que ocupam quase todas as esquinas neste distrito escolar estão cheias de rapazes a comprar bolinhas de peixe frito, pãezinhos de carne de porco grelhada e barras de chocolate.
+11093365	eng	At 4:00 p.m., the 7–11 convenience stores which occupy nearly every street corner in this school district are packed with boys buying fried fish-balls, barbecued pork buns and chocolate bars.
+11093366	por	Às 4 da tarde, as lojas de conveniência da 7–11 que ocupam quase todas as esquinas neste distrito escolar estão cheias de rapazes a comprar bolinhas de peixe frito, pãezinhos de carne de porco grelhada e barras de chocolate.
 11093367	kab	Ad truḥem ya?
 11093368	kab	Ad truḥem yakan?
 11093369	kab	Ifis yettak anzi ɣer uqjun.
@@ -48095,8 +47437,8 @@
 11093456	oss	Том цæры йæ бинонтимæ Австралийы.
 11093457	oss	Райсом уый дæр ссардтой мардæй .
 11093458	kab	Am umrabeḍ, am Uqbayli, ulac meḥyaf gar-asen.
-11093459	eng	U.S. defense officials are declining to assign responsibility for an attack on a major air base in western Iraq, days after 10 rockets slammed into the compound that houses American and coalition troops.
-11093460	por	Os altos-funcionários do Departamento de Defesa dos EUA recusam-se a atribuir responsabilidade pelo ataque a uma grande base aérea no Iraque ocidental, dias após 10 mísseis terem atingido esse complexo, que alberga tropas americanas e da coligação.
+11093459	eng	Whether they will be ecological, mainly security, mainly economic, is hard to know, but that there are crises coming if we follow this path, I think, is unquestionable.
+11093460	por	Se serão ecológicas, principalmente securitárias, principalmente económicas, é difícil de saber, mas que se avizinham crises se seguirmos este caminho, penso que é inquestionável.
 11093461	rus	Накидайте, плиз, варики всякие, какие проги для этого подойдут.
 11093462	lat	Auris quae audit increpationes vitae, in medio sapientium commorabitur.
 11093463	epo	Orelo, kiu aŭskultas la instruon de la vivo, loĝos inter saĝuloj.
@@ -48111,8 +47453,8 @@
 11093472	fra	Il ne l'a pas appris du jour au lendemain.
 11093473	kab	Ndama tettas-d ɣer taggara.
 11093474	kab	Ndemmeɣ ndama d tameqqrant mi i k-sneɣ.
-11093475	eng	One abattoir granted a license as a subcontractor to the Cold Storage Company was said to belong to Trade and Industry Minister Obert Mpofu, who issued the order to re-license the abattoirs.
-11093476	por	Diz-se que um matadouro que obteve licença como subcontratado da Companhia de Armazenagem a Frio pertencia ao Ministro do Comércio e Indústria, Obert Mpofu, que emitiu a ordem de relicenciamento dos matadouros.
+11093475	eng	Within the last 20 years for the first time, the total ecological impact has begun to exceed the total biological capacity of the earth, which is basically a definition of unsustainability, which means at some point, these resource-use levels and pollution levels are going to have to come down to a level that is sustainable.
+11093476	por	Nos últimos 20 anos, pela primeira vez, o impacto ecológico total começou a exceder a capacidade biológica total da Terra, o que é basicamente uma definição de insustentabilidade, o que significa que, a dada altura, estes níveis de utilização dos recursos e de poluição vão ter de descer para um nível que seja sustentável.
 11093477	kab	Terra ameqyas deg ufus.
 11093478	fra	Elle se perd toujours.
 11093479	eng	This process called curing interferes with the growth of bacteria.
@@ -49727,8 +49069,8 @@
 11095096	eng	My castle is haunted.
 11095097	epo	Ĉu Tomo ankoraŭ estas en la hospitalo?
 11095098	kab	Yeṭṭef-aɣ fad ula di ccetwa.
-11095099	eng	Taiwanese President Ma Ying-jeou Saturday witnessed the destruction of about 12 tons of food believed to be contaminated with the plasticizer.
-11095100	por	O Presidente Taiwanês, Ying-jeou Ma, testemunhou no sábado a destruição de cerca de 12 toneladas de alimentos que se acreditava estarem contaminados com o plastificante.
+11095099	eng	Students began to learn how to plant and harvest many herbs and vegetables when the ecology club started its vegetable garden a few years ago. They give some of the produce to their school cafeteria and the rest to a local foodbank.
+11095100	por	Os alunos começaram a aprender a plantar e a colher muitas ervas aromáticas e legumes quando o clube de ecologia criou a sua horta, há alguns anos. Eles dão alguns dos vegetais ao refeitório da escola e o resto a um banco alimentar local.
 11095101	kab	Anebdu ibeṭṭu tagmat deg unebdu.
 11095102	kab	Ssusufen deg-sen nutni ur nḥerwan ara.
 11095103	rus	«Что случилось с этим драконом? Почему он не может извергать пламя?» — «Мальчик, ты явно знаешь о драконах исключительно из своих детских книжек. Этот дракоша не из огнедышащих».
@@ -49813,7 +49155,7 @@
 11095182	rus	Да ведь так не бывает!
 11095183	eng	The company said 450 additional jobs will be created when it moves axle production for its full-size pickup trucks to Michigan from Mexico.
 11095184	por	A empresa disse que serão criados 450 postos de trabalho adicionais quando transferir a produção de eixos para as suas carrinhas de caixa aberta de tamanho normal do México para Míchigan.
-11095185	kab	Ur ufiɣ ara irkasen i yerran fell-i.
+11095185	kab	Ur ufiɣ ara arkasen i yerran fell-i.
 11095186	ces	Dávám přednost hotelu blízko letiště.
 11095187	kab	Acimi i d-luleɣ?
 11095188	rus	Под сокращение штата попали свыше сотни сотрудников.
@@ -49998,3 +49340,661 @@
 11095370	ber	Yanni yenna-as tiɣawsiwin yelhan i Skura.
 11095371	kab	Tcekkeṛ-it sdat imawlan-is.
 11095372	por	Não precisa confiar em mim.
+11095373	ber	Yanni werǧin ixebber imarawen-is.
+11095374	kab	Tesbehdel-itt, ur iban iwacu.
+11095375	ber	Yanni ixebber Skura ɣef wayenni.
+11095376	ber	Yanni yenna-as i Skura d acu i yeḍran.
+11095377	ber	Yanni yenna-as i Skura ad tenheṛ.
+11095378	ber	Yanni yenna-as i Skura ad teεjel.
+11095379	por	É por isso que eu fiquei para trás.
+11095380	ber	Yanni yenna-as tidet i Skura.
+11095381	ber	Yanni yenna-as i Skura ad tettixer.
+11095382	por	Como seria a sua casa dos sonhos?
+11095383	ber	Yanni yenna-as i Skura ad tṛuḥ.
+11095384	ber	Ziri xebbren-t ɣef wayenni.
+11095385	ber	Ziri werǧin d-yenni tidet.
+11095386	jpn	そう思ってるのは僕だけじゃないよ。
+11095387	ber	Ziri yenna-as isem-is i Rima.
+11095388	eng	We haven't been to Slovakia.
+11095389	ber	Ziri werǧin yenni i yimarawen-is.
+11095390	por	Eu já falei com eles.
+11095391	ber	Ziri yeḥka-as i Rima tiḥkayin yessaggaden.
+11095392	ber	Ziri seg zik i d-yeqqar tidet.
+11095393	ber	Ziri yenna-as i Rima ɣef Yazid.
+11095394	ber	Ziri yenna-as i Rima ɣef wayenni.
+11095395	ber	Tilaq ur ttɣimiɣ ara armi d tur-a akken ad d-xebbreɣ ɣef waya.
+11095396	ber	Ziri yenna-as i Rima ad tsusem.
+11095397	ber	Ziri yeḥka-as krayellan i tmeṭṭut-nni.
+11095398	ber	Ziri yenna-as tidet i Rima.
+11095399	ber	Ḥkiɣ-d taseḍṣut-nni s tmaziɣt.
+11095400	ber	Yenna-as ad tsusem.
+11095401	ber	Yeḥka-iyi-d ɣef tecreḍt-nni.
+11095402	ber	Yeḥka-as taḥkayt-nni tekmel.
+11095403	ber	Nniɣ-as uɣaleɣ d ineslem.
+11095404	ber	Nniɣ-as krayellan s tmaziɣt.
+11095405	por	Se quiser falar comigo, me ligue.
+11095406	ber	Yenna-as yiwet n tɣawsa d tudmawant s tidet.
+11095407	ber	Yanni yenna-as i gma-s ad yemmuqqel.
+11095408	ber	Yanni yenna-as i Skura ur tettaggad ara.
+11095409	ber	Yanni yeḥka taḥkayt-is i yimarawen-is.
+11095410	eng	Sorry, but we need your original birth certificate, not a copy.
+11095411	ber	Yanni yenna-as i Skura dakken tecbeḥ.
+11095412	eng	Would you mind opening one of the windows?
+11095413	ber	Yanni yeḥka-as taḥkayt-nni i yemma-s.
+11095414	ber	Yanni yeḥka-as i yemma-s ɣef wayenni.
+11095415	eng	The twins had a joint birthday party when they turned eighteen.
+11095416	ber	Yanni yehdeṛ-asen i yimarawen-is ɣef Lislam.
+11095417	eng	Tom's dog is old.
+11095418	ber	Yanni yeḥka i temsulta d acu i yeḍran.
+11095419	eng	The book sparked controversy in the press and academic circles.
+11095420	ber	Ula d nekk d ayen i nniɣ i temsulta.
+11095421	eng	It might start raining before we get home.
+11095422	ber	Dan yenna-as i Linda ad teccucef.
+11095423	eng	Television can make you dumb, but it can also be good education.
+11095424	ber	Tom yeḥka-as i Mary amezruy-is uzufan.
+11095425	eng	I saw Tom and Mary playing tennis.
+11095426	ber	Tom yenna-as i Mary ad taɣ argaz niḍen.
+11095427	eng	There seems to be a sentence or paragraph missing on page three.
+11095428	ber	Iceyyeε-itt ad teks tizit.
+11095429	eng	What else would you like to buy?
+11095430	ber	Yeḥka-iyi-d aṭas ɣef Lislam.
+11095431	ber	Yenna-asen i warraw-is bxir i yella.
+11095432	ber	Nniɣ-as dakken ḥemmleɣ-tt.
+11095433	ber	Taḥkayt i iyi-d-yeḥka teḍra s tidet.
+11095434	ber	Werǧin i as-yenni i yemma-s ɣef wayenni.
+11095435	ber	Baba-s yenna-as ad yeḥfeḍ tamaziɣt.
+11095436	ber	Werǧin i aɣ-d-yenni amek i yeḍra wayenni.
+11095437	ber	Yenna-as ayenni deg usakal.
+11095438	ber	Yeḥka-as i unemhal n uɣerbaz ayen i yeḍran swaswa.
+11095439	ber	Yanni yeḥka i yimarawen-is d acu i yeḍran.
+11095440	ita	L'abito fa il monaco.
+11095441	ber	Yanni werǧin yenni i yiwen d acu i yeḍran.
+11095442	ber	Yanni yenna-as i baba-s ɣef urgaz-nni.
+11095443	ber	Yanni yenna-as i Skura s leεqel ayen yellan iḍerru.
+11095444	ber	Yanni yenna-as i Skura s lεejlan ayen yellan iḍerru.
+11095445	ber	Yanni yenna-as i Skura ad thedden iman-is.
+11095446	ber	Yanni yenna-as i Skura ad teqqim d taqeyyart.
+11095447	ber	Yanni yenna-as i Skura dakken Silya d Tazzayrit.
+11095448	ber	Yanni yenna-as i Skura tiɣawsiwin n diri ɣef Ziri.
+11095449	ber	Yanni yeḥka-as i Skura kra n teḥkayin d tiɣwaliyin s tidet.
+11095450	ber	Yanni yenna-as i Skura d acu i yella ixeddem.
+11095451	eng	Tom has never met his biological parents.
+11095452	kab	Yura-as-d tabrat i yemma-s.
+11095453	ber	Yanni yenna-as i Skura ad tṛuḥ ɣer Zzayer.
+11095454	eng	Tom doesn't know who his biological parents are.
+11095455	ber	Yanni yenna-as i Rima dakken d taɣudant mliḥ.
+11095456	ber	Yanni yenna-as i Rima dakken tecbeḥ mliḥ.
+11095457	ber	Yanni yeḥka-d taḥkayt deg teẓrit-nni.
+11095458	ber	Yanni yenna-as i Rima amek ara iḥass walbaεḍ mi ara as-yeḍru wayenni.
+11095459	ber	Ziri yeqqim, yeḥka-d taḥkayt-is.
+11095460	ber	Ziri werǧin d-yenni tidet ɣef wayenni.
+11095461	ber	Ziri yenna-as i Rima d acu i yellan iḍerru.
+11095462	ber	Ziri yella yeqqar i medden ad as-ssiwlen Yazid.
+11095463	ber	Ziri yemla-as i Rima swaswa d acu ara texdem.
+11095464	ber	Ziri yenna-aɣ-d d acu i yellan iḍerru.
+11095465	spa	No soy tan famoso.
+11095466	ber	Ziri yenna-as i Rima ad d-tas ad twali.
+11095467	ber	Ziri werǧin i as-yenni ayenni i Rima uqbel.
+11095468	ber	Yanni yeḥka-as i Skura cwiṭ ɣef Zzayer.
+11095469	ber	D Yanni i iyi-d-yeḥkan taḥkayt-a.
+11095470	ber	Yanni werǧin yella ixeddem ayen i as-teqqar Skura.
+11095471	ber	Ziri ur yelli ara akk ilaq ad as-yeḥku ayenni i Skura.
+11095472	ber	Ziri yenna-as i Rima dakken ad yeḍru wayenni.
+11095473	ber	Ziri yenna-as kan i Rima aḥric seg tidet.
+11095474	ber	Ziri yenna-as i Rima dakken mačči d netta i baba-s.
+11095475	ber	Ziri yeḥka i temsulta ɣef wakk imeḍra-nni.
+11095476	ber	Mer dani, Ziri ad aɣ-d-yini ɣef wayenni uqbel.
+11095477	fra	Tu me rends heureuse.
+11095478	fra	Vous me rendez heureuse.
+11095479	ber	Ziri yenna-as i Rima ur tettqelliq ara iman-is ɣef wayenni.
+11095480	ber	Ziri yenna-asen i yimarawen-is ur ḥezznen ara.
+11095481	ber	Ziri yeḥka-as i Rima ɣef uselmad-is amaynu n tẓuri.
+11095482	ber	Ziri yenna-as i Rima ad teslummes ɣef tezrawin-is.
+11095483	ber	Ziri yeḥka-as i unemhal n uɣerbaz ɣef umeḍru-nni s lekmal-is.
+11095484	ber	Ziri yenna-as i Rima dakken ifɣakalen ulac-iten.
+11095485	ber	Ziri yenna-as i Walid ad yebεed ɣef Rima.
+11095486	ber	Nniɣ-ak dima thellay deg Ziri.
+11095487	ber	Ziri yenna-as i Rima ur t-tettṛaju ara.
+11095488	ber	Ziri yenna-asen i yirgazen-is ad neqqin krayellan.
+11095489	eng	I don't have any parents.
+11095490	ber	Ziri yenna-as i Rima dakken Walid werǧin ad d-yuɣal.
+11095491	spa	¿Por qué la gente no puede simplemente tratar de llevarse bien con los demás?
+11095492	ber	Ziri yemla-as i Rima amek ara tesselhu tamaziɣt-is.
+11095493	ber	Ula d yiwen ur iyi-d-yenni anta i d tanarit-iw.
+11095494	ber	Ziri yeḥka i yimeẓla n tgerda krayellan ɣef Rima.
+11095495	ber	Mer yettsetḥi Dan, tili ur iyi-d-yeqqar ara akkenni.
+11095496	ber	Mer yettsetḥi Dan, tili ur as-yeqqar ara i Linda akkenni.
+11095497	ber	Dan yeḥka snat n teḥkayin yemxallafen i sin n yiduba isennsen asaḍuf.
+11095498	ber	Teḥka-as i yemma-s amek i d-yenṭeg fell-as.
+11095499	ber	Yenna-iyi-d yella itteddu ɣer Tmurt n Leqbayel, deg Zzayer.
+11095500	ber	Mi as-yeḥka Ziri i tmidult-is krayellan, teḥmec-it.
+11095501	ber	Ziri yeḥka-asen i yimeẓla n umesten n tgerda tidet ɣef krayellan.
+11095502	ber	Tom yenna-as i Mary ad tẓer yiwen n umesnafsi isem-is Aduktur Jackson.
+11095503	ber	Tom yeggul dakken ur yeḥki tanetla-nni i yiwen.
+11095504	ber	Dan yeḥka-iyi-d takerkust tameqrant akk i sliɣ deg tmeddurt-iw.
+11095505	ber	Tenna-as krayellan ad yili bxir.
+11095506	ber	D yiwet n teḥkayt umi d-ttεawaden war aḥbas.
+11095507	ber	Werǧin i as-yenni i yemma-s ɣef tgeṭṭumt-is n tmiḍt.
+11095508	ber	Yanni yeḥka i baba-s ɣef wayenni mi yewweḍ s axxam.
+11095509	eng	"We suffer half in our youth, the other half in our old age", our writer Amar Mezdad likes to remind us.
+11095510	jpn	無性にお菓子が食べたい。
+11095511	ber	Yanni i as-yenna Yanni i Skura mačči akk d ayen ara yeḥku walbaεḍ i wayeḍ.
+11095512	fra	« Nous souffrons la moitié dans notre jeunesse, l'autre dans notre vieillesse », aime à nous rappeler notre écrivain Amar Mezdad.
+11095513	kab	“Azgen uxelleṣ di temẓi, wayeḍ di tewser”, i aɣ-d-ismektay umaru-nneɣ Amar Mezdad.
+11095514	ber	Yanni iwet-it ujenniw mi as-tenna Skura anect-nni.
+11095515	ber	Yanni yenna-as i Skura ad tṛuḥ ad d-taker idrimen i yemma-s.
+11095516	ber	Mennaɣ mer iyi-d-yenni yiwen aya uqbel ad aɣeɣ Yanni.
+11095517	ber	Mennaɣ mer iyi-d-yenni yiwrn aya uqbel ad xedmeɣ ayenni.
+11095518	ber	Llan qqaren i medden ur d-ttaɣen ara tiṣekkiwin tiẓuranin Yanni.
+11095519	jpn	トムが僕を作ってくれたよ。
+11095520	eng	I'm not as famous you think I am.
+11095521	eng	I'm not all that famous.
+11095522	tok	tenpo la, lawa pi jan pona mi li kama sama jan lili. ni li pona e pilin ona.
+11095523	eng	Sometimes, my friend age-regresses. It helps them feel better.
+11095524	fra	On n'a pas déménagé à Wadnan.
+11095525	fra	Vous avez intérêt à fermer votre gueule.
+11095526	lat	Mox Gallicē loquī poterō.
+11095527	fra	Il apprendra la langue kabyle de bon cœur.
+11095528	lat	Nōnne mē dērīdēs?
+11095529	spa	A veces mi amigo retrocede de edad. Le ayuda a sentirse mejor.
+11095530	lat	Ego et Thōmās aderimus.
+11095531	spa	Tom retrocedió de edad.
+11095532	tok	lawa pi jan Ton li kama sama jan lili.
+11095533	tok	jan Ton li kama lawa sama jan lili.
+11095534	por	O jogo foi adiado por causa do mau tempo.
+11095535	lat	Nūllam epistulam scrībō.
+11095536	por	Parece que Tom está com ciúmes.
+11095537	por	Tom não gostou da camiseta que eu dei para ele.
+11095538	lat	Ubi mē vīdistī?
+11095539	lat	Octōgintā trēs annōs nātus sum.
+11095540	lat	Octōgintā trēs annōs nāta sum.
+11095541	lat	Aestāte Thōmās cotidiē natat.
+11095542	por	Você e eu não temos muito em comum.
+11095543	eng	This clock is far more expensive than that one.
+11095544	spa	Algunas personas lidian con el estrés usando la regresión de edad.
+11095545	lat	Thōmās Marīam rogāvit ut iuxtā sē sedēret.
+11095546	por	Por que será que isso aconteceu?
+11095547	lat	Fēmina cum fīliō ambulātum iit.
+11095548	spa	Al retroceder de edad, la persona se olvida de los pensamientos estresantes que vemos como "adultos", y se hace más dependiente de un cuidador para sentirse más seguro.
+11095549	lat	Num timēs?
+11095550	eng	This clock is much more expensive than that one.
+11095551	lat	Num id facere potes?
+11095552	por	O ponto de ônibus não fica longe daqui.
+11095553	lat	Ex Austrāliā oriundus sum.
+11095554	por	Eu não tomo nenhum remédio.
+11095555	lat	Nihil sciō dē hāc rē.
+11095556	eng	This city is famous for its beautiful parks.
+11095557	tok	tan seme la lawa sina li kama sama jan lili?
+11095558	lat	Summus mōns nive opertus est.
+11095559	lat	Thōman pudet factī suī.
+11095560	por	Esse brinquedo está vendendo como água.
+11095561	por	Aquele brinquedo está vendendo como água.
+11095562	tok	jan Ton li lawa kama sama jan lili la, jan Mewi li lukin e ona.
+11095563	por	Tom queria que eu ensinasse Mary a dirigir.
+11095564	eng	As far as I know, that word doesn't exist.
+11095565	tok	sona mi la, nimi ni li lon ala.
+11095566	spa	Dice que ya no puede esperar más.
+11095567	tok	ona li toki e ni: ona li ken ala awen.
+11095568	eng	Obviously, it was a disease that could be contracted by contact.
+11095569	por	Tom roubou a cachaça da minha mãe.
+11095570	por	Preciso comprar birita para a festa.
+11095571	eng	Tom came to the party, carrying a case of beer.
+11095572	eng	Crickets began to chirp, and more geese and ducks flew overhead.
+11095573	eng	I usually drink about three cups of coffee a day.
+11095574	eng	Many people think that vegetarians can eat fish, but they can't.
+11095575	por	Tom não gostava de ficar sozinho.
+11095576	spa	A Tom no le gustó estar solo.
+11095577	tok	jan Ton li wan taso la ni li pona ala tawa ona.
+11095578	nld	Veel mensen denken dat vegetariërs vis mogen eten, maar dat is niet zo.
+11095579	nld	Ik drink meestal drie kopjes koffie per dag.
+11095580	nld	Tom kwam met een krat bier naar het feestje.
+11095581	por	Não tenho condições de comprar um vestido novo para ela.
+11095582	nld	Ik kan geen nieuwe jurk voor haar betalen.
+11095583	nld	Ik had haar de waarheid moeten vertellen.
+11095584	nld	Ik had haar de waarheid moeten zeggen.
+11095585	nld	Ik heb voor haar een pop gemaakt.
+11095586	nld	Ik heb haar van het succes op de hoogte gesteld.
+11095587	nld	Ik heb voor haar een mooi kerstcadeau gekocht.
+11095589	nld	Ik heb haar geadviseerd de ochtendtrein te nemen.
+11095590	nld	Ik heb haar geadviseerd om de ochtendtrein te nemen.
+11095591	nld	Ik heb haar over het succes ingelicht.
+11095592	nld	Ze mompelt in zichzelf.
+11095593	por	Tom queria trabalhar para Mary.
+11095594	nld	Mensen renden het kasteel uit.
+11095595	nld	Mensen verschillen qua levensopvatting sterk van elkaar.
+11095596	nld	Mensen hebben sterk uiteenlopende levensopvattingen.
+11095597	nld	Het wordt niet meer vreemd gevonden als een man zijn haar lang laat groeien.
+11095598	nld	Mensen waren de sneeuw in de straat aan het opruimen.
+11095599	nld	Mensen waren de sneeuw in de straat aan het wegruimen.
+11095600	nld	Mensen praten zonder dat ze iets te zeggen hebben.
+11095601	dan	Hej! Jeg hedder Tom.
+11095602	epo	Saluton! Mi nomiĝas Tomo.
+11095603	dan	Det her ur er meget dyrere end det der.
+11095604	epo	Bonvenon en Interreto!
+11095605	rus	Интернет сделал из меня монстра.
+11095606	rus	Интернет — пугающее место.
+11095607	rus	Интернет — страшное место.
+11095608	deu	Diese Uhr ist viel teurer als jene.
+11095609	deu	Willkommen im Internet!
+11095610	rus	Ты помнишь, насколько медленно работал интернет?
+11095611	rus	Гулять в дождь самое оно.
+11095612	rus	Я никогда не видел эту картинку в интернете.
+11095613	spa	Te he traído una buena noticia.
+11095614	spa	Tengo una buena noticia para ti.
+11095615	jpn	インターネットへようこそ！
+11095616	spa	¡Bienvenidos al internet!
+11095617	spa	Esconden esa naranja.
+11095618	tok	kama pona lon kulupu pi ilo sona!
+11095619	spa	¿Se la dejaron?
+11095620	spa	¿Se la han dejado?
+11095621	spa	Comió tuétano.
+11095622	rus	Ты не хотела бы пойти в театр сегодня вечером?
+11095623	rus	Ты не хотел бы пойти в театр сегодня вечером?
+11095624	rus	Субтитры смещены на несколько секунд вперёд.
+11095625	spa	Se los habían pelado al toque.
+11095626	rus	Субтитры отстают от видео на несколько секунд.
+11095627	rus	Как пофиксить эту проблему?
+11095628	rus	Как пофиксить проблему, при которой субтитры отстают от видео на несколько секунд?
+11095629	rus	Что делать, если субтитры отстают от видео?
+11095630	spa	¡Cuidado! ¡Las puertas se cerrarán!
+11095631	rus	Этот субтитр слишком длинный. Попробуйте разделить его на два.
+11095632	spa	¡Mucho ojo! ¡Se van a cerrar las puertas!
+11095633	spa	No escuché ni una canción de él.
+11095634	spa	No he escuchado ni una canción suya.
+11095635	spa	No he escuchado ni una de sus canciones.
+11095636	eng	"You're looking for a new job, aren't you? Why not apply here?" "Because then I wouldn't be able to spend as much time with you!" "Aww! You just don't want to work, do you?" "Yeah, that too."
+11095637	rus	Этот субтитр очень длинный. Это может усложнять его восприятие, а также негативно влиять на количество занимаемого на экране места. Если это возможно, рекомендуется разделить его на два.
+11095638	spa	¿Cómo empezaste a trabajar en Boston?
+11095639	spa	Iré raudamente a Imehmuden.
+11095640	rus	Почему при температуре в 36 градусов нам жарко, если это почти обычная температура человеческого тела?
+11095641	jpn	あいつに彼女はいないよ。
+11095642	eng	That guy doesn't have a girlfriend.
+11095643	kor	그 노인은 자신의 아들에게 편지를 썼다.
+11095644	kor	그는 기다려야 했다.
+11095645	kor	거기에는 아무도 안 살아.
+11095646	kor	네가 안 먹는다면 내가 먹을게.
+11095647	kor	모두가 내 이름을 알고 있어.
+11095648	jpn	誰でも間違えることはある。
+11095649	spa	Japón promueve mucho la paz mundial.
+11095650	spa	Tom me quiere enseñar cómo hacer esto.
+11095651	spa	Tom quiere enseñarme a hacerlo.
+11095652	jpn	どこに行っても、外国人扱いされちゃうのよ。
+11095653	spa	Te has apresurado yendo a At Sider.
+11095654	spa	Abrí el armario.
+11095655	spa	He abierto el placard.
+11095656	spa	Extraño a mi tierra.
+11095657	spa	Añoro mi país.
+11095658	spa	No habéis ido a Ifnayen.
+11095659	spa	No se fueron para Ifnayen.
+11095660	eng	Wherever I go, I get treated like a foreigner.
+11095661	eng	The little girl wanted to have a balloon, but was too shy to ask.
+11095662	eng	I've been working since dawn.
+11095663	eng	"Does anybody know the square root of two?" the teacher inquired.
+11095664	eng	Tom has always done it that way.
+11095665	jpn	子供を寝かせるつもりが、自分の方が先に寝てしまった。
+11095666	jpn	店内を広く見せるためのレイアウトを心がけています。
+11095667	jpn	ぶらぶらと、球場まで十分足らずの道を歩いていく。
+11095668	jpn	もう始めないと。
+11095669	jpn	そりゃぁ、遅れるだろう。
+11095670	jpn	私たちの学校は、駅の向こう側です。
+11095671	jpn	この地下通路を行くと、駅の向こう側に出れます。
+11095672	jpn	由美は、英語を猛勉強中です。
+11095673	jpn	裕美さんは、英語を猛勉強してます。
+11095674	jpn	川沿いを歩くのが好きなんです。
+11095675	jpn	トラックが乗用車にぶつかりました。
+11095676	jpn	テストに受からない。
+11095677	jpn	試験に合格できない。
+11095678	jpn	着いたら電話しろよ。
+11095679	jpn	私たちはまだ学生です。
+11095680	jpn	冬は、スキー三昧です。
+11095681	jpn	冬は、よくスキーに行きます。
+11095682	jpn	隠れてたのね。
+11095683	tok	"sina wile e pali sin anu seme? o tawa tomo pali ni, o toki e ni!" "taso, mi pali la mi ken ala awen lon poka sina!" "a! sina wile ala pali anu seme? ni li lon ala lon?" "lon..."
+11095684	eng	Please do visit us sometime.
+11095685	eng	What languages have you studied?
+11095686	eng	Please visit us sometime.
+11095687	eng	Do both of you speak French?
+11095688	eng	Can both of you understand French?
+11095689	eng	Have both of you studied French?
+11095690	eng	Can all of you understand French?
+11095691	eng	Is there anyone here who doesn't understand French?
+11095692	tok	sama tenpo ale, pona.
+11095693	spa	Gracias como siempre.
+11095694	jpn	母性本能をくすぐられちゃう。
+11095695	jpn	僕からもありがとう！すごく助かった！
+11095696	tgl	Nitong umaga ng ika-3 ng Setyembre ng 2022, kinausap ko muli si Greg sa Isla Lulung kapihan. At doon siya nagkape at nagbagel na may keso, habang ako ay nagtsaang itim na malamig at nagpatatas na tsips. Sa umpisa, sinabi niyang ang kanyang mga "paboritong tao" ay ang mga Abrahamiko: Hudyo, Muslim, at Kristiyano. Sabi ko sa kanyang dapat ang ugali ng Kristiyano sa taong may ibang relihiyon ay ang pagmamahal, at hindi poot na naranasan ko sa iba sa kanila sa kalye. Sabi ni Greg, lumayo raw ako sa mga galit na nakikipagtalong taong ganoon. Tapos, pinag-usapan namin ang naranasan naming taong singkretistang Budista-Katoliko sa Binondo sa kanya at sa Cebu sa akin naman. Sabi kong sa Korea ay may mga singkretistang Protestante-Budista-Animista at iba-iba. Sa Asya, Amerikang Latino, at Aprika, malimit ang singkretismong Katoliko-Animista. Pinag-usapan namin ang mga templo sa Isla Lulu. Sabi ko kay Greg na malimit ako dati sa Internasyonal na Budistang Lipunan, at nagbabasa dati ako roon ng mga esoterikong libro sa aklatan nila. Tungkol sa dupleksong relihiyon sa Hapon, sabi ko nga ay ang Budismo ay may ugat sa Hinduismo, at ang Shinto ay may ugat naman sa mga Siberyano. Narinig ko ang boses ng isang Byetnamesang baristang si Jessica. Sabi niyang kung lilipat daw ako, hindi sa Canada muli, dahil mas gusto ko raw sa Taylandiya.
+11095697	tok	soweli Ton li soweli tomo. taso, lukin la ona li jan.
+11095698	eng	Me too! Thank you! You helped a lot!
+11095699	spa	Casi se me cayó el sándwich.
+11095700	spa	¡Yo también te doy las gracias! ¡Fuiste una gran ayuda!
+11095701	epo	Ĉu vi povas piede malsupreniri ĝis tie?
+11095702	tok	mi kin la sina pona! sina pona mute e mi a!
+11095703	ces	Zvládnete to bez Toma?
+11095704	eng	Can you do it without Tom?
+11095705	ces	Můžeme jen spekulovat o tom, co tam Tom dělal.
+11095706	eng	We can only speculate about what Tom was doing there.
+11095707	ces	Tom dostal soukromou zprávu.
+11095708	eng	Tom got a private message.
+11095709	ces	Teď je na řadě Tom.
+11095710	eng	It's Tom's turn now.
+11095711	eng	"How did you get to the zoo?" "I rode the train, and then the bus."
+11095712	ber	Yenna-asen dakken yesεedda acḥal n yiseggasen deg Zzayer.
+11095713	ber	Mi yenna i twacult-is dakken yuɣal d ineslem, teεzel-it.
+11095714	ber	Yemmuqqel-itt s allen, yenna-as: "Ḥemmleɣ-kem."
+11095715	ber	Yemla-iyi-d uneflay amek ara neqqiɣ tageṭṭumt-iw n tmiḍt.
+11095717	ber	Tqellqen mi asen-nniɣ seg Zzayer i d-usiɣ.
+11095718	ber	Yanni yeḥka-as i Skura taḥkayt n Muḥemmed, talemmiḥt n Yuc fell-as.
+11095719	tok	toki! nimi mi li Ton.
+11095720	ber	Yanni tenna-as yemma-s ur ilaq ara ad yehdeṛ d yiwerdaniyen.
+11095721	ber	Yanni yeḥka-as i Skura ɣef wakk ayen yellan iḍerru tameddit-nni.
+11095722	ber	Nnan-as yimsulta i Yanni ad yeqqim, sakkin xebbren-t dakken Skura temmut.
+11095723	tok	o pini toki kepeken ilo toki tawa mi.
+11095724	ber	Yanni yeḥka-aɣ-d taḥkayt n wamek i yuɣal d ineslem.
+11095725	epo	La kajtoj en la ĉielo estas ruĝaj.
+11095726	ber	Mennaɣ mer iyi-d-yenni walbaεḍ aya uqbel ad giǧǧeɣ ɣer Zzayer Tamaneɣt.
+11095727	epo	La kajtoj en la ĉielo estas verdaj.
+11095728	ber	Ziri yella yeṣfa d Rima yernu yeḥka-as tidet.
+11095729	ber	Ziri yemmuqqel Rima ɣer tiṭṭawin, yenna-as ayenni.
+11095730	ber	Ziri yenna-as i baba-s ad d-yuɣal tameddit.
+11095731	ber	Ziri yenna-as i Rima ad as-d-yessiwel ticki sakkin yekcem d tazzla ɣer daxel.
+11095732	ber	Ziri yuɣal d tazzla ɣer daxel yernu yenna-asen akk d acu i iwala.
+11095733	ber	Ziri yejmeε-d akk tabɣest yesεa, yenna-as tidet i Rima.
+11095734	ber	Iban kan Ziri yeḥka i uɣerbaz akken ma yella ayen i d-tqarr Rima.
+11095735	ber	Ziri iṛuḥ ɣer baba-s n Rima, yeḥka-as tidet.
+11095736	ber	Nniɣ-as dakken bɣiɣ ad giǧǧeɣ ɣer Tmurt n Leqbayel deg Yebrir.
+11095737	eng	This is stimulating my maternal instincts.
+11095738	eng	My mother instincts are tingling.
+11095739	ber	Yenna-as yimsujji n tuɣmas ad yettneqqi tuɣmas-is s tnelli yal ass.
+11095740	ber	"Ad as-ceyyεeɣ azenwal." "Fiḥel. Nniɣ-as yakan."
+11095741	ber	Ur zmireɣ ara ad tamneḍ dakken yesεa memmi-s yernu werǧin i iyi-d-yenni.
+11095742	ber	Yehdeṛ-iyi-d s yiwen n uɣdebbu aqbayli d aqesḥan, yenna-iyi-d dakken yeεreq-as ubrid.
+11095743	ber	Yanni yenna i tnefrut dakken yenɣa Skura deg tmudrut-is.
+11095744	ber	Yanni yenwa dakken Skura tella teskiddib mi as-tenna nettat d tineslemt.
+11095745	ber	Yanni yenna-as i Skura dakken ur tettazmar ara ad tεawed ad telḥu.
+11095746	deu	Klarheit in den Worten, Brauchbarkeit in den Sachen.
+11095747	ber	D acu i yessen Yanni fell-i war ma nniɣ-as-t?
+11095748	ber	Ziri yettu akk taḥkayt-nni i as-teḥka Skura iḍ-nni yezrin.
+11095749	epo	Klareco en la vortoj, utileco en la aferoj.
+11095750	ber	Yanni yenna-asen i yifesyanen-nni n tlelli tuεḍilt dakken yella yewjed ad yebdu tameddurt-is tamaynut.
+11095751	deu	Gerechtigkeit ist die Nächstenliebe der Weisen.
+11095752	epo	Justeco estas la karitato de la saĝuloj.
+11095753	ber	Yanni yenna-asen i yifesyanen-nni n tlelli tuεḍilt dakken yella yewjed ad yebdu tallit d tamaynut seg tmeddurt-is.
+11095754	ber	Ziri yessaki-d Rima, yenna-as ad tessuffeɣ tasigmit n Lina seg uxxam.
+11095755	deu	Und wenn Volkswörter zur Verfügung stehen, so ist es eine Sünde, durch meist unbequeme selbstgemachte Neuwörter die behandelten Gegenstände zu verdunkeln.
+11095756	ber	Ziri yenna-as i Rima ad teffeɣ seg tḥanut uqbel ad d-yessiwel i temsulta.
+11095757	ber	Ziri yenna-as i yelli-s dakken ma tella d tuḥdiqt, medden zemren ad as-kellxen.
+11095758	epo	Kaj kiam popolaj vortoj estas disponeblaj, estas peko kaŝi la temon per plejparte malkomfortaj, memfaritaj novaj vortoj.
+11095759	ber	Mary temmuqqel-iyi-d ɣer tiṭṭawin, tenna-iyi-d ad tt-ṭṭfeɣ gar yiɣallen-iw.
+11095760	ber	Yemmuqqel-itt ɣer tiṭṭawin, yenna-as: "D kemm i d tayri n tmeddurt-iw."
+11095761	deu	Jede Rede ist um so verständlicher, je mehr ihre Ausdrücke der Volkssprache entnommen sind. Wenn also irgendwelche Ausdrücke der Volkssprache zu Gebote stehen, die gleich knapp und treffend sind, so soll man sich der Fachausdrücke enthalten.
+11095762	ber	Yeḥka-aɣ-d taḥkayt n wamek i yefla timiḍt-is netta s timmad-is deg uxxam.
+11095763	epo	Ĉiu parolo estas des pli komprenebla ju pli ĝiaj esprimoj estas prenitaj el la popollingvo. Do se ekzistas iaj esprimoj de la popollingvo, kiuj estas same koncizaj kaj al la punkto, oni devus sindeteni de uzi teknikajn terminojn.
+11095764	ber	Yanni yesseqsa Skura seg wansi-tt, tenna-as dakken nettat d Tazzayrit.
+11095765	ber	Skura tuɣal ur tezmir ara ad d-tesεu igerdan deffir ma tesεa-d agrud-is wis kuẓ, maca ur as-tenni ara i Yanni.
+11095766	ber	Ulac aɣilif ma thennaḍ taqcict-nni? Tenna-ak yakan yr tebɣi ara ad tehdeṛ yid-k.
+11095767	deu	Ein moderner Optimist ist ein Mensch, der von den Ereignissen laufend dementiert wird.
+11095768	epo	Moderna optimisto estas iu, kiu estas konstante neata de eventoj.
+11095769	ber	Yanni yeεreḍ Skura ad tens ɣer-s deg yiḍ-nni, maca tenna-as ur d-tewwi ara tiɣawsiwin i teḥwaj akken ad tens.
+11095770	ber	Ilijuniren-nni ḍelben-as i Skura ad texdem yiwet n tɣawsa, mi as-tesla, tetti tεebbuḍt-is. Umṛen-tt ad tεerri sdat twacult-is.
+11095771	ber	"Mazal tḥemmleḍ Ziri." "Nniɣ-am dakken yekfa krayellan gar-i yid-s." "Mazal tḥemmleḍ-t." "Ur am-selleɣ ara."
+11095772	ber	"D acu i txeddmeḍ deg tkeṛṛust n Yanni?" "Nekk d tameṭṭut-is." "Kemm d tameṭṭut-is? Werǧin i iyi-d-yenni dakken yezweǧ."
+11095773	ber	Yanni yeḥka-as i Skura yiwet n teḥkayt tesseḍṣay.
+11095774	epo	La kajtoj en la ĉielo estas verdetaj.
+11095775	ber	Yanni yeḥka-as i Skura kra n teḥkayin d tiɣwaliyin.
+11095776	ber	Yanni yenna-as i Skura ɣef umeḍru-nni.
+11095777	ber	Yanni yenna-as i Skura ɣef uxxam-nni.
+11095778	ber	Yanni yenna-asen i yimarawen-is ɣef wayenni.
+11095779	ber	Yanni yenna-as i Skura ad tṛuḥ s azelmaḍ.
+11095780	ber	D aya i d-yeḥka Yanni.
+11095781	ber	Yanni yenna-as i Skura ad tekker.
+11095782	ber	Yanni yenna-as i Skura ad tazzel d asawen.
+11095783	ber	Yanni yenna-as i Skura dakken qerḥen-t yiḍarren-is.
+11095784	ber	Yanni yessawel-as i Skura, yenna-as.
+11095785	ber	Baba-s n Yanni werǧin i as-yeḥki ɣeg wayenni.
+11095786	ber	Yanni yenna-asen ayenni i yimsestanen.
+11095787	ber	Ziri yenna-as i Rima anwa i d netta.
+11095788	ber	Ziri yenna-as i Rima d acu i yella.
+11095789	ber	Ziri yenna-as i Rima dakken ur tessin ara.
+11095790	ber	Imsilem yenna-as i Ziri ad yeffeɣ.
+11095791	ber	Ziri yenna-as i Rima d acu i yufa.
+11095792	jpn	「大学は今、家から通ってるんだよね？」「そうよ」「就職はどうするの？家から通えるところにするの？それとも一人暮らしがしたいの？」「そうね。家から出て一人暮らしがしたいな」
+11095793	jpn	気分爽快だ。
+11095794	nld	Haar echtgenoot is een Amerikaan.
+11095795	epo	Ĉiu el ili havas blankajn dentojn.
+11095796	jbo	mi sisku tu'a loi cirla
+11095797	jbo	lo prenu cu sisku be tu'a mi klama
+11095798	ita	Lasciami comprare del pane.
+11095799	ita	Lasciatemi comprare del pane.
+11095800	ita	Mi lasci comprare del pane.
+11095801	ita	Il pane è vecchio.
+11095802	ita	Questo è pane non affettato.
+11095803	jbo	mi sisku lo ka ce'u sidju
+11095804	ita	Tom ha comprato del pane di segale.
+11095805	ita	Tom comprò del pane di segale.
+11095806	ita	A Tom piace il pane di segale.
+11095807	jbo	mi sisku lo ka kargu mleca
+11095808	ita	Ziri ha bisogno di un po' di pane.
+11095809	jbo	lo prenu pu sisku tu'a lo ckiku
+11095810	ita	A Ziri serve un po' di pane.
+11095811	ita	Il pane fa davvero ingrassare?
+11095812	ita	Il pane fa veramente ingrassare?
+11095813	ita	Per piacere, passa il pane.
+11095814	ita	Per favore, passa il pane.
+11095815	ita	Per piacere, passi il pane.
+11095816	ita	Per favore, passi il pane.
+11095817	ita	Per piacere, passate il pane.
+11095818	ita	Per favore, passate il pane.
+11095819	ita	Ho mangiato solo del pane.
+11095820	ita	Ho mangiato soltanto del pane.
+11095821	ita	Ho mangiato solamente del pane.
+11095822	ita	Mangiai solo del pane.
+11095823	ita	Mangiai soltanto del pane.
+11095824	ita	Mangiai solamente del pane.
+11095825	jbo	mi pu sisku lo ka nalzasti
+11095826	jbo	.ai xu lo lacni cu se sisku do
+11095827	ita	Devi agire.
+11095828	ita	Deve agire.
+11095829	ita	Dovete agire.
+11095830	ita	Hai bisogno di agire.
+11095831	ita	Ha bisogno di agire.
+11095832	ita	Avete bisogno di agire.
+11095833	jbo	lo dakfu cu vi zasti
+11095834	jbo	xu do ralte da
+11095835	jbo	mi sinma lo prenu
+11095836	jbo	mi sinma lo nanmu
+11095837	jbo	mi sinma lo ninmu
+11095838	ita	Mi piacciono il latte e il pane.
+11095839	ita	A me piacciono il latte e il pane.
+11095840	ita	Hai comprato del pane?
+11095841	ita	Ha comprato del pane?
+11095842	ita	Avete comprato del pane?
+11095843	ita	Non comprò del pane.
+11095844	ita	Ho comprato pane e latte.
+11095845	ita	Comprai pane e latte.
+11095846	ita	Ho comprato del pane e del latte.
+11095847	ita	Comprai del pane e del latte.
+11095848	ita	Non comprai del pane.
+11095849	ita	Questo pane è troppo costoso.
+11095850	ita	Tom ha una macchina per fare il pane.
+11095851	ita	Mi piace mangiare il pane nero.
+11095852	ita	A me piace mangiare il pane nero.
+11095853	ita	Stavi tagliando il pane.
+11095854	ita	Stava tagliando il pane.
+11095855	ita	Stavate tagliando il pane.
+11095856	ita	Quel pane ha un buon sapore?
+11095857	ita	Mangia del pane e bevi dell'acqua.
+11095858	ita	Mangi del pane e beva dell'acqua.
+11095859	ita	Mangiate del pane e bevete dell'acqua.
+11095860	ita	Ti piace il pane all'aglio?
+11095861	ita	Vi piace il pane all'aglio?
+11095862	ita	Le piace il pane all'aglio?
+11095863	ita	A te piace il pane all'aglio?
+11095864	ita	A voi piace il pane all'aglio?
+11095865	ita	A lei piace il pane all'aglio?
+11095866	ita	Non c'è più pane.
+11095867	ita	Prendiamo questo pane.
+11095868	ita	Il pane morbido è saporito.
+11095869	ita	Il pane soffice è saporito.
+11095870	ces	"Jak ses dostal do zoo?" "Jel jsem vlakem, a pak autobusem."
+11095871	ces	Je tu někdo, kdo neumí francouzsky?
+11095872	ces	Umíte všichni francouzsky?
+11095873	ita	Quanto costa il pane?
+11095874	ita	Questo pane sa di cartone.
+11095875	ita	Questo pane ha il sapore di cartone.
+11095876	jbo	lo trixe be lo prenu cu glare lo se carmi lo solri
+11095877	ita	Questo pane non è scaduto?
+11095878	ita	Tom ha comprato tre pagnotte.
+11095879	ita	Tom comprò tre pagnotte.
+11095880	ita	Non affetto il loro pane.
+11095881	ita	Non affetto il suo pane.
+11095882	ita	Sta mangiando frutta e pane.
+11095883	ita	Quel pane è nel forno.
+11095884	ita	Quanto è costato il pane?
+11095885	ita	Quanto costava il pane?
+11095886	ita	Voglio comprare del pane.
+11095887	ita	Tom è uscito a comprare del pane.
+11095888	ita	Tom uscì a comprare del pane.
+11095889	ita	Mangi del pane ogni giorno?
+11095890	ita	Mangia del pane ogni giorno?
+11095891	ita	Mangiate del pane ogni giorno?
+11095892	ita	Qual è la storia del pane?
+11095893	ita	Mary ha comprato burro, pane e formaggio.
+11095894	ita	Mary comprò burro, pane e formaggio.
+11095895	ita	Tom ha affettato la pagnotta.
+11095896	ita	Tom affettò la pagnotta.
+11095897	ita	Mi piace mangiare il pane con il formaggio.
+11095898	ita	A me piace mangiare il pane con il formaggio.
+11095899	eng	If something seems too good to be true, you need to be skeptical.
+11095900	ita	Dove hai comprato questo pane?
+11095901	ita	Dove ha comprato questo pane?
+11095902	ita	Dove avete comprato questo pane?
+11095903	ita	Non abbiamo molto pane.
+11095904	ita	Mangiamo molto pane.
+11095905	eng	I'm doing the best that I can.
+11095906	ita	La bambina sta mangiando del pane.
+11095907	ita	Il pane è secco, l'acqua è fredda.
+11095908	eng	I always forget halfway through a story why I started telling it.
+11095909	ita	Non mi piace la crosta del pane.
+11095910	ita	A me non piace la crosta del pane.
+11095911	ita	A Tom non piace il pane all'aglio.
+11095912	ita	Metti il pane sul tavolo.
+11095913	ita	Metta il pane sul tavolo.
+11095914	ita	Mettete il pane sul tavolo.
+11095915	ita	Che tipo di pane è questo?
+11095916	ita	È importante mangiare il pane.
+11095917	ita	Non mangiare il riso con il pane.
+11095918	ita	Non mangiate il riso con il pane.
+11095919	ita	Non mangi il riso con il pane.
+11095920	ita	Tom ha mangiato un pezzo di pane.
+11095921	ita	Tom mangiò un pezzo di pane.
+11095922	ita	Non mangiare così tanto pane.
+11095923	ita	Non mangiate così tanto pane.
+11095924	ita	Non mangi così tanto pane.
+11095925	ita	Posso smettere di mangiare questo pane?
+11095926	ita	Tom ha comprato una pagnotta.
+11095927	ita	Tom comprò una pagnotta.
+11095928	eng	Tom ate a slice of bread.
+11095929	eng	Tom ate three slices of bread.
+11095930	pol	Ta koszula będzie świetnie wyglądać razem z fioletowym krawatem.
+11095931	ita	Il tuo pane è più fresco del mio.
+11095932	ita	Il suo pane è più fresco del mio.
+11095933	ita	Il vostro pane è più fresco del mio.
+11095934	ita	Sono stanco di mangiare del pane.
+11095935	ita	Sono stanca di mangiare del pane.
+11095936	ita	Sto mangiando pane e salsicce.
+11095937	ita	Sto mangiando del pane e delle salsicce.
+11095938	ita	Abbiamo altro pane?
+11095939	ita	Abbiamo dell'altro pane?
+11095940	ita	Tom fa il pane una volta alla settimana.
+11095941	ita	Tom fa il pane una volta la settimana.
+11095942	eng	How many slices of toast do you want?
+11095943	eng	Young people are frequently told nowadays to reach for the stars.
+11095944	eng	Will you be busy tomorrow morning?
+11095945	ita	Tom ha mangiato una fetta di pane.
+11095946	ita	Tom mangiò una fetta di pane.
+11095947	ita	Tom ha mangiato tre fette di pane.
+11095948	ita	Tom mangiò tre fette di pane.
+11095949	eng	In this paper, the authors examine health, wealth and inequality.
+11095950	ita	Il suo pane è imburrato su entrambi i lati.
+11095951	ita	Abbiamo pane e uova per colazione.
+11095952	eng	Mary never wears necklaces.
+11095953	eng	Do you have to pay a monthly fee for your bank's current account?
+11095954	ita	Ziri ha mangiato del pane stantio.
+11095955	eng	I feel guilty about that.
+11095956	ita	Ziri ha mangiato del pane raffermo.
+11095957	ita	Ziri mangiò del pane stantio.
+11095958	ita	Ziri mangiò del pane raffermo.
+11095959	eng	Hundreds of thousands of warriors marched across the dusty plain.
+11095960	ita	Ha un po' di pane.
+11095961	ita	Ha poco pane.
+11095962	eng	This morning, Tom arrived later than usual.
+11095963	ita	Ha comprato del pane di segale.
+11095964	eng	Oppressive as the heat had been, it was now even more oppressive.
+11095965	ita	Comprò del pane di segale.
+11095966	ita	Ho dimenticato di comprare del pane.
+11095967	ita	Ho scordato di comprare del pane.
+11095968	eng	I make it a rule not to stay up past midnight.
+11095969	ita	Dimenticai di comprare del pane.
+11095970	ita	Scordai di comprare del pane.
+11095971	eng	Learning to play the piano was one of the best things I ever did.
+11095972	eng	Tom wants to be in charge.
+11095973	ita	Dov'è stato fatto il pane?
+11095974	ita	Dove è stato fatto il pane?
+11095975	eng	The costs are considerably higher when you buy an item on credit.
+11095976	eng	Every time I think of you, I feel happy.
+11095977	eng	Sometimes, I experience so much pain that I cannot sleep at night.
+11095978	mar	सामीने आपले हात वर केले.
+11095979	ita	Ha mangiato formaggio e pane.
+11095980	ita	Mangiò formaggio e pane.
+11095981	ita	Non mangia altro che pane.
+11095982	ita	Abbiamo finito il pane.
+11095983	ita	Finimmo il pane.
+11095984	ita	Questo pane è molto buono.
+11095985	ita	Tom è andato a comprare del pane.
+11095986	ita	Tom andò a comprare del pane.
+11095987	ita	Il pane era tutto ammuffito.
+11095988	ita	Il pane era completamente ammuffito.
+11095989	ita	Tom non ha comprato pane.
+11095990	ita	Tom non comprò pane.
+11095991	ita	Non dimenticare di comprare del pane!
+11095992	ita	Non dimenticate di comprare del pane!
+11095993	ita	Non dimentichi di comprare del pane!
+11095994	ita	Non scordare di comprare del pane!
+11095995	ita	Non scordate di comprare del pane!
+11095996	ita	Non scordi di comprare del pane!
+11095997	ita	Mangia sia il formaggio che il pane.
+11095998	ber	Ziri yenna-as i Rima ur d-teggar ara iman-is.
+11095999	ita	Tom non riesce a trovare il pane.
+11096000	ita	Tom non può trovare il pane.
+11096001	ita	Questo non è vero pane nero.
+11096002	ita	Preferisci il pane o il riso?
+11096003	ita	Tu preferisci il pane o il riso?
+11096004	ita	Preferisce il pane o il riso?
+11096005	ita	Lei preferisce il pane o il riso?
+11096006	ita	Preferite il pane o il riso?
+11096007	ita	Voi preferite il pane o il riso?
+11096008	ita	Voglio un'altra fetta di pane.
+11096009	ber	Ziri yenna-as i Rima ad thedden iman-is.
+11096010	ita	Voglio tre fette di pane.
+11096011	ber	Ziri yenna-as i Rima ad tuɣal ɣer deffir.
+11096012	ita	Mi piace davvero mangiare il pane.
+11096013	ita	Mi piace veramente mangiare il pane.
+11096014	ita	A me piace davvero mangiare il pane.
+11096015	ita	A me piace veramente mangiare il pane.
+11096016	ber	Ziri yeḥka-d taḥkayt-is s tmaziɣt.
+11096017	ber	Nniɣ-as ayenni s tmaziɣt.
+11096018	ber	Ziri yeḥka-as i baba ɣef wayen yellan gar-aɣ.
+11096019	ber	Ziri yeḥka-as i Rima ɣef yisiklen-ines.
+11096020	ber	Yanni yenna-as i Skura swaswa amek iḥuss.
+11096021	ber	Ziri yenna-as i tqeddact-nni dakken ur tessin ara ad texdem.
+11096022	ber	Ziri werǧin i as-yenni i Rima anda i yezdeɣ.
+11096023	tur	Hirudoterapi, sülükler ile gerçekleştirilen tedaviye verilen addır.
+11096024	ita	Ti sei ricordato di comprare il pane?
+11096025	ita	Ti sei ricordata di comprare il pane?
+11096026	ita	Si è ricordato di comprare il pane?
+11096027	ita	Si è ricordata di comprare il pane?
+11096028	ita	Vi siete ricordati di comprare il pane?
+11096029	ita	Vi siete ricordate di comprare il pane?
+11096030	tur	Tom Mary'ye bir sülük gibi yapıştı ve tamamen onun üzerinden geçiniyor.
+11096031	ita	Dammi del pane, ho fame.
+11096032	ita	Mi dia del pane, ho fame.
