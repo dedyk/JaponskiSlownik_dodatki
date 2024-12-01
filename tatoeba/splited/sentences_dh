@@ -1,65 +1,3 @@
-4525568	ita	In Italia, gli italiani parlano in italiano.
-4525569	por	Todos obedecem a ele.
-4525570	rus	Твоя жизнь в моих руках.
-4525571	tok	jan ale li kute e ona.
-4525572	rus	Ваша жизнь в моих руках.
-4525573	rus	С ума сошёл? Они чёрт знает что могут подумать.
-4525574	epo	Ĉu vi scias, kion oni faru aŭ ne faru?
-4525575	tur	Iıım, bu oda sessiz mi?
-4525576	khm	នៅពេលធ្វើការ មិនគួរញ៉ាំទេ ។
-4525577	eng	If you get sleepy, tell me.
-4525578	eng	If you get sleepy, let me know.
-4525579	eng	If you get sleepy, just tell me.
-4525580	rus	В этом районе мало книжных магазинов.
-4525581	epo	Mi petas, se vi iras al la superbazaro, aĉetu unu kilogramon da bombonoj por doni al la infanoj.
-4525582	eng	If you don't behave, Santa won't come.
-4525583	eng	Which do you prefer, dogs or cats?
-4525584	deu	Ich führe ihn heute zum Essen aus.
-4525585	deu	Ich gehe heute Abend mit ihm essen.
-4525586	epo	Ni, homoj, klare emas adapti la faktojn al la teorio, kiun ni estigis.
-4525587	rus	Тебе кто больше нравится: собаки или кошки?
-4525588	eng	Who was the girl you were with the other day?
-4525589	epo	La ŝtelistoj agas tre profesie.
-4525590	epo	Kaj kio, se ili malpravas?
-4525591	rus	Будешь себя плохо вести, Дед Мороз не придёт.
-4525592	dan	Hvis du ikke opfører dig ordentligt, kommer julemanden ikke.
-4525593	epo	Ne tranĉe vundu vian fingron.
-4525594	por	Minha cidade está crescendo muito.
-4525595	tok	ma tomo mi li kama suli mute.
-4525596	epo	Vi eble devintus ne diri tion al Tomo.
-4525597	dan	Tyvene går meget professionelt til værks.
-4525598	epo	Mi timas, ne sciante, ĉu mi povos bone plenumi tiun novan laboron.
-4525599	eng	Why don't you try it again from the beginning?
-4525600	rus	Говори помедленнее!
-4525601	deu	Die Straße ist gebührenfrei.
-4525602	epo	Tiu frukto gustas nebone.
-4525603	eng	What happened? You look pale.
-4525604	deu	Übrigens fahre ich im Oktober nach Hause.
-4525605	spa	Deja el lápiz y escucha lo que digo.
-4525606	deu	Tom versteht nicht, was du gesagt hast.
-4525607	ita	Non posso sopportare quel rumore.
-4525608	ita	Io non posso sopportare quel rumore.
-4525609	deu	Tom begreift nicht, was ihr gesagt habt.
-4525610	ita	Non riesco a sopportare quel rumore.
-4525611	ita	Io non riesco a sopportare quel rumore.
-4525612	deu	Tom erfasst nicht, was Sie sagten.
-4525613	epo	Mi volus ŝipe sendi ĉi tiun pakon al Japanujo.
-4525614	rus	Говорите помедленнее!
-4525615	eng	Would you let me think about it for a while?
-4525616	rus	Ты можешь немного потише говорить?
-4525617	eng	Would you give me some time to think about it?
-4525618	rus	Говори погромче, пожалуйста.
-4525619	rus	Говорите погромче, пожалуйста.
-4525620	rus	Говори громче, пожалуйста.
-4525621	eng	Would someone please wake me up at 2:30?
-4525622	spa	El invierno se acerca, por lo que es temporada de comprar ropa cálida.
-4525623	rus	Говори немного погромче, пожалуйста.
-4525624	hun	Erősen növekszik a városom.
-4525625	deu	Der Prüfungserfolg bedeutet ihr nichts.
-4525627	hun	Ha Szonja mondja, biztosan úgy is van.
-4525628	por	Se você souber bem Toki Pona, entenderá melhor qualquer outra língua.
-4525629	hun	Hiányzik neked?
-4525630	khm	ខ្ញុំអត់ដឹងអីផងអំពីអតីតកាលរបស់គាត់ ។
 4525631	hun	Nem szeretem, ha kiabálnak velem!
 4525632	spa	El es realmente un joven astuto.
 4525633	tok	sina sona pona e toki pona la sina pilin pona kin e toki ale.
@@ -120,7 +58,7 @@
 4525693	spa	Si de casualidad te encuentras con Celia, salúdala de mi parte.
 4525694	tur	Öneriler için teşekkürler.
 4525695	rus	Пусть это послужит тебе уроком.
-4525696	epo	Ĉu vi certas pri tio, ke vi povas pagi tion.
+4525696	epo	Ĉu vi certas pri tio, ke vi povas pagi tion?
 4525697	tur	Onlar ne öneriyor?
 4525698	rus	Я уже десять лет его знаю.
 4525699	tur	Tom pahalı bir İtalyan takım elbise giyiyor.
@@ -8921,7 +8859,7 @@
 4535198	epo	Estas normala afero, eĉ dezirinda, ke lernanto superos la instruiston.
 4535199	spa	¿No puedes asistir? ¿Por qué?
 4535200	epo	Mia patro estis fervora kaj fanatika ŝakludanto.
-4535201	epo	Mi certas ke tio ĉio estas miskompreno.
+4535201	epo	Mi certas, ke tio ĉio estas miskompreno.
 4535202	tok	lon la ni li toki ike taso.
 4535203	rus	Она гадает на картах Таро.
 4535205	dan	Stig ind. Jeg vil køre dig et eller andet sted hen.
@@ -9160,7 +9098,7 @@
 4535473	fra	T'as aussi besoin d'une serpillière.
 4535474	hun	Mi van a tányérodon?
 4535475	tur	Neil Armstrong astronot olmak için seçildiğinde deneme pilotuydu.
-4535476	epo	La junulo vivas en maljuna domo.
+4535476	epo	La junulo vivas en malnova domo.
 4535477	hun	Itt ezelőtt templom volt.
 4535478	epo	En la longa daŭro, ŝanĝoj estos necesaj.
 4535479	fra	Lui aussi veut apprendre l'espéranto.
@@ -18885,7 +18823,7 @@
 4546010	fra	C'est une Allemande. Donc elle ment !
 4546011	tok	sina tawa musi tan seme?
 4546012	fra	Ce n'est pas un vol si long.
-4546013	tok	ona li poka ala len li tawa musi.
+4546013	tok	ona li tawa musi kepeken len ala.
 4546015	rus	Ты правда прячешь деньги под матрас?
 4546016	tok	tenpo kama la mi tawa musi ala.
 4546017	rus	Я спрятал её под матрас.
@@ -25612,7 +25550,7 @@
 4553366	tur	Tom dövüşmeye başladı.
 4553367	spa	Hoy es el vigésimo segundo cumpleaños de mi hermano pequeño.
 4553369	tur	Tom neredeyse hiç gülmez.
-4553370	spa	Ese perro es super grande.
+4553370	spa	Ese perro es supergrande.
 4553371	tur	Tom onun burnunu kırdı.
 4553374	spa	Mary está chupando un caramelo.
 4553375	tur	Tom gelmek istiyor.
@@ -34079,10 +34017,10 @@
 4562717	hun	Remélem, hogy csak képzelődöm.
 4562718	dan	Begyndte livet på Jorden på Mars?
 4562719	hun	A világon minden másodpercben négy gyerek születik.
-4562720	rus	Учитель физики как обычно опоздал на урок.
+4562720	rus	Учитель физики, как обычно, опоздал на урок.
 4562722	tur	Biz Tom'u yakaladık.
 4562723	dan	Der er intet tegn på liv på Mars.
-4562724	rus	Учительница физики как обычно опоздала на урок.
+4562724	rus	Учительница физики, как обычно, опоздала на урок.
 4562725	tur	O benden nefret ediyor.
 4562727	tur	Son bir saattir ağlıyorum.
 4562728	ber	Ur d-cligeɣ ara seg yirgazen asyawiyen.
@@ -34534,7 +34472,6 @@
 4563248	rus	Уберите их с глаз моих.
 4563249	ita	Noi siamo già dentro.
 4563250	epo	Ĉu ci deziras ion pli facila?
-4563251	epo	Ĉu vi deziras ion pli facila?
 4563252	epo	Li ne respondis al mi.
 4563253	epo	Bela estonteco okazos al ci.
 4563254	ita	Non è durata molto.
@@ -40293,7 +40230,7 @@
 4569583	por	A tireoide é uma pequena glândula que regula o metabolismo.
 4569584	ita	La tiroide è una piccola ghiandola che regola il metabolismo.
 4569585	fra	Je suppose que ce bureau fera l'affaire jusqu'à ce que l'on puisse en obtenir un nouveau.
-4569586	epo	Esperi kaj esperegi  faras el homoj stultulojn.
+4569586	epo	Esperi kaj esperegi faras el homoj stultulojn.
 4569587	por	Ninguém pôde acreditar.
 4569588	ita	Rallenta!
 4569589	ita	Rallenti!
@@ -49998,3 +49935,66 @@
 4580121	hun	Nincs több kenyerünk.
 4580123	tur	Boston hakkında konuşalım.
 4580124	ita	Ma che noia!
+4580125	khm	សុខសប្បាយអត់ ?
+4580126	tur	Başka bir oyun oynayalım.
+4580127	tur	Duygusal olmayalım.
+4580128	tur	Senin görüşünü dinleyelim.
+4580129	tur	Bir yere gidelim, Tom.
+4580130	tur	Ölüm hakkında konuşalım.
+4580131	tur	Bunu bitirelim, Tom.
+4580132	tur	Bunu birlikte yapalım.
+4580133	ita	C'è qualcosa che non fai?
+4580134	ita	C'è qualcosa che non fa?
+4580135	ita	C'è qualcosa che non fate?
+4580136	tur	İş hakkında konuşalım.
+4580137	tur	Bunun hakkında konuşalım.
+4580138	tur	Onun hakkında konuşalım.
+4580139	tur	Kahve için duralım.
+4580140	tur	Bununla başlayalım.
+4580141	tur	Onunla başlayalım.
+4580142	tur	Heyecanlanmayalım.
+4580143	tur	Bunu kısa yapalım.
+4580144	tur	Bunu hızlı yapalım.
+4580146	tur	Eve gidelim, lütfen.
+4580147	tur	Tom hakkında konuşalım.
+4580149	tur	Odayı terk edelim.
+4580150	tur	Sadece burada kalalım.
+4580151	tur	Sadece sakin kalalım.
+4580152	tur	Sadece yavaşlayalım.
+4580153	tur	Sadece içeriye girelim.
+4580154	tur	Senin planını duyalım.
+4580155	deu	Trag's mit Fassung!
+4580157	tur	Okul pazartesi günü açılacak.
+4580158	tur	Tom spor çantasını açtı.
+4580159	tur	Şarabı açalım.
+4580160	epo	La sola maniero por havi amikon, estas esti amiko.
+4580161	nld	De enige manier om een vriend te hebben, is een vriend te zijn.
+4580162	tur	Bütün bavullarımı açtım.
+4580163	tur	Buzdolabı kapısı açıktı.
+4580164	tur	Tom'un gözleri açık.
+4580165	tur	Neden kapı açık?
+4580166	tur	Tom beslenme çantasını açtı.
+4580167	tur	Açık bilet alalım.
+4580168	tur	Kapıyı açık bırakır mısın?
+4580169	tur	Bu mağaza pazar günleri açık mı?
+4580172	tur	Bavulumu açmak zorunda kaldım.
+4580173	tur	Ön kapı açılmayacak.
+4580174	tur	Tom kapıyı açamadı.
+4580175	ita	Noi siamo arrivati qui tre giorni fa.
+4580176	ita	Siamo arrivate qui tre giorni fa.
+4580177	ita	Noi siamo arrivate qui tre giorni fa.
+4580178	tur	Dolap kapısı açılmayacak.
+4580179	tur	Ben bir hesap açmak istiyorum.
+4580180	tur	Bütün kutuları açtın mı?
+4580181	tur	Bu şişeyi açamıyorum.
+4580182	tur	Tom ön kapıyı açık bıraktı.
+4580183	tur	Biz bu mağazayı 2013'te açtık.
+4580184	ita	Tom è piuttosto capriccioso.
+4580185	tur	O, pencereyi açmamı istedi.
+4580187	tur	Tom kutuyu açtı ve içine baktı.
+4580188	tur	Tom ön kapının açık olduğunu fark etti.
+4580189	tur	Kapıyı açık bırakmıyorum.
+4580191	tur	Bunu açmayacağım.
+4580192	tur	Dükkan dokuzdan altıya kadar açık.
+4580195	tur	Tom daire kapısını açtı ve içeri girdi.
+4580196	ita	Mi hai chiesto un consiglio.

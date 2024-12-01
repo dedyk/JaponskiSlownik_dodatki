@@ -1,8 +1,3 @@
-315943	eng	She stood up to answer the phone.
-315944	eng	She covered the mouthpiece of the phone with her hand.
-315945	eng	She asked me whether she could use the telephone.
-315946	eng	She used to wash her hair before going to school.
-315947	eng	She saw many animals on the way.
 315948	eng	She was at her wit's end.
 315949	eng	She left the country to get work in the town.
 315950	eng	She pictured to herself imagined city life.
@@ -9208,6 +9203,7 @@
 326273	eng	A man has free choice to begin love, but not to end it.
 326274	eng	Love, being jealous, makes a good eye look asquint.
 326275	eng	Love is a sickness full of woes, All remedies refusing.
+326276	eng	Love is by nature blind.
 326277	eng	Love is blind. Hatred is also blind.
 326279	eng	Falling in love is one thing; getting married is another.
 326281	eng	Love is like the measles; we all have to go through it.
@@ -9597,7 +9593,7 @@
 326710	eng	I was asked, "You OK, kid?". I replied, "Fine."
 326711	eng	"I'm not sleeping. I'm always just skiving off." "That way's even worse!"
 326712	eng	"Well he looks odd on the surface ... but he's even odder on the inside." "You're really not helping me there."
-326713	eng	"Well, that is, it's not something I can boast of," in fact it's not something I can talk unashamedly about in public.
+326713	eng	Well, that is, it's not something I can boast about. In fact, it's not something I can talk about in public without shame
 326714	eng	"Look! Thanks to you I'm getting dumped all the time." "Oh? Isn't it just because of your everyday behaviour?"
 326715	eng	"No, not so much. At most comparing sizes, telling dirty stories." "Sizes of what?" "Of 'that'."
 326716	eng	"Ha-ha-ha-hah! Don't worry!" I brazenly bluffed.
@@ -34557,7 +34553,7 @@
 352225	pol	Przyjechał autobusem czy pociągiem?
 352226	pol	Wyglądała, jakby chorowała przez długi czas.
 352227	pol	Była tak miła i pożyczyła mi sporo pieniędzy.
-352228	deu	Sobald sie die Nachricht gehört hat, ist sie in Tränen ausgebrochen.
+352228	deu	Kaum dass sie die Nachricht gehört hatte, brach sie in Tränen aus.
 352229	pol	Jak głębokie jest to jezioro?
 352230	eng	As soon as she heard the news, she burst into tears.
 352231	pol	Chciałbym, by przestała palić.
@@ -36606,7 +36602,7 @@
 354331	fra	Les jeunes gens sont propres à céder à la tentation.
 354332	fin	En voi ajatella ketään muuta.
 354333	fin	Tämähän on hieno talo.
-354334	fra	Vous parlez un peu trop vite pour moi. Pourriez-vous parler un peu plus lentement s'il vous plaît ?
+354334	fra	Vous parlez un peu trop vite pour moi. Pourriez-vous parler un peu plus lentement, s'il vous plaît ?
 354335	fin	Annan hänelle toisen mahdollisuuden vain tämän kerran.
 354336	fra	Eh ? Elle pleure de joie ?
 354337	fin	Tätä väriä sanotaan "keskiyön siniseksi".
@@ -45694,7 +45690,7 @@
 363623	pol	Ten kwiat jest żółty, a inne są niebieskie.
 363624	pol	Nie stać mnie na nowy samochód.
 363625	pol	Na twoim miejscu postąpiłbym jak mówi.
-363626	pol	Zażądal podwyżki.
+363626	pol	Zażądał podwyżki.
 363627	pol	Jego ojciec je tam dwa razy w tygodniu.
 363628	pol	Kaoru pojechał do Stanów.
 363629	pol	Zbudowano go jakieś 500 lat temu.
@@ -49998,3 +49994,7 @@
 368063	pol	Dołączyłem plik Microsoft Excel.
 368064	pol	Australijczycy wyróżniają się w sporcie i rekreacji.
 368065	deu	Die Boxen haben einen guten Klang.
+368066	jpn	そのボックス型スピーカーは響きが良い。
+368067	jpn	彼女の美しい声は耳にとても心地よく響いた。
+368068	deu	Ihre schöne Stimme war sehr angenehm fürs Ohr.
+368069	deu	Er ist eine Person von beträchtlichem Einfluss.

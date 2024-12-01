@@ -1,72 +1,3 @@
-5010199	tur	Tom üç puanla kazandı.
-5010200	mar	हा दरवाजा आहे. तुम्ही याचा वापर कराल अशी माझी अपेक्षा आहे.
-5010201	mar	मी माझे कान झाकले.
-5010202	deu	Man sagt immer, die Lebenszeit ist kurz, allein der Mensch kann viel leisten, wenn er sie recht zu benutzen weiß.
-5010203	tur	Tom bizi hayal kırıklığına uğratmayacak.
-5010204	tur	Tom'un kız kardeşi bir rahibe.
-5010205	ita	La transazione è fallita.
-5010206	tur	Yoğun bir hafta sonu geçirdik.
-5010207	tur	Kazanacağımıza dair iyi bir şans var.
-5010208	ita	Speriamo di ritrovarla dopo!
-5010209	ita	Ho lasciato la bici fuori!
-5010210	tur	İyi bir kazanma şansımız var.
-5010211	ita	Se leggo certe cose non mi trattengo!
-5010212	tur	Bizim başka borcumuz yok.
-5010213	tur	Bizim bir yılımız daha var.
-5010214	ita	Meno male che c'è gente che capisce qualcosa.
-5010215	tur	Bizim bol miktarda yerimiz var.
-5010216	tur	Aynı amaca sahibiz.
-5010217	deu	Nur wo du klar ins holde Klare schaust, dir angehörst und dir allein vertraust, dorthin, wo Schönes, Gutes nur gefällt, zur Einsamkeit! Da schaffe deine Welt!
-5010218	ita	Voglio essere in grado di leggere il francese.
-5010219	ita	Io voglio essere in grado di leggere il francese.
-5010220	tur	Onların üçüne sahibiz.
-5010221	ita	Molti pipistrelli vivono in questa grotta.
-5010222	ita	Molti pipistrelli vivono in questa caverna.
-5010223	tur	Bizim çok fazla borcumuz var.
-5010224	tur	Henüz bize söylenmedi.
-5010225	ita	Questi sono i rimpianti?
-5010226	ita	Questi sono i rimpianti.
-5010227	tur	Biz sadece kazanmak istedik.
-5010228	ita	Sono questi i rimpianti peggiori.
-5010229	tur	Tom'un yeteneği olduğunu biliyorduk.
-5010230	ita	Sono questi i rimpianti peggiori?
-5010231	ita	Io ne ho veramente pochi di rimpianti.
-5010232	tur	Bunun bir güçlük olduğunu biliyoruz.
-5010233	tur	Bunun ne anlama geldiğini biliyoruz.
-5010234	deu	Früh zu Bett und früh heraus!
-5010235	eng	How can we refuse?
-5010236	eng	It isn't that easy.
-5010237	eng	It rained that day.
-5010238	eng	It really was hard.
-5010239	eng	It sure looks cool.
-5010240	eng	It turned out fine.
-5010241	eng	It's a lovely idea.
-5010242	eng	It's kind of scary.
-5010243	eng	It's not so simple.
-5010244	eng	Let's not be naive.
-5010245	eng	Tom knows the area.
-5010246	eng	Who exactly is Tom?
-5010247	eng	Why is it my fault?
-5010248	eng	Tom may never leave.
-5010249	eng	We still have to go.
-5010250	eng	It's Tom's own fault.
-5010251	eng	It's been very quiet.
-5010252	eng	Tom manages a hotel.
-5010253	eng	We need Tom out here.
-5010254	eng	We respect Tom a lot.
-5010255	eng	When's your bedtime?
-5010256	eng	It was no coincidence.
-5010257	eng	It's not that bad yet.
-5010258	ita	Non voglio mica rovinarmi il finale!
-5010259	ita	Dobbiamo ancora andare.
-5010260	ita	Noi dobbiamo ancora andare.
-5010262	ita	Perché è colpa mia?
-5010263	ita	Chi è esattamente Tom?
-5010264	ita	Tom conosce la zona.
-5010266	ita	Ha piovuto quel giorno.
-5010267	ita	Come possiamo rifiutare?
-5010268	tur	Biz Tom'u gayet güzel seviyoruz.
-5010269	ita	Non andare da nessuna parte senza di loro.
 5010270	ita	Non andate da nessuna parte senza di loro.
 5010271	tur	Biz onu sabırsızlıkla bekliyoruz.
 5010272	ita	Non vada da nessuna parte senza di loro.
@@ -693,7 +624,7 @@
 5010973	rus	Вы не могли бы подойти на минутку?
 5010974	rus	Ты не мог бы подойти на минутку?
 5010975	rus	Ты не могла бы подойти на минутку?
-5010976	epo	Ĉu vi bonvolas havigi al mi vian stirpermeson.
+5010976	epo	Ĉu vi bonvolas havigi al mi vian stirpermeson?
 5010977	epo	Mi povis nur enamiĝi al vi.
 5010978	rus	Ты не подойдёшь на минутку?
 5010979	rus	Ты можешь подойти на минутку?
@@ -914,7 +845,7 @@
 5011224	rus	Том не очень-то любит собак.
 5011225	epo	Dankon pro la intervjuo.
 5011226	tur	Erkek sünnetinin uygulaması farklı kültürler arasında paralel olarak gelişmiştir.
-5011228	epo	Ĉu vi povas elpensi, kial tio povus esti tiel.
+5011228	epo	Ĉu vi povas elpensi, kial tio povus esti tiel?
 5011229	epo	Tomo ŝajne ne memoris Manjon.
 5011230	eng	The Easter Egg Roll is an annual event that is held on the lawn of the White House each Easter Monday.
 5011231	epo	Ambaŭ miaj gepatroj ankoraŭ vivas.
@@ -5831,7 +5762,7 @@
 5016505	epo	Super la rando de latbarilo mi povis vidi nur la ĉielon.
 5016506	hun	A léckerítés pereme fölött csak az eget láthattam.
 5016507	epo	La ture alta filo de la najbaro helpis subpreni la katidon de la arbo.
-5016508	hun	A szomszéd hórihorgas fia segített levenni a kiscicát a fától.
+5016508	hun	A szomszéd hórihorgas fia segített levenni a kiscicát a fáról.
 5016509	fin	Saksa on Euroopan talousveturi.
 5016510	tur	Bir şişe bira ne kadar?
 5016511	epo	Ekskuo signis, ke la vagonaro ekiris.
@@ -5939,7 +5870,7 @@
 5016616	epo	Kun enorma ekscitiĝo mi atendis la leterportiston.
 5016617	tur	O onu onunla dışarıda konuşmaya çalıştı.
 5016618	hun	Roppant izgatottan vártam a postást.
-5016619	epo	La pasaĝeroj stampede forlasantaj la trajnon rapide plenis la kajon.
+5016619	epo	La pasaĝeroj stampede forlasantaj la trajnon rapide plenigis la kajon.
 5016621	hun	A vonatból kitóduló utasok gyorsan megtöltötték a peront.
 5016622	epo	Sen ajna dubo, ŝi estas, kiu atendas min.
 5016623	hun	Semmi kétség, ő az aki vár engem.
@@ -9455,7 +9386,7 @@
 5020454	deu	Als er mich sah, rannte er sofort weg.
 5020455	hun	A gátszakadás után az örvénylő áradat mindent sodort magával.
 5020456	deu	Als er mich sah, lief er sofort weg.
-5020457	epo	Ĉu vi demandis pri tiu krisple bukla knabino?
+5020457	epo	Ĉu vi demandis pri tiu krispe bukla knabino?
 5020458	hun	Arról a göndör fürtű leányról kérdeztél?
 5020459	epo	Strebu konduti al la majstro plaĉe.
 5020460	hun	Igyekezz kezére járni a mesternek.
@@ -10627,7 +10558,7 @@
 5021699	epo	Mi ŝatas vidi la reagon de homoj, kiam mi diras al ili, kiu mi estas.
 5021702	spa	Estábamos un poco cansados.
 5021703	tur	Ağaç yaşken eğilir.
-5021705	epo	Kio estas tiu strangaĵo en de vangoj de via hundo?
+5021705	epo	Kio estas tiu strangaĵo en la vangoj de via hundo?
 5021706	ukr	Ми живемо біля пляжу.
 5021707	epo	Kio estas tiu strangaĵo en de buŝego de via hundo?
 5021708	tur	Eski köye yeni adet getiremezsin.
@@ -18935,7 +18866,7 @@
 5030735	spa	¿Qué tiene en la cartera?
 5030736	por	Era minha responsabilidade.
 5030737	hun	Hirtelen falfehérré vált az arca.
-5030738	epo	Mi restas nur unu objekto, kaj nur unu, kaj tiu aĵo estas klaŭno. Tio lokigas min sur multe pli alta ebeno ol iu ajn politikisto.
+5030738	epo	Mi restas nur unu objekto, kaj nur unu, kaj tiu aĵo estas klaŭno. Tio lokas min sur multe pli alta ebeno ol iu ajn politikisto.
 5030739	por	Eu aprendi muito sobre Boston.
 5030740	hun	Munkanap van ma.
 5030741	por	Como você e o Tom se conheceram?
@@ -21054,7 +20985,7 @@
 5033077	hun	Az asszisztens széles pólyával kötözte be a sérült kerékpáros karját.
 5033078	jpn	君みたいによく冒険してたけど、ある時矢で膝を怪我したんだ。
 5033079	epo	Tomo nevole reiris al sia dormoĉambro.
-5033080	epo	Sur multe da domoj havas ruĝtegolan tegmenton.
+5033080	epo	Multe da domoj havas ruĝtegolan tegmenton.
 5033081	hun	Sok házon van piros cseréptető.
 5033082	epo	Kia estas via nova posteno?
 5033083	epo	Hodiaŭ estas pli friska la vetero.
@@ -21248,7 +21179,7 @@
 5033316	spa	Él sintió que estaba siendo usado.
 5033317	spa	No podemos cometer más errores.
 5033318	spa	Tom y yo estábamos ocupados.
-5033319	epo	Tomo klinis sin, sajnigante laĉi iun el siaj ŝuoj.
+5033319	epo	Tomo klinis sin, ŝajnigante laĉi iun el siaj ŝuoj.
 5033320	spa	Eres como tu hermana.
 5033321	spa	La vaca hace "muuu" y el gato "miau".
 5033323	epo	Tomo kaj Manjo geedziĝis je Valentena tago.
@@ -27390,7 +27321,7 @@
 5040340	ara	يفهم توم المخاطر.
 5040341	rus	Том прислонил ухо к стене.
 5040343	epo	Tio estas tre malrapida proceso.
-5040344	epo	Tio estas metodo kio funkcias.
+5040344	epo	Ĝi estas metodo, kiu funkcias.
 5040345	epo	Tio estas amuza rakonto.
 5040346	epo	Tio funkciis sufiĉe bone.
 5040347	por	É definitivamente possível.
@@ -31322,7 +31253,7 @@
 5044862	ita	Io sono terribilmente nervoso per tutto.
 5044863	hun	Egyre többen igyekeznek kihasználni a médium interaktív természetét.
 5044864	ita	Sono terribilmente nervosa per tutto.
-5044865	epo	Bonvolu scii min, se vi havos la plej etan demandon.
+5044865	epo	Bonvolu sciigi min, se vi havos la plej etan demandon.
 5044866	ita	Io sono terribilmente nervosa per tutto.
 5044867	rus	Я ещё не уверена, нравлюсь ли я ему.
 5044868	ukr	Хелен вийшла на наступній зупинці.
@@ -32978,7 +32909,7 @@
 5046632	mar	तिला सांग मी थकलेय.
 5046633	mar	तिला सांगा मी थकलोय.
 5046634	mar	तिला सांगा मी थकलेय.
-5046635	epo	Min ne scias, kiel helpi Tomon.
+5046635	epo	Mi ne scias, kiel helpi Tomon.
 5046636	epo	Vi kriadis.
 5046637	mar	हे डिझनीलँड नाही आहे.
 5046638	epo	Jen kion diris mia panjo.
@@ -41678,7 +41609,7 @@
 5055987	mar	त्या अडकल्या.
 5055988	mar	ते अडकून गेले.
 5055989	mar	त्या अडकून गेल्या.
-5055990	epo	Hieraŭ mi kolektis kvar cent gramojn da ursa ajlo.
+5055990	epo	Hieraŭ mi kolektis kvarcent gramojn da ursa ajlo.
 5055991	mar	मी इथेच राहतो व काम करतो.
 5055992	hun	Csak azt szeretném tudni, ki találta ki a telet és a hideget.
 5055993	mar	इथे मी राहतो व काम करतो.
@@ -45838,7 +45769,7 @@
 5060557	epo	Vi estas ambicia.
 5060558	slk	Predal som knihu.
 5060559	epo	Ni batis niajn virinojn.
-5060560	epo	Ni ne povas esti certaj pri tio, ĉu ne?
+5060560	epo	Ni ne povas esti certaj pri tio, ĉu?
 5060561	tur	Bu güzel havanın süreceğini umuyorum.
 5060562	tur	Bu güzel havanın devam edeceğini umuyorum.
 5060563	epo	Mi legas la gazeton ĉiutage, tial mi plu restas ligita kun la okazantaĵoj.
@@ -49998,3 +49929,72 @@
 5065285	epo	Ŝajnas al mi, ke boracasli uzas duan konton.
 5065286	ita	Sono nato il 30 aprile.
 5065287	ita	Io sono nato il 30 aprile.
+5065288	ita	Ti fidi di lui?
+5065289	ita	Tu ti fidi di lui?
+5065290	ita	Si fida di lui?
+5065291	ita	Lei si fida di lui?
+5065293	ita	Vi fidate di lui?
+5065294	ita	Voi vi fidate di lui?
+5065295	ita	Tu ti fidi di lei?
+5065296	ita	Si fida di lei?
+5065297	ita	Vi fidate di lei?
+5065298	ita	Voi vi fidate di lei?
+5065299	rus	Сможешь ли ты когда-нибудь простить меня?
+5065300	rus	Спасибо всем, кто переводит мои предложения.
+5065301	epo	Mi estis ege afliktita de la malgajaj novaĵoj.
+5065302	fra	Tu es né le 30 avril.
+5065303	rus	Никто не сможет заменить Тома.
+5065304	fra	Vous êtes né le 30 avril.
+5065305	hun	Megfogta és szorosan markolta a kezemet.
+5065306	epo	Mi faris ion malbonan.
+5065307	epo	Mi jam povas senti mian pulson plirapidiĝi.
+5065308	epo	Kial vi estis en prizono?
+5065309	rus	Вы намерены увеличить налог на наследство?
+5065310	epo	Kie situas la plej proksima metrostacio?
+5065311	rus	Удалите мне, пожалуйста, все зубы мудрости.
+5065312	fra	Où se trouve la station de métro la plus proche ?
+5065313	rus	Я хотел бы избавиться от своего двойного подбородка.
+5065314	rus	Ну так что, ты там переводишь или ворон считаешь?
+5065315	rus	Ладно, на сегодня всё.
+5065316	rus	Сестра, не упускайте из виду этого пациента.
+5065317	epo	Kion vi volas, ke ni faru reage al tio?
+5065318	epo	Mi pardonpetas, se mi ĝenis vin.
+5065319	tur	Hiç kimse görünürde değil.
+5065321	rus	Я безоружен.
+5065322	tur	Ben bu gömleği sevmiyorum. Lütfen bana başka bir tane gösterin.
+5065323	tur	Eğer onlar doktorun tavsiyesini aldıysa ölmemiş olabilirler.
+5065324	epo	Mi devigis vin ĉeesti kaj atenti.
+5065325	hun	Egy általunk támogatott szakéfőző-üzem egy újfajta édesszakét hozott létre, és küldött nekünk egy kóstolót.
+5065326	rus	Сегодня и здесь творится история.
+5065327	tur	Tom'un yolunu kapatmayalım.
+5065328	tur	Tom'un yolunun üzerinde durmayalım.
+5065329	epo	Mi povas fari tion sola.
+5065330	tur	Tom'un yolundan çekilelim.
+5065331	tur	Büyük izleyici şarkının sonunda alkışladı.
+5065332	epo	Oni ja vidas, ke temas pri la unua fojo.
+5065333	epo	Kial la homoj tinkturas al si la harojn?
+5065334	tur	O aptal olacaktı.
+5065335	tur	Buna inanmanın zor olduğunu biliyorum.
+5065336	epo	Tio estas granda instalaĵo.
+5065337	tur	Söylediğini anlıyorum.
+5065338	tur	Matematiği İngilizce çalıştığımdan daha ciddi çalışıyorum.
+5065339	deu	Hast du Magenschmerzen?
+5065340	epo	Vi antaŭmendis sidlokon.
+5065341	epo	Li diras unu mensogon post alia.
+5065342	heb	מעודי לא עשיתי שום דבר אימפולסיבי.
+5065343	heb	מעולם לא עשיתי שום דבר המבוסס על דחף פתאומי.
+5065344	epo	Ŝi ŝatintus disponi pli da tempo.
+5065345	heb	תום צרכן אימפולסיבי.
+5065346	heb	התמנון כרך את עצמו מסביב לטרף.
+5065347	epo	Tomo kaj Manjo vizitis naturistan klubon.
+5065348	heb	אינך יכול לערוק לארץ אחרת אם אינך מסוגל לנסוע לשם.
+5065349	heb	הוא ערק לברה"מ בשנות החמישים.
+5065350	heb	היא צריכה להיות מרכז העניינים כל הזמן.
+5065351	epo	Ili estas nur direktivoj, ne rigoraj reguloj.
+5065352	heb	יש לי צו בית משפט לערוך חיפוש במקום.
+5065353	heb	יכולנו לשמוע פסיעות חורקות על החצץ.
+5065354	epo	Rusio spertas grandajn financajn malfacilaĵojn.
+5065355	heb	המרצה נכנס ביהירות לאולם ההרצאות.
+5065356	heb	הוא שוטט בפרק תוך כדי שהוא שורק להנאתו פזמון אותו למד בנעוריו.
+5065357	epo	Vi rigardis viajn dezirojn realaĵoj.
+5065358	epo	Kunprenu viajn aferojn, ni foriras.
