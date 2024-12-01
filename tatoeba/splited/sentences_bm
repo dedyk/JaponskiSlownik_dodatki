@@ -1,22 +1,3 @@
-2011521	eng	Tom wants you badly.
-2011522	eng	Tom wants you fired.
-2011523	eng	We want to help Tom.
-2011524	eng	We want to help you.
-2011525	eng	We want to hire you.
-2011526	eng	We want to know why.
-2011527	eng	We want to meet Tom.
-2011528	eng	We want you to stop.
-2011529	eng	We wanted to listen.
-2011530	eng	When do you want it?
-2011531	eng	Who wants to see me?
-2011532	eng	Who wants us killed?
-2011533	eng	Why did Tom want it?
-2011534	eng	Why do they want me?
-2011535	eng	Why do you want Tom?
-2011536	eng	You don't want that.
-2011537	eng	You don't want this.
-2011538	eng	You might want this.
-2011539	eng	Do you want a doctor?
 2011540	eng	Do you want a lawyer?
 2011541	eng	Do you want me to go?
 2011542	eng	Do you want to leave?
@@ -1027,7 +1008,7 @@
 2012578	heb	זה היה עכבר.
 2012579	rus	Я собираюсь пойти и получить свои водительские права.
 2012580	heb	לממשל האמריקני יש שלוש רשויות: הרשות המבצעת, הרשות המחוקקת, והרשות השופטת.
-2012581	lvs	Tas bija pele.
+2012581	lvs	Tā bija pele.
 2012582	heb	לממשל האמריקני שלוש רשויות: הרשות המבצעת, הרשות המחוקקת והרשות השופטת.
 2012583	rus	Темнеет. Вы включите свет?
 2012584	heb	אני גר בדירה.
@@ -1658,7 +1639,7 @@
 2013250	epo	Ni nur volas paroli kun Tom.
 2013251	tur	Hava nemli.
 2013252	epo	Ni nur volas esti kune.
-2013253	epo	Ni nur volas rehavi nian monon.
+2013253	epo	Ni volas nur rehavi nian monon.
 2013254	epo	Ni volas eviti akcidenton.
 2013255	tur	Çocuk hoştur.
 2013256	epo	Ni ne volis maltrankviligi vin.
@@ -4500,7 +4481,7 @@
 2016487	epo	Ni ne devos aldoni artefaritajn substancojn al nia manĝaĵo.
 2016488	epo	Mi volas aldoni novajn lingvojn al mia resumo.
 2016489	eng	I didn't mean it like that.
-2016490	epo	Mi volis aldoni je Mary kiel amikinon en Facebook.
+2016490	epo	Mi volis aldoni Manjon kiel amikinon en Facebook.
 2016491	deu	Lügst du mich an?
 2016492	deu	Sie gab immer vor, nur eines seiner Opfer gewesen zu sein.
 2016493	fra	Je ne voulais pas le dire dans ce sens.
@@ -8291,7 +8272,7 @@
 2020503	epo	Ĉu ne estas io, kion vi volas diri?
 2020504	eng	She's unbelievably stupid.
 2020505	heb	הקריירה שלה בסכנה.
-2020506	epo	Ĉu estas tio, kion vi volas ke mi diru al Tom?
+2020506	epo	Ĉu estas tio, kion vi volas, ke mi diru al Tomo?
 2020507	heb	הקריירה שלה תלויה על חוט השערה.
 2020508	epo	Se vi volas kisi min, kisu min.
 2020509	eng	Koalas are cute.
@@ -10755,7 +10736,7 @@
 2023171	epo	Ĝi trafis min surprize.
 2023172	ita	Ho bisogno delle chiavi della macchina.
 2023173	ita	Io ho bisogno delle chiavi della macchina.
-2023174	epo	Vi ne vere liberigontas vin de via klasiak aŭto, ĉu?
+2023174	epo	Vi ne vere liberigontas vin de via klasika aŭto, ĉu?
 2023175	epo	Vi ne vere kondukontas la aŭton de Tom, ĉu?
 2023176	epo	Vi ne vere aĉetontas la malnovan traktoron de Tom, ĉu?
 2023177	epo	Li rulis siajn okulojn.
@@ -16738,7 +16719,7 @@
 2029537	spa	Si no eres capaz de hacer las paces contigo mismo, ¿cómo las vas a hacer con los demás?
 2029538	epo	Tom ne volas manĝi en tiu restoracio.
 2029539	fra	La monnaie du Vietnam c'est le dong. Son symbole c'est le "₫".
-2029540	epo	Tom ne volas est vidita, dum li parolas kun vi.
+2029540	epo	Tomo ne volas esti vidata, dum li parolas kun vi.
 2029541	fra	Il est bien connu que dire un numéro de téléphone à voix haute facilite sa mémorisation.
 2029542	epo	Tom ne volas, ke mi vidu, kion li faras.
 2029543	epo	Tom ne volis havi iun rilaton al tio, kio okazis.
@@ -16969,7 +16950,7 @@
 2029778	tur	Bütün gece ayaktaydım.
 2029779	tur	Tom'u görmeye gittim.
 2029780	epo	Malmultaj foriris de la lernejo, kaj nur unu novulo envenis en la klason.
-2029781	epo	Mi ŝatus, ke vi atendu kun Tom en la lobio.
+2029781	epo	Mi ŝatus, ke vi atendu kun Tomon en la enirhalo.
 2029782	tur	Orada kalacağım.
 2029783	tur	Keşke daha fazla şeye sahip olsam.
 2029784	epo	Jam de pli ol unu jaro Karolina ne plu sidis apud Karlo.
@@ -18235,7 +18216,7 @@
 2031111	swe	Min bror är lika lång som jag.
 2031112	fra	Je ne peux vous l'expliquer maintenant.
 2031114	swe	Bilal är utbildad.
-2031115	epo	Ĉu eblas eliĝi ondo el la mikroondaj fornoj?
+2031115	epo	Ĉu eblas, ke ondo eliĝas el la mikroondaj fornoj?
 2031116	fra	Ses dents furent blanches.
 2031117	fra	Ses dents ont été blanches.
 2031118	swe	Jag tror att jag äntligen ska pensionera mig.
@@ -21985,7 +21966,7 @@
 2035121	epo	Mi amas mian patrinon, kaj ŝi amas min.
 2035122	epo	Tio kostas proksimume tridek eŭrojn.
 2035123	epo	La ŝtelinto forkuris, kiam ŝi vidis la policiston.
-2035124	epo	Tom espezis nur tri dolarojn por sia tagmanĝo.
+2035124	epo	Tomo elspezis nur tri dolarojn por sia tagmanĝo.
 2035126	epo	Mi igis mian filon prepari la vespermanĝon.
 2035128	rus	От перемены мест слагаемых сумма не меняется.
 2035129	pes	او میخواهد که فورا دوبا ره جبران کنم.
@@ -25595,7 +25576,7 @@
 2038994	fra	Il m'a plaquée.
 2038995	fra	Il m'a laissée tomber.
 2038996	tur	Beni tanımıyorsun.
-2038997	epo	Patrino ne estis preparanta la vespermanĝon.
+2038997	epo	Nia patrino ne estas preparinta la vespermanĝon.
 2038998	fra	Elle est vraiment adorable.
 2038999	fra	Ma nana me manque vraiment.
 2039000	fra	Ma copine me manque vraiment.
@@ -27614,7 +27595,7 @@
 2041158	epo	En kiu lernejo vi diplomitiĝis?
 2041159	nld	Een vreemde sprak mij aan op de bus.
 2041160	epo	Ĉi tiu knabino venas el Japanujo.
-2041161	epo	Kiam konstruiĝis tiu preĝejo?
+2041161	epo	Kiam konstruiĝis ĉi tiu preĝejo?
 2041162	nld	Dit meisje komt van Japan.
 2041163	fra	Soyez plus gentil avec votre sœur.
 2041164	fra	Soyez plus gentille avec votre sœur.
@@ -28228,7 +28209,7 @@
 2041832	ita	Io non dissi nulla.
 2041833	ita	Non potrei mentirti.
 2041834	ita	Io non potrei mentirti.
-2041835	epo	Mi ekinteresiĝis pri legado kiam mi estis 9jara.
+2041835	epo	Mi ekinteresiĝis pri legado kiam mi estis 9-jara.
 2041836	ita	Non potrei mentirvi.
 2041837	heb	טביעות האצבעות היחידות שהמשטרה מצאה על ידית הדלת היו של תום.
 2041838	epo	Mi ekinteresiĝis pri legado kiam mi estis 9jaraĝa.
@@ -32265,7 +32246,7 @@
 2046111	fra	J'aimerais y réfléchir.
 2046112	fra	Je te crois sur parole.
 2046113	fra	Je vous crois sur parole.
-2046114	fra	Est-ce que je pourrais avoir une paille s'il vous plaît ?
+2046114	fra	Est-ce que je pourrais avoir une paille, s'il vous plaît ?
 2046115	fra	Jetez un coup d'œil à ce rapport.
 2046116	hin	ब्रायन की कहानी सुन कर केट चौक गई।
 2046117	deu	Ist die Tomate eine Frucht oder ein Gemüse?
@@ -33161,7 +33142,7 @@
 2047070	spa	Tardó muchos años en construirse.
 2047071	epo	La aferoj fariĝis iom streĉaj pasintatempe.
 2047072	fra	Ils ont deux filles, qui sont toutes les deux devenues de célèbres pianistes.
-2047074	epo	Tom estas ĉi tie, sed li estas okupita momente.
+2047074	epo	Tom estas ĉi tie, sed li estas okupita ĉi-momente.
 2047075	por	As coisas tem sido um pouco mais ocupadas do que eu esperava.
 2047077	por	Estou simplesmente ocupado demais para comer agora.
 2047078	epo	Tom estas tro multe okupita por paroli kun vi hodiaŭ.
@@ -37488,7 +37469,7 @@
 2051707	rus	Оценивай людей не по внешнему виду, а по их поступкам.
 2051708	spa	Shangai tiene más habitantes que Suiza.
 2051709	spa	Esta ropa mía está pasada de moda.
-2051710	epo	Ŝanhajo havas pli da enloĝantoj ol Svislando.
+2051710	epo	Ŝanhajo havas pli da loĝantoj ol Svislando.
 2051711	epo	La temo "mediprotektado" estas ege aktuala kaj estonte perdos neniom da aktualeco.
 2051712	spa	Canta, por favor.
 2051713	spa	Me acosté temprano porque estaba cansado.
@@ -42267,7 +42248,7 @@
 2056759	rus	Он твой преподаватель?
 2056760	jpn	私のコンピューターから離れているように言ったはずだが。
 2056761	rus	Всё, что тебе нужно сделать, - это подмести пол.
-2056762	rus	Всё что вам нужно сделать, подмести пол.
+2056762	rus	Всё, что вам нужно сделать, - подмести пол.
 2056763	jpn	トムが行く予定の学校と同じところに行きたい。
 2056764	jpn	トムに今まで転職を考えたことがあるか聞きたかった。
 2056765	por	Você já tirou férias?
@@ -46414,7 +46395,6 @@
 2061509	spa	Tomé prestados tres libros de la biblioteca.
 2061510	spa	No me sorprende que fracasara.
 2061511	hun	Tartalékold az erődet.
-2061512	jpn	私は図書館から三本を借りました。
 2061513	spa	Tengo que llamar al médico.
 2061514	hun	Kíméld az erődet.
 2061515	hun	Takarékoskodj az energiáddal.
@@ -47841,7 +47821,7 @@
 2063125	heb	לנמר התחיל להימאס מחברבורותיו.
 2063126	heb	מסתבר שלבעלי מצפון אין תמיד גוף אנוש.
 2063127	eng	A sure friend is seen in an unsure matter.
-2063128	hun	A Berlin--Róma –Tokió tengely 1942-ben alakult ki.
+2063128	hun	A Berlin-Róma-Tokió tengely 1942-ben alakult ki.
 2063129	epo	La akso Berlino–Romo–Tokio ekestis en 1942.
 2063130	hun	A hónalj elsőként kezd izzadni.
 2063131	epo	La akselo aŭ subbrako ekŝvitas la unua.
@@ -49998,3 +49978,23 @@
 2065521	rus	Солдаты вооружены.
 2065523	epo	Soldatoj estas armitaj.
 2065582	eng	Numerous examples can be given.
+2065607	eng	Life without love is meaningless.
+2065609	eng	Life without love has no meaning.
+2065618	jbo	la tom cu djuno lo du'u mo'u klama ti ta'i makau
+2065619	jbo	ko bacru co tolcladu
+2065623	heb	אם היה לי כסף הייתי יכול לקנות את זה.
+2065624	jbo	ca'oku do jmive je cilre
+2065660	heb	כמה ילדים נכנסו לתוך הכיתה.
+2065670	lzh	夫民，神之主也，是以聖王先成民，而後致力於神。
+2065688	spa	¿Cómo lo conociste?
+2065692	spa	Tengo que preguntarte algo.
+2065693	spa	Tengo que preguntarle algo a Tom.
+2065694	spa	Tengo algo que preguntarle a Tom.
+2065696	spa	Tenía que mostrarle algo a Tom.
+2065697	spa	¿Pasó algo bueno?
+2065698	spa	¿Pasó algo más?
+2065699	spa	¿Ustedes huelen algo?
+2065701	spa	Creo que Tom sabe algo.
+2065703	spa	Creo que algo se está quemando.
+2065704	spa	Debería decirte algo.
+2065705	spa	Necesito preguntarte algo.

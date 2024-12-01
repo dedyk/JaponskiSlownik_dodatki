@@ -1,61 +1,3 @@
-4418509	mar	हा तुझा फोन आहे का?
-4418510	rus	Мост соединяет друг с другом два города.
-4418511	mar	हा तुमचा फोन आहे का?
-4418512	rus	Мост соединяет между собой два города.
-4418513	mar	मी माझा फोन बंद केला.
-4418514	mar	मी बिघडलेले फोन दुरुस्त करतो.
-4418515	rus	Потерянного времени не воротишь.
-4418516	mar	मी बिघडलेले फोन दुरुस्त करते.
-4418518	mar	तू त्यांना फोन केलास का?
-4418519	rus	Я бы хотел пойти.
-4418520	mar	तुम्ही त्यांना फोन केलात का?
-4418521	mar	तू तिला फोन केलास का?
-4418522	mar	तुम्ही तिला फोन केलात का?
-4418523	mar	मी त्यांना फोन करेन.
-4418524	ita	Gli iracheni erano circondati.
-4418526	rus	Мэри верила Тому.
-4418527	mar	मी तिला फोन करेन.
-4418528	rus	Мэри поверила Тому.
-4418529	mar	फोन पुन्हा वाजला.
-4418530	mar	तिला आता फोन करू नकोस.
-4418531	mar	तिला आता फोन करू नका.
-4418532	mar	तिला सध्या फोन करू नका.
-4418533	mar	तिला सध्या फोन करू नकोस.
-4418534	mar	आमचं फोनवर बोळणं झालं.
-4418535	rus	Оставь мне кусочек торта, а то мне надо идти.
-4418537	mar	मला तुमचा फोन नंबर द्या.
-4418538	mar	त्याने फोन ठेवून दिला.
-4418539	mar	त्यांनी फोन ठेवून दिला.
-4418540	rus	Том оставил дом своему сыну.
-4418541	mar	मी तुला नंतर फोन करेन.
-4418542	mar	मी तुम्हाला नंतर फोन करेन.
-4418543	mar	आपण पोलिसांना फोन केला पाहिजे.
-4418544	rus	Том не хотел, чтобы я его целовал.
-4418545	mar	आम्ही पोलिसांना फोन केला पाहिजे.
-4418546	rus	Том не хотел, чтобы я его целовала.
-4418547	mar	तुझा फोन नंबर काय आहे?
-4418548	mar	तुमचा फोन नंबर काय आहे?
-4418549	mar	माझा फोन नंबर ७८९ आहे.
-4418550	mar	मी फोनवर बोललो.
-4418551	mar	मी फोनवर बोलले.
-4418552	rus	Будьте добры, поторопитесь. Мы уже опаздываем.
-4418553	rus	Железный конь приходит на смену крестьянской лошадке.
-4418554	eng	Tom threw caution to the wind and booked a skydiving lesson.
-4418555	rus	Никто не должен так страдать.
-4418556	rus	Я нужен команде.
-4418557	rus	Не думаю, что Том согласится это сделать.
-4418558	epo	Ekstere la Bulonja Kongreso estis antaŭ ĉio festo propaganda. Tamen pri vastiĝo de la lingvo, la kunsidoj oficialaj okazigis interesan diskutadon.
-4418559	spa	La he hecho enfadarse.
-4418560	rus	Том отбросил сомнения и записался на прыжок с парашютом.
-4418561	por	Do lado de fora, o Congresso de Bolonha foi acima de tudo um festival de propaganda. As sessões oficiais, porém, produziram interessantes debates sobre a divulgação da língua.
-4418562	mar	मी झोपणारच होतो की इतक्यात त्याने मला फोन केला.
-4418563	eng	The crime scene was in a dilapidated motel.
-4418564	spa	Fue Tom quien descubrió la escena del crimen.
-4418565	spa	Dan dirigió a los investigadores hasta la escena del crimen.
-4418566	spa	Los participantes le acusaron de descuido.
-4418567	fra	Mon petit frère a demandé un peu d'argent.
-4418568	cbk	Ya pidí el de mío hermano diútay sen.
-4418569	spa	Mantén la puerta abierta.
 4418570	spa	Tom intentó besarme una vez.
 4418571	rus	Том хотел, чтобы я его поцеловал.
 4418572	pol	To tylko pobożne życzenie.
@@ -475,8 +417,8 @@
 4419003	aze	Onlar kəndi su ilə təmin etdilər.
 4419004	swe	"Mary, kunde du se efter Tom en halvtimme medan jag går till butiken?" "Jag är väl ingen barnflicka heller!"
 4419005	hun	Szemei az arcomat figyelték, hogy az igazat mondom-e.
-4419006	swe	Min svävare är full med ål
-4419007	swe	Min svävare är full med ålar
+4419006	swe	Min svävare är full med ål.
+4419007	swe	Min svävare är full med ålar.
 4419008	hun	Támogatlak, amíg csak élek.
 4419009	epo	Mi ne povas fari ion por Tomo.
 4419010	aze	Çay daşdı.
@@ -3997,7 +3939,7 @@
 4422709	hun	Indulás!
 4422710	hun	Figyeld!
 4422711	hun	Ez egy touchdown!
-4422712	hun	Váltságok egymást!
+4422712	hun	Váltsátok egymást!
 4422713	hun	Térdre!
 4422714	hun	Értettem.
 4422715	hun	Kérlek, menj vissza az irodába, mert sok munka vár rád!
@@ -9145,7 +9087,7 @@
 4428115	est	Mis on kõige kummalisem asi, mida sa kunagi söönud oled?
 4428116	epo	Ho Majstro, zorgu ke mi ne klopodu tiom por esti konsolata, kiom por konsoli.
 4428117	est	Ta vastus oli eitav.
-4428118	hun	Nem fogok hencengni az eredményemmel.
+4428118	hun	Nem fogok hencegni az eredményemmel.
 4428119	por	Não importa que, ajudando as pessoas, você possa ter dificuldades — ajude-as assim mesmo!
 4428120	epo	Ho Majstro, zorgu ke mi ne klopodu tiom por esti komprenata, kiom por kompreni.
 4428121	rus	Взгляни на эту книгу, эта страница просто супер!!
@@ -12670,7 +12612,7 @@
 4431878	hun	Én a legjobb szállodában akarok lakni.
 4431879	hun	Nagyon világos volt a szoba.
 4431880	rus	Вам придётся переехать.
-4431881	hun	Sajnos kedves barátom, nem vagyok jól.
+4431881	hun	Sajnos, kedves barátom, nem vagyok jól.
 4431882	hun	Ez aztán nekünk való!
 4431883	hun	Nem tudja, hogy rendelt szobát?
 4431884	hun	Ebben a szállodában nem rendelt szobát.
@@ -16581,7 +16523,7 @@
 4436048	por	Toda a força que um argumento possa ter se volta, redobrada, contra o argumentador, se este recorre ao insulto.
 4436050	hun	Ez itt a feleségem.
 4436051	hun	A bácsikám Spanyolország keleti részén él.
-4436054	hun	Az embereknek az életbe vetett hitük évről évre nő.
+4436054	hun	Az emberek várható élettartama évről évre nő.
 4436055	hun	Mit akarsz Tomnak adni?
 4436056	hun	Nem tudtam hogy.
 4436057	epo	La forto, kian povus havi iu argumento, tute duobligita sin turnas kontraŭ la diskutanto, se li uzas insulton.
@@ -23708,7 +23650,7 @@
 4443691	tur	Lütfen atlama.
 4443692	deu	Die Redaktion behält es sich vor, Kommentare zu kürzen.
 4443693	hun	Még csak ne is gondolj arra, hogy megölsz, te gyökér!
-4443694	epo	Ĉu tiu programo ankaŭ funkcias sub Windows XP?
+4443694	epo	Ĉu tiu programo funkcias ankaŭ sub Windows XP?
 4443695	tur	O, o kadar hızlı koştu ki ona yetişemedim.
 4443696	epo	La nebulo malhelpis lin vidi tre malproksimen.
 4443697	tur	Kendi ayakların üzerinde durmak bağımsız olmak anlamına gelir.
@@ -24571,7 +24513,6 @@
 4444605	fin	Jokin haisee palaneelle.
 4444606	rus	Мы пытаемся произвести на них впечатление.
 4444607	tur	Tom bir dilekte bulundu.
-4444608	epo	Neniu konas profunde sian propran gepatran lingvon.
 4444609	nld	Niemand kent zijn moedertaal door en door.
 4444610	fin	Hän otti kuvan koalasta.
 4444611	rus	Думаю, я произвёл на неё впечатление.
@@ -29325,10 +29266,10 @@
 4449712	srp	Mogao bih da budem osumnjičeni.
 4449713	srp	Mogao bih da pomognem.
 4449714	srp	Mogla bih da pomognem.
-4449715	srp	Moglo bi da bude oružije.
-4449716	srp	To bi moglo da bude oružije.
+4449715	srp	Moglo bi da bude oružje.
+4449716	srp	To bi moglo da bude oružje.
 4449717	srp	Moglo bi biti oružje.
-4449718	srp	To b moglo biti oružije.
+4449718	srp	To bi moglo biti oružje.
 4449719	srp	Mogao bih da pojedem konja.
 4449720	srp	Konja bih mogao da pojeden.
 4449721	srp	Mogla bih da pojedem konja.
@@ -31504,7 +31445,7 @@
 4452018	ita	Prestami la macchina e ti porterò al cinema.
 4452019	ukr	Це мені не заважає.
 4452020	epo	Tio estigas en mi abomenon.
-4452021	hun	Ő nyolc éves.
+4452021	hun	Ő nyolcéves.
 4452022	ukr	Мені однаково.
 4452023	rus	Некоторые люди пишут книги ради денег, а некоторые - для удовольствия.
 4452024	tur	Vandalizm yükselişte.
@@ -48554,7 +48495,7 @@
 4470240	tlh	SoSlI' DaparHa''a'?
 4470241	rus	Том больше месяца находился между жизнью и смертью.
 4470242	hun	Amit tudnod kell rólam az az, hogy a szokások rabja vagyok.
-4470243	epo	Mi kredas, ke ĉiu koncipiĝoj estas senmakulaj.
+4470243	epo	Mi kredas, ke ĉiuj koncipiĝoj estas senmakulaj.
 4470244	tur	Daha önce onu bir yerde gördüğüme eminim.
 4470245	epo	Mi ne estas sciencisto.
 4470246	tur	Onun için en iyisi ne olurdu?
@@ -49998,3 +49939,62 @@
 4471766	fra	Les colons sont ici pour vous enlever votre terre.
 4471767	fra	Les colons sont convaincus que cette terre leur appartient, alors qu'elle ne leur a jamais appartenu.
 4471768	fra	Ces colons croient en un dieu tribal qui leur a attribué cette terre rien qu'à eux.
+4471769	fra	Le dieu tribal des colons n'existe que pour servir leurs intérêts.
+4471770	fra	Le dieu auquel croient les colons est un dieu tribal, assassin, vengeur, assoiffé de sang et qui n'existe que pour servir leurs intérêts.
+4471771	fra	Les colons veulent justifier leurs actions criminelles au nom d'un dieu tribal qui n'existe que pour servir leurs intérêts.
+4471772	fra	Le dieu des colons est un dieu qui n'existe que pour "venger", dans ces territoires occupés, des injustices que leurs ancêtres ont subies dans d'autres pays.
+4471773	fra	Les fondateurs de cette idéologie raciste et colonialiste qui agit au nom de la religion ne croyaient même pas en Dieu.
+4471774	fra	Les fondateurs de cette idéologie raciste et colonialiste étaient des athées qui ont instrumentalisé la religion pour justifier la colonisation de cette terre.
+4471775	fra	Ces colons croient en un dieu injuste, raciste et colonialiste pour justifier leurs crimes abjects.
+4471776	fra	Toute cette terre a été colonisée au nom d'un dieu tribal qui n'existe que pour servir les vils intérêts colonialistes de colons venus des quatre coins du monde.
+4471777	fra	Il n'y a que les colons qui ont un "droit de retour" qui leur a été attribué par un dieu tribal, alors que les autochtones, chassés par la force il y a environ 70 ans, n'ont aucun droit de retour même au nom de la justice universelle.
+4471778	fra	Au nom d'un dieu assassin et vengeur qu'ils ont eux-même inventé, ces colons justifient toutes sortes de crimes abominables.
+4471779	fra	L'un des mythes fondateurs de cette idéologie colonialiste est un soi-disant "droit de retour" attribué par un dieu tribal à tous les membres de la "tribu" qui désirent coloniser cette terre et en chasser les habitants autochtones.
+4471780	fra	L'argument religieux est l'un des outils les plus efficaces qu'utilisent les partisans de cette idéologie raciste et colonialiste pour qu'ils justifient l'expulsion forcée de tous les autochtones des territoires occupés.
+4471781	fra	Les colons sont convaincus que c'est leur dieu tribal qui leur a attribué cette terre, c'est pourquoi ils justifient sans peine leurs crimes abjects contre les autochtones.
+4471782	fra	Ce que veulent réellement les colons, leur gouvernement ainsi qu'un grand nombre de ceux qui soutiennent leur idéologie colonialiste c'est d'expulser tous les autochtones par la force.
+4471783	spa	Te gusta Kawaguchi.
+4471784	spa	Me gusta el baklava.
+4471785	spa	Me gustan las películas.
+4471786	spa	A Ron le gusta el surf.
+4471788	spa	A Tom le gustan los ponis.
+4471789	spa	Le gusta la quinua.
+4471790	spa	Me gusta el ajedrez.
+4471791	spa	Le gusta el melón.
+4471793	spa	Todos querían a Tom.
+4471794	fra	Les soldats sont ici pour protéger les colons.
+4471795	fra	Les soldats sont ici pour veiller sur la sécurité des colons.
+4471796	spa	Todos quieren a Tom.
+4471797	spa	A todos les agradas.
+4471798	spa	Me gustan las galletas.
+4471799	fra	Ici, les soldats, aussi bien que les colons, ont le droit de tirer sur n'importe quel autochtone qu'ils jugent être une "menace" pour leur sécurité.
+4471800	spa	A Tom le gustó.
+4471801	spa	A Tom le gustaste.
+4471802	fra	L'armée est ici pour veilleur sur le bon avancement de la colonisation.
+4471803	fra	Les colons sont armés et ont le droit de tirer sur toute personne autochtone qu'ils jugent être une menace pour leur sécurité.
+4471804	spa	A Tom le gusta la aritmética.
+4471805	fra	Les colons tirent sur les autochtone avec la bénédiction de leur gouvernement.
+4471806	spa	A Tom le gusta el basquetbol.
+4471807	fra	Les colons commettent des actes abominables avec la bénédiction de l'armée et du gouvernement.
+4471808	spa	A Tom le gustan los juegos.
+4471809	spa	Ella le gusta a Tom.
+4471810	spa	Él le gusta a Tom.
+4471811	spa	A Tom le gusta.
+4471812	tur	Bunun gerçek olduğuna emin misin?
+4471813	spa	A Tom le gusta el jazz.
+4471814	spa	A Tom le gusta la langosta.
+4471815	fra	Les colons ont le droit de tirer sur les autochtones, mais si jamais les autochtones tirent sur les colons, c'est l'armée du gouvernement colonial qui interviendra pour mener une répression massive est sans distinction contre la communauté autochtone.
+4471816	spa	Le gusto a Tom.
+4471817	spa	Tom me quiere.
+4471818	tur	O, soruya şaşırmıştı.
+4471819	spa	A Tom le gusta el espagueti.
+4471820	spa	A Tom le gusta eso.
+4471821	spa	A Tom le gustan.
+4471822	tur	İnsanlar genellikle yüksek fiyatlar hakkında şikayet ederler.
+4471823	spa	A Tom le gusta esto.
+4471824	spa	Tom nos gusta.
+4471825	hun	Szűknek érzem ezt a farmert. Felpróbálhatnék egy másik méretet?
+4471826	spa	Queremos a Tom.
+4471827	tur	Demlikte varsa biraz daha çay alabilir miyim?
+4471828	hun	Tom némán bólintott.
+4471829	spa	A las mujeres les gusta Tom.
