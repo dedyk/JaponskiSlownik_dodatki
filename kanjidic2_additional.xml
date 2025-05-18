@@ -5,7 +5,7 @@
 <cp_value cp_type="ucs">3005</cp_value>
 </codepoint>
 <misc>
-<stroke_count>2</stroke_count>
+<stroke_count>3</stroke_count>
 </misc>
 </character>
 
@@ -27,7 +27,7 @@
 <cp_value cp_type="ucs">9ad9</cp_value>
 </codepoint>
 <misc>
-<stroke_count>2</stroke_count>
+<stroke_count>11</stroke_count>
 </misc>
 </character>
 
@@ -38,7 +38,7 @@
 <cp_value cp_type="ucs">4edd</cp_value>
 </codepoint>
 <misc>
-<stroke_count>2</stroke_count>
+<stroke_count>5</stroke_count>
 </misc>
 </character>
 
@@ -49,6 +49,6 @@
 <cp_value cp_type="ucs">55bb</cp_value>
 </codepoint>
 <misc>
-<stroke_count>2</stroke_count>
+<stroke_count>12</stroke_count>
 </misc>
 </character>
