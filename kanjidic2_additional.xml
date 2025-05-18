@@ -1,0 +1,55 @@
+<!-- element dodatkowy dodany recznie -->
+<character>
+<literal>々</literal>
+<codepoint>
+<cp_value cp_type="ucs">3005</cp_value>
+</codepoint>
+<misc>
+<stroke_count>2</stroke_count>
+</misc>
+</character>
+
+
+<!-- element dodatkowy dodany recznie -->
+<character>
+<literal>マ</literal>
+<codepoint>
+<cp_value cp_type="ucs">30de</cp_value>
+</codepoint>
+<misc>
+<stroke_count>2</stroke_count>
+</misc>
+</character>
+
+<!-- element dodatkowy dodany recznie -->
+<character>
+<literal>髙</literal>
+<codepoint>
+<cp_value cp_type="ucs">9ad9</cp_value>
+</codepoint>
+<misc>
+<stroke_count>2</stroke_count>
+</misc>
+</character>
+
+<!-- element dodatkowy dodany recznie -->
+<character>
+<literal>仝</literal>
+<codepoint>
+<cp_value cp_type="ucs">4edd</cp_value>
+</codepoint>
+<misc>
+<stroke_count>2</stroke_count>
+</misc>
+</character>
+
+<!-- element dodatkowy dodany recznie -->
+<character>
+<literal>喻</literal>
+<codepoint>
+<cp_value cp_type="ucs">55bb</cp_value>
+</codepoint>
+<misc>
+<stroke_count>2</stroke_count>
+</misc>
+</character>
