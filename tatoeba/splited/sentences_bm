@@ -1,73 +1,3 @@
-2011540	eng	Do you want a lawyer?
-2011541	eng	Do you want me to go?
-2011542	eng	Do you want to leave?
-2011543	eng	I didn't want to die.
-2011544	eng	I didn't want to pry.
-2011545	eng	I do want to open it.
-2011546	eng	I do want to see you.
-2011547	eng	I don't want a drink.
-2011548	eng	I don't want charity.
-2011549	eng	I don't want to do that.
-2011550	eng	I don't want to fail.
-2011551	eng	I don't want to look.
-2011552	eng	I don't want to lose.
-2011553	eng	I don't want to play.
-2011554	eng	I don't want to rest.
-2011555	eng	I don't want trouble.
-2011556	eng	I just want you back.
-2011557	eng	I still want to know.
-2011558	eng	I want a distraction.
-2011559	eng	I want my shirt back.
-2011560	eng	I want the other one.
-2011561	eng	I want them all shot.
-2011562	eng	I want to be careful.
-2011563	eng	I want to be invited.
-2011564	eng	I want to be noticed.
-2011566	eng	I want to see a show.
-2011567	eng	I want to start over.
-2011568	eng	I want to stay alive.
-2011569	eng	I want to take notes.
-2011570	eng	I want to watch this.
-2011571	eng	I want Tom beaten up.
-2011572	eng	I want what you want.
-2011573	eng	I want you back here.
-2011574	eng	I want you to listen.
-2011575	eng	I want you to try it.
-2011576	eng	I want your analysis.
-2011577	eng	I wanted to be alone.
-2011578	eng	I wanted to be there.
-2011579	eng	I wanted to help you.
-2011580	eng	I wanted to hurt Tom.
-2011581	eng	I wanted to kill Tom.
-2011582	eng	I wanted to love Tom.
-2011583	eng	I wanted to remember.
-2011584	eng	I wanted to save Tom.
-2011585	eng	I wanted to stop Tom.
-2011586	eng	I wanted to warn you.
-2011587	eng	I wanted to warn Tom.
-2011588	eng	I wanted Tom to come.
-2011589	eng	I wanted you so much.
-2011590	eng	I wanted you to come.
-2011591	eng	I wanted you to know.
-2011592	eng	I wanted Tom to stay.
-2011593	eng	I wanted Tom to stop.
-2011594	eng	I'd like some coffee.
-2011595	eng	I'd like to think so.
-2011596	eng	I'd like Tom to rest.
-2011597	eng	I'd like you to stop.
-2011598	eng	None of us want that.
-2011599	eng	They want to go home.
-2011600	eng	They want to help us.
-2011601	eng	They want to hurt me.
-2011602	eng	Tom didn't want that.
-2011603	eng	Tom doesn't want you.
-2011604	eng	Tom still wants Mary.
-2011605	eng	Tom wanted a Porsche.
-2011606	eng	Tom wanted Mary dead.
-2011607	eng	Tom wanted to see me.
-2011608	eng	Tom wants a sandwich.
-2011609	eng	Tom wants to kill us.
-2011610	eng	Tom wants to sell it.
 2011611	eng	Tom wants to stop us.
 2011612	eng	Tom wants to take it.
 2011613	eng	Tom wants us to talk.
@@ -2852,7 +2782,7 @@
 2014524	epo	Sciigu min, se vi bezonos ion.
 2014530	epo	Mi paŝis flanken por lasi lin plumarŝi.
 2014532	spa	Leí una carta.
-2014537	epo	Ŝi belas, inteligentas, kaj - plej grave - estas bonkora.
+2014537	epo	Ŝi belas, inteligentas, kaj – plej grave – estas bonkora.
 2014539	rus	Врёшь!
 2014542	epo	Ĉu tio estas via alvokilo?
 2014548	epo	Miaj piedoj pli malgrandas ol viaj.
@@ -3113,7 +3043,7 @@
 2014882	spa	No te das cuenta de lo que vale algo hasta que lo pierdes.
 2014883	epo	Kiam mi vizitas mian nepon, mi ĉiam donacas ion al li.
 2014885	spa	¿Cuándo fue la última vez que hiciste algo por primera vez? Piénsalo.
-2014886	epo	Ni ne volas havi malbonan publikecon.
+2014886	epo	Ni ne volas havi malbonan reklamon.
 2014889	epo	Tom, mi volas ke vi aŭskultu min.
 2014892	epo	Tom, mi volas ke vi venu kun mi.
 2014895	epo	Tom, mi volas aŭdi ĝin de vi.
@@ -3154,7 +3084,7 @@
 2014963	tur	Tom çaresiz.
 2014964	hun	A lány megfenyegette a fiút.
 2014965	epo	Miaj gepatroj volas, ke mi venu hejmen.
-2014967	epo	Lasu min scii, kion vi volas fari.
+2014967	epo	Sciigu min, kion vi volas fari.
 2014968	ron	Ea l-a ameninţat pe el.
 2014969	tur	Tom memleketini özlemiş.
 2014970	swe	Vad fanns inuti?
@@ -4001,7 +3931,7 @@
 2015912	deu	Der Hexer ist zurück.
 2015913	epo	La sorĉisto revenis.
 2015914	epo	Tom purigis al si la piedojn.
-2015915	epo	Kio nu estas, kion vi volas de mi?
+2015915	epo	Kion vi fakte volas de mi?
 2015916	epo	La magiisto revenis.
 2015917	deu	Das trägt nichts bei zur Situation.
 2015918	fra	Il n'y a pas, à ce stade de l'histoire mondiale aux États-Unis d'Amérique, de chose telle qu'une presse indépendante. Vous le savez et je le sais. Il n'y a pas un de vous qui ose écrire ses franches opinions, et si vous le faisiez, vous savez d'avance qu'elles ne seraient jamais publiées. Je suis hebdomadairement payé pour tenir mes franches opinions à distance du journal auquel je suis lié. D'autres d'entre vous reçoivent de mêmes émoluments pour des choses similaires, et n'importe lequel d'entre vous qui serait assez bête pour écrire de franches opinions serait à la rue à chercher un autre emploi. Si je laissais mes franches opinions être publiées dans l'une des parutions de mes journaux, mon emploi s'évaporerait avant vingt-quatre heures. Le boulot du journaliste est de détruire la vérité, de mentir effrontément, de pervertir, de diaboliser, de lécher les pieds de Mammon et de vendre son pays et sa race pour gagner son pain quotidien. Vous le savez et je le sais, et quelle folie est cette célébration d'une presse indépendante ? Nous sommes des pantins, ils tirent les ficelles et nous dansons. Nos talents, nos possibilités et nos vies sont tous la propriété d'autres hommes. Nous sommes des prostitués intellectuels.
@@ -4021,7 +3951,7 @@
 2015932	eng	Thou art not mine enemy, so farest thou well.
 2015933	fra	Je veux juste te rendre la pareille.
 2015934	fra	Je veux juste vous rendre la pareille.
-2015935	epo	Mi ŝatus, se vi pardonpetus al Tomo.
+2015935	epo	Mi ŝatus, ke vi pardonpetus al Tomo.
 2015936	fra	Je veux juste entendre tes raisons.
 2015937	fra	Je veux juste entendre vos raisons.
 2015938	deu	In diesem Stadium der Weltgeschichte gibt es so etwas wie eine unabhängige Presse in den Vereinigten Staaten von Amerika nicht. Sie wissen es und ich weiß es. Unter Ihnen ist nicht Einer, der sich traut, seine ehrliche Meinung zu schreiben, und täten Sie es, wüssten Sie von vornherein, dass es niemals gedruckt werden würde. Ich werde wöchentlich dafür bezahlt, dass ich meine ehrlichen Ansichten draußenlasse aus der Zeitung, mit der ich in Verbindung stehe. Andere unter Ihnen bekommen vergleichbare Gehälter bezahlt für vergleichbare Dinge, und jeder von Ihnen, der so töricht wäre, ehrliche Ansichten niederzuschreiben, würde sich auf der Straße wiederfinden, um nach einem anderen Job zu suchen. Wenn ich meinen ehrlichen Ansichten erlauben würde, in einer Ausgabe meiner Zeitschrift zu erscheinen, wäre es mit meiner beruflichen Tätigkeit in weniger als vierundzwanzig Stunden vorbei. Das Geschäft des Journalisten besteht darin, die Wahrheit zu zerstören, frech zu lügen, die Wahrheit zu verzerren, zu verleumden, vor den Füßen des Mammons zu katzbuckeln, und sein Land und sein Volk zu verkaufen für sein täglich Brot. Sie wissen es und ich weiß es, und was ist das für eine Narretei, auf eine unabhängige Presse anzustoßen? Wir sind die Hampelmänner, sie ziehen an den Fäden und wir tanzen. Unsere Talente, unsere Möglichkeiten und unsere Leben sind alle das Eigentum anderer Menschen. Wir sind intellektuelle Nutten.
@@ -4213,7 +4143,7 @@
 2016176	epo	La drakoj naskiĝas en la fajro.
 2016177	heb	כוונת החוק היא לתקן עשרות שנים של אפליה נגד המיעוטים האתניים בארץ.
 2016178	epo	Ĉiu sanktulo havas pasintecon, kaj ĉiu pekulo havas estontecon.
-2016179	epo	Mi ne volas, ke vi estu involvita.
+2016179	epo	Mi ne volas, ke vi estu enplektita.
 2016180	heb	הבזקים לסירוגין של ברקים האירו את העגמומיות האפלה של היער.
 2016181	epo	Mi ne volas, ke vi faru tion, Tom.
 2016182	epo	Mi ne volas, ke Tom maltrafu la buson.
@@ -4786,7 +4716,7 @@
 2016794	epo	Kial vi volis paroli kun ni?
 2016795	epo	Kien vi volas, ke mi metu tiujn valizojn?
 2016798	epo	Kion vi volas vendi al ni?
-2016799	epo	Kion mi fakte volas fari estas dormi.
+2016799	epo	Tio, kion mi fakte volas fari, estas dormi.
 2016800	epo	Kiun ludon vi volas ludi nun?
 2016801	epo	Kion ekzakte vi volas, ke ni faru?
 2016802	epo	Kion ekzakte vi volas, ke mi faru?
@@ -5201,7 +5131,7 @@
 2017230	rus	Мы поверили, что это была летающая тарелка.
 2017231	rus	У нас мало общего.
 2017232	rus	Кен ожидает прибытия поезда.
-2017233	rus	Она говорила, словно ничего не произошло.
+2017233	rus	Она говорила так, словно ничего не произошло.
 2017234	heb	זה חתול?
 2017235	heb	האם זה חתול?
 2017236	heb	שבעתי נאומים ארוכים.
@@ -8233,7 +8163,7 @@
 2020463	epo	La pordo knaretas iomete.
 2020464	heb	בוא נשחק בטריוויה.
 2020466	heb	היא אומרת שהיא יכולה לראות דרך קירות.
-2020467	epo	Estas tio, kion ili volas ke vi kredu.
+2020467	epo	Pro tio ili volas, ke vi kredu.
 2020468	heb	לדבריה יש לה יכולת לראות דרך קירות.
 2020469	epo	Lia komerca fiasko postlasis lin sen mono.
 2020470	deu	Drinnen ist niemand.
@@ -8663,7 +8593,7 @@
 2020974	epo	Mi nur volas scii, ĉu vi malsatas.
 2020975	epo	Mi nur volas fari, kion mi povas, por helpi.
 2020976	epo	Mi nur ne plu volas fari tion.
-2020977	epo	Mi havas ion, kion mi volas diri unue.
+2020977	epo	Estas io, kion mi volas diri unue.
 2020978	epo	Mi ne volas, ke Tomo vidu min tia.
 2020979	epo	Mi ne volas paroli pri miaj sonĝoj.
 2020980	por	Acontece o tempo todo.
@@ -9142,7 +9072,7 @@
 2021491	rus	"Не плачь", - сказала она.
 2021492	deu	Die Realität sieht anders aus als die Zukunft, die wir erwartet haben.
 2021493	cmn	汤姆你能给那些饥肠辘辘的人们一些吃的吗?
-2021494	epo	La realo aspektas alie ol la estonto, kiun ni atendis.
+2021494	epo	La realo aspektas alie ol la estonteco, kiun ni atendis.
 2021495	cmn	这个让我惊讶到了!
 2021496	cmn	他转了转他的眼睛
 2021497	cmn	这个是假的吗?
@@ -14785,7 +14715,7 @@
 2027512	deu	Ich denke, ich muss mich mal etwas an die Arbeit machen für die Prüfung.
 2027513	epo	Kiun ĉambron vi volas ke mi purigu unue?
 2027514	heb	ג'ון מחכה ללוסי, אבל הרכבת כבר עזבה.
-2027515	epo	Kion ni volas fari tuj poste, estas aldoni iom da salo.
+2027515	epo	Aldoni iom da salo, tion ni volas fari tuj poste.
 2027516	deu	Es ist allmählich Zeit, dass du die Kinder ins Bett schickst.
 2027517	epo	Kio tiom certigas vin, ke Tom volas resti?
 2027518	deu	Sollten wir nicht besser bald aufbrechen?
@@ -15745,7 +15675,7 @@
 2028527	eng	If it were done when 'tis done, then 'twere well / It were done quickly: if the assassination / Could trammel up the consequence, and catch / With his surcease success; that but this blow / Might be the be-all and the end-all here, / But here, upon this bank and shoal of time, / We'd jump the life to come.
 2028528	fra	Je n'oublierai jamais votre bonne volonté à ce sujet.
 2028529	eng	You win the toss. The ball is in your court this time.
-2028530	epo	Mia klaso estis dissolvita.
+2028530	epo	Mia leciono estis nuligita.
 2028531	fra	Ce qui coûte beaucoup, a beaucoup de valeur.
 2028532	epo	Li ne aspektas feliĉa.
 2028534	epo	Li ne aspektis feliĉa.
@@ -23472,7 +23402,7 @@
 2036744	ita	Buona festa della mamma!
 2036745	cat	Feliç dia de la Mare!
 2036746	cmn	母親節快樂!
-2036747	lvs	Laimīgu Mātes diena!
+2036747	lvs	Laimīgu Mātes dienu!
 2036748	lit	Su Motinos diena!
 2036749	tur	Saçma!
 2036750	tur	O dehşet verici.
@@ -23883,7 +23813,7 @@
 2037192	fra	Nous ne voulons pas que quoi que ce soit de semblable se reproduise jamais.
 2037193	heb	מה שלא יקרה, אני רוצה שתדעי שאני אוהב אותך.
 2037194	heb	אינך חייבת לדבר על כך אם אינך רוצה.
-2037195	fra	La dernière chose que je veux faire maintenant est de nettoyer la salle-de-bain.
+2037195	fra	La dernière chose que je veux faire maintenant est de nettoyer la salle de bain.
 2037196	heb	את רוצה שאעשה בשבילך את העבודה המלוכלכת, לא?
 2037197	fra	La dernière chose que je veuille faire est de vous causer de quelconques problèmes.
 2037198	fra	La dernière chose que je veuille faire est de te causer de quelconques problèmes.
@@ -24680,7 +24610,7 @@
 2038031	epo	Se la harpo estas eĉ rompita, la akordo ankoraŭ do ploras.
 2038032	heb	מכופפים את העץ בעודו רך בשנים.
 2038033	hun	A dicsőítő dal, amely a hála hangjaival tört magasra, áthatott mindeneket.
-2038034	epo	Glorokanto, kiu leviĝis per dankaj akordoj saturis ĉion.
+2038034	epo	Glorokanto, kiu leviĝis per dankaj akordoj, saturis ĉion.
 2038035	heb	את רגשותיך ואת הגיגיך הוא הבין ללא מילים.
 2038036	hun	A paradicsom, a fokhagyma és az olivaolaj csodálatos összhangban van.
 2038037	epo	Tomato, ajlo kaj olivoleo mirinde akordas.
@@ -28811,7 +28741,6 @@
 2042453	fra	Tu trouveras quelque chose qui t'intéresse.
 2042454	fra	Vous trouverez quelque chose qui vous intéresse.
 2042455	fra	Il n'est pas coiffé.
-2042457	fra	Je ne me rappelle plus de son nom.
 2042458	tur	O çok tatlı.
 2042460	epo	"Vi estas tipa viro", ŝi diris, "Vi neniam memoras viajn promesojn."
 2042462	tur	Kocamı gerçekten özlüyorum.
@@ -33506,7 +33435,7 @@
 2047463	epo	Mi bezonas enlitiĝon.
 2047464	epo	Mi havas brunajn okulojn kaj nigrajn harojn.
 2047465	epo	Pardonu, sed mi estis iomete okupita.
-2047466	epo	Mia ĉefo tenas min sufiĉe okupita.
+2047466	epo	Mia ĉefo tenas min sufiĉe okupata.
 2047467	epo	Pardonu, la numero ankoraŭ estas okupita.
 2047469	epo	Ni havas streĉan tagon antaŭ ni.
 2047470	deu	Es lohnt sich, diesen schlauen Trick zu bedenken: Rotwein auf einem roten Tischtuch einschenken!
@@ -34188,7 +34117,7 @@
 2048180	ber	Ttunt daɣen idrimen-nsent?
 2048181	epo	Pri tio ni devas interparoli.
 2048182	fra	J'ai failli oublier mon argent.
-2048183	epo	Tio estas tute senrilate al tio.
+2048183	epo	Tio estas tute senrilata al tio.
 2048184	ber	Qrib ay ttuɣ idrimen-inu.
 2048185	fra	Tu as failli oublier ton argent.
 2048187	ber	Qrib ay tettud idrimen-nnek.
@@ -35540,7 +35469,7 @@
 2049617	epo	Ankaŭ mi ne ŝatas tion.
 2049618	epo	Ĉiuj urbegoj havas trafikproblemojn.
 2049619	deu	„Hat es denn nun tatsächlich geschneit?“ — „Bisher habe ich nichts bemerkt. Aber ich schaue natürlich nicht ständig aus dem Fenster.“
-2049620	epo	Ĉu vi povas helpi min, mi petas.
+2049620	epo	Ĉu vi povas helpi min, mi petas?
 2049622	epo	Vi havas grandan nazon.
 2049623	epo	La infanoj dormas.
 2049624	deu	Ich weiß Ihre Unterstützung zu schätzen.
@@ -36890,7 +36819,7 @@
 2051091	tur	Bu dayanılmaz.
 2051093	tur	Bu çok taze.
 2051094	deu	Wir spielen Fangen. Willst du mitmachen?
-2051095	lvs	Tas ir nepanesamas.
+2051095	lvs	Tas ir nepanesami.
 2051096	tur	Bu senin evin.
 2051098	tur	Bu bir parti değil.
 2051100	tur	Bu senin için değil.
@@ -37213,7 +37142,7 @@
 2051436	deu	Ich bat Tom darum, mein Lieblingslied zu spielen.
 2051437	deu	Komm irgendwann mal vorbei und sieh uns beim Musikmachen zu!
 2051438	spa	Esta es tu casa.
-2051439	deu	Kommt irgendwann mal vorbei und seht und beim Musikmachen zu!
+2051439	deu	Kommt irgendwann mal vorbei und seht uns beim Musikmachen zu!
 2051440	cmn	经过几十年的山林绿化事业，秃头山基本上都被消灭了。
 2051441	deu	Hast du schon mal mit Toms Hund gespielt?
 2051442	spa	Este reloj es mío.
@@ -37438,7 +37367,7 @@
 2051673	epo	Kiom longe mi devas atendi por la livero?
 2051674	epo	Kiom longe vi du jam estas kunaj?
 2051675	epo	Kiom da sonlibroj vi havas sur via iPod?
-2051676	epo	Kiom da sonlibroj vi havas sur via movebla MP3-ludilo?
+2051676	epo	Kiom da sonlibroj vi havas sur via portebla MP3-ludilo?
 2051677	epo	Kiom da kalorioj estas en 100 gramoj da butero?
 2051678	epo	Kiom da aŭtomobiloj vi posedis ĝis nun?
 2051679	epo	Kiom da operacioj plenumis Dr. Jackson ĉi-monate?
@@ -37730,7 +37659,7 @@
 2051997	ita	Google è il mio insegnante.
 2051998	ita	Io voglio viaggiare in aereo.
 2051999	por	Quando lhe disse com desprezo que lamentava, ela lhe deu um tapa.
-2052000	epo	Mi vidis Tom kaj Mary ludi domenludon.
+2052000	epo	Mi vidis, ke Tom kaj Mary ludas domenon.
 2052001	por	O cão começou a cavar no parque.
 2052002	por	Não me diga que você engoliu a história de que sua avó estava doente! Sua avó morreu há quatro anos!
 2052003	por	O promotor não conseguiu prender o assassino.
@@ -38330,7 +38259,7 @@
 2052646	uig	جىممىيغا سالام ئېيت.
 2052647	epo	Li havis belajn malhelajn okulojn kaj longajn okulharojn.
 2052648	epo	Mi faros kukon por la naskiĝtago de Mary.
-2052649	epo	Li havis belajn mallumajn okulojn kun longaj okulharoj.
+2052649	epo	Li havis belajn malhelajn okulojn kun longaj okulharoj.
 2052650	uig	قولۇمدىن كېلىشىچە قىسقا ۋاقتتا ئۆيگە قايتىمەن.
 2052651	rus	Твои красивые тёмные глаза мне очень нравятся.
 2052652	uig	ئۇنىڭدىن پۇلنى قايتۇرۇۋالدىم.
@@ -38706,7 +38635,7 @@
 2053046	oci	Tòm es ja al lèit.
 2053047	rus	Мы были друзьями.
 2053048	spa	En la tienda no se veía a nadie, pero se oía a gente en la trastienda.
-2053049	epo	Kie estas la viro, de kiu mi estos amata, kia mi estas.
+2053049	epo	Kie estas la viro, de kiu mi estos amata, kia mi estas?
 2053050	rus	Я сейчас в Гонконге.
 2053051	tur	İkiniz yakın mıydınız?
 2053052	tur	Ne tesadüf!
@@ -40324,7 +40253,7 @@
 2054744	spa	Tom me forzó a abrir la caja.
 2054746	deu	Tom weint schon die ganze Nacht.
 2054747	deu	Du wirst mir nicht glauben, was ich gerade gesehen habe.
-2054748	epo	Tom devigis min, malfermi la skatolon.
+2054748	epo	Tom devigis min malfermi la skatolon.
 2054749	deu	Tom hörte, wie sein Name gerufen wurde.
 2054750	deu	Tom läuft mir hinterher.
 2054751	epo	Vi ne kredos, kion mi ĵus vidis.
@@ -42628,7 +42557,7 @@
 2057167	por	Há problemas intermitentes em minha conexão.
 2057168	por	O alcoolismo está causando sérios estragos entre os adolescentes.
 2057169	eng	Here we took the boat to Alaska.
-2057170	por	Com grande frustação, vimos nossos sonhos evaporarem.
+2057170	por	Com grande frustração, vimos nossos sonhos evaporarem.
 2057171	por	O presidente não teve outro remédio senão reconhecer a vitória contundente de seu oponente.
 2057172	epo	Necesas rimarkigi krome, ke dekomenca pozo de venkinto, la preteco riski kaj fidi, kaj, se necese, batali kontraŭ la negativajn impulsojn de la propra psiko, per si mem faras homon pli inteligenta.
 2057173	eng	The strike brought the city to a halt.
@@ -43677,7 +43606,7 @@
 2058269	tur	Dün onu gördüm.
 2058270	tur	Dün seni gördüm.
 2058271	deu	„Liebe Großmutter, was ist Dill?“ — „Das ist ein Kraut, das man benutzt um Speisen zu würzen, mein lieber Enkel.“
-2058272	epo	Ne ĉiu nepo estas anĝelo. Foje la nepoj estas friponetoj.
+2058272	epo	Ne ĉiu nepo estas anĝelo. Fojfoje la nepoj estas friponetoj.
 2058273	tur	Nasıl çalıştığını görüyorum.
 2058274	deu	Nicht jeder Enkel ist ein Engel. Manchmal sind die Enkel Bengel.
 2058275	tur	Tom'u her gün görürüm.
@@ -43822,7 +43751,7 @@
 2058419	epo	Eble Sankta Nikolao donacos al vi ion el la Norda Poluso.
 2058420	deu	Es geht mir nur darum, dich zu unterstützen.
 2058421	spa	La dirección se negó a llegar a un acuerdo.
-2058422	epo	Foje miaj fingroj tajpas ion alian, ol la cerbo volas.
+2058422	epo	Plurfoje miaj fingroj tajpas ion alian, ol la cerbo volas.
 2058423	epo	Intelektuloj, kiel li, ne zorgas tro pri aĝo.
 2058424	deu	Manchmal tippen meine Finger etwas anderes, als das Gehirn will.
 2058427	ita	Bisognerà aspettare.
@@ -48451,7 +48380,7 @@
 2063784	epo	Mi estas certa, ke ili venkos.
 2063785	epo	Mi sentas certecon, ke ili venkos.
 2063796	deu	Der ägyptische Präsident hat Vertreter von Opposition und Justiz zu einem Dialog über die politische Zukunft des Landes eingeladen. Das Gespräch solle am Samstag in seinem Amtsgebäude stattfinden, erklärte der Präsident in einer Fernsehansprache.
-2063797	epo	La egipta prezidanto invitis reprezentantojn de la opozicio kaj de la justico al dialogo pri la politika estonto de la lando. En televida parolo la prezidanto diris, ke la interparolo okazu je la sabato en lia oficejo.
+2063797	epo	La egipta prezidanto invitis reprezentantojn de la opozicio kaj de la justico al dialogo pri la politika estonteco de la lando. En televida parolo la prezidanto diris, ke la interparolo okazu je la sabato en lia oficejo.
 2063801	deu	Man sagte mir, sie bekiffe sich mit meinem Bruder, das Luder!
 2063802	nob	Politiet arresterte noen demonstranter.
 2063803	deu	Die Polizei nahm einige Demonstranten fest.
@@ -48627,7 +48556,7 @@
 2063989	spa	¿Dónde puedo coger el autobús para la estación de Tokio?
 2063990	spa	Será una ciudad maravillosa.
 2063991	spa	Algunas cosas se dicen al final para dar énfasis.
-2063994	deu	Meine Freundin ist bescheuert
+2063994	deu	Meine Freundin ist bescheuert.
 2063996	eng	My friend is stupid.
 2063997	rus	Затерянная в горах, засыпанная снегом по самые крыши и словно подсвеченная изнутри мягким волшебным светом деревушка казалась игрушечной, ненастоящей.
 2063998	deu	Verloren zwischen Bergen, vom Schnee bis zu den Dächern zugedeckt und von innen heraus beleuchtet durch ein weiches, gleichsam zauberisches Licht, erschien das Dorf spielzeughaft und unwirklich.
@@ -49998,3 +49927,74 @@
 2065703	spa	Creo que algo se está quemando.
 2065704	spa	Debería decirte algo.
 2065705	spa	Necesito preguntarte algo.
+2065707	spa	Me debe faltar algo.
+2065708	spa	Te preparé algo de comer.
+2065709	spa	Acabo de pensar en algo.
+2065711	spa	Solo necesito hacer algo.
+2065712	spa	Es algo que tengo que hacer.
+2065713	spa	¿Hay alguna cosa que quieras?
+2065714	spa	¿Hay algo que necesites?
+2065715	spa	Se me ocurrirá algo.
+2065717	spa	Desearía poder hacer algo.
+2065718	spa	Estaba buscando algo.
+2065719	spa	Creo que nos olvidamos de algo.
+2065721	spa	Tom sabe que algo anda mal.
+2065723	spa	Algo anda mal, ¿no es así?
+2065724	spa	Algo anda muy mal aquí.
+2065725	spa	Algo le sucedió a Tom.
+2065726	spa	Anoche vi algo.
+2065727	spa	Aquí hay algo interesante.
+2065729	spa	¿Has averiguado algo?
+2065730	spa	¿Acaso Tom te dijo algo?
+2065732	spa	¿Te puedo pedir algo más?
+2065733	spa	Llámame si pasa algo.
+2065734	spa	Tenemos algo para ti.
+2065735	spa	Tenemos algo para ustedes.
+2065738	spa	Necesito mostrarte algo.
+2065741	rus	Быть лысым хорошо хотя бы потому, что экономятся деньги на шампуне.
+2065745	nld	Ik heb je iets te vertellen.
+2065748	nld	Ik heb je iets te vertellen. Ik ben je broer.
+2065752	spa	El viento elevó al globo por el cielo azul, y el globo llevaba la carta que Tom había escrito.
+2065754	spa	Tom debería haber hecho algo.
+2065756	spa	Algo ocurrió en Boston.
+2065758	spa	Alguien debería decir algo.
+2065759	spa	Alguien tiene que hacer algo.
+2065761	spa	Creo que he encontrado algo.
+2065762	spa	Debería haber dicho algo.
+2065763	spa	Necesito decirte algo.
+2065765	spa	¿Puedo ayudarla con algo?
+2065767	spa	¿Estás esperando algo?
+2065768	spa	¿Qué tal si algo sale mal?
+2065769	spa	Debemos hacer algo para ayudar.
+2065771	spa	Tenemos que hacer algo, Tom.
+2065785	nld	We moeten iets doen, Tom.
+2065786	nld	We moeten iets doen om te helpen.
+2065790	nld	Wat als er iets fout gaat?
+2065793	nld	Ben je ergens op aan het wachten?
+2065794	nld	Wacht je ergens op?
+2065796	nld	Kan ik u met iets helpen?
+2065801	nld	Ik had iets moeten zeggen.
+2065802	ita	Si dice che sia un genio.
+2065804	ita	Si dice che lui sia un genio.
+2065805	ita	Lunga vita alla lingua persiana!
+2065806	ita	Lunga vita al persiano!
+2065808	rus	В этой больнице много нового оборудования.
+2065810	spa	No puedo aceptar la invitación porque tengo otro deber.
+2065811	ita	Non posso farti entrare lì.
+2065812	ita	Io non posso farti entrare lì.
+2065813	nld	Je had hem met zijn werk moeten helpen.
+2065814	rus	Вот помощь, которая нам нужна.
+2065815	ita	Non posso farvi entrare lì.
+2065816	spa	Deberías haberlo ayudado con su trabajo.
+2065817	ita	Io non posso farvi entrare lì.
+2065818	ita	Non posso farla entrare lì.
+2065819	ita	Io non posso farla entrare lì.
+2065820	ita	Hey. Dove stai andando?
+2065821	ita	Hey. Dove sta andando?
+2065822	ita	Hey. Dove state andando?
+2065823	ita	Apprezzo il supporto.
+2065824	ita	Io apprezzo il supporto.
+2065825	nld	Je had hem de waarheid moeten zeggen.
+2065826	ita	Sto giocando a dei videogiochi.
+2065827	spa	Deberías haberle dicho la verdad.
+2065828	ita	Io sto giocando a dei videogiochi.

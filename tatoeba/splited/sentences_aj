@@ -1,14 +1,3 @@
-472113	vie	Nếu như câu bạn yêu cầu chưa được dịch, hãy viết nội dung của nó vào khung.
-472114	cmn	她的祖母活到了八十八歲。
-472115	cmn	她取得了博士學位。
-472116	cmn	沒有人知道戰爭何時會完結。
-472117	yue	無人知場仗幾時會打完。
-472122	fra	Où est Britney Spears ?
-472124	jpn	ブリトニー・スピアーズはどこですか。
-472125	lat	Ubi est Britney Spears?
-472126	cmn	你是指誰？
-472127	yue	你講緊邊個呀？
-472128	fra	Sauron veut que chaque hobbit le craigne.
 472129	eng	The thing you have to know about Batman is, he's a superhero.
 472130	cmn	看！她來了！
 472131	eng	To whom are you referring?
@@ -409,7 +398,7 @@
 472549	ukr	Тому нам краще було б лишитися вдома.
 472550	ukr	Мені боляче.
 472551	ukr	У гарної квітки колючки ростуть.
-472552	fra	Il faisait froid l'été de cette année là.
+472552	fra	Il faisait froid l'été de cette année-là.
 472553	ukr	У кімнаті була напружена атмосфера.
 472554	ukr	Різниця ось у чому: він працює старанніше за тебе.
 472555	ukr	Він задоволений своєю роботою.
@@ -1317,7 +1306,7 @@
 473522	epo	Mi kreskis kun Pokemon.
 473523	isl	Þetta er japönsk dúkka.
 473524	spa	Estoy viendo la televisión.
-473525	deu	Ich wuchs mit Pokemon auf.
+473525	deu	Ich wuchs mit Pokémon auf.
 473526	spa	A Mary le gusta ver la televisión.
 473527	deu	Er ist so vergnügt.
 473528	deu	Er ist so schwul.
@@ -1529,7 +1518,7 @@
 473748	uzb	Соғлиқ ва лаззат учун!
 473750	tur	Bu kim?
 473751	tur	Lee Leffingwell, Austin Şehir Konseyi'nin başkanıdır.
-473752	cycl	(#$capitalCity #$France #$Paris)
+473752	cycl	(#$capitalCity (of #$France (#$Paris)))
 473753	tur	Paris Fransa'nın başkentidir.
 473754	hin	तुम्हें मन लगाकर पढ़ना होगा।
 473755	hin	सारे अंडे बिक चुके हैं।
@@ -6008,7 +5997,7 @@
 478499	epo	Spongebob kaj Patrick estas amikoj.
 478500	epo	La instruistoj instruas dum la tuta tago.
 478501	epo	Li ĉeestas la kunsidon.
-478502	epo	Paragvajo estas ŝtato en Sudameriko.
+478502	epo	Paragvajo estas ŝtato en Sud-Ameriko.
 478503	deu	Paraguay ist ein Staat in Südamerika.
 478504	deu	Evangeline Lilly ist Kanadierin.
 478505	epo	Evangeline Lilly estas kanadanino.
@@ -8143,7 +8132,7 @@
 480731	wuu	“如果勿努力工作就不会拥有成功个人生”，这种讲法得到广泛个认可。
 480733	rus	У меня выпал зуб.
 480734	ukr	Я дуже вірю в цього лікаря.
-480735	epo	Patrino aĉetis belan robon por mi lastadimanĉe.
+480735	epo	Mia patrino aĉetis belan robon por mi lastadimanĉe.
 480736	tur	O sağlam genç bir adam.
 480737	wuu	离开屋里有多长辰光了？
 480738	pol	To był najlepszy dzień mojego życia.
@@ -8717,7 +8706,7 @@
 481325	fra	M. Smith commence toujours ses cours en faisant une blague.
 481326	ukr	Це не настільки складно, як ти думаєш.
 481327	spa	La naturaleza rechaza el vacío.
-481328	ukr	Ми нормально одягнені?
+481328	ukr	Треба одягнутися формально?
 481329	ukr	Ти голодний?
 481330	ukr	Він батько нареченої.
 481331	ukr	Її старша донька заміжня.
@@ -9069,7 +9058,7 @@
 481694	fra	Étudiant en histoire, je connais aussi la dette de la civilisation à l'Islam. C'était l'Islam - dans des lieux comme l'université Al-Azhar - qui portait la lumière de la connaissance à travers tant de siècles, ouvrant la voie à la Renaissance et aux Lumières de l'Europe.
 481695	deu	Warten wir hier auf seine Rückkehr.
 481696	deu	Ich würde gerne um die Welt reisen.
-481697	epo	Ĉio dirita en via retpoŝtaĵo ĝustas, escepte la prezon.
+481697	epo	Ĉio dirita en via retpoŝtaĵo ĝustas, escepte la prezo.
 481698	deu	Kinder spielen gerne draußen.
 481699	deu	Egal, was auch passiert: du darfst nicht aufgeben!
 481700	fra	Ce fut l'innovation dans les communautés musulmanes qui développa l'ordre de l'algèbre ; notre compas magnétique et instruments de navigation ; notre maîtrise des crayons et de l'imprimerie ; notre compréhension de la dissémination de la maladie et de comment elle peut être soignée.
@@ -11882,7 +11871,7 @@
 484622	pol	Jest pionierem w tej dziedzinie.
 484623	pol	Nie mogła przyjść z powodu swojej choroby.
 484624	pol	Nie mógł przyjść z powodu swojej choroby.
-484625	epo	Lia patro kaj patrino ambaŭ mortis.
+484625	epo	Liaj patro kaj patrino ambaŭ mortis.
 484626	pol	Nie znamy go.
 484627	wuu	㑚老早之前就应该完成了。
 484628	wuu	老遗憾侬呒没更加早开始。
@@ -19295,7 +19284,7 @@
 492331	epo	Trinkinte tason da teo li petis plian.
 492332	ukr	Він може викладати як англійську, так і французьку.
 492333	fra	Je viendrai si l'horaire le permet.
-492334	epo	Estas tie, ke la akcidento okazis.
+492334	epo	Tio estas la loko, kie okazis la akcidento.
 492335	ukr	Він відкрив свій справжній намір.
 492336	ukr	Джейн витерла сльози з очей.
 492337	ukr	Він послав по лікаря.
@@ -21620,7 +21609,7 @@
 494723	epo	Kate ekrigardis Chris-on, sekve ignoris lin, igante lin malfeliĉa.
 494724	epo	Tio, kion vi diris, memorigas min je malnova proverbo.
 494725	epo	Infanoj povas ludi ĉi tie sen danĝero.
-494726	epo	Nia klaso nombras tridek studentojn.
+494726	epo	Nia klaso nombras tridek lernantojn.
 494727	epo	La turo, kiun vi povas vidi, estas Ejfelturo.
 494728	epo	Mi sentis tertremon.
 494729	epo	Ne necesis rapidi.
@@ -22999,7 +22988,7 @@
 496161	epo	Papero facile brulas.
 496162	epo	Li bone scipovas la francan.
 496163	epo	Komence li tute perdiĝis en sia nova posteno.
-496164	epo	Avo aĉetis ĝin por mi!
+496164	epo	Avĉjo aĉetis ĝin por mi!
 496165	eng	Binge drinking is harmful for your health.
 496166	ukr	Горе переможеним!
 496167	epo	Ŝi bezonis multan tempon por elekti ĉapelon.
@@ -28814,7 +28803,7 @@
 502286	pol	Umyj zęby!
 502287	deu	Ich werde es tun, egal, ob du einverstanden bist oder nicht.
 502288	pol	Politycy powinni dotrzymywać swoich obietnic.
-502289	por	Onde estão as duchas ?
+502289	por	Onde estão as duchas?
 502291	spa	Con este tren irás el doble de rápido.
 502292	deu	Er ist nicht dümmer als du.
 502293	spa	La clase estaba dividida en cuatro grupos.
@@ -36425,7 +36414,7 @@
 510227	kor	사랑이 뭐야?
 510228	hin	क्या हमे कल सुबह जल्दी उठना है?
 510229	hin	उसने मुझे लिखना सिखाया।
-510230	epo	Lokalizu Porto-Rikon sur mapon.
+510230	epo	Lokalizu Puertorikon sur mapon.
 510231	hin	चाय को दस मिनट के लिए उबलने दीजिए।
 510232	hin	यह मेरा बस्ता है।
 510233	hin	केन ने अभी तक गाड़ी नहीं धोई है।
@@ -38150,7 +38139,7 @@
 512064	epo	Kiel la ŝtelisto sukcesis esti ne kaptita?
 512065	cmn	她几分钟前熨完了衣服。
 512066	epo	Mi morgaŭ atestu antaŭ la tribunalo.
-512067	epo	Mia domo estas proksima de la parko.
+512067	epo	Mia domo estas proksime de la parko.
 512068	epo	Li timas sian propran ombron.
 512069	cmn	我不知道他是否会同意我们的计划。
 512070	cmn	偷钱。
@@ -39798,7 +39787,7 @@
 513780	ukr	Якщо ти загубився, спитай дорогу у поліцейського.
 513781	ukr	Місяць обертається навколо Землі.
 513782	ukr	Я покажу тобі дорогу на станцію.
-513783	ukr	Щоб водити машину потрібні права.
+513783	ukr	Щоб водити машину, потрібні права.
 513784	rus	Наши с тобой способы различаются.
 513785	ukr	Зима пройшла.
 513786	ukr	Скільки разів на тиждень ти приймаєш ванну?
@@ -40339,7 +40328,7 @@
 514335	epo	Plian skatolon da biero, mi petas.
 514336	fra	Je suis trop fatigué pour continuer de marcher.
 514337	epo	Mi tre volonte akceptos vian inviton.
-514338	epo	"Ĉu mi povas paroli al s-ro Nakagawa?" "Estas mi."
+514338	epo	"Ĉu mi povas paroli al s-ro Nakagawa?" –"Tiu estas mi."
 514339	epo	Li al mi promesis veni ĉi tien.
 514340	epo	Li ŝparas por povi aĉeti motorciklon.
 514341	epo	Eble ŝi estas flegistino. Mi ne certas.
@@ -40551,7 +40540,7 @@
 514556	wuu	伊去困觉了。
 514557	wuu	所有学生侪可以自由出入博物馆。
 514558	wuu	我昨日挪我个手表落脱了。
-514559	epo	Mi kredas, ke li neniel rajtis fari tion.
+514559	epo	Mi kredis, ke li neniel rajtis fari tion.
 514560	wuu	伊也买了字典。
 514561	wuu	一份圣诞礼物。
 514562	epo	Jaroj pasis.
@@ -40562,7 +40551,7 @@
 514567	epo	Li malfruis kiel kutime.
 514568	epo	Li estas kontenta pri la amo de sia filo por la libroj.
 514569	epo	Mi preparu ilian matenmanĝon.
-514571	epo	"Ĉu estas viaj libroj?" "Ne, ne estas miaj libroj."
+514571	epo	„Ĉu tiuj estas viaj libroj?” – „Ne, ili ne estas miaj libroj.”
 514572	epo	Mi atendis dek minutojn.
 514573	epo	Li amsopiras je ŝi.
 514574	epo	Kie mi povas aĉeti T-ĉemizon?
@@ -41964,7 +41953,6 @@
 516055	eng	I want you to put the magazines, pamphlets and whatnot away.
 516056	eng	Meerkats live in Africa.
 516057	tur	Mirketler Afrika'da yaşar.
-516058	eng	What is Assembla?
 516059	tur	Assembla nedir?
 516060	deu	Sie können so eine Entscheidung genauso gut Ihrer Tochter überlassen.
 516061	deu	Kann ich draußen spielen gehen?
@@ -42918,7 +42906,7 @@
 517064	epo	Kaj tamen, ankaŭ la malo ĉiam veras.
 517065	ukr	А те, що вона розповіла, - це правда?
 517066	deu	Er liebt uns nicht.
-517068	epo	Ni ne vidas la aferojn kiel ili estas sed kiel ni estas.
+517068	epo	Ni ne vidas la aferojn, kiaj ili estas, sed kiaj ni estas.
 517069	ukr	Він нічого не сказав, і це її обурило.
 517070	deu	Ich habe ihn seit Monaten nicht gesehen.
 517071	ukr	У цій книзі повно помилок.
@@ -48030,7 +48018,7 @@
 522437	epo	Sorto ofte alsendas, kion oni ne atendas.
 522438	por	A sorte costuma enviar o que não era de se esperar.
 522439	eng	China shares borders with Pakistan, India, Afghanistan, Tajikistan, Kyrgyzstan, Kazakhstan, North Korea, Laos, Vietnam, Nepal, Bhutan, Myanmar, Mongolia and Russia.
-522440	epo	"Dankon!" – "Volonte."
+522440	epo	„Dankon!” – „Volonte.”
 522441	por	Quem deixou a porta aberta?
 522442	por	Ele entrou no quarto na ponta dos pés.
 522443	por	Ela lhe permitiu viajar sozinho.
@@ -49394,7 +49382,6 @@
 523891	yue	呢部𨋢載到十個人。
 523892	epo	Kvindek du procentoj de la britaj virinoj preferas ĉokoladon al seksumado.
 523893	cmn	電梯內不准吸煙。
-523894	epo	Nia unua klaso estas matematiko.
 523895	yue	部𨋢壞咗，所以我哋要行樓梯落去。
 523896	epo	La muzika programo bone sukcesis.
 523897	epo	"Ĉu vi vidis mian katon?" "Ne." "Vi mensogas, vi ankoraŭ maĉas!"
@@ -49998,3 +49985,16 @@
 524524	est	Valitsus deklareeris maksude vähendamise kavatsust.
 524525	fra	Xavier est un jeune étudiant en économie à l’université de Paris.
 524526	fra	Il a décidé de partir pour un programme Érasme en Espagne.
+524527	epo	Li ridis.
+524528	epo	Li nur fanfaronas antaŭ junulinoj.
+524529	pol	To dla mnie zbyt trudne.
+524531	fra	Il a laissé sa mère et sa copine en France.
+524532	fra	Il a rencontré à l’aéroport un jeune couple français.
+524533	fra	Il a bientôt fait la connaissance d'autres étudiants Érasme.
+524534	pol	Myślałem że to pole tekstowe jest polem do wyszukiwania.
+524535	pol	On ma dwie córki.
+524536	pol	On zarabia dwa razy tyle co ja.
+524537	fra	Il est arrivé à trouver un hébergement dans un petit appartement en colocation.
+524538	deu	Nach einem kurzen Besuch stand er plötzlich auf und ging.
+524539	pol	Ona chce żebym z nią poszedł.
+524540	fra	Dans cet appartement il y a beaucoup de confusion.

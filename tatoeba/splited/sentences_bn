@@ -1,74 +1,3 @@
-2065707	spa	Me debe faltar algo.
-2065708	spa	Te preparé algo de comer.
-2065709	spa	Acabo de pensar en algo.
-2065711	spa	Solo necesito hacer algo.
-2065712	spa	Es algo que tengo que hacer.
-2065713	spa	¿Hay alguna cosa que quieras?
-2065714	spa	¿Hay algo que necesites?
-2065715	spa	Se me ocurrirá algo.
-2065717	spa	Desearía poder hacer algo.
-2065718	spa	Estaba buscando algo.
-2065719	spa	Creo que nos olvidamos de algo.
-2065721	spa	Tom sabe que algo anda mal.
-2065723	spa	Algo anda mal, ¿no es así?
-2065724	spa	Algo anda muy mal aquí.
-2065725	spa	Algo le sucedió a Tom.
-2065726	spa	Anoche vi algo.
-2065727	spa	Aquí hay algo interesante.
-2065729	spa	¿Has averiguado algo?
-2065730	spa	¿Acaso Tom te dijo algo?
-2065732	spa	¿Te puedo pedir algo más?
-2065733	spa	Llámame si pasa algo.
-2065734	spa	Tenemos algo para ti.
-2065735	spa	Tenemos algo para ustedes.
-2065738	spa	Necesito mostrarte algo.
-2065741	rus	Быть лысым хорошо хотя бы потому, что экономятся деньги на шампуне.
-2065745	nld	Ik heb je iets te vertellen.
-2065748	nld	Ik heb je iets te vertellen. Ik ben je broer.
-2065752	spa	El viento elevó al globo por el cielo azul, y el globo llevaba la carta que Tom había escrito.
-2065754	spa	Tom debería haber hecho algo.
-2065756	spa	Algo ocurrió en Boston.
-2065758	spa	Alguien debería decir algo.
-2065759	spa	Alguien tiene que hacer algo.
-2065761	spa	Creo que he encontrado algo.
-2065762	spa	Debería haber dicho algo.
-2065763	spa	Necesito decirte algo.
-2065765	spa	¿Puedo ayudarla con algo?
-2065767	spa	¿Estás esperando algo?
-2065768	spa	¿Qué tal si algo sale mal?
-2065769	spa	Debemos hacer algo para ayudar.
-2065771	spa	Tenemos que hacer algo, Tom.
-2065785	nld	We moeten iets doen, Tom.
-2065786	nld	We moeten iets doen om te helpen.
-2065790	nld	Wat als er iets fout gaat?
-2065793	nld	Ben je ergens op aan het wachten?
-2065794	nld	Wacht je ergens op?
-2065796	nld	Kan ik u met iets helpen?
-2065801	nld	Ik had iets moeten zeggen.
-2065802	ita	Si dice che sia un genio.
-2065804	ita	Si dice che lui sia un genio.
-2065805	ita	Lunga vita alla lingua persiana!
-2065806	ita	Lunga vita al persiano!
-2065808	rus	В этой больнице много нового оборудования.
-2065810	spa	No puedo aceptar la invitación porque tengo otro deber.
-2065811	ita	Non posso farti entrare lì.
-2065812	ita	Io non posso farti entrare lì.
-2065813	nld	Je had hem met zijn werk moeten helpen.
-2065814	rus	Вот помощь, которая нам нужна.
-2065815	ita	Non posso farvi entrare lì.
-2065816	spa	Deberías haberlo ayudado con su trabajo.
-2065817	ita	Io non posso farvi entrare lì.
-2065818	ita	Non posso farla entrare lì.
-2065819	ita	Io non posso farla entrare lì.
-2065820	ita	Hey. Dove stai andando?
-2065821	ita	Hey. Dove sta andando?
-2065822	ita	Hey. Dove state andando?
-2065823	ita	Apprezzo il supporto.
-2065824	ita	Io apprezzo il supporto.
-2065825	nld	Je had hem de waarheid moeten zeggen.
-2065826	ita	Sto giocando a dei videogiochi.
-2065827	spa	Deberías haberle dicho la verdad.
-2065828	ita	Io sto giocando a dei videogiochi.
 2065829	tur	Bana niye dik dik bakıyorsun?
 2065830	tur	Bana niye gözünü dikiyorsun?
 2065831	spa	Deberías haberle dicho mientras estaba aquí.
@@ -597,7 +526,7 @@
 2066542	epo	Mi forgesis ion. Mi tuj revenos.
 2066543	epo	Mi perdis ion tre gravan por mi.
 2066544	nld	Tom is de man van mijn dromen.
-2066545	epo	Ĉu vi ĵus legas ion interesan?
+2066545	epo	Ĉu vi legas ion interesan?
 2066547	epo	Mi havas ion, kion mi nepre devas diri al vi.
 2066548	deu	Ich verstehe es, bin aber doch nicht damit einverstanden.
 2066549	epo	Ĉu ne estas io alia, kion ni povas fari?
@@ -884,7 +813,7 @@
 2066889	tur	Bana biraz Chopin çal.
 2066890	epo	S-ro Brown foriris al Anglujo je la 15a de Majo.
 2066891	tur	Lütfen onu düzelt.
-2066893	epo	Sinjoro Brown foriris al Anglujo je la dekkvina de Majo.
+2066893	epo	Sinjoro Brown foriris al Anglujo je la dek-kvina de Majo.
 2066894	tur	Lütfen okula git.
 2066895	spa	Por favor, vete a la escuela.
 2066898	epo	Ĝi vere belis.
@@ -1065,7 +994,7 @@
 2067094	deu	Emilia hat die Frage richtig beantwortet.
 2067095	deu	Gib nie auf zu lieben!
 2067096	deu	Welche Sprache studierst du?
-2067097	deu	Hammel und Sichel sind ein Symbol des Kommunismus.
+2067097	deu	Hammer und Sichel sind ein Symbol des Kommunismus.
 2067098	epo	Martelo kaj serpo estas simbolo de komunismo.
 2067099	deu	Er klebte an seinem Posten fest.
 2067100	deu	Ich möchte, dass die Bauern erfahren, dass ich ihre Abgaben nicht senken werde.
@@ -1236,7 +1165,7 @@
 2067271	ukr	Моя сестра приймає душ кожного ранку.
 2067272	rus	Что вы хотите от Тома?
 2067273	spa	Soy más duro de lo que piensas.
-2067274	lvs	Ko jūs vēlaties no Toms?
+2067274	lvs	Ko jūs vēlaties no Toma?
 2067275	spa	Él no tiene suficiente agua.
 2067276	spa	Algo anda mal con los frenos.
 2067277	yue	佢突然間笑咗岀嚟。
@@ -2220,7 +2149,7 @@
 2068592	tur	Onların atı var.
 2068593	tur	Onlar gerçeği biliyor.
 2068594	spa	No tienes ninguna razón para estar celosa.
-2068595	epo	La ŝipanaro estas preparanta sin al eliro en la kosmon.
+2068595	epo	La ŝipanaro estas preparanta sin al vojaĝo en la kosmon.
 2068596	tur	Onun kim olduğunu biliyorlar.
 2068597	tur	Ona Jane adını verdiler.
 2068598	rus	Великие художники не имеют отечества.
@@ -7305,7 +7234,7 @@
 2074262	epo	Mi petis kroman salon por miaj terpomfingroj.
 2074263	tgl	Akala mo'y maikli ang buhay mo dahil parang Amerikano ka.
 2074264	eng	In case of fire, please use this exit.
-2074265	epo	Estas la unua fojo, ke mi revenigas Marikan.
+2074265	epo	Tio estis la unua fojo, ke mi retelefonis al Marika.
 2074267	eng	My father isn't afraid of anybody.
 2074268	eng	You expect us to work on the house, too? What next?!
 2074269	eng	Oxygen is necessary for combustion.
@@ -8956,7 +8885,7 @@
 2076180	swe	Tiderna förändras, och vi förändras med dem.
 2076181	rus	Нет ничего невозможного для того, кому не придётся делать это самому.
 2076182	epo	Estas certe, ke la aviadilo alvenos tien ĝustatempe.
-2076183	epo	La aviadiloj alvenis unu post l' alia.
+2076183	epo	La aviadiloj alvenis unu post la alia.
 2076184	rus	Я не понял шутки.
 2076185	deu	Du bist so schön, wenn du dich aufregst.
 2076186	rus	Её попросили не выступать на собрании.
@@ -14715,7 +14644,7 @@
 2082702	eng	I won't starve if I have a real Japanese breakfast.
 2082703	epo	Mi neniam pensis, ke tiom lerte vi sukcesos fari tion.
 2082704	eng	Be joyful and merry for it's the jolly season.
-2082705	eng	My reality view is drastically different from yours.
+2082705	eng	My view of reality is drastically different from yours.
 2082706	eng	Winter's coat's off.
 2082707	jpn	彼女は十年間今の地位に居座っている。
 2082708	eng	That car is fast. It goes like a bat out of hell.
@@ -17082,7 +17011,7 @@
 2085214	heb	ואז הגיע לפני כשנתיים האביב הערבי, וסימן את סוף הפרק הנוצרי בן אלף השנים במזרח התיכון כולו.
 2085215	tgk	Имрӯз вақт доред?
 2085216	heb	משטר הבעת' בסוריה היה חילוני, לכאורה אנטי-דתי, אך הוא היה ועודנו מגינם היחיד של הנוצרים במדינה.
-2085217	eng	That scientist wrote a lot of science texts.
+2085217	eng	That scientist wrote a lot of scientific texts.
 2085218	epo	Antaŭ ol la koko krios, vi trifoje malkonfesos min.
 2085219	mar	ती आता रुग्णालयात आहे.
 2085220	heb	הנוצרים לא ידעו להתאגד במזרח התיכון במדינה משל עצמם ללא שותפות מוסלמית זו או אחרת, ולכן הפסידו את הכל.
@@ -18274,7 +18203,7 @@
 2086484	epo	Twitter ne estas vera amiko.
 2086485	epo	Mi opinias, ke ŝi eraris.
 2086486	hun	A húgom arra kért, hogy tanítsam meg sízni.
-2086487	epo	Iu sendis al vi leteron el San-Paŭlo.
+2086487	epo	Iu sendis al vi leteron el Sanpaŭlo.
 2086488	heb	הם העבידו אותנו במשך כל הלילה.
 2086489	epo	Ni kune verkas romanojn.
 2086490	heb	הורידו את המסך!
@@ -18832,7 +18761,7 @@
 2087078	avk	Va tokcoba ?
 2087079	epo	La salajro de la peko estas la morto.
 2087080	heb	אחרי פטירתה הפתאומית של סבתא, סבא התחיל להזדקן במהירות.
-2087082	cmn	該女子實係處女、尚未破身。
+2087082	yue	該女子實係處女，尚未破身。
 2087083	heb	הפסיקו להטריח אותי!
 2087085	avk	Va porma gitucuá.
 2087086	spa	La única manera de deshacerse de un dictador moderno es asesinarlo.
@@ -20025,7 +19954,7 @@
 2088313	kor	하느님이 천지를 창조하셨다.
 2088314	avk	Toktel lokiewon star, gadikye ok gadikya ?
 2088315	kor	연필이 필요하면 제가 빌려줄게요.
-2088316	epo	La frazo estas estingita.
+2088316	epo	La frazo estis forigita.
 2088317	deu	Der Satz ist gelöscht.
 2088318	ita	Questi non sono tuoi, vero?
 2088319	kor	상품은 좋은 상태로 도착했다.
@@ -20479,7 +20408,7 @@
 2088776	nld	Zij geven niets.
 2088777	nld	Er is niemand te zien op straat.
 2088778	nld	Hij beleeft plezier aan lange boswandelingen.
-2088779	nld	Hij is de slimste student van de klas.
+2088779	nld	Hij is de slimste leerling van de klas.
 2088780	nld	Mijn moeder maakt het ontbijt klaar.
 2088783	nld	Dit zal mijn laatste zin in het Engels zijn.
 2088784	bel	Гэта будзе мой апошні сказ на англійскай.
@@ -22924,7 +22853,7 @@
 2091356	epo	Ne maltrankviliĝu. Mi prizorgos Tom.
 2091357	avk	Va dankanya arinton gildeyé.
 2091358	tgl	May welga.
-2091359	epo	Japanio lanĉis novan invadon de Ĉinio en julio, 1937.
+2091359	epo	Japanio lanĉis novan invadon de Ĉinio en julio 1937.
 2091360	tgl	Anong oras darating itong tren sa Yokohama?
 2091361	avk	Omava ke inafa zoltera tir batyon askiks.
 2091362	tgl	Alam mong ayaw ko ng itlog.
@@ -23108,7 +23037,7 @@
 2091559	rus	Бери какой хочешь.
 2091560	fra	Tom n'abrutissait pas les étudiants.
 2091561	ber	Tom ur yelli yesseɣyal inelmaden.
-2091562	ces	Učitel seděl na židly.
+2091562	ces	Učitel seděl na židli.
 2091563	mar	माझं घर लाकडीचं आहे.
 2091564	avk	Pu gadikya konakviele suté.
 2091565	mar	माझं लाकडी घर आहे.
@@ -24791,8 +24720,6 @@
 2093326	spa	¿Eso quiere decir que ya no quieres ser profesor?
 2093327	fra	Puissent vos projets réussir !
 2093328	jbo	lo ko'oi se platu be do ku te snada
-2093329	jpn	あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ。
-2093330	jbo	do .onai ko'oi lo mi speni co'a morsi
 2093331	fra	Que je sois pendu si je mens.
 2093332	jbo	mi ko'oi dandu janai jifsku
 2093333	spa	¡No te pasees por el parque de noche!
@@ -25245,7 +25172,7 @@
 2093806	rus	Каждый человек неповторим.
 2093808	rus	Посмотрим правде в глаза: это предложение просто никуда не годится.
 2093809	epo	Tiu estas la plej malsaĝa afero, kiun mi iam faris.
-2093810	epo	Neniu konas Tom kiel mi konas lin.
+2093810	epo	Neniu konas Tomon, kiel mi konas lin.
 2093811	epo	Li devus kapitulaci.
 2093812	epo	Li devus cedi.
 2093813	epo	Neniu scias lian nomon.
@@ -25667,8 +25594,8 @@
 2094244	epo	Ne menciu tion al iu.
 2094245	epo	Mi ne konas iun nomitan Tom.
 2094246	epo	Mi havas neniun.
-2094247	epo	Mi ne havas iun alian por turni min al li.
-2094248	epo	Mi ne havas iun por turni min al ŝi.
+2094247	epo	Mi ne havas iun alian al kiu mi povas turni min.
+2094248	epo	Mi ne havas iun al kiu mi povas turni min.
 2094249	rus	Где я могу помыть руки?
 2094250	epo	Neniun maldungu.
 2094251	epo	Ne atendu ies helpon.
@@ -28199,7 +28126,7 @@
 2096902	deu	Der Satz wurde gelöscht.
 2096903	spa	Todos sintieron el temblor, excepto yo.
 2096904	deu	Der Satz wurde entfernt.
-2096905	epo	Li aĉetis novan aŭton, sed ni ne informis iun pri tio.
+2096905	epo	Li aĉetis novan aŭton, sed li ne informis iun pri tio.
 2096906	epo	Li ne venis al la laborejo kun sia aŭto.
 2096907	epo	Li ne venis al la laborejo per sia aŭto.
 2096908	epo	Li ne deziras parki sian aŭton surstrate.
@@ -28943,7 +28870,7 @@
 2097693	rus	Я невиновна, клянусь.
 2097694	deu	Ich denke Tag und Nacht ständig an dich.
 2097695	epo	Mi estas senkulpa, mi ĵuras.
-2097696	lvs	Es esmu nevainigs, es zveru.
+2097696	lvs	Es esmu nevainīgs, es zvēru.
 2097697	deu	Lass mich mal meine Brille aufsetzen, denn ich kann dich nicht hören.
 2097698	spa	Dijo que podría ser verdad.
 2097699	spa	Alguien abrió la ventana.
@@ -38387,7 +38314,7 @@
 2107738	heb	התנצלנו.
 2107739	heb	שמרו על עצמכם.
 2107740	heb	שימו לב.
-2107741	lvs	Totoro saka: "Es nerunāju ķīniešu."
+2107741	lvs	Totoro saka: "Es nerunāju ķīniski."
 2107742	heb	הזהרו.
 2107743	heb	תום צעיר.
 2107744	heb	תום צורח.
@@ -44698,7 +44625,7 @@
 2114432	spa	Soy el hombre de la casa.
 2114433	spa	Es un clásico.
 2114434	spa	Esto no está bien.
-2114435	epo	Soldato, kiu batalos.
+2114435	epo	„Kio estas li?” – „Soldato, kiu batalos.”
 2114436	spa	No seas cruel.
 2114437	spa	Ya no te conozco.
 2114438	spa	No dejes que se te caiga el jabón.
@@ -46099,7 +46026,6 @@
 2115915	por	Te dou minha palavra.
 2115916	por	Tu tens a minha palavra.
 2115918	por	Não temos alternativa além de trabalhar.
-2115919	eng	All the sudden, it got dark outside.
 2115920	por	Nós não temos alternativa senão trabalhar.
 2115921	heb	הם נראים נינוחים.
 2115922	por	As sementes precisam de ar e água para crescer.
@@ -48235,7 +48161,7 @@
 2118199	rus	Не видев ее прежде, я не знал ее.
 2118200	rus	Я сделал кое-какую работу после завтрака и вышел.
 2118201	rus	Прошлой ночью я не смог сомкнуть глаз.
-2118202	rus	В любом случае, я исполнил свой долг.
+2118202	rus	В любом случае я исполнил свой долг.
 2118203	rus	Эти задачи проще, чем те, которые я сделал вчера.
 2118204	rus	Я занималась стиркой, пока ребенок спал.
 2118205	rus	В классной комнате было так шумно, что я не услышал свое имя.
@@ -49998,3 +49924,77 @@
 2120084	pol	Spytaj Toma.
 2120085	deu	Pech gehabt!
 2120086	pol	Użyj tego.
+2120087	pol	Patrz jak ja to robię.
+2120088	pol	Nie możemy iść właśnie teraz.
+2120089	pol	Nie mogę uwierzyć, że Tom się żeni.
+2120090	pol	Nie mogę nieść tej walizki. Jest zbyt ciężka.
+2120091	pol	Tom nie może tego zrobić.
+2120092	pol	Nie mogę uwierzyć, że Tom nie żyje.
+2120093	pol	Zaczął pisać powieść.
+2120094	epo	Mi volas kredi vin.
+2120095	deu	Er schwört Stein und Bein, künftig besser aufzupassen.
+2120096	heb	אני רוצה להאמין לך.
+2120097	pol	To jest bezużyteczne.
+2120098	heb	העלמות הצעירות האזינו בקשב לקשיש.
+2120099	pol	Mam sporo problemów z gramatyką niemiecką.
+2120100	pol	Muszę naładować baterię w komórce.
+2120101	pol	Musimy się pośpieszyć.
+2120102	deu	Okay, okay. Ich nehme alles zurück, es war ein Missverständnis.
+2120103	pol	Jestem zła na ciebie.
+2120104	pol	Jestem muzykiem.
+2120105	pol	Powiedziałem Tomowi prawdę.
+2120106	pol	Zostawiłem ci wiadomość.
+2120107	epo	Mi volas veni hejmen.
+2120108	pol	Wiem, że to trudne.
+2120109	pol	Wiem, że to ważne.
+2120110	pol	Chciałam tylko porozmawiać.
+2120111	pol	Nie widziałem Toma od miesięcy.
+2120112	heb	אני רוצה לבוא הביתה.
+2120113	pol	Znalazłem twój pamiętnik.
+2120114	pol	Oddałem krew dzisiaj po południu.
+2120115	pol	Nie wiem kto jest żoną Toma.
+2120116	pol	Nic nie powiedziałam.
+2120117	deu	Er behauptete das Gegenteil.
+2120118	pol	Nie zauważyłam, że Tom poszedł.
+2120119	pol	Sprawdziłem dwa razy.
+2120120	pol	Nie mogę z tobą pracować jeśli mi nie ufasz.
+2120121	pol	Co widziałeś?
+2120122	pol	W czym jesteś dobry?
+2120123	pol	Kiedy to było?
+2120124	pol	Kiedy się tego nauczyłeś?
+2120125	pol	Czy umrę?
+2120126	pol	Co tam u Toma?
+2120127	pol	Tom nic nie wie o programowaniu.
+2120128	spa	Él afirmaba lo opuesto.
+2120129	epo	Mi volas sonĝi.
+2120130	pol	Tom zauważył, że Mary śpi.
+2120131	heb	אני רוצה לחלום.
+2120132	pol	Przepraszam. Nie mam zbyt dużo czasu.
+2120133	pol	Tom, gdzie jesteś?
+2120134	pol	Dlaczego nie odpowiesz?
+2120135	pol	Czas życia motyla jest krótki.
+2120136	pol	To jest niepoprawne.
+2120137	pol	Tom ciebie nie widzi.
+2120138	heb	זקן אמר את דבר הפתיחה.
+2120139	fin	Ilmankos juontaja kuulosti oudolta: hänhän oli sairas.
+2120140	pol	Tom płakał całą noc.
+2120141	heb	עלמה יפה פצחה במחול.
+2120142	pol	Tom jest martwy.
+2120143	pol	Tom jest przystojny.
+2120144	pol	Tom otworzył oczy i zobaczył Mary.
+2120145	pol	Tom otworzył pudełko i zajrzał do środka.
+2120146	pol	Tom sięgnął po słownik na górnej półce.
+2120147	fin	Tunnen hänet jotenkuten
+2120148	epo	Mi volas eliri de ĉi tie.
+2120149	pol	Tom groził mi. Powiedział, że jeśli nie dam mu pieniędzy, obetnie mi palec.
+2120150	heb	אני רוצה לצאת מכאן.
+2120151	pol	Tom wziął butelkę szkockiej z teczki i dał ją Mary.
+2120152	pol	Tom chce pomóc.
+2120153	pol	Tom będzie tam.
+2120154	pol	Tom musi zaczekać.
+2120155	pol	Wracaj do pracy.
+2120156	pol	Zostaw moją rodzinę w spokoju.
+2120157	pol	Pozwól mi zadać ci pytanie.
+2120158	pol	Pozwól mi pomóc.
+2120159	pol	Pokaż mi tę listę.
+2120160	pol	Nie pij tego.
