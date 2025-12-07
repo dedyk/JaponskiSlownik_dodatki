@@ -1,8 +1,3 @@
-315951	eng	For all her efforts, she didn't succeed.
-315952	eng	She is going to visit her grandmother on Saturday.
-315953	eng	She doesn't have to go to school on Saturday.
-315955	eng	She got angry.
-315957	eng	She was angry, but she spoke with restraint.
 315958	eng	She was angry. That is why she remained silent.
 315959	eng	She must be angry.
 315960	eng	She broke the dish on purpose just to show her anger.
@@ -5000,7 +4995,6 @@
 321518	eng	Look at my new car.
 321519	eng	I have a feeling that something is lacking in my life.
 321520	eng	You can't run my life.
-321522	eng	Can you hear I'm calling?
 321523	eng	I'd like you to see my collection of stamps.
 321524	eng	My predecessors had asked their questions of nature with genuine curiosity and awaited her reply.
 321525	eng	Two boys stood in front of me.
@@ -8724,7 +8718,6 @@
 325739	eng	He scattered the coins of the money-changers and overturned their table.
 325740	eng	The two regions differ in religion and culture.
 325741	eng	You can't have it both ways.
-325742	eng	Between two stools one falls to the ground.
 325744	eng	They are both good.
 325745	eng	I do not like either of them.
 325747	eng	A common theme underlies both perspectives.
@@ -13371,7 +13364,7 @@
 330571	spa	"Seis centavos por segundo" le recordó Bob.
 330572	spa	Dijo: "La vi hace cinco días".
 330573	spa	¿Cómo se deletrea "bonita"?
-330574	spa	"¿Qué significa O.V.N.I?" "Significa Objeto Volador No Identificado, creo"
+330574	spa	"¿Qué significa O.V.N.I?" "Significa Objeto Volador No Identificado, creo".
 330575	spa	Di "ahh".
 330576	spa	"Ah" es una interjección.
 330577	spa	"¡Listo!" dice el ángel y desaparece en una nube de humo y el rayo de un relámpago.
@@ -14823,7 +14816,7 @@
 332070	fra	Le vieux fermier ne l'a pas beaucoup payé.
 332071	fra	Qu'est-ce que tu aimes le plus, ceci ou cela ?
 332072	fra	Je pense que les fantômes existent.
-332073	fra	La longue sécheresse fut suivie de famine.
+332073	fra	La longue sécheresse fut suivie d'une famine.
 332074	fra	Dans les bois, elle rencontra deux étrangers.
 332076	fra	Nous sommes à la maison aujourd'hui.
 332077	fra	Certains adverbes anglais fonctionnent comme des adjectifs.
@@ -20783,7 +20776,7 @@
 338176	fra	Elle a dû finir ce travail hier.
 338178	fra	Les années 90 ont commencé avec la guerre du golfe.
 338179	fra	Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
-338180	cmn	人人生而自由,在尊严和权利上一律平等。他们赋有理性和良心,并应以兄弟关系的精神相对待。
+338180	cmn	人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以兄弟关系的精神相对待。
 338181	ces	Všichni lidé rodí se svobodní a sobě rovní co do důstojnosti a práv. Jsou nadáni rozumem a svědomím a mají spolu jednat v duchu bratrství.
 338182	eng	All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 338183	jpn	１９７１年から１９８７年まで私の母は日本国有鉄道の駅員でした。
@@ -21002,7 +20995,7 @@
 338401	fra	Oh ! Montrez-moi s'il vous plaît.
 338402	epo	Bonvolu pardoni min.
 338403	deu	Bitte verzeihen Sie mir.
-338404	fra	Pardonnez-moi s'il vous plaît.
+338404	fra	Pardonnez-moi, s'il vous plaît.
 338405	cmn	千里之行，始于足下。
 338406	fra	Pas à pas, on va loin.
 338407	fra	Le fait qu'il soit un génie est clair pour tout le monde.
@@ -38417,7 +38410,6 @@
 356198	ces	Řekni mi, co se stalo.
 356199	fin	Minä rakastan sinua.
 356200	eng	Who are you?
-356201	fra	Qui es-tu ?
 356203	spa	¿Quién eres?
 356204	fra	Le syllogisme est un raisonnement logique à deux propositions conduisant à une conclusion.
 356205	eng	Syllogism is a logical argument in which two propositions determine one conclusion.
@@ -49904,7 +49896,7 @@
 367969	pol	Nie jem miesa, ryb, owocow morza i bulionow pochodzenia zwierzecego.
 367970	por	Não como carne, nem peixe, nem marisco, nem caldo de origem animal.
 367971	fra	Je ne mange pas de viande, pas de poisson et pas de fruits de mer, ni de bouillon d'origine animale.
-367972	cmn	我 不吃肉，不吃鱼，不吃海鲜，也不吃荤汤。
+367972	cmn	我不吃肉、不吃鱼、不吃海鲜，也不吃荤汤。
 367973	eng	I do not eat meat, fish, shellfish, poultry or broth.
 367974	nld	Ik eet geen vlees, geen vis en geen zeevruchten, en ook geen vleesbouillon.
 367975	deu	Ich wette, dass ich es jetzt schaffe, mit dem Rauchen aufzuhören.
@@ -49998,3 +49990,11 @@
 368071	deu	Sein Vater übte einen guten Einfluss auf ihn aus.
 368072	deu	Sein Alter beginnt Wirkung zu zeigen.
 368073	deu	Rauchen wirkt sich auf die Gesundheit aus.
+368074	deu	Der Frost wirkte sich negativ auf die Ernte aus.
+368075	deu	Die Gesellschaft übt einen großen Einfluss auf Individuen aus.
+368076	deu	Da die Stimmen von den Wänden reflektiert werden, ist es in diesem Zimmer laut.
+368077	deu	In dem Augenblick explodierte es mit einem lauten Knall.
+368078	deu	Es explodierte mit einem großen Knall.
+368079	jpn	ただ今限定20名様にだけ、年下女を操る秘密を無料で公開しております。
+368080	pol	Ważne jest, by jeździć ostrożnie.
+368081	pol	Moi rodzice zawsze zależą od niego.

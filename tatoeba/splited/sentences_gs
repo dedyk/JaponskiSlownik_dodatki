@@ -1,858 +1,3 @@
-9127120	ces	Ten pes se pod tím uhnízdil.
-9127121	tur	Hiç arkadaşı yoktu.
-9127122	rus	У неё не было друзей.
-9127123	rus	У неё не было подруг.
-9127124	rus	Друзей у неё не было.
-9127125	rus	Подруг у неё не было.
-9127126	hun	Könnyű rossz szokásokat felvenni.
-9127127	hun	Ne hagyd, hogy ez a kódkönyv ellenség kezébe kerüljön!
-9127128	lit	Aš tikrai GERAI su ja susipažinau.
-9127129	lit	Aš iš tikrųjų GERAI su ja susipažinau.
-9127130	rus	Мне предстоит закрыть эту историю.
-9127131	hun	Tom álomba zuhan, amint ágyba kerül.
-9127132	rus	Мне предстоит закончить эту историю.
-9127133	lit	Tomas protingai pasirinko.
-9127134	rus	Мы выехали из Бостона в половине третьего.
-9127135	lit	Tomas išmintingai pasirinko.
-9127136	rus	Я не буду за тобой идти.
-9127137	rus	Я не буду за вами идти.
-9127138	rus	Мы заплатили Тому, чтобы он нам помог.
-9127139	rus	Мы слепые.
-9127140	ber	Tura d lbiɛ i d-nettaɣ aman.
-9127141	ber	Tura d lbiɛ i d-yettaɣ aman.
-9127142	hun	Azt hiszem, kezdek elaludni.
-9127143	ber	Tura d lbiɛ i d-tettaɣ aman.
-9127144	ber	Tura d lbiɛ i d-tettaɣeḍ aman.
-9127145	ber	Tura d lbiɛ i d-tettaɣem aman.
-9127146	ber	Tura d lbiɛ i d-tettaɣemt aman.
-9127147	rus	Давайте предоставим Тому выбор.
-9127148	rus	Вот что тебе нужно знать.
-9127149	rus	Вот что вам нужно знать.
-9127150	ber	Tura d lbiɛ i d-ttaɣeɣ aman.
-9127151	ber	Tura d lbiɛ i d-ttaɣen aman.
-9127152	rus	Я никогда не могу отличить Тома от его младшего брата.
-9127153	ber	Tura d lbiɛ i d-ttaɣent aman.
-9127154	hun	Két órámba került, mire mindent megcsináltam.
-9127155	hun	Rossz előérzetem van.
-9127156	ber	Anda i llan waman, tettili tudert.
-9127157	hun	Hadd válaszoljak!
-9127158	hun	Hagyj válaszolni!
-9127159	ber	Tettili tudert anda i ttilin waman.
-9127160	hun	Hagyd, hogy válaszoljak!
-9127161	eng	The obedient children suddenly turned into petulant teenagers.
-9127162	rus	Мне бы очень не хотелось снова платить.
-9127163	rus	Мне бы очень не хотелось опять платить.
-9127164	rus	Мне бы очень не хотелось тебя разочаровывать.
-9127165	rus	Мне бы очень не хотелось вас разочаровывать.
-9127166	rus	Мне бы очень не хотелось оказаться в твоей шкуре.
-9127167	rus	Мне бы очень не хотелось оказаться в вашей шкуре.
-9127168	hun	A fejes káposzta azon zöldségfajták közé tartozik, melyek a legkevésbé ízlenek nekem.
-9127169	eng	Tom stepped down after details of his unsavoury past emerged.
-9127170	rus	Мне бы очень не хотелось оказаться на твоём месте.
-9127171	rus	Мне бы очень не хотелось оказаться на вашем месте.
-9127172	ber	Mi stufaɣ, ad n-ɛeddiɣ ɣur-k.
-9127173	ber	Mi stufan, ad n-ɛeddin ɣur-k.
-9127174	rus	Кто-то должен сказать Тому, чтобы он этого не делал.
-9127175	rus	Кому-то надо сказать Тому, чтобы он этого не делал.
-9127176	hun	Tamás bejár a Parlamentbe aludni; amennyiben meg ha nem szunyókál, akkor unott, bamba pofát vág, míg egyesek felszólalnak.
-9127177	rus	Сейчас мне надо идти, но я скоро вернусь.
-9127178	rus	Тебе нужно быть напористым.
-9127179	rus	Тебе нужно быть напористой.
-9127180	rus	Вам нужно быть напористым.
-9127181	rus	Вам нужно быть напористой.
-9127182	rus	Вам нужно быть напористыми.
-9127183	ber	Mi stufant, ad n-ɛeddint ɣur-k.
-9127184	hun	A fejes káposzta azok közé a zöldségfajták közé tartozik, melyek a legkevésbé ízlenek nekem.
-9127185	ber	Mi yestufa, ad n-iɛeddi ɣur-k.
-9127186	ber	Mi yestufa, ad n-iɛeddi ɣur-m.
-9127187	rus	Ты где-то ошибся.
-9127188	rus	Ты в чём-то ошибся.
-9127189	hun	Két órámba telt mindent elintézni.
-9127190	ber	Mi stufaɣ, ad n-ɛeddiɣ ɣur-m.
-9127191	rus	И в чём твоя ошибка?
-9127192	ber	Mi stufan, ad n-ɛeddin ɣur-m.
-9127193	rus	И в чём заключается твоя ошибка?
-9127194	rus	И в чём, собственно, заключается твоя ошибка?
-9127195	ber	Mi stufant, ad n-ɛeddint ɣur-m.
-9127196	rus	В ваших расчётах есть ошибка.
-9127197	rus	Больше не приставай ко мне.
-9127198	ber	Mi testufa, ad n-tɛeddi ɣur-m.
-9127199	ber	Mi testufa, ad n-tɛeddi ɣur-k.
-9127200	deu	Es ist traurig, dass Tom nicht mehr bei uns ist.
-9127201	rus	Что ты делаешь этим вечером?
-9127202	ber	Mi nestufa, ad nɛeddi-n ɣur-m.
-9127203	ber	Mi nestufa, ad nɛeddi-n ɣur-k.
-9127204	rus	Мы слишком много смотрим телевизор.
-9127205	eng	The chairwoman of the commission presented its final report.
-9127206	ber	Mi testufaḍ, ad n-tɛeddiḍ ɣur-s.
-9127207	ber	Mi testufam, ad n-tɛeddim ɣur-s.
-9127208	rus	Я слишком много смотрю телевизор.
-9127209	rus	Он слишком много смотрит телевизор.
-9127210	ber	Mi testufamt, ad n-tɛeddimt ɣur-s.
-9127211	rus	Она слишком много смотрит телевизор.
-9127212	rus	Они слишком много смотрят телевизор.
-9127213	ber	Mi testufam, ad n-tɛeddim ɣur-sen.
-9127214	ber	Mi testufam, ad n-tɛeddim ɣur-sent.
-9127215	jpn	嵐の真っただ中、行かなくてもいいよ。
-9127216	rus	Они говорят об одном и том же, но разными словами.
-9127217	jpn	嵐のさなか、出発する必要はない。
-9127218	rus	Врач сказал Тому, чтобы он бросил курить.
-9127219	rus	Но он безосновательно обвинил её!
-9127220	rus	Мне не на что жить.
-9127221	rus	Я тебе вообще ничего не скажу.
-9127222	rus	Я вам вообще ничего не скажу.
-9127223	hun	Nem voltak barátai.
-9127224	rus	У меня нет денег на всякие пустяки.
-9127225	rus	У меня нет денег на различного рода развлечения.
-9127226	rus	Мы были вынуждены спуститься в бункер.
-9127227	rus	Нас вынудили спуститься в бункер.
-9127228	rus	Нужно больше золота.
-9127229	rus	Чтобы реализовать наши грандиозные планы, нам нужно значительно больше денежных средств, чем у нас есть сейчас.
-9127230	rus	Исчезни с глаз моих долой.
-9127231	spa	Eres todo un hombre.
-9127232	ber	Yal yiwen wissen d acu yuḍen. nekk aṭṭan-iw qqaren-as Tira,
-9127233	ber	Taqbaylit kkaten ad tt-snegren. S cwiṭ-a i d-rniɣ s tira-w, yezmer lḥal ad yiɣzif cwiṭ leɛmer-is.
-9127234	eng	Tom and Mary only eat in upmarket restaurants.
-9127235	ber	Tugi ad d-taweḍ nnuba-w.
-9127236	ber	Tugi ad d-taweḍ nnuba-k.
-9127237	ber	Tugi ad d-taweḍ nnuba-m.
-9127238	ber	Tugi ad d-taweḍ nnuba-s.
-9127239	ber	Tugi ad d-taweḍ nnuba-nneɣ.
-9127240	ber	Tugi ad d-taweḍ nnuba-nteɣ.
-9127241	rus	Я всё потеряю.
-9127242	rus	Том, оставь мои вещи в покое.
-9127243	eng	Crying your eyes out doesn't help.
-9127244	hun	Tom már alszik?
-9127245	eng	Mary left Tom to fend for himself.
-9127246	jpn	僕たち１時間以内に着くよ。
-9127247	ber	Tamsalt tewɛer, tuwiḍ fell-aneɣ ad as-nezzi s wayen imwimi nezmer.
-9127248	eng	The government's response to the protests was considered a bit heavy-handed.
-9127249	jpn	私たちは一時間以内に到着します。
-9127250	ber	Imdanen akk d iḥeddaden n wawal. Yiwen kan yessen ad ten-id-yini, wayeḍ yeffer-iten.
-9127251	ber	Nnuba-k tɛedda ur tfaqeḍ.
-9127252	ber	Nnuba-m tɛedda ur tfaqeḍ.
-9127253	eng	After their manager was fired, the employees were left to their own devices.
-9127254	ber	Nnuba-s tɛedda ur ifaq.
-9127255	ber	Nnuba-s tɛedda ur tfaq.
-9127256	rus	Вот что тебе нужно сделать.
-9127257	rus	Вот что вам нужно сделать.
-9127258	rus	Том был арестован не в Австралии, а в Новой Зеландии.
-9127259	ber	Nnuba-nneɣ tɛedda ur nfaq.
-9127260	rus	Интересно, что об этом скажет Том.
-9127261	ber	Nnuba-nteɣ tɛedda ur nfaq.
-9127262	rus	Интересно, что на это скажет Том.
-9127263	hun	Próbálj meg nem leesni!
-9127264	rus	Возможно, это то, что нам нужно.
-9127265	rus	Давно вы с Томом встречаетесь?
-9127266	rus	Я это завтра исправлю.
-9127267	rus	Я это завтра починю.
-9127268	ber	Nnuba-nwen tɛedda ur tfaqem.
-9127269	ber	Nnuba-nwent tɛedda ur tfaqemt.
-9127270	rus	В настоящее время Том - учитель.
-9127271	ber	Nnuba-nkent tɛedda ur tfaqemt.
-9127272	nld	Het koude zweet brak haar uit.
-9127273	ber	Nnuba-w tɛedda ur faqeɣ.
-9127274	ber	Nnuba-nsen tɛedda ur faqen.
-9127275	ber	Nnuba-nsent tɛedda ur faqent.
-9127276	eng	What would it cost to repair this chair?
-9127277	ita	Tom sembra essere molto disorganizzato.
-9127278	ita	Sono anche uno studente.
-9127279	eng	Telephone scams are very popular.
-9127280	lit	Rytoj aš tą ištaisysiu.
-9127281	ita	Sono anche una studentessa.
-9127282	lit	Rytoj aš tą pataisysiu.
-9127283	hun	Jobb szeretem a tavaszt az ősznél.
-9127284	nld	Helaas brak hij bij het ongeval zijn been.
-9127285	eng	I'm not going to do your job for you.
-9127286	lit	Rytoj aš tą sutaisysiu.
-9127287	lit	Rytoj aš tą suremontuosiu.
-9127288	nld	Weet je hoeveel eilanden Griekenland heeft in totaal?
-9127289	hun	Nem szerettem bele.
-9127290	nld	Ik ben al drie keer in Kyoto geweest.
-9127291	eng	You can't smoke except on the terrace.
-9127292	eng	I lived there alone.
-9127293	hun	Szerelmes vagy belém?
-9127294	eng	Go out and don't care about what they say!
-9127295	hun	Azt hiszem, szerelmes lettem.
-9127296	eng	I've eaten like a pig.
-9127297	lit	Ką apie tai pagalvotų tavo tėvas?
-9127298	eng	They use neither tables nor chairs.
-9127299	eng	No one told me what you wrote in this letter.
-9127300	nld	Hij staat met één been in het graf.
-9127301	eng	She does everything fast.
-9127302	lit	Aš neįsimylėjau.
-9127303	eng	The conference takes place every year.
-9127304	hun	Tom beleszeret Máriába.
-9127305	epo	Mi ne ekamis.
-9127306	hun	Tom kezdett beleszeretni Marybe.
-9127307	nld	Op welke dag bent u geboren?
-9127308	hun	Tom minden nőbe beleesik, akivel csak találkozik.
-9127309	lit	Čilė laukia tavo sugrįžimo!
-9127310	nld	De vader kookt nu het eten in de keuken.
-9127311	eng	Drink water!
-9127312	run	Uno munsi ni jewe ndamukiwe guteka.
-9127313	eng	The court didn't have enough evidence to convict him.
-9127314	deu	Heute bin ich dran mit kochen.
-9127315	eng	This doesn't depend on me.
-9127316	nld	Met moeite vonden we een tafel.
-9127317	eng	I started playing soccer at the age of seven.
-9127318	eng	Can you call me a cab?
-9127319	rus	Караул устал.
-9127320	rus	Можешь вызвать мне такси?
-9127321	rus	Можете вызвать мне такси?
-9127322	rus	Том сегодня не приходил.
-9127323	rus	Он сегодня не приходил.
-9127324	rus	Она сегодня не приходила.
-9127325	rus	Том сегодня приходил?
-9127326	rus	Он сегодня приходил?
-9127327	rus	Она сегодня приходила?
-9127328	hun	Nem terveztem, hogy szerelmes leszek beléd.
-9127329	rus	В понедельник Тома не отпустят.
-9127330	hun	Még senki nem jött fel.
-9127331	rus	Пациент нуждается в постоянном уходе.
-9127332	rus	Ислам изменил его жизнь.
-9127333	rus	Пойдём кататься на роликах.
-9127334	rus	Пошли кататься на роликах.
-9127335	rus	Мне надо ещё кое-что тебе сказать.
-9127336	rus	Мне надо ещё кое-что вам сказать.
-9127337	hun	A lift felfelé jön.
-9127338	rus	Мы сказали да.
-9127339	rus	Том хорошо сделал работу.
-9127340	rus	Том свозил щенка к ветеринару.
-9127341	hun	Újabb probléma merült fel.
-9127342	fra	Marie voulait être chanteuse quand elle était petite.
-9127343	hun	Az a téma gyakran felmerül.
-9127344	por	Maria queria ser cantora quando era pequena.
-9127345	rus	Мы не в порядке.
-9127346	rus	У нас не всё в порядке.
-9127347	rus	Нам нужно предоставить Тому выбор.
-9127348	lfn	Maria ia vole es cantor cuando el ia es peti.
-9127349	hun	Tom biztonságban hazaért.
-9127350	lfn	Мариа иа воле ес кантор куандо ел иа ес пети.
-9127351	epo	Manjo volis esti kantisto kiam ŝi estis malgranda.
-9127352	spa	María quería ser cantante cuando era pequeña.
-9127353	eng	Mary wanted to be a singer when she was little.
-9127354	ita	Maria voleva essere una cantante quando era piccola.
-9127355	run	Tubwirizwa guhamba ivyagirizi.
-9127356	run	Amahera avunjwa gute ubu?
-9127357	run	Uturusho ni utuhe?
-9127358	run	Inyungu ni iyihe?
-9127359	run	Turahagaritse ibiganiro vyacu kubera inkuru ihambaye idushikiye.
-9127360	run	Imigambi yiwe isa nk'iyiri kure y'ukwezi.
-9127361	run	Imipango yiwe isa nk'indoto.
-9127362	rus	Было бы обидно, если бы ты этого не сделал.
-9127363	rus	Было бы обидно, если бы вы этого не сделали.
-9127364	run	Ijoro ryose ngira inyota.
-9127365	nld	Is dat zelfs een woord?
-9127366	nld	Is dat wel een woord?
-9127367	run	Ifrigo iragaragara.
-9127368	run	Ifrigo irera.
-9127369	run	Narumvise ejo mw'ijoro abavyeyi banje bongorerana.
-9127370	rus	Ужин, похоже, запаздывает.
-9127371	run	Ndamuhamagara uyu munsi ku mugoroba.
-9127372	rus	Ночью был сильный снегопад.
-9127373	run	Ndabahamagara uno munsi ku mugoroba.
-9127374	run	Ntiwibagire isezerano ryawe.
-9127375	spa	Hay espacio para uno más, querida.
-9127376	run	Mu micungararo y'aha hari ibiryoherajisho vyinshi.
-9127377	eng	There's room for one more, honey.
-9127378	kab	Ilmend n tawayt isallen i nga, nettnadi kra n umεiwen yessnen ad yawi izen s webrid aḥerfi yettbinen.
-9127379	run	Ubwirizwa kwuzuza urwo rupapuro.
-9127380	kab	Iwacu ulac tamalṭit deg umuɣ n tutlayin?
-9127381	rus	Том спал на диване в гостиной.
-9127382	rus	Я иду к Тому на вечеринку.
-9127383	kab	Yebder-d yiwen usefru n Keats.
-9127384	run	Iduka ry'imikate ryugurura ryari?
-9127385	run	Umudandaza w'imikate yugurura ryari?
-9127386	tok	jan Mewi li lili, la ona li wile kama jan pi kalama musi uta.
-9127387	run	Ubwirizwa kuja kandi kwa kimyozi vuba.
-9127388	kab	Deg Internet tzemreḍ ad tkecmeḍ deg teswiεt ɣer yisalli tebɣiḍ.
-9127389	rus	Тебя там люди уже два часа ждут.
-9127390	rus	Мари хотела быть певицей, когда была маленькой.
-9127391	rus	Вас там люди уже два часа ждут.
-9127392	rus	Меня там люди уже два часа ждут.
-9127393	rus	Меня люди ждут.
-9127394	run	Twibaze ingaruka zari kuba iyo ibintu biyanzara.
-9127395	rus	"Меня люди ждут". - "Подождут".
-9127396	rus	"Тебя люди ждут". - "Подождут".
-9127397	spa	Me había convertido en un autómata.
-9127398	rus	"Вас люди ждут". - "Подождут".
-9127399	eng	I've turned into a robot.
-9127400	kab	Iwacu theddreḍ fell-as am akken d amɣar i yella?
-9127401	rus	Мы заболели.
-9127402	deu	Marie wollte Sängerin werden, als sie klein war.
-9127403	ber	Yeqqim yettraju nnuba-s am win tettraju tteryel.
-9127404	rus	Том сказал мне, что это неважно.
-9127405	ber	Teqqim tettraju nnuba-s am win tettraju tteryel.
-9127406	ber	Neqqim nettraju nnuba-nneɣ am win tettraju tteryel.
-9127407	ber	Neqqim nettraju nnuba-nteɣ am win tettraju tteryel.
-9127408	rus	Том привык засиживаться допоздна.
-9127409	kab	Azɣal d tafat d iḍulliyen deg tilin-nneɣ.
-9127410	rus	Я чуть не забыл, что у меня сегодня урок французского.
-9127411	kab	Ur zmireɣ ad ruḥeɣ ula sani.
-9127412	ber	Teqqimeḍ tettrajuḍ nnuba-k am win tettraju tteryel.
-9127413	rus	Вот список того, что нам нужно купить.
-9127414	ber	Teqqimeḍ tettrajuḍ nnuba-m am win tettraju tteryel.
-9127415	fra	Elle n'oubliera jamais ce jour.
-9127416	ber	Teqqimem tettrajum nnuba-nwen am win tettraju tteryel.
-9127417	por	Ela jamais esquecerá aquele dia.
-9127418	ber	Teqqimemt tettrajumt nnuba-nwent am win tettraju tteryel.
-9127419	ber	Teqqimemt tettrajumt nnuba-nkent am win tettraju tteryel.
-9127420	ber	Qqimeɣ ttrajuɣ nnuba-w am win tettraju tteryel.
-9127421	ber	Qqimen ttrajun nnuba-nsen am win tettraju tteryel.
-9127422	ber	Qqiment ttrajunt nnuba-nsent am win tettraju tteryel.
-9127423	lat	Periculis se obtulit.
-9127424	lat	Thomas periculis se obtulit.
-9127425	lat	Maria periculis se obtulit.
-9127426	lat	Periculis me obtuli.
-9127427	ber	Ɣas mgaradent tikta-nneɣ, tuwi-d fell-aneɣ ad nettemqadar.
-9127428	lat	Multis periculis oblatus est.
-9127429	ber	Ɣas mgaradent tikta-nwen, tuwi-d fell-awen ad tettemqadarem.
-9127430	rus	Вы были очень добры.
-9127431	ber	Ɣas mgaradent tikta-nwent, tuwi-d fell-awent ad tettemqadaremt.
-9127432	rus	Ты был очень добр.
-9127433	rus	Ты была очень добра.
-9127434	ber	Ɣas mgaradent tikta-nkent, tuwi-d fell-akent ad tettemqadaremt.
-9127435	rus	Мы подали на Тома в суд.
-9127436	kab	Deg tegrawla-nni tamgurant, medden llan xeddmen 16 n sswayeε i wass ɣef tikelt.
-9127437	ber	Ɣas mgaradent tikta-nsen, tuwi-d fell-asen ad ttemqadaren.
-9127438	ber	Ɣas mgaradent tikta-nsent, tuwi-d fell-asent ad ttemqadaren.
-9127439	rus	Восемь плюс восемь будет шестнадцать.
-9127440	rus	Восемь плюс восемь - шестнадцать.
-9127441	ber	Tikta-k malent aṭas ɣer usɣan.
-9127442	ber	Tikta-k malent aṭas ɣer ddin.
-9127443	ber	Tikta-m malent aṭas ɣer usɣan.
-9127444	ber	Tikta-m malent aṭas ɣer ddin.
-9127445	rus	Почему бы тебе не начать изучать французский?
-9127446	rus	Почему бы вам не начать изучать французский?
-9127447	ber	Tikta-s malent aṭas ɣer usɣan.
-9127448	rus	Сегодня вечером я буду заниматься с Томом французским.
-9127449	ber	Tikta-s malent aṭas ɣer ddin.
-9127450	rus	Вечером я буду заниматься с Томом французским.
-9127451	rus	Я только начал изучать французский.
-9127452	ber	Tikta-nneɣ malent aṭas ɣer usɣan.
-9127453	rus	"Какой язык ты изучаешь?" - "Я изучаю французский".
-9127454	rus	"Какой язык Вы изучаете?" - "Я изучаю французский".
-9127455	ber	Tikta-nteɣ malent aṭas ɣer usɣan.
-9127456	ber	Tikta-nneɣ malent aṭas ɣer ddin.
-9127457	ber	Tikta-nteɣ malent aṭas ɣer ddin.
-9127458	ber	Tikta-nwen malent aṭas ɣer usɣan.
-9127459	ber	Tikta-nwen malent aṭas ɣer ddin.
-9127460	ber	Tikta-nwent malent aṭas ɣer usɣan.
-9127461	ber	Tikta-nwent malent aṭas ɣer ddin.
-9127462	ber	Tikta-nkent malent aṭas ɣer usɣan.
-9127463	ber	Tikta-nkent malent aṭas ɣer ddin.
-9127464	ber	Tikta-w malent aṭas ɣer usɣan.
-9127465	ber	Tikta-w malent aṭas ɣer ddin.
-9127466	ber	Tikta-nsen malent aṭas ɣer usɣan.
-9127467	ber	Tikta-nsen malent aṭas ɣer ddin.
-9127468	ber	Tikta-nsent malent aṭas ɣer usɣan.
-9127469	ber	Tikta-nsent malent aṭas ɣer ddin.
-9127470	rus	Мне очень хотелось изучать французский.
-9127471	rus	Это правда, что Том пытался покончить с собой?
-9127472	ber	Tudert-ik, bezzaf i tt-teqqneḍ ɣer usɣan.
-9127473	ber	Tudert-ik, bezzaf i tt-teqqneḍ ɣer ddin.
-9127474	ber	Tudert-im, bezzaf i tt-teqqneḍ ɣer usɣan.
-9127475	rus	Она умеет ездить на мотоцикле, не говоря уже о велосипеде.
-9127476	ber	Tudert-im, bezzaf i tt-teqqneḍ ɣer ddin.
-9127477	ber	Tudert-iw, bezzaf i tt-qqneɣ ɣer usɣan.
-9127478	ber	Tudert-iw, bezzaf i tt-qqneɣ ɣer ddin.
-9127480	ber	Tudert-nsen, bezzaf i tt-qqnen ɣer ddin.
-9127481	ber	Tudert-nsent, bezzaf i tt-qqnent ɣer usɣan.
-9127482	ber	Tudert-nsent, bezzaf i tt-qqnent ɣer ddin.
-9127483	rus	Это глупо, мягко говоря.
-9127484	rus	Интересно, как сейчас выглядит Том.
-9127485	ber	Tudert-is, bezzaf i tt-teqqen ɣer usɣan.
-9127486	rus	Мы войдём.
-9127487	ber	Tudert-is, bezzaf i tt-teqqen ɣer ddin.
-9127488	ber	Tudert-is, bezzaf i tt-yeqqen ɣer usɣan.
-9127489	ber	Tudert-is, bezzaf i tt-yeqqen ɣer ddin.
-9127490	rus	Это то, что нам сейчас нужно.
-9127491	ber	Tudert-nneɣ, bezzaf i tt-neqqen ɣer usɣan.
-9127492	ber	Tudert-nneɣ, bezzaf i tt-neqqen ɣer ddin.
-9127493	ber	Tudert-nteɣ, bezzaf i tt-neqqen ɣer usɣan.
-9127494	ber	Tudert-nteɣ, bezzaf i tt-neqqen ɣer ddin.
-9127495	ber	Tudert-nsen, bezzaf i tt-qqnen ɣer usɣan.
-9127496	ber	Tudert mačči d asɣan kan, tudert d ayen-nniḍen.
-9127497	ber	Tudert mačči d ddin kan, tudert d ayen-nniḍen.
-9127498	ber	Ur ddiren ara wid iḍefren ala asɣan.
-9127499	ber	Ur ddiren ara wid iḍefren ala ddin.
-9127500	ber	Ur ddirent ara tid iḍefren ala asɣan.
-9127501	ber	Ur ddirent ara tid iḍefren ala ddin.
-9127502	rus	Мне надо будет помочь Тому сегодня вечером.
-9127503	rus	Мне придётся помочь Тому сегодня вечером.
-9127504	ber	Ur yeddir ara win iḍefren ala asɣan.
-9127505	ber	Ur yeddir ara win iḍefren ala ddin.
-9127506	rus	Мне надо будет помочь вечером Тому.
-9127507	rus	Мне придётся помочь вечером Тому.
-9127508	ber	Ur teddir ara tin iḍefren ala asɣan.
-9127509	ber	Ur teddir ara tin iḍefren ala ddin.
-9127510	rus	Ты хоть представляешь, сколько это стоит?
-9127511	rus	Вы хоть представляете, сколько это стоит?
-9127512	rus	Если ты мне не скажешь, что ты сделал, Том скажет.
-9127513	rus	Если вы мне не скажете, что вы сделали, Том скажет.
-9127514	epo	Estas necese, ke mi helpu al Tomaso ĉi-vespere.
-9127515	rus	Тому нужно устроиться на работу.
-9127516	rus	Не нужно мне это повторять.
-9127517	eng	She will never forget that day.
-9127518	rus	Не нужно мне опять это говорить.
-9127519	eng	She'll never forget that day.
-9127520	rus	Это правда, что Том пытался утопиться?
-9127521	rus	Можно мне отхлебнуть?
-9127522	lfn	El va a no tempo oblida acel dia.
-9127523	rus	Она никогда не забудет этот день.
-9127524	lfn	Ел ва нунка облида акел диа.
-9127525	rus	Ты хоть представляешь, сколько он стоит?
-9127526	rus	Вы хоть представляете, сколько он стоит?
-9127527	rus	Ты хоть представляешь, сколько она стоит?
-9127528	rus	Вы хоть представляете, сколько она стоит?
-9127529	rus	Ты хоть представляешь, сколько оно стоит?
-9127530	rus	Вы хоть представляете, сколько оно стоит?
-9127531	epo	Ŝi neniam forgesos tiun tagon.
-9127532	ita	Non dimenticherà mai quel giorno.
-9127533	spa	Ella nunca olvidará ese día.
-9127534	eng	"Which of these paths do you prefer?" we asked a donkey stuck between an ascending and a descending trail. "I wish there were a pickax to demolish both of them," he replied.
-9127535	fra	« Lequel de ces chemins préfères-tu ? » demanda-t-on à un âne coincé entre une montée et une descente ; « J'aimerais qu'il y ait une pioche pour démolir les deux », répondit-il.
-9127536	tok	tenpo ala la ona li weka e tenpo suno ni.
-9127537	deu	Sie wird diesen Tag nie vergessen.
-9127538	fra	Tom a demandé Marie en mariage.
-9127539	epo	Tomo svatiĝis al Manjo.
-9127540	por	Tom pediu Mary em casamento.
-9127541	jpn	おはようの挨拶をした。
-9127542	jpn	トムはボストンで働いてたんだ。
-9127543	tok	sina sona ala sona e ni: jan Ton li jo ala e lipu ken pi jan lawa pi tomo tawa?
-9127544	jpn	これ手で縫ったの？
-9127545	kab	Iban kan!
-9127546	jpn	縫い物がとてもお上手ですね。
-9127547	jpn	彼女は針と糸で縫い物をします。
-9127548	tok	ona li jo e mije lili tu wan e meli lili wan.
-9127549	kab	Ikad kan!
-9127550	kab	Wamma ihi!
-9127551	kab	Wamma !
-9127552	eng	The baby is in the mother's womb.
-9127553	lfn	Ла бебе ес ен ла утеро де ла мадре.
-9127554	lfn	La bebe es en la utero de la madre.
-9127555	tok	jan lili li lon insa pi mama meli.
-9127556	por	O bebê está no ventre da mãe.
-9127557	spa	El bebé está en el útero de la madre.
-9127558	epo	La bebo estas en la utero de la patrino.
-9127559	fra	Bien sûr !
-9127560	jpn	母は縫う手を止めて、本を拾った。
-9127561	ita	Il bambino è nel grembo materno.
-9127562	deu	Das Baby ist im Mutterleib.
-9127563	fra	Le bébé est dans le ventre de sa mère.
-9127564	rus	Младенец находится в утробе матери.
-9127565	jpn	自分の思いを私に話してごらんよ。
-9127566	jpn	私には難しすぎるよ。
-9127567	jpn	私にはハードルが高いな。
-9127568	spa	Sé porque el pájaro encarcelado canta.
-9127569	eng	I know why the imprisoned bird sings.
-9127570	jpn	なるべく早く連絡しますね。
-9127571	spa	Estos daños son irreparables.
-9127572	eng	These damages are irreparable.
-9127573	por	Estou seguro por enquanto.
-9127574	por	Tom não tinha pressa em fazer isso.
-9127575	por	Tom não estava com pressa para fazer isso.
-9127576	por	Vou trabalhar nisso.
-9127577	por	Tom e Mary ambos falam francês?
-9127578	por	Estou chegando mais perto.
-9127579	por	Tom está pronto para fazer isso.
-9127580	por	Tom está pronto para fazê-lo.
-9127581	por	Tom está pronto para fazer.
-9127582	por	Vou estar pronto.
-9127583	por	Eu vou estar pronto.
-9127584	por	Talvez Tom tenha feito isso.
-9127585	por	Talvez Tom fizesse isso.
-9127586	por	Isso não significa que devemos desistir.
-9127587	por	Tom viu você fazer isso.
-9127588	por	Tom te viu fazer isso.
-9127589	por	Tom lhe viu fazer isso.
-9127590	por	Ainda estou esperando que Tom faça o que pedi a ele.
-9127591	por	Ainda estou esperando que Tom faça o que lhe pedi para fazer.
-9127592	por	Ainda estou tentando descobrir o que fazer.
-9127593	por	Estou muito cético.
-9127594	por	Sou muito incrédulo.
-9127595	por	Estou muito incrédulo.
-9127596	por	Sou muito cético.
-9127597	por	Eu ainda estou me divertindo.
-9127598	por	Ainda estou me divertindo.
-9127599	por	Tom nunca vai permitir que você vá.
-9127600	por	Tom jamais permitirá você ir.
-9127601	zsm	Saya main bola.
-9127602	kzj	Mimbuul zou.
-9127603	por	Tom jamais permitirá que você vá embora.
-9127604	por	Estou com muita sorte porque não estava ferido.
-9127605	zsm	Peperangan dengan Perancis sudah berakhir.
-9127606	kzj	Nokotouvi nodii o sumangod do Perancis
-9127607	zsm	Bir percuma pada hari Khamis
-9127608	eng	Beer is free on Thursday.
-9127609	kzj	Aiso kabalai iho hiing doid tadau kaapat.
-9127610	kzj	Au monguo do mimpodu po.
-9127611	por	Tenho muita sorte porque não estava ferido.
-9127612	por	Tenho muita sorte porque não estava machucado.
-9127613	por	Ainda não tenho certeza do porquê.
-9127614	zsm	Tidak mengapa mandi dulu.
-9127615	por	Eu ainda não tenho certeza do porquê.
-9127616	por	Ainda não tenho certeza porquê.
-9127617	por	Tom não estava sozinho em seu quarto.
-9127618	por	Tom não estava sozinho no quarto dele.
-9127619	por	É provável que aconteça.
-9127620	por	Isso é bem provável que aconteça.
-9127621	por	É bem provável que aconteça.
-9127622	por	É isso que quero dar ao Tom.
-9127623	por	É isso que quero dar a Tom.
-9127624	por	Ainda estou muito ocupado.
-9127625	por	Eu ainda estou muito ocupado.
-9127626	por	Estou muito orgulhoso de todos vocês.
-9127627	por	Um ruído veio do andar de cima, onde ninguém deveria estar.
-9127628	por	Ainda estou verificando.
-9127629	por	Ainda estou checando.
-9127630	por	Tom tinha mandado a Mary fazer isso.
-9127631	por	Tom mandou a Mary fazer isso.
-9127632	por	É provável que chegue três horas atrasado.
-9127633	por	É bem provável que chegue três horas atrasado.
-9127634	por	Deixe-me fazer um sanduíche de presunto para você.
-9127635	por	Deixe-me te fazer um sanduíche de presunto.
-9127636	zsm	Apa yang anda buat percutian terakhir?
-9127637	kzj	Onu nimaan nu do koundaangan ih touvi?
-9127638	kzj	Mambasa zou mai do buuk.
-9127639	zsm	Saya akan membaca buku.
-9127640	zsm	Saya kehilangan kunci saya.
-9127641	por	Não estava na manhã seguinte quando soubemos que Tom havia morrido.
-9127642	zsm	Mati kau!
-9127643	por	Só na manhã seguinte soubemos que Tom havia sido morto.
-9127644	por	Não estava na manhã seguinte quando soubemos que Tom havia sido morto.
-9127645	mar	त्याला जाऊन सांग तयार व्हायला.
-9127646	mar	त्याला जाऊन तयार व्हायला सांग.
-9127647	mar	जाऊन त्याला तयार व्हायला सांगा.
-9127648	mar	त्यांना ज्याची गरज होती ते त्यांनी विकत घेतलं.
-9127649	por	Ambos os lados terão que ceder um pouco.
-9127650	por	Os dois lados terão que ceder um pouco.
-9127651	por	Tom não estará na festa hoje à noite.
-9127652	por	Tom não estará na festa esta noite.
-9127653	por	Esse é o melhor conselho que posso dar.
-9127654	por	Ainda estou pensando nisso.
-9127655	por	Ainda estou planejando entrar para a equipe.
-9127656	por	Ainda estou planejando me juntar à equipe.
-9127657	por	Me liga se tiver notícias do Tom.
-9127658	zsm	Tali patah di bawah regangan.
-9127659	por	Tom já fez.
-9127660	kzj	Notipu no dukug di kinataasan.
-9127661	mar	कोणीही आलं नाहीये.
-9127662	mar	लिसा टॉरोंटोची आहे का?
-9127663	jpn	昨日はテニスをしてません。
-9127664	zsm	Saya kena mengurangkan berat badan, jadi saya berdiet.
-9127665	eng	She'll never forget this day.
-9127666	epo	Ŝi neniam forgesos ĉi tiun tagon.
-9127667	kzj	Popoinsiibo zou do vinagat tinan, kuangon ku dii pangangakan.
-9127668	eng	A number of us have done this and perhaps are still doing this.
-9127669	deu	Einige von uns haben das schon gemacht und machen es vielleicht noch immer.
-9127670	zsm	Saya belum pernah mempelajari yang dapat menyelesaikan masalah matematik secepat mungkin.
-9127671	jpn	今年の夏は海外に行くつもりなんだ。
-9127672	kzj	Au zou po minsingiho di kaanu umanai do kobohingkaangan do matematik di tosiisikap po.
-9127673	rus	Мои возможности безграничны.
-9127674	rus	Только маяк одиноко возвышался над бушующим морем.
-9127675	rus	Один лишь маяк одиноко возвышался над бушующим морем.
-9127676	rus	Мой дядя работает на маяке.
-9127677	rus	Что же здесь произошло?
-9127678	rus	Ваша ошибка в том, что вы всегда слишком торопитесь.
-9127679	rus	У меня нет предпочтений в еде.
-9127680	rus	Я не привередлив.
-9127681	rus	Ты умеешь сортировать информацию?
-9127682	rus	Он был очень одинок.
-9127683	rus	Ты любишь фотографировать?
-9127684	eng	He was very lonely.
-9127685	eng	She was very lonely.
-9127686	rus	У меня нет времени на такие пустяки.
-9127687	rus	Из-за шторма корабли не смогли покинуть городские порты.
-9127688	rus	Было принято решение отложить нападение на крепость до окончания шторма.
-9127689	rus	Из-за шторма было принято решение отложить нападение на неопределённый срок.
-9127690	rus	Шторм помешал нашим планам.
-9127691	zsm	Oleh kerana dia tidak dapat menyelesaikan masalah dengan cara itu, dia mencuba cara lain.
-9127692	rus	Тома назвали не в честь отца, а в честь дедушки.
-9127693	rus	Капитан, надвигается шторм.
-9127694	rus	Тома назвали не в честь отца, а в честь деда.
-9127695	rus	Том это делает?
-9127696	rus	Том этим занимается?
-9127697	kzj	I saasabap do au zou kaanu umanai do kosusaan do lahan dino, mininsingkinam zou do lahan suvai.
-9127698	rus	Количество пиратов неуклонно растёт, и нам нужно что-то с этим делать.
-9127699	rus	В порту не хватает места для больших торговых кораблей.
-9127700	rus	Том был похож на ангела.
-9127701	rus	В порту не хватает места для больших торговых судов.
-9127703	zsm	Beri saya sedikit masa. Saya yakin saya dapat mengetahui cara menyelesaikan masalah tersebut.
-9127704	rus	Наши корабли должны остановиться в Бостоне.
-9127705	rus	Честно говоря, я тоже думал, что это дурацкая идея.
-9127706	rus	Я хочу остановиться на ночь в Бостоне.
-9127707	rus	Мне надо будет помочь Тому.
-9127708	rus	Мне придётся помочь Тому.
-9127709	kzj	Onuai zou do timpu. Pointantu zou do kaanu mongiho do ingkuo o umanai do kobohingkaangan dii.
-9127710	rus	Ты ведь не человек, я прав, Том?
-9127711	rus	Тому нужно было это сделать.
-9127712	rus	Мне удалось скопировать эти морские карты.
-9127713	zsm	Tidak ada cara untuk meyakinkannya. Dia benar-benar menegaskan bahawa satu-satunya cara untuk menyelesaikan masalah adalah caranya.
-9127714	rus	В тот момент мне казалось, что весь мир обернулся против меня, но меня это не остановило.
-9127715	rus	Во время шторма мы потеряли один из наших кораблей.
-9127716	rus	Во время шторма один из наших кораблей потерпел крушение.
-9127717	kzj	Aiso no do lahan do popoimozo dau. Tootopot zou do mononsog do lahan noopo do umanai do kobohingkaangan nopo nga do lahan dau sondii.
-9127718	rus	Торговец попытался схитрить и продать мне товар по завышенной в несколько раз цене, но я раскусил его, и ему пришлось уступить.
-9127720	rus	Я не ограничен в бюджете.
-9127721	rus	У меня нет ограничений по бюджету.
-9127722	rus	Вы так суровы, за что вы так со мной?
-9127723	rus	За что вы поступаете так со мной?
-9127724	zsm	Ini adalah masalah yang awak kena selesaikan sendiri.
-9127725	rus	Чем я провинился перед тобой?
-9127726	rus	Чем я провинилась перед тобой?
-9127727	kzj	Iti no do kobohingkaangan di nga umanai ko sondii.
-9127728	rus	А чего ты ожидал от такого захолустья?
-9127729	rus	А в чём, собственно, заключается твоё разочарование?
-9127730	rus	В чём именно ты разочарован?
-9127731	rus	Том призвал нас всех к молчанию.
-9127732	zsm	Tom biasanya tidak sampai di sini tepat pada waktunya.
-9127733	rus	Том – лидер, которому я без сомнения могу доверить свою жизнь.
-9127734	kzj	Au noubas i Tom duminimpot doiti id timpu. dii.
-9127735	rus	У меня к вам тот же вопрос.
-9127736	rus	У меня к вам есть встречный вопрос.
-9127737	pes	من دوستان زیادی دارم که میتوانند به خوبی پرتغالی حرف بزنند.
-9127738	rus	Я думал, что это в разы проще.
-9127739	eng	I have the same question for you.
-9127740	zsm	Saya ada soalan yang untuk awak.
-9127741	kzj	Kivaa iso ih tudizo ku montok diau.
-9127742	pes	خانه اش یک قدم از مدرسه اش فاصله دارد.
-9127743	zsm	Saya ada soalan untuk awak.
-9127744	kzj	Kivaa do tudizo ku montok diau.
-9127745	eng	I have many friends who speak Portuguese well.
-9127746	zsm	Saya mempunyai banyak rakan yang boleh berbahasa Portugis dengan baik.
-9127747	ind	Saya punya banyak teman yang bisa berbahasa Portugis dengan baik.
-9127748	kzj	Ogumu do tambahut ku di koiho moboos do Portugis ih tavasi.
-9127749	kzj	Ogumu do tambahut ku di koiho moboos do Kadazan ih tavasi.
-9127750	eng	I have many friends who speak Kadazan well.
-9127751	zsm	Saya mempunyai banyak rakan yang dapat berbahasa Kadazan dengan baik.
-9127752	zsm	Tom sungguh gembira untuk berjumpa Mary gembira.
-9127753	kzj	Ounsikou kozo o ginavo di Tom do kopisoomo do nouhagang i Mary.
-9127754	zsm	Tom disyorkan kepada kami.
-9127755	hun	Nem gondoltam, hogy beléd szeretek.
-9127756	hun	‐ Dörzsölt gyerek ez a Sanyi, nem mondom. - Meghiszem én azt! Biztos rókatejen nőtt fel.
-9127757	hun	Hány liter borotok lett?
-9127758	swg	Neåmrds môg se.
-9127759	hun	Van még egynek hely, szívem.
-9127760	por	Isso não significa que temos que desistir.
-9127761	por	Ainda estou tendo o mesmo problema.
-9127762	hun	Ez nem tőlem függ.
-9127763	epo	Neniu ŝatas ilin.
-9127764	por	Ainda estou tendo esse mesmo problema.
-9127765	hun	Ez nem rajtam áll.
-9127766	hun	Ez nem rajtam áll vagy bukik.
-9127767	deu	Neid negative Gefühle schafft, denn er ist eine hässliche Eigenschaft.
-9127768	hun	Minden évben megszervezik a találkozót.
-9127769	por	Eu ainda sou menor de idade.
-9127770	kzj	Pinotudukon di Tom kumaa dagai.
-9127771	kzj	Au avasi o nasip ku.
-9127772	por	Tom não vai comprar o suéter azul.
-9127773	por	Tom não vai comprar o agasalho azul.
-9127774	por	Ainda estou resolvendo isso.
-9127775	por	Eu ainda estou resolvendo isso.
-9127776	por	Ainda estou ocupado como sempre.
-9127777	epo	Envio kreas negativajn sentojn, ĉar ĝi estas malbela propreco. .
-9127778	por	Tom não saberá o que isso significa.
-9127779	por	Tom não vai saber o que isso significa.
-9127780	por	Ainda estou planejando ir.
-9127781	por	Por favor, pelo menos pense nisso.
-9127782	por	Por favor, pelo menos pense sobre isso.
-9127783	por	Tom estava falando a verdade, não estava?
-9127784	por	Ainda estou em boa forma.
-9127785	por	Você deveria dar algo para Tom.
-9127786	deu	Frauen heiraten den Mann, der sie verehrt, vor allem deshalb, weil sie seinen guten Geschmack bewundern.
-9127787	epo	Virinoj geedziĝas kun la viro, kiu adoras ilin, ĉefe, ĉar ili admiras lian bonan guston.
-9127788	hun	Nem ébredtem meg rád.
-9127789	por	Tenho muita sorte de não estar ferido.
-9127790	hun	Nem ébredtem meg, amikor jöttél.
-9127791	por	Estou muito bem preparado.
-9127792	deu	Schaffe in anderen Abteilungen Baustellen, um von deinen eigenen abzulenken.
-9127793	por	Acho que o pior já passou.
-9127794	por	Sou muito grato pelo que você fez.
-9127795	por	Estou muito grato pelo que você fez.
-9127796	epo	Kreu konstruejojn en aliaj sekcioj por deturni de viaj propraj.
-9127797	por	Dê mais generosamente possível.
-9127798	hun	A fölső szomszédunk, ha jól tudom, az adóhatóságnál dolgozik.
-9127799	hun	A második szomszédunk indulni akar a képviselőválasztáson függetlenként.
-9127800	deu	Ich hätte viele Dinge begriffen, hätte man sie mir nicht erklärt.
-9127801	hun	- A villanyszerelés nem nekem való dolog. Én inkább hívok egy szerelőt. - Ha annyi pénzed van!
-9127802	hun	Persze, hogy tudom! Ebből diplomáztam!
-9127803	epo	Mi estus kompreninta multajn aferojn, se oni tiujn ne estus klarigintaj al mi.
-9127804	hun	Naná, hogy tudom! Hiszen ebből diplomáztam!
-9127805	hun	Általánosban tudtam a Föld összes országát és fővárosaikat.
-9127806	hun	A GPS szerint erre fél órával rövidebb.
-9127807	hun	Belehalt a szülésbe.
-9127808	hun	Persze, hogy emlékszem rá! Soha nem fogom elfelejteni! Hiszen nála nagyobb pancser nincs a Földön!
-9127809	kab	Theggaḍ-aɣ-t dindin.
-9127810	kab	Theggaḍ-aɣ-tt dindin.
-9127811	hun	Tök gáz ez a gyerek! Tiszta égő ez a Tomi! Én letagadom, hogy ismerem ezt az ostobát. Nézd meg, mit szerencsétlenkedik itt össze megint ez a gyengeelméjű!
-9127812	kab	Theggaḍ-aɣ-ten dindin.
-9127813	kab	Theggaḍ-aɣ-tent dindin.
-9127814	kab	Theggam-aɣ-t dindin.
-9127815	kab	Theggam-aɣ-tt dindin.
-9127816	kab	Theggam-aɣ-ten dindin.
-9127817	kab	Theggam-aɣ-tent dindin.
-9127818	kab	Theggamt-aɣ-t dindin.
-9127819	kab	Theggamt-aɣ-tt dindin.
-9127820	kab	Theggamt-aɣ-ten dindin.
-9127821	kab	Theggamt-aɣ-tent dindin.
-9127822	kab	Ihegga-aɣ-t dindin.
-9127823	kab	Ihegga-aɣ-tt dindin.
-9127824	kab	Ihegga-aɣ-ten dindin.
-9127825	kab	Ihegga-aɣ-tent dindin.
-9127826	kab	Thegga-aɣ-t dindin.
-9127827	kab	Thegga-aɣ-tt dindin.
-9127828	kab	Thegga-aɣ-ten-id dindin.
-9127829	kab	Thegga-aɣ-tent dindin.
-9127830	kab	Heggan-aɣ-t dindin.
-9127831	kab	Heggan-aɣ-tt dindin.
-9127832	kab	Heggan-aɣ-ten dindin.
-9127833	kab	Heggan-aɣ-tent dindin.
-9127834	kab	Heggant-aɣ-t dindin.
-9127835	kab	Heggant-aɣ-tt dindin.
-9127836	kab	Heggant-aɣ-ten dindin.
-9127837	kab	Heggant-aɣ-tent dindin.
-9127838	kab	Theggaḍ-iyi-t imir-n.
-9127839	kab	Theggaḍ-iyi-tt imir-n.
-9127840	kab	Theggaḍ-iyi-ten imir-n.
-9127841	kab	Theggaḍ-iyi-tent imir-n.
-9127842	kab	Theggaḍ-as-t imir-n.
-9127843	kab	Theggaḍ-as-tt imir-n.
-9127844	kab	Theggaḍ-as-ten imir-n.
-9127845	kab	Theggaḍ-as-tent imir-n?
-9127846	kab	Theggaḍ-asen-t imir-n.
-9127847	kab	Theggaḍ-asen-tt imir-n.
-9127848	kab	Theggaḍ-asen-tent imir-n.
-9127849	kab	Theggaḍ-asen-ten imir-n.
-9127850	kab	Theggaḍ-asent-t imir-n.
-9127851	kab	Theggaḍ-asent-tt imir-n.
-9127852	kab	Theggaḍ-asent-ten imir-n.
-9127853	kab	Theggaḍ-asent-tent imir-n.
-9127854	kab	Theggam-asent-t imir-nni.
-9127855	kab	Theggam-asent-tt imir-nni.
-9127856	kab	Theggam-asent-ten imir-nni.
-9127857	kab	Theggam-asent-tent imir-nni.
-9127858	kab	Theggam-asen-t imir-nni.
-9127859	kab	Theggam-asen-tt imir-nni.
-9127860	kab	Theggam-asen-ten imir-nni.
-9127861	kab	Theggam-asen-tent imir-nni.
-9127862	kab	Theggam-as-t imir-nni.
-9127863	kab	Theggam-as-tt imir-nni.
-9127864	kab	Theggam-as-ten imir-nni.
-9127865	kab	Theggam-as-tent imir-nni.
-9127866	kab	Theggam-iyi-t imir-nni.
-9127867	kab	Theggam-iyi-tt imir-nni.
-9127868	kab	Theggam-iyi-ten imir-nni.
-9127869	kab	Theggam-iyi-tent imir-nni.
-9127870	kab	Theggamt-iyi-t zgelli.
-9127871	kab	Theggamt-iyi-tt zgelli.
-9127872	kab	Theggamt-iyi-ten zgelli.
-9127873	kab	Theggamt-iyi-tent zgelli.
-9127874	kab	Theggamt-as-t zgelli.
-9127875	kab	Theggamt-as-tt zgelli.
-9127876	kab	Theggamt-as-ten zgelli.
-9127877	kab	Theggamt-as-tent zgelli.
-9127878	kab	Theggamt-asen-t zgelli.
-9127879	kab	Theggamt-asen-tt zgelli.
-9127880	kab	Theggamt-asen-ten zgelli.
-9127881	kab	Theggamt-asen-tent zgelli.
-9127882	kab	Theggamt-asent-t zgelli.
-9127883	kab	Theggamt-asent-tt zgelli.
-9127884	kab	Theggamt-asent-ten zgelli.
-9127885	kab	Theggamt-asent-tent zgelli.
-9127886	kab	Ihegga-yi-t zgelli kan.
-9127887	kab	Ihegga-yi-tt zgelli kan.
-9127888	kab	Ihegga-yi-ten zgelli kan.
-9127889	kab	Ihegga-yi-tent zgelli kan.
-9127890	kab	Thegga-yi-t zgelli kan.
-9127891	kab	Thegga-yi-tt zgelli kan.
-9127892	kab	Thegga-yi-ten zgelli kan.
-9127893	kab	Thegga-yi-tent zgelli kan.
-9127894	kab	Ihegga-ak-t zgelli kan.
-9127895	kab	Ihegga-ak-tt zgelli kan.
-9127896	kab	Ihegga-ak-ten zgelli kan.
-9127897	kab	Ihegga-ak-tent zgelli kan.
-9127898	kab	Thegga-ak-t zgelli kan.
-9127899	kab	Thegga-ak-tt zgelli kan.
-9127900	kab	Thegga-ak-ten zgelli kan.
-9127901	kab	Thegga-ak-tent zgelli kan.
-9127902	kab	Ihegga-am-t deg tmeddit-nni.
-9127903	kab	Ihegga-am-tt deg tmeddit-nni.
-9127904	kab	Ihegga-am-ten deg tmeddit-nni.
-9127905	kab	Ihegga-am-tent deg tmeddit-nni.
-9127906	kab	Thegga-am-t deg tmeddit-nni.
-9127907	kab	Thegga-am-tt deg tmeddit-nni.
-9127908	kab	Thegga-am-ten deg tmeddit-nni.
-9127909	kab	Thegga-am-tent deg tmeddit-nni.
-9127910	kab	Ihegga-as-t deg tmeddit-nni.
-9127911	kab	Ihegga-as-tt deg tmeddit-nni.
-9127912	kab	Ihegga-as-ten deg tmeddit-nni.
-9127913	kab	Ihegga-as-tent deg tmeddit-nni.
-9127914	kab	Thegga-as-t deg tmeddit-nni.
-9127915	kab	Thegga-as-tt deg tmeddit-nni.
-9127916	kab	Thegga-as-ten deg tmeddit-nni.
-9127917	kab	Thegga-as-tent deg tmeddit-nni.
-9127918	kab	Ihegga-awen-t-id ussan-a.
-9127919	kab	Ihegga-awen-tt-id ussan-a.
-9127920	kab	Ihegga-awen-ten-id ussan-a.
-9127921	kab	Ihegga-awen-tent-id ussan-a.
-9127922	kab	Thegga-awen-t-id ussan-a.
-9127923	kab	Thegga-awen-tt-id ussan-a.
-9127924	kab	Thegga-awen-ten-id ussan-a.
-9127925	kab	Thegga-awen-tent-id ussan-a.
-9127926	kab	Ihegga-akent-t ussan yezrin.
-9127927	kab	Ihegga-akent-tt ussan yezrin.
-9127928	kab	Ihegga-akent-ten ussan yezrin.
-9127929	kab	Ihegga-akent-tent ussan yezrin.
-9127930	kab	Thegga-akent-t ussan yezrin.
-9127931	kab	Thegga-akent-tt ussan yezrin.
-9127932	kab	Thegga-akent-ten ussan yezrin.
-9127933	kab	Thegga-akent-tent ussan yezrin.
-9127934	kab	Ihegga-akent-t deg ass n Ssebt.
-9127935	kab	Ihegga-asen-t deg ass n Ssebt.
-9127936	kab	Ihegga-asen-tt deg ass n Ssebt.
-9127937	kab	Ihegga-asen-ten deg ass n Ssebt.
-9127938	kab	Ihegga-asen-tent deg ass n Ssebt.
-9127939	kab	Thegga-asen-t deg ass n Ssebt.
-9127940	kab	Thegga-asen-tt deg ass n Ssebt.
-9127941	kab	Thegga-asen-ten deg ass n Ssebt.
-9127942	kab	Thegga-asen-tent deg ass n Ssebt.
-9127943	kab	Ihegga-asent-t deg uzal.
-9127944	kab	Ihegga-asent-tt deg uzal.
-9127945	kab	Ihegga-asent-ten deg uzal.
-9127946	kab	Ihegga-asent-tent deg uzal.
-9127947	kab	Thegga-asent-t deg uzal.
-9127948	kab	Thegga-asent-tt deg uzal.
-9127949	kab	Thegga-asent-ten deg uzal.
-9127950	kab	Thegga-asent-tent deg uzal.
-9127951	kab	Heggan-iyi-t deg ccetwa.
-9127952	kab	Heggan-iyi-tt deg ccetwa.
-9127953	kab	Heggan-iyi-ten deg ccetwa.
-9127954	kab	Heggan-iyi-tent deg ccetwa.
-9127955	kab	Heggant-iyi-t deg ccetwa.
-9127956	kab	Heggant-iyi-tt deg ccetwa.
-9127957	kab	Heggant-iyi-ten deg ccetwa.
-9127958	kab	Heggant-iyi-tent deg ccetwa.
-9127959	kab	Heggan-ak-t deg ccetwa.
-9127960	kab	Heggan-ak-tt deg ccetwa.
-9127961	kab	Heggan-ak-ten deg ccetwa.
-9127962	kab	Heggan-ak-tent deg ccetwa.
-9127963	kab	Heggant-ak-t deg ccetwa.
-9127964	kab	Heggant-ak-tt deg ccetwa.
-9127965	rus	Мы тут уже два часа загораем.
-9127966	kab	Heggant-ak-ten deg ccetwa.
-9127967	kab	Heggant-ak-tent deg ccetwa.
-9127968	kab	Heggan-am-t deg tegrest.
-9127969	kab	Heggan-am-tt deg tegrest.
-9127970	kab	Heggan-am-ten deg tegrest.
-9127971	kab	Heggan-am-tent deg tegrest.
-9127972	kab	Heggant-am-t deg tegrest.
-9127973	kab	Heggant-am-tt deg tegrest.
-9127974	kab	Heggant-am-ten deg tegrest.
-9127975	kab	Heggant-am-tent deg tegrest.
-9127976	kab	Heggan-as-t deg unebdu.
-9127977	kab	Heggan-as-tt deg unebdu.
 9127978	kab	Heggan-as-ten deg unebdu.
 9127979	kab	Heggan-as-tent deg unebdu.
 9127980	kab	Heggant-as-t deg unebdu.
@@ -1764,7 +909,7 @@
 9128891	kab	Rrant-iyi-ten id s ucennef.
 9128892	kab	Rrant-iyi-tent id s ucennef.
 9128893	kab	Rran-ak-t id s usqizzeb.
-9128894	kab	Rran-ak-tt id s usqizzeb.
+9128894	kab	Rran-ak-tt-id s usqizzeb.
 9128895	kab	Rran-ak-ten id s usqizzeb.
 9128896	kab	Rran-ak-tent id s usqizzeb.
 9128897	kab	Rrant-ak-t id s usqizzeb.
@@ -1792,7 +937,7 @@
 9128919	eng	I'm losing my temper.
 9128920	kab	Rran-awen-t id s uḥiwet.
 9128921	kab	Rran-awen-tt id s uḥiwet.
-9128922	kab	Rran-awen-ten id s uḥiwet.
+9128922	kab	Rran-awen-ten-id s uḥiwet.
 9128923	kab	Rran-awen-tent id s uḥiwet.
 9128924	kab	Rrant-awen-t id s uḥiwet.
 9128925	kab	Rrant-awen-tt id s uḥiwet.
@@ -1962,7 +1107,7 @@
 9129089	kab	Ilaq dɣa ad bnunt aɣerbaz aqbayli.
 9129090	kab	Bniɣ aɣerbaz aqbayli.
 9129091	kab	Tebniḍ aɣerbaz aqbayli.
-9129092	kab	Weṛɛad yebna aɣerbaz aqbayli.
+9129092	kab	Urɛad yebna uɣerbaz aqbayli.
 9129093	kab	Tebna aɣerbaz aqbayli.
 9129094	kab	Nebna aɣerbaz aqbayli.
 9129095	kab	Weṛɛad tebnam aɣerbaz aqbayli.
@@ -4231,7 +3376,7 @@
 9131377	eng	My precious!
 9131378	eng	My dear!
 9131379	eng	Is it possible to play mikado with cooked spaghetti?
-9131380	tok	olin mi a!
+9131380	tok	olin mi o!
 9131381	hun	Szeretnél ma este moziba menni?
 9131383	eng	In order to catch a thief, one needs a thief.
 9131384	eng	The wall has ears.
@@ -6189,7 +5334,7 @@
 9133347	kab	Tulseḍ-as tira, yak?
 9133348	zsm	Tiada cakap apapun
 9133349	zsm	Balik cepat.
-9133350	ind	Uang bukanlah segala-galanya
+9133350	ind	Uang bukanlah segala-galanya.
 9133351	kzj	Sikapai no uhi.
 9133352	eng	We're a bit shy.
 9133353	por	Moro num país tropical abençoado por Deus.
@@ -8813,7 +7958,7 @@
 9135976	eng	Tom and Mary are Red Cross volunteers.
 9135977	\N	ⲙ̀ⲙⲟⲛ ⲛ̀ⲛⲓⲙⲥⲁϩ ϧⲉⲛ ⲫⲓⲁⲣⲟ ⲙⲉⲛⲉⲛⲥⲁ ⲡⲓϫⲓⲛⲕⲱⲧ ⲛ̀ⲧⲉ ⲡϣⲑⲱⲙ ⲉⲧϭⲟⲥⲓ.
 9135978	rus	В Ниле нет крокодилов после постройки Высокой дамбы.
-9135979	rus	Каир – столица Египта.
+9135979	rus	Каир — столица Египта.
 9135980	\N	ⲛⲁⲛⲉ ⲡⲉϫⲓⲛⲓ.
 9135982	\N	ⲣⲱⲥⲓⲁ ⲧⲉ ϯⲛⲓϣϯ ⲛ̀ⲭⲱⲣⲁ ϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ.
 9135983	eng	Russia is the biggest country in the world.
@@ -9116,7 +8261,7 @@
 9136296	fin	Sulkekaa vain silmänne.
 9136297	fin	Sulje vain silmäsi.
 9136298	nld	Er is een kink in de kabel.
-9136299	ind	Ketika ada telepon, aku ternyata sedang berada di luar
+9136299	ind	Ketika ada telepon, aku ternyata sedang berada di luar.
 9136300	eng	We're creatures of habit.
 9136301	kab	Tissas-nneɣ d aɣref aqbayli. D leɛnaya-s i nedduri.
 9136302	kab	Tissas-nneɣ d amussu aqbayli.
@@ -11491,9 +10636,9 @@
 9138694	ckb	دووبارە.
 9138695	kab	Kahina teggar tifyar deg Tatoeba.
 9138696	rus	Поймите: я просто не смог бы этого сделать, даже если бы очень хотел.
-9138697	kab	Samir yessuqqul akken iwata.
+9138697	kab	Mary tessuqqul akken iwata.
 9138698	rus	Пойми: я просто не смог бы этого сделать, даже если бы очень хотел.
-9138699	kab	Samir yessuqqul gedged.
+9138699	kab	Tom yessuqqul gedged.
 9138700	ber	Lɣerba yeḥṣa tuɛer, tettɣurru deg watmaten-is.
 9138701	ber	Lɣerba yeḥṣa ur teshil ara, tettɣurru deg watmaten-is.
 9138702	rus	Поймите же меня наконец!
@@ -11504,7 +10649,7 @@
 9138708	rus	Прошло ещё слишком мало времени, чтобы можно было об этом судить.
 9138709	kab	Acimi i yettaru Rafiq tifyar s teqbaylit?
 9138710	kab	Melmi i yettaru Samir tifyar deg Tatoeba?
-9138711	kab	Samir yeggum ad yettu ilugan n tira n teqbaylit.
+9138711	kab	Yeggumm Rafiq ad yettu ilugan n tira n teqbaylit.
 9138712	rus	Прошло ещё слишком мало времени, чтобы можно было дать окончательную оценку сложившейся ситуации.
 9138713	rus	Том вчера не был у меня дома.
 9138714	kab	Amek ara ad yettu Rafiq tutlayt-is taqbaylit?
@@ -11517,7 +10662,7 @@
 9138721	kab	Yennum Rafiq yettaru tifyar deg Tatoeba.
 9138722	eng	I think that I heard Tom's voice.
 9138723	ckb	ئەو حەزی لە کارە نوێیەکەی نییە.
-9138724	kab	Nnumen Samir akked Malek ssuqqulen tifyar deg Tatoeba.
+9138724	kab	Nnumen Samir akked Rafiq ssuqqulen tifyar deg Tatoeba.
 9138725	ber	Aṭas i iḥemmel tamurt-is.
 9138726	ckb	تکایە شەکرەکەم پێ بدە.
 9138727	ber	Aṭas i tḥemmel tamurt-is.
@@ -14416,7 +13561,7 @@
 9141646	deu	Man braucht schon etwas Gehirnschmalz, um diese Aufgabe zu lösen.
 9141647	est	Istu laua otsa.
 9141648	rus	Что ты ешь? Я то же самое закажу.
-9141649	spa	Desde que llegaste; esta casa ha sido embrujada y maldita.
+9141649	spa	Desde que llegaste, esta casa ha sido embrujada y maldita.
 9141650	rus	Что вы едите? Я то же самое закажу.
 9141651	est	Vannituba on koridori lõpus.
 9141652	lit	Ji kartais man paskambina.
@@ -16104,12 +15249,12 @@
 9143342	eng	Before steroids! I will never understand why men are not satisfied with a natural body. A body like his is marvelous; it looks so soft yet firm. I love seeing a man who doesn't fear fat. I would love to enjoy the privilege of spending a divine night in his loving embrace.
 9143343	eng	That movie was more interesting than I expected.
 9143344	eng	Tom knows that Mary is fluent in French.
-9143345	ind	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan
-9143346	ind	Dia berkata dia pikir bahwa saya sudah meninggal
-9143347	ind	Sami kadang-kadang menelpon Layla
-9143348	ind	Sami terus membicarakan hal tersebut
-9143349	ind	Rasisme masih merupakan suatu masalah
-9143350	ind	Sebelum kita mulai, biarkan saya bertanya suatu pertanyaan
+9143345	ind	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan.
+9143346	ind	Dia berkata dia pikir bahwa saya sudah meninggal.
+9143347	ind	Sami kadang-kadang menelpon Layla.
+9143348	ind	Sami terus membicarakan hal tersebut.
+9143349	ind	Rasisme masih merupakan suatu masalah.
+9143350	ind	Sebelum kita mulai, biarkan saya bertanya suatu pertanyaan.
 9143351	spa	Hay algo que decir sobre la salubridad de eso.
 9143352	eng	There is something to be said about the wholesomeness of that.
 9143353	eng	I like my nieces.
@@ -16859,7 +16004,6 @@
 9144107	slk	To by bolo jednoduché.
 9144108	rus	Том не будет здесь ночевать.
 9144109	zza	Hereket!
-9144110	zza	Hema hema
 9144111	slk	Nevstupuj!
 9144112	slk	Nevstupujte!
 9144113	zza	Çi?
@@ -18577,7 +17721,7 @@
 9145830	eng	We drink from the same water.
 9145831	eng	I hope you can resolve the issue soon.
 9145832	eng	It's the first thing that I would like to know.
-9145833	ind	Kamu bisa berenang, tetapi aku tidak bisa
+9145833	ind	Kamu bisa berenang, tetapi aku tidak bisa.
 9145834	eng	Could I maybe invite you to dinner?
 9145835	eng	The police arrived when everything was solved.
 9145836	eng	You all know what your duty is.
@@ -18601,8 +17745,8 @@
 9145854	spa	¿Estas son sus pinturas?
 9145855	eng	There's a little water left in the glass.
 9145856	eng	There's a little water left in the pitcher.
-9145857	ind	Aku tidak berubah
-9145858	ind	Aku tidak ingin berubah
+9145857	ind	Aku tidak berubah.
+9145858	ind	Aku tidak ingin berubah.
 9145859	eng	There aren't many books on these shelves.
 9145860	eng	We dug a hole.
 9145861	ckb	پارەکە دزرا.
@@ -18752,11 +17896,11 @@
 9146006	eng	If you go to the party, I think you'll have fun.
 9146007	eng	I don't see why Tom would lie.
 9146008	dan	De har brug for briller.
-9146009	ind	Tom dapat berubah
+9146009	ind	Tom dapat berubah.
 9146010	eng	We love snow.
 9146011	kab	Ṛuḥen s adrar ad alin, ufan tamduct-nni din.
-9146012	ind	Kopi yang saya buat sangat nikmat rasanya
-9146013	ind	Kopi itu diimpor langsung dari Belanda
+9146012	ind	Kopi yang saya buat sangat nikmat rasanya.
+9146013	ind	Kopi itu diimpor langsung dari Belanda.
 9146014	eng	The coffee is imported directly from the Netherlands.
 9146015	eng	Tom has a meeting with the boss tomorrow morning.
 9146016	tok	ona li jan Kanse.
@@ -19749,7 +18893,6 @@
 9147008	ber	Yiwet seg-sent d taɣermant tazzayrit.
 9147009	ell	Σα να 'χεις δίκιο!
 9147010	epo	Akvo. Tero. Fajro. Aero. Iam antaŭlonge la kvar nacioj vivis en paco. Sed ĉio ŝanĝiĝis, kiam la Fajra Nacio komencis militon. Nur la Avataro, posedanto de ĉiuj kvar elementoj, povis haltigi la invadantojn. Sed, kiam la mondo bezonis lin plej multe, li malaperis. Cent jaroj trapasis, kaj mi kun mia frato trovis novan Avataron en la aera mago de nomo Aang. Kaj kvankam lia arto de aermastro estis grandega, li estis lernonta ankoraŭ la multon. Sed mi kredis, ke Aang savos la mondon.
-9147011	ber	Mnid teɣsert.
 9147012	ell	Δεν έχετε κάνει εγγραφή;
 9147013	ber	Iqerreb ɣer teɣsert.
 9147014	eng	There are a lot of rabbits around here.
@@ -21932,7 +21075,7 @@
 9149198	cmn	把你的玩具收起来。
 9149199	eng	These weren't as expensive as I expected them to be.
 9149200	cmn	把蠟燭點燃。
-9149201	eng	An esperantist is a person whom speaks and works with Esperanto.
+9149201	eng	An Esperantist is a person who speaks and uses Esperanto.
 9149202	cmn	這個投影儀怎麼了？什麼都放不出來。
 9149203	eng	It's something that you learn in life.
 9149204	rus	Я от предвиденья избавил смертных.
@@ -23904,7 +23047,7 @@
 9151197	eng	We messed up.
 9151198	ces	Tom nepůjde domů.
 9151199	kab	Ttgaǧǧemt dɣa ɣer Teglalazt.
-9151200	kab	Ttgaǧǧeɣ dɣa ɣer Teglalazt.
+9151200	kab	Gaǧǧeɣ ɣer Teglalazt segmi i temmut yemma.
 9151201	ces	Tom nechce domů.
 9151202	kab	Tettgaǧǧeḍ dɣa ɣer Teglalazt.
 9151203	ber	D tidet tettacaṛeḍ taɣlust-ik d askeṛ.
@@ -24279,7 +23422,7 @@
 9151573	kab	Ur nerfid ara lɣaci-nni ɣer Teglalazt.
 9151574	kab	Ur terfidem ara lɣaci-nni ɣer Teglalazt.
 9151575	nld	Welke talen spreken ze in België?
-9151576	fra	Kateb Yacine est notre idole car il est l'un des rares, de l'autre côté du mur, à avoir revendiqué son identité algérienne millénaire pleine et entière. D'autres se sont fourvoyés dans une arabité introuvable qu'ils confondent avec l'islamité, elle-même multiple. Son oeuvre entière et son chef-d'oeuvre Nedjma sont là pour nous le rappeler.
+9151576	fra	Kateb Yacine est notre idole car il est l'un des rares, de l'autre côté du mur, à avoir revendiqué son identité algérienne millénaire pleine et entière. D'autres se sont fourvoyés dans une arabité introuvable qu'ils confondent avec l'islamité, elle-même multiple. Son œuvre entière et son chef-d'œuvre Nedjma sont là pour nous le rappeler.
 9151577	kab	Ur terfidemt ara lɣaci-nni ɣer Teglalazt.
 9151578	kab	Ur rfiden ara lɣaci-nni ɣer Teglalazt.
 9151579	nld	Welke talen worden er in België gesproken?
@@ -24737,7 +23880,7 @@
 9152034	kab	Ttmerriḥent d lɣaci-nni ɣer Teglalazt.
 9152036	kab	Serreḥ d lɣaci-nni ɣer Teglalazt.
 9152037	deu	Ich fühle das kalte Wasser und die warme Luft.
-9152038	kab	Serrḥet d lɣaci-nni ɣer Teglalazt.
+9152038	kab	Serrḥet-as ad iṛuḥ ɣer Teglalazt.
 9152039	kab	Serrḥemt d lɣaci-nni ɣer Teglalazt.
 9152040	kab	Ad serrḥeɣ d lɣaci-nni ɣer Teglalazt.
 9152041	kab	Ad tserrḥeḍ d lɣaci-nni ɣer Teglalazt.
@@ -25040,7 +24183,7 @@
 9152339	kmr	Dengê zelal stiranê xweş dike.
 9152340	ita	Come è corretto?
 9152341	kmr	Hêvî tinebûya, jîyan jî çênedibû.
-9152343	fra	Comment est-ce correct?
+9152343	fra	Comment est-ce correct ?
 9152344	rus	Как правильно?
 9152345	deu	Diese Schlange ist giftig.
 9152347	eng	We hesitated.
@@ -25575,7 +24718,7 @@
 9152883	eng	Don't even doubt it.
 9152884	eng	I'm a drama student.
 9152885	eng	Tom knows that Mary is a very good cook.
-9152886	ind	Kamu harus belajar dengan giat
+9152886	ind	Kamu harus belajar dengan giat.
 9152887	eng	I've been trying to get a hold of Tom.
 9152888	zsm	Di rumah kapak berasal dari atas.
 9152889	kzj	Doiti id daamin, kapak nopo nga mantad id savat.
@@ -26302,28 +25445,28 @@
 9153613	ber	Smemmiɣ-ten.
 9153614	ber	Smemmiɣ-tent.
 9153615	ber	Cfiɣ fell-as.
-9153616	ind	Aku sangat bosan
-9153617	ind	Facebook membosankan
+9153616	ind	Aku sangat bosan.
+9153617	ind	Facebook membosankan.
 9153618	ber	Sseqsaɣ-t.
 9153619	ber	Sseqsaɣ-tt.
-9153620	ind	Ini terlalu membosankan
+9153620	ind	Ini terlalu membosankan.
 9153621	ber	Sseqsaɣ-ten.
-9153622	ind	Sekolah sangat membosankan
+9153622	ind	Sekolah sangat membosankan.
 9153623	hun	Te meg mi az istenért bámulsz engemet?
 9153624	ber	Sseqsaɣ-tent.
-9153625	ind	Itu sangat membosankan
+9153625	ind	Itu sangat membosankan.
 9153626	ber	Sxelεeɣ-t.
 9153627	hun	Bármelyik úton eljutsz a parkba.
-9153628	ind	Saat sakit sangat membosankan
+9153628	ind	Saat sakit sangat membosankan.
 9153629	ber	Sxelεeɣ-tt.
 9153630	eng	Turn the stove off.
 9153631	ber	Sxelεeɣ-ten.
-9153632	ind	Menunggu kereta sangat membosankan
+9153632	ind	Menunggu kereta sangat membosankan.
 9153633	ber	Sxelεeɣ-tent.
-9153634	ind	Saya merasa bosan
+9153634	ind	Saya merasa bosan.
 9153635	hun	Te meg mi az istent bámulsz rajtam?
 9153636	ber	Urgaɣ-t.
-9153637	ind	Belajar bahasa asing sangat membosankan
+9153637	ind	Belajar bahasa asing sangat membosankan.
 9153638	ber	Urgaɣ-tt.
 9153639	ber	Urgaɣ-ten.
 9153640	ber	Urgaɣ-tent.
@@ -26835,7 +25978,7 @@
 9154148	yid	טאָמאַס גלייבט נישט, אַז אויסטראַליע עקסיסטירט.
 9154149	eng	I want to gain some weight.
 9154150	epo	Kiel mia avĉjo kutimis diri, "Mi estas via avĉjo!"
-9154151	ind	Sangat bosan
+9154151	ind	Sangat bosan.
 9154152	spa	Esto es un chiste.
 9154153	yid	װי פֿלעגט מײַן זיידעניו זאָגן, „איך בין דײַן זיידעניו!‟
 9154154	hun	A szoba falára egy kirakóból összeállított kép volt kirakva Chichagóról vagy valamely az Egyesült Államok másik nagyvárosról, amellett egy coca colás pohárgyűjteménnyel teli vitrin állt.
@@ -33486,7 +32629,7 @@
 9160843	por	Canta-me uma canção de amor.
 9160844	ber	Ssarameɣ ussan yelhan i medden akken ma llan.
 9160845	fra	C'est là où le bât blesse !
-9160846	kab	Čexxdeɣ-awen-t maci s ttɛemda.
+9160846	kab	Čexxdeɣ-awen-t mačči s ttɛemda.
 9160847	kab	Čexxdeɣ-awen-tt maci s ttɛemda.
 9160848	eng	This is where the shoe pinches!
 9160849	kab	Čexxdeɣ-awen-ten maci s ttɛemda.
@@ -35461,7 +34604,6 @@
 9162830	kab	Yeččuṛ-aɣ-tt d waman.
 9162831	kab	Yeččuṛ-aɣ-ten d waman.
 9162832	kab	Yeččuṛ-aɣ-tent d waman.
-9162833	kab	Teččuṛ-aɣ-t d waman.
 9162834	kab	Teččuṛ-aɣ-tt d waman.
 9162835	kab	Teččuṛ-aɣ-ten d waman.
 9162836	kab	Teččuṛ-aɣ-tent d waman.
@@ -40423,7 +39565,7 @@
 9167839	kab	Tili yecfa ɣef tmurt taqbaylit.
 9167840	kab	Ahat tecfa ɣef tmurt taqbaylit.
 9167841	kab	Necfa-d akk ɣef tmurt taqbaylit.
-9167842	kab	Ziɣ tecfam ɣef tmurt taqbaylit.
+9167842	kab	Ziɣ tecfam ɣef Tmurt taqbaylit.
 9167843	kab	Tecfamt ɣef tmurt taqbaylit.
 9167844	kab	Cfan akk ɣef tmurt taqbaylit.
 9167845	kab	Cfant ɣef tmurt taqbaylit.
@@ -40587,7 +39729,7 @@
 9168004	kab	Xemmem ɣef tmurt taqbaylit.
 9168005	kab	Xemmmet ɣef tmurt taqbaylit.
 9168006	eng	Be everything in your life.
-9168007	kab	Xemmmemt ɣef tmurt taqbaylit.
+9168007	kab	Xemmmemt ɣef Tmurt taqbaylit.
 9168008	kab	D lawan ad xemmmeɣ ɣef tmurt taqbaylit.
 9168009	kab	Ahat ad txemmmeḍ ɣef tmurt taqbaylit.
 9168010	kab	Ilaq ad ixemmem ɣef tmurt taqbaylit.
@@ -40644,7 +39786,7 @@
 9168061	tok	taso ona li jo e len pi ma Tuki. tan ni la jan pi sona mun li pilin ala e ni: ona li toki lon.
 9168062	kab	Ḥurbeɣ ɣef tmurt taqbaylit.
 9168063	kab	Tḥurbeḍ ɣef tmurt taqbaylit.
-9168064	kab	Iḥureb ɣef tmurt taqbaylit.
+9168064	kab	Iḥureb ɣef Tmurt taqbaylit.
 9168065	kab	Tḥureb ɣef tmurt taqbaylit.
 9168066	kab	Nḥureb ɣef tmurt taqbaylit.
 9168067	kab	Tḥurbem ɣef tmurt taqbaylit.
@@ -40663,7 +39805,7 @@
 9168080	kab	Ilaq ad txedmeḍ ɣef tmurt taqbaylit.
 9168081	kab	Ahat ad yexdem ɣef tmurt taqbaylit.
 9168082	lit	Aš ėjau į šventę, ketindamas fotografuoti.
-9168083	kab	Ad texdem ɣef tmurt taqbaylit.
+9168083	kab	Ad texdem ɣef Tmurt taqbaylit.
 9168084	kab	Ad nexdem ɣef tmurt taqbaylit.
 9168085	kab	Ad txedmem ɣef tmurt taqbaylit.
 9168086	kab	Ad txedmemt ɣef tmurt taqbaylit.
@@ -40678,7 +39820,7 @@
 9168095	kab	Txedmem i tmurt taqbaylit.
 9168096	eng	We lie in the grass.
 9168097	kab	Txedmemt i tmurt taqbaylit.
-9168098	kab	Xedmen i tmurt taqbaylit.
+9168098	kab	Xedmen i Tmurt taqbaylit.
 9168099	kab	Xedment i tmurt taqbaylit.
 9168100	kab	Ur xdimeɣ ara i tmurt taqbaylit.
 9168101	eng	She studies for the exam.
@@ -40697,7 +39839,7 @@
 9168114	kab	Xeddmet ɣef tmurt taqbaylit.
 9168115	kab	Xeddmemt ɣef tmurt taqbaylit.
 9168116	kab	Xeddmeɣ ɣef tmurt taqbaylit.
-9168117	kab	Txeddmeḍ ɣef tmurt taqbaylit.
+9168117	kab	Txeddmeḍ ɣef Tmurt taqbaylit.
 9168118	lit	Buvo tokia šalta diena, kad gatvėje nieko nebuvo.
 9168119	nld	Ze hebben de groep verlaten.
 9168120	kab	Ixeddem ɣef tmurt taqbaylit.
@@ -40720,7 +39862,7 @@
 9168137	eng	She ate all the food.
 9168138	kab	Ilaq ad neqdec ɣef tmurt taqbaylit.
 9168139	kab	Ad tqedcem ɣef tmurt taqbaylit.
-9168140	kab	Ad tqedcemt ɣef tmurt taqbaylit.
+9168140	kab	Ad tqedcemt ɣef Tmurt taqbaylit.
 9168141	nld	Zij heeft alles opgegeten.
 9168142	kab	Ad qedcen ɣef tmurt taqbaylit.
 9168143	nld	Ze heeft alles opgegeten.
@@ -40855,7 +39997,7 @@
 9168272	kab	Ad steqsint ɣef tutlayt taqbaylit.
 9168273	kab	Steqsaɣ ɣef tutlayt taqbaylit.
 9168274	kab	Testeqsaḍ ɣef tutlayt taqbaylit.
-9168275	kab	Yesteqsa ɣef tutlayt taqbaylit.
+9168275	kab	Yestenya ɣef tutlayt taqbaylit.
 9168276	kab	Testeqsa ɣef tutlayt taqbaylit.
 9168277	nld	We komen terug.
 9168278	kab	Nesteqsa ɣef tutlayt taqbaylit.
@@ -42288,7 +41430,7 @@
 9169709	ber	Mazal ffudent.
 9169710	ber	Mazal lluẓeɣ.
 9169711	kab	Tefsim-iyi-t dindin.
-9169712	kab	Tefsim-iyi-tt dindin.
+9169712	kab	Tefsim tikersi i tlufa.
 9169713	ber	Mazal yelluẓ.
 9169714	kab	Tefsim-iyi-ten dindin.
 9169715	kab	Tefsim-iyi-tent dindin.
@@ -43896,7 +43038,7 @@
 9171329	eng	It's up to me to tell Tom.
 9171330	jpn	めっちゃいい天気だよ。今日は絶好の洗濯日和だね。
 9171331	eng	Tom has fat legs.
-9171332	ind	Kamu tidak menghitung
+9171332	ind	Kamu tidak menghitung.
 9171333	eng	You're not going to school tomorrow, are you?
 9171334	eng	You need to confess.
 9171335	eng	That noise kept me awake.
@@ -46367,8 +45509,6 @@
 9173811	fra	Je n'ai pas le droit de parler de ce sujet, il est interdit.
 9173812	fra	C'est un sujet interdit, n'en parlons pas !
 9173813	fra	Je te le demande une dernière fois.
-9173814	fra	Puis-je te demander une faveur ?
-9173815	fra	Puis-je vous demander une faveur ?
 9173816	fra	Puis-je vous demander un dernier renseignement ?
 9173817	fra	Je vous prie de bien vouloir me suivre.
 9173818	fra	Je vais vous y accompagner.
@@ -49998,3 +49138,863 @@
 9177464	kab	Tefkiḍ-asen-ten id.
 9177465	kab	Tefkiḍ-asen-tent id.
 9177466	kab	Tefkiḍ-asent-t id.
+9177467	kab	Tefkiḍ-asent-tt id.
+9177468	kab	Tefkiḍ-asent-ten id.
+9177469	kab	Tefkiḍ-asent-tent id.
+9177470	kab	Tefkam-iyi-t id.
+9177471	kab	Tefkam-iyi-tt id.
+9177472	kab	Tefkam-iyi-ten id.
+9177473	kab	Tefkam-iyi-tent id.
+9177475	kab	Tefkam-as-tt id.
+9177476	eng	Throw it into the washing machine.
+9177477	kab	Tefkam-as-ten id.
+9177478	kab	Tefkam-as-tent id.
+9177479	kab	Tefkam-asen-t id.
+9177480	kab	Tefkam-asen-tt id.
+9177481	kab	Tefkam-asen-ten id.
+9177482	kab	Tefkam-asen-tent id.
+9177483	kab	Tefkam-asent-t id.
+9177484	kab	Tefkam-asent-tt id.
+9177485	kab	Tefkam-asent-ten id.
+9177486	kab	Tefkam-asent-tent id.
+9177487	kab	Tefkamt-iyi-t id.
+9177488	kab	Tefkamt-iyi-tt id.
+9177489	kab	Tefkamt-iyi-ten id.
+9177490	eng	Tom was our pilot.
+9177491	eng	The station is really round the corner.
+9177492	kab	Tefkamt-iyi-tent id.
+9177493	epo	Ĉu iu bonvolus helpi min traduki tion?
+9177494	kab	Tefkamt-as-t id.
+9177495	kab	Tefkamt-as-tt id.
+9177496	kab	Tefkamt-as-ten id.
+9177497	kab	Tefkamt-as-tent id.
+9177498	kab	Tefkamt-asen-t id.
+9177499	kab	Tefkamt-asen-tt id.
+9177500	kab	Tefkamt-asen-ten id.
+9177501	epo	Sed mia desegno ne prezentis ĉapelon.
+9177502	kab	Tefkamt-asen-tent id.
+9177503	kab	Tefkamt-asent-t id.
+9177504	kab	Tefkamt-asent-tt id.
+9177505	kab	Tefkamt-asent-ten id.
+9177506	kab	Tefkamt-asent-tent id.
+9177507	eng	She brought two small parcels to the room.
+9177508	ita	Ma il mio disegno non era il disegno di un cappello.
+9177509	epo	Lanjo loĝas en Jemeno.
+9177510	epo	Manjo diras ne intenci restadi ĉi tie la tutan vintron.
+9177511	epo	Ĉu vi ankoraŭ fidas ŝin?
+9177512	ukr	Я би випив чаю.
+9177513	deu	Tom gehört zu meinem Freundeskreis.
+9177514	deu	Dabei war auf meinem Bild gar kein Hut.
+9177515	kab	Tefriḍ-aɣ-t id.
+9177516	kab	Tefriḍ-aɣ-tt id.
+9177517	kab	Tefriḍ-aɣ-ten id.
+9177518	kab	Tefriḍ-aɣ-tent id.
+9177519	kab	Tefram-aɣ-t id.
+9177520	kab	Tefram-aɣ-tt id.
+9177521	kab	Tefram-aɣ-ten id.
+9177522	kab	Tefram-aɣ-tent id.
+9177523	fra	Mais mon dessin ne représentait pas un chapeau.
+9177524	kab	Teframt-aɣ-t id.
+9177525	kab	Teframt-aɣ-tt id.
+9177526	kab	Teframt-aɣ-ten id.
+9177527	kab	Teframt-aɣ-tent id.
+9177528	kab	Yefra-aɣ-t id.
+9177529	kab	Yefra-aɣ-tt id.
+9177530	kab	Yefra-aɣ-ten id.
+9177531	kab	Yefra-aɣ-tent id.
+9177532	kab	Tefra-aɣ-t id.
+9177533	kab	Tefra-aɣ-tt id.
+9177534	spa	¿Eres la amiga de Tomasz, verdad?
+9177535	kab	Tefra-aɣ-ten id.
+9177536	kab	Tefra-aɣ-tent id.
+9177537	kab	Fran-aɣ-t id.
+9177538	kab	Fran-aɣ-tt id.
+9177539	kab	Fran-aɣ-ten id.
+9177540	kab	Fran-aɣ-tent id.
+9177541	kab	Frant-aɣ-t id.
+9177542	kab	Frant-aɣ-tt-id.
+9177543	kab	Frant-aɣ-ten id.
+9177544	kab	Frant-aɣ-tent id.
+9177545	zsm	Tom tidak begitu mengetahui tentang seni.
+9177546	spa	La casa de Tom está en la ciudad.
+9177547	spa	María no sabe nadar.
+9177548	eng	The post office is about five minutes from here.
+9177549	spa	Vivo en el centro del país.
+9177550	spa	Mary debió haber hecho lo que Tom le dijo que hiciera.
+9177551	rus	Но мой рисунок не был изображением шляпы.
+9177552	lfn	Ma mea desinia no ia presenta un xapo.
+9177553	kzj	Ingkaa no do au oihaan i Tom do kokomoi do kotukangan.
+9177554	eng	Let Tom pass.
+9177555	zsm	Tom tidak mengenali Mary atau John.
+9177556	spa	Saben precisamente de lo que hablan.
+9177557	lfn	Ма меа десиниа но иа пресента ун шапо.
+9177558	kzj	Au mongintutun i Tom di Mary ko John.
+9177559	kzj	Aiso no nunu nopo diho ngaavi i Tom.
+9177560	spa	No quiero que Tom sepa que no me agrada.
+9177561	spa	Dijiste que conocías a alguien que podría darnos la información.
+9177562	zsm	Tom tidak mempunyai satu perkara itu.
+9177563	spa	Tom me dijo que está preparado.
+9177564	kab	Friɣ-ak-t id.
+9177565	eng	Who disagrees?
+9177566	kab	Friɣ-ak-tt id.
+9177567	kab	Friɣ-ak-ten id.
+9177568	kab	Friɣ-ak-tent id.
+9177569	kab	Friɣ-am-t id.
+9177570	kab	Friɣ-am-tt id.
+9177571	zsm	Tom tidak melakukannya sekerap yang saya lakukan.
+9177572	spa	Esta palabra no me es familiar.
+9177573	spa	Voy a Boston una vez al mes.
+9177574	eng	Tom doesn't like raspberries.
+9177575	spa	Por favor llena esta botella de agua.
+9177576	eng	I probably won't go today.
+9177578	spa	¿Qué quiere decir la palabra «siguiente»?
+9177579	ber	Temmut ddeɛwa akken qqaren.
+9177580	eng	I'll try to get rid of Tom.
+9177581	ukr	Том насмажив смачних млинців.
+9177582	ukr	Том здобув освіту.
+9177583	ukr	Гарні ідеї спадають на думку.
+9177584	ber	Yetthumu kan, ur yeẓri anda i yeggar aḍar.
+9177585	ber	Ula d nutni ulac kra i ḥekmen deg temsalt-a n waṭṭan-a. Terra-ten tmara ad tebɛen ayen yebɣa Maraikan neɣ Fransa.
+9177586	ukr	Заробітчани минали хатину Тома.
+9177587	ukr	Тома було вилучено зі списку.
+9177588	ber	Tanemmirt mi d-testeqsaḍ fell-i. I Dda Lḥusin amek yettili ?
+9177589	ukr	Том приніс довідку з лікарні.
+9177590	ukr	Том має перепустку до бібліотеки?
+9177591	ber	Tetthumu kan, ur teẓri anda i teggar aḍar.
+9177592	ukr	Знайди Кубу на мапі.
+9177593	ber	Netthumu kan, ur neẓri anda i neggar aḍar.
+9177594	ukr	Том пішов за лаштунки.
+9177595	ber	Tetthumuḍ kan, ur teẓriḍ anda i teggareḍ aḍar.
+9177596	ukr	Том був вдалим козаком і дотримувався звичаїв.
+9177597	spa	Layla era tan linda y tan fea al mismo tiempo.
+9177598	ukr	Проблема полягає у тому, що більшість батьків не приділяють дітям багато уваги.
+9177599	kzj	Au zi Tom mingguguhion mimang dino miaga dogo tu asau do mimang.
+9177600	eng	You have to work tomorrow.
+9177601	ukr	Діти мають багато прогалин у знаннях.
+9177602	ber	Aṭas aya ur nemlal, ur twalaḍ ara suffɣeɣ-d ungal-iw amezwaru. Azwel-ines d Ccḍeb akk d yiẓuran.
+9177603	rus	Что вдохновило Вас на кругосветное путешествие?
+9177604	ces	Já čtu.
+9177605	kzj	Minidu pogun zi Tom doid daamin dau di ontok 20 Vuhan Koopod.
+9177606	rus	Скажите мне, что Вас вдохновило!
+9177607	ukr	Том мусить дотримуватися запобіжних заходів.
+9177608	zsm	Tom meninggal dunia di rumahnya pada 20 Oktober.
+9177609	ita	Lì c'è un pesce.
+9177610	zsm	Tom tidak mengundi dalam pilihan raya terakhir.
+9177611	ces	Kdo mluvil?
+9177612	ces	Kdo to mluvil?
+9177613	rus	Том должен соблюдать меры предосторожности.
+9177614	kab	Friɣ-am-ten id.
+9177615	kab	Friɣ-am-tent id.
+9177616	kab	Friɣ-as-t id.
+9177617	kab	Friɣ-as-tt id.
+9177618	kab	Friɣ-as-ten id.
+9177619	kab	Friɣ-as-tent id.
+9177620	kzj	Au mongundi i Tom doid pomihion tagazo di touvi no.
+9177621	kab	Friɣ-awen-t id.
+9177622	kab	Friɣ-awen-tt id.
+9177623	kab	Friɣ-awen-ten id.
+9177624	kab	Friɣ-awen-tent id.
+9177625	kab	Friɣ-akent-t id.
+9177626	kab	Friɣ-akent-tt id.
+9177627	kab	Friɣ-akent-ten id.
+9177628	ita	"Che cos'è?" "Questo è una pesca."
+9177629	kab	Friɣ-akent-tent id.
+9177630	ber	Tetthumum kan, ur teẓrim anda i teggarem aḍar.
+9177631	eng	Tom gave me the wrong answer.
+9177632	kab	Friɣ-asen-t id.
+9177633	zsm	Tom tidak merancang untuk melakukannya kelmarin.
+9177634	kab	Friɣ-asen-tt id.
+9177635	ber	Tetthumumt kan, ur teẓrimt anda i teggaremt aḍar.
+9177636	kab	Friɣ-asen-ten id.
+9177637	kab	Friɣ-asen-tent id.
+9177638	spa	Mi padre ya no bebe.
+9177639	kab	Friɣ-asent-t id.
+9177640	eng	"What is this?" "This is a peach."
+9177641	kab	Friɣ-asent-tt id.
+9177642	kab	Friɣ-asent-ten id.
+9177643	kab	Friɣ-asent-tent id.
+9177644	kab	Tefriḍ-iyi-t id.
+9177645	kab	Tefriḍ-iyi-tt id.
+9177646	kab	Tefriḍ-iyi-ten id?
+9177647	kab	Tefriḍ-iyi-tent id?
+9177648	ber	Tthumuɣ kan, ur ẓriɣ anda i ggareɣ aḍar.
+9177649	kzj	Aiso mamalan i Tom do mimang dino di koniab.
+9177650	kab	Tefriḍ-as-t id?
+9177651	kab	Tefriḍ-as-tt id?
+9177652	kab	Tefriḍ-as-ten id?
+9177653	kab	Tefriḍ-as-tent id?
+9177654	ber	Tthumun kan, ur ẓrin anda i ggaren aḍar.
+9177655	zsm	Tom tidak perasan apa yang berlaku.
+9177656	kab	Tefriḍ-asen-t id?
+9177657	kab	Tefriḍ-asen-tt-id?
+9177658	ber	Tthumunt kan, ur ẓrint anda i ggarent aḍar.
+9177659	kab	Tefriḍ-asen-ten id?
+9177661	rus	Пантеон вдохновил многих архитекторов и художников эпохи Возрождения.
+9177662	kab	Tefriḍ-asen-tent id?
+9177663	kab	Tefram-iyi-t id?
+9177664	ces	Tito parazité se množí v lidském organismu.
+9177665	kab	Tefram-iyi-tt id?
+9177666	spa	Es horrible, simplemente horrible.
+9177667	kab	Tefram-iyi-ten id?
+9177668	kab	Tefram-iyi-tent id?
+9177669	eng	This is my hometown.
+9177670	kab	Teframt-iyi-t id?
+9177671	kab	Teframt-iyi-tt id?
+9177672	kab	Teframt-iyi-ten id?
+9177673	kzj	Au kopiuman i Tom di nunu i nadadi.
+9177674	jpn	ローリーは誰ですか？
+9177675	kab	Teframt-iyi-tent id?
+9177676	kab	Tefram-as-t id?
+9177677	kab	Tefram-as-tt id?
+9177678	kab	Tefram-as-ten id?
+9177679	kab	Tefram-as-tent id?
+9177680	kab	Teframt-as-t id?
+9177681	kab	Teframt-as-tt id?
+9177682	kab	Teframt-as-ten id?
+9177683	kab	Teframt-as-tent id?
+9177684	zsm	Tom tidak tahu di mana dia harus meletak kenderaan.
+9177685	eng	He said "yes".
+9177686	ita	Ha detto "sì".
+9177687	eng	I'm going to have to stop Tom.
+9177689	ber	Tthumuɣ kan, ur ẓriɣ anda i tedduɣ.
+9177690	ita	Disse "sì".
+9177691	ber	Tthumun kan, ur ẓrin anda i teddun.
+9177692	spa	Alain no está feliz ni satisfecho con su matrimonio.
+9177693	ber	Tthumunt kan, ur ẓrint anda i teddunt.
+9177694	eng	Tom took a nap before the exam.
+9177695	tok	mi pilin pona suli.
+9177696	ces	Tom mluvil.
+9177697	ces	Tom promluvil.
+9177698	eng	Go see who's here.
+9177699	ber	Yetthumu kan, ur yeẓri anda i iteddu.
+9177700	eng	Junk food afflicts your health.
+9177701	ber	Tetthumu kan, ur teẓri anda i tetteddu.
+9177702	kzj	Au noihaan i Tom idnomboo no pinoizonon do kulita dau.
+9177703	ber	Netthumu kan, ur neẓri anda i nteddu.
+9177704	kab	Tefram-asen-t id?
+9177705	kab	Tefram-asen-tt id?
+9177706	zsm	Tom melakukan perkara itu dengan tiga orang lain.
+9177707	kab	Tefram-asen-ten id?
+9177708	kab	Tefram-asen-tent id?
+9177709	ber	Tetthumuḍ kan, ur teẓriḍ anda i tettedduḍ.
+9177710	kab	Teframt-asen-t id?
+9177711	kab	Teframt-asen-tt id?
+9177712	kab	Teframt-asen-ten id?
+9177713	kab	Teframt-asen-tent id?
+9177714	kab	Tefram-asent-t id?
+9177715	kab	Tefram-asent-tt id?
+9177716	ber	Tetthumum kan, ur teẓrim anda i tetteddum.
+9177717	kab	Tefram-asent-ten id?
+9177718	kzj	Nimaan i Tom dino do miampai di tohu tuhun suvai.
+9177719	kab	Tefram-asent-tent id?
+9177720	kab	Teframt-asent-t id?
+9177721	kab	Teframt-asent-tt id?
+9177722	ber	Tetthumumt kan, ur teẓrimt anda i tetteddumt.
+9177723	kab	Teframt-asent-ten id?
+9177724	kab	Teframt-asent-tent id?
+9177725	zsm	Tom belum pandai ikat kasutnya sendiri.
+9177726	eng	Tom asked whether Mary would be there.
+9177727	ukr	Водію, наступна зупинка, будьте ласкаві.
+9177728	kzj	Au po apandai i Tom mongogos do kasut dau sondii.
+9177729	ukr	Відповіді двох учнів повністю збігались.
+9177730	ber	Yettakk anzi ɣer baba-s.
+9177731	zsm	Tom boleh menguruskan semuanya sendiri.
+9177732	ukr	Том зробив знижку на курс.
+9177733	ukr	Нас чекає сувора зима.
+9177734	ber	Yettakk anzi ɣer yemma-s.
+9177735	ukr	Том - тямущий хлопець.
+9177736	kzj	Kavasa zi Tom monguhud do sontob ngaavi dau sondii.
+9177737	ber	Tettakk anzi ɣer jeddi-s.
+9177738	ukr	Том тушкує картоплю на вечерю.
+9177739	ber	Yettakk anzi ɣer jeddi-s.
+9177740	ber	Tettakkeḍ anzi ɣer jeddi-k.
+9177741	ukr	Том готовий надати допомогу у будь-який час.
+9177742	ber	Tettakkeḍ anzi ɣer jeddi-m.
+9177743	zsm	Tom membina alatan perkakas di halaman belakang rumahnya.
+9177744	ukr	Навчальна програма вже застаріла.
+9177745	ber	Ttakkeɣ anzi ɣer jeddi.
+9177746	ukr	Том поставив на стіл кришталеву вазу і щиро посміхнувся.
+9177748	ukr	Вівдя була дуже вередливою дитиною.
+9177749	kab	Tewwiḍ-aɣ-t id.
+9177750	ukr	Численні дослідження показали свої результати.
+9177751	kab	Tewwiḍ-aɣ-tt id.
+9177752	kab	Tewwiḍ-aɣ-ten id.
+9177753	ber	I tura, amek ara tt-id-nebdu ?
+9177754	kab	Tewwiḍ-aɣ-tent id.
+9177755	ukr	Катря може придбати квитки в кіно.
+9177756	kab	Tewwiḍ-aɣ-tent id?
+9177757	kab	Tewwiḍ-aɣ-tent?
+9177758	ber	I tura, amek ara tt-id-yebdu ?
+9177759	kab	Tewwim-aɣ-t id.
+9177760	tok	jan Ton li toki e ni: ona li tawa ma Oselija.
+9177761	ber	I tura, amek ara tt-id-tebdu ?
+9177762	kzj	Minonoodo i Tom do bakaang doid tohikud id hamin dau.
+9177763	kab	Tewwim-aɣ-t id?
+9177764	ber	I tura, amek ara tt-id-tebduḍ ?
+9177765	kab	Tewwim-aɣ-t?
+9177766	kab	Tewwim-aɣ-tt id.
+9177767	ukr	Том зараз у відрядженні.
+9177768	ber	I tura, amek ara tt-id-tebdum ?
+9177769	kab	Tewwim-aɣ-tt id?
+9177770	ber	I tura, amek ara tt-id-tebdumt ?
+9177771	kab	Tewwim-aɣ-tt?
+9177772	ber	I tura, amek ara tt-id-bduɣ ?
+9177773	ber	I tura, amek ara tt-id-bdun ?
+9177774	kab	Tewwim-aɣ-ten id.
+9177775	eng	The curriculum is outdated.
+9177776	ber	I tura, amek ara tt-id-bdunt ?
+9177777	kab	Tewwim-aɣ-ten id?
+9177778	ukr	Том - провідний фахівець у царині культури.
+9177779	kab	Tewwim-aɣ-tent?
+9177780	zsm	Kurikulum sudah lapuk.
+9177781	kab	Tewwim-aɣ-tent id.
+9177782	kab	Tewwim-aɣ-tent id?
+9177783	ukr	Важка праця - запорука успіху.
+9177784	kab	Tewwimt-aɣ-tent id.
+9177785	kab	Tewwimt-aɣ-tent id?
+9177786	kab	Tewwimt-aɣ-ten id.
+9177787	kab	Tewwimt-aɣ-tt id.
+9177788	kab	Tewwimt-aɣ-t id.
+9177789	kab	Tewwimt-aɣ-t id?
+9177790	ita	Sono sicuro che a Tom non piacerà il vino che hai portato.
+9177791	ber	Tamacahut-is ɣezzifet.
+9177792	ita	Ti succede?
+9177793	kab	Yewwi-aɣ-t id.
+9177794	kab	Yewwi-aɣ-t id?
+9177795	kab	Yewwi-aɣ-tt id.
+9177796	kzj	Nahazid nodi o kurikulum.
+9177797	ukr	Наша домівка має великий передпокій.
+9177798	ber	Tamacahut-iw ɣezzifet.
+9177799	ita	Lavora nel pronto soccorso dell'ospedale.
+9177800	ber	Tamacahut-nneɣ ɣezzifet.
+9177801	ukr	Українська мова багата на винятки з правил.
+9177802	kab	Yewwi-aɣ-tt id?
+9177803	ita	Non avevo amici fatta eccezione per Tom.
+9177804	eng	Tom placed a crystal vase on the table and smiled sincerely.
+9177805	ber	Tamacahut-ik ɣezzifet.
+9177806	ita	Hamilton morì l'ultimo giorno.
+9177807	ukr	Том вимкнув світло.
+9177808	ber	Tamacahut-im ɣezzifet.
+9177809	ita	Qui è dove lavora Tom.
+9177810	kab	Yewwi-aɣ-ten-id.
+9177811	ita	Vorrei vedere il menu.
+9177812	ber	Tamacahut-nwen ɣezzifet.
+9177813	ukr	Том зачинив вікно.
+9177814	kab	Yewwi-aɣ-tent id.
+9177815	ber	Tamacahut-nwent ɣezzifet.
+9177816	ita	Tom è l'unico che sembra in grado di parlare con Mary.
+9177817	zsm	Tom meletakkan pasu kristal di atas meja dan tersenyum secara ikhlas.
+9177818	ber	Tamacahut-nkent ɣezzifet.
+9177819	ukr	Том відкорковав вино.
+9177820	ber	Tamacahut-nsen ɣezzifet.
+9177821	ber	Tamacahut-nsent ɣezzifet.
+9177822	spa	El precio de los vegetales cambia diariamente.
+9177823	ukr	Том розгорнув підручник з фізики - і одразу помарнів.
+9177824	epo	Montriĝis, ke la viro kiun ni vidis en la distanco, estas Tomo.
+9177825	spa	Pruébate este brasier.
+9177826	ukr	Том чомусь вважав, що він не належав до більшості і що його думка вирізняла його з-поміж інших.
+9177827	kzj	Pinopovihiu zi Tom do tunsina butiza doid mija om ouhi no ngingis.
+9177828	eng	I'm the youngest here.
+9177829	spa	Tom tiene canas.
+9177830	ber	Iḥemmel ad yeqqim iman-is.
+9177831	spa	¡Qué bello estar contigo!
+9177833	ukr	Том не любив волоські горіхи, він надавав перевагу фісташкам.
+9177834	ber	Ur tḥemmel ara ad teqqim iman-is.
+9177835	spa	Ignoras adonde vas.
+9177836	ber	Ur nḥemmel ara ad neqqim iman-nneɣ.
+9177837	ber	Ur nḥemmel ara ad neqqim iman-nteɣ.
+9177838	ber	Ur tḥemmleḍ ara ad teqqimeḍ iman-ik.
+9177839	ber	Ur tḥemmlem ara ad teqqimem iman-nwen.
+9177840	kab	Tewwi-aɣ-t id.
+9177841	kab	Tewwi-aɣ-tt id.
+9177842	kab	Tewwi-aɣ-ten id.
+9177843	ber	Ur tḥemmlemt ara ad teqqimemt iman-nwent.
+9177844	kab	Tewwi-aɣ-tent id.
+9177845	kab	Wwin-aɣ-t id.
+9177846	ukr	Том поставив собі на меті замовити квіти до вечора.
+9177847	kab	Wwin-aɣ-t id?
+9177848	ber	Ur tḥemmlemt ara ad teqqimemt iman-nkent.
+9177849	kab	Wwin-aɣ-tt id.
+9177850	kab	Wwin-aɣ-ten id.
+9177851	kab	Wwin-aɣ-tent id.
+9177852	spa	¿Por qué no utiliza su idioma?
+9177853	kab	Wwint-aɣ-t id.
+9177854	kab	Wwint-aɣ-t id?
+9177855	kab	Wwint-aɣ-tt id.
+9177856	kab	Wwint-aɣ-ten id.
+9177857	kab	Wwint-aɣ-tent id.
+9177858	spa	Compré un nuevo sombrero en el centro comercial.
+9177859	kab	Wwiɣ-ak-t id.
+9177860	kab	Wwiɣ-ak-tt id.
+9177861	eng	Does Tom know when the party is going to start?
+9177862	kab	Wwiɣ-ak-ten id.
+9177863	kab	Wwiɣ-ak-tent id.
+9177864	ber	Ur ḥemmleɣ ara ad qqimeɣ iman-iw.
+9177865	kab	Wwiɣ-am-t id imir-n.
+9177866	kab	Wwiɣ-am-tt id imir-n.
+9177867	kab	Wwiɣ-am-ten id imir-n.
+9177868	kab	Wwiɣ-am-tent id imir-n.
+9177869	ber	Ur ḥemmlen ara ad qqimen iman-nsen.
+9177870	ber	Ur ḥemmlent ara ad qqiment iman-nsent.
+9177871	kab	Wwiɣ-as-t id dindin.
+9177872	kab	Wwiɣ-as-tt id dindin.
+9177873	kab	Wwiɣ-as-ten id dindin.
+9177874	spa	¿Fuiste a Madrid el domingo?
+9177875	ukr	Мені не стало сил запобігти погіршенню моєї хвороби.
+9177876	eng	You used to like doing this, didn't you?
+9177877	kab	Wwiɣ-as-tent id dindin.
+9177878	kab	Wwiɣ-awen-t id imir-nni kan.
+9177879	kab	Wwiɣ-awen-tt id imir-nni kan.
+9177880	kab	Wwiɣ-awen-ten id imir-nni kan.
+9177881	kab	Wwiɣ-awen-tent id imir-nni kan.
+9177882	kab	Wwiɣ-akent-t id deg dqiqa.
+9177883	kab	Wwiɣ-akent-tt id deg dqiqa.
+9177884	kab	Wwiɣ-akent-ten id deg dqiqa.
+9177885	kab	Wwiɣ-akent-tent id deg dqiqa.
+9177886	kab	Wwiɣ-asen-t id deg dqiqa.
+9177887	kab	Wwiɣ-asen-tt id deg dqiqa.
+9177888	kab	Wwiɣ-asen-ten id deg dqiqa.
+9177889	kab	Wwiɣ-asen-tent id deg dqiqa.
+9177890	kab	Wwiɣ-asent-t id deg dqiqa.
+9177891	kab	Wwiɣ-asent-tt id deg dqiqa.
+9177892	eng	She looked at me askance, not believing I could have said something so foolish.
+9177893	kab	Wwiɣ-asent-ten id deg dqiqa.
+9177894	kab	Wwiɣ-asent-tent id deg dqiqa.
+9177895	eng	Tom wasn't hiding.
+9177896	ukr	Вільний час ніколи не зайвий.
+9177897	spa	Tom hizo lo que le dije que hiciera.
+9177898	eng	This year, the prices are simply exorbitant.
+9177899	kab	Tewwiḍ-iyi-t ass-nni.
+9177900	kab	Tewwiḍ-iyi-tt ass-nni.
+9177901	kab	Tewwiḍ-iyi-ten ass-nni.
+9177902	kab	Tewwiḍ-iyi-tent ass-nni.
+9177903	kab	Tewwiḍ-as-t ass-nni.
+9177904	kab	Tewwiḍ-as-tt ass-nni.
+9177905	kab	Tewwiḍ-as-ten ass-nni.
+9177906	kab	Tewwiḍ-as-tent ass-nni.
+9177907	kab	Tewwiḍ-asen-t ass-nni.
+9177908	kab	Tewwiḍ-asen-tt ass-nni.
+9177909	kab	Tewwiḍ-asen-ten ass-nni.
+9177910	kab	Tewwiḍ-asen-tent ass-nni.
+9177911	eng	Is there anything that you need?
+9177912	kab	Tewwiḍ-asent-t ass-nni.
+9177913	kab	Tewwiḍ-asent-tt ass-nni.
+9177914	kab	Tewwiḍ-asent-ten ass-nni?
+9177915	kab	Tewwiḍ-asent-tent ass-nni.
+9177916	epo	Tomo ne permesos al vi kanti.
+9177917	kab	Tewwim-iyi-t zgelli.
+9177918	eng	Originally, the salesman named an exorbitant price.
+9177919	kab	Tewwim-iyi-tt zgelli.
+9177920	tok	jan pan li jan pona.
+9177921	eng	I'm not joking, Tom.
+9177922	tok	mi jan Jamata.
+9177923	eng	Then the two images merge into one.
+9177924	cmn	我姓山田
+9177925	spa	Me dijo que ya ha ido a Rusia.
+9177926	eng	The sounds of the city are merging into a single monotonous noise.
+9177927	ukr	Собака відкусив дужку моїм окулярам.
+9177928	eng	A faint crunching noise could be heard.
+9177929	tok	mi ken ala ken pilin e linja sinpin sina?
+9177930	tok	mi ken pilin e linja sinpin sina anu seme?
+9177931	ukr	Нам подобається якість.
+9177932	ukr	Будь-яка деталь є важливою.
+9177933	kab	Tewwim-iyi-ten zgelli.
+9177934	kab	Tewwim-iyi-tent zgelli.
+9177935	kab	Tewwimt-iyi-t zgelli.
+9177936	kab	Tewwimt-iyi-tt zgelli.
+9177937	kab	Tewwimt-iyi-ten zgelli.
+9177938	kab	Tewwimt-iyi-tent zgelli.
+9177939	kab	Tewwim-as-t zgelli.
+9177940	kab	Tewwim-as-tt zgelli.
+9177941	kab	Tewwim-as-ten zgelli.
+9177942	kab	Tewwim-as-tent zgelli.
+9177943	kab	Tewwimt-as-t zgelli.
+9177944	kab	Tewwimt-as-tt zgelli.
+9177945	lfn	Esce me pote palpa tua barba?
+9177946	kab	Tewwimt-as-ten zgelli.
+9177947	kab	Tewwimt-as-tent zgelli.
+9177948	kab	Tewwim-asen-t mi llan gnen.
+9177949	lfn	Еске ме поте палпа туа барба?
+9177950	kab	Tewwim-asen-tt mi llan gnen.
+9177951	kab	Tewwim-asen-ten mi llan gnen.
+9177952	ukr	Підбиймо підсумки.
+9177953	kab	Tewwim-asen-tent mi llan gnen.
+9177954	kab	Tewwimt-asen-t mi llan gnen.
+9177955	kab	Tewwimt-asen-tt mi llan gnen.
+9177956	kab	Tewwimt-asen-ten mi llan gnen.
+9177957	kab	Tewwimt-asen-tent mi llan gnen.
+9177958	kab	Tewwim-asent-t mi llant deg lakul.
+9177959	kab	Tewwim-asent-tt mi llant deg lakul.
+9177960	kab	Tewwim-asent-ten mi llant deg lakul.
+9177961	eng	Our light went out.
+9177962	kab	Tewwim-asent-tent mi llant deg lakul.
+9177963	kab	Tewwimt-asent-t mi llant tturarent.
+9177964	kab	Tewwimt-asent-tt mi llant tturarent.
+9177965	kab	Tewwimt-asent-ten mi llant tturarent.
+9177966	kab	Tewwimt-asent-tent mi llant tturarent.
+9177967	deu	„Er würde sich mehr für mich interessieren, wenn ich wie Maria aussähe.“ – „Das stimmt doch nicht.“
+9177968	spa	¿Puedo tocar tu barba?
+9177969	eng	A towel is hanging on the hook.
+9177970	rus	Том ест не очень много.
+9177971	rus	Том не очень много ест.
+9177972	rus	Том обычно ест слишком быстро.
+9177973	eng	Tom wanted to be a poet.
+9177974	por	O pai de minha mãe tem cabelos e barba brancos.
+9177975	tok	mama mije pi mama meli mi li jo e linja lawa walo e linja sinpin walo.
+9177976	spa	El padre de mi madre tiene el cabello y la barba blancos.
+9177977	eng	I almost never stay up this late.
+9177978	eng	My mother's father has white hair and a white beard.
+9177979	epo	La patro de mia patrino havas blankajn harojn kaj barbon.
+9177980	fra	Tom voulait être poète.
+9177981	fra	Pierre voulait être policier.
+9177982	ita	Il padre di mia madre ha bianchi i capelli e la barba.
+9177983	fra	Pierre voudrait être policier.
+9177984	fra	Pierre voulait être pompier.
+9177985	eng	Has Tom been discharged from the hospital?
+9177986	fra	Pierre voudrait être douanier.
+9177987	fra	Pierre et Marie aiment leur métier.
+9177988	kab	Acimi i tesmerkiḍ aqjun-ik fell-i?
+9177989	kab	Acimi i tesmerkiḍ aydi-inek fell-as?
+9177990	kab	Acimi i tesmerkiḍ aydi-inem fell-asen?
+9177991	eng	Could you tell me where Adlon Hotel is located?
+9177992	eng	You won't fool me.
+9177993	kab	Acimi i tesmerkiḍ aqziḥ-inem fell-asent?
+9177994	fra	J'ai la grigne !
+9177995	fra	J'ai la poisse !
+9177996	rus	У отца моей матери седые волосы и борода.
+9177997	eng	Tom didn't answer my call.
+9177998	eng	Ovid was a very capricious child.
+9177999	cmn	我要租房。
+9178000	zsm	Saya akan buat semua yang awak suruh saya buat.
+9178001	cmn	你花太多钱了。
+9178002	lfn	La padre de mea madre ave capeles e barba blanca.
+9178003	lfn	Ла падре де меа мадре аве капелес е барба бланка.
+9178004	eng	Pornography isn't a solution to your problem.
+9178005	kzj	Todoon zou mai sontob ponuuvan nu dogo.
+9178006	zsm	Kita mesti tidur sekurang-kurangnya lapan jam sehari.
+9178007	cmn	别插手。
+9178008	fra	Le père de ma mère a les cheveux blancs et une barbe blanche.
+9178009	kzj	Modop zou daa sokuukuang do vahu jaam sangadau.
+9178010	cmn	留在这和汤姆在一起。
+9178011	deu	Die Haare und der Bart des Vaters meiner Mutter sind weiß.
+9178012	cmn	汤姆不能留下。
+9178013	cmn	你为什么留下？
+9178014	zsm	Awak mungkin menggunakan kereta ini.
+9178015	fra	Les cheveux et la barbe du père de ma mère sont blancs.
+9178016	por	O Tom recebeu alta do hospital?
+9178017	kzj	Kavasa ko momoguno do kulita diti.
+9178018	por	Tom queria ser poeta.
+9178019	por	Não estou brincando, Tom.
+9178020	cmn	永远别再提它了。
+9178021	zsm	Pulau ini dilanda taufan.
+9178022	por	Esta é a minha cidade natal.
+9178023	por	Quem discorda?
+9178024	fra	Les rues grouillaient de grouillots.
+9178025	tok	linja lawa en linja sinpin pi mama mije pi mama meli mi li walo.
+9178026	cmn	你让我想起我自己。
+9178027	kzj	Noopitan di tongus topuod iti pulou.
+9178028	cmn	你有麻烦了。
+9178029	cmn	你现在必须离开。
+9178030	eng	Is the computer plugged in?
+9178031	ita	I capelli e la barba del padre di mia mamma sono bianchi.
+9178032	kzj	Ounsikou kozo ginavo do kotutun diau.
+9178033	cmn	你最好检查一下这个。
+9178034	por	Os cabelos e a barba do pai de minha mãe são brancos.
+9178035	cmn	我再也不会跟你说话了。
+9178036	eng	My mother's father's hair and beard are white.
+9178037	cmn	你就没在听。
+9178038	cmn	你应该叫醒我。
+9178039	lfn	La capeles e barba de la padre de mea madre es blanca.
+9178040	ita	Non lo capiva.
+9178041	cmn	你说过你会帮我的。
+9178042	lfn	Ла капелес е барба де ла падре де меа мадре ес бланка.
+9178043	eng	Is Tom eating a sandwich?
+9178044	cmn	你从来没有注意过我。
+9178045	kab	Yefka-aɣ-t lḥal, d mmi-s n xali.
+9178046	cmn	我想要留下。
+9178047	vie	Chú mèo con kia dễ thương quá!
+9178048	kab	Yefka-aɣ-tt lḥal, d yelli-s n xalti.
+9178049	cmn	我不能留下。
+9178050	spa	El pelo y la barba del padre de mi madre son blancos.
+9178051	eng	Put on your robe.
+9178052	kab	Yefka-aɣ-ten lḥal, d arraw n xali.
+9178053	kab	Yefka-aɣ-tent lḥal, d yessi-s n xalti.
+9178054	eng	Tom might not believe us.
+9178055	kab	D acu n weɣbel i yellan yid-sen?
+9178056	kab	D acu n weɣbel i yellan yid-sent?
+9178057	ita	Sami era il Donald Trump d'Egitto.
+9178058	eng	I was exhausted and started feeling sleepy.
+9178059	kzj	Miboos zito no do Perancis.
+9178060	kab	D acu-t wugur i yellan yid-sen?
+9178061	kab	D acu-t wugur i yellan yid-sent?
+9178062	kzj	Miboos zikoi no do Kadazan do tikid tadau.
+9178063	eng	Either Tom or Mary will do that.
+9178064	eng	We only speak Kadazan to each other everyday.
+9178065	zsm	Kami saling bertutur bahasa Kadazan setiap hari.
+9178066	eng	You should tell us the truth.
+9178067	ita	Dovresti dirci la verità.
+9178068	ita	Dovreste dirci la verità.
+9178069	ita	Dovrebbe dirci la verità.
+9178070	ita	Ci dovresti dire la verità.
+9178071	ita	Ci dovreste dire la verità.
+9178073	ita	Ci dovrebbe dire la verità.
+9178074	tok	sina kama lon ale lon sike suno seme?
+9178075	deu	Ich will auch nicht, dass Tom zurückkommt.
+9178076	tok	sama la mi wile ala e ni: jan Ton li kama sin.
+9178077	eng	Is anybody else coming?
+9178078	mar	ते सगळे मुसलमान आहेत.
+9178079	mar	त्या सगळ्या मुसलमान आहेत.
+9178080	mar	तुला ही नोकरी हवी आहे का नाही?
+9178081	eng	What scared Tom off?
+9178082	mar	तुम्हाला ही नोकरी हवी आहे का नाही?
+9178083	fin	Matkaa suunnitellessa pitää ottaa huomioon kaikkien perheenjäsenten toiveet.
+9178084	mar	मला तेवढंच दिसत आहे.
+9178085	mar	मला तेवढंच दिसतं.
+9178086	mar	मी झाड लावत आहे.
+9178087	mar	ही माझी चूक आहे असं तुला म्हणायचं आहे का?
+9178088	mar	ही माझी चूक आहे असं तुम्हाला म्हणायचं आहे का?
+9178089	eng	My best friend now lives in Australia.
+9178090	eng	Tom doesn't like to fish.
+9178091	fra	Mettez-vous sous la table.
+9178092	fra	Mets-toi sous la table.
+9178093	fra	Le bébé s'est mis à ramper.
+9178094	fra	Je me faufile dans la maison.
+9178095	fra	Je l'ai eu quand il a essayé de s'enfuir.
+9178096	epo	Li verkis libron.
+9178097	eng	He's going to be happy.
+9178098	fra	Je vous apporterai votre décompte tout de suite.
+9178099	fra	J'ai la soupe et ton compte.
+9178100	fra	Les bêtes couraient à travers la plaine.
+9178101	eng	Carry it.
+9178102	epo	Kiuj estas tiuj ĉi viroj?
+9178103	fra	Sur ces plaines verdoyantes, des moutons à la laine splendide paissent.
+9178104	nld	Ik las de kranten.
+9178106	fra	Le soleil brille fort aujourd'hui.
+9178107	eng	I already regret not going.
+9178108	eng	None of this is Tom's fault.
+9178109	eng	You'd better tell us the truth.
+9178110	eng	Tom had a good upbringing.
+9178111	fra	Avec sa pâte on réussit à coup sûr un croustillon.
+9178112	eng	This one is better.
+9178113	fra	En fin d'année, on savoure souvent un beignet rapide.
+9178114	lit	Kas yra šitie vyrai?
+9178115	fra	C'est une histoire inspirante.
+9178116	lit	Kas tie vyrai?
+9178117	fra	Il espérait insuffler aux gens l'envie de développer leurs propres idées.
+9178118	fra	Dans un avenir proche, vous serez largement informés sur ce sujet.
+9178119	fra	Les ministres de la défense des pays concernés étaient réunis à Visegrád, en Hongrie.
+9178120	eng	I'm sure Tom has a pension.
+9178121	fra	Il accorde une grande attention à son travail.
+9178122	fra	Chaque jour, Béla va à l'école avec son fils, car c'est un père attentionné.
+9178123	fra	Veuillez lier cette phrase à la phrase espagnole.
+9178125	jpn	雨、止んでくれないかな。
+9178126	tok	ona li alasa e ilo open.
+9178127	jpn	今日は出かけない方がいいよ。
+9178128	lit	Tai įkvepianti istorija.
+9178129	eng	Do these gloves fit you?
+9178130	eng	I think about cocks all the time.
+9178131	lit	Jis ieškojo rakto.
+9178132	eng	Tom was already awake.
+9178135	por	Os adultos me disseram que, em vez de desenhar cobras, por dentro ou por fora, eu devia era aprender aritmética, geografia, história e gramática.
+9178136	tok	jan suli li toki e ni: "o pali ala e sitelen akesi anu sitelen pi insa akesi. o kama sona e sona nanpa e sona ma e sona tenpo e sona toki!"
+9178137	eng	I had to sell my apartment.
+9178138	eng	Adults told me that, instead of drawing snakes, or their interior, I should be learning arithmetic, geography, history, and grammar.
+9178139	fra	Après l'orgueil vient la chute.
+9178140	eng	How long did Tom sleep?
+9178141	jpn	家にいるより、外に出かける方が好きなんだ。
+9178142	lit	Tu vis dar bijai tamsos?
+9178143	fra	On dit que les orfèvres de ce quartier mangeaient de l'argent à cause de l'extrême pauvreté.
+9178144	jpn	前は古いロールスロイスを持ってたんだよ。
+9178145	lit	Ar tu iki šiol bijai tamsos?
+9178146	spa	Los adultos me dijeron que, en lugar de dibujar serpientes o su interior, debería estar aprendiendo aritmética, geografía, historia y gramática.
+9178147	eng	You know that isn't the case.
+9178148	lit	Ar tu tebebijai tamsos?
+9178150	fra	Je lave mon peignoir une fois par semaine.
+9178151	eng	Tom writes novels.
+9178152	lit	Tomas nerodė baimės.
+9178153	epo	Plenkreskuloj diris al mi ke, anstataŭ desegni serpentojn aŭ ilian internon, mi devus lerni aritmetikon, geografion, historion kaj gramatikon.
+9178154	lit	Tomas neparodė baimės.
+9178155	rus	Том не ест ничего, кроме белого мяса.
+9178156	rus	Том часто ест фрукты на десерт.
+9178157	lfn	La persones grande ia consela me a lasa a lado desinias de serpentes abrida o cluida, e deveni interesada en loca a jeografia, istoria, calcula e gramatica.
+9178158	fra	Je ne veux pas non plus que Tom revienne.
+9178159	fra	Le chevrier a conduit les chèvres, toutes blanches de neige, dans une grotte déserte pour s'y réfugier.
+9178160	rus	Том всегда ест фрукты на десерт.
+9178161	ita	Gli adulti mi hanno detto che, invece di disegnare serpenti, o il loro interno, avrei dovuto imparare aritmetica, geografia, storia e grammatica.
+9178162	rus	Том всегда здесь завтракает.
+9178163	lit	Ji padėjo savo broliui padaryti namų darbus.
+9178164	rus	Итоги подводить рано.
+9178165	rus	Том смотрел, как Мэри и Джон играют в теннис.
+9178166	eng	She didn't get married.
+9178167	rus	Том иногда здесь обедает.
+9178168	lit	Ji padėjo savo broliui atlikti namų darbus.
+9178169	eng	Who told you that you could come?
+9178170	rus	Том прямо сейчас ужинает.
+9178171	deu	Die Erwachsenen haben mir geraten, mich nicht mehr mit offenen oder geschlossenen Riesenschlangen zu beschäftigen, sondern mich stattdessen mehr für Geografie, Geschichte, Mathe und Grammatik zu interessieren.
+9178172	rus	Том не любит есть, когда кто-то курит.
+9178173	fra	C'est notre chance.
+9178174	rus	Кто тебе сказал, что ты можешь прийти?
+9178175	rus	Кто вам сказал, что вы можете прийти?
+9178176	rus	Мы не должны повторять ошибок прошлого.
+9178177	lit	Deja, aš nežinau jokio vokiško filmo.
+9178178	fra	Elle aimerait acheter une voiture, mais elle ne peut pas se l'offrir.
+9178179	rus	Она хотела бы купить машину, но не может себе этого позволить.
+9178180	lit	Deja, aš nežinau nė vieno vokiško filmo.
+9178181	kab	Asmi ara k-fkeɣ afus-iw, ɣur-k ad d-mekkneḍ tiɣmert-ik.
+9178182	lit	Gaila, bet aš nežinau jokio vokiško filmo.
+9178183	rus	Том каждый день ест в столовой.
+9178184	fra	Dis à Marie que je vais faire ça pour elle.
+9178185	fra	Le jour où je te tendrai la main, ne prépare pas ton coude.
+9178186	fra	Les grandes personnes m'ont conseillé de laisser de côté les dessins de serpents ouverts ou fermés, et de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire.
+9178187	lit	Gaila, bet aš nežinau nė vieno vokiško filmo.
+9178188	kab	Huc Yuc tafeḍ Quc!
+9178189	kab	Huc Quc tafeḍ Yuc!
+9178190	kab	Quc Yuc tafeḍ Huc!
+9178191	kab	Glem-d Tom.
+9178192	kab	Ɣuc Yuc tafeḍ Muc!
+9178193	fra	Nous aimerions que Tom chante avec nous.
+9178194	rus	Том ест уже третью тарелку супа.
+9178195	rus	Взрослые сказали мне, что вместо того, чтобы рисовать змей или их внутренности, я должен изучать арифметику, географию, историю и грамматику.
+9178196	kab	Ungif-nni n Tom ilaq-as tili ifaq belli awal aneggaru deg tefyirt-a iban ad yili i Mary.
+9178197	lit	Kuris yra jaunesnis?
+9178198	eng	Are you sure the book I'm looking for is on this shelf?
+9178199	lit	Kuri yra jaunesnė?
+9178200	kab	Nniɣ-ak, nniɣ-am, ulac din uk!
+9178201	fra	Je crois que Tom est innocent.
+9178202	rus	Том любит спаржу, а его брат - нет.
+9178203	kab	Huc Yuc ad d-tafeḍ Quc!
+9178204	epo	Li estos feliĉa.
+9178205	kab	Ɣuc Kuc tafeḍ Ɛuc!
+9178206	fra	J'aimerais savoir pourquoi ils sont ici.
+9178207	eng	An ambulance took Tom away.
+9178208	lit	Kodėl Tomas taip meluoja?
+9178209	deu	Ich möchte eine Wohnung mieten.
+9178210	eng	He's not dangerous.
+9178211	lit	Dėl ko Tomas taip meluoja?
+9178212	lfn	Ла персонес гранде иа консела ме а ласа а ладо десиниас де серпентес абрида о клуида, е девени интересада ен лока а жеографиа, историа, калкула е граматика.
+9178213	eng	The day I reach out to you, don't prepare your elbow.
+9178214	eng	We sat and smoked.
+9178215	rus	Тома увезла скорая.
+9178216	rus	Тома увезли на скорой.
+9178217	nld	Een ijsje zonder slagroom, alstublieft.
+9178218	eng	Tom helped me do this.
+9178219	nld	Ik zal u helpen de organisatie en processen van de verkoopafdeling te verbeteren.
+9178220	tok	sina toki lon toki Katala anu seme?
+9178221	rus	Том пьёт водку.
+9178222	lit	Aš noriu žinoti, kodėl Tomas dar nevedęs.
+9178223	eng	I don't like ironing.
+9178224	eng	The wolves wander through the forest.
+9178225	lit	Aš noriu žinoti, kodėl Tomas vis dar viengungis.
+9178226	eng	Will Tom agree?
+9178227	cmn	你會講加泰隆尼亞文嗎?
+9178228	rus	Том согласится?
+9178229	nld	Geef me te eten, alstublieft.
+9178230	rus	Том пьёт не много.
+9178231	nld	Dit zijn allemaal achterhaalde opvattingen.
+9178232	lit	Tomas guli ant žolės.
+9178233	lit	Tomas guli ant vejos.
+9178234	fra	Pouvez-vous me dire comment s’appelle cette rue ?
+9178235	rus	Вы не подскажете, как называется эта улица?
+9178236	lit	Mano tėvas gyvena kaime.
+9178237	spa	Pensé en voz alta.
+9178238	nld	Als ik mijn hand breek, is het omdat ik hem met al mijn kracht een klap verkoop.
+9178239	rus	Сейчас Том пьёт кофе.
+9178240	eng	How many minutes does this take?
+9178241	spa	Estados Unidos está compuesto de 50 estados.
+9178242	rus	Том никогда не пьёт чай.
+9178243	spa	¿No tienen algún café de verdad?
+9178244	rus	Том редко пьёт спиртное.
+9178245	nld	We kunnen niet doen alsof we niet zien wat er naast ons gebeurt.
+9178246	rus	Том редко пьёт алкоголь.
+9178247	eng	You can't stay here forever.
+9178248	lit	Jeigu tik tu galėtum ilgiau pasilikti!
+9178249	rus	Том никогда не пьёт вино.
+9178250	rus	Том никогда не пьёт красное вино.
+9178251	eng	She didn't lose any time.
+9178252	rus	Том никогда не пьёт кофе.
+9178253	nld	Wat is er hier in de buurt?
+9178254	kab	Akken qeṛṛeḥit i nefɛent!
+9178255	eng	Tom saw everyone laughing and wondered what was going on.
+9178256	eng	Have you left somewhere without paying?
+9178257	rus	Том всегда пьёт кофе по утрам.
+9178258	eng	This plane is huge!
+9178259	rus	Том никогда не пьёт кофе после обеда.
+9178260	rus	Том вообще не пьёт спиртного.
+9178261	eng	This is scaffolding.
+9178262	deu	Ich habe beim Kochen ein Glas zerbrochen.
+9178263	lat	Campanicum bibere volo.
+9178264	eng	An important factor in a child's development are his siblings.
+9178265	deu	Ich habe sie auf die Wange geküsst.
+9178266	spa	¿Quieres que crea eso?
+9178267	kab	Suref-iyi ma teɛwej tenfalit-a.
+9178268	deu	Mir fällt es etwas schwer, mich zu konzentrieren.
+9178269	eng	Tell Tom that I dropped in.
+9178270	rus	Том очень любит вино.
+9178271	kab	Ḥemmleɣ dayen kan tudert tacawrart taṭeliant!
+9178272	ita	Adoro il gusto della dolce vita italiana!
+9178273	rus	Том пьёт очень много чая.
+9178274	lit	Šiąnakt mes galime daug žvaigždžių matyti.
+9178275	ita	Adoro il sapore della dolce vita italiana!
+9178276	tok	mi mute li wile e sina.
+9178277	lit	Naktį mes galime daug žvaigždžių matyti.
+9178278	cmn	我們需要你。
+9178279	eng	I love the flavor of Italian dolce vita!
+9178280	eng	We're a bit skeptical.
+9178281	rus	Том никогда не пьёт со своими учениками.
+9178282	spa	Me alegra que hicieras esto.
+9178283	ces	Můj otec je pořád naštvaný.
+9178284	nld	Hij wilde inhalen.
+9178285	eng	Tom and Mary were walking hand in hand.
+9178286	ita	Mi piace il sapore della dolce vita italiana!
+9178287	ces	Můj otec je vždy naštvaný.
+9178288	nld	Dat is makkelijk praten!
+9178289	rus	Знаешь, почему Том не пьёт?
+9178290	fra	J'adore la saveur de la dolce vita italienne!
+9178291	rus	Ты знаешь, почему Том не пьёт?
+9178292	fra	J'apprécie la saveur de la dolce vita italienne!
+9178293	eng	I don't know when she'll come.
+9178294	rus	Я знаю, что любит пить Том.
+9178295	deu	Tom hat ein Faible für Blondinen.
+9178296	eng	Sami worshiped God.
+9178297	ces	Můj otec měl ve zvyku mi číst pohádky na dobrou noc.
+9178298	rus	Том пьёт прямо из бутылки.
+9178299	nld	Er gaat iets niet goed met de motor.
+9178300	nld	Wat zullen we koken?
+9178301	ces	Můj otec měl ve zvyku mi číst před spaním.
+9178302	spa	Hay bastante agua.
+9178303	spa	A Mary le gustan las plantas.
+9178304	eng	I can stop whenever you want.
+9178305	rus	Том не играет, не пьёт и не курит.
+9178306	nld	Liefde gaat boven alles.
+9178307	cmn	瑪麗喜歡植物。
+9178308	nld	Neem me niet kwalijk dat ik onderbreek.
+9178309	tok	kasi li pona tawa jan Mewi.
+9178310	eng	I was starting to feel hungry.
+9178311	lat	Hoc hodie vespere facere volo.
+9178312	kab	Ḥemmleɣ dayen kan tumert tacawrart taṭeliant!
+9178313	rus	Чай Том обычно пьёт с ромом.
+9178314	spa	Me topé con tu amigo.
+9178315	ita	Sami venerava Dio.
+9178316	kab	Mačči akken i teḍra!
+9178317	nld	Na het eten krijg ik buikpijn.
+9178318	spa	Deben de odiarme mucho.
+9178319	eng	I remember that evening.
+9178321	cmn	他們一定很討厭我
+9178322	lat	Filius meus mihi non paret.
+9178323	rus	Сегодня удача повернулась к вам спиной, Том.
+9178324	rus	Удача не на вашей стороне, Том.
+9178325	rus	Удача не на вашей стороне.
+9178326	fra	Ça ne s'est pas passé comme ça !
+9178327	rus	Удача не на нашей стороне.
+9178328	eng	Do you know any doctor who understands Japanese?
+9178329	tok	mi ike mute mute tawa ona a.
+9178330	rus	Из напитков Том предпочитает виски со льдом.
+9178331	rus	Из напитков Том больше всего любит виски со льдом.
+9178332	eng	Mary has to come.
+9178333	eng	Wear a mask.
+9178334	fra	Sami vénérait Dieu.
+9178335	deu	Sami verehrte Gott.
+9178336	epo	Portu maskon.
+9178337	rus	Том всегда за ужином выпивает кружку пива.
+9178338	yid	טראָג אַ מאַסקע.
+9178339	rus	Вы знаете какого-нибудь врача, который понимает по-японски?

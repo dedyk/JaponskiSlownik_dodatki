@@ -1,46 +1,3 @@
-892975	eng	You'll sleep in the guestroom.
-892976	epo	Ĉu vi dormos en la gastoĉambro?
-892977	ita	I fallimenti spesso nascono dall'ignoranza.
-892978	ita	Mi scusi, le spiacerebbe ripetere?
-892979	ita	Porterò mia sorella alla festa.
-892980	ita	Benvenuti sul sito web del Progetto Tatoeba.
-892981	ita	Tra Europa e Asia non c'è mare.
-892982	ita	Non si amano.
-892983	ita	I problemi internazionali devono essere risolti con la diplomazia, non con la guerra.
-892984	spa	En este kanji tenemos solamente dos componentes.
-892985	jpn	こんなことが起こるなんて信じられない。誰か嘘だと言ってくれ！
-892986	ita	In questo kanji abbiamo solo due componenti.
-892987	eng	In this kanji we have only two components.
-892988	jpn	アイス食べた時、歯がしみたんだ。虫歯があるかもしれないな。
-892989	jpn	トマトは生でも、煮ても、焼いてもおいしい食材です。
-892990	jpn	毎日の献立を考えるのも大変なんだよ。
-892991	jpn	生姜は体を温める食材なので、冷え性の人にはお勧めです。
-892992	jpn	隣のクラスの転校生、超イケメンだって。
-892993	jpn	魚の骨が喉に刺さったみたい。
-892994	jpn	先月二千円貸したよね？そろそろ返してほしいんだけど。
-892995	jpn	ゲッテル・ヤーニと一緒に死にたい。
-892996	jpn	その眼鏡、よく似合ってるよ。
-892997	jpn	今日はコンタクトじゃなくて眼鏡にしたんだね。一瞬誰だかわからなかったよ。
-892998	ast	Préstame tar contigo.
-892999	jpn	洗顔料を良く泡立ててから顔を洗うと、皮脂の汚れが良く落ちます。
-893000	jpn	論理的に考えるのが苦手。
-893001	jpn	今日は随分早起きだね。何かあるの？
-893002	epo	La eterna paco ne estas alio ol iluzio.
-893003	cmn	自信本身就是本錢，但批評，抱怨會把本錢耗光
-893004	epo	Mi ŝatas resti kun vi.
-893005	epo	Mi ŝatas dormi sur mola lito.
-893006	epo	Mi pasigis la semajnfinon legante longan romanon.
-893007	epo	Mi ŝatis ludi tenison dum la semajnfinoj.
-893008	hun	Szeretek puha ágyban aludni.
-893009	epo	Mi akceptis la oferton post la ĝusta konsidero.
-893010	hun	Jól aludtam.
-893011	epo	Mi neniam laboras dum la semajnfinoj.
-893012	epo	Mi aĉetis semajnan gazeton.
-893013	epo	Ĉar mi maltrafis la lastan buson, mi devis piediri hejmen subpluve.
-893014	eng	Her words were completely meaningless.
-893015	eng	What she said was completely meaningless.
-893016	cmn	火是非常危險的。
-893017	cmn	火總是危險的。
 893018	cmn	他們甚至不知道為什麼。
 893019	epo	Mi dormis dum la leciono.
 893020	cmn	她用我喜歡的方式烹調雞肉。
@@ -5453,7 +5410,6 @@
 898738	pol	Pawłow dzwonił dzwonkiem przed karmieniem swych psów.
 898739	pol	Proszę do nas wpaść w następny poniedziałek.
 898740	pol	Ona bardziej kocha Toma niż mnie.
-898741	fra	Arrête !
 898742	pol	Czy twoi rodzice nie mają nic przeciwko temu, byś została stewardesą?
 898743	pol	Pawłow dzwonił dzwonkiem za każdym razem, kiedy karmił psy.
 898744	pol	Ten kawałek Phil napisał w zeszłym roku.
@@ -5917,7 +5873,7 @@
 899225	fra	Nous étions incapables de suivre sa logique.
 899226	fra	Elle est assise sur les toilettes.
 899227	rus	Она не сдержала обещание.
-899228	rus	Однажды, когда я был в гостях у моего друга Каваи, он выстрелил из пистолета. Он думал, что пистолет был не заряжен и направил его на мой рот, но он был заряжен, и пуля просвистела мимо моего уха и попала в кладовку.
+899228	rus	Однажды, когда я был в гостях у моего друга Каваи, он выстрелил из пистолета. Он думал, что пистолет не заряжен, и направил его на мой рот, но он был заряжен, и пуля просвистела мимо моего уха и попала в кладовку.
 899229	rus	От Нью-Йорка до Бостона четыре часа на машине.
 899230	rus	У моей сестры есть работа.
 899231	spa	Como vivo cerca de la escuela, vuelvo a casa a comer.
@@ -9635,7 +9591,7 @@
 903142	epo	Vi povas spekti televidon.
 903143	rus	Вы можете смотреть телевидение.
 903144	epo	Mi povas oferi nur sangon, penon, larmojn kaj ŝviton.
-903145	epo	Ĉu vi spektis la piedpilkon en la televidilo?
+903145	epo	Ĉu vi spektis la piedpilkadon en la televidilo?
 903146	rus	Ты играл в теннис?
 903148	epo	Ĉu vi ludis tenison?
 903149	rus	Я слышал, что ты хороший теннисный игрок.
@@ -12656,8 +12612,8 @@
 906328	eng	Run!
 906329	fra	L'objet de cette entrevue est d'évaluer si vous convenez à l'entreprise ou pas.
 906330	srp	Ja sam protiv ovog plana, ne sviđa mi se.
-906331	fra	Cours !
-906332	fra	Courez !
+906331	fra	Cours !
+906332	fra	Courez !
 906333	spa	Ella le obligó a hacerlo.
 906334	fra	Excusez-moi, mais vous êtes difficilement audible.
 906335	spa	Estoy en contra de este plan, no me gusta.
@@ -13729,7 +13685,7 @@
 907450	eng	They say that the first inclination which an animal has is to protect itself.
 907451	eng	If any one were to take away from the books of Chrysippus all the passages which he quotes from other authors, his paper would be left empty.
 907452	eng	One of the sophisms of Chrysippus was, "If you have not lost a thing, you have it."
-907453	rus	Кто-то говорит по английски, кто-то по японски.
+907453	rus	Один говорит по-английски, другой по-японски.
 907454	eng	It takes a wise man to discover a wise man.
 907455	eng	Nothing can be produced out of nothing.
 907456	eng	But we know nothing really; for truth lies deep down.
@@ -16517,7 +16473,7 @@
 910356	fra	Une fille du premier Earl de Gowrie était courtisée par un jeune gentilhomme bien inférieur à elle en rang et en fortune.
 910357	fra	Il serait scandaleux de retirer les panneaux annonçant la présence de radars.
 910358	nld	Voor God zijn alle mensen gelijk.
-910359	epo	La akcikurza indekso iĝis pli alta ol iam.
+910359	epo	La akcikurza indico iĝis pli alta ol iam.
 910360	nld	Ik kan autorijden, maar Tom niet.
 910361	nld	Ze verliest altijd opnieuw haar zakdoek.
 910362	nld	Hij heeft een fortuin nagelaten aan zijn zoon.
@@ -26816,7 +26772,7 @@
 921262	fra	Traduis, au lieu de bavasser !
 921263	deu	Japan und China unterscheiden sich in mehrerlei Hinsicht.
 921264	eng	Translate instead of chattering!
-921265	epo	Traduku anstataŭ babili !
+921265	epo	Traduku anstataŭ babili!
 921266	deu	Übersetze, statt zu quatschen!
 921267	deu	Wie üblich ist Tom spät dran für die Schule.
 921268	deu	Ihr habt nicht das Recht, euch unseren Plänen zu widersetzen.
@@ -29118,11 +29074,11 @@
 923683	tur	Lütfen yatağını yap.
 923684	tur	Saat dörde kadar bekleyeceğim.
 923685	epo	Ili trovis la ŝtelitan monon.
-923687	rus	Он - врач?
-923688	rus	Он - доктор наук?
+923687	rus	Он врач?
+923688	rus	Он доктор наук?
 923689	tur	Birisinin kapıyı çaldığını duydum.
 923690	epo	Ili mallaŭdis lin pro lia kruelo al bestoj.
-923691	rus	Он - доктор?
+923691	rus	Он доктор?
 923692	tur	Dişinde delikler var.
 923693	tur	Sydney'in güzel bir doğal limanı vardır.
 923694	tur	Teklifimi çabucak kabul etti.
@@ -29278,7 +29234,7 @@
 923861	por	Ao aeroporto Kennedy, por favor.
 923862	ron	Mă grăbesc.
 923863	tur	Acelem var.
-923864	epo	Koleriĝante li diris ĉion, kion li volis diri kaj rehejmiĝis.
+923864	epo	Koleriĝante li diris ĉion, kion li volis diri kaj reiris hejmen.
 923865	por	Eu e ele nos tornamos bons amigos.
 923866	eng	I think you're not my type.
 923867	tur	Bu kelimeleri silginle sil.
@@ -30363,7 +30319,7 @@
 925001	epo	Ili insistis, ke li foriru.
 925002	lvs	Priecājos ar Jums iepazīties
 925004	lvs	Laimīgs gadījums! Veiksmi!
-925005	rus	Нам нужно ожидать худшее.
+925005	rus	Нам нужно ожидать худшего.
 925006	deu	Der Suppenlöffel befindet sich immer ganz rechts außen.
 925008	lvs	Uz veselību! Priekā!
 925009	rus	Они даже не знают почему.
@@ -31415,7 +31371,7 @@
 926118	rus	Циркулировали слухи о поражении.
 926119	epo	Virino kapablas ne rimarki cent aferojn, kiujn vi aranĝis pensante pri ŝi, sed koncentriĝis nur al unu sola, pri kiu vi forgesis.
 926120	rus	Том ищет работу.
-926121	rus	Женщина способна не заметить сто дел, которые вы устроили думая о ней, обращаясь лишь к тому единственному, о котором вы забыли.
+926121	rus	Женщина способна не заметить сто дел, которые вы устроили, думая о ней, обращаясь лишь к тому единственному, о котором вы забыли.
 926122	hun	Szakácskönyvből olvasva próbáltam elkészíteni életem első spanyol ételét, de egész jól sikerült.
 926123	fra	La décision du juge est irrévocable.
 926126	fra	Espérons que le métro n'est pas si plein chaque matin.
@@ -32043,7 +31999,7 @@
 926788	cmn	我厭倦了功課。
 926789	jpn	最近お腹がぽっこり出てきちゃったからさ、明日からジムに通うことにしたよ。
 926790	rus	А вы знаете, что французы не слышат разницы между "симметрией" и "асимметрией"?
-926791	epo	Unu el la studentoj hodiaŭ ne alvenis.
+926791	epo	Unu el la studentoj hodiaŭ ne venis.
 926792	epo	Li kontraŭis ilian proponon per surpriza sugesto.
 926793	epo	Liaj vivosignoj estas atente kontrolataj.
 926794	rus	Потому что я хочу быть переводчиком.
@@ -35729,7 +35685,7 @@
 930722	fra	Elle m'a tapé sur la tête avec un marteau.
 930723	deu	Kleine Geschenke erhalten die Freundschaft.
 930724	fra	Mike a une jolie raquette.
-930725	tok	mi pilin lon sina.
+930725	tok	mi pilin e lon sina.
 930726	fra	Ce livre est pour toi.
 930727	nds	Sünd ji beiden praat to gahn?
 930728	deu	Almosen geben macht niemanden arm.
@@ -37506,7 +37462,6 @@
 932662	nds	Ik heff güstern mien Lohn kregen.
 932664	rus	Они подняли бокалы и выпили за успех.
 932665	nds	Sien Krankheid kummt dorvon, dat he toveel drinkt.
-932666	rus	Америка - страна иммигрантов.
 932667	deu	Ihr Kind ist von unbestimmtem Geschlecht.
 932668	nds	Dat gifft noog Ruum för Verbetern.
 932669	nds	Ik schall tokamen Week na Tokyo föhren.
@@ -42827,7 +42782,6 @@
 938378	ita	Sono andato alla libreria ed ho comprato un libro interessante.
 938379	ita	Sono andata alla libreria ed ho comprato un libro interessante.
 938380	ita	Ho da fare dell'altro.
-938381	fra	Puis-je l’essayer ?
 938383	ita	Lo vedrò dopo il mio ritorno.
 938384	por	Não tenho ideia de onde tenha ido.
 938385	por	Não faço ideia de onde tenha ido.
@@ -49998,3 +49952,49 @@
 946034	eng	Italy is in Europe.
 946035	nds	Wo föhlst du di?
 946036	nds	Wi güngen na ’n Park üm to spelen.
+946037	fra	De nos jours on ne trouve plus de trésors, étant donné que les gens gardent leurs valeurs dans un coffre-fort et plus dans des boîtes aux trésors.
+946038	ita	Cosa vuoi che faccia?
+946039	ita	Cosa volete che faccia?
+946040	ita	Cosa vuole che faccia?
+946041	nds	De Köhers bröchen de Kudd bieen.
+946042	ita	Abbiamo creato la vita a nostra stessa immagine.
+946043	nds	Dor seet en Katt op ’n Disch.
+946044	nds	Dat Leven is as en Reis.
+946045	nds	Wi segen em narms.
+946047	fra	Le budget de cet État s'élevait l'année dernière à plusieurs milliards d'euros.
+946048	nds	Legg de Pistool op ’n Disch.
+946049	fra	Il portait un costume et elle un tailleur.
+946050	eng	She received the maximum sentence of ten years.
+946051	eng	He is serving a three-year sentence for burglary.
+946052	fra	Un gilet est une veste sans manches.
+946053	eng	There was silence as the judge pronounced sentence.
+946054	fra	Tout ce dont tu as besoin est un compas et une boussole.
+946055	fra	Le lycée dispose d'un gymnase.
+946057	fra	Si je devenais membre de l'équipe, ne serais-je pas qu'un boulet ?
+946058	ita	Non può avervi sentiti.
+946059	ita	Lui non può avervi sentiti.
+946060	nds	Italien is in Europa.
+946061	ita	Non può averti sentito.
+946062	nds	Drink de Medizin.
+946063	ita	Lui non può averti sentito.
+946064	ita	Lavorano duramente.
+946066	ita	Loro lavorano duramente.
+946067	nds	Kiek! Se kummt!
+946068	ita	Oggi è stato il giorno peggiore a Sarajevo.
+946069	fra	J'avais prévu d'aller à la maison sans détour, mais mes pieds me conduisirent, de quelque manière, dans la librairie.
+946070	nds	En Hund deed en Katt jagen.
+946071	nds	Narr!
+946072	nds	Twee maal söven is veerteihn.
+946073	nds	Se hett en smucke Popp.
+946075	ita	Suo padre la vuole fare diventare una pianista.
+946076	fra	Un clou qui dépasse se fera taper dessus.
+946077	ita	Quasi ogni turista porta con sé una macchina fotografica.
+946078	fra	On n'a rien sans effort.
+946081	nds	Ik heff mi krank föhlt.
+946082	nds	Se hett jümmer wedder seggt, dat se unschüllig is.
+946083	nds	Disse Kamer kriggt nich veel Sünn af.
+946084	ita	Lavoro nel campo dell'arte.
+946085	nds	Disse Hoot hett teihn Dollar köst.
+946086	nds	Se hett veel snackt.
+946087	nds	Büst du verheiraadt?
+946088	ita	Possiede una tenuta in campagna.

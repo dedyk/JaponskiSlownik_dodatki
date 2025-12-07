@@ -1,371 +1,3 @@
-5282484	eng	May I borrow your pencil?
-5282485	eng	He is a ruffian.
-5282486	eng	Draw your sword.
-5282487	eng	Sheathe your sword.
-5282488	eng	Unsheathe your sword.
-5282489	eng	I want you to stop hanging around with those ruffians.
-5282490	eng	Let us depart from this accursed place!
-5282491	eng	It is said that vultures can smell death.
-5282492	epo	Oni diras, ke vulturoj povas flari morton.
-5282493	epo	Ni foriru de ĉi tiu malbenita loko!
-5282494	epo	Elingigu vian glavon.
-5282495	epo	Eningigu vian glavon.
-5282496	epo	Eltiru vian glavon.
-5282498	spa	Él con frecuencia sale a beber.
-5282499	spa	Él frecuentemente sale a darse unos tragos.
-5282500	spa	¡Compañeros oficiales! Hoy a las 15:00 tendrá lugar la reunión del Partido. La asistencia es obligatoria.
-5282501	epo	Mi volas, ke vi ĉesu esti kune kun ĉi tiuj brutuloj.
-5282502	epo	Mi ne speciale ŝatas ĉi tiun pentraĵon.
-5282503	epo	Jen la hundo.
-5282504	epo	Dum kvanta taktiko povas utili en iuj situacioj, mi kredas, ke tiu ĉi kazo necesigas kvalitan analizon.
-5282505	epo	Mi estas nekorektebla butikumanto.
-5282506	epo	Mi estas nepentema butikumanto.
-5282507	deu	Ist Tom Mitglied im Schwimmverein?
-5282508	deu	Maria war schon als Kindergartenkind ein kleiner Pummel.
-5282509	deu	Tom ist der beste Vater, den ich kenne.
-5282510	epo	Tomo estas la plej bona patro, kiun mi konas.
-5282511	spa	Era un asunto de vida o muerte, por así decirlo.
-5282512	deu	Gerade das versucht Tom ja.
-5282513	deu	Ich hätte gerne etwas anderes zu lesen.
-5282514	epo	Mi volas alian legaĵon.
-5282515	deu	Tom hat großes Glück, dass er noch lebt.
-5282516	deu	Ich bin nicht viel schwerer als du.
-5282517	deu	Tom spielt gern im Schmutz.
-5282518	deu	Tom scheint ein netter Typ zu sein.
-5282519	deu	Das Schlimmste ist, denke ich, jetzt vorüber.
-5282520	deu	Gib acht, was du sagst und wie du es sagst!
-5282521	deu	Tom wird Fehler machen.
-5282522	deu	Tom ist offensichtlich sehr beliebt.
-5282523	deu	Tom ist ein Riesenglückspilz.
-5282524	epo	Tomo estas bonŝancegulo.
-5282525	deu	Die Kinder tun mir leid.
-5282526	epo	Mi bedaŭras la infanojn.
-5282527	deu	Tom ist Videospielentwickler.
-5282528	deu	Ich habe es als meine Pflicht erachtet zu kommen.
-5282529	deu	Tom bringt mich immer zum Lachen.
-5282531	deu	Ich muss tun, was ich tun muss.
-5282532	deu	Ich hätte wohl mehr machen sollen.
-5282533	deu	Ich werfe fast nie Lebensmittel weg.
-5282534	deu	Es scheint dir keine Schwierigkeiten zu bereiten, dich auf Französisch zu verständigen.
-5282535	deu	Ein Mensch hat das Recht, sich zu verteidigen.
-5282536	deu	Gegen Tom fasst man leicht eine Abneigung.
-5282537	deu	Tom hatte mit dem Leben abgeschlossen. Er freute sich mehr auf seine Henkersmahlzeit, als dass er Angst vor seiner bevorstehenden Hinrichtung hatte.
-5282538	eng	Tom may not like what he sees.
-5282539	eng	These goats are very friendly.
-5282540	eng	Tom needs you more than we do.
-5282541	eng	We haven't discussed that yet.
-5282542	eng	Tom plans to major in biology.
-5282543	eng	Which bus goes to the airport?
-5282544	eng	Tom put a great team together.
-5282545	eng	Give me time to think about it.
-5282546	eng	Tom said he did nothing wrong.
-5282547	eng	I believe that I can trust you.
-5282548	eng	Tom said he was getting antsy.
-5282549	eng	I believe you have my umbrella.
-5282550	eng	Tom said he was ready to talk.
-5282551	eng	I don't feel guilty about that.
-5282552	eng	Tom said he would do it again.
-5282553	eng	I don't know much about Boston.
-5282554	eng	Tom said he'd almost given up.
-5282555	eng	I don't really want to do that.
-5282556	eng	Tom said he's doing just fine.
-5282557	eng	I enjoy doing things like this.
-5282558	deu	Ich weiß nicht viel über Boston.
-5282559	epo	Mi ne multe scias pri Bostono.
-5282560	deu	Ich will das eigentlich nicht.
-5282561	deu	Tom sagte, er würde es wieder tun.
-5282562	epo	Tomo diris, ke li pretas refari tion.
-5282563	deu	Das macht mir kein schlechtes Gewissen.
-5282564	deu	Tom sagte, er sei bereit zu reden.
-5282565	deu	Du hast, glaube ich, meinen Schirm.
-5282566	deu	Sie haben, glaube ich, meinen Schirm.
-5282567	deu	Ihr habt, glaube ich, meinen Schirm.
-5282568	deu	Ich glaube, dass ich dir vertrauen kann.
-5282569	deu	Ich glaube, dass ich euch vertrauen kann.
-5282570	deu	Ich glaube, dass ich Ihnen vertrauen kann.
-5282571	deu	Welcher Bus fährt zum Flughafen?
-5282572	deu	Tom will Biologie studieren.
-5282573	rus	Игрок не поймал мяч.
-5282574	hun	Nem hívott azóta, hogy elment Londonba.
-5282576	hun	Melyik busz megy a repülőtérre?
-5282577	hun	Azt hiszem, bízhatok bennetek.
-5282578	hun	Azt hiszem, bízhatok benned.
-5282579	hun	Azt hiszem, bízhatok önben.
-5282580	deu	Junge Leute verstehen diesen Witz nicht mehr.
-5282581	deu	Die Außerirdischen versuchten, mit Toms Katze zu kommunizieren, da sie Tom nicht für intelligent genug hielten.
-5282582	rus	Когда последний клиент уйдёт, мы закроемся.
-5282583	hun	Azt hiszem, nálam van az esernyőd.
-5282584	hun	Azt mondta Tom, hajlandó beszélni.
-5282585	hun	Tom már elbúcsúzott az életétől. Jobban örült az utolsó vacsorájának, mint amennyire félt a küszöbön álló kivégzésétől.
-5282586	hun	Az embernek jogában áll megvédenie önmagát.
-5282587	hun	Úgy tűnik, nem okoz neked problémát, hogy megértesd magad franciául.
-5282588	hun	Tomi mindig megnevettet engem.
-5282589	hun	Tomi egy hatalmas mázlista.
-5282590	hun	Figyelj arra, mit mondasz és hogyan mondod azt!
-5282591	hun	Úgy vélem, a legrosszabbon már túl vagyunk.
-5282592	hun	Piszok szerencséje van Tominak, hogy még életben van.
-5282593	rus	Взрыв уничтожил всё.
-5282594	rus	Спасибо, что поделился этим.
-5282595	rus	Том был так спокоен.
-5282597	rus	Почему я должен работать сверхурочно?
-5282598	rus	Вы меня многому научили.
-5282599	rus	Том должен это знать.
-5282600	rus	Том просто пытался помочь Мэри.
-5282601	rus	Тебе нужна помощь, Том.
-5282602	rus	Том не должен приходить.
-5282603	hun	Legyen elég az, amit adtam. Most nincsen több pénzünk.
-5282604	rus	Том проснулся с болью в боку.
-5282605	hun	Annyi pénzük van, hogy azt se tudják, mit kezdjenek vele.
-5282606	rus	Том — единственный подозреваемый.
-5282607	rus	Какое место самое красивое в мире?
-5282608	hun	Tom vett egy X5-ös BMW-t és már azt hiszi, hogy neki nem kell betartani semmilyen szabályt az utakon.
-5282609	rus	У хомяка набиты щёки.
-5282610	hun	A hőségtől, a szomjúságtól és a kimerültségtől már hatalmas mozgó foteloknak látta Tom a karavánt.
-5282611	rus	Ночью мне страшно.
-5282612	rus	Мне только что исполнилось двадцать.
-5282613	rus	Кто дал тебе этот список?
-5282614	rus	Том не знает всех правил.
-5282615	rus	Угадай с трёх раз.
-5282616	deu	Seine Kuh soll von einem Bären weggezerrt worden sein.
-5282617	rus	Обещанный дождь так и не прошёл.
-5282618	rus	Обещанного дождя так и не случилось.
-5282619	rus	Том беженец.
-5282620	nld	Ze huilde bitter.
-5282621	rus	Я это не нарочно сделала.
-5282622	epo	Mi ĵus antingis la aĝon de dudek jaroj.
-5282623	hun	Te ezt egyáltalán nem találod különlegesnek?
-5282625	hun	Szeretek ilyet csinálni.
-5282626	hun	Én szeretem az ilyen dolgokat.
-5282627	hun	Nem igazán akarom ezt tenni.
-5282628	hun	Azt mondta Tom, már majdnem feladta.
-5282629	nld	Ik ben Azerbeidzjaan.
-5282630	hun	Azt mondta Tom, még egyszer megcsinálja.
-5282631	rus	Хорошие родители – лучшие учителя.
-5282632	hun	Nem érzem magam bűnösnek emiatt.
-5282633	rus	Во многих песнях поётся о безответной любви.
-5282635	nld	Hij heeft altijd angst.
-5282636	nld	Zij heeft altijd angst.
-5282637	epo	Ŝi ĉiam timas.
-5282638	rus	Том должен прийти с минуты на минуту.
-5282639	epo	Li ĉiam timas.
-5282640	rus	Он всегда боится.
-5282641	rus	Почему Мэри так много плачет?
-5282642	rus	Обратная сторона славы – пристальное внимание публики.
-5282643	rus	К счастью, Том был одним из выживших.
-5282644	rus	Том задумчиво потёр подбородок.
-5282645	rus	На Филиппины обрушился разрушительный тайфун.
-5282646	rus	У Тома душа нараспашку.
-5282647	deu	Sie hat immer Angst.
-5282648	deu	Warum weint Maria so viel?
-5282649	tur	Bir an içeri gelebilir miyim?
-5282651	tur	Mary'nin giydiği elbise beyazdı.
-5282652	tur	Ben sadece seni arayacaktım.
-5282653	tur	Tom, Mary'nin kiraz ağacının altında dururken bir fotoğrafını çekti.
-5282654	tur	Bunun nasıl olduğunu zannediyorsun?
-5282655	rus	Том обижается по малейшим пустякам.
-5282656	tur	Bak, Tom, izinsiz girdiğim için üzgünüm.
-5282657	rus	Ты тоже любишь решать кроссворды?
-5282658	rus	Ты тоже любишь разгадывать кроссворды?
-5282659	tur	Orada yirmi civarında insan vardı.
-5282660	tur	Ben buna izin verildiğini sanmıyorum.
-5282661	tur	Tom harika bir şovmen.
-5282662	tur	O, öğrenciler tarafından çevrili olarak oturuyordu.
-5282663	tur	Büyük bir hata yapmadığımızı umarım.
-5282664	tur	Kız kardeşin nasıl öldü?
-5282665	tur	O çok eski bir söz.
-5282666	tur	Tom'un sorundan sorumlu kişi olabileceğini düşündüm.
-5282667	tur	Ben bu işe nasıl bulaştım?
-5282668	tur	Sen ve Tom iyi arkadaşlarsınız, değil mi?
-5282669	tur	Artık dışarısı zifiri karanlık değil.
-5282670	hun	Ébredj már fel, és élvezd egy kicsit az életet.
-5282671	tur	Tom Mary'ye ilgi çekici görünüyor.
-5282672	hun	Egy macska éppen iszik.
-5282673	hun	A macska éppen iszik.
-5282674	hun	A macska nyávog.
-5282675	hun	Hol van a kutyám?
-5282676	tur	Herhangi bir şekilde yardımcı olduğuma mutluyum.
-5282677	tur	Ben daha iyi yapamam.
-5282679	tur	Bana istediğiniz her şeyi söyleyin.
-5282680	tur	Sıkı bir programdasın, değil mi?
-5282681	tur	Biraz yardıma ihtiyacın olabileceğini düşündüm.
-5282682	tur	Ne sipariş vereceğimi bilmiyorum.
-5282683	tur	Siz arkadaşların bir asansöre ihtiyacı var mı?
-5282684	tur	Tom babasının gerçek babası olmadığını öğrendi.
-5282685	tur	Gerçekten yeni bir araba için o kadar ödemek istemiyorum.
-5282686	tur	Sizin hakaretiniz tamamen gerekçeli.
-5282690	hun	A szokottnál kissé korábban jött.
-5282691	tur	O seni gördüğünde zevkten dört köşe olacak.
-5282692	tur	Bu kelimelerin her biri ile bir cümle yapın.
-5282693	tur	Neden geç kaldığın umurumda değil.
-5282694	tur	Tom kılını bile kıpırdatmadı.
-5282695	nld	Steek alles in een taxi.
-5282696	ita	Il suo peso è il doppio di quello che era dieci anni fa.
-5282697	ita	Tom ha perso del peso di recente.
-5282698	tur	Bütün hayatım boyunca yalnızdım.
-5282699	ita	Tom ha perso del peso recentemente.
-5282700	ita	Tom si è accigliato.
-5282701	ita	Tom si accigliò.
-5282702	ita	Tom si è corrucciato.
-5282703	ita	Tom si corrucciò.
-5282704	ita	Oh, silenzio!
-5282705	tur	Boston hakkında çok şey bilmiyorum.
-5282706	ita	Fai un passo indietro.
-5282707	ita	Fate un passo indietro.
-5282708	ita	Faccia un passo indietro.
-5282709	tur	Tom neredeyse vazgeçtiğini söyledi.
-5282710	tur	Ben gerçekten onu yapmak istemiyorum.
-5282711	pol	Tom planuje studiować biologię jako główny kierunek.
-5282712	ita	Questo sapone ha delle ottime proprietà emollienti.
-5282713	ita	Questo sapone ha delle ottime proprietà emollienti?
-5282714	ita	Non ti sembra un po' presto?
-5282715	tur	Ben böyle şeyler yapmaktan hoşlanırım.
-5282716	tur	Tom gördüğünden hoşlanmayabilir.
-5282717	pol	Te kozy są bardzo przyjazne.
-5282718	tur	Bu keçiler çok cana yakın.
-5282719	pol	Czy mógłbym pożyczyć twój ołówek?
-5282720	tur	Tom'un bizden daha fazla sana ihtiyacı var.
-5282721	tur	Biz henüz onu tartışmadık.
-5282722	tur	Tom biyoloji konusunda uzmanlaşmayı planlıyor.
-5282723	tur	Hangi otobüs havaalanına gider?
-5282724	tur	Tom büyük bir takım kurdu.
-5282725	tur	Bunun hakkında düşünmek için bana zaman ver.
-5282726	tur	Tom yanlış bir şey yapmadığını söyledi.
-5282728	pol	Uważaj, co mówisz i jak to mówisz.
-5282729	tur	Tom sabırsızlandığını söyledi.
-5282730	tur	Tom konuşmaya hazır olduğunu söyledi.
-5282731	tur	Ben bu konuda suçlu hissetmiyorum.
-5282732	tur	Tom onu tekrar yapacağını söyledi.
-5282734	pol	Wiedziałem, że moja noga była złamana.
-5282736	pol	Prawie nigdy nie wyrzucam jedzenia.
-5282737	tur	Bunlardan birini alabilir miyim?
-5282740	ita	Sono impressionato.
-5282741	ita	Io sono impressionato.
-5282742	ita	Sono impressionata.
-5282743	ita	Io sono impressionata.
-5282744	ita	Sono immune.
-5282745	ita	Io sono immune.
-5282746	ita	Sono un senzatetto.
-5282747	ita	Io sono un senzatetto.
-5282748	ita	Sono una senzatetto.
-5282749	ita	Io sono una senzatetto.
-5282750	ita	Sono colpevole.
-5282751	ita	Io sono colpevole.
-5282752	ita	Sono grato.
-5282753	ita	Io sono grato.
-5282754	ita	Sono grata.
-5282755	ita	Io sono grata.
-5282756	ita	Sono furioso.
-5282757	ita	Io sono furioso.
-5282758	ita	Sono furiosa.
-5282759	ita	Io sono furiosa.
-5282764	pol	Ludzie mają prawo by się bronić.
-5282765	ita	Sono neutrale.
-5282766	ita	Io sono neutrale.
-5282768	ita	Sono obiettivo.
-5282769	ita	Io sono obiettivo.
-5282770	ita	Sono obiettiva.
-5282771	ita	Io sono obiettiva.
-5282772	ita	Sono nervoso.
-5282773	ita	Io sono nervoso.
-5282774	ita	Sono nervosa.
-5282775	ita	Io sono nervosa.
-5282776	ita	Sono offeso.
-5282777	ita	Io sono offeso.
-5282778	ita	Sono offesa.
-5282779	ita	Io sono offesa.
-5282780	ita	Sono osservante.
-5282781	ita	Io sono osservante.
-5282790	ita	Sto mentendo.
-5282791	ita	Io sto mentendo.
-5282798	epo	Ni tuj iru tien.
-5282799	epo	Ni devas iri tien tuj.
-5282800	ita	Sono insostituibile.
-5282801	epo	Diru nenion al mia blondulino!
-5282802	ita	Io sono insostituibile.
-5282803	epo	Li ŝanĝis sian laboron.
-5282804	epo	Li havas novan laboron.
-5282805	eng	I feel like I've won the lottery.
-5282807	epo	Kial vi atendis ĝis nun?
-5282808	hun	Azt mondta Tomi, semmi rosszat nem tett.
-5282810	hun	Adj időt, hogy átgondoljam!
-5282811	epo	Vidu! Du uloj batalas.
-5282812	hun	Adj időt, hogy elgondolkodjak rajta.
-5282813	hun	Tominak nagyobb szüksége van rád, mint nekünk.
-5282815	hun	Tudod, hogy nem esik ínyemre ez a dolog, de a te kedvedért megcsinálom.
-5282816	ita	Sto cooperando.
-5282817	ita	Io sto cooperando.
-5282818	ita	Sto collaborando.
-5282819	ita	Io sto collaborando.
-5282820	ita	Sono canadese.
-5282821	ita	Io sono canadese.
-5282822	hun	Azt gondolod, kényed-kedved szerint elfekszel itt délig, én meg addig elvégzek minden házimunkát.
-5282823	ita	Sto festeggiando.
-5282824	ita	Io sto festeggiando.
-5282829	ita	Sono claustrofobico.
-5282830	ita	Io sono claustrofobico.
-5282831	ita	Sono claustrofobica.
-5282832	ita	Io sono claustrofobica.
-5282833	epo	Preskaŭ ĉiuj lingvoj en la mondo ne transpasis la parolan stadion.
-5282834	hun	Azt képzeled, ez a macska meg fogja enni a házikosztot?
-5282835	hun	Ez a macska soha életében nem látott még egeret.
-5282836	epo	Kion ni farus anstataŭe?
-5282837	epo	Mi parolas al ŝi per revo.
-5282838	epo	Ili estos elrevigitaj.
-5282839	epo	Mi konsideras viajn komentojn arogantaj kaj praktike neutilaj.
-5282840	epo	Li mensogadis.
-5282841	epo	Tomaso manĝas kiel porko.
-5282842	epo	Tomo diris tion al neniu alia.
-5282843	ita	Mi sento come se avessi vinto la lotteria.
-5282844	ita	Io mi sento come se avessi vinto la lotteria.
-5282846	ita	Sono cieco.
-5282847	ita	Io sono cieco.
-5282848	ita	Sono cieca.
-5282849	ita	Io sono cieca.
-5282850	ita	Sono armato.
-5282851	ita	Io sono armato.
-5282852	ita	Sono armata.
-5282853	ita	Io sono armata.
-5282856	epo	La ĉielo estas tiom nuboplena, ke ne eblas observi la stelojn.
-5282857	ita	Inizierò.
-5282858	ita	Io inizierò.
-5282859	ita	Inizierò io.
-5282860	ita	Comincerò.
-5282861	ita	Io comincerò.
-5282862	ita	Comincerò io.
-5282865	ita	Starò in piedi.
-5282866	ita	Io starò in piedi.
-5282867	epo	Lia kapo frapiĝis ĉe breto kaj okazigis al li kontuzegon.
-5282868	ita	Urlerò.
-5282869	ita	Io urlerò.
-5282870	ita	Abbandonerò.
-5282871	ita	Io abbandonerò.
-5282872	ita	Mi sbrigherò.
-5282873	epo	La onidiro cirkulas enurbe.
-5282874	ita	Io mi sbrigherò.
-5282875	ita	Passerò.
-5282876	epo	Ĉio okazis relative rapide.
-5282877	ita	Io passerò.
-5282878	epo	Kiam mi kisas vin, mi forgesas la ĉirkaŭan mondon.
-5282879	epo	Mi ĝojas vidi vin nevundita!
-5282880	epo	Petu do helpon, ĉu ne?
-5282883	ita	Ce la sto facendo.
-5282884	ita	Io ce la sto facendo.
-5282891	ita	Sono stordito.
-5282892	ita	Io sono stordito.
-5282894	ita	Io sono stordita.
-5282895	ita	Sono devastato.
-5282896	ita	Io sono devastato.
-5282897	ita	Sono devastata.
-5282898	ita	Io sono devastata.
-5282899	ita	Sono sicuro di me.
-5282900	ita	Io sono sicuro di me.
-5282901	ita	Sono sicura di me.
-5282902	ita	Io sono sicura di me.
-5282903	epo	Mi volas nun eskapi el via influo.
-5282906	ita	Sono meravigliato.
-5282907	ita	Sono meravigliata.
-5282908	ita	Sono sorpreso.
-5282909	ita	Sono sorpresa.
 5282910	epo	Mi supozas, ke vi jam submetis vizopeton.
 5282911	ita	Tutto è qui.
 5282912	ita	È tutto qui.
@@ -8287,7 +7919,7 @@
 5291612	bre	Pal !
 5291614	bre	Penaos ?
 5291616	bre	Paouezit !
-5291617	ita	Tardit !
+5291617	bre	Tardit !
 5291619	bre	Tard !
 5291621	bre	Muntrer !
 5291623	bre	Disoñj !
@@ -11182,7 +10814,6 @@
 5294736	lfn	La presipe pende a supra la mar.
 5294737	epo	Li rigardas liajn belajn rozojn.
 5294738	tur	Ben uzun bir süre herhangi bir yeni şiir yazmadım.
-5294739	fra	Merde !
 5294740	epo	Vi neniam kredos min.
 5294742	epo	Ŝi rigardas belajn rozojn.
 5294743	fra	Miaou.
@@ -11209,7 +10840,7 @@
 5294764	deu	Das ist ein hübsches Mädchen.
 5294765	fra	Elle regarde ses belles roses.
 5294766	epo	Ni rigardas belajn rozojn.
-5294767	fra	Où est l'étudiante?
+5294767	fra	Où est l'étudiante ?
 5294769	fra	Nous regardons des belles roses.
 5294770	nst	Cyämhum nä yamlai väx?
 5294771	epo	Ni rigardas miajn belajn rozojn.
@@ -11462,7 +11093,6 @@
 5295046	epo	Mi identigis min al la banditoj de tiu filmo.
 5295047	epo	Ŝi diris al mi, ke mi povos dormi sur la kanapo.
 5295048	epo	Mi amas vin, paĉjo.
-5295049	eng	I love you, Dad.
 5295050	epo	Li facile perdas la memregon.
 5295051	epo	Tio necesigos al ni du minutojn.
 5295052	rus	Я люблю тебя, папа.
@@ -13952,7 +13582,6 @@
 5297773	tur	İşte bir bardak su.
 5297774	tat	Бутербродны дөрес ашамыйсың син, Фидаил-абый. Казлыклы ягын өстә тотасың. Ә ул казлыклы ягын телгә куйсаң, тәмлерәк була.
 5297775	tur	Tüm bunlar hakkında hiçbir şey bilmiyor muydun?
-5297776	rus	Кармен - испанское имя.
 5297779	rus	Я не понял предпоследнюю строчку.
 5297780	tur	O, Guatemala mı?
 5297781	tur	Nasıl karar verdiniz?
@@ -38702,7 +38331,7 @@
 5324086	bre	C'hoarzhin glas.
 5324087	epo	La knabino vidas sin en la spegulo kaj sin demandas: "Ĉu mia nazo estas malbela?"
 5324088	bre	Hennezh a lavar gevier evel tennañ den.
-5324089	epo	Ĉu mi aspektas, kiel iu, kiu volas edziĝi?
+5324089	epo	Ĉu mi aspektas kiel iu, kiu volas edziĝi?
 5324090	bre	Hennezh 'zo du e revr gant ar gevier.
 5324091	hun	A polgármester szerint is, errre a nagy idegenforgalom miatt is, szükség van.
 5324092	bre	Hennezh a oar livañ gevier.
@@ -42978,7 +42607,7 @@
 5328756	deu	Lincoln ist eine der größten Figuren der amerikanischen Geschichte.
 5328757	deu	Ich spreche von diesem Stift, nicht jenem dort auf dem Schreibtisch.
 5328758	deu	Wir kommen auf dem Weg zur Arbeit immer an der Post vorbei.
-5328759	deu	Ich führe zur Bibliothek, wenn ich einen Wagen hätte, um dorthin zu kommen.
+5328759	deu	Ich führe zur Bibliothek, wenn ich einen Wagen hätte, um dort hinzukommen.
 5328760	deu	Die Hauptfigur ist ein Mann, dessen Namen wir nicht kennen.
 5328761	war	Dírì unta niya ginyakan ádto.
 5328762	war	Dírì puyde nga ginyakan niya an sugad.
@@ -44566,7 +44195,7 @@
 5330460	eng	"Is this free?" "Nothing is free! Death is free, and even death will cost you your life!"
 5330461	tur	Tom'un tavsiyesini dinlemem gerekirdi.
 5330462	tur	Bir erkek arkadaş bulursan bana söyle.
-5330463	fra	« Est-ce gratuit ? » - « Rien n'est gratuit ! La mort est gratuite, et même la mort va te couter la vie ! »
+5330463	fra	« Est-ce gratuit ? » « Rien n'est gratuit ! La mort est gratuite, et même la mort va te couter la vie ! »
 5330464	tur	Bir hayvan olsaydın, ne olurdun?
 5330465	epo	Mi neniel plu havas rilaton kun Marika.
 5330466	tur	Bir hayvan olsaydın, hangi hayvan olurdun?
@@ -49698,7 +49327,7 @@
 5335989	war	¡Dírì akó può!
 5335990	por	O menino gosta de andar ao longo da praia.
 5335992	epo	La knabo ŝatas piediri laŭ la strando.
-5335993	fra	Qui protèges-tu?
+5335993	fra	Qui protèges-tu ?
 5335994	por	O menino gosta de andar na aldeia.
 5335995	war	Pag-uli nasabotan ko nga nawara an akon pitaka.
 5335996	epo	La knabo ŝatas marŝi en la vilaĝo.
@@ -49998,3 +49627,374 @@
 5336330	deu	Tom wohnte in einer moosbewachsenen Hütte mitten im Wald.
 5336331	rus	У меня аппендицит.
 5336332	deu	Wir haben heute im Religionsunterricht über Ehebruch gesprochen.
+5336333	rus	Моё хобби — писать рассказы.
+5336334	pol	Zjadłem.
+5336335	rus	Том сдаёт кровь.
+5336336	hun	Én jó vagyok.
+5336337	dan	Tom boede i en mosbegroet hytte inde midt i skoven.
+5336338	rus	Есть вещи, которые женщины никогда не поймут.
+5336339	pol	Jesteś mój.
+5336340	pol	Czy bank jest otwarty?
+5336342	pol	Nie jesteś idiotą!
+5336345	deu	Tom sah so wild aus, dass die Kinder schreiend vor ihm davonliefen, wenn er einmal alle paar Wochen aus dem Wald ins Dorf kam, um Vorräte zu tauschen.
+5336346	rus	Она бы поехала в Вашингтон с ним.
+5336347	pol	Wow, to jest takie duże.
+5336349	deu	Tom tauschte Pilze und erjagte Waldtiere im Dorf gegen Brot und Käse ein.
+5336350	deu	Tom kannte Ecken im Wald, die sonst keiner fand.
+5336351	deu	Tom wusste, wo die herrlichsten Pilze wuchsen.
+5336352	rus	Любая машина годится, покуда едет.
+5336353	deu	Immer, wenn Tom ein verletztes Tier im Wald fand, von dem er wusste, dass es allein nicht würde überleben können, nahm er es mit sich und pflegte es gesund.
+5336354	deu	Aus einem Hobby ist bei Tom inzwischen ein Beruf geworden.
+5336355	epo	Tomo loĝis meze de la arbaro en dometo, kiu estis superkreskita de musko.
+5336356	deu	Tom ist ein ganz großer Tierfreund.
+5336357	rus	Я ещё не знаю, где сегодня буду спать.
+5336358	deu	Tom saß stundenlang auf dem Hochsitz und beobachtete durch sein Fernglas die Tiere.
+5336359	rus	А, понимаю.
+5336360	rus	Она увидела её на станции.
+5336361	deu	Ob es regnete oder ob die Sonne schien: Tom ging an jedem Sonntagmorgen angeln.
+5336362	rus	Этот цветок красивый.
+5336363	deu	Tom angelt nur, weil es ihn entspannt. Gefangene Fische wirft er immer zurück ins Wasser.
+5336364	deu	Wegen Überfischung leben heute keine Fische mehr in dem See.
+5336365	rus	Том хочет убедиться, что этого больше не произойдёт.
+5336366	deu	Früher waren die Seen der Umgebung fischreiche Gewässer. Inzwischen lebt kaum noch ein Fisch darin.
+5336367	tur	Güçlü bir rüzgar esmeye başladı.
+5336368	tur	Bay Smith odasını temizliyor.
+5336369	tur	Onun yasal olduğunu bile bilmiyordum.
+5336370	tur	Rahatla, Tom. Biz tatildeyiz.
+5336371	tur	Rahatlayın. Biz tatildeyiz.
+5336372	rus	С возрастом люди становятся циничнее.
+5336373	tur	Kendini zorla!
+5336374	tur	Senin aç olduğunu düşünüyorum.
+5336376	tur	İnsanlar ve dinozorlar asla bir arada var olmadılar.
+5336377	rus	Когда я приеду в Токио, я напишу тебе письмо.
+5336378	tur	Mary'nin yüzü çok solgundu.
+5336379	deu	Maria beschloss, dass es an der Zeit war, einige der moosbewachsenen Engelsstatuen in ihrem Garten in neuem Glanz erstrahlen zu lassen.
+5336380	tur	Ben bir arkadaşın evindeyim.
+5336381	tur	O sadece bir örnek.
+5336382	tur	Bu sadece bir örnek.
+5336383	deu	Der Zwerg schlief so lange im Wald unter dem Eichenbaum, dass er, als er aufwachte, ganz moosbewachsen war.
+5336384	rus	Она считает себя умным человеком.
+5336385	deu	Ein Foto des Flüchtigen wurde in allen Zeitungen abgedruckt.
+5336386	rus	Поменяйте животное!
+5336387	deu	Ich fürchte, sie wird scheitern.
+5336388	deu	Wie war die Reise nach Boston?
+5336389	deu	Das ist eins der größten Rätsel der Astrophysik.
+5336390	deu	Weich auf Moos gebettet, schlief der Igel ein.
+5336391	deu	Ich möchte Tom verstehen.
+5336392	deu	Moos hing dem Igel in den Stacheln.
+5336393	deu	Sie haben sich dir anvertraut.
+5336394	rus	Какой прекрасный вид, не правда ли?
+5336395	deu	Thomas schaut einen Film.
+5336396	rus	Том хочет, чтобы я спланировал свадьбу.
+5336397	deu	Das Wetter in Japan ist milder als das in England.
+5336398	rus	Преступника до сих пор ищут.
+5336399	deu	Maria glaubte zwar, sich gütlich mit Tom einigen zu können, aber letztlich blieb ihr keine andere Wahl, als einen Anwalt einzuschalten und vor Gericht zu ziehen. Dabei handelte es sich eigentlich um eine Lappalie, die leicht aus der Welt zu schaffen gewesen wäre.
+5336400	deu	Vergiss das Geld nicht.
+5336401	deu	Dieses Haus steht nicht zum Verkauf.
+5336402	rus	Ты бы никогда такого не сделал.
+5336403	deu	War alles bloß eine Täuschung?
+5336404	deu	Wenn er nicht schreibt, schreibe ich ihm auch nicht mehr.
+5336405	deu	Der Zauberer suchte unter den Zuschauern nach einem Freiwilligen.
+5336406	deu	Wir sind nicht reich.
+5336407	deu	Ein leicht zu lösendes Problem kann zu einem ernsten Problem werden, wenn es nicht gelöst wird.
+5336408	deu	Mach dir keine Sorgen. Alles wird gut.
+5336409	ita	Questo è normale?
+5336410	ita	Per piacere, sii onesto.
+5336411	ita	Per piacere, sii onesta.
+5336412	ita	Per favore, sii onesto.
+5336413	ita	Per favore, sii onesta.
+5336414	ita	Per favore, sia onesto.
+5336415	ita	Per favore, sia onesta.
+5336416	ita	Per piacere, sia onesto.
+5336417	ita	Per piacere, sia onesta.
+5336418	ita	Per piacere, siate onesti.
+5336419	rus	Одни картины — искусство, другие — мусор.
+5336420	ita	Per favore, siate onesti.
+5336421	ita	Per piacere, siate oneste.
+5336422	ita	Per favore, siate oneste.
+5336423	deu	Bei einer Schlägerei ist alles erlaubt: Faustschläge, Beißen, Kratzen, Fußtritte und Schläge auf den Kopf.
+5336424	ita	Ci siamo lasciati.
+5336425	ita	Noi ci siamo lasciati.
+5336426	ita	Ci siamo lasciate.
+5336427	ita	Noi ci siamo lasciate.
+5336428	ita	Ci lasciammo.
+5336429	ita	Noi ci lasciammo.
+5336430	deu	Er wurde von der Schule verwiesen.
+5336431	ita	Siamo scoppiati a ridere.
+5336432	ita	Noi siamo scoppiati a ridere.
+5336433	ita	Siamo scoppiate a ridere.
+5336434	ita	Noi siamo scoppiate a ridere.
+5336435	ita	Scoppiammo a ridere.
+5336436	ita	Noi scoppiammo a ridere.
+5336437	ita	Abbiamo rotto.
+5336438	ita	Noi abbiamo rotto.
+5336439	ita	Rompemmo.
+5336440	ita	Noi rompemmo.
+5336441	ita	Ignoralo e basta.
+5336442	ita	Ignorala e basta.
+5336443	rus	Вы хотите пойти с нами на озеро?
+5336444	ita	Lo ignori e basta.
+5336445	ita	La ignori e basta.
+5336446	ita	Ignoratelo e basta.
+5336447	ita	Ignoratela e basta.
+5336448	deu	Toms wortwörtliche Übersetzungen nahmen mitunter groteske Züge an.
+5336449	ita	Torna fuori.
+5336450	ita	Tornate fuori.
+5336451	deu	Tom hat es tatsächlich geschafft, Homer ins heutige Zeitungsdeutsch zu übersetzen. Das Resultat schreit zum Himmel.
+5336452	ita	Torni fuori.
+5336453	ita	Vai a prendere del caffè.
+5336454	ita	Vada a prendere del caffè.
+5336455	ita	Andate a prendere del caffè.
+5336456	deu	Tom hat Geldprobleme.
+5336457	rus	Вы бы хотели присоединиться к нашей команде?
+5336458	tur	Bu korkunç bir plan.
+5336459	deu	Wie hast du herausgefunden, dass Tom dein Rad gestohlen hat?
+5336460	deu	Tom schwimmt finanziell schon wieder auf dem Trockenen.
+5336461	deu	Tom gab Maria einen dicken Kuss.
+5336462	deu	Tom ist schon wieder blank und pumpt alle um Geld an.
+5336463	deu	Tom wohnt bei mir um die Ecke.
+5336464	rus	Убери отсюда этот мусор.
+5336465	deu	Tom ist sich noch nicht einmal zu schade, um betteln zu gehen.
+5336466	tur	Tom bir hamburger ve patates kızartması sipariş etti.
+5336467	tur	Tom savaştan sonra İngiltere'ye döndü.
+5336468	tur	Tom genç bir kadın oyuncuya aşık oldu.
+5336469	tur	John, Mary'yi seviyor.
+5336470	rus	Это ты предложил купить этот компьютер.
+5336471	deu	Der Junge spricht, als wäre er ein Mann.
+5336472	rus	Обе части изготовлены из металла.
+5336473	rus	Обе части сделаны из металла.
+5336474	deu	Ich tue, was ich für richtig halte.
+5336475	deu	Tom ist endlich nach Hause gekommen.
+5336476	deu	Deine Eltern wissen, wo du bist.
+5336477	deu	„Steffi, willst du mich heiraten?“ „Wie viel Geld hast du?“
+5336478	pol	Ja też nie wiem.
+5336479	deu	Das war die langweiligste Reise meines Lebens.
+5336480	pol	Wow, to jest śnieg!
+5336481	deu	Welche ist deine Tasse?
+5336482	pol	Życzę powodzenia na egzaminie.
+5336484	deu	Statt Deutsch habe ich Französisch studiert.
+5336485	pol	Jestem zszokowany.
+5336486	deu	Kommen Sie zwischen drei und vier auf mein Zimmer.
+5336487	tur	Neden seni rahatsız ettiğimi bilmiyorum.
+5336488	deu	Wir haben nicht genug Geld, um nach Boston zu fliegen.
+5336489	rus	Ты должен вернуться до наступления темноты.
+5336490	tur	İstediğim her şeyi satın almak için yeterli param var.
+5336492	tur	Finansal beklentiler mükemmel.
+5336493	deu	Spiel nicht im Matsch. Du wirst sonst ganz schmutzig.
+5336494	tur	Mali görünümler mükemmel.
+5336495	pol	Nie zrozumcie mnie źle.
+5336496	tur	En son ne zaman Tom'un bir kravat taktığını gördün?
+5336497	pol	Chcesz napić się kawy?
+5336498	deu	Die Band spielt ziemlich gut.
+5336499	tur	Hatta bu konuda endişelenmenize gerek yok.
+5336501	deu	Die Blumen brauchen Wasser. Ihre Blätter sind schon welk.
+5336502	tur	Muhtemelen ondan kimseye bahsetmemelisin.
+5336503	pol	Naprawdę mnie boli.
+5336504	pol	Jestem bardzo rozczarowany.
+5336506	tur	Ben sadece saygılarımı sunmak için uğradım.
+5336507	deu	Es ist nicht erlaubt, ohne Genehmigung im Theater zu fotografieren.
+5336508	pol	Pracowałeś ciężko.
+5336511	deu	Ich weiß alles über Sie.
+5336512	deu	Sie hat den Atem angehalten.
+5336513	deu	Dieser Tisch ist teuer.
+5336514	pol	Możesz odzyskać.
+5336515	pol	Złap go!
+5336516	eng	You have gingivitis.
+5336517	tur	Tom eve varmak için acele ediyordu.
+5336518	eng	He has gingivitis.
+5336519	eng	She has gingivitis.
+5336520	eng	Tell me where it hurts.
+5336521	pol	Szkoda.
+5336522	dan	Hun går ind i skoven midt om natten, og nu foregiver hun at være bange for mørke.
+5336523	eng	I need to know where it hurts.
+5336524	tur	Ben kapıyı kilitli tuttum.
+5336525	eng	Does it hurt when I press here?
+5336526	eng	Is there a problem with my order?
+5336527	eng	There is a problem with your order.
+5336528	eng	Is there a problem with your order?
+5336530	eng	Your order will be shipped as soon as possible.
+5336531	eng	Your item will be shipped as soon as possible.
+5336532	tur	Biz bu işe başladığımızda, bizden birinin herhangi bir deneyimi yoktu.
+5336533	eng	Payment can be made by credit card or cash on delivery.
+5336535	eng	Can I pay online?
+5336536	eng	How can I pay?
+5336537	eng	What methods of payment do you accept?
+5336538	rus	Девушка выпуталась из сети детской проституции.
+5336539	eng	Can I pay later?
+5336540	tur	Çoğu insan bir yabancı dil öğrenmenin en iyi yolunun bir anadil konuşurundan öğrenmek olduğunu söylüyorlar.
+5336541	eng	If I could pay attention, I wouldn't be in this mess in the first place.
+5336542	tur	Üst rafa ulaşamayacak kadar çok kısaydım, bu yüzden Tom'un kitabı benim için almasını istedim.
+5336544	hun	Még nem lehet gratulálni?
+5336545	tur	Tom Mary'nin bir epilepsi krizi olduğunda ne yapacağını biliyor.
+5336546	tur	Bu sözlük ondan daha üstün.
+5336547	hun	Mikor köszönthetlek?
+5336548	hun	Mikor köszönthetünk fel?
+5336549	tur	Onlar şok cihazı ile Tom'u öldürdüler.
+5336550	tur	O kendi isteği dışında planlarından vazgeçti.
+5336551	deu	Mach dich nicht über Tom lustig!
+5336552	pol	W nagłych wypadkach, zadzwoń 119.
+5336554	rus	Мой кот ходит за мной.
+5336555	hun	Elfelejtettem egy párnát venni.
+5336556	rus	У тебя есть письмо.
+5336557	hun	Leveleket írtam egész nap.
+5336558	rus	С этим новым переводчиком можно будет переводить с более чем трёхсот языков.
+5336559	hun	Van egy leveled.
+5336560	ita	Vai a divertirti.
+5336561	rus	Выйди или пожалеешь.
+5336562	ita	Vada a divertirsi.
+5336563	ita	Andate a divertirvi.
+5336564	rus	Каждый человек важен.
+5336568	rus	Ты должен чаще посещать мессу.
+5336569	rus	Вы обе счастливы?
+5336570	ita	Tom è completamente folle.
+5336571	ita	Questo è naturale.
+5336572	ita	Questo è magnifico.
+5336573	ita	Questo è ufficiale.
+5336574	ita	Questo va bene.
+5336576	ita	Non penso che ci dobbiamo preoccupare.
+5336577	ita	Io non penso che ci dobbiamo preoccupare.
+5336578	ita	Non penso che dobbiamo preoccuparci.
+5336579	ita	Io non penso che dobbiamo preoccuparci.
+5336580	ita	Era un errore stupido.
+5336581	ita	È stato un errore stupido.
+5336582	ita	Fu un errore stupido.
+5336583	ita	Tom aveva molte cose da fare.
+5336584	hun	Moss fogat, mielőtt ágyba mész!
+5336585	hun	Moss fogat, mielőtt aludni mész!
+5336587	ita	Questo è senza scopo.
+5336588	ita	Questo è privo di scopo.
+5336589	hun	Gondolom, hogy csinálok magamnak egy fürdőt ma este.
+5336590	hun	Azt hiszem, készítek egy fürdőt ma este.
+5336591	hun	Azt hiszem, hogy veszek egy fürdőt ma este.
+5336592	ita	Questo è possibile.
+5336593	ita	Questo è inestimabile.
+5336594	ita	Questo è di grande valore.
+5336595	ita	Questo è privato.
+5336596	ita	Questo è reale.
+5336597	ita	Questo è richiesto.
+5336598	ita	Questo è rivoltante.
+5336600	ita	Questo è spaventoso.
+5336601	deu	Schulfreunde hatte Tom kaum. Er war ein Eigenbrötler. Er stand in den Pausen immer allein auf dem Schulhof herum.
+5336602	hun	Neked is menned kell!
+5336603	epo	Lernejajn amikojn Tomo preskaŭ ne havis. Li estis soleculo. Dum la paŭzoj li ĉiam staradis en la korto de la lernejo sola.
+5336604	hun	Nem tudom a történet végét.
+5336605	hun	Nem tudom, hogy mi a történet vége.
+5336606	deu	Warum fällt es Tom nur so leicht, Sprachen zu lernen?
+5336607	deu	Tom hat ein außergewöhnliches Gedächtnis, und das ist ihm beim Sprachenlernen von großem Nutzen.
+5336608	deu	Tom und Maria gaben bei dem Test genau gleiche Antworten, was dem Lehrer verdächtig vorkam.
+5336609	epo	Kial lerni lingvojn tiom facilas al Tomo?
+5336610	tur	Çocukluğu hakkında konuşmaya gelince Tom çok ağzı sıkıdır.
+5336611	tur	O, futboldan hoşlanmaz.
+5336612	tur	Artık özgürüm.
+5336613	hun	Bob idejött, tényleg?
+5336614	ita	Abbiamo rinvenuto il cadavere lì.
+5336615	deu	Wir haben die Leiche dort gefunden.
+5336616	deu	Wir haben den Leichnam dort gefunden.
+5336618	deu	Sein Leichnam wurde nie gefunden.
+5336619	hun	Tomi a szabadban aludt.
+5336620	deu	Ihre Leiche wurde nie gefunden.
+5336621	deu	Ihr Leichnam wurde nie gefunden.
+5336622	tur	Manzara muhteşem.
+5336623	lfn	Tom ia es matada en la esplode.
+5336624	deu	Die Leiche wurde noch nicht gefunden.
+5336625	deu	Der Leichnam wurde noch nicht gefunden.
+5336626	pol	Jest już 11 godzina.
+5336627	pol	Znasz tą piosenkę?
+5336628	epo	Tomo estis mortigita en la eksplodo.
+5336629	pol	Często tu bywasz?
+5336630	pol	Mógłbym wyłączyć światła?
+5336631	pol	Nie bądź beksa!
+5336633	tur	Cibuti az gelişmiş bir ülkedir.
+5336635	pol	Oni są amatorami.
+5336636	deu	Warum blute ich?
+5336637	pol	Chcesz jakieś śniadanie?
+5336638	lfn	On va ave un tempesta de neva.
+5336639	ita	Ho rinvenuto il mio cellulare sotto il divano.
+5336640	pol	Jakie to uczucie?
+5336641	deu	Tom sah Maria einen Fisch fangen.
+5336642	deu	Ich habe mein Handy unter dem Sofa wiedergefunden.
+5336643	pol	Zrobiłem rezerwację.
+5336644	deu	Ich habe mein Handy unter dem Sofa gefunden.
+5336645	epo	Estos neĝoŝtormo.
+5336646	pol	Umiesz pisać?
+5336647	deu	Tom hat keinen Fisch gefangen.
+5336648	deu	Tom fing keinen Fisch.
+5336649	pol	Nie pożałujesz.
+5336650	lfn	Tom es blogor.
+5336652	epo	Mi trovis mian poŝtelefonon sub la sofo.
+5336653	deu	Ich fing keinen Fisch.
+5336654	deu	Ich habe keinen Fisch gefangen.
+5336655	pol	Wybrałeś?
+5336656	epo	Mi retrovis mian poŝtelefonon sub la sofo.
+5336657	pol	Tam jest zimno.
+5336658	deu	Ich habe keinen einzigen Fisch gefangen.
+5336659	deu	Ich fing keinen einzigen Fisch.
+5336660	deu	„Warum blute ich denn?“ – „Wahrscheinlich, weil du dich irgendwo, ohne es zu merken, verletzt hast.“ – „Ja, jetzt, wo du es sagst: ich bin vorhin mit dem Arm an Toms Brombeersträucher gekommen. Die verdammten Dinger!“
+5336662	ita	Questo è strano.
+5336663	deu	Ich habe nicht einmal einen Fisch gefangen.
+5336664	lfn	Esce tu es vera blonde?
+5336665	ita	Questo è vergognoso.
+5336666	pol	Suni jest odtwarzany.
+5336667	deu	Wo hast du alle diese Fische gefangen?
+5336668	deu	Zeig mir mal deinen Arm! Ich verarzte dich!
+5336669	deu	Wo hast du die ganzen Fische da gefangen?
+5336671	pol	Prawie jesteśmy na miejscu.
+5336674	epo	Ĉu vi estas vere blonda?
+5336675	pol	Spotkajmy się o piątej.
+5336676	epo	Ĉu vi vere blondas?
+5336677	deu	Hast du Fische im Fluss gefangen?
+5336679	deu	Haben Sie Fische im Fluss gefangen?
+5336680	deu	Maria verband Tom liebevoll den Arm.
+5336681	deu	Habt ihr Fische im Fluss gefangen?
+5336683	deu	Maria klebte liebevoll ein Pflaster auf Toms Wunde.
+5336684	deu	Tom wollte zum Essen ein paar Fische fangen.
+5336685	deu	Ohne Köder Fische fangen ist schwer.
+5336686	deu	Maria verarztete liebevoll Toms Wunde und gab ihm zum Trost etwas zu naschen; da war alles wieder gut.
+5336687	deu	Welchen Fisch fängst du am liebsten?
+5336688	deu	Tom glaubte nicht, Maria würde einen Fisch fangen.
+5336689	deu	Wir wussten nicht, welchen Fisch wir zuerst fangen sollten.
+5336690	deu	„Tom, es ist wieder Zeit für deine Medizin!“ – „Schon wieder? Du passt auch auf wie ein Luchs!“ – „Wir wollen ja, dass du schnell wieder gesund wirst!“
+5336691	deu	Wir zeigen dir, wie man einen Fisch fängt.
+5336692	por	Por que aprender línguas é tão fácil para Tom?
+5336693	deu	Wir zeigen euch, wie man einen Fisch fängt.
+5336694	deu	Wir zeigen Ihnen, wie man einen Fisch fängt.
+5336695	lfn	Per ce aprende linguas es tan fasil per Tom?
+5336696	pol	Zacząć to połowa sukcesu.
+5336697	deu	Gestern ging ich zum Angeln an den Fluss.
+5336698	deu	Tom ist jetzt einem Angelverein beigetreten.
+5336699	deu	Gestern ging ich zum Fischen an den Fluss.
+5336700	hun	Sok könyvet kellene olvasni, amikor az ember fiatal.
+5336701	tur	Onlar çabuk evlendiler.
+5336702	deu	Tom und Johannes gaben damit an, was für große Fische sie schon gefangen hätten.
+5336704	deu	Hast du das letzte Mal beim Fischen etwas gefangen?
+5336705	deu	Ohne Köder ist es schwer, einen Fisch zu fangen.
+5336706	deu	Tom war sich ziemlich sicher, dass Maria keinen Fisch fangen würde.
+5336707	deu	Maria langweilte sich zu Tode, während Tom und Johannes voller Inbrunst vom Angeln schwärmten.
+5336708	pol	Daj mi trochę luzu.
+5336709	deu	Ein Nachtschwärmer hatte sich ins Zimmer verirrt. Tom fing ihn und brachte ihn nach draußen.
+5336710	por	O cavalheiro goza e guarda para si.
+5336711	deu	Als Tom die Kellertür öffnete, schlug ihm Verwesungsgeruch entgegen.
+5336712	hun	Jó barát vagy.
+5336713	epo	La vetero estas pli milda en Japanujo, ol en Anglujo.
+5336714	tur	Snowboard aslında beklediğimden çok daha eğlenceliydi.
+5336715	epo	La vetero pli mildas en Japanujo, ol en Anglujo.
+5336716	tur	Tom asla senin için çalışmak istediğini söylemedi.
+5336717	epo	Tomo spektas filmon.
+5336718	tur	Bu çok büyük bir sosyal sorun.
+5336719	deu	Als Maria ins Wohnzimmer kam, hätte sie fast der Schlag getroffen. Tom und Johannes spielten sich dort einen Fußball zu, während auf dem Tisch das teure Porzellanservice stand.
+5336720	deu	Er fing drei Fische.
+5336721	deu	Ich fing zwei Fische.
+5336722	tur	Birisi bütün kurabiyeleri yedi.
+5336723	deu	Tom fing drei Fische. Einen davon stahl die Katze; also blieben ihm nur noch zwei.
+5336724	hun	Aki szerencsés a kártyában, szerencsétlen a szerelemben.
+5336725	tur	Seni kendi evindeymiş gibi hissettirmek istedim.
+5336726	epo	Ili konfidis sin al vi.
+5336727	hun	Fizethetek később?
+5336728	por	A comida favorita do meu filho é um waffle com xarope de bordo. Todas as manhãs ele me pede que o faça. Mas, às vezes, eu tenho de negar.
+5336729	hun	Ha oda tudnék figyelni, akkor már eleve bele sem kerültem volna ebbe a slamasztikába.
+5336730	ita	Questo è stupido.
+5336731	hun	Hogyan tudok fizetni?
+5336732	tur	Ben neden Tom'u önemsemeliyim?
+5336733	ita	Questo è temporaneo.
+5336734	ita	Questo è sconcertante.
+5336735	hun	Jól ismerem.

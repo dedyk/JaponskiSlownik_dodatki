@@ -1,310 +1,3 @@
-4364612	spa	Tom se hizo aplicar una inyección para la gripa.
-4364613	spa	Tom se secó los ojos.
-4364614	spa	Tom bebió limonada.
-4364615	spa	Tom murió en prisión.
-4364616	spa	Tom se puso serio.
-4364617	spa	Tom sintió curiosidad.
-4364618	spa	Esto fue un error.
-4364619	spa	Eso no da miedo.
-4364620	spa	¡Vamos! ¡El inglés es fácil!
-4364621	spa	Nos vemos en dos días.
-4364622	spa	Tom es difícil de tratar.
-4364623	spa	Mary aún no ha llegado.
-4364624	dan	Vi må reagere hurtigere.
-4364625	deu	Der Ärger in ihrem Gesicht war unmissverständlich.
-4364626	epo	Ĉi tiu fiŝo fetoras.
-4364627	nld	Deze vis stinkt.
-4364628	nld	Tom was een week op Bali met zijn vriendin.
-4364629	deu	Die Bibliothek wird dir eine Benutzerkarte ausstellen.
-4364630	epo	Tom estis unu semajnon en Balio kun sia amikino.
-4364631	nld	Tom verbleef een week op Bali met zijn vriendin.
-4364632	deu	Der blinde Tenor hat eine besonders wohlklingende Stimme! Nicht alles behindert ihn.
-4364633	deu	Sie bewahrt ihre Ersparnisse in einer Schuhschachtel auf.
-4364634	dan	Den her fisk stinker.
-4364636	dan	Den fisk her stinker.
-4364637	dan	Denne fisk stinker.
-4364638	dan	Denne fisk lugter dårligt.
-4364639	deu	Dieses Telefon ist nicht in Ordnung.
-4364640	epo	Tiu ĉi fiŝo malbone odoras.
-4364641	nld	Ze bewaart haar spaargeld in eens schoendoos.
-4364642	epo	Tiu ĉi fiŝo malbone flaras.
-4364643	deu	Normale Augenärzte verlangten hohe Honorare. Sie wohnten in luxuriösen Wohnungen. Darum zogen viele Menschen vor, mit einer Augenerkrankung bis zur Blindheit durchzuhalten.
-4364644	rus	Том умер в тюрьме.
-4364645	deu	Nach dem Tod der Mutter näherten sich die Geschwister Zamenhof dem Vater, dessen Herz weicher wurde.
-4364646	deu	Sie sind ein Ehepaar.
-4364647	deu	Sie sind ein Paar.
-4364648	rus	Том сел в свою машину.
-4364649	deu	Wir müssen nicht bei dieser Versammlung dabei sein.
-4364650	rus	Том на этом корабле?
-4364651	deu	Du sitzt zwischen Megu und mir.
-4364652	rus	Том бы тебе солгал?
-4364653	deu	Ich meine, dass das, was Tom machte, mutig ist.
-4364654	rus	Я быстрее.
-4364655	rus	Француз поёт.
-4364656	rus	У меня состоялся длинный разговор с Томом.
-4364657	rus	Хочешь место у окна?
-4364658	rus	Желаете место у окна?
-4364659	mkd	Треба да го прашаш Том.
-4364660	mkd	Треба да бидеш дома.
-4364661	mkd	Треба да си одиш дома.
-4364662	mkd	Треба да си набавиш.
-4364663	mkd	Би требало да го знаеш тоа.
-4364664	mkd	Треба да го тужиш Том.
-4364665	mkd	Требаше да дојдеш.
-4364666	mkd	Треба да ни се придружиш.
-4364667	mkd	Не треба да викаш.
-4364668	mkd	Звучиш збунето.
-4364669	mkd	Звучиш како да ти олеснило.
-4364670	mkd	Звучиш како Том.
-4364671	mkd	Ти нѐ научи.
-4364672	mkd	Генијален беше.
-4364673	mkd	Добро си ме научил.
-4364674	mkd	Ти ме научи.
-4364675	mkd	Ти земи ги парите.
-4364676	mkd	Фантастичен беше.
-4364677	mkd	Бладаше.
-4364679	mkd	Пријател ми беше.
-4364680	mkd	Во кома беше.
-4364681	mkd	Во опасност беше.
-4364682	mkd	Ти беше тука тогаш.
-4364683	mkd	Премлад беше.
-4364684	mkd	Толку беше силен.
-4364685	mkd	Нема да бидеш сам.
-4364686	mkd	Ќе соработуваш.
-4364687	mkd	Нема да добиеш отказ.
-4364688	mkd	Нема да зажалиш.
-4364689	mkd	Премногу се секираш.
-4364690	mkd	Нема да ти се допадне Том.
-4364691	deu	Ich kann Ihrem Projekt nicht zustimmen.
-4364692	mkd	Подобро побрзај.
-4364693	mkd	Подобро оди си.
-4364694	mkd	Ќе те уапсат.
-4364695	mkd	Ќе те замолчат.
-4364696	epo	Mi adoras barbulojn.
-4364697	mkd	Сега ќе бидеш безбеден.
-4364698	mkd	Сега ќе бидеш во ред.
-4364699	mkd	Ќе се збуниш.
-4364700	mkd	Ќе се чувствуваш подобро.
-4364701	mkd	Супер ќе бидеш.
-4364702	mkd	Ќе се опоравиш.
-4364703	mkd	Ќе правиш како што велам.
-4364704	mkd	Ништо нема да добиеш.
-4364705	mkd	Ќе мораш да платиш.
-4364706	mkd	Убаво ќе се вклопиш.
-4364707	mkd	Никогаш нема да ти текне.
-4364708	mkd	Никогаш нема да погодиш.
-4364709	mkd	Слатко девојче си.
-4364710	mkd	Храбар човек си.
-4364711	mkd	Ќе се покаеш за ова.
-4364712	mkd	Суров човек си.
-4364713	mkd	Смешен тип си.
-4364714	mkd	Прав господин сте.
-4364715	mkd	Добар шеф сте.
-4364716	mkd	Добро готвиш.
-4364717	mkd	Лицемер си.
-4364718	mkd	Ти си мој спасител.
-4364719	mkd	Супер човек си.
-4364720	mkd	Добра девојка си.
-4364721	mkd	Прав среќник си.
-4364722	mkd	Вистински јунак си.
-4364723	mkd	Бистар си ти.
-4364724	mkd	Паметно момче си.
-4364725	mkd	Паметен тип си.
-4364726	mkd	Сите сте плашливци.
-4364727	mkd	Сите сте поканети.
-4364728	mkd	Скоро си готов.
-4364729	mkd	Секогаш си зафатен.
-4364730	mkd	Секогаш ти оди.
-4364732	mkd	Ме избегнуваш.
-4364733	mkd	Секогаш доцниш.
-4364734	mkd	Наивен си.
-4364736	mkd	И двајцата сте возрасни.
-4364737	mkd	И двајцата сте ненормални.
-4364738	mkd	Харизматичен си.
-4364739	mkd	Имаш натпреварувачки дух.
-4364740	mkd	И двете сте убави.
-4364741	mkd	Учиш полека.
-4364742	mkd	Обѕирен си.
-4364743	mkd	Промислен си.
-4364744	mkd	Соработуваш.
-4364745	mkd	Немаш одбрана.
-4364746	mkd	Беззаштитен си.
-4364747	mkd	Соработувате.
-4364748	mkd	Непослушен си.
-4364749	mkd	Властољубив си.
-4364750	mkd	Силеџија си.
-4364751	mkd	Одлично ти оди.
-4364752	mkd	Пак си поранил.
-4364753	mkd	Егоист си.
-4364754	mkd	Самољубив си.
-4364755	mkd	Имаш искуство.
-4364756	mkd	Искусен си.
-4364757	mkd	Прекрасен си.
-4364758	mkd	Модерен си.
-4364759	mkd	Трудољубив си.
-4364760	mkd	Работлив си.
-4364761	mkd	Ја повредуваш.
-4364762	mkd	Го повредуваш.
-4364763	mkd	Го повредуваш Том.
-4364764	mkd	Не ме рецкаш.
-4364765	mkd	Неспособен си.
-4364766	mkd	Ме игнорираш.
-4364767	mkd	Влијателен си.
-4364768	mkd	Интелигентен си.
-4364769	mkd	Паметен си.
-4364770	mkd	Интересен си.
-4364771	mkd	Занимлив си.
-4364772	mkd	Се мешаш.
-4364773	mkd	Ти си само девојче.
-4364774	mkd	Вие сте обични идиоти.
-4364775	mkd	Ме лажеш.
-4364776	mkd	Само си исплашен.
-4364777	mkd	Како семејство сте ми.
-4364778	mkd	Пак лажеш.
-4364779	mkd	Величествен си.
-4364780	mkd	Велелепен си.
-4364781	mkd	Ти си ми омилениот.
-4364782	mkd	Комшија си ми.
-4364783	mkd	Комшика си ми.
-4364784	mkd	Потребен си ни тука.
-4364785	mkd	Сега си во брак.
-4364786	mkd	Не помагаш.
-4364788	mkd	Не си губитник.
-4364789	mkd	Не си лузер.
-4364790	mkd	Не си пропалица.
-4364791	mkd	Не си чудак.
-4364792	mkd	Не си изрод.
-4364794	mkd	Не си одиш.
-4364795	mkd	Не си како мене.
-4364796	mkd	Не гледаш.
-4364798	mkd	Не си сериозен.
-4364802	mkd	Сам си.
-4364803	mkd	Немаш среќа.
-4364804	mkd	На списокот си.
-4364805	mkd	Немаш веќе млеко.
-4364806	mkd	Ти се потрошило млекото.
-4364807	mkd	Прокобник си.
-4364808	mkd	Црногледец си.
-4364809	mkd	Песимист си.
-4364811	mkd	Имаш повеќе од триесет години.
-4364812	mkd	Имаш над триесет години.
-4364813	mkd	Немаш веќе време.
-4364814	mkd	Ти истече времето.
-4364815	mkd	Сосема си во право.
-4364816	mkd	Прилично си зафатен.
-4364817	mkd	Предвидлив си.
-4364818	mkd	Баш си јак.
-4364819	mkd	Ама си пијан.
-4364820	mkd	Баш си добар.
-4364821	mkd	Ептен те бива.
-4364822	mkd	Многу си брз.
-4364823	mkd	Стварно си мил.
-4364824	mkd	Заменлив си.
-4364825	mkd	Снаодлив си.
-4364826	mkd	Одговорен си.
-4364827	mkd	Совесен си.
-4364828	mkd	Многу си фин.
-4364829	mkd	Пак си во право.
-4364831	mkd	Толку си сладок.
-4364832	mkd	Толку си вреден.
-4364833	mkd	Толку си великодушен.
-4364834	mkd	Каков параноик си.
-4364835	mkd	Толку си параноичен.
-4364836	mkd	Толку си згоден.
-4364837	mkd	Колку си негативен.
-4364838	mkd	Ама си незрел.
-4364839	mkd	Колку си беден.
-4364840	mkd	Колку си романтичен.
-4364841	mkd	Толку си надарен.
-4364842	mkd	Толку си талентиран.
-4364843	mkd	Толку си тврдоглав.
-4364844	mkd	Колкав инает си.
-4364845	mkd	Жива вода си.
-4364846	mkd	Цел си воден.
-4364847	mkd	Спонтан си.
-4364848	mkd	Ме разгалуваш.
-4364849	mkd	Ме размазуваш.
-4364850	mkd	Сѐ уште си жив.
-4364851	mkd	Сѐ уште грешиш.
-4364852	mkd	Сепак не си во право.
-4364853	mkd	Уште си млад.
-4364854	mkd	Ти преземаш.
-4364856	mkd	Ме дразниш.
-4364857	mkd	Каков сноб си.
-4364858	mkd	Колку си препотентен.
-4364859	mkd	Ти си тој што сонува.
-4364860	mkd	Ти си најголемиот.
-4364861	mkd	Ти си капетанот.
-4364864	mkd	Ти си учителот.
-4364865	mkd	Премногу паничиш.
-4364866	mkd	Ме допираш.
-4364867	mkd	Не си амбициозен.
-4364868	mkd	Не си емотивен.
-4364869	mkd	Непотребен си.
-4364870	mkd	Таа пуши претерано.
-4364871	mkd	Избегнувајте да пушите претерано.
-4364872	mkd	Мислат дека е излишно.
-4364873	mkd	Мислат дека е прекубројно.
-4364874	mkd	Сите коментари се излишни.
-4364875	mkd	Кога нов закон не е потребен, не е само прекуброен, туку и штетен.
-4364876	mkd	Црвенееш.
-4364877	mkd	Многу си прониклив.
-4364878	mkd	Многу си итар.
-4364881	mkd	Многу си искрен.
-4364882	mkd	Многу си убав.
-4364883	mkd	Многу си осамен.
-4364884	mkd	Сега си со нас.
-4364885	mkd	Со мене си, добро?
-4364886	mkd	Веќе победивте.
-4364887	mkd	Ни фалевте.
-4364888	mkd	Ве ограбиле.
-4364889	mkd	Ме предаде.
-4364890	mkd	Нѐ предаде.
-4364891	mkd	Ме порази.
-4364892	mkd	Доволно направивте.
-4364893	mkd	Си го заслужи ова.
-4364894	mkd	Кај тебе ми се клучевите.
-4364895	mkd	Имаш друштво.
-4364896	mkd	Имаш еден час.
-4364897	mkd	Имаш температура.
-4364898	mkd	Јас ќе гласам за тебе.
-4364899	mkd	Ништо немаш.
-4364900	mkd	Си ослабел.
-4364901	mkd	Мораш да се криеш.
-4364902	mkd	Спремна ти е кадата.
-4364903	mkd	Си претерал.
-4364905	mkd	Доволно рековте.
-4364906	mkd	Доволно видовте.
-4364907	mkd	Вредно си работел.
-4364908	mkd	Ти гори колата.
-4364909	mkd	Ти се запалила колата.
-4364910	mkd	Спремна ти е собата.
-4364911	mkd	Косата ти е бушава.
-4364912	mkd	Задува студен ветер.
-4364913	mkd	Твојата тајна е безбедна.
-4364915	mkd	Можам само да пробам.
-4364916	mkd	Само пари сакам.
-4364917	mkd	Сите сме среќни.
-4364918	mkd	Само книги имам.
-4364919	mkd	Том само јадеше.
-4364920	mkd	Алуминиумот е метал.
-4364921	mkd	Дали ме казнувате?
-4364922	mkd	Дозволи ми да објаснам.
-4364923	mkd	Да не те вознемирувам?
-4364924	mkd	Добро ли го правам?
-4364925	mkd	Дали ќе бидам заменет?
-4364926	mkd	Во ред ли ќе бидам?
-4364927	mkd	Одговорај ми на прашањата.
-4364928	mkd	Америка си има непријатели.
-4364929	mkd	Постар ли сум од тебе?
-4364930	mkd	Одговори ми веднаш.
-4364932	mkd	Одговори на прашањето.
-4364933	mkd	Секој може да го прочита.
-4364934	mkd	Секој може да го направи ова.
-4364935	mkd	Има ли слободни места?
-4364937	mkd	Твои клучеви ли се ова?
-4364938	mkd	Тоа секој може да го види.
-4364939	mkd	Очигледно е.
 4364940	mkd	Од авион се гледа.
 4364941	mkd	Од небо се гледа.
 4364942	mkd	Очигледно не работи.
@@ -6900,7 +6593,7 @@
 4372147	rus	Если бы я знал ответ на вопрос, я бы вам сказал.
 4372148	rus	Если бы я знал ответ на этот вопрос, я бы тебе сказал.
 4372149	rus	Не хочу хвастать, но я уже плаваю без нарукавников.
-4372150	rus	Этот студент - американец.
+4372150	rus	Этот студент — американец.
 4372151	rus	Они хранят это в тайне.
 4372152	rus	Где я найду эти камни?
 4372153	rus	Его не волнует политика.
@@ -12961,7 +12654,7 @@
 4378666	rus	Том, вероятно, единственный, кто сможет решить эту проблему.
 4378667	rus	Тому, вероятно, ещё нет тридцати.
 4378668	rus	Тому можно выбрать любой цвет.
-4378669	rus	Тому можно придти ко мне в гости в любое время.
+4378669	rus	Тому можно прийти ко мне в гости в любое время.
 4378670	rus	Тому можно есть всё, что ему захочется.
 4378671	dan	Edderkoppen er død.
 4378672	rus	Возможно, Том там и был. Я не знаю.
@@ -15168,7 +14861,7 @@
 4381017	ita	Che albero alto che è!
 4381018	uzb	Onang qayerda yashaydi?
 4381019	tur	Eğer bir düğmeye basarsan, ya yaşayacak ya da öleceksin.
-4381020	aze	Əgər bir düyməni bassan, ya sağ qalacaqsan, ya öləcəksən.
+4381020	aze	Əgər bir düyməni bassan, ya sağ qalacaqsan, ya da öləcəksən.
 4381021	bak	Бер төймәгә баҫһаң, йә иҫән ҡаласаҡһың, йә үләсәкһең.
 4381022	spa	El ámbar es una resina fósil.
 4381023	chv	Эсӗ кнопкине пуссан, е хӑтӑлса юлӑн, е вилӗн.
@@ -15629,7 +15322,7 @@
 4381504	tur	Ben okuldayken, solak çocuklar sağ elleriyle yazmaları için zorlanırdı.
 4381505	swe	Tom ringde och sa att han skulle bli sen.
 4381506	tur	Bazı hayvan türlerinde dişi erkek üzerinde egemendir.
-4381507	rus	Возвращаться - плохая примета.
+4381507	rus	Возвращаться — плохая примета.
 4381509	swe	Jag gick in i en dörr.
 4381510	swe	Jag gick in i en vägg.
 4381511	tur	Alfred bu projeye ilgisini kaybetti.
@@ -21467,7 +21160,7 @@
 4387791	fra	Voulez-vous être beau ?
 4387792	spa	¡Qué maravilla de mundo!
 4387793	tat	Ул уңышсызлыгыннан ояла.
-4387794	deu	Ich hege Insekten gegenüber eine tiefe Abneignung.
+4387794	deu	Ich hege Insekten gegenüber eine tiefe Abneigung.
 4387795	tat	Ул уңышка иреште.
 4387796	spa	Surcó el proceloso ponto en su vieja nave.
 4387797	fra	L'enseignant était assis sur la chaise.
@@ -28386,7 +28079,7 @@
 4395213	ita	Anch'io sono canadese.
 4395214	ita	Lo salverò.
 4395216	spa	Thomas nunca confesaría que se había equivocado, aun a sabiendas de que así era.
-4395217	spa	!No pierda demasiado tiempo!
+4395217	spa	¡No pierda demasiado tiempo!
 4395218	spa	¿No recuerda?
 4395219	rus	Я тоже канадец.
 4395220	rus	Я тоже канадка.
@@ -34318,7 +34011,6 @@
 4401554	tur	Buraya ne zaman geldi?
 4401555	hun	Úgy tűnik, megfelelt neki a magyarázatom.
 4401556	epo	Kial plenumi hodiaŭ, kion oni povas prokrasti ĝis morgaŭ?
-4401557	fra	Quand est-il arrivé ici ?
 4401558	rus	Не подчиняйся слепо своему начальнику.
 4401559	hun	Velem szemben ült.
 4401561	tur	O genellikle buraya mı geliyor?
@@ -38167,7 +37859,6 @@
 4405798	rus	Любовь не обойдётся без ревности.
 4405799	rus	Я алкоголик. Я сижу на наркотиках. Я гомосексуал. Я гений.
 4405800	gle	Níl caife fágtha ann.
-4405801	rus	Жизнь - это смертельная болезнь, передающаяся половым путём.
 4405802	rus	Том должен был объяснить шутку Марии.
 4405803	rus	Том спросил Марию, сможет ли она сохранить тайну.
 4405804	rus	Я вошла в ванную.
@@ -39929,7 +39620,7 @@
 4407751	deu	Auf den Boden!
 4407752	spa	¿Vas a hacer algo?
 4407753	spa	¿Vas a comer?
-4407754	fra	Vas-tu faire quelque chose?
+4407754	fra	Vas-tu faire quelque chose ?
 4407755	hun	Pétert megtanítottam teniszezni.
 4407756	deu	Er ist ein Idiot.
 4407757	hun	Tegnap nem beszéltem a nagymamámmal.
@@ -45862,7 +45553,6 @@
 4414278	rus	Я его не целовала. Он поцеловал меня.
 4414279	tur	Bataryam bitik.
 4414280	tur	Her şeyi medikal jargonla açıklarsan, herkesin onu hemen anlaması imkansız.
-4414281	rus	Люди - разумные существа.
 4414282	rus	Ты знал!
 4414283	rus	Когда мне скучно, я занимаюсь игрой на фортепиано.
 4414284	rus	Я занимаюсь игрой на фортепиано не так часто, как следовало бы.
@@ -48297,7 +47987,7 @@
 4416888	rus	Никто не знает ответа.
 4416889	rus	Джексон упал с лошади.
 4416890	mar	मेरीकडे एक आंगठी आहे.
-4416891	mar	त्याला चॉपस्टिक्सची भिती वाटते.
+4416891	mar	त्याला चॉपस्टिक्सची भीती वाटते.
 4416892	mar	आम्ही तिच्यावर हसलो.
 4416893	mar	आपण तिच्यावर हसलो.
 4416894	mar	आम्ही त्यांच्यावर हसलो.
@@ -49998,3 +49688,313 @@
 4418711	rus	Он не мёрз.
 4418712	hun	Tudni szeretném, miért vagy te itt.
 4418713	ces	Musíme si promluvit.
+4418714	rus	Ты не мёрз.
+4418715	rus	Ты не мёрзла.
+4418716	ces	Zdá se, že přestal přemýšlet o útěku.
+4418717	rus	Я не мёрз.
+4418718	rus	Я не мёрзла.
+4418719	hun	Tudnom kell, jól vagy-e.
+4418720	rus	Они мёрзли.
+4418721	hun	Tudnom kell a szándékaidról.
+4418722	rus	Вы мёрзли.
+4418723	rus	Мы мёрзли.
+4418724	rus	Она мёрзла.
+4418725	rus	Он мёрз.
+4418726	hun	El kell mennem, mielőtt megérkezik Tomi.
+4418727	rus	Ты мёрз.
+4418728	rus	Ты мёрзла.
+4418729	rus	Я мёрз.
+4418730	rus	Я мёрзла.
+4418731	hun	El kell mennem, mielőtt Tomi itt lesz.
+4418732	hun	Üzenetet kell hagynom.
+4418734	rus	Я не мёрзну.
+4418735	rus	Ты не мёрзнешь.
+4418736	rus	Он не мёрзнет.
+4418737	ces	Ihned pochopil, v čem je kořen problému.
+4418738	rus	Она не мёрзнет.
+4418739	hun	Tomi tudtára kell adnom.
+4418740	rus	Мы не мёрзнем.
+4418741	rus	Вы не мёрзнете.
+4418742	rus	Они не мёрзнут.
+4418743	hun	Fel kell hívnom még egyszer.
+4418744	ces	Tom se pokusil o útěk.
+4418745	hun	El kell rendeznem néhány telefonhívást.
+4418746	ces	Já ale vůbec nepiji!
+4418747	ces	Tom zkusil utéci.
+4418748	hun	Meg kell bizonyosodnom róla, hogy Tomi jól van.
+4418749	ces	Tom jim vyhrožoval.
+4418750	rus	Это тот мальчик, который нашёл твои часы.
+4418751	hun	Meg kell győződnöm róla, hogy nem tört-e el a lábad.
+4418752	ces	Tom vyhrožoval jim.
+4418753	ces	Něco Toma znepokojovalo.
+4418754	ces	Myslíš si, že jsi přitažlivý?
+4418755	tur	Gitmesine izin verdi.
+4418756	ces	Zdá se, že se Tomovi líbím.
+4418757	hun	Beszélhetünk egy percet?
+4418758	hun	El fogok neked mondani egy titkot.
+4418759	hun	Mindjárt elmesélek neked egy titkot.
+4418760	ces	Je mi jedno, políbíš mě nebo ne.
+4418761	hun	Hol van az ing, amit vettem neked?
+4418762	hun	Baj lenne, ha megcsókolnálak?
+4418763	ces	Nechápu, proč to musíme dělat.
+4418764	hun	Siess! Nem érek rá egész nap.
+4418765	ces	Myslíš si, že Tom je bohat?
+4418766	hun	Azt hiszem, nem értenéd meg.
+4418767	hun	Nem akarok ezen gondolkodni.
+4418768	hun	Ezt már egy ideje nem csináltam.
+4418769	ces	Mohli vás zabít.
+4418770	ces	Jak se jen nestydíte!
+4418771	epo	Flue kaj facile sonis argumentoj kaj respondoj de la parolantoj. Sur neŭtrala fundamento ĉiu sentis sin egala kaj libera.
+4418772	ces	Tato shoda okolností není náhodná.
+4418773	ukr	Це той хлопчик, який знайшов твій годинник.
+4418774	por	A argumentação e as respostas dos debatedores eram formuladas com facilidade e fluência. Tendo uma base neutra, todos se sentiam à vontade e em pé de igualdade.
+4418775	epo	Kiel ĉiujn kongresanojn tio tre impresis Zamenhofon. Reveninte Varsovion, li kunportis feliĉegan sperton, ne nur lingvan, sed moralan.
+4418776	ita	Ti ho sentito urlare.
+4418777	ita	Ti ho sentita urlare.
+4418778	ita	Vi ho sentiti urlare.
+4418779	ita	Vi ho sentite urlare.
+4418780	ita	L'ho sentito urlare.
+4418781	ita	L'ho sentita urlare.
+4418782	epo	Mi iam tenisis kiel studento.
+4418784	ces	Mohli tě zabít.
+4418785	ces	Cože? O čem to mluvíš?
+4418786	epo	Mi iam vidis falstelon.
+4418787	por	Da mesma forma que todos os participantes, Zamenhof ficou muito impressionado com isso. Ao retornar a Varsóvia, ele levava uma experiência muito gratificante, não só em termos linguísticos, mas também sob o aspecto moral.
+4418788	ces	Dovol mi něco vyzkoušet.
+4418789	ces	Byli jsme velmi opatrní.
+4418790	epo	Optimisto estas iu, kiu kredas, ke muŝo serĉas elirejon.
+4418791	ces	Odešel jsi beze mě.
+4418792	ces	Vynutil jsi nás čekat.
+4418793	ces	To je chyba?
+4418794	ces	Nedokázal bych to udělat sám.
+4418795	rus	Пообедав в этом новом московском ресторане, можно спуститься на одну строчку в рейтинге журнала «Forbes».
+4418796	rus	Где мне тебя найти, если что?
+4418797	ces	Řekla jsem Tomu, že strávím den s nim.
+4418798	epo	Ŝi malĝentilas.
+4418799	ces	To je omyl?
+4418801	ces	Tom není tak špatný.
+4418802	epo	Kial vi ŝtelis la juvelojn de via avino?
+4418803	ces	To je to, co dělám nejlíp.
+4418804	ces	Hele, kde jsi byl?
+4418805	epo	Tomo ĉiun posttagmezon rehejmiĝinte ekpromenas kun sia hundo.
+4418806	fra	Qu’est-ce que tu voulais faire ?
+4418807	ces	Dál jsi mi ho.
+4418808	ces	Uklizečka přerušila rozhovor.
+4418809	ces	Musím poprvé propustit zaměstnance.
+4418810	ces	Dám ti tolik času, kolik bude třeba.
+4418811	ces	Nemůže mě zastavit.
+4418812	ces	Ona mě nemůže zastavit.
+4418813	ces	Má peněženku a lodičky stejné barvy.
+4418814	epo	Iom el tio, kion vi diris, sonis ne kiel la vero.
+4418815	epo	“Kiu aŭdis la multnombrajn parolojn kaj diskutojn, kiu vidis tiun plenan senĝenecon kaj kortuŝantan fratecon inter ĉiuj partoprenantoj de la kongreso, tiu al si mem ne kredis, ke ĉiuj tiuj homoj ankoraŭ hieraŭ estis tute fremdaj unuj al la aliaj."
+4418816	ces	Na téhle základní desce není COM port.
+4418817	epo	Oni malkovris oron en Kalifornio.
+4418818	ces	Nespěchej, jinak uděláš hodně chyb.
+4418819	ces	Její kabelka má stejnou barvu jako její lodičky.
+4418820	fra	Joyeux Noël.
+4418821	ces	Dopis byl napsán rukou.
+4418822	ces	Co jste dělali s Tomem na půdě?
+4418823	ces	To je takový meloun.
+4418824	epo	Malvarmumante, mi blekis kiel korvo.
+4418826	ces	Musíme být zticha.
+4418827	ces	Co znamená slovo "next"?
+4418828	epo	Mi vane atendis duonan horon.
+4418829	ces	Jaký význam má slovo "next"?
+4418830	ces	Co si myslíš o novém filmu?
+4418831	ces	Mám tři děti.
+4418832	ces	Další autobus přijel za půl hodiny.
+4418833	ces	Jaký chytrý hoch!
+4418834	ces	Nebylo třeba.
+4418835	ces	To nebylo nutné.
+4418836	ita	Non posso farlo senza l'aiuto di qualcuno.
+4418837	ita	Io non posso farlo senza l'aiuto di qualcuno.
+4418838	ita	Non posso farla senza l'aiuto di qualcuno.
+4418839	ces	Nebyla nutnost.
+4418840	ita	Io non posso farla senza l'aiuto di qualcuno.
+4418841	ita	Non riesco a farla senza l'aiuto di qualcuno.
+4418842	ces	Někdo musel něco dělat.
+4418843	ita	Io non riesco a farla senza l'aiuto di qualcuno.
+4418844	ita	Non riesco a farlo senza l'aiuto di qualcuno.
+4418845	epo	Dum horduono mi vane atendis.
+4418846	ita	Io non riesco a farlo senza l'aiuto di qualcuno.
+4418847	ces	Nenašla jsem ji.
+4418848	ces	Nenašel jsem ji.
+4418849	por	"Quem ouviu os numerosos debates e conversas, quem viu aquela absoluta naturalidade e emocionante fraternidade entre todos os participantes do congresso, não deve ter podido acreditar que todas aquelas pessoas ainda ontem eram completamente estranhas uma para a outra."
+4418850	ces	Chci zelený.
+4418851	ces	Přišel jsem sem, abych našel odpovědi.
+4418852	ces	Muži nikdy nepláčou.
+4418853	ces	To není férová bitva.
+4418854	ces	S námi jsi v bezpečí.
+4418855	ces	Jdi a řekni to Tomu.
+4418856	ces	Tady s tebou nemohu souhlasit.
+4418857	ces	Tom používá Windows 7.
+4418858	ces	Tom používá Windows sedmičky.
+4418859	rus	Тому очень понравился фильм.
+4418860	ces	Co to bylo za tajemství?
+4418861	ces	Znovu tě potřebujeme.
+4418862	ces	Zase tě potřebujeme.
+4418863	epo	Historiverkado estas planado por la estinteco.
+4418864	ces	Tak dobře, udělám.
+4418865	hun	Meglökött a lépcsőn.
+4418866	ces	Slibuji, že nikomu neřeknu, kde jste.
+4418867	ces	Slibuji, že nikomu neřeknu, kde jsi.
+4418868	epo	La revo, li pensis, estas do plenumebla, kaj efektive la lerno de mondlingvo montriĝis unua paŝo plej efika.
+4418869	ces	Kolik za to chcete?
+4418870	ces	Je tanečník.
+4418871	hun	Vigyázz a lépcsőn!
+4418872	epo	Donaco al malriĉulo estas bone semita.
+4418873	ces	"Proč jsi nepřišel?" - "Neměl jsem na vybranou".
+4418874	ita	Perché vuoi lavorare qui?
+4418875	ces	Tom má dobré auto.
+4418876	ita	Perché vuole lavorare qui?
+4418877	ita	Perché volete lavorare qui?
+4418878	ces	Je také spisovatel.
+4418879	ita	Non mi piace il caldo.
+4418880	ita	A me non piace il caldo.
+4418881	ces	Tom si ještě neobjednal oběd.
+4418882	epo	Li ŝajnas seniluziita de sia filo.
+4418883	ces	Musím to vidět.
+4418884	ces	Tom se zeptal Mary, kde je její dům.
+4418885	ita	L'ho fatto seguendo le tue istruzioni.
+4418886	hun	Valamire jó lehet.
+4418887	ita	L'ho fatta seguendo le tue istruzioni.
+4418888	ita	L'ho fatto seguendo le sue istruzioni.
+4418889	ita	L'ho fatta seguendo le sue istruzioni.
+4418890	ita	L'ho fatto seguendo le vostre istruzioni.
+4418892	ces	Povím ti o něm.
+4418893	epo	Muziko estas religio por mi, ankaŭ en la transejo estos muziko.
+4418894	ces	Nikdo nechce koupit dům v mé zemi.
+4418895	ces	Strávil jsem nějaký čas v Bostonu.
+4418896	ces	Kam jsi chodil s tou slečnou?
+4418897	hun	Még tudunk valamire használni.
+4418898	ces	Kam jsi šla s tím klukem?
+4418899	ita	Ho comprato questa macchina fotografica ieri.
+4418900	ces	Nelíbí se mi, jak to zní.
+4418901	ita	Io ho comprato questa macchina fotografica ieri.
+4418902	ces	Viděl jsem včera profesora Gomese.
+4418903	ces	Kde je má hůl?
+4418905	ces	Nikdy mi neřekla, že otec jsem já.
+4418906	ces	To ani nemá logiku.
+4418907	ces	Začali jsme komunikovat přes Facebook.
+4418908	por	O sonho, pensou ele, é, portanto, realizável, e a aprendizagem de uma língua mundial provou, de maneira irrecusável, ser o primeiro (e mais eficaz) passo nesse sentido.
+4418909	hun	Tudjuk használni a tudásodat.
+4418910	ces	Jsme jen přátelé. Vážně!
+4418911	ces	Nechodí spolu... prozatím.
+4418912	ces	Co chcete, abych řekl Tomu?
+4418913	ces	Co chcete, abych řekla Tomu?
+4418914	ces	Co chceš, abych řekla Tomu?
+4418916	epo	Ŝi saĝas kaj laboremas.
+4418917	ces	V polévce je vlas.
+4418918	ces	Klienti jsou šťastní.
+4418919	ces	Dobrá práce, holky.
+4418920	ces	Dobrá práce, kluci.
+4418921	ces	Dobrá práce, hoši.
+4418922	hun	Csak a javadat akarjuk szolgálni!
+4418923	ces	O tom nemůže být žádná řeč.
+4418924	ces	Kdy doděláš úkoly?
+4418925	epo	Senpripenseco estas la filino de senkoreco.
+4418926	ces	Mary nosila nalepovací řasy.
+4418927	ita	Non ho altro.
+4418928	ita	Io non ho altro.
+4418929	hun	Javadra is szolgálhat.
+4418930	epo	La bovino, koko, porko, anaso kaj kato blekas.
+4418931	hun	Ha elhagysz, veled megyek.
+4418932	hun	Nem hagyhatsz el!
+4418933	hun	Nem tudlak elhagyni.
+4418934	ita	Tom legge raramente dei libri scritti in francese.
+4418935	ita	Tom legge raramente libri scritti in francese.
+4418936	ces	Původ vesmíru, možná, nikdy nebude objasněn.
+4418937	ces	Jsem lepší.
+4418939	ita	La cena sarà pronta tra qualche minuto.
+4418940	ita	La cena sarà pronta fra qualche minuto.
+4418941	eng	It should be noted that "let me go" and "let go of me" do not mean exactly the same thing.
+4418942	rus	Из всех утвердительных ответов самый простой — «да».
+4418943	rus	Нужно отметить, что "let me go" и "let go of me" не означают в точности одно и то же.
+4418944	ita	Passa un buon Natale.
+4418945	ita	Passate un buon Natale.
+4418946	ita	Passi un buon Natale.
+4418947	epo	Laŭ geologia skalo homoj ekzistas tute ne tiel longe, kaj ili supozeble ekzistos ne tre longe. Do estas neniu kialo por maltrankvili pri la planedo!
+4418948	ita	La sua auto è stata appena riparata.
+4418949	ita	La sua automobile è stata appena riparata.
+4418950	epo	Mi certigu al mi, ke via kruro ne rompiĝis.
+4418952	epo	Mi preskaŭ ĉiutage iras al la strando.
+4418953	dan	Jeg tager næsten hver dag til stranden.
+4418954	epo	Mi kredas, ke sukcesa estas nur tiu, kiu harmoniigas sian agadon kun la paradigmo.
+4418955	hun	Rám nézett.
+4418956	hun	Nem bánnád, ha megcsókolnálak?
+4418957	dan	Min ske er for stor!
+4418958	deu	Wo ist das Hemd, das ich dir gekauft habe?
+4418959	ces	Jdu domů.
+4418960	ces	Jsme jeden tým!
+4418961	ces	Jsme tým!
+4418962	ces	Jsme přeci tým!
+4418963	ces	V kufru auta leží tělo.
+4418964	ces	Tom s Mary ještě neodešli.
+4418965	ces	Musíme fungovat jako tým.
+4418966	ces	Když budeme pracovat jako jeden tým, dosáhneme čehokoliv.
+4418967	ces	Musíte pracovat v týmu.
+4418968	ces	Musíte být týmový hráč.
+4418969	ces	Dej mi další.
+4418970	ces	Dejte mi tři měsíce.
+4418971	ces	Prostě zavolej Tomu.
+4418972	ces	A teď mi dej klíče.
+4418973	ces	Kdo vydal povel?
+4418974	ces	Mary nemá kluka.
+4418975	ces	Říkají, že už zaplatili.
+4418976	ces	Jsme tvoje poslední naděje.
+4418977	ces	Jezdíme vlakem.
+4418978	ces	Snažíme se pracovat.
+4418979	ces	Jdeme s tebou.
+4418980	ces	Měli jsme dlouhý den.
+4418981	ces	Dej mi batoh.
+4418982	ces	Dej mi klíče od auta.
+4418983	ces	Vypadni z mého pokoje!
+4418984	ces	Kdy jsi viděl Toma?
+4418985	ces	Zlobíš se?
+4418986	ces	Nezlobte se.
+4418987	rus	Как долго мне надо принимать это лекарство?
+4418988	ces	Nezlobte se!
+4418989	ces	Nezlob se!
+4418990	ces	Tom se zlobí.
+4418991	ces	Proč se zlobí?
+4418992	hun	Spanyolország népessége Japánénak körülbelül a harmada.
+4418993	ces	Zřídka se zlobí.
+4418994	aze	İnəklər bizi südlə təmin edirlər.
+4418995	hun	Miért futottál el?
+4418996	aze	Onlar bizi qida məhsulları ilə təmin edirlər.
+4418997	hun	Kiderült, hogy igazam volt.
+4418998	aze	Bizim su ehtiyatlarımız tükənir.
+4418999	aze	İnək bizi südlə təmin edir.
+4419000	hun	Lehetetlenség, hogy dél előtt odaérjek.
+4419001	swe	Här finns ingen mat, skåpet är ju alldeles tomt!
+4419002	aze	Bu məktəb şagirdləri dərsliklərlə təmin edir.
+4419003	aze	Onlar kəndi su ilə təmin etdilər.
+4419004	swe	"Mary, kunde du se efter Tom en halvtimme medan jag går till butiken?" "Jag är väl ingen barnflicka heller!"
+4419005	hun	Szemei az arcomat figyelték, hogy az igazat mondom-e.
+4419006	swe	Min svävare är full med ål.
+4419007	swe	Min svävare är full med ålar.
+4419008	hun	Támogatlak, amíg csak élek.
+4419009	epo	Mi ne povas fari ion por Tomo.
+4419010	aze	Çay daşdı.
+4419011	swe	"Hörde du Toms predikan i kyrkan i söndags?" "Jag går väl inte i kyrkan heller!"
+4419012	aze	Çay təhlükəlidir.
+4419013	rus	После того как зубной врач убил самого знаменитого льва в Зимбабве, защитники прав животных были возмущены тем, что он планировал повесить голову льва и густую, лоснящуюся гриву на стену в кабинете.
+4419014	hun	Míg csak élek, soha nem felejtem el a kedvességedet.
+4419015	aze	Bu çaydır?
+4419017	aze	Bu çay sürətlə axır.
+4419019	aze	Çay sakitcə axır.
+4419020	aze	O, çayı keçdi.
+4419021	epo	Mi ŝatas lin, ĉar li estas honestulo.
+4419022	ara	حَوّامتي مُمْتِلئة بِأَنْقَلَيْسون
+4419023	hye	Իմ օդաթիռը լի է օձաձկերով
+4419024	aze	Bu çay dayazdır?
+4419025	bre	Leun gant sili eo ma dourruzer
+4419027	aze	Çay quruyub.
+4419028	hun	A szülővárosom ismert a régi kastélyáról.
+4419029	yue	我隻氣墊船裝滿晒鱔
+4419030	epo	Dum la vintro la proksimaj faktoj alportis sovaĝan kontraston, elokventan per si mem. La rusa kaj japana imperioj militis inter si.
+4419031	cat	El meu aerolliscador està ple d'anguiles
+4419032	aze	Biz çaya getdik.
+4419033	cmn	我的氣墊船裝滿了鱔魚
+4419034	aze	Çay quruyur.
+4419035	hun	Előtted odaérek.
