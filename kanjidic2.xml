@@ -335,8 +335,8 @@
 	and KANJD212 files plus the kanji from JIS X 0213.
 -->
 <file_version>4</file_version>
-<database_version>2026-060</database_version>
-<date_of_creation>2026-03-01</date_of_creation>
+<database_version>2026-095</database_version>
+<date_of_creation>2026-04-05</date_of_creation>
 </header>
 <character>
 <literal>亜</literal>
@@ -5543,7 +5543,9 @@
 <reading r_type="vietnam">Hu</reading>
 <reading r_type="ja_on">ウ</reading>
 <reading r_type="ja_kun">いも</reading>
-<meaning>potato</meaning>
+<meaning>taro</meaning>
+<meaning>yam</meaning>
+<meaning>tuber</meaning>
 <meaning m_lang="fr">pomme de terre</meaning>
 <meaning m_lang="es">patata</meaning>
 <meaning m_lang="es">batata</meaning>
@@ -30066,7 +30068,7 @@
 <reading r_type="vietnam">Kỳ</reading>
 <reading r_type="ja_on">キ</reading>
 <reading r_type="ja_kun">はた</reading>
-<meaning>national flag</meaning>
+<meaning>flag</meaning>
 <meaning>banner</meaning>
 <meaning>standard</meaning>
 <meaning m_lang="fr">drapeau</meaning>
