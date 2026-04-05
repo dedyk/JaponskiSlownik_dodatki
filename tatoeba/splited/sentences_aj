@@ -1,6 +1,3 @@
-472142	rus	Покажите мне, пожалуйста, зеленую рубашку.
-472143	fra	Ceci a démontré la véracité de la rumeur.
-472144	rus	Старуха дает деньги под три процента.
 472145	fra	Je pense que tu pourrais avoir raison.
 472146	rus	Это была самая продаваемая книга на прошлой неделе.
 472147	rus	У тебя две книги.
@@ -1981,7 +1978,7 @@
 474246	fra	La provenance est tracée grâce à un identifiant attestant de la source de la transaction.
 474247	fra	Après validation du présent accord, <société> fournira au partenaire un document précisant les modalités techniques détaillées d'intégration.
 474248	fra	Le partenaire s'engage à verser à <société> les commissions suivantes sur les ventes réalisées par l'intermédiaire du service.
-474249	fra	<société> s'engage à tout mettre en œuvre pour maximiser les ventes des articles du partenaire, inclus dans le périmètre défini ci-dessous.
+474249	fra	La société s'engage à tout mettre en œuvre pour maximiser les ventes des articles du partenaire, inclus dans le périmètre défini ci-dessous.
 474250	fra	Quelle est la langue commune au Pérou ?
 474251	uig	قەشقەردە ئۇيغۇرلار كۆپ ساننى تەشكىل قىلىدۇ.
 474252	eng	Uyghurs comprise the majority in Kashgar.
@@ -5373,7 +5370,7 @@
 477807	fra	Utilisant l'espéranto avec lui, je sens que nous sommes tous les deux au même niveau, au moins du point de vue linguistique.
 477808	spa	Cuando usamos esperanto, estamos al mismo nivel, por lo menos, lingüístico.
 477809	bel	Калі мы выкарыстоўваем эсперанта, мы знаходзімся на адным і тым самым узроўні, па меншай мены моўным.
-477810	fra	En espéranto l’accent tonique se place toujours sur l’avant-dernière syllabe.
+477810	fra	En espéranto, l’accent tonique se place toujours sur l’avant-dernière syllabe.
 477811	spa	Comer con una familia en Pekín, esquiar con un buen amigo en Polonia, convivir con una buena amiga en Belgrado - son cosas que seguramente no habría hecho sin el esperanto.
 477812	epo	Kiam mi devis lerni la anglan en la lernejo, mi foje ekploris pro ĉiuj neregulaĵoj kaj strangaj reguloj.
 477813	epo	Tio ne okazis kiam mi lernis Esperanton.
@@ -5566,7 +5563,6 @@
 478003	deu	Ich begann, Esperanto zu lernen.
 478004	uig	دىما بىر كەچتە 25 ئەر بىلەن ئۇخلىدى، ئۇنىڭدىن كېيىن ئۇلارنى ئۆلتۈردى.
 478005	lat	Et tu, Brute?
-478006	eng	You too, Brutus?
 478007	rus	И ты, Брут?
 478008	eng	Using Esperanto with him, I sense that we both are at the same level, at least from a linguistic point of view.
 478009	ukr	І ти, Бруте?
@@ -7221,7 +7217,7 @@
 479807	deu	Er gestand seine Schuld.
 479808	dan	Alle veje fører til Rom.
 479809	deu	Ich mag Musik lieber als Sport.
-479810	fra	Le thaïlandais est la langue officielle de la Thaïlande.
+479810	fra	Le thaï est la langue officielle de la Thaïlande.
 479811	epo	Mi ne scias ĉu li venos.
 479812	dan	Hun tog til Amerika i forgårs.
 479813	fra	C'est du pareil au même.
@@ -7288,7 +7284,7 @@
 479881	ita	Chiamami!
 479882	epo	Ne diru mensogon. Estu honesta.
 479883	spa	El pequeño bote estaba a merced del viento.
-479884	deu	Erzähl' keine Lügen. Sei ehrlich.
+479884	deu	Erzähl keine Lügen. Sei ehrlich.
 479885	deu	Er sieht wie sein Vater aus.
 479886	spa	El resultado de E->J del programa de traducción puede ser mejorado grandemente por la manera como este es utilizado por el usuario.
 479887	epo	Li similas al sia patro.
@@ -7342,7 +7338,7 @@
 479936	fra	De bonnes nouvelles étaient en réserve pour nous à la maison.
 479937	pol	Jak to często z nim bywa, zostawił swój podręcznik w domu.
 479938	tur	Kim bilir?
-479939	fra	Les voeux de Pâques les plus chaleureux pour vous.
+479939	fra	Les vœux de Pâques les plus chaleureux pour vous.
 479941	fra	Le bébé dans le berceau est très mignon.
 479942	epo	Kie vi vidis tiujn virinojn?
 479943	deu	Wo hast du diese Frauen gesehen?
@@ -13592,7 +13588,7 @@
 486419	deu	Dieses Kind ist heute so sanft wie ein Lamm.
 486420	deu	Ich hielt ihn für seinen Bruder.
 486421	fra	Son amour de l'argent est sans bornes.
-486422	deu	Tu was immer du willst.
+486422	deu	Tu, was immer du willst!
 486423	fra	Pourquoi es-tu seul ?
 486424	fra	Pourquoi es-tu seule ?
 486425	deu	Ich wette 5 Dollar, dass er nicht kommen wird.
@@ -25012,7 +25008,7 @@
 498257	rus	Во сколько обойдётся тур?
 498258	rus	Всегда уступайте транспорту справа.
 498259	pol	W tej szkole standardy przyjęcia są niezwykle wysokie.
-498260	rus	Они - такие же сильные, как и мы.
+498260	rus	Они такие же сильные, как и мы.
 498261	pol	Gdzie byłeś zeszłej nocy?
 498262	rus	Если вам нечего делать, посмотрите на потолок вашей комнаты.
 498263	pol	Jeśli nie pójdziesz, ja też nie idę.
@@ -25058,7 +25054,7 @@
 498304	rus	Он играл на пианино.
 498305	rus	Дай мне это сделать по-другому.
 498306	pol	Mimo niemałych osiągnięć, nie chwali się.
-498307	rus	Сон - лучшее лекарство.
+498307	rus	Сон — лучшее лекарство.
 498308	rus	Я не могу думать обо всём.
 498309	pol	Chłopak wyglądał na zainteresowanego.
 498310	rus	Тебе лучше идти. Становится поздно.
@@ -25957,7 +25953,7 @@
 499325	tur	Onlar çukur kazıyorlar.
 499326	rus	Я в это не верю!
 499327	tur	Cevaplamak kolaydı.
-499329	rus	Осака - второй по величине город в Японии.
+499329	rus	Осака — второй по величине город в Японии.
 499330	tur	O ailesine sadık.
 499331	tur	O ailesine itaatkâr.
 499332	tur	Ona inanmıyorum!
@@ -27358,7 +27354,7 @@
 500800	fra	Il devra se rendre à la gare.
 500801	ukr	Твій велосипед такий самий, як і в мене.
 500802	fra	Le train doit arriver à l'heure.
-500803	ukr	Хлопець, який грає на гітарі - мій брат.
+500803	ukr	Хлопець, який грає на гітарі, - мій брат.
 500804	ukr	Ми не можемо спілкуватися у такій шумній кімнаті.
 500805	fra	Tu ferais tout aussi bien de lire un roman plutôt que de contempler le plafond.
 500806	fra	Vous feriez tout aussi bien de lire un roman plutôt que de contempler le plafond.
@@ -32136,7 +32132,7 @@
 505737	ukr	Ти можеш вибрати ціну.
 505738	epo	La knabo enpoŝigis la monon.
 505739	epo	Ĉiuj amas lin.
-505740	epo	"Jes mi faris ĝin" li diris.
+505740	epo	"Jes, mi faris ĝin", li diris.
 505741	ukr	Вони пофарбували свій будинок у яскраво-жовтий колір.
 505742	epo	Li bankrotis pro siaj ludoŝuldoj.
 505743	ukr	Його підвищили до посади завуча.
@@ -38613,7 +38609,7 @@
 512568	epo	Morgaŭ mi vizitos la domon de sinjoro Braun.
 512570	ukr	Гілка зігнулася під вагою снігу.
 512571	epo	Mari faris kukon sen la scio de sia patrino.
-512572	epo	Mi ankaŭ eliros tie.
+512572	epo	Ankaŭ mi eliros tie.
 512573	epo	Mi ne povis lin rekoni ĉar mi neniam vidis lin antaŭe.
 512574	ukr	Як добре вона куховарить!
 512575	epo	Mi respondecas pri lia honesteco, ĉar mi konas lin tre bone.
@@ -39752,7 +39748,7 @@
 513763	ukr	Ця дитина плакала годинами.
 513764	vie	Anh ấy nghèo, nhưng không vay tiền của ai.
 513765	vie	Họ của tôi là Wang.
-513766	rus	Image Viewer — программа для просмотра изображений. Это небольшая программа с базовой функциональностью. В её переводе могут участвовать пользователи проекта Tatoeba.
+513766	rus	Image Viewer — программа для просмотра изображений. Это небольшая программа с базовой функциональностью. В её переводе могут участвовать пользователи проекта Tatoeba.
 513767	rus	Пожалуйста, выберите язык интерфейса Image Viewer.
 513768	ukr	Яке місто тобі подобається більше, Лос-Анжелес чи Нью-Йорк?
 513769	rus	Сегодня очень холодно, правда?
@@ -42575,7 +42571,7 @@
 516737	rus	Я встретил своего бывшего ученика в Лондоне.
 516738	vie	Tôi đã từng làm việc tại một nhà hàng.
 516739	rus	Японец не в состоянии сделать такое.
-516740	rus	Токио - столица Японии.
+516740	rus	Токио — столица Японии.
 516741	rus	Среди этих шапок нет ни одной, нравящейся мне.
 516742	rus	Во-вторых, если мы будем жить в обычном номере, сколько будет стоить одна ночь?
 516743	rus	Он типичный японец.
@@ -45994,7 +45990,7 @@
 520342	yue	咁遲啲再見啦！
 520343	epo	Kio?! Vi ne plenumis viajn hejmtaskojn pro piedpilkludo, tio ja ne estas ekskuzo!
 520344	epo	En la domo regas konkordo.
-520345	epo	Se la vetero estas bela ni veturos promene.
+520345	epo	Se la vetero estos bela, ni faros ekskurseton per biciklo/aŭto.
 520346	cmn	他的薪金很高，所以生活也過得很舒適。
 520348	epo	La riskemaj viroj frostmortis dum ilia ekspedicio al la suda poluso.
 520349	epo	Permesu al mi prezenti al vi sinjoron Kato.
@@ -49998,3 +49994,7 @@
 524559	pol	Zalecenia doktora trzymały mnie z dala od picia za dużo.
 524560	pol	Powiedział: "Żegnajcie, moi przyjaciele" i odszedł.
 524561	eng	Enlightenment is man's leaving his self-imposed immaturity.
+524562	pol	Nikt z nas nie był na Hawajach.
+524563	pol	Będziemy okropnie tęsknić jeżeli opuścisz Japonię.
+524564	spa	¿No tienes nada que hacer?
+524565	pol	Gramy w tenisa po szkole.

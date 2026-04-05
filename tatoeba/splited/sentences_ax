@@ -1,41 +1,3 @@
-1212882	tur	Büyükannem her zaman soğuktan şikâyet ediyor.
-1212884	por	Continue sorridente.
-1212885	tur	Büyükannem bu kasabada en yaşlıdır.
-1212886	por	Seu nariz está escorrendo!
-1212887	por	Seu nariz está pingando!
-1212888	por	Você está rindo de mim?
-1212889	epo	Vi tre mankos al viaj amikoj, kiam vi forestos.
-1212890	tur	Büyükannem gece huzur içinde öldü.
-1212891	epo	Mi iomete memoras tiun libron, sed mi ne tute memoras ĝian enhavon.
-1212892	tur	Büyükannem giderek unutkan ve kırılgan oluyor.
-1212893	por	Estou tão gordo.
-1212894	por	Eu sou tão gordo.
-1212895	tur	Büyükanne çok iyi görünüyordu.
-1212896	epo	Philip pli lertas ol vi.
-1212897	tur	Büyükanne masayı kendi başına taşıdı.
-1212899	tur	Büyükannem sadece yumuşak gıdaları yiyebilir.
-1212900	epo	Kiun avantaĝon havas tiu teĥnikaro?
-1212901	tur	Büyükannem yavaş konuşur.
-1212902	epo	Dezirante ripozi mi ekkuŝis sur la benko de la placo kaj al mi nur venis nebulaj memoroj.
-1212903	por	Quero vê-la.
-1212904	por	Eu gosto de desenhar.
-1212905	por	Eu adorava nadar.
-1212906	epo	Mi alktutimiĝis al loĝado en Usono.
-1212907	por	Eu esquio com frequência.
-1212908	por	Eu adoro golfe.
-1212909	por	Não minta para mim!
-1212910	tur	Büyükannem hemen hemen her gün bir yürüyüş için dışarı çıkardı fakat şimdi o nadiren, kırk yılda bir, dışarı çıkar.
-1212911	epo	Ĉio kio restas al mi de miaj geavoj estas malklaraj memoraĵoj.
-1212912	tur	Büyükanne, Çin ilaçlarının en iyi olduğuna inanıyor.
-1212913	epo	Tiu loko nur portas al ni belajn memoraĵojn.
-1212914	epo	Plej multaj evoluigistoj malŝatas forigi erarojn; pli plezurigas fari erarojn ol korekti ilin.
-1212915	por	Problema nenhum!
-1212916	epo	Kiajn memoraĵojn vi konservas de via junaĝo?
-1212917	por	Divirta-se!
-1212918	tur	Büyükannem dün gece huzur içinde öldü.
-1212919	epo	En kiun dosierujon vi metis la dosieron?
-1212920	por	Eu vivo na cidade.
-1212921	tur	Ben onu ziyaret ettiğimde büyükannem bir haftadır hastaydı.
 1212922	epo	"Ĉu vi volas postlasi mesaĝon?" "Ne, dankon".
 1212923	jpn	彼らはご近所と仲がいい。
 1212924	tur	Büyükannem bana Külkedisi hikayesini anlattı.
@@ -17164,7 +17126,7 @@
 1231212	lzh	震之聲, 可以鍾鼓寫。
 1231213	cmn	放下。
 1231214	cmn	走開。
-1231215	cmn	穿上.
+1231215	cmn	穿上。
 1231216	cmn	拿走。
 1231218	eng	Put it on.
 1231221	deu	Heute habe ich ihr meine Liebe gestanden. Ich habe gesagt: „Ich habe mich in dich verliebt.“ Danach wusste sie zuerst nicht, was sie sagen soll. Es vergingen Minuten, bis sie schließlich sagte: „Das geht alles ein bisschen zu schnell. Ich möchte dich erst besser kennenlernen.“
@@ -18856,7 +18818,7 @@
 1232959	epo	Tom ne sciis kun certeco, kiom kostos la nova komputilo.
 1232960	epo	Tom ne sciis, ke pomarboj kreskas el semoj.
 1232961	epo	Tom ne sciis ion ajn.
-1232962	epo	Tom ne plenumis sian promeson.
+1232962	epo	Tomo ne plenumis sian promeson.
 1232963	spa	Tom encontró otro trabajo.
 1232964	spa	Me están saliendo las muelas del juicio.
 1232965	spa	Me está saliendo una muela del juicio.
@@ -18977,7 +18939,7 @@
 1233086	epo	Iu ŝtelis monon el la tendo de Tom.
 1233087	spa	Mucha gente está interesada en acampar.
 1233088	spa	Ahora mucha gente está intentando vender sus casas.
-1233089	spa	Mucha gente está esperando ver qué pasa.
+1233089	spa	Mucha gente está esperando a ver qué pasa.
 1233090	epo	Nun multaj homoj provas vendi siajn domojn.
 1233091	spa	Muchas personas que hasta ahora se han pasado gastando dinero en pasar un buen rato ahora deben ser más cuidadosas con su dinero.
 1233092	epo	Multajn homojn interesas kampado.
@@ -19850,8 +19812,7 @@
 1233990	epo	La fenomeno intereso estas mem interesa temo.
 1233991	fra	Cette marchandise est bon marché mais ne vaut pas son prix. Pour une qualité si minable, même offerte, c'est encore trop cher.
 1233992	epo	La ekscitita virino provis unuspire klarigi la akcidenton.
-1233993	ind	saya harus pulang
-1233994	ind	Saya harus pulang
+1233993	ind	Saya harus pulang.
 1233995	deu	Die Chancen sind so, dass du den Test bestehen kannst.
 1233996	fra	Ne te laisse pas intimider par son titre universitaire, elle n'est pas plus maligne que les autres !
 1233997	epo	La varo estas malmultekosta, sed ne prezadekvata. Ĉe tiu aĉa kvalito ĝi eĉ donace kostus tro.
@@ -20391,7 +20352,7 @@
 1234573	spa	¿Estás pensando seriamente en irte?
 1234574	spa	¿Estás pensando seriamente en tener un bebé?
 1234575	epo	Perry vizitis Uraga-n en 1853.
-1234576	spa	Esto quiere decir que las casas se están comenzando a hundir, las rutas a romper, y las postes de luz a inclinarse en ángulos disparatados.
+1234576	spa	Esto quiere decir que las casas se están comenzando a hundir, las rutas a romper, y los postes de luz a inclinarse en ángulos disparatados.
 1234577	tur	Ben kız kardeşim ile yemek yiyorum.
 1234578	tur	Emily, çay töreni ve çiçek düzenlemesi ile çok ilgileniyor.
 1234579	epo	Mi havas foton pri flughaveno.
@@ -23059,7 +23020,6 @@
 1237428	spa	Tom estaba fuera todo el día.
 1237429	ita	Quando l'acqua tocca il culo s'impara a nuotare.
 1237431	eng	I am very curious about it!
-1237432	spa	En cuanto haya naciones soberanas en posesión de un gran poder, la guerra es inevitable.
 1237433	ita	Sarà una sorpresa!
 1237434	eng	It will be a surprise!
 1237435	eng	It'll be a surprise!
@@ -40570,7 +40530,6 @@
 1256611	tur	O yakın yaşıyor.
 1256612	tur	O kısa süre sonra geri geldi.
 1256613	tur	O öyle söylemedi.
-1256614	eng	Whomever goes to church believes in God.
 1256615	spa	Colgó su abrigo en un perchero, porque hacía mucho calor.
 1256616	tur	O takımdadır.
 1256617	tur	O o kadar uzun boylu değil.
@@ -43062,7 +43021,7 @@
 1259333	hun	A tengert csodálod, amíg meg nem járod.
 1259334	deu	Windhosen sind keine Kleidungsstücke.
 1259335	eng	One who is blinded by love admires even a monster.
-1259336	epo	Oni maron admiras, se maron ne iras.
+1259336	epo	Oni admiras la maron, dum oni ne vojaĝas tra ĝi.
 1259337	fra	Mais, ça m'a plu de travailler à la ferme.
 1259338	hun	Bámultam a tehetségét.
 1259339	epo	Mi admiris lian talenton.
@@ -43311,7 +43270,6 @@
 1259603	fra	A-t-il besoin de courir si vite ?
 1259604	spa	Disculpe, necesito bajar en la siguiente estación.
 1259605	fra	Doit-il courir si vite ?
-1259606	fra	A-t-il des enfants ?
 1259607	fra	A-t-il le moindre enfant ?
 1259608	epo	Ŝi estas simple la knabino, kiu loĝas apude.
 1259609	fra	Je lui fais confiance.
@@ -44540,7 +44498,7 @@
 1260922	deu	Er hatte die längsten Augenbrauen, die ich je gesehen habe.
 1260923	deu	Ich spreche morgen mit dir.
 1260924	deu	Ich werde morgen mit dir sprechen.
-1260925	deu	Sie kann Skifahren und Schlittschuhlaufen.
+1260925	deu	Sie kann Ski fahren und Schlittschuh laufen.
 1260926	eng	Hunger is one of the largest social misfortunes.
 1260927	deu	Alle Kinder waren mit ihren Mahlzeiten zufrieden.
 1260928	deu	Es ist nicht an jedem Tag Sonntag.
@@ -45286,7 +45244,7 @@
 1261733	epo	La instruisto admonis la lernantojn al diligenteco.
 1261734	fra	Le fait que je sois nu-pieds le dérangeait apparemment plus que toute autre chose.
 1261735	hun	Legalább figyelmeztetnéd őket, hogy az illedelmes beszédben ne használják a szót.
-1261737	epo	Vi povus almenaŭ admoni ilin, ke ili en deca parolo ne uzu la vorton….!
+1261737	epo	Vi povus almenaŭ admoni ilin, ke ili en deca parolo ne uzu la vorton ...!
 1261738	epo	Nia klaslernado ekas je la naŭa horo, sed li nur venis kvaronon poste.
 1261740	hun	Megrótt, hogy ne keveredjek az ő ügyeikbe.
 1261741	epo	Li admonis min, ke mi ne miksu min en iliajn aferojn.
@@ -49998,3 +49956,45 @@
 1267950	lat	Didymus bonam auditionem habet.
 1267951	ita	Tom non ha chiuso occhio.
 1267952	ita	Tom non chiuse occhio.
+1267953	spa	No consigo figurar cómo transferir los archivos MP3 de mi iPod de regreso a mi computadora.
+1267954	ita	Non ho chiuso occhio la scorsa notte.
+1267955	ita	Non ha chiuso occhio.
+1267956	ita	Lui non ha chiuso occhio.
+1267957	ita	Non chiuse occhio.
+1267958	ita	Lui non chiuse occhio.
+1267959	ita	Tom non è riuscito a chiudere occhio la scorsa notte.
+1267960	eng	Usually I don't sleep a wink at night.
+1267961	ita	Di solito non chiudo occhio di notte.
+1267962	ita	Solitamente non chiudo occhio di notte.
+1267963	ita	Il matrimonio fu celebrato alle dieci.
+1267964	lat	Rosa rubra in vase est.
+1267965	epo	La geedziĝo estis celebrata je la deka.
+1267966	ita	Con questo rumore non sono riuscito a chiudere occhio.
+1267967	ita	Con questo rumore non sono riuscita a chiudere occhio.
+1267968	ita	Tom non ha chiuso occhio la scorsa notte.
+1267969	ita	La scorsa notte non sono riuscito a chiudere occhio.
+1267970	ita	La scorsa notte non sono riuscita a chiudere occhio.
+1267971	ita	Sono riuscito a malapena a chiudere occhio la scorsa notte.
+1267972	ita	Sono riuscita a malapena a chiudere occhio la scorsa notte.
+1267973	ita	Tom non parla francese da anni.
+1267974	ita	Tom non parla in francese da anni.
+1267975	ita	Tom era stupito quando ha sentito la notizia.
+1267976	ita	Tom era stupito quando sentì la notizia.
+1267977	spa	Él miró hacia atrás sobre su hombro.
+1267978	ita	Quel falegname costruisce bei mobili.
+1267979	epo	Tiu meblisto konstruas belajn meblojn.
+1267980	eng	What’s the first movie that comes to your mind?
+1267981	ita	Tom non si è ancora deciso.
+1267982	ita	Tom aveva sentito che Mary aveva preso il raffreddore.
+1267983	ita	Tom ha sentito la campana del tempio da lontano.
+1267984	ita	Tom sentì la campana del tempio da lontano.
+1267985	ita	Tom spera di vederti lì.
+1267986	ita	Tom spera di vedervi lì.
+1267987	ita	Tom spera di vederla lì.
+1267988	ita	Tom spera che parlerai com Mary.
+1267989	ita	Tom spera che parlerete con Mary.
+1267990	ita	Tom spera che parlerà con Mary.
+1267991	ita	Tom ha invitato Mary a pranzo fuori.
+1267992	ita	Tom ha invitato Mary a pranzare fuori.
+1267993	ita	Tom invitò Mary a pranzo fuori.
+1267994	ita	Tom invitò Mary a pranzare fuori.

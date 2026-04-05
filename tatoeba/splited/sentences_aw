@@ -1,33 +1,3 @@
-1158139	fra	Il conduisait à plus de 120 k/h lorsque l'accident survint.
-1158140	fra	Le sommet de la montagne est de 2000 mètres au dessus du niveau de la mer.
-1158141	fra	Dans ma ville, la température est un degré au-dessus de zéro.
-1158142	epo	Ŝia dekstra okulo blindas.
-1158143	fra	Pourquoi l'hélicoptère survole-t-il la ville ?
-1158144	fra	Est-ce que ces fruits sont vendus au poids ou à la pièce?
-1158145	fra	Mon fils aime les livres sur les animaux.
-1158146	tur	Askerler gıdalarını Hintliler ile paylaştı.
-1158147	fra	Demande-lui de parler plus fort. Il est incompréhensible.
-1158148	fra	Nous devrions être en mesure de l'aider.
-1158149	tur	Ordu, madencileri uzaklaştırmak için asker gönderdi.
-1158150	fra	J'étais capable de tricoter.
-1158151	tur	Askerler cinayet için mahkemede yargılandılar.
-1158152	lat	"Gratias." "Libenter."
-1158153	lat	Libenter.
-1158154	fra	Un jour, tu seras capable de marcher.
-1158155	tur	Fort Moultrie'nin yetmişten daha az sayıda askeri vardı.
-1158156	heb	הצלחתי להספיק לרכבת האחרונה.
-1158157	fra	Désolé, je ne peux pas le faire.
-1158158	fra	Désolé mais je suis incapable de le faire.
-1158159	heb	אני לא יודע אם לפנות ימינה או שׂמאלה.
-1158160	spa	¿No tienes hambre?
-1158161	fra	Ces fruits sont-ils vendus au poids ou à la pièce?
-1158162	fra	Tom peut marcher sur les mains.
-1158163	tur	Bir gün Londra'yı ziyaret etmek istiyorum.
-1158164	epo	Tiuj fruktoj estas vendataj ĉu laŭpeze aŭ ĉu popece?
-1158165	fra	Les gens sont incapables de suivre ces lois.
-1158166	tur	Bu kağıdı kesmek için bir makasa ihtiyacım var.
-1158167	heb	תוכל לתת לי קצת כסף?
-1158168	fra	Comment puis-je me sacrifier pour quelque-chose en lequel je ne crois pas ?
 1158169	heb	השלם גדול מסכום חלקיו.
 1158170	heb	דודתי נראית צעירה.
 1158171	fra	Ils sont vendus à la pièce.
@@ -836,7 +806,6 @@
 1159101	fra	Quand cela surviendra-t-il ?
 1159102	fra	Quand cela arrivera-t-il ?
 1159103	fra	As-tu déjà fini ?
-1159104	fra	Avez-vous déjà fini ?
 1159105	fra	Y a-t-il des nouvelles ?
 1159106	fra	Comment le fais-tu ?
 1159107	fra	Comment le faites-vous ?
@@ -941,7 +910,6 @@
 1159221	fra	Aimerais-tu disposer de beaucoup d'argent ?
 1159222	fin	Lopulta hän sai hyvän ajatuksen.
 1159223	fra	Aimeriez-vous disposer de beaucoup d'argent ?
-1159225	fra	Que voulez-vous dire ?
 1159226	fin	Suoraan sanoen hän on väärässä.
 1159227	fin	Mitä vaikeampia kysymykset ovat, sitä epätodennäköisempää on, että pystyn vastaamaan niihin.
 1159228	fra	Quelle est la cause ?
@@ -1088,9 +1056,7 @@
 1159378	fra	T'es-tu bien divertie ?
 1159379	fin	Miten pitkä olette ja paljonko painatte?
 1159380	nds	Ik heff dat von di lehrt.
-1159381	fra	M'avez-vous compris ?
 1159382	fra	M'avez-vous comprise ?
-1159383	fra	M'as-tu compris ?
 1159384	fra	M'as-tu comprise ?
 1159385	fra	De qui l'as-tu appris ?
 1159386	fra	Par qui l'as-tu appris ?
@@ -1247,9 +1213,9 @@
 1159557	fra	À quel sujet est la question ?
 1159558	fra	Depuis quand avez-vous des contractions régulières ?
 1159559	fra	À quoi est-ce utile ?
-1159560	fra	À quelle heure viendrez-vous ?
+1159560	fra	À quelle heure viendrez-vous ?
 1159561	tur	Onu bu hastaneye koymak gerekli değildir.
-1159562	fra	À quelle heure viendras-tu ?
+1159562	fra	À quelle heure viendras-tu ?
 1159563	tur	Onun sevgisini kazandı.
 1159564	fra	Pouvez-vous me dire ?
 1159565	fra	Peux-tu me dire ?
@@ -10584,7 +10550,6 @@
 1170450	eng	Do cats eat bats or do bats eat cats?
 1170451	fra	Ma femme est Polonaise.
 1170452	epo	Ĉu manĝas katoj vespertojn aŭ ĉu manĝas katojn vespertoj?
-1170453	fra	Quel train prends-tu ?
 1170454	fra	Cet homme est terrible.
 1170455	fra	Elle est étudiante.
 1170456	fra	La première fois que j'ai touché à un piano, j'avais 14 ans.
@@ -21930,7 +21895,7 @@
 1182426	rus	Они выиграли серебряную медаль.
 1182427	spa	Tom espera que Mary pueda venir a su casa esta tarde.
 1182428	rus	Мы выиграли бронзовую медаль.
-1182429	rus	Он сказал мне, что его отец - учитель.
+1182429	rus	Он сказал мне, что его отец — учитель.
 1182430	rus	Том никогда не хотел разводиться.
 1182431	heb	אני לא יודע אם הוא היה עושה זאת עבורי.
 1182432	heb	אני לא יודעת אם הוא היה עושה זאת עבורי.
@@ -23000,7 +22965,6 @@
 1183558	fin	Hän tarjosi meille apuaan.
 1183559	epo	"Kiam vi leviĝas?" "Je la 8a horo."
 1183560	lat	Hanc pelliculam aspicere volo.
-1183562	fra	As-tu des questions ?
 1183563	sqi	Ajo nuk ka më shumë se dymbëdhjetë këlyshër.
 1183564	fra	Il regarda dans ses yeux et soudain s'en alla.
 1183565	epo	Ŝi ne ĉiam feliĉas.
@@ -24505,7 +24469,7 @@
 1185141	ron	Tom n-ar fi trebuit să-și compare profesorul cu Hitler.
 1185142	ron	Tom n-a renunțat la plan.
 1185143	epo	Ĉiuj lingvoj havas dialektojn.
-1185144	ron	Ai putea spune că-i mincinos, dar nu poţi spune că-i om rău.
+1185144	ron	Ai putea spune că-i mincinos, dar nu poți spune că-i om rău.
 1185145	ron	Concertul va avea loc vara viitoare.
 1185146	epo	Sur la mondo ekzistas multaj lingvoj.
 1185147	ita	Si comincia a scavare il fondo del pozzo.
@@ -24603,7 +24567,7 @@
 1185245	fin	Siitä josta ei voi puhua, on vaiettava.
 1185246	fin	Mustat kissat tuovat epäonnea.
 1185247	fin	Haluaisin nähdä sen.
-1185248	ron	Vrea să fie soţul la fiecare nuntă și decedatul la fiecare înmormântare.
+1185248	ron	Vrea să fie soțul la fiecare nuntă și decedatul la fiecare înmormântare.
 1185249	ron	Un măr pe zi ține doctorul departe.
 1185250	fin	Pyysin häneltä neuvoa.
 1185251	ron	Te rog să te întorci de-ndată.
@@ -28500,7 +28464,6 @@
 1189370	deu	Gibt es in Ägypten auch ganz kleine Pyramiden, für Arme?
 1189371	ell	Με ποιο λεωφορείο θα πάω στο νοσοκομείο;
 1189372	fra	Merci pour votre confiance indéfectible.
-1189373	fra	À qui ai-je l'honneur?
 1189374	fra	Y a-t-il également en Égypte de toutes petites pyramides pour les pauvres ?
 1189375	epo	La necesejo ĉi tie en la hotelo estas de supera klaso!
 1189376	fra	Chaque religion interdit le meurtre.
@@ -29221,7 +29184,7 @@
 1190126	spa	Yo tuve relaciones con una mujer Soviética-Americana.
 1190128	spa	Yo sé que cntrational está interesado en el Lojban.
 1190129	spa	Él es mi jefe.
-1190130	spa	¿Es tu socio un americano?
+1190130	spa	¿Tu colega es americano?
 1190131	spa	El profesor es chino.
 1190132	epo	La spektaklo komenciĝas.
 1190133	spa	Chen no es americano.
@@ -29270,7 +29233,7 @@
 1190178	epo	Li promenadis, akompanata de siaj lernantoj.
 1190179	epo	Mi estas la zorganto de tiu ĉi infano, kaj ĝi estas mia zorgato.
 1190180	epo	Via kuracato estas mia konato.
-1190181	epo	Ŝi ofte sonĝas mortintojn.
+1190181	epo	Ŝi ofte sonĝas pri mortintoj.
 1190182	epo	Akuzito, kion vi povas diri por pravigi vin?
 1190183	epo	Ŝi estas en la kvara monato de naskonteco.
 1190184	epo	La juĝejo estis jam plena, kaj oni enkondukis la juĝoton.
@@ -29922,7 +29885,7 @@
 1190867	tur	Tom'un çalışmak için fazla zamanı yoktu.
 1190868	tur	Tom öğle yemeği yemedi.
 1190869	spa	Mi padre me construyó una nueva casa.
-1190870	epo	Mi neniam sonĝas, ĉu tio estas normala?
+1190870	epo	Mi neniam sonĝas. Ĉu tio estas normala?
 1190871	tur	Tom'un başka bir şey yapacak yeterli zamanı yoktu.
 1190872	spa	Estoy en la biblioteca.
 1190873	tur	Tom'un otomattan bir içecek satın almak için yeterli bozuk parası yoktu.
@@ -30073,7 +30036,7 @@
 1191020	deu	Zieh deinen Mantel aus.
 1191021	oci	N'i a pas arren mei important que la santat.
 1191022	fra	S'il vous plait, remplissez ce formulaire avec votre nom et votre adresse.
-1191023	fra	Veuillez, s'il vous plait, remplir ce formulaire ?
+1191023	fra	Veuillez, s'il vous plait, remplir ce formulaire.
 1191024	oci	A maugrat deu son riquèr, n'ei pas brica urós.
 1191025	oci	Qu'ei asseduda sus comuns.
 1191026	fra	Remplissez ce formulaire.
@@ -31471,7 +31434,7 @@
 1192492	epo	Mi ne scias, kiun planon li provos.
 1192493	tur	Tom, Mary'yi rahat bırakmadı.
 1192495	tur	Tom Mary'nin hislerini hiç dikkate almadı.
-1192496	epo	Mi bezonas vian kooperadon.
+1192496	epo	Mi bezonas vian kunlaboron.
 1192497	tur	Tom bir cenazeye gitmek zorunda olduğu için bugün okula gelmedi.
 1192498	pol	Usłyszałem wołanie o pomoc.
 1192499	pol	Usłyszałam wołanie o pomoc.
@@ -47638,7 +47601,6 @@
 1210251	spa	A pesar de la adversidad, el arquitecto consiguió fama mundial.
 1210252	spa	La adversidad es la mejor escuela.
 1210253	spa	¿Por qué Tom haría algo así?
-1210254	spa	Se ha demostrado en la mayoría de los estudios en este tópico que la intervención en la legislatura tuvo efectos adversos.
 1210255	por	Por que Tom faria algo assim?
 1210256	spa	Ellos deben haber peleado contra la adversidad desde sus primeros días.
 1210257	spa	¿Ocurre alguna reacción adversa?
@@ -49998,3 +49960,41 @@
 1212879	por	Abre os teus olhos.
 1212880	epo	Lia rakonto tro ridindis por esti kredata de iu ajn.
 1212881	por	Onde vivem eles?
+1212882	tur	Büyükannem her zaman soğuktan şikâyet ediyor.
+1212884	por	Continue sorridente.
+1212885	tur	Büyükannem bu kasabada en yaşlıdır.
+1212886	por	Seu nariz está escorrendo!
+1212887	por	Seu nariz está pingando!
+1212888	por	Você está rindo de mim?
+1212889	epo	Vi tre mankos al viaj amikoj, kiam vi forestos.
+1212890	tur	Büyükannem gece huzur içinde öldü.
+1212891	epo	Mi iomete memoras tiun libron, sed mi ne tute memoras ĝian enhavon.
+1212892	tur	Büyükannem giderek unutkan ve kırılgan oluyor.
+1212893	por	Estou tão gordo.
+1212894	por	Eu sou tão gordo.
+1212895	tur	Büyükanne çok iyi görünüyordu.
+1212896	epo	Philip pli lertas ol vi.
+1212897	tur	Büyükanne masayı kendi başına taşıdı.
+1212899	tur	Büyükannem sadece yumuşak gıdaları yiyebilir.
+1212900	epo	Kiun avantaĝon havas tiu teĥnikaro?
+1212901	tur	Büyükannem yavaş konuşur.
+1212902	epo	Dezirante ripozi mi ekkuŝis sur la benko de la placo kaj al mi nur venis nebulaj memoroj.
+1212903	por	Quero vê-la.
+1212904	por	Eu gosto de desenhar.
+1212905	por	Eu adorava nadar.
+1212906	epo	Mi alktutimiĝis al loĝado en Usono.
+1212907	por	Eu esquio com frequência.
+1212908	por	Eu adoro golfe.
+1212909	por	Não minta para mim!
+1212910	tur	Büyükannem hemen hemen her gün bir yürüyüş için dışarı çıkardı fakat şimdi o nadiren, kırk yılda bir, dışarı çıkar.
+1212911	epo	Ĉio kio restas al mi de miaj geavoj estas malklaraj memoraĵoj.
+1212912	tur	Büyükanne, Çin ilaçlarının en iyi olduğuna inanıyor.
+1212913	epo	Tiu loko nur portas al ni belajn memoraĵojn.
+1212914	epo	Plej multaj evoluigistoj malŝatas forigi erarojn; pli plezurigas fari erarojn ol korekti ilin.
+1212915	por	Problema nenhum!
+1212916	epo	Kiajn memoraĵojn vi konservas de via junaĝo?
+1212917	por	Divirta-se!
+1212918	tur	Büyükannem dün gece huzur içinde öldü.
+1212919	epo	En kiun dosierujon vi metis la dosieron?
+1212920	por	Eu vivo na cidade.
+1212921	tur	Ben onu ziyaret ettiğimde büyükannem bir haftadır hastaydı.

@@ -1,80 +1,3 @@
-2011822	eng	Tom wants to stop Mary.
-2011823	eng	Tom won't want to wait.
-2011824	eng	Tom wouldn't want that.
-2011825	eng	Tom wouldn't want this.
-2011826	eng	We all want to go home.
-2011827	eng	We do anything we want.
-2011828	eng	We don't want this one.
-2011829	eng	We don't want you here.
-2011830	eng	We want our money back.
-2011831	eng	We want the same thing.
-2011832	eng	We want Tom to say yes.
-2011833	eng	We want you to help us.
-2011834	eng	We want you to join us.
-2011835	eng	We want you to take it.
-2011836	eng	Where do you want this?
-2011837	eng	Who wants french toast?
-2011838	eng	Who'd want to hire Tom?
-2011839	eng	Who would want to hire Tom?
-2011840	eng	Who'd want to kill Tom?
-2011841	eng	Who would want to kill Tom?
-2011842	eng	Why does Tom want this?
-2011843	eng	Wouldn't you want that?
-2011844	eng	You want me to come in?
-2011845	eng	Did you want to come in?
-2011846	eng	Did you want to join us?
-2011847	eng	Do you really want this?
-2011848	eng	Do you still want these?
-2011849	eng	Do you still want to go?
-2011850	eng	Do you want some coffee?
-2011851	eng	Do you want this guitar?
-2011852	eng	Do you want this or not?
-2011853	eng	Do you want to go there?
-2011854	eng	Do you want to know why?
-2011855	eng	Do you want to see this?
-2011856	eng	Do you want to stop Tom?
-2011857	eng	Do you want to tell Tom?
-2011858	eng	Do you want Tom to stay?
-2011859	eng	Do you want Tom to wait?
-2011860	eng	Does anybody want these?
-2011861	eng	Does Tom want to see me?
-2011862	eng	Don't you want a cookie?
-2011863	eng	Eat as much as you want.
-2011864	eng	How could you want that?
-2011865	eng	I don't want any coffee.
-2011866	eng	I don't want to be here.
-2011867	eng	I don't want to be shot.
-2011869	eng	I don't want to do this.
-2011870	eng	I don't want to go back.
-2011871	eng	I don't want to go home.
-2011872	eng	I don't want to see Tom.
-2011873	eng	I don't want to see you.
-2011874	eng	I don't want to sue Tom.
-2011875	eng	I don't want Tom to die.
-2011876	eng	I don't want you to die.
-2011877	eng	I don't want your money.
-2011878	eng	I don't want your stuff.
-2011879	eng	I just want to be clear.
-2011880	eng	I just want to be ready.
-2011881	eng	I just want to find Tom.
-2011882	eng	I just want to help Tom.
-2011883	eng	I just want to help you.
-2011884	eng	I just want to know why.
-2011885	eng	I know Tom will want it.
-2011886	eng	I know you want to help.
-2011887	eng	I sure don't want to go.
-2011888	eng	I want a little brother.
-2011889	eng	I want a pair of gloves.
-2011890	eng	I want a second opinion.
-2011891	eng	I want an honest answer.
-2011892	eng	I want more information.
-2011893	eng	I want something better.
-2011894	eng	I want this room sealed.
-2011895	eng	I want this to be yours.
-2011896	eng	I want to be around you.
-2011897	eng	I want to be left alone.
-2011898	eng	I want to check out now.
-2011899	eng	I want to do a good job.
 2011900	eng	I want to do it for you.
 2011901	eng	I want to do it tonight.
 2011902	eng	I want to do this alone.
@@ -1832,7 +1755,6 @@
 2013745	fra	Quand voulez-vous que je commence ?
 2013746	fra	Quand veux-tu que je commence ?
 2013747	fra	Cette voiture vaut une fortune.
-2013749	fra	Que voulez-vous que je fasse ?
 2013750	fra	Actuellement nous ne l'avons pas en stock.
 2013751	spa	Una peluquería no es una tienda de pelucas.
 2013752	epo	Mi eble ne havas multan monon, sed mi almenaŭ vivas memstare.
@@ -2177,7 +2099,6 @@
 2014095	rus	Сорока на хвосте принесла мне, что ты здесь.
 2014096	spa	Ella pintó la pared de rosa.
 2014097	tur	Muhtemelen yalnız olmak istersin.
-2014099	rus	Мой дом - твой дом.
 2014100	uig	شەك_شۈيھىسىزكى، ئۇ گۇناھسىز.
 2014101	epo	Li pridemandadis ŝin, ĝis ŝi diris al li, kion li volis scii.
 2014103	tur	Bunu çok fazla istemelisin.
@@ -11977,7 +11898,7 @@
 2024815	heb	תסתפר.
 2024816	eng	Your feedback is important and it will help us to know how we can provide the best service possible.
 2024817	heb	לך למספרה.
-2024818	nld	Is deze interessante functie net waar je naar op zoek bent? Reageer dan snel met je cv en motivatie.
+2024818	nld	Is deze interessante functie net waar je naar op zoek bent? Reageer dan snel met je cv en motivatiebrief.
 2024819	heb	לך לסַפָּר.
 2024820	heb	אולי תאכל איתנו ארוחת ערב?
 2024821	fra	Cette intéressante fonction est-elle précisément ce que tu recherches ? Alors réagis vite avec ton CV et ta lettre de motivation.
@@ -12215,7 +12136,6 @@
 2025068	fra	Venez rencontrer tout le monde !
 2025069	fra	As-tu perdu du poids ?
 2025070	heb	האישה הזאת דווקא יודעת שהיא אינה יודעת מה היא רוצה.
-2025071	fra	Avez-vous perdu du poids ?
 2025072	fra	As-tu le choix ?
 2025073	fra	Avez-vous le choix ?
 2025074	fra	Avons-nous besoin d'un plan de secours ?
@@ -22675,7 +22595,6 @@
 2036183	fra	Sais-tu réparer des toilettes ?
 2036184	epo	Sheila kaj mi estas malnovaj amikoj.
 2036185	fra	Quiconque a-t-il été blessé ?
-2036187	fra	Ai-je manqué quelque chose ?
 2036188	fra	Cela s'est-il bien passé aujourd'hui ?
 2036189	por	Que você seja feliz, Ricardo.
 2036190	epo	Ni kalkulas je via helpo.
@@ -23478,7 +23397,6 @@
 2037060	rus	Том неверен.
 2037061	tur	Tom sarışınları sever.
 2037062	tur	Tom onu soğuk sever.
-2037065	fra	Avez-vous soif ?
 2037067	rus	Том не в тюрьме.
 2037068	rus	Том выглядит раздражённым.
 2037069	fra	Tout ce que je veux faire à l'instant, c'est de dormir pendant quelques heures.
@@ -25580,7 +25498,7 @@
 2039300	spa	Mi hermano es veterinario.
 2039301	spa	Tom y Mary son amigos desde que eran pequeños.
 2039302	fra	L'institution publique n'existe plus, et ne peut plus exister, parce qu'où il n'y a plus de patrie, il ne peut plus y avoir de citoyens. Ces deux mots patrie et citoyen doivent être effacés des langues modernes.
-2039303	epo	Estas la fino de la ludado.
+2039303	epo	Tio estas la fino de la ludado.
 2039304	tur	Bir sabıkalı mısın?
 2039305	cmn	公共的机关已不再存在了，而且也不可能存在下去，因为在没有国家的地方，是不会有公民的。“国家”和“公民”这两个辞应该从现代的语言中取消。
 2039306	por	Quer formar uma ideia sobre educação pública? Leia "A República", de Platão. Esse não é um livro de política, como pensam os que só julgam os livros pelo título; é, pois, o mais belo tratado de educação já feito.
@@ -34965,12 +34883,10 @@
 2049317	spa	Tuve cuidado de no dejar ninguna prueba.
 2049318	fra	Tes amis ont l'air gentil.
 2049320	spa	Tengo que elegir mis palabras con mucho cuidado.
-2049321	fra	Le film t'a-t-il plu ?
 2049322	tur	Ben bir kamyon şoförüyüm.
 2049323	spa	Deberías tener más cuidado la próxima vez.
 2049324	ber	Neḥwaj idrimen.
 2049325	ber	Nesri i yedrimen.
-2049326	fra	Le film vous a-t-il plu ?
 2049327	fra	Vous avez besoin d'argent.
 2049328	fra	Ton repas t'a-t-il plu ?
 2049329	ber	Teḥwajem idrimen.
@@ -36169,7 +36085,7 @@
 2050613	eng	I didn't know you played chess.
 2050614	eng	Tom and Mary are playing cards.
 2050615	eng	Tom and Mary are playing darts.
-2050616	eng	Tom plays accordion quite well.
+2050616	eng	Tom plays the accordion quite well.
 2050617	eng	What instruments does Tom play?
 2050618	eng	What kind of music do you play?
 2050619	eng	What time does that play start?
@@ -49998,3 +49914,87 @@
 2066126	fra	Avez-vous fait quelque chose de nouveau à vos cheveux ?
 2066127	fra	As-tu fait quelque chose de nouveau à tes cheveux ?
 2066128	fra	Avez-vous fait quelque chose de nouveau à tes cheveux ?
+2066129	dan	Katte var hellige dyr i det gamle Ægypten.
+2066130	ber	Yella kra ay as-tgid i ucebbub-nnek?
+2066131	ber	Yella kra ay as-tgiḍ i ucebbub-nnek?
+2066132	ber	Yella kra ay as-tgid i ucebbub-nnem?
+2066133	ber	Yella kra ay as-tgiḍ i ucebbub-nnem?
+2066134	dan	Katte var hellige dyr i det gamle Egypten.
+2066135	fra	J'adore la langue française.
+2066136	ber	Ḥemmleɣ aṭas tafṛensist.
+2066137	ber	Tihras niḍen bdant ttaznent-d iserdasen akken ad d-ɛawnent.
+2066138	fra	Il ne l'a même pas embrassé.
+2066139	ber	Ula d assuden ur t-yessuden.
+2066140	fra	Il ne l'a même pas salué.
+2066141	ber	Ula d azul ur t-izul.
+2066142	epo	Latinigo de la rusa alfabeto estas tasko de konstruado de kulturo en Sovetunio, kaj tiu tasko estas tute ĝustatempa vidpunkte de moderna ideologio, pedagogio kaj tipografio.
+2066143	ber	Ula d azul ur as-t-yenni.
+2066144	ber	Ula d abayeɛ ur as-ibuyeɛ.
+2066145	fra	Il ne l'a même pas touché.
+2066146	ber	Ula d tinnalit ur t-yennul.
+2066147	fra	Il ne l'a même pas démarré.
+2066149	ber	Ula d assenker ur t-yessenker.
+2066150	ber	Ula d assiɣi ur t-yessaɣ.
+2066151	fra	Il ne l'a même pas fermé.
+2066153	ber	Ula d aɣlaq ur t-yeɣliq.
+2066154	fra	Il ne l'a même pas aidé.
+2066156	ber	Ula d aɛawen ur t-iɛawen.
+2066157	fra	Il ne l'a même pas écrit.
+2066158	ber	Ula d tira ur t-yuri.
+2066160	fra	Il ne l'a même pas nettoyé.
+2066162	ber	Ula d assizdeg ur t-yessazdeg.
+2066164	fra	Il ne l'a même pas ouvert.
+2066165	ber	Ula d alday ur t-yeldiy.
+2066166	fra	Il ne l'a même pas payé.
+2066167	ber	Ula d axelleṣ ur t-ixelleṣ.
+2066168	fra	Il ne l'a même pas goûté.
+2066169	ber	Ula d aɛraḍ ur t-yeɛriḍ.
+2066170	fra	Il ne l'a même pas allumé.
+2066173	fra	Il ne l'a même pas vu.
+2066175	ber	Ula d timeẓriwt ur t-yeẓri.
+2066176	ber	Ula d tiwalin ur t-iwala.
+2066178	fra	Il ne l'a même pas mâché.
+2066180	dan	Han var meget træt.
+2066181	ber	Ula d tuffẓa ur t-yeffiẓ.
+2066182	fra	Il ne l'a même pas lu.
+2066183	ber	Ula d taɣuri ur t-yeɣri.
+2066184	fra	Il ne l'a même pas compris.
+2066186	ber	Ula d afham ur t-yefhim.
+2066187	fra	Il ne l'a même pas dit.
+2066189	ber	Ula d timenniwt ur t-id-yenni.
+2066191	fra	Il ne l'a même pas envoyé.
+2066194	ber	Ula d azzun ur t-id-yuzin.
+2066195	fra	Il ne l'a même pas invité.
+2066197	ber	Ula d aneɛruḍ ur t-id-yeɛriḍ.
+2066198	ber	Ula d aɛraḍ ur t-id-yeɛriḍ.
+2066199	fra	Il ne lui a même pas serré la main.
+2066200	ber	Ula d axemmes ur ixemmes yid-s.
+2066201	fra	Il ne l'a même pas serré.
+2066202	ber	Ula d azmaḍ ur t-yezmiḍ.
+2066203	fra	Il ne l'a même pas su.
+2066205	fra	Il ne l'a même pas entendu.
+2066206	ber	Ula d timesliwt ur as-yesli.
+2066208	fra	Il ne l'a même pas protégé.
+2066210	ber	Ula d aḥuddu ur t-iḥudd.
+2066212	fra	Il ne l'a même pas peint.
+2066214	ber	Ula d asbaɣ ur t-yesbiɣ.
+2066220	spa	Estuvimos parados por más de una hora en una fila de espera.
+2066221	ber	Tom ur yesɛi s wacu ara yazen arraw-nnes ɣer tesdawit.
+2066222	ber	Tom ur yezmir ad yazen arraw-nnes ɣer tesdawit.
+2066224	fra	Tom ne peut pas se permettre d'envoyer ses enfants à l'université.
+2066234	ber	Azen izen-a i wanect umi tzemred n medden.
+2066235	ber	Aznet izen-a i wanect umi tzemrem n medden.
+2066237	ber	Aznemt izen-a i wanect umi tzemremt n medden.
+2066238	ber	Azen izen-a i wanect umi tzemreḍ n medden.
+2066239	ber	Ad iyi-d-tazned taknart tajapunit, naɣ?
+2066240	ber	Ad iyi-d-tazneḍ taknart tajapunit, naɣ?
+2066241	ber	Ad iyi-d-taznem taknart tajapunit, naɣ?
+2066242	ber	Ad iyi-d-taznemt taknart tajapunit, naɣ?
+2066244	ber	Ḥwajeɣ tansa-nnek akken ad ak-d-azneɣ asefk.
+2066245	ber	Ḥwajeɣ tansa-nnem akken ad am-d-azneɣ asefk.
+2066246	ber	Ḥwajeɣ tansa-nwen akken ad awen-d-azneɣ asefk.
+2066247	ber	Ḥwajeɣ tansa-nwent akken ad awent-d-azneɣ asefk.
+2066248	ber	Sriɣ i tansa-nnek akken ad ak-d-azneɣ asefk.
+2066249	ber	Sriɣ i tansa-nnem akken ad am-d-azneɣ asefk.
+2066250	ber	Sriɣ i tansa-nwen akken ad awen-d-azneɣ asefk.
+2066251	ber	Sriɣ i tansa-nwent akken ad awent-d-azneɣ asefk.
