@@ -335,8 +335,8 @@
 	and KANJD212 files plus the kanji from JIS X 0213.
 -->
 <file_version>4</file_version>
-<database_version>2026-095</database_version>
-<date_of_creation>2026-04-05</date_of_creation>
+<database_version>2026-123</database_version>
+<date_of_creation>2026-05-03</date_of_creation>
 </header>
 <character>
 <literal>亜</literal>
@@ -381178,6 +381178,7 @@
 <reading r_type="vietnam">Rậm</reading>
 <reading r_type="ja_on">シン</reading>
 <reading r_type="ja_kun">とねりこ</reading>
+<meaning>ash (tree)</meaning>
 </rmgroup>
 </reading_meaning>
 </character>
