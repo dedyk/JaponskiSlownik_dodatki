@@ -335,8 +335,8 @@
 	and KANJD212 files plus the kanji from JIS X 0213.
 -->
 <file_version>4</file_version>
-<database_version>2026-183</database_version>
-<date_of_creation>2026-07-02</date_of_creation>
+<database_version>2026-213</database_version>
+<date_of_creation>2026-08-01</date_of_creation>
 </header>
 <character>
 <literal>亜</literal>
@@ -144399,8 +144399,11 @@
 <reading r_type="korean_h">마</reading>
 <reading r_type="vietnam">Mã</reading>
 <reading r_type="ja_on">バ</reading>
+<reading r_type="ja_on">メ</reading>
+<reading r_type="ja_on">マ</reading>
+<reading r_type="ja_on">ボ</reading>
+<reading r_type="ja_on">モ</reading>
 <reading r_type="ja_kun">うま</reading>
-<reading r_type="ja_kun">うま-</reading>
 <reading r_type="ja_kun">ま</reading>
 <meaning>horse</meaning>
 <meaning m_lang="fr">cheval</meaning>
@@ -144409,8 +144412,6 @@
 </rmgroup>
 <nanori>た</nanori>
 <nanori>ばん</nanori>
-<nanori>め</nanori>
-<nanori>も</nanori>
 </reading_meaning>
 </character>
 <character>
