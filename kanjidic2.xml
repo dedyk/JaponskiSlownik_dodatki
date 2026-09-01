@@ -335,8 +335,8 @@
 	and KANJD212 files plus the kanji from JIS X 0213.
 -->
 <file_version>4</file_version>
-<database_version>2026-213</database_version>
-<date_of_creation>2026-08-01</date_of_creation>
+<database_version>2026-244</database_version>
+<date_of_creation>2026-09-01</date_of_creation>
 </header>
 <character>
 <literal>亜</literal>
@@ -94711,7 +94711,7 @@
 <reading r_type="vietnam">Tần</reading>
 <reading r_type="ja_on">シン</reading>
 <reading r_type="ja_kun">はた</reading>
-<meaning>Manchu dynasty</meaning>
+<meaning>Qin dynasty</meaning>
 <meaning>name given to naturalized foreigners</meaning>
 <meaning m_lang="es">dinastía Manchú</meaning>
 <meaning m_lang="es">nombre dado antiguamente a los chinos establecidos en Japón</meaning>
@@ -153581,7 +153581,8 @@
 <reading r_type="ja_on">ゲン</reading>
 <reading r_type="ja_kun">ひこ</reading>
 <meaning>lad</meaning>
-<meaning>boy (ancient)</meaning>
+<meaning>boy</meaning>
+<meaning>fine young man</meaning>
 <meaning m_lang="fr">bonhomme</meaning>
 <meaning m_lang="fr">écho (phon.)</meaning>
 <meaning m_lang="es">hombre bello</meaning>
