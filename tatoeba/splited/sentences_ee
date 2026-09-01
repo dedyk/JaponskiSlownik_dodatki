@@ -1,116 +1,3 @@
-5752173	eng	You need to speak up.
-5752174	eng	You might go to jail.
-5752175	eng	Tom blew all his money.
-5752176	eng	You make me so happy.
-5752177	eng	You know you love it.
-5752178	eng	Tom bit into the apple.
-5752179	eng	You could argue that.
-5752180	eng	You can change lives.
-5752181	eng	Tom believes otherwise.
-5752182	eng	Why would you change?
-5752183	eng	Why worry needlessly?
-5752184	eng	Tom behaved like a man.
-5752185	eng	Why is this an issue?
-5752186	eng	Why blame the victim?
-5752187	eng	Tom began to get angry.
-5752188	eng	Why aren't they dead?
-5752189	eng	Why are we suffering?
-5752190	eng	Tom became very scared.
-5752191	eng	Why are we different?
-5752192	eng	Who's ready to dance?
-5752193	eng	Tom became intoxicated.
-5752194	eng	Who's ready for that?
-5752195	eng	Who will outwit whom?
-5752196	eng	Tom asked Mary her age.
-5752197	eng	Who wants me to know?
-5752198	eng	Who understands this?
-5752199	eng	Tom and Mary knew this.
-5752200	eng	Who should supervise?
-5752201	eng	Who needs commentary?
-5752202	eng	This wasn't Tom's plan.
-5752203	eng	Who are these rebels?
-5752204	eng	Who are their heroes?
-5752205	eng	The big problem is Tom.
-5752206	eng	Where does that lead?
-5752207	eng	Whatever shall we do?
-5752208	eng	The baby was named Tom.
-5752209	eng	What's your reaction?
-5752210	eng	What's in your heart?
-5752211	eng	So what's next for Tom?
-5752212	eng	What was the hold up?
-5752213	eng	What must be must be.
-5752214	eng	Say it isn't true, Tom.
-5752215	eng	What more can we say?
-5752216	eng	What makes it unique?
-5752217	eng	Please don't adopt Tom.
-5752218	eng	What if they said no?
-5752219	eng	What else can we say?
-5752220	eng	It's good news for Tom.
-5752221	eng	Were you a funny kid?
-5752222	eng	We've joked about it.
-5752223	eng	It's a big deal to Tom.
-5752224	eng	We've gotten so busy.
-5752225	eng	We're trying so hard.
-5752226	eng	It was invented by Tom.
-5752227	eng	We're still with you.
-5752228	eng	We're really stumped.
-5752229	eng	Is Tom asking too much?
-5752230	eng	We're planning on it.
-5752231	eng	We're only fishermen.
-5752232	eng	I'm with you 100%, Tom.
-5752233	eng	We're not warmongers.
-5752234	eng	We're not going away.
-5752235	eng	I'm super proud of Tom.
-5752236	eng	We're not economists.
-5752237	eng	We're not against it.
-5752238	eng	I'm going to marry Tom.
-5752239	eng	We're moving forward.
-5752240	eng	We're just different.
-5752241	eng	I think Tom was misled.
-5752242	eng	We're gaining ground.
-5752243	eng	We're already inside.
-5752244	eng	I think Tom got banned.
-5752245	eng	We're all sick of it.
-5752246	eng	We're a little older.
-5752247	eng	I see Tom's point here.
-5752248	eng	We'll wait till then.
-5752249	eng	We'll try to survive.
-5752250	eng	I've given up on Tom.
-5752251	eng	We'll try again soon.
-5752252	eng	We'll leave it there.
-5752253	eng	I greeted Tom casually.
-5752254	eng	We'll keep it simple.
-5752255	eng	We'll just ignore it.
-5752256	eng	I get on well with Tom.
-5752257	eng	We'll get through it.
-5752258	eng	We'll be cooperating.
-5752259	eng	How good was Tom today?
-5752260	eng	We'd better get away.
-5752261	eng	We won't accept this.
-5752262	eng	Exactly how bad is Tom?
-5752263	eng	We won't accept that.
-5752264	eng	We were real anxious.
-5752265	eng	Don't be so hasty, Tom.
-5752266	eng	We were looking good.
-5752267	eng	We were in the woods.
-5752268	eng	Can Tom close the deal?
-5752269	eng	We talked about jobs.
-5752270	eng	We still have a shot.
-5752271	eng	You probably love Tom.
-5752272	eng	We should meet again.
-5752273	eng	We played very badly.
-5752274	eng	You have to trust Tom.
-5752275	eng	We never got rattled.
-5752276	eng	We needed a response.
-5752277	eng	Why is Tom so adamant?
-5752278	eng	We need transparency.
-5752279	eng	We need good hygiene.
-5752280	eng	We must not blame Tom.
-5752281	eng	We need better focus.
-5752282	eng	We need an air force.
-5752283	eng	Tom's place is a dump.
-5752284	eng	We must provide jobs.
-5752285	eng	We must prevent this.
 5752286	eng	Tom's home was burned.
 5752287	eng	We let them have fun.
 5752288	eng	We know it very well.
@@ -2915,7 +2802,7 @@
 5755104	deu	Sie haben sich bewiesen.
 5755105	deu	Ich bin mir jetzt nicht so sicher.
 5755106	ukr	На відміну від ДНК, яка може знаходитися лише у ядрі, РНК можна також знайти у цитоплазмі.
-5755107	ukr	Він миє свою машину принаймі раз на тиждень.
+5755107	ukr	Він миє свою машину принаймні раз на тиждень.
 5755108	ukr	Тому більше подобається риба, ніж м'ясо.
 5755109	ita	Li stai imbarazzando.
 5755110	ita	Le stai imbarazzando.
@@ -33604,7 +33491,7 @@
 5786027	eng	Training is not a luxury, it's an investment.
 5786028	deu	Ausbildung ist kein Luxus, sondern eine Investition.
 5786029	fra	Entrainement et formation ne constituent pas un luxe mais un investissement.
-5786030	cat	Training is geen luxe, het is een investering.
+5786030	nld	Training is geen luxe, het is een investering.
 5786031	eng	Those who wash the donkey's head waste soap.
 5786032	eng	The entire world hates recklessness.
 5786033	deu	Dankbarkeit gefällt, Undank hasst die ganze Welt.
@@ -35722,7 +35609,7 @@
 5788154	rus	Ты даже самому себе не можешь в этом признаться.
 5788155	rus	Тебе просто не хватает духу в этом признаться.
 5788156	rus	Что, не хватает духу признаться?
-5788157	rus	Самое страшное слово - "никогда".
+5788157	rus	Самое страшное слово — «никогда».
 5788158	rus	Том насвистывает.
 5788159	rus	Чей Том сын?
 5788160	rus	Том не твой сын.
@@ -49998,3 +49885,116 @@
 5802516	rus	Ненавижу делать такие вещи.
 5802517	rus	Терпеть не могу делать такие вещи.
 5802518	rus	Чай, кофе, потанцуем?
+5802519	hun	Vigyázz! Jön egy teherautó!
+5802520	rus	Вы делали то, в чём Вас обвиняют?
+5802521	rus	Ты делал то, в чём тебя обвиняют?
+5802522	rus	Том сказал, что это его решение.
+5802523	hun	Az emberek itt nem hajlamosak a kezdeményezésre.
+5802524	rus	Суд отменил вынесенный ранее приговор.
+5802525	hun	Ne nyúljon a gyümölcshöz!
+5802526	epo	Ne tuŝu la frukton!
+5802527	rus	Суд отменил вынесенное ранее решение.
+5802528	hun	Komolyan gondolod, hogy újra házasodsz a te korodban?
+5802529	rus	Ты сломал мне жизнь.
+5802530	rus	Я потратила на тебя лучшие годы своей жизни.
+5802531	fra	Le sol est glissant.
+5802532	hun	Ebben az országban az embereknek nincsen tettereje.
+5802533	rus	Подумать только! И на этого человека я потратила лучшие годы своей жизни!
+5802534	rus	Горько осознавать, что на это я потратил лучшие годы своей жизни.
+5802535	hun	Ebben az országban az embereknek egyáltalán nincsen felelősségtudata.
+5802536	rus	Пол скользкий.
+5802537	hun	Reggel felhívlak.
+5802538	rus	Том видел змею.
+5802539	rus	Сделай сам.
+5802540	rus	Сделай сама.
+5802541	rus	Сделайте сами.
+5802542	hun	Ebben az országban az embereknek egyáltalán nincs szégyenérzete, ha meztelenségről van szó.
+5802543	rus	Обе живы.
+5802544	hun	Ebben az országban az embereknek egyáltalán nincsen időérzékük.
+5802545	tur	İngilizce bilmiyorsun, değil mi?
+5802546	tur	Onun o konuyla ilgili açıklaması seninkine uyuyor.
+5802547	ukr	Я на вас почекаю.
+5802548	tur	Şirketin bir Amerikan şirketi ile ilişki kuracağı söylentileri var.
+5802549	ukr	Я на тебе почекаю.
+5802550	hun	Az ifjú sárkánypár egy üres barlangot keresett magának.
+5802551	hun	Tom rajong a német romantika lovagvárai iránt.
+5802552	tur	Valinin konuşması dergide yayınlandı.
+5802553	tur	O bütün arkadaşlarını kıskanıyor.
+5802554	rus	Услышав страшную новость, она заплакала.
+5802555	tur	Elmalar düzineyle satılır.
+5802556	ita	Sei un bravo assistente, Tom.
+5802557	ita	Tom fa raramente delle domande.
+5802558	deu	Möchtest du, dass wir fortgehen?
+5802559	deu	Möchtet ihr, dass wir fortgehen?
+5802560	ukr	Зупиніть машину.
+5802561	deu	Möchten Sie, dass wir fortgehen?
+5802562	ukr	Зупини машину.
+5802563	fra	La voiture qui est devant moi est à Karam.
+5802564	ukr	Сьогодні холодно.
+5802565	rus	Я на тебя в суд подам.
+5802566	rus	Я на вас в суд подам.
+5802567	tur	Bu sonun başlangıcıdır.
+5802568	rus	Том подстрелил оленя.
+5802569	rus	Том выстрелил в оленя.
+5802570	rus	Ты меня знаешь?
+5802571	fra	Certains d'entre eux sont professeurs, et certains sont ingénieurs.
+5802572	fra	Ce sont mes sœurs.
+5802573	tur	Düşmanı yenmek için birleşmeliyiz.
+5802574	fra	Qui sont ces deux garçons ?
+5802575	tur	Eğer birleşmezsek düşmanı yenemeyiz.
+5802576	rus	Том упорно трудился.
+5802577	rus	Том много работал.
+5802578	rus	Можно я здесь посижу?
+5802579	tur	Daha önceki angajmanlarından dolayı o olaya katılamadı.
+5802580	rus	Я лучше не буду.
+5802581	ukr	Багато шуму з нічого.
+5802582	ukr	Війна тривала чотири роки.
+5802583	ukr	Я з тобою не спатиму.
+5802584	ukr	Мені подобається твоя кава.
+5802585	ukr	Мені подобається ваша кава.
+5802587	heb	תום הטריד את כולם עם טרוניותיו הבלתי פוסקות.
+5802588	heb	תום מעצבן מאד, לא?
+5802589	rus	Кто это разбил?
+5802590	rus	Кто это сломал?
+5802591	heb	אני מתחיל להתעצבן מההתנהגות שלך.
+5802592	heb	אני מתעצבן כשנותנים לי לחכות.
+5802593	fra	Arrête d'être aussi politiquement correct.
+5802594	heb	הוא עשה שגיאות בכוונה להרגיז אותי.
+5802595	heb	התעצבנתי כי היא ישנה עדיין.
+5802596	heb	עבורי, האזנה למוזיקה רועשת זה מעצבן.
+5802597	heb	תום עצבן אותי עם המון שאלות.
+5802598	heb	"אני מטריד אותך?" "לא, כלל וכלל לא."
+5802599	heb	מרי התעצבנה מתום ולא השיבה לשיחות הטלפון שלו.
+5802600	heb	חמור יותר, הוא אפילו לא מודע לכך שהוא מטריד את השכנים שלו.
+5802601	rus	Срок давности по этому делу истёк.
+5802602	heb	שניכם נמנים על האנשים המעצבנים ביותר שאי פעם פגשתי.
+5802603	rus	Возвращайтесь поскорее.
+5802604	heb	הוא התעצבן תמיד בעיר מרעשים כאלו או אחרים.
+5802605	rus	Давайте посмотрим телевизор.
+5802606	heb	אתה מעצבן כמו שהיית בפעם האחרונה שנפגשנו.
+5802607	rus	Я встретил там Тома.
+5802608	rus	Я обычно хожу пешком.
+5802609	nld	Wil je weten wat ik aan het doen ben?
+5802610	rus	Это ещё один хороший повод, чтобы поехать в Турин!
+5802611	rus	Почему Том опоздал?
+5802612	rus	Почему Том опаздывает?
+5802613	rus	Что Том умеет?
+5802614	rus	Мы для них лёгкая добыча.
+5802615	rus	Мы его покрасим.
+5802616	rus	Мы её покрасим.
+5802617	nld	Tom heeft een eigen zaak.
+5802618	rus	А ну вылезай!
+5802619	rus	Том сказал кто?
+5802620	rus	Зачем он здесь?
+5802621	rus	Почему она здесь?
+5802622	rus	Они попросили его.
+5802623	rus	Какой он высоты?
+5802624	rus	Какой она высоты?
+5802625	rus	Какой оно высоты?
+5802626	nld	Heb je een handdoek meegenomen?
+5802627	nld	Heb je een kam?
+5802628	epo	Ni ne aĉetos tiujn ĝinzojn. Tio estus malŝparo de mono!
+5802629	rus	Том тебя простил.
+5802630	rus	Том вас простил.
+5802631	rus	Том её тоже видел.
+5802632	nld	De vloer is glad.

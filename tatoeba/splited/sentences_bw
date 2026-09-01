@@ -1,61 +1,3 @@
-2547502	eng	Tom's very dangerous.
-2547503	eng	Tom's not in his car.
-2547504	eng	Tom's not in his bed.
-2547505	eng	Tom's my friend, too.
-2547506	eng	Tom's getting chilly.
-2547507	eng	Tom's feet were cold.
-2547508	eng	Tom's feet felt numb.
-2547509	eng	Tom's a very bad guy.
-2547510	eng	Tom, your fly's open.
-2547511	eng	Tom, we have to talk.
-2547512	eng	Tom, are you in here?
-2547513	eng	Tom wouldn't help me.
-2547514	eng	Tom wouldn't give up.
-2547515	eng	Tom wouldn't give in.
-2547516	eng	Tom works for me now.
-2547517	eng	Tom worked in Boston.
-2547518	eng	Tom won the election.
-2547519	eng	Tom will be punished.
-2547520	eng	Tom will be in later.
-2547521	eng	Tom will be arrested.
-2547522	eng	Tom will assist Mary.
-2547523	eng	Tom went to the park.
-2547524	eng	Tom went to the lake.
-2547525	eng	Tom went to his room.
-2547526	eng	Tom went back inside.
-2547527	eng	Tom watched the news.
-2547528	eng	Tom wasn't with Mary.
-2547529	eng	Tom wasn't surprised.
-2547530	eng	Tom wasn't here then.
-2547531	eng	Tom wasn't gone long.
-2547532	eng	Tom washed his hands.
-2547533	eng	Tom was worried sick.
-2547534	eng	Tom was very worried.
-2547535	eng	Tom was on the phone.
-2547536	eng	Tom was disappointed.
-2547537	eng	Tom was 30 years old.
-2547538	eng	Tom wanted to travel.
-2547539	eng	Tom walked Mary home.
-2547540	eng	Tom used to eat meat.
-2547541	eng	Tom turned up the TV.
-2547542	eng	Tom turned the TV on.
-2547543	eng	Tom tried on the wig.
-2547544	eng	Tom took out his gun.
-2547545	eng	Tom told us to leave.
-2547546	eng	Tom thanked the chef.
-2547547	eng	Tom swam in the pool.
-2547548	eng	Tom sliced the onion.
-2547549	eng	Tom sliced the apple.
-2547550	eng	Tom screamed in pain.
-2547551	eng	Tom sat on the couch.
-2547552	eng	Tom sat down to wait.
-2547553	eng	Tom read it out loud.
-2547554	eng	Tom ran to help Mary.
-2547555	eng	Tom put Mary on hold.
-2547556	eng	Tom pulled out a pen.
-2547557	eng	Tom pulled out a map.
-2547558	eng	Tom plays the guitar.
-2547559	eng	Tom played the piano.
 2547560	eng	Tom peeled the apple.
 2547561	eng	Tom often calls Mary.
 2547562	eng	Tom never got better.
@@ -12212,9 +12154,6 @@
 2560392	ita	Prendi un po' di eggnog.
 2560393	ita	Prenda un po' di eggnog.
 2560394	ita	Prendete un po' di eggnog.
-2560395	ita	Prendi un po' di latte di gallina.
-2560396	ita	Prenda un po' di latte di gallina.
-2560397	ita	Prendete un po' di latte di gallina.
 2560398	tur	Ben yetersiz olduğum için mi bilmeyeceğim yoksa bilmemem gerektiği için mi?
 2560399	tur	Beni kandırmadan eğitebilir misiniz?
 2560400	dan	Jeg vil vædde min sidste skilling på at han er uskyldig.
@@ -14222,11 +14161,11 @@
 2562556	uig	بۇ ئاشخانىدا پولۇ بار.
 2562557	eng	This restaurant has pilaf.
 2562558	uig	بۇ ئاشخانىدا پولۇ بارغۇ.
-2562559	lvs	Es rīt cītīgi mācīšos
+2562559	lvs	Es rīt cītīgi mācīšos.
 2562560	eng	This restaurant has pilaf, remember?
 2562561	deu	Das Treffen ist Zeitverschwendung. Jeder ergeht sich nur in nebulösem, theoretischem Kauderwelsch.
 2562562	uig	بۇ ئاشخانىدا پولۇ بارمۇ؟
-2562563	lvs	Vai viņš atbalstīja viņas ideju.
+2562563	lvs	Vai viņš atbalstīja viņas ideju?
 2562564	spa	¿Qué harías si hubiese otra guerra?
 2562565	eng	Does this restaurant have pilaf?
 2562566	uig	بۇ ئاشخانىدا پولۇ بارمىدۇ؟
@@ -18311,7 +18250,7 @@
 2566985	ber	Ddant ɣer Ṭṭalyan.
 2566986	mar	व्हॅलेन्टाईन्स डे जवळ आलाय आणि तिला काय द्यायचं ह्याचा मला आजून ही पत्ता नाही.
 2566987	ber	Tettban-d tecbeḥ ugar s tqedurt-nni-nnes tazewwaɣt.
-2566988	mar	जेवणानंतर कॉफी प्यायल्याशिवाय मला चालत नाही.
+2566988	mar	जेवल्यानंतर कॉफी प्यायल्याशिवाय मला चालत नाही.
 2566989	fra	Je suis plus jolie dans ma robe rouge.
 2566990	mar	मी दररोज एक तास इंग्रजीचा अभ्यास करतो.
 2566991	ber	Ttbaneɣ-d cebḥeɣ ugar s tqendurt-inu tazewwaɣt.
@@ -18820,7 +18759,7 @@
 2567518	tur	Tekrar denedim.
 2567519	mar	कागदाचा शोध चीनमध्ये लावला गेला.
 2567520	eng	Everyone who isn't us is an enemy.
-2567521	cmn	我了解为什么
+2567521	cmn	我了解为什么。
 2567522	fra	Bien qu'il restât de nombreux biscuits sur le plateau, je n'en mangeai que trois.
 2567523	fra	Elle coupa le gâteau en cinq.
 2567524	cmn	权力之争，非我即敌。
@@ -21102,9 +21041,7 @@
 2569930	epo	La sento de soleco povas esti perceptata kaj kiam oni estas solaj kaj kiam oni troviĝas meze en la homamaso.
 2569932	mar	हत्ती पोसवतो पण लेक नाही पोसवत.
 2569934	eng	He can nourish his elephant, but cannot nourish his child.
-2569935	mar	हगत्या लाज की बघत्या लाज?
 2569936	rus	Корабль тонет!
-2569937	eng	Is it shameful to crap or shameful to watch?
 2569938	mar	हजीर तो वजीर.
 2569939	eng	He who is present, is the vizier.
 2569940	mar	हाताची पाचही बोटे कधीही सारखी नसतात.
@@ -27488,7 +27425,7 @@
 2576627	rus	Не могу поверить, что ты хотела меня обдурить!
 2576628	rus	Не могу поверить, что вы хотели меня обдурить!
 2576629	por	Ele está caminhando até a estação.
-2576630	epo	Tiu ĉi frazo permesas plurajn interpretojn, kiujn mi tradukante devis konsideri.
+2576630	epo	Ĉi tiu frazo havas plurajn interpretojn, kiujn mi devis konsideri, kiam mi tradukis ĝin.
 2576631	eng	It was watery soup spiced with pepper and rancid oil.
 2576632	rus	После того случая я пообещал себе, что меня никто не обманет и не обдурит.
 2576633	swh	Habari za nyumbani?
@@ -39481,7 +39418,7 @@
 2589316	lit	Ji nori nueiti prie jūros.
 2589317	lit	Ji nori nuvažiuoti prie jūros.
 2589318	lit	Aštuoni hobitai sudaro vieną hobaitą.
-2589319	rus	Валлония прекрасная страна.
+2589319	rus	Валлония — прекрасная страна.
 2589320	rus	Яблоко красное?
 2589321	ita	I vostri etilometri non fermeranno la nostra sete.
 2589322	rus	Это предложение грамматически корректно.
@@ -47788,7 +47725,7 @@
 2598178	ukr	Якщо він прийде, скажи мені.
 2598179	tur	Tom beni durdurdu.
 2598181	ukr	Чим більше людей, тим краще.
-2598182	mar	मी जे म्हटलेलं ते त्याला समजलं नव्हतं हे स्पष्ट होतं.
+2598182	mar	मी जे म्हटलेलं ते त्याला समजलं नाही एवढं स्पष्ट होतं.
 2598183	tur	Tom gülmeyi durdurdu.
 2598184	tur	Tom hemen durdu.
 2598185	mar	त्याला उत्तर माहीत आहे हे तर स्पष्ट आहे.
@@ -49998,3 +49935,66 @@
 2600524	ber	Tenker tmes deg wedrar yerna terɣa teẓgi.
 2600525	tur	Şu çocuk yemek yemiyordu.
 2600526	eng	I thought, "Wow, what a small world!"
+2600527	ber	Idraren-nni tdel-iten yiwet n teẓgi d tameqrant.
+2600528	eng	She is a really nice lady.
+2600529	ber	D tiẓegwa kan ay tzemred ad twalid arma yenneqḍaɛ-d yeẓri.
+2600530	ber	D tiẓegwa kan ay tzemreḍ ad twaliḍ arma yenneqḍaɛ-d yeẓri.
+2600531	eng	I'll try to change the file format then.
+2600532	ber	Aydi-nni yeḍfer yiwen n wewtul ɣer teẓgi.
+2600533	ber	Aydi-nni yeḍfer awtul-nni ɣer teẓgi.
+2600534	ber	"Ur ndimeɣ imi ay ddiɣ ɣer teẓgi yerna ulyeɣ ɣer wedrar," ay d-yerra gma-s-nni ameẓyan.
+2600535	tur	Tom hoşnut görünüyor.
+2600536	ber	"Ur ttḍafareɣ ursuten imeẓyanen ɣer teẓgi," ay d-yenna gma-s-nni ameqran.
+2600538	eng	Thank you for letting me know.
+2600539	tur	Sizinle görüşmek benim için onurdur.
+2600540	ber	Aṭas n tẓegwa ay la ireɣɣen deg Temrikt.
+2600541	tur	Tom gençleşmiş görünüyor.
+2600542	tur	Tom makul görünüyor.
+2600543	ita	Ti darò un suggerimento.
+2600544	ita	Vi darò un suggerimento.
+2600545	ita	Le darò un suggerimento.
+2600546	tur	Tom sakin görünüyor.
+2600547	ber	Yiwet n tegrawt tebda-d taḥemla i lmend n uḥuddu n tẓegwa n wenẓar.
+2600548	ita	Ci sono molti incendi boschivi in America.
+2600549	tur	Tom şaşkın görünüyor.
+2600550	tur	O açıklamayı kabul ediyor musun?
+2600551	ber	Deg California, llan yisekla-nni imeqranen mechuṛen umi ttinin "igelliden n teẓgi".
+2600552	ber	Tzemred ad teẓred aṭas n yiɣersiwen deg teẓgi-a.
+2600553	tur	Sormadan zanlarla hareket ederseniz yanılırsınız.
+2600554	ber	Tzemreḍ ad teẓreḍ aṭas n yiɣersiwen deg teẓgi-a.
+2600555	tur	Herkes oynarken benim oynamamamı beklemeniz sizin hatanızdı.
+2600556	ber	Tzemred ad teẓred kra n yewtal iweḥciyen deg teẓgi.
+2600557	ber	Tzemreḍ ad teẓreḍ kra n yewtal iweḥciyen deg teẓgi.
+2600558	tur	Kimse bana bir şey söylemedi.
+2600559	eng	English is not my mother tongue, either!
+2600560	ber	Llan aṭas n yegḍaḍ deg teẓgi-a.
+2600561	ber	Tenker tmes deg teẓgi, deg tama-a.
+2600562	ber	D aseklu-a ay ɣezzifen akk, yerna d netta ay d ameqran akk deg leɛmeṛ deg teẓgi-a.
+2600563	ber	D lqella n lemḥadra ay yessawḍen tiẓgi-nni ad terɣ.
+2600564	rus	Увидев звезду, они обрадовались.
+2600565	ber	Imir-nni, tella temsusam akk ddeɛwa deg teẓgi.
+2600566	ber	Iɣersiwen-nni n teẓgi mmuten.
+2600567	epo	Gravas ne nur la eduko teknika ; ankaŭ la spirita devas esti atentata.
+2600568	ber	Tiẓgi-nni teccuṛ d igḍaḍ deg yiɣersiwen seg yal tawsit.
+2600569	tur	Şu an üzgün hissetmiyorum.
+2600570	tur	Çok üzgün hissettiğim zamanlar oldu.
+2600571	ber	Asif-nni yezri deg teẓgi-nni.
+2600572	tur	Üzülmek ve ağlamaktan başka şeyler yapmam lazım.
+2600573	eng	I joined quite recently, a few months ago.
+2600574	por	Estou perdendo meus poderes.
+2600575	ber	Agerruj-nni mazal-it deg teẓgi, anda ay yettwamḍel ddaw yiwen n useklu.
+2600576	ber	Anegmar-nni yessebɛed deg teẓgi-nni armi ay yeɛreq, ur iɛawed akk iban-d.
+2600577	ber	Yeɛreq wemɣar-nni deg teẓgi?
+2600579	ber	Lliɣ selleɣ i teɣri n yegḍaḍ iweḥciyen deg teẓgi-a.
+2600580	lat	Beati mundo corde: quoniam ipsi Deum videbunt.
+2600581	ber	Tiẓgi-nni tecca-tt tmes.
+2600582	ber	Tiẓgi-nni teccuṛ d iddawen.
+2600583	tur	Bazen Tatoeba'da üç saat kalırım.
+2600584	hun	Boldogok, a kiknek szívök tiszta: mert ők az Istent meglátják.
+2600585	deu	Selig sind, die reines Herzens sind; denn sie werden Gott schauen.
+2600586	eng	Blessed are the pure in heart, for they shall see God.
+2600587	rus	Мою собаку необходимо выгулять.
+2600588	fra	Heureux les cœurs purs, car ils verront Dieu.
+2600589	ita	Beati i puri di cuore, perché essi vedranno Iddio.
+2600590	ber	Igḍaḍ axxam-nsen d tiẓgi, iselman axxam-nsen d asif, tizizwa axxam-nsent d tijejjigin, ma d igerdan imeẓyanen axxam-nsen d Ccinwa. Nḥemmel tamurt-nneɣ seg wasmi ara nili d imeẓyanen, swaswa am yegḍaḍ ay iḥemmlen tiẓgi, iselman ay iḥemmlen asif akked tzizwa ay iḥemmlen tijejjigin.
+2600591	deu	Tom verweigert die Zahlung der Rundfunkgebühr.

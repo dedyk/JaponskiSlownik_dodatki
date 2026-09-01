@@ -1,296 +1,3 @@
-12914558	rus	Он несколько лет проработал в этой стране послом.
-12914559	kab	Yebɣa ad d-yawi tameṭṭut, netta ur yezmir ara i yiman-is.
-12914560	rus	У нас всё есть, кроме муки.
-12914561	kab	Yezweǧ, yerna-d dderya, netta ur yezmir ara i yiman-is.
-12914562	fra	Il veut se marier alors qu'il n'est même pas capable de se prendre en charge lui-même.
-12914563	eng	He is married with children, even if he is not able to care for himself.
-12914564	fra	Voici le sucre pour le gâteau.
-12914565	kab	Beɛɛed fell-as!
-12914566	eng	Get away from her!
-12914567	eng	Get away from him!
-12914568	fra	Quand mangerez-vous ?
-12914569	fra	Allez où vous voulez !
-12914570	fra	Que va-t-il faire ?
-12914571	fra	J'irai sans toi.
-12914572	fra	En un jour, elle boit un litre de café.
-12914573	fra	Le lapin est dans le chapeau.
-12914574	fra	J’ai besoin de chaussures.
-12914575	fra	Le lapin porte un chapeau.
-12914576	fra	Vous n'êtes pas fou.
-12914577	fra	Vous n'êtes pas folle.
-12914578	fra	Tu n'es pas folle.
-12914579	rus	Правым глазом я вижу лучше, чем левым.
-12914580	rus	Я правым глазом вижу лучше, чем левым.
-12914581	rus	Она каждый день встаёт в шесть утра.
-12914582	rus	Иди помоги мне помыть посуду.
-12914583	rus	Идите помогите мне помыть посуду.
-12914584	rus	Мэри, в конце концов, тоже смертна.
-12914585	rus	Экзамен по этому предмету был очень сложный.
-12914586	rus	Экзамен по этому предмету был очень сложным.
-12914587	rus	Пока что это лучшее решение.
-12914588	rus	Ты по-прежнему считаешь, что тринадцать - несчастливое число?
-12914589	rus	Вы по-прежнему считаете, что тринадцать - несчастливое число?
-12914590	rus	Ты всё ещё веришь, что тринадцать - несчастливое число?
-12914591	rus	Вы всё ещё верите, что тринадцать - несчастливое число?
-12914592	rus	Ты продолжаешь верить, что тринадцать - несчастливое число?
-12914593	rus	На Галапагосских островах множество видов гигантских черепах.
-12914594	rus	Потеряв сына, художник посвятил оставшуюся жизнь помощи детям.
-12914595	rus	Потеряв сына, художник провёл остаток жизни, помогая детям.
-12914596	rus	Я хотел бы иметь домик с видом на море.
-12914597	rus	На Галапагосских островах обитает множество видов гигантских черепах.
-12914598	rus	Мэри каждый день разговаривает со своими растениями.
-12914599	rus	Фламинго едят водоросли.
-12914600	rus	Фламинго питаются водорослями.
-12914601	rus	Ты надеваешь шлем, когда ездишь на велосипеде?
-12914602	rus	Вы надеваете шлем, когда ездите на велосипеде?
-12914603	rus	Ты надеваешь шлем, когда катаешься на велосипеде?
-12914604	rus	Вы надеваете шлем, когда катаетесь на велосипеде?
-12914605	rus	Встречные машины моргали фарами.
-12914606	rus	Встречные машины моргали фарами, предупреждая о затаившихся впереди гаишниках.
-12914607	rus	Я ничего не вижу, потому что впереди слепящий свет.
-12914608	rus	Он всегда слепо верит своей жене.
-12914609	rus	Он всегда слепо доверял жене.
-12914610	rus	Он всегда слепо доверял своей жене.
-12914611	rus	Это синий конь.
-12914612	rus	"Восточный экспресс" - это название поезда, соединявшего когда-то Париж и Стамбул.
-12914613	rus	В том, что цены растут, правительство не виновато.
-12914614	rus	Персей убил Медузу Горгону и спас Андромеду.
-12914615	jpn	月曜日以外は毎日空いてますよ。
-12914616	rus	Почему голубой тунец такой дорогой?
-12914617	yue	如果上述兩點都唔成立，噉就喺對字母畫一個長方形，令對字母成為個長方形嘅兩個角，再將每一個字母換做同佢喺同一條橫行嗰個對角，例：繼續用 Playfair Example 做關鍵字嘅矩陣，如果有對字母對係 HI，就將對字母變成咗BM。
-12914618	rus	Бетти трижды поднималась на эту гору.
-12914619	yue	如果嗰對字母出現喺同一打戙行，將每個字母變成喺嗰個字母對落嗰個字母（最底嗰行對落當係最頂嗰行），例：用返頭先 Playfair Example 做關鍵字嘅矩陣，如果有對字母對係 DE，就將對字母變成咗OD。
-12914620	yue	當中一對字母當中嗰兩個字母唔可以同款，如果同款，就插個（例如）X 喺裏面，例：明文係 hello（唔可以俾 ll 呢個組合出現），做咗分對嘅過程之後應該會係 'he' 'lx' 'lo'。
-12914621	yue	將個關鍵字啲字母排入去一個 5 × 5 格嘅矩陣嗰度，排完就按 A B C D 順序排，途中要揀一個字母（通常係 J）唔填而且重複咗嘅字母唔填，因為羅馬字母有 26 個咁多，所以噉做會得出一個啱啱好 25 格填嗮、冇任何字母重複咗嘅矩陣，例如下圖係將 Playfair Example 填落去個矩陣嗰度得出嘅樣（J 忽略，而紅色嗰啲細字母係因為重複咗而冇填落去嗰啲）。
-12914622	yue	喺上面嗰幅表格入面，打戙行 W 同打橫行 D 相交嗰點嘅字母係 Z，所以 Z 就係密文第一個字母，打戙行 E 同打橫行 E 相交嗰點嘅字母係 I，所以 I 就係密文第二個字母。
-12914623	yue	維吉尼密碼法相當有效，能夠好大程度上收埋明文嘅字母頻率：例如凱撒密碼法最大嘅問題就係敵人能夠齋靠觀察密文當中唔同字母嘅出現頻率嚟大致噉估到段嘥化嘅參數（向左定向右、移咗幾多）。
-12914624	yue	相比之下，維吉尼密碼法就冇呢個問題－例如 E 係廿一世紀初英文入面最常出現嘅字母，如果用嘅係維吉尼密碼法，篇明文唔同部份嘅 E 會分別被轉換做唔同嘅字母，而唔似得凱撒密碼法噉個個 E 都係轉換做同一個密文字母。
-12914625	yue	幅表格入面明文字母打戙行同關鍵字字母打橫行相交嗰點，就係對應呢個明文字母嘅密文字母。
-12914626	yue	維吉尼密碼法會用到一幅表格－喺英文入面，呢幅表格會係一個 26 × 26 格嘅矩陣，每一條橫行都係有齊嗮 26 個英文字母，每一行都係打前嗰後向左移咗 1 格，即係第一行會係 A 開頭跟住出嗮淨低嗰 25 個字母，第二行會係 B 開頭跟住出嗮淨低嗰 25 個字母，第三行會係 C 開頭跟住出嗮淨低嗰 25 個字母。
-12914627	yue	有好多廿一世紀初嘅網站都會要求用家入通行碼先至可以簽到，簽到咗先至有得用某啲功能（好似下圖噉）－喺正常情況下，淨係得真正嘅用家先會知段通行碼，所以如果一個用家入到段啱嘅通行碼，佢應該就會係真正嗰位用家。
-12914628	rus	У тебя нет подруг?
-12914629	rus	У вас нет подруг?
-12914630	rus	Здание очень высокое.
-12914631	rus	Пёс Тома Фидо укусил Мэри.
-12914632	asm	বংশবৃদ্ধিৰ প্ৰতি মোৰ আগ্ৰহ নাই।
-12914633	asm	টমে গাখীৰ নাখায়।
-12914634	asm	টমে মদ নাখায়।
-12914635	asm	টমে সংস্কৃত নুবুজে।
-12914636	asm	টমে বেলকনীত চিগাৰেট খায়, কিন্তু মেৰীয়ে একেবাৰেই ভাল নাপায়।
-12914637	rus	Ты не поверишь, что вчера было.
-12914638	asm	ঈশ্বৰে ৰং-ৰূপ নাচায়, ঈশ্বৰে মানুহৰ ভিতৰত কি আছে সেয়া চায়।
-12914639	rus	Вы не поверите, что вчера было.
-12914640	rus	Я хочу многому тебя научить.
-12914641	rus	Я хочу многому вас научить.
-12914642	asm	ইটালী বা স্পেইনৰ দৰে ফ্ৰাঞ্চৰ চৰকাৰে সকলো ক্ৰীড়া-সম্বন্ধীয় কাৰ্য্যকলাপ নিষিদ্ধ নকৰে।
-12914643	rus	Том начал восхождение.
-12914644	rus	Том начал подъём.
-12914645	asm	"কথাটো শুনিবলৈ আচহুৱা: টম্ আমাৰ বিশ্বব্ৰহ্মাণ্ডৰ নহয়।" "কি?"
-12914646	asm	আপুনি দয়ালু আৰু দৃঢ় দুয়োটাই হ’ব পাৰে। এটাই আনটোক প্ৰতিৰোধ নকৰে।
-12914647	rus	Да, он мне действительно нравится.
-12914648	rus	Да, она мне действительно нравится.
-12914649	rus	Да, мне это действительно нравится.
-12914650	asm	সিহঁতক ভিৰাব পাৰি তাৰমানে এইটো নহয় যে সিহঁত আপোনাৰ কথাত একমত।
-12914651	rus	Я каждый день занимаюсь испанским.
-12914652	asm	চিন্তা নকৰিব, গোচৰীয়াৰ থিয় হ’বলৈ ভৰি নাই।
-12914653	asm	এনেকুৱাও হ’ব পাৰে যে টমে মেৰী ক’ত আছে নাজানে।
-12914654	asm	যদি আপোনাৰ তেজত দুয়োটা এণ্টিজেনেই নাথাকে, তেন্তে সেয়া টাইপ O।
-12914655	rus	Я очень жду твоего звонка.
-12914656	rus	Жду твоего звонка. Пока!
-12914657	asm	টমে এখন কিতাপ লিখি আছে, কিন্তু সেইখনৰ শিৰোনাম এতিয়াও নাই।
-12914658	rus	Я готовил всё по рецепту.
-12914659	asm	"টম্, সম্পূৰ্ণ অনশন ধৰ্মঘটত প্ৰটীন-ষ্টাইল হেমবাৰ্গাৰ নাথাকে," মেৰীয়ে ক’লে।
-12914660	rus	Сегодня утром было ниже минус трёх.
-12914661	rus	Я их открыл.
-12914662	rus	Я их обнаружил.
-12914663	rus	Ну-ка, что тут у нас...
-12914664	rus	А он не сказал, куда пошёл?
-12914665	rus	Ты напрасно его не слушал.
-12914666	rus	Ты напрасно её не слушал.
-12914667	rus	Вы напрасно его не слушали.
-12914668	rus	Вы напрасно её не слушали.
-12914669	asm	বহুত বেছি বয়সৰ পাৰ্থক্য থকা লোকৰ মাজত সম্পৰ্ক স্থাপন কৰাটো সমাজে সমৰ্থন নকৰে।
-12914670	asm	আগৰ ছীটত নবহিলে মেৰীৰ মূৰ ঘূৰাব পাৰে।
-12914671	asm	ভাল হ’বই বুলি ক’ব নোৱাৰি, কিন্তু আমি কৰিলে ভাল হ’ব পাৰে।
-12914672	asm	বৰ্তমান উপলব্ধ প্ৰমাণে মোক এনে দাবী কৰিবলৈ অনুমতি নিদিয়ে।
-12914673	rus	Хочешь, я это улажу?
-12914674	rus	Хотите, я это улажу?
-12914675	rus	Хочешь, я этим займусь?
-12914676	asm	সেই ব্যাকৰণগত গঠন ভাষাটোৰ কথিত পঞ্জীত নাই।
-12914677	asm	টম্ এজন ভাষাবিদ যদিও তেওঁ কোনো বিদেশী ভাষা ক’ব নোৱাৰে।
-12914678	rus	Хочешь, я с этим разберусь?
-12914679	rus	Хотите, я с этим разберусь?
-12914680	rus	Предлагаю вам сделку.
-12914681	yue	故仔嘅女主角係一個頭髮好長嘅女仔（長髮妹），佢好細個嗰時就畀一個邪惡嘅女巫韞咗喺一座高塔入面。女巫將佢囚禁喺高塔裏面，唔畀佢去外面嘅世界。
-12914682	yue	打後長髮妹巧遇王子，兩個人合力，令到長髮妹得以脫離女巫嘅魔掌。最後長髮妹同王子結婚，大家都開開心心噉生活落去。2012 年嘅迪士尼動畫片《魔髮奇緣》就係取材自呢個故仔嘅。
-12914683	yue	主角係個生得好靚嘅後生女，佢叫「灰姑娘」；根據《格林童話》個版本，灰姑娘嘅後抵乸同兩個繼姐虐待佢，當佢係工人噉嚟使。有日，宮廷想搞舞會。
-12914684	yue	本來灰姑娘冇得出席，但係佢得到親生阿媽嘅靈魂幫助，得以著住靚衫同金鞋去舞會，佢仲喺舞會上同王子墮入愛河。灰姑娘冇講佢真正身份畀王子知，但灰姑娘離開舞會嗰陣唔覺意漏低咗隻鞋。打後王子靠住隻鞋搵返佢，仲娶埋佢做老婆，而灰姑娘嗰兩個黑心嘅繼姐亦冇好下場。迪士尼將呢個故仔改編咗做動畫片《仙履奇緣》。
-12914685	yue	移民去邊，最近成為咗香港人嘅熱門議題，而英國更加係熱門啲。佢哋考慮緊移民嘅時候，往往面對住一個問題：去到英國應該點生存？香港人才就多啲，但能唔能夠喺嗰度發光發亮，相信都係一種挑戰。然而，香港人大多數識得三種語言，尤其喺粵語加成下，更加係具備埋優勢。
-12914686	yue	喺英國一啲求職網站入面，如果輸入cantonese或者Chinese，就會發現好多工作都要求咗啲員工識得流利粵語能力嘅工作，涵蓋埋範疇都廣泛啲。蘋果新聞編輯曾經瀏覽英國求職網站，發現英國對會計師、律師助理、數據分析師、客戶服務、市場行銷、客戶管理等職業需求頗大，當中亦都不乏薪金好嘅崗位可供應徵。
-12914687	yue	除此之外，英國職場對亞洲市場、文化嘅認知相對模糊，基本上認為日本、韓國以及中國等地其實並冇乜分別，甚至語言都係一致。但香港人經常喺亞洲各地旅行，成長緊嘅過程都吸收唔少亞洲文化，對亞洲嘅理解相對完整同成熟，亦都了解唔同國家嘅文化差異。呢種現象，對於主打緊亞洲市場嘅企業，冇異起咗好大作用。當然，護理、金融、法律、科技呢啲專業領域，英國亦需求甚大。而香港就係培育咗好多呢方面嘅人才、專業人士。
-12914688	yue	首先，同大家普及一吓粵文嘅基本知識。世界上所有嘅語言都可以分成十一個語系，而粵文屬於漢藏語系。而漢藏語系有四個分支，粵文屬於漢語族。而漢語族有七大語言，分別係官話、湘語（湖南語）、贛語（江西語）、吳語（江浙語）、閩語（福建語）、粵語、客家話。而官話就係我哋平時叫嘅「中文/書面語」，而粵文就係我哋平時叫嘅「口語」。
-12914689	yue	其實所謂「方言」絕對有資格成為獨立語言！將「方言」作為母語使用者嘅人數大過唔少歐洲語言。例如，吳語使用者人數喺世界排名佔據第10位，粵語第15位，法文第18位，閩語第23位，波蘭語27位。
-12914690	yue	更重要嘅係，「方言」之間嘅差異係大過歐洲諸語之間嘅差異！官話與粵語之間嘅差異，大過俄文、烏克蘭文同埋捷克文之間嘅差異。粵語與閩語之間嘅差異，大過瑞典文、挪威文同埋丹麥文之間嘅差異！
-12914691	yue	而粵文就係香港人嘅自發秩序！英國政府統治下嘅香港，官方對粵語唔加任何管制，任其得佢自由噉發展，並冇法例規定香港人一定要講粵語，但香港人都會去講粵語，講粵語成為香港人約定俗成嘅共識！
-12914692	yue	喺台灣，台語一直係台灣人嘅「自發秩序」。國共內戰失利嘅國民政府，退守台灣，之後立法禁止台語，呢個行為就係破壞台灣人嘅「自發秩序」！香港中文DSE考試規定要以官話作答，呢個行為就係破壞香港DSE考生嘅「自發秩序」！
-12914693	yue	世界上好多民族嘅語言都係基於「自發秩序」！例如日文。當時漢字傳入日本，日本人就直接借咗漢字嚟做音標，然後日本人覺得漢字太繁複，好煩！再將漢字簡化，成為今日嘅日文！日文係日本人嘅「自發秩序」，而粵文就係香港人嘅自發秩序！除咗語言，好多民族文化都係基於「自發秩序」！簡單啲噉嚟講，「民族建構」就係基於「自發秩序學」！
-12914694	yue	有人認為，粵文係粗曠低俗！鄉下仔MK仔先用！我哋呢啲高級知識分子點會用？十六世紀個陣，英文都仍然係方言鄉下話！著名英國哲學家Francis Bacon法蘭西斯·培根，寫書就用拉丁文，平時吹水就用英文。當時無人諗到，而家嘅世界名著《哈姆雷特》、《羅密歐與茱麗葉》及《李爾王》，會用英文寫！
-12914695	yue	「民族建構」係為咗未來！而家粵文係粗曠低俗，唔代表一百年後都係！更何況，而家粵文嘅發展基礎，都好得過當時嘅波蘭文同埋烏克蘭文！
-12914696	yue	烏克蘭文係一個極好嘅例子！十九世紀嘅烏克蘭文，都係鄉下話！烏克蘭喺沙俄帝國嘅統治下，烏克蘭文被所有學校禁止！淨係得烏克蘭西部地區未被禁止。就係咁烏克蘭語成為咗烏克蘭西部地區「自發秩序」！
-12914697	yue	但當時嘅烏克蘭大作家，如Nikolai Gogol果戈里都不屑用烏克蘭文，認為俄文比較高尚同埋標準啲，全部大作品都係用俄文寫！
-12914698	yue	喺呢個時候，與Nikolai Gogol果戈里同時期嘅一位詩人，騰空出世！佢就係烏克蘭民族主義詩人Taras Shevchenko塔拉斯·舒夫真高！佢一生嘅大部分作品都堅持用開烏克蘭文寫，作品水平極高，當時震撼晒整個烏克蘭。而家，佢喺烏克蘭被認為係現代烏克蘭語嘅奠基者，亦係一位烏克蘭民族英雄！喺烏克蘭首都基輔就有佢嘅雕像！
-12914699	lvs	Man nepatīk pārāk stipra kafija.
-12914700	yue	所以話，一個語言係高級與否，好大程度取決於有冇大作品！好可惜，目前大部份嘅香港作家都未嘗試用粵文創作。
-12914701	yue	我知道有啲識得中文嘅文人可能會介意，認為自己寫得一手好古文，點解要放下身段，寫粵文？但連當時嘅民國大師都可以拋棄文言文，點解你唔可以？一個高水平嘅人，無論寫咩文體，終究都係高水平！魯迅同埋梁啟超就係一個好例子。
-12914702	yue	喺呢篇粵文評論文章入面，作者會由個人經歷出發，敍述廣東話喺過去十年點樣由作文功課唔俾寫嘅「口語」變成佔據香港文學重要市場嘅「粵文」。作者會引用語言學嘅案例，解釋點解寫粵語係大勢所趨，並可以鞏固埋香港人嘅身份認同、文化優勢。鼓勵讀者，無論語境雅俗，都應該用多啲粵文。
-12914703	yue	細細個開始，我就知道粵語係一種有規有矩嘅語言，而且係寫得出嘅。我阿公係番禺人，媽咪係中學中文老師，所以屋企講嘅係好標準嘅粵語。香港嘅主流中小學要學「兩文三語」，一個「中文」對應緊「粵語」、「華語」兩語。我知道「書面語」同「口語」嘅分別，又知道雖然書面語用粵語教，但其實似華語多過似粵語。諗返起嚟，呢個同我大個咗對學外語同語言學有興趣，都有啲關係。
-12914704	yue	小學中文堂學寫便條嗰陣我一啲都唔覺得陌生，因為喺屋企，媽咪會寫張紙貼喺雪櫃道門，提我同爹哋有咩早餐食、有乜嘢要帶等等。但同學校教嘅便條有啲唔同，屋企嘅便條會夾雜埋粵語，所以「煲湯」、「帶遮」、「落街食飯」等等香港粵語嘅詞彙，我都識寫識睇。我高小同初中又有做話劇，咁劇本就梗係逐字記錄演員應該講緊啲乜。所以我由細就知道點寫粵語，不過寫粵語主要係用嚟記錄口述內容。返學作文、寫啲要登大雅之堂嘅嘢就要用返中文。
-12914705	yue	我做咗粵文推手，契機係2006年創立嘅《粵語維基百科》。我諗睇呢篇文嘅人應該全部都睇過《維基百科》。我發現維基百科係2004年嘅事，當時我讀緊中三，對化學好有興趣，所以就上網查下有關元素週期表嘅資料。睇睇下，見到有個網站啲資料有漏，但隔籬竟然有個「edit」掣。
-12914706	yue	我好奇就撳咗落去，點知真係改咗佢版嘢！呢個就係英文維基百科。後來我又發現原來又有中文維基百科，自此我就諗住寫維基百科，寫到而家。
-12914707	ron	Am o fată.
-12914708	ron	Eu am o fată.
-12914709	ron	O fată am.
-12914710	ron	Eu o fată am.
-12914711	yue	2006年，維基百科想開粵語版，要搵啲粵語母語者戥腳。我當時喺中英文版寫開科學文章，心諗，粵語百科即係將喺尖沙咀太空館個菠蘿包度睇嗰啲科學大電影嘅旁白寫返出嚟啫，有心唔難做。
-12914712	yue	所以我就做咗粵語維基百科其中一個創始管理員，做到而家。我加入咗之後，先至發現原來粵語維基百科嘅爭議性好大：「維基百科嘅理念係傳遞知識，但係所有識睇粵語嘅人都識得睇中文，你開個粵語版唔啱維基宗旨。」我嗰年去選香港傑出資訊科技學生，評判又問：「粵語係口語唔係書面語，點解你覺得可以攞嚟寫百科全書？」問到我口啞啞。
-12914713	lat	Filiam et filium habeo.
-12914714	yue	呢個時候反而係我個教咗好多年標準中文嘅媽咪嚟鼓勵我。「曹雪芹當年寫《紅樓夢》都畀人話佢寫白話，唔得文雅，結果二百年後變成傳世經典。你今日用粵語寫百科引來爭議，但你唔寫又點知你個粵語維基百科二百年後會唔會變成經典？」所以我就繼續寫粵語維基，嚟咗英國讀書之後都繼續得閒就寫吓，算係一種興趣。
-12914715	yue	之後嗰幾年，粵語維基百科除咗改咗名做《粵文維基百科》此外，其實冇乜大變化，寫文嘅來來去去都係嗰幾丁友。睇嘅人自然亦都唔多，還店有得睇中文同英文版。
-12914716	yue	2015年初，佔領運動無功而還，香港嘅年輕人越來越覺得，中國咁樣逼迫香港，香港人做咩要做中國人？我點解要寫中文、講漢語？香港有香港粵語呢種地道語文，呢個先係我哋嘅文化。寫粵文變成咗一種香港人、以至粵人嘅身份象徵，一種特登同「中國」唔同嘅身份象徵。
-12914717	yue	呢股文化風潮帶動《毛記電視》等等會直接寫粵文嘅大眾媒體興起，將粵文帶入大眾文化，令香港影視跳出「聽粵語睇中文書面語字幕」嘅框框。
-12914718	yue	呢股風潮亦帶挈《粵典》呢個「以粵解粵」嘅網上協作詞典、以至《香港語文：聽陳蕾士嘅秘密》呢本「粵文範文讀本」。粵文維基百科亦突然多咗好多有心嘅編輯支持，同埋讀者嘅欣賞。
-12914719	ron	Am o fată și un băiat.
-12914720	ron	Am o fiică și un fiu.
-12914721	ron	Eu am o fată și un băiat.
-12914722	yue	香港人講粵語、寫建基於北方漢語嘅中文，呢個現象喺語言學上叫做「雙層語言」，或者「言文並行」。言文並行係正常現象：隨住語文自然演化，講嘅口語同寫嘅書面語容易因為語境唔同而慢慢分化緊，直至兩者明顯唔同晒，成為雙層語言。
-12914723	yue	有時一個地方為咗保持同鄰近文化嘅聯繫，會獨立發展自己嘅口語，但喺書面語教育方面就跟貼一種同源語言嘅發展。呢款言文並行現象唔淨係得香港有，塞浦路斯（學希臘文）同瑞士（學德文）都有。
-12914724	yue	但歷史話俾我哋知，言文並行現象通常唔得持久得咁耐。每當書面語同口語嘅分別大到文人都覺得溝通困難，就會衍生咗一種建基於當代口語嘅新文體。
-12914725	yue	呢種新文體因為近似日常用語，自然好快普及，直至官式場合同教育系統決定棄用舊書面體，改用更近當代口語嘅文體做新書面體。
-12914726	yue	無論係拉丁文被各種現代西歐語言取代，中文文言文喺民國年代被現代北方話白話文取代，定係古希臘文喺羅馬帝國時代被通用希臘文取代、再喺二十世紀被現代希臘文取代，都印證呢個歷史潮流。簡單嚟講，粵文取代北方話書面語，成為香港嘅普及文體，係遲早嘅事。我呢篇文用粵文寫，亦只不過係順應歷史潮流，唔好阻住個地球轉。
-12914727	ron	Eu am o fiică și un fiu.
-12914728	fra	J'ai une fille et un fils.
-12914729	deu	Ich habe eine Tochter und einen Sohn.
-12914730	eng	I have one daughter and one son.
-12914731	spa	Tengo una hermana y un hijo.
-12914732	yue	今日香港嘅文化主體性被好多政治壓力攻擊。政客羅織住各種嘅大話，話學粵語冇用，因為唔夠中文、英文咁多人用。
-12914733	yue	但香港有七百萬人，粵語共有六千萬母語用者，粵語文化圈仲有世界各地鍾意聽廣東歌、睇港産片嘅受眾。芬蘭得六百萬人，又唔見芬蘭人話放棄芬蘭文？芬蘭人唔淨係得學芬蘭文，仲要必學同芬蘭文無同源關係嘅瑞典文同英文，唔少學生仲會學其他外語，但芬蘭嘅教育系統冠絕全球。香港粵語做乜妄自菲薄？
-12914734	yue	語言習得並唔係此消彼長嘅關係。既然香港學生搞得掂兩文三語，點解唔索性寫好粵語，變成三文三語？學好唔同語文、語境之間嘅分別，可以令溝通得更加清晰。一個人透過唔同語文學返嚟嘅概念亦能夠互相增潤。
-12914735	yue	《白雪公主》嘅主角係一位公主，佢生得好靚，頭髮純黑得嚟肌膚又好似雪咁白淨，所以個名叫「白雪」公主。根據家陣流通嗰個版本，白雪個母后妒忌白雪生得靚過佢，所以就多次嘗試殺害白雪。
-12914736	yue	白雪公主因而逃離城堡，走入森林受到七個小矮人收留。打後惡毒女皇扮成阿婆請白雪公主食毒蘋果，搞到白雪公主昏迷不醒，不過最後王子嚟到救返醒白雪公主，而惡毒女皇最後亦都冇好收場。
-12914737	yue	自從廿世紀起，《白雪公主》就畀人改編咗做好多唔同嘅影視作品，例如係迪士尼動畫片《雪姑七友》噉，而日本嘅著名恐怖漫畫家伊藤潤二就有畫恐怖版嘅《白雪公主》漫畫。
-12914738	lat	Ego filiam et filium habeo.
-12914739	ron	Eu, am o fată și un băiat.
-12914740	ron	Eu, am o fiică și un fiu.
-12914741	fra	Moi, j'ai une fille et un fils.
-12914742	lvs	Labdien!
-12914743	spa	Yo tengo una hija y un hijo.
-12914744	ltg	Loba dīna!
-12914745	lvs	Tas bija pārmērīgi.
-12914746	lvs	Tas bija nomācoši.
-12914747	yue	如果你睇得明呢篇文，即係你已經識睇粵文。咁我畀你嘅挑戰就係寫多啲粵文，唔好再覺得粵語「只係口語，難登大雅之堂」。大雅之堂係人搭出嚟嘅，要凝聚埋一個大雅之堂，首先就要由自己開始。
-12914748	deu	Habt ihr euch schon wieder gestritten?
-12914749	yue	何況正如我以上論證，善用每一門語文，都會增潤一個人嘅溝通能力。舊文言被新口語取代又係世界潮流。粵文已經寫得出、睇得明，而且已經有一股越吹越旺嘅文化風潮，點解唔用多啲？
-12914750	deu	Du schienst das mehr als Tom zu wollen.
-12914751	deu	Ihr schient das mehr als Tom zu wollen.
-12914752	deu	Sie schienen das mehr als Tom zu wollen.
-12914753	yue	今日香港人嘅文化同身份慢慢畀外力係噉侵食緊，粵文正好可以成為香港人身份認同嘅一個焦點，更加應該努力噉發展。傳承語言文化，唔使專業技能，唔使天資異稟，只需多啲講多啲寫。祝大家暢所欲言。
-12914754	deu	Biete Tom doch an, ihm dabei zu helfen!
-12914755	deu	Bietet Tom doch an, ihm dabei zu helfen!
-12914756	deu	Bieten Sie Tom doch an, ihm dabei zu helfen!
-12914757	deu	Biete doch an, Tom dabei zu helfen!
-12914758	deu	Bietet doch an, Tom dabei zu helfen!
-12914759	deu	Bieten Sie doch an, Tom dabei zu helfen!
-12914760	deu	Wie hast du dieses Bewertungssystem entwickelt?
-12914761	deu	Wie habt ihr dieses Bewertungssystem entwickelt?
-12914762	deu	Wie haben Sie dieses Bewertungssystem entwickelt?
-12914763	deu	Wie oft machst du solche Fehler?
-12914764	deu	Wie oft macht ihr solche Fehler?
-12914765	deu	Wie oft machen Sie solche Fehler?
-12914766	yue	香港第一本全粵語嘅文學期刊正式推出！香港好多嘅文學作品都係得中文，而呢本文學期刊用嘅係真正代表香港人嘅語言──粵文。
-12914767	deu	Ich hoffe, Tom und Maria wissen nicht, was du getan hast.
-12914768	deu	Ich hoffe, Tom und Maria wissen nicht, was ihr getan habt.
-12914769	deu	Ich hoffe, Tom und Maria wissen nicht, was Sie getan haben.
-12914770	yue	相信大家都睇過網上作家寫嘅故仔，一開始用粵語寫，出咗名之後又會俾中文嘅版本取替，但其實對香港人嚟講，粵語一睇就明，最有親切感。點解粵語嘅作品一直都冇得發展埋落去？
-12914771	deu	Hast du vergessen, was Tom gesagt hat?
-12914772	deu	Habt ihr vergessen, was Tom gesagt hat?
-12914773	deu	Haben Sie vergessen, was Tom gesagt hat?
-12914774	epo	Ĉu vi forgesis, kion Tomo diris?
-12914775	yue	同樣用繁體字嘅台灣，人口高過香港三倍，用華語寫成嘅中文就變成咗主流，用粵語寫得再好嘅作品都係要符合返佢地嘅市場，最終香港嘅文學作品咪得返純中文。
-12914776	deu	Du tust das nicht so wie Tom und Maria.
-12914777	deu	Ihr tut das nicht so wie Tom und Maria.
-12914778	deu	Sie tun das nicht so wie Tom und Maria.
-12914779	epo	Vi ne faras tion same, kiel Tomo kaj Manjo.
-12914780	yue	呢本文學期刊集合咗唔同嘅網上粵語作家，一齊嘗試用吓唔同嘅文體，寫一啲高質嘅小說散文出嚟，會唔會有一日會喺香港教科書上見到呢啲粵語文學作品呢？希望有意捍衛香港本土同埋粵文化、又熱愛粵語嘅香港人會支持呢本全粵語嘅文學期刊！
-12914781	deu	Du weißt, daß Tom nichts trinken sollte.
-12914782	deu	Ihr wißt, daß Tom nichts trinken sollte.
-12914783	deu	Sie wissen, daß Tom nichts trinken sollte.
-12914784	deu	Tom ist jünger als du, oder?
-12914785	deu	Tom ist jünger als ihr, oder?
-12914786	deu	Tom ist jünger als Sie, oder?
-12914787	epo	Tomo estas pli juna ol vi, ĉu ne?
-12914788	deu	Wann wolltest du Tom und Maria denn sagen, daß sie am Montag länger arbeiten müssen?
-12914789	deu	Wann wolltet ihr Tom und Maria denn sagen, daß sie am Montag länger arbeiten müssen?
-12914790	deu	Wann wollten Sie Tom und Maria denn sagen, daß sie am Montag länger arbeiten müssen?
-12914791	deu	Ich habe das Buch, das du mir gegeben hast, Tom geliehen.
-12914792	deu	Ich habe das Buch, das ihr mir gegeben habt, Tom geliehen.
-12914793	deu	Ich habe das Buch, das Sie mir gegeben haben, Tom geliehen.
-12914794	deu	Ich habe das Buch, das du mir geschenkt hast, Tom geliehen.
-12914795	deu	Ich habe das Buch, das ihr mir geschenkt habt, Tom geliehen.
-12914796	deu	Ich habe das Buch, das Sie mir geschenkt haben, Tom geliehen.
-12914797	deu	Ich gehe mal davon aus, daß Tom das, worum du ihn gebeten hast, nicht tun wird.
-12914798	deu	Ich gehe mal davon aus, daß Tom das, worum ihr ihn gebeten habt, nicht tun wird.
-12914799	deu	Ich gehe mal davon aus, daß Tom das, worum Sie ihn gebeten haben, nicht tun wird.
-12914800	epo	Mi supozas, ke Tomo ne faros tion, pri kio vi petis lin.
-12914801	deu	Kannst du Boston auf der Karte finden?
-12914802	deu	Könnt ihr Boston auf der Karte finden?
-12914803	cmn	咳嗽的時候會痛嗎？
-12914804	deu	Können Sie Boston auf der Karte finden?
-12914805	deu	Kannst du auf der Karte Boston finden?
-12914806	deu	Könnt ihr auf der Karte Boston finden?
-12914807	deu	Können Sie auf der Karte Boston finden?
-12914808	hun	Szégyenletes minden.
-12914809	epo	Ĉu vi povas trovi Bostonon sur la mapo?
-12914810	deu	Zusammen mit meiner Frau werden wir zu sechst sein.
-12914811	deu	Wir werden zu sechst sein, wenn man meine Frau mitzählt.
-12914812	hun	A vízben volt.
-12914813	hun	Félig volt a vízben.
-12914814	hun	A vízbe menekültek.
-12914815	deu	Du hast doch gerade erst zu Mittag gegessen. Wie ist es möglich, daß du noch immer Hunger hast?
-12914816	deu	Du hast doch gerade erst zu Mittag gegessen. Wie kann es sein, daß du noch immer hungrig bist?
-12914817	deu	Hat Tom dir wirklich nicht gesagt, daß er das vorhatte?
-12914818	deu	Hat Tom euch wirklich nicht gesagt, daß er das vorhatte?
-12914819	cmn	她笑是爲了掩飾自己的恐懼。
-12914820	deu	Hat Tom Ihnen wirklich nicht gesagt, daß er das vorhatte?
-12914821	epo	Ĉu Tomo vere ne diris al vi, ke li intencas fari tion?
-12914822	deu	Du solltest das letzte Wort haben.
-12914823	deu	Ihr solltet das letzte Wort haben.
-12914824	deu	Sie sollten das letzte Wort haben.
-12914825	deu	Ich habe dich eigentlich gar nicht mehr lieb.
-12914826	deu	Wie verglichest du die beiden?
-12914827	deu	Wie verglichet ihr die beiden?
-12914828	deu	Wie verglichen Sie die beiden?
-12914829	deu	Wie würdest du die beiden vergleichen?
-12914830	deu	Wie würdet ihr die beiden vergleichen?
-12914831	deu	Wie würden Sie die beiden vergleichen?
-12914832	yue	粵人主要係漢族同百越族嘅混血血統，有唔同嘅本地遺傳群，暗示咗以地區語言為基礎嘅內婚，粵人喺文化上源自自秦時代以來一條非常早期同持續嘅中原漢殖民者流 華人喺南方產生咗人口變化，導致吸收咗泰語少數群體。
-12914833	epo	Kiel vi komparus la du?
-12914834	yue	父系上，漢族廣府民系係百越族同北漢族男性嘅後代。 母性上，漢族廣府民系主要係由百越女性嘅後代。 整體而言，廣東人淨係顯示出主導性嘅更明顯嘅普遍漢族父系血統。 呢個同平華同坦卡人口形成咗對比。
-12914835	deu	Du solltest doch mit Tom sprechen.
-12914836	yue	嶺南建築偏好淡色啲，例如白色同灰綠色，展示咗直而唔係彎曲嘅屋頂脊，同喺埋兩端使用「窩樓或者歐米茄形結構」，同埋採用開放式結構，例如陽台、天窗同露台 為咗適應南方嘅熱帶氣候，建築物亦都通常高過北方建築物嘅冷卻同通風。
-12914837	deu	Ihr solltet doch mit Tom sprechen.
-12914838	deu	Sie sollten doch mit Tom sprechen.
-12914839	deu	Warum mußt du nach der Schule noch dableiben?
-12914840	deu	Warum müßt ihr nach der Schule noch dableiben?
-12914841	deu	Warum müssen Sie nach der Schule noch dableiben?
-12914842	deu	Wie oft hilfst du Tom bei den Hausaufgaben?
-12914843	deu	Wie oft helft ihr Tom bei den Hausaufgaben?
-12914844	deu	Wie oft helfen Sie Tom bei den Hausaufgaben?
-12914845	yue	嶺南流行文化透過媒介香港電影一直負責開創新嘅流派同風格嘅發展，同埋為香港電影業鋪路呢啲創新包括動作喜劇類型嘅發展，例如電影嘅《神》同埋《賭徒》, 係《吸血鬼先生》入面見到嘅喜劇恐怖類型嘅先驅，喺邪教經典同富含特效嘅實驗電影入面見到嘅普及儒家修煉奇幻小說類型，例如《香港鬼故事》同《魔法山》嘅祖戰士， 同埋透過成龍電影，例如《警察故事》，帶領複雜嘅編舞同特技嘅使用。
-12914846	deu	Hast du gesehen, was Tom geschickt hat?
-12914847	deu	Habt ihr gesehen, was Tom geschickt hat?
-12914848	deu	Haben Sie gesehen, was Tom geschickt hat?
-12914849	deu	Tom und Maria sind vermutlich gar nicht so beschäftigt, wie du denkst.
-12914850	deu	Tom und Maria sind vermutlich gar nicht so beschäftigt, wie ihr denkt.
 12914851	deu	Tom und Maria sind vermutlich gar nicht so beschäftigt, wie Sie denken.
 12914852	deu	Tom und Maria sind wahrscheinlich nicht so beschäftigt, wie du denkst.
 12914853	deu	Tom und Maria sind wahrscheinlich nicht so beschäftigt, wie ihr denkt.
@@ -1481,7 +1188,7 @@
 12916040	slk	Čo spôsobuje zubný kaz a ako sa mu dá predchádzať?
 12916042	slk	Zubný kaz je infekčné ochorenie.
 12916043	slk	Zubný kaz je bakteriálne ochorenie postihujúce tvrdé zubné tkanivá.
-12916044	tok	ike pi nasin mani li ni: jan ante li ken ala pali tawa sina lon tenpo ali.
+12916044	tok	ike pi nasin mani li ni: jan ante li ken ala pali tawa sina lon tenpo ale.
 12916045	eng	Step right up!
 12916046	eng	Step right up and win a goldfish!
 12916047	eng	Step right up and try your luck at this game, win a plushie!
@@ -2986,7 +2693,7 @@
 12917552	yue	喉嘴係靠局部或者完全阻礙管道嚟控制流體流動嘅構件；又係有分好多種類。
 12917553	dan	Tom var hjemme på det tidspunkt.
 12917554	yue	喉嘴嘅輸入：力；喉嘴嘅輸出：對流體郁動嘅限制； 用嚟俾使用者控制流體嘅流動。
-12917555	xmf	Chki vamosaç̌iruna lƨma.
+12917555	xmf	ჩქი ვამოსაჭირუნა ლიმა.
 12917556	yue	結構件定義上係指一啲負責確保部機械嘅各部份唔會走位嘅構件：支架由桁架同樑等嘅元件組成埋一齊。
 12917557	epo	Tomo estis hejme tiutempe.
 12917558	nld	Heb je Tom ooit zien dansen?
@@ -4750,7 +4457,7 @@
 12919324	kab	Aṭas n medden i ineqqen iman-nsen di tmurt.
 12919325	fra	Kaci a soif.
 12919326	fra	Je vis toujours dans notre maison.
-12919327	lfn	Ci destrui ardente sua casa, debe dormi a estra.
+12919327	lfn	Ci destrui ardente sua casa, dormi a estra.
 12919328	eng	The air is unclean because of the smoke.
 12919329	spa	Tenemos dos autos negros.
 12919330	rus	Мы потеряли контроль над роботами!
@@ -8297,7 +8004,7 @@
 12922888	kab	Ur qqaret ara adlis am win.
 12922889	rus	Я не могу вернуться назад и всё исправить.
 12922890	epo	Ĉu vi interesiĝas pri literatura surrealismo?
-12922891	rus	Невозможно вернуться назад и всё исправить, а значит надо просто перестать об этом думать.
+12922891	rus	Невозможно вернуться назад и всё исправить, а значит, надо просто перестать об этом думать.
 12922892	rus	Хотел бы я дожить до этого времени.
 12922893	fra	Voulez-vous que nous les tuions ?
 12922894	fra	Est-ce que vous voulez qu'on les tue ?
@@ -10230,7 +9937,7 @@
 12924825	lit	Tie, kurie nori išeiti, išeikite dabar.
 12924826	fra	Il faut nous dépêcher, sinon le magasin sera fermé.
 12924827	lit	Tie, kurie nori išeiti, gali tą padaryti dabar.
-12924828	tok	sona ala li nasin sewi lon ma Juwese. tenpo ali la, ni li lon. pilin ike tawa jan sona li suli mute lon nasin lawa mi, lon nasin kulupu mi, tan pilin ni pi lon ala: nasin lawa kulupu li toki e ni: sona ala mi li pona. sona sina li pona sama.
+12924828	tok	sona ala li nasin sewi lon ma Juwese. tenpo ale la, ni li lon. pilin ike tawa jan sona li suli mute lon nasin lawa mi, lon nasin kulupu mi, tan pilin ni pi lon ala: nasin lawa kulupu li toki e ni: sona ala mi li pona. sona sina li pona sama.
 12924829	lit	Jam idėja pradėjo patikti.
 12924830	fra	Ce bar est l'un de ses lieux de prédilection.
 12924831	fra	Le serveur a mis une nouvelle nappe sur la table.
@@ -10469,7 +10176,7 @@
 12925065	tok	waso lete li pona tawa mi.
 12925066	tok	mi ali li lon poki ni.
 12925067	tur	Otuz artı yetmiş yüz eder.
-12925068	tok	ni li ali lon ala.
+12925068	tok	ni li ale lon ala.
 12925069	lit	Atrodo, kad aš miške mačiau elfą.
 12925070	tur	Biz ABD'yi zaten ziyaret ettik.
 12925071	rus	Она немного отдохнула.
@@ -10496,7 +10203,7 @@
 12925092	tok	tenpo ni la mama sama mi li jan jo taso pi tomo tawa lon ma tomo lili.
 12925093	tok	mi tawa tenpo kulupu ni.
 12925094	lit	Man patinka jūsų telefonai.
-12925095	tok	telo pi ilo moku li pona tawa mi tan ni: mi awen sona e lon pi ilo ali.
+12925095	tok	telo pi ilo moku li pona tawa mi tan ni: mi awen sona e lon pi ilo ale.
 12925096	lit	Man patinka tavo telefonai.
 12925097	tok	tenpo suno ni la sina ken ala ken telo e ilo moku?
 12925098	tok	sina pana e ilo pi tawa sike lon seme?
@@ -10506,7 +10213,7 @@
 12925102	tok	mama pi jan Ton li pali tawa ante e kulupu.
 12925103	slk	Tento sa mi nepáči.
 12925104	fra	Manon, âgée de quatorze ans, commença à travailler.
-12925105	tok	soweli pona li moku e ali ala.
+12925105	tok	soweli pona li moku e ale.
 12925106	lit	Ar jūs man dabar padėsite, ar ne?
 12925107	slk	Nikdy sa nehnevám.
 12925108	fra	Manon commença à travailler à l'âge de quatorze ans.
@@ -10629,8 +10336,8 @@
 12925225	lfn	Esta criminor ia es conoseda par la polisia.
 12925226	yid	די חיות באָדן זיך אין טײַך.
 12925227	yid	איך קען נישט איבערזעצן אָן פֿאַרשטיין.
-12925228	yid	דאָס פֿאַרברעכער איז געווען באַקאַנט דער פּאָליציי.
-12925229	yid	דאָס פֿאַרברעכערין איז געווען באַקאַנט דער פּאָליציי.
+12925228	yid	דער דאָזיקער פֿאַרברעכער איז געווען באַקאַנט דער פּאָליציי.
+12925229	yid	די דאָזיקע פֿאַרברעכערין איז געווען באַקאַנט דער פּאָליציי.
 12925230	yid	ער וואַרט אויף דער וועטשערע.
 12925231	ina	Ille attende dinar.
 12925232	ces	Zní to zajímavě, takže mám zájem.
@@ -12362,7 +12069,7 @@
 12926965	lit	Ji prieštaravo šitam planui.
 12926966	kab	Yuḍen aṭan d aweɛṛan.
 12926967	lit	Aš išviriau bulves.
-12926968	fra	Ces vitamines aident les athlètes à améliorer leurs perfomances.
+12926968	fra	Ces vitamines aident les athlètes à améliorer leurs performances.
 12926969	kab	Uḍneɣ, ur k-ɛniɣ.
 12926970	kab	D acu i k-yuɣen? Tuḍneḍ?
 12926971	eng	These vitamins help athletes boost their performance.
@@ -13616,7 +13323,7 @@
 12928225	epo	Li estas etmensa.
 12928226	deu	Es wird starker Frost erwartet.
 12928227	gos	Klant is keuning.
-12928228	gos	n Keuning heerst.
+12928228	gos	n Keunenk heerst.
 12928229	epo	La makulon sur via laboratoria kitelo kaŭzis arĝenta nitrato.
 12928230	gos	Geld regeert de wereld.
 12928231	gos	Leven in stad bevil heur nait.
@@ -16130,7 +15837,7 @@
 12930748	eng	Maria doesn't like Tom's dog.
 12930749	tok	ni li pona ala tawa sina la mi mute li pana sin e mani sina tawa sina.
 12930750	tok	nasin ali li tawa ma tomo Pasen lon lipu Tatowepa.
-12930751	tok	nasin ali li tawa ma tomo Pasen.
+12930751	tok	nasin ale li tawa ma tomo Pasen.
 12930752	tok	sina wile ala wile e ni: mi uta e palisa sina?
 12930753	tok	soweli li telo e ona sama lon telo.
 12930754	tok	sina wile ala wile kute e toki musi ni?
@@ -16794,7 +16501,7 @@
 12931416	yid	מײַנע חבֿרטעס גלייבן מיר נישט.
 12931417	rus	Это уморительная пьеса.
 12931418	yid	מײַנע חבֿרים גלייבן מיר נישט.
-12931419	yid	אָט דאָס ליד איז נישט לײַכט צו לייענען.
+12931419	yid	דאָס דאָזיקע ליד איז נישט לײַכט צו לייענען.
 12931420	yid	כ׳וועל מאַכן די רײַז.
 12931421	yid	טאָם וווינט אין אַ פֿאַרלאָזענע מעטראָ־סטאַציע.
 12931422	rus	Я жду вашего приезда.
@@ -16806,7 +16513,7 @@
 12931428	rus	Я гуляю по городу.
 12931429	yid	אַ גרויסע כוואַליע קומט.
 12931430	rus	Я в прошлом году получил диплом по психологии.
-12931431	yid	איך ווייס, אַז איך קען מאַכן דאָס אַרבעט.
+12931431	yid	איך ווייס, אַז איך קען מאַכן די דאָזיקע אַרבעט.
 12931432	yid	אין עספּעראַנטאָ זענען נישטאָ קיין אומרעגולערע ווערבן.
 12931433	yid	אָט דאָס געוויקס האָט ליב די זון.
 12931434	rus	Держитесь в тени.
@@ -18236,7 +17943,7 @@
 12932866	rus	Я могу ошибаться, но по-моему, ты Тому нравишься.
 12932867	eng	He's seeking funding for the project.
 12932868	ber	Yettnadi-d idrimen i usenfar-nni.
-12932869	lvs	Man skola ir apnikusi.
+12932869	lvs	Man ir apnikusi skola.
 12932870	fin	Ostanko tuon sinulle?
 12932871	eng	He has to guess right.
 12932872	kab	Ur reggel ihi ɣef usentel!
@@ -19361,7 +19068,7 @@
 12933998	deu	Suchst du dieses Wort?
 12933999	deu	Er gehört nicht zu denen, die sich mit dem Erreichten zufriedengeben.
 12934000	deu	Was für ein ungezogener Hund!
-12934001	tok	ala li pona. taso ali li ken.
+12934001	tok	ala li pona. taso ale li ken.
 12934002	deu	Ich bin gerne bereit, meine Ansicht zu revidieren, wenn ihr gute Argumente bringt.
 12934003	epo	Ĉu tio estas observo aŭ interpreto?
 12934004	deu	Sie war unglaublich schön.
@@ -20397,7 +20104,7 @@
 12935038	nld	Tom spoelde zijn mond.
 12935039	hun	Ahhoz, hogy a fegyvereket el lehessen adni, háborúk kellenek és ellenségek.
 12935040	nld	Maria spoelde haar mond.
-12935041	nld	Ziri spoelde de druiven.
+12935041	nld	Ziri spoelde de druiven af.
 12935042	nld	Misschien lachte Tom.
 12935043	nld	Hij vormde geen financiële last voor haar.
 12935044	nld	Dat zal ze niet gelukkig maken.
@@ -20921,7 +20628,7 @@
 12935563	yid	מײַנע פֿוספֿינגער טוען וויי.
 12935564	pol	Dziadek usiadł na podnóżku.
 12935565	hun	Mire gondolt a költő?
-12935566	yid	פֿון וואַנען שטאַמט דאָס מענטש?
+12935566	yid	פֿון וואַנען שטאַמט דער דאָזיקער מענטש?
 12935567	szl	Mōmy dōma dwie ryczki.
 12935568	deu	Was meinte der Dichter?
 12935569	hun	Én ezt nem nevezném művészetnek.
@@ -22241,7 +21948,7 @@
 12936889	ber	Yessefk ad ixelleṣ.
 12936890	eng	He went on a picnic on Valentine's Day.
 12936891	ber	Yessefk ad yessemzi.
-12936892	gos	Tom is van aine dag op aander bekìnd worden.
+12936892	gos	Tom is van aine dag op aander bekend worden.
 12936893	eng	He had a lot of fun.
 12936894	ber	Yessefk ad yesmesker.
 12936895	oci	Ont es la plaça de mercat ?
@@ -22525,7 +22232,7 @@
 12937175	hye	Խնդրում եմ փակեք դուռը։
 12937176	eng	He got exactly what he needed.
 12937177	ber	Yella yesri ad d-yaf ugar n telɣa.
-12937178	gos	Wat beduudt dien noam?
+12937178	gos	Wat betaikent dien noam?
 12937179	ber	Yella yesri ugar n telɣa.
 12937180	hye	Ինչու՞ է դա աշխատում:
 12937181	ber	Yella yessefk ad d-inadi ugar n telɣa.
@@ -24067,7 +23774,7 @@
 12938724	ces	Tom už tu nebydlí.
 12938725	ces	Tom nemůže rozhodovat za vás.
 12938726	eng	Tom cannot decide for you.
-12938727	gos	Wèl is t wichtje mit wèl k die proaten zaag?
+12938727	gos	Wèl is t wichtje mit wèl k die proaten zag?
 12938728	ces	Vysvětlím vám to krok za krokem.
 12938729	lvs	Tas nebija pārāk viegli.
 12938730	lvs	Tas bija pārāk viegli.
@@ -28114,7 +27821,7 @@
 12942802	yid	טרעף!
 12942803	yid	יעדער לױט זײַן געשמאַק.
 12942804	yid	מיר אונטערשיידן זיך.
-12942805	gos	Zie vuilde aine zachies aan heur maauw tugen.
+12942805	gos	Zie vuilde aine zachies aan heur maauw trekken.
 12942806	yid	מיר זענען פֿאַרשידן.
 12942807	rus	В начале ты упомянул, что есть дополнения/плагины, которые могут менять это дефолтное поведение. Можешь привести парочку примеров?
 12942808	yid	בלײַב רויִק.
@@ -29413,7 +29120,7 @@
 12944107	fra	Je ne suis pas capable d'en estimer le prix.
 12944108	gos	t Ainege wastoe doun kinst, is òfwachten.
 12944109	eng	The only thing you can do is wait.
-12944110	rus	Единственное, что вы можете делать, - это ждать.
+12944110	rus	Единственное, что вы можете делать, — это ждать.
 12944111	rus	Единственное, что тебе остаётся, - ждать.
 12944112	rus	Единственное, что вам остаётся, - ждать.
 12944113	fra	C'est une salade.
@@ -29505,7 +29212,7 @@
 12944199	rus	Что бы вы ни говорили, я не передумаю.
 12944200	rus	Что бы ты ни говорил, я не передумаю.
 12944201	nld	Als je iets probeert te bewijzen, helpt het om te weten dat het klopt.
-12944202	gos	As je proberen om wat te bewiezen, helpt t om te waiten dat t klòpt.
+12944202	gos	As je proberen om wat te bewiezen, helpt t om te waiten dat t klopt.
 12944203	oci	Avètz escarraunhat mon nom.
 12944204	oci	As escarraunhat mon nom.
 12944205	oci	Un mot aimable a pas jamai escarraunhat la lenga.
@@ -29604,7 +29311,7 @@
 12944299	lat	Farinam emo.
 12944300	tok	ni li tomo musi.
 12944301	tok	ni li tomo pi sitelen tawa.
-12944302	tok	jan olin mi ali li jan tonsi sama mi.
+12944302	tok	jan olin mi ale li tonsi sama mi.
 12944303	tok	ijo pona li pona tawa jan Ton.
 12944304	tok	pilin ona la lon.
 12944305	tok	kama olin li pali lili. awen olin li namako.
@@ -29619,7 +29326,7 @@
 12944314	oci	David adoptèt Barbara.
 12944315	oci	Marie exagerava.
 12944316	tok	jan li toki wile e ni tawa jan Ano Losin: jan seme li pakala e ona la ona li toki e ni: "mama meli mi li pali e ni."
-12944317	tok	tenpo ali ala la mi pilin pona.
+12944317	tok	tenpo ale ala la mi pilin pona.
 12944318	oci	Manjarem ton pan.
 12944319	tok	ma tomo Ansetan li jo e nimi "Moken Ale" lon toki Makewisi.
 12944320	oci	Me cal enviar un fax.
@@ -31261,7 +30968,7 @@
 12945961	deu	Sein langes blondes Haar passt gut zu ihrer glänzenden Glatze.
 12945962	eng	His long blonde hair suits her shiny bald head well.
 12945963	spa	Perdona por haberte involucrado en esto.
-12945964	gos	De vent wuir vastbónden aan n poale.
+12945964	gos	De vent wuir vastbonden aan n poale.
 12945965	nld	De vent werd vastgebonden aan een paal.
 12945966	eng	The bloke got tied to a pole.
 12945967	deu	Der Typ wurde an einem Pfahl festgebunden.
@@ -32957,7 +32664,7 @@
 12947660	nld	De kippeneieren komen uit.
 12947661	nld	Vaccins worden geproduceerd met behulp van kippeneieren.
 12947662	nld	Koeien geven ons melk en kippen eieren.
-12947663	gos	Koier geven ons melk en tuten aaier.
+12947663	gos	Koien geven ons melk en tuten aaier.
 12947664	fra	Quand arriverons-nous à Sidney ?
 12947665	fra	Elle n'a pas vu ces hommes.
 12947666	tlh	muQannIS 'e' Qub tam vIneHbe'.
@@ -33274,7 +32981,7 @@
 12947979	epo	Mi kredis, ke Tomo mensogas.
 12947980	cmn	森美带了他的狗。
 12947981	cmn	我非常想见她
-12947982	cmn	汤姆三年前从高中学校毕业了
+12947982	cmn	汤姆三年前从高中毕业了。
 12947983	cmn	他说意大利语。
 12947984	eng	Tom doesn't know the difference between truth and lies.
 12947985	eng	I'm going to paint my house gray and blue.
@@ -33452,7 +33159,7 @@
 12948160	fra	Le nombre des natifs du 1 janvier est tellement élevé sur tout le territoire français qu'il faudrait y passer toute sa vie entière pour tous les compter.
 12948161	ber	Attan deg telmat.
 12948162	ber	Nella deg telmat.
-12948163	eng	He listents to music he likes.
+12948163	eng	He listens to music he likes.
 12948164	fra	J'ai l'as de carreau.
 12948165	ber	Atni deg telmat.
 12948166	ber	Atni deg turtit.
@@ -33864,7 +33571,7 @@
 12948574	szl	Jego auto bōło bezma naprawione.
 12948575	lat	Omnibus pacem et amorem in novo anno volo.
 12948576	szl	Jego autŏk bōł prawie naprawiony.
-12948577	gos	Voartsie zit ien ainhaid.
+12948577	gos	De kracht zit ien de ainhaid.
 12948578	szl	Pojadymy taksōm, ok?
 12948579	szl	Pojadymy taksōm, dobrze?
 12948580	szl	Jeżech sam piyrszy rŏz.
@@ -36933,10 +36640,10 @@
 12951653	rus	Откройте ворота!
 12951654	tok	ona li pilin e ni: ona sama li jan epiku pi toki musi.
 12951655	rus	Ай, нога!
-12951656	tok	tenpo ali li tenpo ni.
+12951656	tok	tenpo ale li tenpo ni.
 12951657	kab	Ur ẓriɣ ay iga waṭṭan-iw. Ugaɣ ur ttɛeṭṭileɣ ara ad mmteɣ.
 12951658	tok	mi awen toki.
-12951659	gos	t Veurvaal het zien noam bekìnd moakt.
+12951659	gos	t Veurvaal het zien noam bekend moakt.
 12951660	tok	sina lape la sina pona lukin.
 12951661	tok	pilin pi mi mute la jan Ton li sama jan moli.
 12951662	rus	Мне понравился этот разговор.
@@ -38549,7 +38256,7 @@
 12953271	ber	Yettwanfa seg yiɣrem.
 12953272	glg	A intelixencia artificial aínda está aprendendo moito – e quizais sempre seguirá aprendendo – da súa creadora, a intelixencia humana, que é unha faísca da Mente Universal.
 12953273	ber	Yella yeɣs ad yesnegzu Iferfucen.
-12953274	eng	He was doing carwheels.
+12953274	eng	He was doing cartwheels.
 12953275	ber	Ur tli ara akk imidiyen.
 12953276	ber	Ur nli ara ara akk imidiyen.
 12953277	eng	He needs to find a safer place.
@@ -42887,7 +42594,7 @@
 12957628	prg	As mukinna si sāmiskan.
 12957629	prg	As glaubāi tāutaskartins.
 12957630	prg	As turri dwāi alwinnins.
-12957631	rus	У студентов есть доступ к этим компьютерами.
+12957631	rus	У студентов есть доступ к этим компьютерам.
 12957632	rus	Студенты имеют доступ к этим компьютерам.
 12957633	prg	As turri kīrsnan kattinan.
 12957634	prg	As gimma en raggu.
@@ -43380,8 +43087,8 @@
 12958122	lfn	Lasa ce me responda a vos.
 12958123	lfn	No tota la avias pote canta.
 12958124	lfn	Esce me es permeteda esplica?
-12958125	lfn	Jua tua vacanse!
-12958126	lfn	Jua vosa vacanse!
+12958125	lfn	Joia tua vacanse!
+12958126	lfn	Joia vosa vacanse!
 12958127	lfn	Do la elfos vive?
 12958128	lfn	Vesti plu rapida tu.
 12958129	lfn	Vesti plu rapida vos.
@@ -44541,7 +44248,7 @@
 12959287	srp	Има само једно могуће решење.
 12959288	tok	mi sona e ni: mi tawa ma pi jan moli ike.
 12959289	tok	ilo sona li ante toki ike. mi ante toki pona.
-12959290	tok	waso ali ala li ken kalama musi.
+12959290	tok	waso ale ala li ken kalama musi.
 12959291	tok	mi ken ala ken pana sona e ni?
 12959292	srp	Има ли ишта у вашој соби, што ја не би требао да видим?
 12959293	ces	Zatím co byl v Číně, napsal knihu.
@@ -45007,7 +44714,7 @@
 12959754	ces	Měli jsme hlad.
 12959755	deu	Bist du wieder hineingegangen?
 12959756	deu	Seid ihr wieder hineingegangen?
-12959757	eng	He often says that we need to help eachother.
+12959757	eng	He often says that we need to help each other.
 12959758	deu	Sind Sie wieder hineingegangen?
 12959759	deu	Bist du wieder nach drinnen gegangen?
 12959760	deu	Seid ihr wieder nach drinnen gegangen?
@@ -45753,7 +45460,7 @@
 12960502	tok	tenpo ni la ilo lukin li lon ali.
 12960503	tok	mi lon tomo lipu. mi lukin e lipu.
 12960504	tok	jan Ton li awen ala e ona sama tan seme?
-12960505	tok	ali li pona tawa sina lon ona.
+12960505	tok	ale li pona tawa sina lon ona.
 12960506	deu	Der Laden sieht verwahrlost aus, als könne er beim nächsten Windstoß umfallen, ist aber immer von Stammgästen gut besucht.
 12960507	tok	ona li ma ona.
 12960508	tok	ona li ma pi ona mute.
@@ -45810,13 +45517,12 @@
 12960559	tok	kasi suli ni li jo e lipu suli.
 12960560	slk	Jeho meno nie je na zozname.
 12960561	tok	kasi suli ni li jo e lipu mute suli.
-12960562	tok	ni li ijo suli ali.
+12960562	tok	ni li ijo suli ale.
 12960563	kab	Yiwen uεekkaz i ten-yewten.
 12960564	eng	I see love as a valuable treasure.
 12960565	tok	mani lawa li lon ni.
 12960566	kab	Yiwen uεekkaz i ken-yewten.
 12960567	ita	Vedo l'amore come un tesoro di valore.
-12960568	kab	Yiwen uεekkaz i aɣ-yewten.
 12960569	slk	Vnímam lásku ako drahocenný poklad.
 12960570	eng	What's the reason for your resentment towards me?
 12960571	ita	Qual è il motivo del suo risentimento nei miei confronti?
@@ -45824,7 +45530,7 @@
 12960573	ita	Penso all'amore come a un bene significativo.
 12960574	eng	I believe love is a treasure.
 12960575	ita	Credo che l'amore sia un tesoro.
-12960576	tok	mi pilin sama ali. jan li toki e ni: sewi Atena li sewi sona. taso ona li pali pi ike ali e ni.
+12960576	tok	mi pilin sama ale. jan li toki e ni: sewi Atena li sewi sona. taso ona li pali pi ike ale e ni.
 12960577	rus	Мне одного хватит.
 12960578	rus	Мне одной хватит.
 12960579	rus	Тебе одного хватит?
@@ -47461,7 +47167,7 @@
 12962217	eng	He bought me a watch.
 12962218	rus	Она не любит своих пасынков.
 12962219	xmf	Ǩuepts ǩibirepi vauǧu.
-12962220	xmf	Gvalo djgiri iuuapu.
+12962220	xmf	გვალო ჯგირი იჸუაფუ.
 12962221	gos	Fadil verlait t huus van zien moeke.
 12962222	gos	Tom het mie verteld dat k die nait vertraauwen mout.
 12962223	xmf	Rusetishe vorek.
@@ -47906,10 +47612,10 @@
 12962665	yid	כ׳בין געבוירן אויפֿן מאַרס.
 12962666	yid	כ׳בין געבוירן אויף מאַרס.
 12962667	yid	טאָם האָט אַרויסגעצויגן דעם פּראָפּן פֿון דער ווײַן־פֿלאַש.
-12962668	yid	פֿריער איז דאָס מוזײ געווען אַ קלויסטער.
-12962669	yid	פֿריער איז דאָס מוזײ געווען אַ קירך.
-12962670	yid	פֿריער איז דאָס מוזײ געווען אַ שול.
-12962671	yid	פֿריער איז דאָס מוזײ געווען אַ בת־מדרש.
+12962668	yid	פֿריער איז אָט דער מוזײ געווען אַ קלויסטער.
+12962669	yid	פֿריער איז אָט דער מוזײ געווען אַ קירך.
+12962670	yid	פֿריער איז אָט דער מוזײ געווען אַ שול.
+12962671	yid	פֿריער איז אָט דער מוזײ געווען אַ בת־מדרש.
 12962672	deu	Fällt dir irgendwas ein, wie dieses Problem gelöst werden könnte?
 12962673	deu	Fällt euch irgendwas ein, wie dieses Problem gelöst werden könnte?
 12962674	deu	Fällt Ihnen irgendwas ein, wie dieses Problem gelöst werden könnte?
@@ -47940,7 +47646,7 @@
 12962699	yid	איך קען רעדן צוויי שפּראַכן.
 12962700	yid	איך קען צוויי שפּראַכן.
 12962701	yid	איך האָב ליב די טאַטע־מאַמע און זייער הונט.
-12962702	yid	דאָס בוים האָט גרויסע בלעטער.
+12962702	yid	אָט דער בוים האָט גרויסע בלעטער.
 12962703	kab	Tom izdeɣ di tmudrut.
 12962704	kab	Tom ila idrimen.
 12962705	eng	Tsunamis don't happen very often.
@@ -48311,7 +48017,7 @@
 12963071	hye	Չեմ սիրում շատ ոսկորներով ձուկ ուտել։
 12963072	hye	Մի բաժակ սուրճ եմ ուզում խմեմ։
 12963073	hye	Ի՞նչպես կարող էիր այդպես մտածել։
-12963074	xmf	Kirsiano mirdƨ.
+12963074	xmf	ქირსიანო მირდჷ.
 12963075	hye	Նվեր ստացա հսկայական տորթ։
 12963076	hye	Գիրք հանեց և սկսեց կարդել։
 12963077	hye	Վանա լիճը ամենամեծ լիճն է Թուրքիայում։
@@ -49998,3 +49704,297 @@
 12964768	lit	Dėkui, kad atėjote čia padėti!
 12964769	hye	Ես օրական միայն մեկ կերակուր եմ ուտում։
 12964770	hye	Ես ու Թոմը գնում ենք Ավստրալիա սովորելու։
+12964771	hye	Կխոսենք հետդ երկուշաբթի օրը։
+12964772	hye	Խնդրում եմ, ուտելու բան տո՛ւր ինձ։ Շատ սոված եմ։
+12964773	hye	Երեկ թողեց, որ Հովհանը մտնի։
+12964774	epo	La lima vilaĝo estis okupita de la agresanta najbara lando.
+12964775	hye	Կարաս գործիք նվագել։
+12964776	hye	Թոմը հանեց ատրճանակը։
+12964777	hye	Զիրին բան չարեց։
+12964778	hye	Զիրին բան չի արել։
+12964779	lit	Jūs buvote tikrai laimingi.
+12964780	hye	Այլընտրանք չկա։ Սա պետք է հիմա անել։
+12964781	hye	Ամեն ինչը պատրաստ է քո համար։
+12964782	epo	La gardistoj de Tomo proksimiĝis por flanki lin.
+12964783	hye	Նամակ եմ գրում։
+12964784	hye	Գայլ գառներին սպանեց։
+12964785	lit	Tai du pavyzdžiai, bet bus ir kiti.
+12964786	epo	Tomo ĉiam flankas la plej fortan homon.
+12964787	rus	Можешь мне ручку одолжить? Моя на ладан дышит.
+12964788	epo	Tomo emas flanki tiun, kiu plej flatas al li.
+12964789	rus	Можно ручку одолжить? Моя на ладан дышит.
+12964790	lit	Nauji metai yra stebuklų metas.
+12964791	ces	Tom byl jejich komplicem.
+12964792	eng	Tom was their accomplice.
+12964793	hye	Աղչիկը սիրում է շանը։
+12964794	lit	Jie daug apelsinų sulčių išgėrė.
+12964795	hye	Ո՞ւր ես տանում մեզ։
+12964796	lit	Už ką tu juos įžeidei?
+12964797	hye	Կխնդրեմ Թոմին սպասել մեզ։
+12964798	ces	Co si mám myslet?
+12964799	lit	Kodėl jūs juos įžeidėte?
+12964800	epo	Ĉu tiaĵo povas ŝrumpi?
+12964801	lit	Kodėl tu juos įžeidei?
+12964802	hye	Ինչո՞ւ ես ամեն ինչը տալիս բարեգորձության։
+12964803	lit	Dėl ko jūs juos įžeidėte?
+12964804	ces	Měli byste přijmout Tomovu omluvu.
+12964805	lit	Dėl ko tu juos įžeidei?
+12964806	eng	We can't just carry on as if nothing has happened.
+12964807	eng	We can't simply carry on as if nothing has happened.
+12964808	eng	We can't just carry on as though nothing has happened.
+12964809	hye	Ամեն ինչի հոտը նոր էր։
+12964810	lit	Už ką jūs juos įžeidėte?
+12964811	hye	Մերին սկսավ։
+12964812	hye	Ավստրալիայից չե՞ս։
+12964813	hye	Սա կապարի պես ծանր է։
+12964814	hye	Քանի՞ տաքսի կա Նյու Յորք քաղաքում։
+12964815	lit	Aš audžiu berberų kilimą.
+12964816	hye	Կանոններ կան։
+12964817	hye	Թոմը ուզում է մեզ կանգնացնել։
+12964818	lit	Jis paėmė duonos.
+12964819	hye	Ո՞նց ա մեր հարևանների հետ։
+12964820	hye	Ինչպե՞ս է մեր հարևանների հետ։
+12964821	fra	Je ne veux pas qu'on me voie comme ça.
+12964822	epo	Tomo ŝajnis ŝrumpi post la riproĉo de Maria.
+12964823	hye	Պորտուգալերեն եմ սովորում։
+12964824	hye	Թաքնվեցին ծառի հետևը։
+12964825	hye	Ընդունում եմ, բայց միայն մեկ պայմանով։
+12964826	ita	Tom era loro complice.
+12964827	ita	Vieni qui per un momento!
+12964828	ita	Vieni qua per un momento!
+12964829	ita	Venga qui per un momento!
+12964830	ita	Venga qua per un momento!
+12964831	ita	Venite qui per un momento!
+12964832	ita	Venite qua per un momento!
+12964833	hye	Ոչ ոք չմնած` օգնելու մաքրմանը։
+12964834	fra	C'est un bon coup au lit.
+12964835	hye	Թոմը իր նոր վերարկուն չի հագել։
+12964836	hye	Թոմը իրա թազա վերարկուն չի հագե։
+12964837	hye	Դա նրանն է։
+12964838	hye	Էտի իրանն ա։
+12964839	hye	Քթիցդ արյուն է գալիս։
+12964840	fra	C'est vraiment la poisse.
+12964841	hye	Եղանակը կատարյալ էր։
+12964842	lit	Jūsų gyvenimas vertingas.
+12964843	hye	Հետաքրքիր կլիներ, եթե դա պատահեր։
+12964844	lit	Jūsų gyvenimas yra vertybė.
+12964845	hye	Կասկածում են ինձ։
+12964846	hye	Չգիտեի, որ Թոմը ոստիկան էր։
+12964847	fra	Promets-moi que tu ne rigoleras pas.
+12964848	lit	Mes beveik kiekvieną dieną lošiame kortomis.
+12964849	fra	Tous les hommes sont comme ça.
+12964850	lit	Mes beveik kasdien kortuojame.
+12964851	hye	Թոմը ինձ հետևեց այստեղ։
+12964852	hye	Բացատրությունը դժվար չէր հասկանալ։
+12964853	epo	Ni kartludas preskaŭ ĉiutage.
+12964854	hye	Ես նույնիսկ ժամանակ չունեի գլխարքս դնելու։
+12964855	hye	Ուղղակի դերասաններ են։
+12964856	hye	Ռիման հայտնի դառցավ։
+12964857	ita	Perderò con Tom.
+12964858	hye	Բացատրո՛ւ հաղորդագրությունը ինձ։
+12964859	rus	Нам предстоит непростая задача.
+12964860	rus	Это колониальное наследие.
+12964861	fra	On déconnait, c'est tout.
+12964862	rus	Я попробую объяснить, что это значит.
+12964863	rus	Думаю, все понимают, что это значит.
+12964864	rus	Все понимают, что это значит?
+12964865	fra	Moins tu en sais, mieux c'est.
+12964866	lit	Ji man užtvojo su diržu.
+12964867	rus	Я не хочу, чтобы меня видели таким.
+12964868	lit	Ji man su diržu šėrė.
+12964869	fra	Les choses étaient plus simples à l'époque.
+12964870	rus	Чем меньше знаешь, тем лучше.
+12964871	rus	Тогда было проще.
+12964872	rus	В те времена было проще.
+12964873	rus	Время было проще.
+12964874	rus	Времена были проще.
+12964875	epo	Jen la aboco de la franca.
+12964876	rus	Тогда многое было проще.
+12964877	eng	Here are the French ABCs.
+12964878	rus	Тогда проще ко всему относились.
+12964879	rus	Тогда к этому проще относились.
+12964880	ukr	Ми не можемо просто продовжувати діяти так, ніби нічого не сталося.
+12964881	fra	Qu'a-t-elle de si spécial ?
+12964882	epo	Tio estas la aboco de komunisma anarkiismo.
+12964883	eng	We can't just continue to act as if nothing has happened.
+12964884	rus	Я так люблю Мэри.
+12964885	rus	Мэри мне очень нравится.
+12964886	fra	Je vais prendre la même chose que toi.
+12964887	rus	Мы не можем просто продолжать действовать так, будто ничего не произошло.
+12964888	rus	Я возьму то же, что и ты.
+12964889	rus	Сколько карманных денег тебе дают родители?
+12964890	rus	Сколько карманных денег ты получаешь от родителей?
+12964891	fra	Je plaiderai en ta faveur.
+12964892	fra	On ne se parle plus depuis des années.
+12964893	rus	Я замолвлю за вас словечко.
+12964894	eng	We can't simply continue to act as if nothing has happened.
+12964895	rus	Мы уже много лет не разговариваем.
+12964896	rus	Вы ещё не купили машину?
+12964897	fra	Pourquoi ne m'a-t-on rien dit ?
+12964898	fra	Il l'a bien cherché.
+12964899	lit	Jis išėjo pas dantų gydytoją.
+12964900	rus	Я знал, что для вас это будет непросто.
+12964901	rus	Я знал, что для тебя это будет непросто.
+12964902	fra	Tu es tellement maniaque.
+12964903	lit	Tu tai atidėjai.
+12964904	lit	Ji nepatenkinta tuo, ką padarė.
+12964905	fra	Cela nous facilitera beaucoup la tâche.
+12964906	lit	Dabartinis jaunimas apleido žemės ūkį.
+12964907	fra	J'ai vu comment tu la regardais.
+12964908	rus	Я видела, как ты на неё смотришь.
+12964909	lit	Ar jis kažką blogo pasakė?
+12964910	rus	Это сильно облегчит нам задачу.
+12964911	rus	Это здорово облегчит нам задачу.
+12964912	lit	Aš buvau rimtu reikalu užsiėmusi.
+12964913	rus	Все заняты делом.
+12964914	rus	Я их не описываю.
+12964915	hye	Դա քեզ չի՞ հիվանդացնում։
+12964916	hye	Քեզ չի՞ հիվանդացնում։
+12964917	fra	Je peux lire dans tes pensées.
+12964918	rus	Мы не ограничены в выборе средств.
+12964919	rus	Мы не ограничены в средствах.
+12964920	lit	Aš buvau rimtu reikalu užsiėmęs.
+12964921	hye	Նուշեր սիրում եմ։
+12964922	rus	Я их не разрушаю.
+12964923	fra	Je ne t'ai jamais trompée.
+12964924	hye	Ոչ ոք չգիտի, բացի ես։
+12964925	hye	Ապրում ենք Ռուսաստանում։
+12964926	lit	Į jį tris kartus pataikė žaibas, ir jis liko gyvas.
+12964927	por	Você está sempre falando, e isso é irritante.
+12964928	por	A Mary gostou do perfume que o Tom deu a ela?
+12964929	hye	Կրտսեր եղբայրս դեռ տարրական դպրոցում է։
+12964930	rus	Зимы стали похожи на европейские.
+12964931	rus	Где это видано, чтобы зимой шёл дождь?
+12964932	hye	Կարող ե՞մ տեսնեմ։
+12964933	lit	Į mane tris kartus trenkė žaibas.
+12964934	epo	Dovo estas psikadela trancomuzika produktisto.
+12964935	lit	Į mane tris kartus pataikė žaibas.
+12964936	hye	Ուզում էր սովորել։
+12964937	rus	Я помню зимы своего детства, когда занятия в школах отменяли из-за морозов.
+12964938	fra	C'est un homme très séduisant.
+12964939	hye	Պետք չի, որ հասկանաս։
+12964940	rus	Я перешёл на Гугл Хром, и это сработало.
+12964941	hye	Երեխեքը կզարթնեն, եթե ձայն հանես։
+12964942	hye	Երեխաները կզարթնեն, եթե աղմուք անես։
+12964943	hye	Ջուլիան երգում է։
+12964944	hye	Որովհետև մեր ԴՆԹ֊ում է։
+12964945	ita	Dove hai lasciato la tua camicia?
+12964946	ita	Dove ha lasciato la sua camicia?
+12964947	ita	Dove avete lasciato la vostra camicia?
+12964948	fra	Je n'essaie pas de trouver des excuses.
+12964949	lit	Prašau, kas nors padėkite!
+12964950	spa	Bueno, regresa el dinero de vuelta.
+12964951	fra	La brume se dissipe.
+12964952	kor	최근 결혼을 택하지 않는 사람들이 많아지고 있다.
+12964953	fra	Cette fois, je le pense vraiment.
+12964954	rus	На этот раз я действительно так думаю.
+12964955	hye	Երկուսն էլ որոշեցին դասի չգնալ։
+12964956	hye	Չեմ մտածում, որ պատրաստ ենք։
+12964957	rus	На этот раз я действительно имею это в виду.
+12964958	rus	На этот раз я действительно серьёзно.
+12964959	hye	Երկուսն էլ նորից ծիծաղեցին։
+12964960	hye	Գիտես, որ Թոմը սիրում է Բոստոնը։
+12964961	fra	Sois gentil avec ton frère.
+12964962	rus	Это он в дедушку.
+12964963	rus	Это у него в дедушку.
+12964964	hye	Թոմը Ֆրանսերեն կարում է՞ խոսել։
+12964965	rus	С этим местом слишком многое связано.
+12964966	rus	С этим городом многое связано.
+12964967	hye	Ոչ ոք չգիտէր, թե ինչպես պատասխանել հարցին։
+12964968	lit	Jis turėjo šiandien ateiti.
+12964969	hye	Խորհրդակցեք բժշկի հետ։
+12964970	rus	Никто не знал, как ответить на этот вопрос.
+12964971	kor	가끔씩 사람들은 집에 있으면서도 집에 가고 싶다고 말한다.
+12964972	hye	Չի կարող էլ քեզ ցավացնել։
+12964973	fra	J'ai juste eu de la chance.
+12964974	lit	Jis ne šito nusipelnė.
+12964975	hye	Ուղղակի վերադարձրո՛ւ խոհանոցը։
+12964976	hye	Կեցցե կայսրը։
+12964977	kor	참치 통조림을 라면에 넣어 먹으면 맛있다고 들었다.
+12964978	fra	J'espère que tu n'es pas fâché.
+12964979	kor	미세먼지 때문에 숨을 쉴 수가 없다.
+12964980	fra	Je ne voulais pas, mais il a insisté.
+12964981	kor	샐린저의 책은 '호밀밭의 파수꾼'이지 '호밀빵의 파수꾼'이 아니야.
+12964982	fra	Que Dieu ait pitié de nous.
+12964983	kor	대구는 입이 커다란 바닷물고기이다.
+12964984	kor	힘든 삶이었던 것이 틀림없다.
+12964985	kor	너 왜 자전거 안 사?
+12964986	kor	톰과 마리아는 알지 못했다.
+12964987	fra	Donne-moi des détails.
+12964988	kor	소년은 우유를 마신다.
+12964989	kor	너희는 아직 너무 어려.
+12964990	fra	Ça m'est sorti de l'esprit.
+12964991	fra	J'aime la langue de bœuf.
+12964992	fra	J'ai vu une occasion et je l'ai saisie.
+12964993	kor	타토에바에는 어딘가 이상한 문장이 종종 보이는데, 그런 문장을 발견하면 웃음이 나와.
+12964994	kor	문제는 제가 지금 돈이 없다는 것이거든요.
+12964995	kor	글쓰기 전에 뭐라도 먹어야겠다.
+12964996	kor	우리끼리 이야기지만, 홈즈 씨가 병에서 완전히 회복한 것 같지가 않아요. 아주 이상하게 행동하고 있고, 아주 신나있어요.
+12964997	kor	팔레스타인을 해방하라!
+12964998	kor	팔레스타인을 해방하라.
+12964999	eng	I now remember everything.
+12965000	eng	She walked.
+12965001	eng	I gave a fountain pen to my father.
+12965002	eng	I do understand that it isn't so easy.
+12965003	eng	My dream is to smile like a star.
+12965004	eng	I resent you for being successful.
+12965005	eng	I can memorize about 50 new Korean words a day.
+12965006	eng	I trust my life destiny.
+12965007	fra	J'ai foiré grave.
+12965008	eng	I have full trust in my life destiny.
+12965009	eng	I trust my life destiny entirely.
+12965010	ita	Ecco l'ABC francese.
+12965011	fra	N'aie pas peur de dire ce que tu penses.
+12965012	eng	I've never seen you that angry.
+12965013	eng	They can't stand the idea of me being successful.
+12965014	eng	The megalodon is a prehistoric shark, which once ruled the oceans.
+12965015	eng	My mom still looks a lot younger than her age.
+12965016	eng	No matter how you'll twist it around, he's always going to be at fault here.
+12965017	eng	I've never seen you get so angry ever before.
+12965018	eng	Stop twisting my words around.
+12965019	fra	Ma vie s'écroule.
+12965020	eng	Stop being so silly.
+12965021	eng	Stop making quick assumptions about me.
+12965022	fra	La violence n'est jamais la solution.
+12965023	eng	I want you to keep up the good behaviour.
+12965024	eng	I want you to stay polite.
+12965025	eng	Let's turn things around once and for all.
+12965026	eng	I want you to keep behaving well.
+12965027	eng	I want you to put on your best behavior during dinner time.
+12965028	fra	Il est juste un peu timide.
+12965029	fra	J'aurais dû écouter mon père.
+12965030	ita	Mary ha realizzato che stava annegando.
+12965031	ita	Mary realizzò che stava annegando.
+12965032	eng	Success may seem out-of-reach sometimes but you just have to push harder through it to get it.
+12965033	eng	If you don't push a little bit harder through success, it won't come for you, you will end up being unsuccessful.
+12965034	eng	My secret lover is on his way for me.
+12965035	eng	My secret lover is hiding his face from the big crowd.
+12965036	eng	My secret lover has set out on his way towards me.
+12965037	fra	Je ne connais pas son nom de famille.
+12965038	ukr	Не бійся говорити те, що думаєш.
+12965039	ukr	Не бійтеся говорити те, що думаєте.
+12965040	fra	Ce serait stupide.
+12965041	rus	Не бойся говорить то, что думаешь.
+12965042	ile	Li cat vole luder.
+12965043	ile	Yo pedeat ta.
+12965045	ile	It es turkise.
+12965046	ile	It es yelb.
+12965047	hun	Ne légy már ilyen hülye!
+12965048	ita	Mary ha reso chiara la sua posizione.
+12965049	ita	Mary ha bisogno di te nel suo ufficio.
+12965050	ita	Mary ha bisogno di voi nel suo ufficio.
+12965051	ita	Mary ha bisogno di lei nel suo ufficio.
+12965052	hun	Ne forgasd már ki a szavaimat!
+12965053	jpn	私の電話番号は090の1234の5678です。
+12965054	eng	My phone number is 090-1234-5678.
+12965055	hun	Kábé 50 új koreai szót tudok memorizálni naponta.
+12965056	fra	Notre voiture est tombée en panne.
+12965057	ita	Mary sta solo facendo il suo dovere.
+12965058	hun	Már emlékszem mindenre.
+12965059	ita	Mary sta soltanto facendo il suo dovere.
+12965060	ita	Mary sta solamente facendo il suo dovere.
+12965061	ita	Mary non farebbe del male a Tom, vero?
+12965062	fra	Nous sommes de retour à la case départ.
+12965063	fra	Je n'insinuais rien.
+12965064	fra	Je ne sous-entendais rien.
+12965065	ita	Mary è a casa con i suoi genitori.

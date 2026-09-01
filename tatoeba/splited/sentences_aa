@@ -58,7 +58,7 @@
 58	cmn	我不知道它是从哪里来的。
 59	cmn	這個不重要。
 60	cmn	哪裡有問題?
-61	cmn	不要再把我当成“正常” 人!
+61	cmn	不要再把我当成“正常”人！
 62	cmn	所有被发明的都是真的。
 63	cmn	感到惊讶、感到惊奇就是明白的开始。
 64	cmn	宇宙毫无疑问是无限的。
@@ -10719,7 +10719,7 @@
 11060	fra	La musique classique n'est pas ma tasse de thé.
 11061	fra	Il n'y a pas de garçon aussi grand que Guillaume dans la classe.
 11062	fra	Mes camarades de classe n'apprécient pas tous la nourriture à la cafétéria.
-11063	fra	Tous les élèves de la classe aiment Melle Smith.
+11063	fra	Tous les élèves de la classe aiment Mlle Smith.
 11064	fra	Tous les camarades de classes attendaient Takeshi.
 11065	fra	Seuls les membres du club sont autorisés à utiliser cette pièce.
 11066	fra	J'ai été camper dans les alpes japonaises avec mon club.
@@ -13495,7 +13495,7 @@
 13957	fra	J'ai reçu ta lettre avant-hier.
 13958	fra	Je suis arrivée à Narita avant-hier.
 13959	fra	Je ne peux pas me permettre de dépenser 40 dollars pour un livre !
-13960	fra	Qui vole un œuf vole un bœuf.
+13960	fra	Qui vole un œuf, vole un bœuf.
 13962	fra	Je l'ai rencontrée il y a une heure.
 13963	fra	J'ai attendu pendant une heure, mais il n'est pas apparu.
 13964	fra	Une semaine est composée de sept jours.
@@ -30203,7 +30203,6 @@
 32071	eng	You're disgusting!
 32072	eng	Who is the boy that is swimming over there?
 32073	eng	Once upon a time, there was an old man in this village.
-32074	eng	I can't do the hard day's work I used to.
 32075	eng	Once upon a time, there lived an old man.
 32076	eng	Where did Ming go to do her homework?
 32077	eng	Ming called her friend yesterday evening.
@@ -34439,7 +34438,6 @@
 36575	eng	You can buy and read any kind of book at any time.
 36576	eng	Do you know which book sells well now?
 36577	eng	However you do it, the result will be the same.
-36578	eng	Not knowing what answer to make, I kept silent.
 36579	eng	It's an ill wind that blows no good.
 36580	eng	What sort of thing must I pay tax on?
 36581	eng	Every actor has cold feet just before the beginning of a show.
@@ -35536,7 +35534,7 @@
 37748	eng	I had no choice but to stay.
 37749	eng	It was very exciting! I'd like to go again.
 37750	eng	It was such a fine day that we decided to have a picnic.
-37751	eng	We can never begin to finish this work by tomorrow.
+37751	eng	We will never be able to finish this work by tomorrow.
 37752	eng	People usually find it very difficult to break the ice when they meet someone extremely attractive for the first time.
 37753	eng	Though very busy, she came to see me off.
 37754	eng	I'm traveling on a tight schedule. I don't have the time.
@@ -35609,7 +35607,7 @@
 37826	eng	It was such a cold day that we decided not to go out.
 37827	eng	It's so cold that the river has frozen over.
 37828	eng	I feel very cold.
-37829	eng	It's so cold that we can skate.
+37829	eng	It's cold enough to skate.
 37830	eng	I don't know the name of the birds that were singing such a merry song.
 37831	eng	I was having a very good time, when the sad news came.
 37832	eng	It was very pleasant. However, it would have been more pleasant if I had been able to speak English fluently.
@@ -39125,7 +39123,7 @@
 41671	eng	I do nothing of the kind.
 41672	eng	It's as easy as pie.
 41673	eng	If only I had a pretty dress like that!
-41674	eng	People ask me 'why would you want to cherish a piece of junk like that?' But this little beauty means the world to me.
+41674	eng	People ask me, "Why would you want to cherish a piece of junk like that?" But this little beauty means the world to me.
 41675	eng	Nobody will believe that rumor.
 41676	eng	Stop inhaling your food. You should eat a little slower.
 41677	eng	I don't know how such a rumor got about.
@@ -41944,7 +41942,6 @@
 44651	eng	Have you worked the puzzle out?
 44652	eng	Let's try to solve the riddle.
 44653	eng	I can't figure out how to solve the puzzle.
-44654	eng	Give me the details of it.
 44655	eng	The shy pupil murmured his answer.
 44656	eng	The shy boy murmured his name.
 44657	eng	The shy boy was utterly embarrassed in her presence.
@@ -49998,3 +49995,6 @@
 53223	eng	We tried to persuade Jim to join us.
 53224	eng	Jim is coming to the party, too.
 53225	eng	Jim is taller than any of his friends.
+53226	eng	Jim is a man of his word.
+53227	eng	Jim studies far into the night.
+53228	eng	Jim awoke and found himself alone in the room.

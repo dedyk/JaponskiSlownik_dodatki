@@ -1,16 +1,3 @@
-630400	deu	Die Liebe zur Freiheit hat uns hergebracht.
-630401	jpn	誰がこれを壊したのですか？
-630402	hun	Úgy nézett ki, mint egy orvos.
-630403	jpn	誰がそれを造ったのですか？
-630404	deu	Er war in lange Diskussionen verwickelt.
-630405	deu	Sein Brief enthielt ein Bild.
-630406	deu	Ich will mal versuchen, dir alles der Reihe nach zu erklären.
-630407	hun	Vége a tanításnak.
-630408	hun	Mondanom se kell, hogy akkoriban egy mester-tanítvány kapcsolaton túli barátság alakult ki közöttük.
-630409	hun	Milyen tünetei vannak?
-630411	hun	Apám jól beszél angolul.
-630412	hun	Négy meg tizenhat az húsz.
-630413	jpn	あなたはこの箱の開け方を知っていますか？
 630415	jpn	私はあなたを愛しています。
 630416	jpn	彼は東京に住むことが好きです。
 630417	jpn	彼は調理が好きです。
@@ -223,7 +210,7 @@
 630637	cmn	我说话的时候，你们要闭嘴并且听我说！
 630638	dan	De børn er lykkelige.
 630639	bul	Да започваме!
-630640	epo	Se vi ne volas vin ŝmiri per sunŝirma kremo, estas via afero, sed poste ne plendu al mi, kiam vi brulvundiĝos.
+630640	epo	Se vi ne volas vin ŝmiri per sunŝirma kremo, tio estas via afero, sed poste ne plendu al mi, kiam vi brulvundiĝos.
 630641	dan	De bøger er deres.
 630642	epo	Ĉu vi ŝatas la japanan aŭ la anglan?
 630643	pol	Kwas wytrawił metal.
@@ -239,7 +226,7 @@
 630654	epo	Ĉu vi scipovas Esperante komuniki, kion ajn vi deziras diri?
 630655	bul	Моите съболезнования!
 630656	cmn	我说中文的时候，开始感到自在了。
-630657	cmn	我为自己买了副羽毛球拍，但我忘记买羽毛球了。
+630657	cmn	我为自己买了副羽毛球拍，但忘记买羽毛球了。
 630658	dan	De skriveredskaber er hans.
 630659	bul	Свършихме наличностите.
 630660	epo	Vi mem faru tion.
@@ -5657,7 +5644,6 @@
 636322	epo	Mia familio ne estas tre granda.
 636323	heb	אני מצטער שעשיתי דבר כזה.
 636324	heb	אני מצטערת שעשיתי דבר כזה.
-636325	epo	Mi estas tre danka por via helpo.
 636326	deu	Herr Tanaka kann gut Klavier spielen.
 636327	epo	Tio estas simple ŝia maniero.
 636328	jpn	悪政に苦しむ国民を無視するわけにはいけません。
@@ -9483,7 +9469,7 @@
 640352	nld	Alles wat hij zei, was waar.
 640353	hun	A városi zenekar adott koncertet tegnap.
 640354	hun	El kellene menned a fogorvoshoz, kihúzatni a fogadat.
-640355	tok	tenpo suno ni li tenpo esun insa. mi lukin e tenpo ni.
+640355	tok	tenpo suno ni li tenpo esun insa. mi lukin e sitelen lon tenpo ni.
 640356	epo	La urba orkestro hieraŭ donis koncerton.
 640357	nld	Hij wil een nieuwe auto.
 640358	hun	Bátyám a sebészeti klinikán fekszik.
@@ -17741,7 +17727,6 @@
 649058	epo	Mastro en vojo -- servantoj en ĝojo.
 649059	epo	Matena horo estas plena de oro.
 649060	epo	Matenas, vesperas – kaj tago malaperas.
-649061	epo	Matura aĝo.
 649062	epo	Melki kaproviron.
 649063	epo	Melku bovon senfine, li lakton ne donos.
 649064	epo	Li mensogas kiel kalendaro.
@@ -28198,7 +28183,7 @@
 660037	dan	Hvornår mødte du hende for første gang?
 660038	dan	Latin er de romanske sprogs moder.
 660039	hun	Az adott szó kötelez.
-660040	rus	Ещё немного и пойдёт дождь.
+660040	rus	Ещё немного, и пойдёт дождь.
 660042	rus	Я к этому привыкла.
 660043	dan	Er det det rigtige tog til Tokyo?
 660044	epo	Vorto dirita al la mondo apartenas kaj neniam revenas.
@@ -29617,7 +29602,7 @@
 661537	tur	Babası geçen sene ölmüş.
 661538	ita	Mi piace la matematica, è una materia interessante.
 661539	eng	His father died last year.
-661540	cmn	去年他的爸爸死。
+661540	cmn	去年他的爸爸死了。
 661541	hun	A matematika nem árt a vágynak.
 661542	hun	A matematika nem veszi el az étvágyat.
 661543	tur	Çin restoranında Pekin ördeği yedik.
@@ -30117,7 +30102,7 @@
 662055	jbo	ku'i mi no'e jimpe fi za'u ra
 662057	deu	Indien wurde viele Jahre lang von Großbritannien regiert.
 662058	deu	Es ist schlechtes Wetter im Norden.
-662059	nld	Nu is het niet het geschikte moment om daarover te praten! Niet?
+662059	nld	Nu is het niet het geschikte moment om daarover te praten! Wel?
 662060	epo	Patty finis la skribadon al siaj kanadaj amikoj.
 662061	deu	Ich mag Pizza sehr.
 662062	deu	Es gab keine sichtbaren Gefahren.
@@ -34756,7 +34741,6 @@
 666993	isl	Síðastliðna nótt skrifaði ég bréf.
 666995	isl	Í gærnótt skrifaði ég bréf.
 666996	isl	Hann hefur aðgang að ameríska sendiráðinu.
-666997	isl	Í morgun fór ég snemma á fætur.
 666998	isl	Þetta orð kemur úr frönsku.
 666999	rus	Он работает в научном институте, где лингвисты, литературоведы, историки, социологи, экономисты и другие учёные исследуют всё, что связано с гномами.
 667000	epo	Du malgrandaj sciuroj, blanka sciuro kaj nigra sciuro, vivis en granda arbaro.
@@ -36882,7 +36866,7 @@
 669226	isl	Við borðið var einungis einn stóll.
 669227	dan	Næsten alle ankom i rette tid.
 669228	dan	Næsten alle ankom til tiden.
-669229	dan	Jeg skal stå meget tidlig op i morgen.
+669229	dan	Jeg skal stå meget tidligt op i morgen.
 669230	fin	Sinun huolimattomuutesi ei jätä selityksen sijaa.
 669231	dan	Jeg skal i seng.
 669232	epo	Mi ne centelcente eraris.
@@ -49998,3 +49982,19 @@
 682846	pes	آزادی بزرگ ترین خوشبختی است.
 682847	pes	من باید کامپیوتر جدیدی داشته باشم.
 682848	pes	"او کیست؟" "ایشان مادر شما هستند."
+682849	pes	هر کسی براساس خرد و احساس خود رندگی می کند.
+682850	rus	Пожалуйста, не отвечайте на это мошенническое сообщение и, конечно же, не нажимайте на ссылки, которые в нём размещены.
+682851	rus	Сила этой цепи заключается в ее наиболее слабом звене.
+682852	deu	Du hast eine weise Entscheidung getroffen.
+682853	deu	Sie haben eine weise Entscheidung getroffen.
+682854	deu	Ihr habt eine weise Entscheidung getroffen.
+682855	rus	Не наказывайте девочку строго, относитесь к ней мягче.
+682856	pes	نخستین چیزی که باید مورد ملاحظه قرار گیرد، زمان است.
+682857	deu	Wer ist die klügste Person, die du kennst?
+682858	deu	Wer ist die klügste Person, die Sie kennen?
+682859	deu	Wer ist die klügste Person, die ihr kennt?
+682860	pes	من می دانم که چطور به اسپرانتو مکاتبه کنم و دوست مکاتبه ای پیدا کنم.
+682861	deu	Siehst du den Vogel auf der Telefonleitung?
+682862	deu	Seht ihr den Vogel auf der Telefonleitung?
+682863	deu	Sehen Sie den Vogel auf der Telefonleitung?
+682864	pes	نمیدانم چگونه به اسپرانتو مکاتبه کنم و دوست پیدا کنم.
