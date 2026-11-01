@@ -518,7 +518,7 @@ various information fields.
 <!ENTITY rk "rarely used kana form">
 <!ENTITY sk "search-only kana form">
 ]>
-<!-- JMdict created: 2026-10-01 -->
+<!-- JMdict created: 2026-11-01 -->
 <JMdict>
 <entry>
 <ent_seq>1000000</ent_seq>
@@ -2504,6 +2504,7 @@ various information fields.
 <gloss>poop</gloss>
 <gloss>doo-doo</gloss>
 <gloss>caca</gloss>
+<gloss>number two</gloss>
 <gloss>whoopsie</gloss>
 </sense>
 </entry>
@@ -13556,8 +13557,12 @@ various information fields.
 <entry>
 <ent_seq>1005870</ent_seq>
 <k_ele>
+<keb>凝と</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
 <keb>凝乎と</keb>
-<ke_inf>&rK;</ke_inf>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>じっと</reb>
@@ -13565,42 +13570,38 @@ various information fields.
 </r_ele>
 <r_ele>
 <reb>じーっと</reb>
-<re_nokanji/>
 </r_ele>
 <r_ele>
 <reb>じーと</reb>
-<re_nokanji/>
+<re_inf>&sk;</re_inf>
 </r_ele>
 <r_ele>
 <reb>じいっと</reb>
+<re_inf>&sk;</re_inf>
 </r_ele>
 <sense>
 <pos>&adv;</pos>
 <pos>&vs;</pos>
 <misc>&on-mim;</misc>
-<misc>&uk;</misc>
-<s_inf>じーっと is more emphatic</s_inf>
 <gloss>motionlessly (e.g. stand, wait)</gloss>
 <gloss>(be) still</gloss>
 </sense>
 <sense>
 <pos>&adv;</pos>
 <pos>&vs;</pos>
-<misc>&uk;</misc>
+<misc>&on-mim;</misc>
 <gloss>fixedly (e.g. gaze, stare)</gloss>
 <gloss>intently (e.g. listen, think)</gloss>
 </sense>
 <sense>
 <pos>&adv;</pos>
-<pos>&vs;</pos>
-<misc>&uk;</misc>
-<gloss>patiently (endure)</gloss>
+<misc>&on-mim;</misc>
+<gloss>patiently (e.g. endure)</gloss>
 <gloss>stoically</gloss>
 </sense>
 <sense>
 <pos>&adv;</pos>
-<pos>&vs;</pos>
-<misc>&uk;</misc>
+<misc>&on-mim;</misc>
 <gloss>firmly (e.g. hold)</gloss>
 <gloss>restrained</gloss>
 </sense>
@@ -23396,10 +23397,14 @@ various information fields.
 <reb>パクリ</reb>
 </r_ele>
 <r_ele>
+<reb>ぱっくり</reb>
+</r_ele>
+<r_ele>
 <reb>ぱくり</reb>
 </r_ele>
 <r_ele>
-<reb>ぱっくり</reb>
+<reb>パクり</reb>
+<re_inf>&sk;</re_inf>
 </r_ele>
 <r_ele>
 <reb>パックリ</reb>
@@ -23410,7 +23415,7 @@ various information fields.
 <re_inf>&sk;</re_inf>
 </r_ele>
 <r_ele>
-<reb>パクり</reb>
+<reb>ばくり</reb>
 <re_inf>&sk;</re_inf>
 </r_ele>
 <sense>
@@ -23419,6 +23424,7 @@ various information fields.
 <misc>&on-mim;</misc>
 <gloss>gaping (e.g. mouth, wound)</gloss>
 <gloss>(opening) wide</gloss>
+<gloss>wide open</gloss>
 </sense>
 <sense>
 <pos>&adv-to;</pos>
@@ -23427,17 +23433,6 @@ various information fields.
 <gloss>snapping up (e.g. bait)</gloss>
 <gloss>biting into (food)</gloss>
 <gloss>gobbling up</gloss>
-</sense>
-<sense>
-<stagr>パクリ</stagr>
-<stagr>ぱくり</stagr>
-<pos>&n;</pos>
-<xref>パクる・2</xref>
-<misc>&col;</misc>
-<gloss>plagiarism</gloss>
-<gloss>rip-off</gloss>
-<gloss>lifting</gloss>
-<gloss>cribbing</gloss>
 </sense>
 </entry>
 <entry>
@@ -30264,6 +30259,7 @@ various information fields.
 <ent_seq>1013380</ent_seq>
 <r_ele>
 <reb>アーカイブ</reb>
+<re_pri>spec1</re_pri>
 </r_ele>
 <r_ele>
 <reb>アーカイヴ</reb>
@@ -30271,7 +30267,15 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vt;</pos>
 <gloss>archive</gloss>
+<gloss>archives</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<field>&comp;</field>
+<gloss>archive (file)</gloss>
 </sense>
 </entry>
 <entry>
@@ -52815,7 +52819,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>エンゲージメント</xref>
+<xref>エンゲージメント・1</xref>
 <misc>&abbr;</misc>
 <gloss>engagement</gloss>
 </sense>
@@ -52831,7 +52835,14 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>engagement</gloss>
+<gloss>engagement (e.g. marital)</gloss>
+<gloss>commitment (e.g. to a promise)</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>engagement (of customers with a product or service)</gloss>
+<gloss>interaction</gloss>
+<gloss>affinity</gloss>
 </sense>
 </entry>
 <entry>
@@ -66312,15 +66323,11 @@ various information fields.
 </r_ele>
 <r_ele>
 <reb>キチン</reb>
+<re_inf>&rk;</re_inf>
 </r_ele>
 <sense>
 <pos>&n;</pos>
 <gloss>kitchen</gloss>
-</sense>
-<sense>
-<stagr>キチン</stagr>
-<pos>&n;</pos>
-<gloss>chitin</gloss>
 </sense>
 </entry>
 <entry>
@@ -66833,6 +66840,11 @@ various information fields.
 <misc>&abbr;</misc>
 <misc>&col;</misc>
 <gloss>call waiting</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<misc>&sl;</misc>
+<gloss>tout</gloss>
 </sense>
 </entry>
 <entry>
@@ -121323,6 +121335,7 @@ various information fields.
 </r_ele>
 <r_ele>
 <reb>デヴィル</reb>
+<re_inf>&sk;</re_inf>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -127903,8 +127916,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>draft beer</gloss>
-<gloss>draught beer</gloss>
+<xref>生ビール</xref>
+<lsource xml:lang="eng">draft beer</lsource>
+<gloss>unpasteurized beer</gloss>
 </sense>
 </entry>
 <entry>
@@ -140057,18 +140071,17 @@ various information fields.
 <re_pri>gai1</re_pri>
 <re_pri>ichi1</re_pri>
 </r_ele>
-<r_ele>
-<reb>バザール</reb>
-<re_pri>gai1</re_pri>
-</r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>bazaar</gloss>
-<gloss>bazar</gloss>
+<lsource xml:lang="eng">bazaar</lsource>
+<gloss>charitable fund-raising fair (e.g. for an organization)</gloss>
+<gloss>charity bazaar</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
-<gloss>special sale (at a department store)</gloss>
+<xref>バザール・1</xref>
+<gloss>bazaar</gloss>
+<gloss>bazar</gloss>
 </sense>
 </entry>
 <entry>
@@ -155955,8 +155968,12 @@ various information fields.
 <r_ele>
 <reb>フォーマッタ</reb>
 </r_ele>
+<r_ele>
+<reb>フォーマッター</reb>
+</r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&comp;</field>
 <gloss>formatter</gloss>
 </sense>
 </entry>
@@ -191137,7 +191154,7 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <field>&food;</field>
-<lsource xml:lang="ger">Yoghurt</lsource>
+<lsource xml:lang="ger">Joghurt</lsource>
 <gloss>yogurt</gloss>
 <gloss>yoghurt</gloss>
 </sense>
@@ -224859,6 +224876,8 @@ various information fields.
 <pos>&vs;</pos>
 <pos>&vt;</pos>
 <pos>&vi;</pos>
+<xref>遺言</xref>
+<s_inf>read いごん in legal contexts</s_inf>
 <gloss>will</gloss>
 <gloss>testament</gloss>
 <gloss>one's dying wish</gloss>
@@ -243780,10 +243799,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>引合う</keb>
-<ke_inf>&io;</ke_inf>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>引きあう</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ひきあう</reb>
@@ -262394,11 +262414,14 @@ various information fields.
 <keb>鉛製</keb>
 </k_ele>
 <r_ele>
+<reb>なまりせい</reb>
+</r_ele>
+<r_ele>
 <reb>えんせい</reb>
 </r_ele>
 <sense>
-<pos>&n;</pos>
 <pos>&adj-no;</pos>
+<pos>&n;</pos>
 <gloss>leaden</gloss>
 <gloss>made of lead</gloss>
 </sense>
@@ -263703,10 +263726,18 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&v1;</pos>
+<pos>&vt;</pos>
 <gloss>to dent</gloss>
 <gloss>to indent</gloss>
-<gloss>to depress</gloss>
+<gloss>to make hollow</gloss>
+<gloss>to depress (a surface)</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
 <gloss>to humiliate</gloss>
+<gloss>to put someone in their place</gloss>
+<gloss>to silence (in an argument)</gloss>
 </sense>
 </entry>
 <entry>
@@ -264990,10 +265021,23 @@ various information fields.
 <pos>&v1;</pos>
 <pos>&vi;</pos>
 <gloss>to respond</gloss>
-<gloss>to satisfy</gloss>
-<gloss>to accept</gloss>
-<gloss>to comply with</gloss>
-<gloss>to apply for</gloss>
+<gloss>to answer</gloss>
+<gloss>to reply</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vi;</pos>
+<gloss>to accept (an invitation, offer, etc.)</gloss>
+<gloss>to comply with (a request, etc.)</gloss>
+<gloss>to meet (a demand, etc.)</gloss>
+<gloss>to apply (in response to recruitment)</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vi;</pos>
+<gloss>to suit</gloss>
+<gloss>to match</gloss>
+<gloss>to be appropriate to (the circumstances, one's abilities, etc.)</gloss>
 </sense>
 </entry>
 <entry>
@@ -269284,12 +269328,13 @@ various information fields.
 <reb>こがねいろ</reb>
 </r_ele>
 <sense>
-<pos>&n;</pos>
 <pos>&adj-no;</pos>
+<pos>&n;</pos>
 <gloss>golden</gloss>
 <gloss>gold-colored</gloss>
 <gloss>gold-coloured</gloss>
-<gloss>honey-colour</gloss>
+<gloss>honey-colored</gloss>
+<gloss>honey-coloured</gloss>
 </sense>
 </entry>
 <entry>
@@ -269852,15 +269897,23 @@ various information fields.
 <r_ele>
 <reb>こうはく</reb>
 </r_ele>
+<r_ele>
+<reb>おうびゃく</reb>
+<re_inf>&rk;</re_inf>
+</r_ele>
 <sense>
 <pos>&n;</pos>
 <gloss>yellow and white</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
 <gloss>gold and silver</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
-<gloss>bribery</gloss>
-<gloss>corruption</gloss>
+<misc>&form;</misc>
+<gloss>money</gloss>
+<gloss>cash</gloss>
 </sense>
 </entry>
 <entry>
@@ -286701,8 +286754,9 @@ various information fields.
 <sense>
 <pos>&v5g;</pos>
 <pos>&vi;</pos>
+<misc>&dated;</misc>
 <gloss>to marry (of a woman)</gloss>
-<gloss>to become a bride</gloss>
+<gloss>to get married (to)</gloss>
 <gloss>to marry into (a family)</gloss>
 </sense>
 <sense>
@@ -293409,6 +293463,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>荷づくり</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>にづくり</reb>
@@ -298989,18 +299044,24 @@ various information fields.
 <sense>
 <pos>&v5u;</pos>
 <pos>&vi;</pos>
-<s_inf>逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance</s_inf>
+<s_inf>逢う may indicate intimacy or emotion, 遭う undesirability</s_inf>
 <gloss>to meet</gloss>
 <gloss>to encounter</gloss>
 <gloss>to see</gloss>
+<gloss>to come across</gloss>
+<gloss>to run into</gloss>
 </sense>
 <sense>
 <pos>&v5u;</pos>
 <pos>&vi;</pos>
 <misc>&uk;</misc>
 <s_inf>esp. 遭う when in kanji</s_inf>
-<gloss>to have an accident</gloss>
-<gloss>to have a bad experience</gloss>
+<gloss>to have (e.g. an accident)</gloss>
+<gloss>to suffer (e.g. an unpleasant fate)</gloss>
+<gloss>to encounter</gloss>
+<gloss>to face</gloss>
+<gloss>to go through (e.g. a tough time)</gloss>
+<gloss>to get caught up (in)</gloss>
 </sense>
 </entry>
 <entry>
@@ -299029,6 +299090,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>逢わせる</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>あわせる</reb>
@@ -299036,15 +299098,19 @@ various information fields.
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
-<xref>会う</xref>
-<gloss>to make (someone) to meet</gloss>
+<xref>会う・1</xref>
+<gloss>to make (someone) meet</gloss>
 <gloss>to let (someone) meet</gloss>
 </sense>
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
-<gloss>to expose to</gloss>
-<gloss>to subject to</gloss>
+<xref>会う・2</xref>
+<misc>&uk;</misc>
+<s_inf>esp. 遭わせる when in kanji</s_inf>
+<gloss>to subject (someone) to (e.g. something painful)</gloss>
+<gloss>to expose (someone) to (e.g. danger)</gloss>
+<gloss>to make (someone) go through</gloss>
 </sense>
 </entry>
 <entry>
@@ -310872,9 +310938,8 @@ various information fields.
 <pos>&n;</pos>
 <xref>外国人</xref>
 <misc>&sens;</misc>
-<gloss>foreigner (esp. one of European ancestry)</gloss>
+<gloss>foreigner (esp. a Westerner)</gloss>
 <gloss>gaijin</gloss>
-<gloss>whitey</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
@@ -319415,11 +319480,10 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>割り勘</xref>
+<xref>割り勘・1</xref>
 <misc>&rare;</misc>
-<gloss>each paying for his own account</gloss>
-<gloss>sharing the expenses</gloss>
-<gloss>Dutch treat</gloss>
+<gloss>splitting the bill (usu. evenly)</gloss>
+<gloss>splitting the check</gloss>
 </sense>
 </entry>
 <entry>
@@ -323016,6 +323080,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>刈取る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>刈りとる</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>かりとる</reb>
@@ -323029,6 +323098,13 @@ various information fields.
 <gloss>to mow</gloss>
 <gloss>to reap</gloss>
 <gloss>to harvest</gloss>
+</sense>
+<sense>
+<pos>&v5r;</pos>
+<pos>&vt;</pos>
+<gloss>to eradicate</gloss>
+<gloss>to root out (e.g. evil)</gloss>
+<gloss>to remove</gloss>
 </sense>
 </entry>
 <entry>
@@ -345308,8 +345384,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&rail;</field>
 <gloss>locomotive</gloss>
-<gloss>engine</gloss>
+<gloss>(train) engine</gloss>
 </sense>
 </entry>
 <entry>
@@ -347844,6 +347921,7 @@ various information fields.
 <pos>&n;</pos>
 <field>&med;</field>
 <gloss>pneumothorax</gloss>
+<gloss>collapsed lung</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
@@ -378011,13 +378089,27 @@ various information fields.
 <pos>&v1;</pos>
 <pos>&vt;</pos>
 <gloss>to straighten</gloss>
-<gloss>to correct</gloss>
-<gloss>to cure</gloss>
+<gloss>to bend into shape</gloss>
 </sense>
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
-<gloss>to falsify</gloss>
+<gloss>to correct (faults, bad habits, etc.)</gloss>
+<gloss>to reform (bad character, conduct, etc.)</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
+<misc>&dated;</misc>
+<gloss>to take aim at</gloss>
+<gloss>to sight (with one eye closed)</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
+<misc>&dated;</misc>
+<gloss>to gaze steadily at</gloss>
+<gloss>to look intently at</gloss>
 </sense>
 </entry>
 <entry>
@@ -384125,7 +384217,7 @@ various information fields.
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
-<gloss>to pratice (Buddhist teachings)</gloss>
+<gloss>to practice (Buddhist teachings)</gloss>
 <gloss>to study (Buddhism)</gloss>
 </sense>
 </entry>
@@ -396106,10 +396198,19 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>靴みがき</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>くつ磨き</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>靴磨</keb>
-<ke_inf>&io;</ke_inf>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>クツ磨き</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>くつみがき</reb>
@@ -396118,6 +396219,11 @@ various information fields.
 <pos>&n;</pos>
 <gloss>shoeshine</gloss>
 <gloss>shoe polishing</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>shoeshiner</gloss>
+<gloss>boot polisher</gloss>
 </sense>
 </entry>
 <entry>
@@ -401496,28 +401602,52 @@ various information fields.
 <keb>兄貴</keb>
 <ke_pri>news1</ke_pri>
 <ke_pri>nf24</ke_pri>
+<ke_pri>spec1</ke_pri>
 </k_ele>
 <r_ele>
 <reb>あにき</reb>
 <re_pri>news1</re_pri>
 <re_pri>nf24</re_pri>
+<re_pri>spec1</re_pri>
 </r_ele>
 <r_ele>
 <reb>アニキ</reb>
 <re_nokanji/>
+<re_pri>spec2</re_pri>
 </r_ele>
 <sense>
 <pos>&n;</pos>
 <misc>&fam;</misc>
-<misc>&hon;</misc>
+<s_inf>orig. honorific</s_inf>
 <gloss>elder brother</gloss>
+<gloss>big brother</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
+<misc>&fam;</misc>
+<misc>&col;</misc>
+<s_inf>esp. in a work environment; usu. among younger people, or gang members</s_inf>
 <gloss>one's senior</gloss>
+<gloss>one's elder</gloss>
+<gloss>big bro</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
+<misc>&sl;</misc>
+<s_inf>gastronomy jargon, esp. in sushi restaurants</s_inf>
+<gloss>old ingredients</gloss>
+<gloss>stale ingredients</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<misc>&sl;</misc>
+<s_inf>gay slang</s_inf>
+<gloss>older masculine man</gloss>
+<gloss>top (in a male homosexual relationship)</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<misc>&obs;</misc>
 <gloss>older man</gloss>
 <gloss>man older than oneself</gloss>
 </sense>
@@ -429780,6 +429910,7 @@ various information fields.
 <pos>&adj-no;</pos>
 <gloss>present age</gloss>
 <gloss>present day</gloss>
+<gloss>contemporary</gloss>
 <gloss>today</gloss>
 </sense>
 <sense>
@@ -429787,6 +429918,7 @@ various information fields.
 <pos>&adj-no;</pos>
 <gloss>modern era</gloss>
 <gloss>modern times</gloss>
+<gloss>contemporary era</gloss>
 </sense>
 </entry>
 <entry>
@@ -437001,8 +437133,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<misc>&form;</misc>
 <gloss>bare livelihood</gloss>
-<gloss>subsistence</gloss>
+<gloss>bare subsistence</gloss>
 </sense>
 </entry>
 <entry>
@@ -437774,6 +437907,10 @@ various information fields.
 <ke_pri>ichi1</ke_pri>
 <ke_pri>news1</ke_pri>
 <ke_pri>nf19</ke_pri>
+</k_ele>
+<k_ele>
+<keb>矜る</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ほこる</reb>
@@ -470008,11 +470145,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>併せる</keb>
-<ke_pri>news1</ke_pri>
-<ke_pri>nf15</ke_pri>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>合せる</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>あわせる</reb>
@@ -470024,12 +470161,17 @@ various information fields.
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
-<gloss>to match (rhythm, speed, etc.)</gloss>
+<gloss>to match (rhythm, actions, clothes, etc.)</gloss>
+<gloss>to do in line with</gloss>
+<gloss>to adapt to</gloss>
+<gloss>to fit</gloss>
+<gloss>to do (something) to (e.g. "dance to the music")</gloss>
 </sense>
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
 <gloss>to join together</gloss>
+<gloss>to bring together</gloss>
 <gloss>to unite</gloss>
 <gloss>to combine</gloss>
 <gloss>to add up</gloss>
@@ -470044,14 +470186,9 @@ various information fields.
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
-<gloss>to compare</gloss>
-<gloss>to check with</gloss>
-</sense>
-<sense>
-<pos>&v1;</pos>
-<pos>&vt;</pos>
-<xref>遭う・1</xref>
-<gloss>to cause to meet (e.g. an unpleasant fate)</gloss>
+<gloss>to compare (e.g. notes, answers)</gloss>
+<gloss>to check against</gloss>
+<gloss>to check</gloss>
 </sense>
 <sense>
 <pos>&v1;</pos>
@@ -470065,12 +470202,28 @@ various information fields.
 <pos>&vt;</pos>
 <gloss>to mix</gloss>
 <gloss>to combine</gloss>
+<gloss>to mix together</gloss>
 </sense>
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
-<gloss>to put blade to blade</gloss>
+<gloss>to adjust</gloss>
+<gloss>to set (e.g. a clock)</gloss>
+<gloss>to tune</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
+<gloss>to cross (e.g. swords)</gloss>
 <gloss>to fight</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
+<field>&sumo;</field>
+<s_inf>of a referee</s_inf>
+<gloss>to match (sumo wrestlers) against each other</gloss>
+<gloss>to have (sumo wrestlers) fight</gloss>
 </sense>
 </entry>
 <entry>
@@ -483965,6 +484118,12 @@ various information fields.
 <pos>&vs;</pos>
 <pos>&vt;</pos>
 <gloss>assessment (of value, damages, etc.)</gloss>
+<gloss>scrutiny (of budget requests, etc.)</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vt;</pos>
 <gloss>revision (of a budget)</gloss>
 </sense>
 </entry>
@@ -485028,6 +485187,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&math;</field>
 <gloss>coordinate system</gloss>
 </sense>
 </entry>
@@ -550696,8 +550856,10 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<pos>&vs;</pos>
-<gloss>chief examiner or investigator</gloss>
+<xref>副査</xref>
+<gloss>chief examiner</gloss>
+<gloss>chief investigator</gloss>
+<gloss>first reader</gloss>
 </sense>
 </entry>
 <entry>
@@ -556823,6 +556985,7 @@ various information fields.
 <pos>&n;</pos>
 <gloss>means</gloss>
 <gloss>way</gloss>
+<gloss>method</gloss>
 <gloss>measure</gloss>
 </sense>
 </entry>
@@ -567887,6 +568050,18 @@ various information fields.
 <ke_pri>news1</ke_pri>
 <ke_pri>nf07</ke_pri>
 </k_ele>
+<k_ele>
+<keb>蒐める</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>聚める</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>輯める</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>あつめる</reb>
 <re_pri>ichi1</re_pri>
@@ -567896,9 +568071,23 @@ various information fields.
 <sense>
 <pos>&v1;</pos>
 <pos>&vt;</pos>
+<gloss>to gather</gloss>
 <gloss>to collect</gloss>
 <gloss>to assemble</gloss>
-<gloss>to gather</gloss>
+<gloss>to get (things, people, etc.) together</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
+<gloss>to raise (money)</gloss>
+<gloss>to gather (e.g. funds)</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
+<gloss>to garner (e.g. popularity)</gloss>
+<gloss>to draw (attention)</gloss>
+<gloss>to attract (e.g. an audience)</gloss>
 </sense>
 </entry>
 <entry>
@@ -570490,6 +570679,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>子・ね・1</xref>
+<xref>卯・1</xref>
+<xref>寅・1</xref>
 <gloss>12 signs of the Chinese zodiac</gloss>
 </sense>
 </entry>
@@ -577867,6 +578059,7 @@ various information fields.
 <gloss>bleeding</gloss>
 <gloss>haemorrhage</gloss>
 <gloss>hemorrhage</gloss>
+<gloss>bleed</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
@@ -588466,7 +588659,7 @@ various information fields.
 </sense>
 <sense>
 <pos>&n;</pos>
-<xref>アーカイブ</xref>
+<xref>アーカイブ・2</xref>
 <field>&comp;</field>
 <gloss>archive (file)</gloss>
 </sense>
@@ -596795,7 +596988,13 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <pos>&adj-no;</pos>
-<gloss>fraction (part of)</gloss>
+<gloss>small number</gloss>
+<gloss>small amount</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<field>&math;</field>
+<gloss>fraction</gloss>
 <gloss>decimal fraction</gloss>
 </sense>
 </entry>
@@ -606432,7 +606631,10 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>vertical motion (in earthquakes)</gloss>
+<pos>&vs;</pos>
+<pos>&vi;</pos>
+<gloss>up-and-down motion</gloss>
+<gloss>vertical movement (e.g. in an earthquake)</gloss>
 </sense>
 </entry>
 <entry>
@@ -641187,6 +641389,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>吹荒れる</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ふきあれる</reb>
@@ -643024,10 +643227,16 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>jelly dessert</gloss>
+<xref>ようかん</xref>
+<s_inf>often considered incorrect</s_inf>
+<gloss>jellied dessert (e.g. yōkan)</gloss>
+<gloss>sweets with a high moisture content</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
+<xref>果物</xref>
+<misc>&dated;</misc>
+<s_inf>orig. meaning</s_inf>
 <gloss>fruit</gloss>
 </sense>
 </entry>
@@ -652079,6 +652288,7 @@ various information fields.
 <ent_seq>1375820</ent_seq>
 <k_ele>
 <keb>成る程</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>なる程</keb>
@@ -652099,11 +652309,28 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&int;</pos>
-<pos>&adv;</pos>
 <misc>&uk;</misc>
 <gloss>I see</gloss>
-<gloss>that's right</gloss>
+<gloss>that's right!</gloss>
 <gloss>indeed</gloss>
+<gloss>fair enough</gloss>
+</sense>
+<sense>
+<pos>&adv;</pos>
+<misc>&uk;</misc>
+<gloss>really</gloss>
+<gloss>truly</gloss>
+<gloss>quite</gloss>
+<gloss>indeed</gloss>
+</sense>
+<sense>
+<pos>&adv;</pos>
+<misc>&uk;</misc>
+<s_inf>paired with a concessive, e.g. しかし, が, etc.</s_inf>
+<gloss>certainly ... (although)</gloss>
+<gloss>sure ... (but)</gloss>
+<gloss>admittedly ... (however)</gloss>
+<gloss>it is true that ... (but)</gloss>
 </sense>
 </entry>
 <entry>
@@ -654513,7 +654740,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>correct kun reading</gloss>
+<gloss>kun reading of a kanji based on the original meaning</gloss>
+<gloss>(traditionally) correct kun reading</gloss>
 </sense>
 </entry>
 <entry>
@@ -657174,6 +657402,14 @@ various information fields.
 <keb>生いしげる</keb>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>生い繁る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>生繁る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>おいしげる</reb>
 <re_pri>news2</re_pri>
@@ -658001,17 +658237,19 @@ various information fields.
 <keb>生ビール</keb>
 <ke_pri>news2</ke_pri>
 <ke_pri>nf27</ke_pri>
+<ke_pri>spec1</ke_pri>
 </k_ele>
 <r_ele>
 <reb>なまビール</reb>
 <re_pri>news2</re_pri>
 <re_pri>nf27</re_pri>
+<re_pri>spec1</re_pri>
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>樽生ビール</xref>
+<s_inf>often (mis)translated as "draft beer"</s_inf>
 <gloss>unpasteurized beer</gloss>
-<gloss>draft beer</gloss>
-<gloss>draught beer</gloss>
 </sense>
 </entry>
 <entry>
@@ -659816,12 +660054,15 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>盛合せ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>盛り合せ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>盛合わせ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>もりあわせ</reb>
@@ -662951,9 +663192,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>請合う</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>受合う</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>うけあう</reb>
@@ -695542,10 +695785,16 @@ various information fields.
 <keb>組み換える</keb>
 </k_ele>
 <k_ele>
+<keb>組みかえる</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
 <keb>組替える</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>組換える</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>くみかえる</reb>
@@ -698755,10 +699004,10 @@ various information fields.
 <entry>
 <ent_seq>1399320</ent_seq>
 <k_ele>
-<keb>喪神</keb>
+<keb>喪心</keb>
 </k_ele>
 <k_ele>
-<keb>喪心</keb>
+<keb>喪神</keb>
 </k_ele>
 <r_ele>
 <reb>そうしん</reb>
@@ -703111,8 +703360,13 @@ various information fields.
 <reb>そうはんせい</reb>
 </r_ele>
 <sense>
-<pos>&adj-na;</pos>
-<gloss>reciprocal</gloss>
+<pos>&n;</pos>
+<gloss>opposition</gloss>
+<gloss>incompatibility (of ideas, characteristics, etc.)</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>reciprocity</gloss>
 </sense>
 </entry>
 <entry>
@@ -747891,6 +748145,10 @@ various information fields.
 <ke_pri>news1</ke_pri>
 <ke_pri>nf09</ke_pri>
 </k_ele>
+<k_ele>
+<keb>著物</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>きもの</reb>
 <re_pri>ichi1</re_pri>
@@ -758830,6 +759088,10 @@ various information fields.
 <ent_seq>1428980</ent_seq>
 <k_ele>
 <keb>腸チフス</keb>
+</k_ele>
+<k_ele>
+<keb>腸窒扶斯</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ちょうチフス</reb>
@@ -773810,6 +774072,27 @@ various information fields.
 <pos>&n;</pos>
 <gloss>bottom</gloss>
 <gloss>sole</gloss>
+<gloss>bed (of a river)</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>depths (e.g. of despair, the sea)</gloss>
+<gloss>bottom (of one's heart)</gloss>
+<gloss>the heart (of something)</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>limit</gloss>
+<gloss>end</gloss>
+<gloss>extremities</gloss>
+<gloss>bounds</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<xref>天井・2</xref>
+<field>&finc;</field>
+<gloss>bottom (e.g. of share price)</gloss>
+<gloss>bottom price</gloss>
 </sense>
 </entry>
 <entry>
@@ -778806,8 +779089,10 @@ various information fields.
 </sense>
 <sense>
 <pos>&n;</pos>
+<xref>底・そこ・4</xref>
+<field>&finc;</field>
+<gloss>ceiling (e.g. of share price)</gloss>
 <gloss>ceiling price</gloss>
-<gloss>(price) ceiling</gloss>
 </sense>
 </entry>
 <entry>
@@ -789561,6 +789846,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>塗絵</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ぬりえ</reb>
@@ -814695,6 +814981,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>突破る</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>つきやぶる</reb>
@@ -828574,24 +828861,45 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>日ごろ</keb>
+<ke_pri>spec1</ke_pri>
+</k_ele>
+<k_ele>
+<keb>日比</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>日来</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ひごろ</reb>
 <re_pri>ichi1</re_pri>
 <re_pri>news1</re_pri>
 <re_pri>nf08</re_pri>
+<re_pri>spec1</re_pri>
 </r_ele>
 <sense>
+<pos>&adj-no;</pos>
 <pos>&adv;</pos>
 <pos>&n;</pos>
-<gloss>usually</gloss>
-<gloss>habitually</gloss>
-<gloss>always</gloss>
+<gloss>usual</gloss>
+<gloss>normal</gloss>
+<gloss>everyday</gloss>
+<gloss>habitual</gloss>
+<gloss>ordinary</gloss>
+<gloss>daily</gloss>
+</sense>
+<sense>
+<pos>&adj-no;</pos>
+<pos>&n;</pos>
+<gloss>long (of time)</gloss>
+<gloss>old</gloss>
+<gloss>long-standing</gloss>
 </sense>
 <sense>
 <pos>&adv;</pos>
-<pos>&n;</pos>
 <gloss>for a long time</gloss>
+<gloss>for a while</gloss>
 </sense>
 </entry>
 <entry>
@@ -829184,10 +829492,12 @@ various information fields.
 <ke_pri>nf36</ke_pri>
 </k_ele>
 <k_ele>
-<keb>日ぐれ</keb>
+<keb>日暮</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
-<keb>日暮</keb>
+<keb>日ぐれ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ひぐれ</reb>
@@ -830861,8 +831171,8 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <xref>入り浸る・1</xref>
-<gloss>frequenting (a bar, etc.)</gloss>
-<gloss>staying around (at someone's house, etc.)</gloss>
+<gloss>frequenting (e.g. a bar)</gloss>
+<gloss>staying around (e.g. at someone's house)</gloss>
 <gloss>haunting</gloss>
 </sense>
 </entry>
@@ -842198,6 +842508,8 @@ various information fields.
 <pos>&vt;</pos>
 <pos>&vi;</pos>
 <gloss>derivation</gloss>
+<gloss>development</gloss>
+<gloss>offshoot</gloss>
 </sense>
 </entry>
 <entry>
@@ -846044,21 +846356,24 @@ various information fields.
 <ke_pri>news2</ke_pri>
 <ke_pri>nf38</ke_pri>
 </k_ele>
-<k_ele>
-<keb>族</keb>
-</k_ele>
 <r_ele>
 <reb>やから</reb>
 <re_pri>news2</re_pri>
 <re_pri>nf38</re_pri>
 </r_ele>
+<r_ele>
+<reb>ヤカラ</reb>
+<re_nokanji/>
+</r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>party (of people)</gloss>
+<misc>&derog;</misc>
+<gloss>group</gloss>
+<gloss>bunch</gloss>
+<gloss>lot</gloss>
+<gloss>pack</gloss>
 <gloss>set (of people)</gloss>
-<gloss>clan</gloss>
-<gloss>family</gloss>
-<gloss>fellow</gloss>
+<gloss>gang</gloss>
 </sense>
 </entry>
 <entry>
@@ -865748,16 +866063,29 @@ various information fields.
 <ent_seq>1482860</ent_seq>
 <k_ele>
 <keb>否</keb>
-<ke_pri>ichi1</ke_pri>
+<ke_pri>ichi2</ke_pri>
 </k_ele>
 <r_ele>
 <reb>ひ</reb>
-<re_pri>ichi1</re_pri>
+<re_pri>ichi2</re_pri>
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<gloss>disapproval</gloss>
+<gloss>disagreement</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<s_inf>in voting</s_inf>
 <gloss>no</gloss>
 <gloss>the noes</gloss>
+</sense>
+<sense>
+<pos>&pref;</pos>
+<pos>&suf;</pos>
+<gloss>not ...</gloss>
+<gloss>dis-</gloss>
+<gloss>un-</gloss>
 </sense>
 </entry>
 <entry>
@@ -891464,12 +891792,15 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>付けねらう</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>付狙う</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>附け狙う</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>つけねらう</reb>
@@ -894673,6 +895004,10 @@ various information fields.
 <k_ele>
 <keb>浮気者</keb>
 </k_ele>
+<k_ele>
+<keb>浮気もの</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>うわきもの</reb>
 </r_ele>
@@ -897637,6 +897972,10 @@ various information fields.
 <keb>舞い込む</keb>
 <ke_pri>news2</ke_pri>
 <ke_pri>nf46</ke_pri>
+</k_ele>
+<k_ele>
+<keb>舞いこむ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>まいこむ</reb>
@@ -931302,7 +931641,7 @@ various information fields.
 <pos>&vs;</pos>
 <pos>&vi;</pos>
 <misc>&hon;</misc>
-<gloss>death (of an emperor)</gloss>
+<gloss>death of a sovereign (emperor, empress, king, queen, etc.)</gloss>
 <gloss>demise</gloss>
 </sense>
 </entry>
@@ -940789,7 +941128,6 @@ various information fields.
 <pos>&n;</pos>
 <xref>北斗星</xref>
 <field>&astron;</field>
-<misc>&yoji;</misc>
 <gloss>the Big Dipper (asterism)</gloss>
 <gloss>the Plough</gloss>
 <gloss>the Plow</gloss>
@@ -965567,7 +965905,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>滋る</keb>
-<ke_inf>&oK;</ke_inf>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>しげる</reb>
@@ -982017,6 +982355,7 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <gloss>play (in a mechanism, e.g. a steering wheel)</gloss>
+<gloss>slack</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
@@ -985175,6 +985514,7 @@ various information fields.
 <misc>&form;</misc>
 <gloss>I</gloss>
 <gloss>me</gloss>
+<gloss>(royal) we</gloss>
 </sense>
 </entry>
 <entry>
@@ -991151,6 +991491,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<gloss>element</gloss>
 <gloss>component</gloss>
 <gloss>factor</gloss>
 <gloss>item (e.g. in list)</gloss>
@@ -1013628,7 +1013969,7 @@ various information fields.
 </sense>
 <sense>
 <pos>&n;</pos>
-<gloss>ability to sense the supernatural (esp. ghosts, etc.)</gloss>
+<gloss>ability to sense the supernatural (esp. ghosts)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1023589,9 +1023930,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>藁葺</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>藁ぶき</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>わらぶき</reb>
@@ -1041990,14 +1042333,18 @@ various information fields.
 <keb>襦袢</keb>
 <ke_inf>&ateji;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>襦絆</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
-<reb>じゅばん</reb>
+<reb>ジュバン</reb>
 </r_ele>
 <r_ele>
 <reb>ジバン</reb>
 </r_ele>
 <r_ele>
-<reb>ジュバン</reb>
+<reb>じゅばん</reb>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -1070835,6 +1071182,15 @@ various information fields.
 <gloss>omnipotent</gloss>
 <gloss>all-round (e.g. athlete)</gloss>
 </sense>
+<sense>
+<stagr>まんのう</stagr>
+<pos>&n;</pos>
+<xref>備中鍬</xref>
+<xref>馬鍬</xref>
+<gloss>fork hoe</gloss>
+<gloss>harrow</gloss>
+<gloss>rake</gloss>
+</sense>
 </entry>
 <entry>
 <ent_seq>1584540</ent_seq>
@@ -1077535,6 +1077891,14 @@ various information fields.
 <keb>行渡る</keb>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>いき渡る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>ゆき渡る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>いきわたる</reb>
 <re_pri>ichi1</re_pri>
@@ -1080715,6 +1081079,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>欝血</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>うっけつ</reb>
@@ -1088156,10 +1088521,11 @@ various information fields.
 <k_ele>
 <keb>歌留多</keb>
 <ke_inf>&ateji;</ke_inf>
-<ke_pri>ichi1</ke_pri>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>骨牌</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>加留多</keb>
@@ -1088168,27 +1088534,22 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>嘉留太</keb>
-<ke_inf>&ateji;</ke_inf>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>軽板</keb>
-<ke_inf>&ateji;</ke_inf>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>軽多</keb>
-<ke_inf>&ateji;</ke_inf>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>賀留多</keb>
-<ke_inf>&ateji;</ke_inf>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>哥留多</keb>
-<ke_inf>&ateji;</ke_inf>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
@@ -1088196,12 +1088557,13 @@ various information fields.
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
-<reb>カルタ</reb>
-<re_pri>ichi1</re_pri>
-</r_ele>
-<r_ele>
 <reb>かるた</reb>
 <re_nokanji/>
+<re_pri>spec1</re_pri>
+</r_ele>
+<r_ele>
+<reb>カルタ</reb>
+<re_pri>ichi1</re_pri>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -1099315,9 +1099677,6 @@ various information fields.
 <keb>首位</keb>
 <ke_pri>news1</ke_pri>
 <ke_pri>nf03</ke_pri>
-</k_ele>
-<k_ele>
-<keb>主位</keb>
 </k_ele>
 <r_ele>
 <reb>しゅい</reb>
@@ -1120180,7 +1120539,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>gift</gloss>
+<gloss>gift (for guests at a ceremony, party, etc.)</gloss>
 <gloss>souvenir</gloss>
 </sense>
 </entry>
@@ -1123151,6 +1123510,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>嫩</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ふたば</reb>
@@ -1132669,11 +1133029,12 @@ various information fields.
 <ent_seq>1606030</ent_seq>
 <k_ele>
 <keb>夜店</keb>
+<ke_pri>news2</ke_pri>
+<ke_pri>nf45</ke_pri>
 </k_ele>
 <k_ele>
 <keb>夜見世</keb>
-<ke_pri>news2</ke_pri>
-<ke_pri>nf45</ke_pri>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>よみせ</reb>
@@ -1134902,6 +1135263,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>割勘</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>わりかん</reb>
@@ -1134915,11 +1135277,14 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>割り前勘定</xref>
-<misc>&abbr;</misc>
-<gloss>splitting the cost</gloss>
-<gloss>splitting the bill</gloss>
-<gloss>Dutch treat</gloss>
+<gloss>splitting the bill (usu. evenly)</gloss>
+<gloss>splitting the check</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<misc>&rare;</misc>
+<gloss>paying one's own expenses</gloss>
+<gloss>going Dutch</gloss>
 </sense>
 </entry>
 <entry>
@@ -1138789,17 +1139154,19 @@ various information fields.
 <entry>
 <ent_seq>1608900</ent_seq>
 <k_ele>
-<keb>魂送り</keb>
+<keb>霊送り</keb>
 </k_ele>
 <k_ele>
-<keb>霊送り</keb>
+<keb>魂送り</keb>
 </k_ele>
 <r_ele>
 <reb>たまおくり</reb>
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>sending off the spirits of the dead</gloss>
+<xref>お盆・1</xref>
+<xref>霊迎え</xref>
+<gloss>sending off the spirits of one's ancestors on the last day of the Bon Festival (by lighting small fires)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1139923,7 +1140290,7 @@ various information fields.
 <sense>
 <pos>&vz;</pos>
 <pos>&vi;</pos>
-<xref>応じる</xref>
+<xref>応じる・1</xref>
 <gloss>to answer</gloss>
 <gloss>to respond</gloss>
 <gloss>to meet</gloss>
@@ -1150872,7 +1151239,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>巻添え</keb>
-<ke_pri>ichi1</ke_pri>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>巻きぞえ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>まきぞえ</reb>
@@ -1159560,6 +1159931,10 @@ various information fields.
 <keb>ためつ眇めつ</keb>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>矯めつすがめつ</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>ためつすがめつ</reb>
 </r_ele>
@@ -1162660,26 +1163035,29 @@ various information fields.
 <entry>
 <ent_seq>1621440</ent_seq>
 <k_ele>
-<keb>手透き</keb>
+<keb>手すき</keb>
 </k_ele>
 <k_ele>
 <keb>手隙</keb>
 </k_ele>
 <k_ele>
-<keb>手すき</keb>
+<keb>手空き</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
-<keb>手空き</keb>
+<keb>手透き</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>手明き</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>てすき</reb>
-<re_restr>手透き</re_restr>
-<re_restr>手隙</re_restr>
 <re_restr>手すき</re_restr>
+<re_restr>手隙</re_restr>
 <re_restr>手空き</re_restr>
+<re_restr>手透き</re_restr>
 </r_ele>
 <r_ele>
 <reb>てあき</reb>
@@ -1167136,9 +1167514,11 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>作業員</xref>
 <misc>&sens;</misc>
 <gloss>construction worker</gloss>
-<gloss>laborer (labourer)</gloss>
+<gloss>laborer</gloss>
+<gloss>labourer</gloss>
 <gloss>navvy</gloss>
 </sense>
 </entry>
@@ -1167259,6 +1167639,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>筒元</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>どうもと</reb>
@@ -1185776,15 +1186157,19 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>落ちつける</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>落着ける</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>落ち付ける</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>落付ける</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>おちつける</reb>
@@ -1192434,13 +1192819,14 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<misc>&col;</misc>
 <lsource ls_wasei="y">new half</lsource>
 <gloss>(male-to-female) crossdresser</gloss>
-<gloss>transvestite</gloss>
 <gloss>drag queen</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
+<misc>&col;</misc>
 <gloss>trans woman</gloss>
 </sense>
 </entry>
@@ -1206965,6 +1207351,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>船艙</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>せんそう</reb>
@@ -1206973,7 +1207360,6 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>船蔵・ふなぐら・2</xref>
 <gloss>ship's hold</gloss>
 <gloss>hatch</gloss>
 </sense>
@@ -1216798,16 +1217184,19 @@ various information fields.
 <keb>耐え難い</keb>
 </k_ele>
 <k_ele>
-<keb>耐えがたい</keb>
-</k_ele>
-<k_ele>
 <keb>堪え難い</keb>
 </k_ele>
 <k_ele>
+<keb>耐えがたい</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
 <keb>堪えがたい</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>耐難い</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>たえがたい</reb>
@@ -1230410,6 +1230799,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&zool;</field>
 <gloss>carnivores (i.e. animals of the order Carnivora)</gloss>
 </sense>
 </entry>
@@ -1266105,21 +1266495,18 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>金タライ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>金たらい</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>かなだらい</reb>
-<re_restr>金ダライ</re_restr>
-<re_restr>金だらい</re_restr>
-<re_restr>金盥</re_restr>
 </r_ele>
 <r_ele>
 <reb>かなたらい</reb>
 <re_restr>金盥</re_restr>
-<re_restr>金タライ</re_restr>
-<re_restr>金たらい</re_restr>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -1272408,6 +1272795,10 @@ various information fields.
 <ke_pri>news2</ke_pri>
 <ke_pri>nf43</ke_pri>
 </k_ele>
+<k_ele>
+<keb>用だてる</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>ようだてる</reb>
 <re_pri>news2</re_pri>
@@ -1272417,7 +1272808,14 @@ various information fields.
 <pos>&v1;</pos>
 <pos>&vt;</pos>
 <gloss>to make use of</gloss>
-<gloss>to lend money</gloss>
+<gloss>to use (money) for</gloss>
+</sense>
+<sense>
+<pos>&v1;</pos>
+<pos>&vt;</pos>
+<gloss>to lend (money)</gloss>
+<gloss>to advance (e.g. a loan)</gloss>
+<gloss>to accommodate (someone) with</gloss>
 </sense>
 </entry>
 <entry>
@@ -1286048,6 +1286446,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>尿管</xref>
+<field>&anat;</field>
+<misc>&rare;</misc>
 <gloss>ureter</gloss>
 </sense>
 </entry>
@@ -1295396,6 +1295797,8 @@ various information fields.
 <pos>&n;</pos>
 <pos>&vs;</pos>
 <pos>&vi;</pos>
+<xref>読書</xref>
+<misc>&dated;</misc>
 <gloss>reading</gloss>
 </sense>
 </entry>
@@ -1301772,6 +1302175,22 @@ various information fields.
 <k_ele>
 <keb>身欠き鰊</keb>
 </k_ele>
+<k_ele>
+<keb>身欠鰊</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>磨きニシン</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>磨きにしん</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>磨き鰊</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>みがきにしん</reb>
 </r_ele>
@@ -1301780,7 +1302199,7 @@ various information fields.
 </r_ele>
 <r_ele>
 <reb>ミガキニシン</reb>
-<re_nokanji/>
+<re_inf>&sk;</re_inf>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -1346290,7 +1346709,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>fair or reasonable price</gloss>
+<gloss>fair price</gloss>
+<gloss>reasonable price</gloss>
 </sense>
 </entry>
 <entry>
@@ -1354687,8 +1355107,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>Southern Kuril Islands (administered by Russia, claimed by Japan)</gloss>
-<gloss>Northern Territories</gloss>
+<gloss>Northern Territories (administered by Russia, claimed by Japan)</gloss>
+<gloss>Southern Kuril Islands</gloss>
 </sense>
 </entry>
 <entry>
@@ -1354772,6 +1355192,11 @@ various information fields.
 <pos>&n;</pos>
 <gloss>back door</gloss>
 <gloss>back entrance</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>backyard</gloss>
+<gloss>back (of a building)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1369542,12 +1369967,17 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <gloss>blue sky</gloss>
+<gloss>azure sky</gloss>
 </sense>
 <sense>
 <pos>&n;</pos>
 <gloss>erudition</gloss>
-<gloss>detachment from the world</gloss>
+<gloss>great learning</gloss>
 <gloss>high rank</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>detachment from the world</gloss>
 </sense>
 </entry>
 <entry>
@@ -1378003,27 +1378433,25 @@ various information fields.
 <ent_seq>1755570</ent_seq>
 <k_ele>
 <keb>山間</keb>
+<ke_pri>spec2</ke_pri>
 </k_ele>
 <k_ele>
 <keb>山あい</keb>
 </k_ele>
 <k_ele>
 <keb>山合い</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>やまあい</reb>
-</r_ele>
-<r_ele>
-<reb>やまま</reb>
-<re_restr>山間</re_restr>
-<re_inf>&ok;</re_inf>
+<re_pri>spec2</re_pri>
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>valley</gloss>
-<gloss>ravine</gloss>
-<gloss>glen</gloss>
-<gloss>gorge</gloss>
+<gloss>(in) the mountains</gloss>
+<gloss>(among) the mountains</gloss>
+<gloss>(through) the mountains</gloss>
+<gloss>(in a) mountain valley</gloss>
 </sense>
 </entry>
 <entry>
@@ -1385821,9 +1386249,19 @@ various information fields.
 <pos>&n;</pos>
 <pos>&vs;</pos>
 <pos>&vi;</pos>
+<xref>極楽・1</xref>
+<field>&Buddh;</field>
 <misc>&yoji;</misc>
 <gloss>rebirth in paradise</gloss>
+<gloss>rebirth in the Pure Land</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vi;</pos>
+<misc>&yoji;</misc>
 <gloss>peaceful death</gloss>
+<gloss>dying without suffering</gloss>
 </sense>
 </entry>
 <entry>
@@ -1388356,10 +1388794,12 @@ various information fields.
 <keb>如才無い</keb>
 </k_ele>
 <k_ele>
-<keb>如在ない</keb>
+<keb>如在無い</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
-<keb>如在無い</keb>
+<keb>如在ない</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>じょさいない</reb>
@@ -1432748,6 +1433188,10 @@ various information fields.
 <k_ele>
 <keb>塩魚</keb>
 </k_ele>
+<k_ele>
+<keb>塩肴</keb>
+<ke_inf>&rK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>しおざかな</reb>
 </r_ele>
@@ -1440355,6 +1440799,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>起抜け</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>おきぬけ</reb>
@@ -1445915,6 +1446360,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>封筒</xref>
+<misc>&dated;</misc>
 <gloss>envelope</gloss>
 </sense>
 </entry>
@@ -1458729,6 +1459176,9 @@ various information fields.
 <k_ele>
 <keb>目の色</keb>
 </k_ele>
+<k_ele>
+<keb>眼の色</keb>
+</k_ele>
 <r_ele>
 <reb>めのいろ</reb>
 </r_ele>
@@ -1458737,6 +1459187,14 @@ various information fields.
 <pos>&n;</pos>
 <gloss>eye color</gloss>
 <gloss>eye colour</gloss>
+</sense>
+<sense>
+<pos>&exp;</pos>
+<pos>&n;</pos>
+<gloss>expression (of the eyes)</gloss>
+<gloss>look</gloss>
+<gloss>countenance</gloss>
+<gloss>appearance</gloss>
 </sense>
 </entry>
 <entry>
@@ -1458881,6 +1459339,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&food;</field>
 <gloss>dried sardines (held together by a bamboo skewer or string piercing the eye sockets)</gloss>
 </sense>
 </entry>
@@ -1462904,6 +1463363,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&med;</field>
 <gloss>sclerosis</gloss>
 </sense>
 </entry>
@@ -1496813,7 +1497273,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>welcoming the spirits of the dead</gloss>
+<xref>お盆・1</xref>
+<xref>霊送り</xref>
+<gloss>welcoming the spirits of one's ancestors on the first day of the Bon Festival (by lighting small fires)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1497676,6 +1498138,10 @@ various information fields.
 <ent_seq>1833830</ent_seq>
 <k_ele>
 <keb>餡蜜</keb>
+</k_ele>
+<k_ele>
+<keb>あん蜜</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>あんみつ</reb>
@@ -1510763,6 +1511229,13 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <gloss>nickel and copper alloy</gloss>
+<gloss>cupronickel</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<xref>白銅貨</xref>
+<misc>&abbr;</misc>
+<gloss>nickel coin</gloss>
 </sense>
 </entry>
 <entry>
@@ -1534531,6 +1535004,10 @@ various information fields.
 <keb>桝形</keb>
 <ke_inf>&oK;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>ます型</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>ますがた</reb>
 </r_ele>
@@ -1554933,12 +1555410,19 @@ various information fields.
 <k_ele>
 <keb>尻座</keb>
 </k_ele>
+<k_ele>
+<keb>尻坐</keb>
+</k_ele>
 <r_ele>
 <reb>こうざ</reb>
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<misc>&arch;</misc>
+<pos>&vs;</pos>
+<pos>&vi;</pos>
+<misc>&rare;</misc>
+<gloss>sitting and hugging one's knees</gloss>
+<gloss>sitting down</gloss>
 <gloss>crouching</gloss>
 </sense>
 </entry>
@@ -1587652,21 +1588136,6 @@ various information fields.
 </sense>
 </entry>
 <entry>
-<ent_seq>1905600</ent_seq>
-<k_ele>
-<keb>深い霧</keb>
-</k_ele>
-<r_ele>
-<reb>ふかいきり</reb>
-</r_ele>
-<sense>
-<pos>&exp;</pos>
-<pos>&n;</pos>
-<gloss>thick fog</gloss>
-<gloss>dense fog</gloss>
-</sense>
-</entry>
-<entry>
 <ent_seq>1905610</ent_seq>
 <k_ele>
 <keb>不覚を取る</keb>
@@ -1595750,8 +1596219,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>job</gloss>
-<gloss>employment</gloss>
+<gloss>job opening</gloss>
+<gloss>employment opportunity</gloss>
 </sense>
 </entry>
 <entry>
@@ -1615137,6 +1615606,7 @@ various information fields.
 <gloss>seems</gloss>
 <gloss>I think</gloss>
 <gloss>I guess</gloss>
+<gloss>probably</gloss>
 <gloss>I wonder</gloss>
 <gloss>I hope</gloss>
 </sense>
@@ -1624671,9 +1625141,11 @@ various information fields.
 <ent_seq>1936030</ent_seq>
 <k_ele>
 <keb>作業員</keb>
+<ke_pri>spec2</ke_pri>
 </k_ele>
 <r_ele>
 <reb>さぎょういん</reb>
+<re_pri>spec2</re_pri>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -1632628,7 +1633100,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>Yamato race</gloss>
+<gloss>Yamato people (majority ethnic group of Japan)</gloss>
+<gloss>Yamato ethnic group</gloss>
 </sense>
 </entry>
 <entry>
@@ -1645558,6 +1646031,14 @@ various information fields.
 <ent_seq>1951840</ent_seq>
 <k_ele>
 <keb>山百合</keb>
+</k_ele>
+<k_ele>
+<keb>山ゆり</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>山ユリ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>やまゆり</reb>
@@ -1720617,6 +1721098,7 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>家捜し</keb>
+<ke_inf>&iK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>家さがし</keb>
@@ -1720625,23 +1721107,11 @@ various information fields.
 <r_ele>
 <reb>いえさがし</reb>
 </r_ele>
-<r_ele>
-<reb>やさがし</reb>
-</r_ele>
 <sense>
 <pos>&n;</pos>
 <pos>&vs;</pos>
 <pos>&vi;</pos>
-<s_inf>esp. いえさがし</s_inf>
 <gloss>house hunting</gloss>
-</sense>
-<sense>
-<pos>&n;</pos>
-<pos>&vs;</pos>
-<pos>&vi;</pos>
-<s_inf>esp. やさがし</s_inf>
-<gloss>searching an entire house</gloss>
-<gloss>searching a house thoroughly</gloss>
 </sense>
 </entry>
 <entry>
@@ -1731399,10 +1731869,12 @@ various information fields.
 <sense>
 <pos>&v5r;</pos>
 <pos>&vt;</pos>
-<gloss>to bedaub (with paint)</gloss>
+<gloss>to smear all over</gloss>
+<gloss>to slather on</gloss>
 <gloss>to besmear</gloss>
 <gloss>to paint heavily</gloss>
 <gloss>to spread thickly</gloss>
+<gloss>to bedaub (with paint)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1757358,8 +1757830,21 @@ various information fields.
 <sense>
 <pos>&prt;</pos>
 <misc>&male;</misc>
-<s_inf>used at sentence end</s_inf>
-<gloss>adds force or indicates command</gloss>
+<s_inf>at sentence end</s_inf>
+<gloss>adds force to a statement, decision or conclusion</gloss>
+<gloss>indicates command</gloss>
+</sense>
+<sense>
+<pos>&prt;</pos>
+<gloss>(strongly) emphasizes the previous word</gloss>
+<gloss>adds focus</gloss>
+</sense>
+<sense>
+<pos>&prt;</pos>
+<xref>か・4</xref>
+<misc>&dated;</misc>
+<s_inf>after an interrogative</s_inf>
+<gloss>some- (e.g. something, someone)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1759638,9 +1760123,12 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <pos>&vs;</pos>
+<pos>&vi;</pos>
 <misc>&yoji;</misc>
-<gloss>boisterous dance</gloss>
-<gloss>dancing wildly</gloss>
+<gloss>jumping for joy</gloss>
+<gloss>being ecstatic</gloss>
+<gloss>being overjoyed</gloss>
+<gloss>dancing wildly (out of happiness)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1762664,9 +1763152,10 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>割り勘・1</xref>
 <misc>&yoji;</misc>
-<gloss>Dutch treat</gloss>
-<gloss>going Dutch</gloss>
+<misc>&rare;</misc>
+<gloss>evenly splitting the bill</gloss>
 </sense>
 </entry>
 <entry>
@@ -1797374,9 +1797863,11 @@ various information fields.
 <ent_seq>2055520</ent_seq>
 <r_ele>
 <reb>それなのに</reb>
+<re_pri>spec1</re_pri>
 </r_ele>
 <sense>
 <pos>&conj;</pos>
+<s_inf>more subjective than それにもかかわらず</s_inf>
 <gloss>and yet</gloss>
 <gloss>despite this</gloss>
 <gloss>but even so</gloss>
@@ -1819334,11 +1819825,13 @@ various information fields.
 <reb>つんけん</reb>
 </r_ele>
 <sense>
+<pos>&vs;</pos>
 <pos>&adv;</pos>
 <pos>&adv-to;</pos>
-<pos>&vs;</pos>
-<gloss>crabbily</gloss>
-<gloss>unsociably</gloss>
+<gloss>to be crabby</gloss>
+<gloss>to be unsociable</gloss>
+<gloss>to be snippy</gloss>
+<gloss>to be irritable</gloss>
 </sense>
 </entry>
 <entry>
@@ -1838600,9 +1839093,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>請合い</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>受合い</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>うけあい</reb>
@@ -1858933,6 +1859428,7 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <gloss>chaos on the roads</gloss>
+<gloss>high incidence of road traffic casualties</gloss>
 <gloss g_type="lit">traffic war</gloss>
 </sense>
 </entry>
@@ -1868384,18 +1868880,27 @@ various information fields.
 <entry>
 <ent_seq>2101500</ent_seq>
 <k_ele>
+<keb>無い袖は振れない</keb>
+</k_ele>
+<k_ele>
+<keb>ない袖は振れない</keb>
+</k_ele>
+<k_ele>
 <keb>無い袖は振れぬ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>ない袖は振れぬ</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
-<reb>ないそではふれぬ</reb>
+<reb>ないそではふれない</reb>
 </r_ele>
 <sense>
 <pos>&exp;</pos>
 <misc>&proverb;</misc>
-<gloss>you can't give (use) what you don't have</gloss>
+<gloss>you can't give what you don't have</gloss>
+<gloss>you can't squeeze blood from a turnip</gloss>
 <gloss>nothing comes from nothing</gloss>
 <gloss g_type="lit">you can't shake sleeves you don't have</gloss>
 </sense>
@@ -1877531,6 +1878036,7 @@ various information fields.
 <gloss>to present (an issue, policy, artistic work, etc.)</gloss>
 <gloss>to take up</gloss>
 <gloss>to bring to the fore</gloss>
+<gloss>to bring as an asset (credentials, achievements, etc.)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1886225,9 +1886731,14 @@ various information fields.
 <ent_seq>2113160</ent_seq>
 <k_ele>
 <keb>精霊飛蝗</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>精霊バッタ</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>精霊蝗虫</keb>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
@@ -1889311,7 +1889822,7 @@ various information fields.
 <pos>&n;</pos>
 <xref>割り勘負け</xref>
 <misc>&sl;</misc>
-<gloss>"winner" of a meal paid for by dutch treat (i.e. the person who eats the most)</gloss>
+<gloss>"winner" of a meal paid for by splitting the bill (i.e. the person who ate the most)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1889329,7 +1889840,7 @@ various information fields.
 <pos>&n;</pos>
 <xref>割り勘勝ち</xref>
 <misc>&sl;</misc>
-<gloss>"loser" of a meal paid for by dutch treat (i.e. the person who eats the least)</gloss>
+<gloss>"loser" of a meal paid by splitting the bill (i.e. the person who ate the least)</gloss>
 </sense>
 </entry>
 <entry>
@@ -1900758,7 +1901269,7 @@ various information fields.
 <pos>&prt;</pos>
 <xref>かえ</xref>
 <xref>ぞえ</xref>
-<xref>わえ</xref>
+<xref>わえ・1</xref>
 <misc>&arch;</misc>
 <s_inf>at sentence end</s_inf>
 <gloss g_type="expl">strengthens a question, assertion, etc.</gloss>
@@ -1912499,6 +1913010,7 @@ various information fields.
 <sense>
 <pos>&exp;</pos>
 <pos>&vs-i;</pos>
+<xref>目を皿のようにする</xref>
 <misc>&id;</misc>
 <gloss>to open one's eyes wide</gloss>
 </sense>
@@ -1925276,7 +1925788,7 @@ various information fields.
 </sense>
 <sense>
 <pos>&int;</pos>
-<xref>なるほど</xref>
+<xref>なるほど・1</xref>
 <misc>&sl;</misc>
 <misc>&abbr;</misc>
 <gloss>I see</gloss>
@@ -1943178,8 +1943690,11 @@ various information fields.
 <reb>きたるべき</reb>
 </r_ele>
 <sense>
-<pos>&adj-f;</pos>
-<gloss>expected to arrive (occur) in the near future</gloss>
+<pos>&adj-pn;</pos>
+<gloss>upcoming</gloss>
+<gloss>forthcoming</gloss>
+<gloss>approaching</gloss>
+<gloss>yet to come</gloss>
 </sense>
 </entry>
 <entry>
@@ -1948582,7 +1949097,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&exp;</pos>
-<s_inf>from Matthew 5:38</s_inf>
+<misc>&quote;</misc>
+<s_inf>Code of Hammurabi, Exodus and Matthew 5:38</s_inf>
 <gloss>an eye for an eye and a tooth for a tooth</gloss>
 </sense>
 </entry>
@@ -1974611,7 +1975127,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>白銅</xref>
+<xref>白銅・1</xref>
 <gloss>cupronickel (alloy of approximately 80% copper and 20% nickel)</gloss>
 </sense>
 </entry>
@@ -1974622,7 +1975138,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>白銅</xref>
+<xref>白銅・1</xref>
 <misc>&rare;</misc>
 <gloss>cupronickel</gloss>
 </sense>
@@ -1998276,21 +1998792,6 @@ various information fields.
 </sense>
 </entry>
 <entry>
-<ent_seq>2185440</ent_seq>
-<k_ele>
-<keb>靴を磨く</keb>
-</k_ele>
-<r_ele>
-<reb>くつをみがく</reb>
-</r_ele>
-<sense>
-<pos>&exp;</pos>
-<pos>&v5k;</pos>
-<gloss>to polish one's shoes</gloss>
-<gloss>to clean your shoes</gloss>
-</sense>
-</entry>
-<entry>
 <ent_seq>2185450</ent_seq>
 <k_ele>
 <keb>山獏</keb>
@@ -2005293,13 +2005794,26 @@ various information fields.
 <keb>託卵</keb>
 <ke_inf>&iK;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>たく卵</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>たくらん</reb>
 </r_ele>
 <sense>
 <pos>&n;</pos>
 <pos>&vs;</pos>
-<gloss>brood parasitism (planting one's eggs in another bird's nest, as demonstrated by the cuckoo, etc.)</gloss>
+<pos>&vt;</pos>
+<field>&zool;</field>
+<gloss>brood parasitism (laying eggs in another's nest, e.g. by a cuckoo)</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vt;</pos>
+<misc>&sl;</misc>
+<gloss>paternity fraud (passing off a child fathered by another man as one's husband's)</gloss>
 </sense>
 </entry>
 <entry>
@@ -2023683,12 +2024197,23 @@ various information fields.
 </r_ele>
 <r_ele>
 <reb>わえ</reb>
+<re_inf>&rk;</re_inf>
 </r_ele>
 <sense>
 <pos>&prt;</pos>
 <xref>わ・1</xref>
-<s_inf>sentence end, mainly masc.</s_inf>
-<gloss g_type="expl">indicates emotion</gloss>
+<misc>&dated;</misc>
+<misc>&male;</misc>
+<s_inf>at sentence end; used chiefly by the elderly</s_inf>
+<gloss>indicates emotion or exclamation</gloss>
+</sense>
+<sense>
+<pos>&prt;</pos>
+<xref>よ・1</xref>
+<misc>&col;</misc>
+<s_inf>dialectal; at sentence end; indicates certainty, emphasis, contempt, request, warning, etc.</s_inf>
+<gloss>hey</gloss>
+<gloss>you</gloss>
 </sense>
 </entry>
 <entry>
@@ -2069961,6 +2070486,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&astron;</field>
 <gloss>Virgo (6th zodiacal sign)</gloss>
 <gloss>the Virgin</gloss>
 </sense>
@@ -2109839,6 +2110365,10 @@ various information fields.
 <keb>人っこひとり</keb>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>ひとっこ一人</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>ひとっこひとり</reb>
 </r_ele>
@@ -2116317,6 +2116847,10 @@ various information fields.
 </k_ele>
 <r_ele>
 <reb>パラパラまんが</reb>
+</r_ele>
+<r_ele>
+<reb>パラパラマンガ</reb>
+<re_nokanji/>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -2179374,7 +2179908,6 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<field>&comp;</field>
 <gloss>data center</gloss>
 <gloss>data centre</gloss>
 </sense>
@@ -2307994,7 +2308527,7 @@ various information fields.
 <sense>
 <pos>&v5s;</pos>
 <pos>&vt;</pos>
-<xref>会わせる</xref>
+<xref>会わせる・1</xref>
 <gloss>to make (someone) to meet</gloss>
 <gloss>to let (someone) meet</gloss>
 </sense>
@@ -2330905,7 +2331438,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&exp;</pos>
-<xref>手段を選ばずに</xref>
+<xref>手段を選ばない</xref>
 <gloss>to be willing to do anything (any trick) to achieve one's end</gloss>
 </sense>
 </entry>
@@ -2336717,7 +2337250,7 @@ various information fields.
 <xref>かい</xref>
 <xref>ぞい</xref>
 <xref>だい・1</xref>
-<xref>わい</xref>
+<xref>わい・1</xref>
 <misc>&fam;</misc>
 <gloss>strengthens a question, assertion, etc.</gloss>
 </sense>
@@ -2340369,7 +2340902,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>アーカイブ</xref>
+<xref>アーカイブ・1</xref>
 <gloss>archives</gloss>
 </sense>
 </entry>
@@ -2369729,8 +2370262,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<lsource ls_wasei="y">minus ion</lsource>
-<gloss>(atmospheric) negative ions (supposedly having positive health effects)</gloss>
+<lsource ls_type="part" ls_wasei="y">minus</lsource>
+<lsource xml:lang="ger" ls_type="part" ls_wasei="y">Ion</lsource>
+<gloss>(atmospheric) negative ions (purported to have positive health effects)</gloss>
 </sense>
 </entry>
 <entry>
@@ -2380703,6 +2381237,13 @@ various information fields.
 <r_ele>
 <reb>エンチラーダ</reb>
 </r_ele>
+<r_ele>
+<reb>インチラーダ</reb>
+</r_ele>
+<r_ele>
+<reb>エンチェラーダ</reb>
+<re_inf>&sk;</re_inf>
+</r_ele>
 <sense>
 <pos>&n;</pos>
 <field>&food;</field>
@@ -2389026,19 +2389567,25 @@ various information fields.
 <entry>
 <ent_seq>2464610</ent_seq>
 <k_ele>
-<keb>猩猩草</keb>
+<keb>猩々草</keb>
 </k_ele>
-<r_ele>
-<reb>しょうじょうそう</reb>
-</r_ele>
+<k_ele>
+<keb>猩猩草</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>ショウジョウソウ</reb>
 <re_nokanji/>
 </r_ele>
+<r_ele>
+<reb>しょうじょうそう</reb>
+</r_ele>
 <sense>
 <pos>&n;</pos>
 <misc>&uk;</misc>
-<gloss>Mexican fireplant (species of poinsettia, Euphorbia heterophylla)</gloss>
+<gloss>Mexican fireplant (Euphorbia heterophylla)</gloss>
+<gloss>painted euphorbia</gloss>
+<gloss>Japanese poinsettia</gloss>
 </sense>
 </entry>
 <entry>
@@ -2443549,6 +2444096,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>新約聖書</xref>
+<field>&Christn;</field>
+<misc>&rare;</misc>
 <gloss>New Testament</gloss>
 </sense>
 </entry>
@@ -2478033,13 +2478583,16 @@ various information fields.
 <keb>埒もない</keb>
 </k_ele>
 <k_ele>
-<keb>埒も無い</keb>
+<keb>埓もない</keb>
+<ke_inf>&rK;</ke_inf>
 </k_ele>
 <k_ele>
-<keb>埓もない</keb>
+<keb>埒も無い</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>埓も無い</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>らちもない</reb>
@@ -2483483,9 +2484036,11 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>割り勘</xref>
+<xref>割り勘・1</xref>
+<misc>&rare;</misc>
 <lsource ls_wasei="y">Dutch account</lsource>
-<gloss>splitting the bill</gloss>
+<gloss>splitting the bill (usu. evenly)</gloss>
+<gloss>splitting the check</gloss>
 </sense>
 </entry>
 <entry>
@@ -2502393,6 +2502948,8 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>サンタクロース</xref>
+<misc>&abbr;</misc>
 <gloss>Santa</gloss>
 <gloss>Santa Claus</gloss>
 </sense>
@@ -2536104,16 +2536661,22 @@ various information fields.
 <entry>
 <ent_seq>2574750</ent_seq>
 <k_ele>
-<keb>強情っ張り</keb>
-</k_ele>
-<k_ele>
 <keb>強情っぱり</keb>
 </k_ele>
 <k_ele>
-<keb>強情張</keb>
+<keb>強情っ張り</keb>
 </k_ele>
 <k_ele>
 <keb>剛情張</keb>
+<ke_inf>&rK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>強情張</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>剛情っ張り</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ごうじょうっぱり</reb>
@@ -2536121,10 +2536684,13 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <pos>&adj-na;</pos>
-<gloss>stubborn person</gloss>
-<gloss>obstinate person</gloss>
 <gloss>stubbornness</gloss>
 <gloss>obstinacy</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>stubborn person</gloss>
+<gloss>obstinate person</gloss>
 </sense>
 </entry>
 <entry>
@@ -2566361,7 +2566927,7 @@ various information fields.
 </sense>
 <sense>
 <pos>&n;</pos>
-<xref>キッチン・1</xref>
+<xref>キッチン</xref>
 <gloss>kitchen</gloss>
 </sense>
 </entry>
@@ -2595100,6 +2595666,7 @@ various information fields.
 <pos>&adv;</pos>
 <xref>いっそ・1</xref>
 <misc>&uk;</misc>
+<s_inf>more emphatic than いっそ</s_inf>
 <gloss>rather</gloss>
 <gloss>sooner</gloss>
 <gloss>preferably</gloss>
@@ -2613517,18 +2614084,14 @@ various information fields.
 <entry>
 <ent_seq>2625530</ent_seq>
 <k_ele>
-<keb>シロウト童貞</keb>
-</k_ele>
-<k_ele>
 <keb>素人童貞</keb>
 </k_ele>
-<r_ele>
-<reb>シロウトどうてい</reb>
-<re_restr>シロウト童貞</re_restr>
-</r_ele>
+<k_ele>
+<keb>シロウト童貞</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>しろうとどうてい</reb>
-<re_restr>素人童貞</re_restr>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -2615548,6 +2616111,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&med;</field>
 <gloss>progressive paralysis (due to neurosyphilis)</gloss>
 <gloss>general paresis</gloss>
 </sense>
@@ -2615783,8 +2616347,10 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&med;</field>
 <gloss>high-calorie infusion</gloss>
 <gloss>total parenteral nutrition</gloss>
+<gloss>TPN</gloss>
 </sense>
 </entry>
 <entry>
@@ -2615800,6 +2616366,7 @@ various information fields.
 <field>&med;</field>
 <gloss>hyperglycemia</gloss>
 <gloss>hyperglycaemia</gloss>
+<gloss>high blood sugar</gloss>
 </sense>
 </entry>
 <entry>
@@ -2634070,6 +2634637,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<field>&food;</field>
 <lsource ls_wasei="y"/>
 <gloss>taco rice</gloss>
 <gloss g_type="expl">Okinawan rice dish topped with taco filling (seasoned mince, salsa sauce, lettuce, etc.)</gloss>
@@ -2640941,7 +2641509,11 @@ various information fields.
 <reb>たって</reb>
 <re_pri>spec1</re_pri>
 </r_ele>
+<r_ele>
+<reb>ったって</reb>
+</r_ele>
 <sense>
+<stagr>たって</stagr>
 <pos>&prt;</pos>
 <s_inf>also だって</s_inf>
 <gloss>even if</gloss>
@@ -2640950,7 +2641522,6 @@ various information fields.
 <sense>
 <pos>&prt;</pos>
 <xref>といっても</xref>
-<s_inf>also ったって</s_inf>
 <gloss>although one might say</gloss>
 <gloss>although called</gloss>
 </sense>
@@ -2735259,6 +2735830,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>吽形</xref>
 <field>&Buddh;</field>
 <gloss>open-mouthed form (statue with open mouth, symbolizing the "a" half of "aum")</gloss>
 </sense>
@@ -2735273,6 +2735845,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
+<xref>阿形</xref>
 <field>&Buddh;</field>
 <gloss>closed-mouthed form (statue with closed mouth, symbolizing the "um" half of "aum")</gloss>
 </sense>
@@ -2769292,6 +2769865,13 @@ various information fields.
 <gloss>lewd dream</gloss>
 <gloss>salacious fantasy</gloss>
 </sense>
+<sense>
+<pos>&n;</pos>
+<misc>&sl;</misc>
+<misc>&abbr;</misc>
+<s_inf>abbr. of 真夏の夜の淫夢</s_inf>
+<gloss>Inmu (Japanese gay adult film that became a meme)</gloss>
+</sense>
 </entry>
 <entry>
 <ent_seq>2729760</ent_seq>
@@ -2778881,8 +2779461,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>strapping Kyushu lad</gloss>
-<gloss>virile son of Kyushu</gloss>
+<s_inf>oft. associated with stereotypes of traditional masculinity; i.e. toughness, stubbornness, etc.</s_inf>
+<gloss>man born and raised in Kyushu</gloss>
+<gloss>Kyushu man</gloss>
 </sense>
 </entry>
 <entry>
@@ -2803412,7 +2803993,7 @@ various information fields.
 <sense>
 <pos>&exp;</pos>
 <pos>&prt;</pos>
-<xref>わい</xref>
+<xref>わい・1</xref>
 <xref>の・5</xref>
 <xref>な・1</xref>
 <misc>&arch;</misc>
@@ -2824584,13 +2825165,11 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&exp;</pos>
-<xref>だ</xref>
 <misc>&joc;</misc>
 <misc>&sl;</misc>
-<s_inf>used in place of だ when attributing an utterance to a Korean; oft. derog.</s_inf>
+<s_inf>often derog.</s_inf>
 <lsource xml:lang="kor">ni-da</lsource>
-<gloss>be</gloss>
-<gloss>is</gloss>
+<gloss>imitative Korean-style sentence ending</gloss>
 </sense>
 </entry>
 <entry>
@@ -2851123,7 +2851702,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>illegal street racers (on motorbikes)</gloss>
+<xref>ローリング・3</xref>
+<gloss>illegal mountain-road racers</gloss>
+<gloss>illegal road racers</gloss>
 </sense>
 </entry>
 <entry>
@@ -2865519,12 +2866100,16 @@ various information fields.
 <k_ele>
 <keb>藪虱</keb>
 </k_ele>
-<r_ele>
-<reb>やぶじらみ</reb>
-</r_ele>
+<k_ele>
+<keb>藪蝨</keb>
+<ke_inf>&rK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>ヤブジラミ</reb>
 <re_nokanji/>
+</r_ele>
+<r_ele>
+<reb>やぶじらみ</reb>
 </r_ele>
 <sense>
 <pos>&n;</pos>
@@ -2873130,7 +2873715,7 @@ various information fields.
 <sense>
 <pos>&int;</pos>
 <pos>&adv;</pos>
-<xref>なるほど</xref>
+<xref>なるほど・1</xref>
 <misc>&sl;</misc>
 <misc>&joc;</misc>
 <gloss>I see</gloss>
@@ -2889041,6 +2889626,7 @@ various information fields.
 <sense>
 <stagr>ふなぐら</stagr>
 <pos>&n;</pos>
+<xref>船倉・せんそう</xref>
 <gloss>ship's hold</gloss>
 <gloss>hatch</gloss>
 </sense>
@@ -2918562,13 +2919148,18 @@ various information fields.
 <k_ele>
 <keb>精霊送り</keb>
 </k_ele>
+<k_ele>
+<keb>精霊おくり</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>しょうりょうおくり</reb>
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>魂送り</xref>
-<gloss>sending off the spirits of the dead</gloss>
+<xref>お盆・1</xref>
+<xref>精霊迎え</xref>
+<gloss>sending off the spirits of one's ancestors on the last day of the Bon Festival (by lighting small fires)</gloss>
 </sense>
 </entry>
 <entry>
@@ -2974444,6 +2975035,7 @@ various information fields.
 <sense>
 <pos>&n;</pos>
 <xref>コーンポタージュ</xref>
+<field>&food;</field>
 <misc>&abbr;</misc>
 <misc>&col;</misc>
 <gloss>cream of corn soup</gloss>
@@ -2983141,7 +2983733,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&exp;</pos>
-<xref>ぞ</xref>
+<xref>ぞ・2</xref>
 <s_inf>emphatic</s_inf>
 <gloss>this</gloss>
 </sense>
@@ -2996553,9 +2997145,11 @@ various information fields.
 <ent_seq>2831062</ent_seq>
 <r_ele>
 <reb>てる</reb>
+<re_pri>spec1</re_pri>
 </r_ele>
 <r_ele>
 <reb>でる</reb>
+<re_pri>spec1</re_pri>
 </r_ele>
 <sense>
 <pos>&exp;</pos>
@@ -3009820,8 +3010414,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>Chinese Taipei</gloss>
-<gloss g_type="expl">name used by the Republic of China (Taiwan) when participating in international competitions</gloss>
+<gloss>Chinese Taipei (designation for Taiwan in international sports and certain international organizations)</gloss>
 </sense>
 </entry>
 <entry>
@@ -3011705,8 +3012298,9 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&exp;</pos>
-<xref>目には目を歯には歯を・めにはめをはにははを</xref>
-<s_inf>from Matthew 5:38</s_inf>
+<xref>目には目を歯には歯を</xref>
+<misc>&quote;</misc>
+<s_inf>Code of Hammurabi, Exodus and Matthew 5:38</s_inf>
 <gloss>an eye for an eye</gloss>
 </sense>
 </entry>
@@ -3053507,14 +3054101,14 @@ various information fields.
 <pos>&prt;</pos>
 <misc>&male;</misc>
 <misc>&fam;</misc>
-<s_inf>used at sentence end; adds light force or emphasis to a sentence</s_inf>
-<gloss>I can tell you</gloss>
+<s_inf>at sentence end</s_inf>
+<gloss>adds light emphasis or insistence to a statement</gloss>
 </sense>
 <sense>
 <pos>&prt;</pos>
 <misc>&male;</misc>
-<s_inf>at sentence end; used to make a sentence threatening or ironic</s_inf>
-<gloss>heh</gloss>
+<s_inf>at sentence end</s_inf>
+<gloss>gives a statement a threatening or condescending tone</gloss>
 </sense>
 </entry>
 <entry>
@@ -3127942,6 +3128536,11 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>首がまわらない</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>くびが回らない</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>くびがまわらない</reb>
@@ -3138179,22 +3138778,32 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>諜々</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <k_ele>
 <keb>諜諜</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>ちょうちょう</reb>
 </r_ele>
 <sense>
 <pos>&adv-to;</pos>
+<pos>&adv;</pos>
 <pos>&adj-t;</pos>
-<pos>&vs;</pos>
 <pos>&n;</pos>
 <misc>&form;</misc>
 <gloss>glibly</gloss>
 <gloss>volubly</gloss>
 <gloss>at great length</gloss>
+</sense>
+<sense>
+<pos>&vs;</pos>
+<misc>&form;</misc>
+<gloss>to chatter away</gloss>
+<gloss>to talk at great length</gloss>
+<gloss>to babble</gloss>
+<gloss>to be long-winded</gloss>
 </sense>
 </entry>
 <entry>
@@ -3143468,7 +3144077,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>なるほど</xref>
+<xref>なるほど・1</xref>
 <misc>&col;</misc>
 <misc>&joc;</misc>
 <gloss>I see</gloss>
@@ -3146170,6 +3146779,9 @@ various information fields.
 <ent_seq>2840943</ent_seq>
 <k_ele>
 <keb>矢も盾もたまらず</keb>
+</k_ele>
+<k_ele>
+<keb>矢も楯もたまらず</keb>
 </k_ele>
 <k_ele>
 <keb>矢も盾も堪らず</keb>
@@ -3152866,6 +3153478,10 @@ various information fields.
 <ent_seq>2841392</ent_seq>
 <k_ele>
 <keb>手に汗握る</keb>
+</k_ele>
+<k_ele>
+<keb>手に汗にぎる</keb>
+<ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
 <reb>てにあせにぎる</reb>
@@ -3203255,6 +3203871,7 @@ various information fields.
 <misc>&form;</misc>
 <gloss>I</gloss>
 <gloss>me</gloss>
+<gloss>(royal) we</gloss>
 </sense>
 </entry>
 <entry>
@@ -3244750,6 +3245367,9 @@ various information fields.
 <pos>&n;</pos>
 <dial>&ksb;</dial>
 <gloss>good-for-nothing</gloss>
+<gloss>coward</gloss>
+<gloss>wimp</gloss>
+<gloss>spineless person</gloss>
 </sense>
 </entry>
 <entry>
@@ -3271320,6 +3271940,13 @@ various information fields.
 <pos>&n;</pos>
 <gloss>full acceptance of workers' pay demands</gloss>
 </sense>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vi;</pos>
+<gloss>full acceptance of all demands</gloss>
+<gloss>agreeing to all demands</gloss>
+</sense>
 </entry>
 <entry>
 <ent_seq>2849293</ent_seq>
@@ -3278645,8 +3279272,8 @@ various information fields.
 <misc>&derog;</misc>
 <s_inf>from チーズ牛丼</s_inf>
 <gloss>nerd</gloss>
-<gloss>incel</gloss>
 <gloss>chud</gloss>
+<gloss>socially awkward, unattractive man</gloss>
 </sense>
 </entry>
 <entry>
@@ -3336382,7 +3337009,6 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>パクリ・3</xref>
 <misc>&sl;</misc>
 <s_inf>from トレース + パクリ</s_inf>
 <gloss>plagiarizing (an artwork or photo) by tracing</gloss>
@@ -3344032,6 +3344658,9 @@ various information fields.
 <k_ele>
 <keb>膣錠</keb>
 </k_ele>
+<k_ele>
+<keb>腟錠</keb>
+</k_ele>
 <r_ele>
 <reb>ちつじょう</reb>
 </r_ele>
@@ -3344039,6 +3344668,7 @@ various information fields.
 <pos>&n;</pos>
 <field>&med;</field>
 <gloss>vaginal tablet</gloss>
+<gloss>vaginal suppository</gloss>
 </sense>
 </entry>
 <entry>
@@ -3346629,7 +3347259,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<field>&biol;</field>
+<field>&zool;</field>
 <gloss>tentacle</gloss>
 <gloss>feeler</gloss>
 </sense>
@@ -3420144,6 +3420774,8 @@ various information fields.
 <sense>
 <pos>&exp;</pos>
 <pos>&vs-i;</pos>
+<xref>目を皿にする</xref>
+<misc>&id;</misc>
 <gloss>to open one's eyes wide</gloss>
 </sense>
 </entry>
@@ -3435696,10 +3436328,10 @@ various information fields.
 <sense>
 <pos>&exp;</pos>
 <pos>&v1;</pos>
-<xref>閊える・つかえる・2</xref>
+<xref>閊える・つかえる・1</xref>
 <misc>&id;</misc>
-<gloss>to make (someone) wait</gloss>
-<gloss>to take more time (than anticipated)</gloss>
+<gloss>to make (the next person) wait</gloss>
+<gloss>to hold up a place</gloss>
 </sense>
 </entry>
 <entry>
@@ -3451968,6 +3452600,10 @@ various information fields.
 </k_ele>
 <k_ele>
 <keb>日暮れどき</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>日暮時</keb>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
 <r_ele>
@@ -3488669,7 +3489305,7 @@ various information fields.
 </sense>
 <sense>
 <pos>&n;</pos>
-<xref>白銅</xref>
+<xref>白銅・1</xref>
 <field>&mil;</field>
 <misc>&dated;</misc>
 <gloss>bullet-protective cover or jacket made of cupronickel</gloss>
@@ -3524645,7 +3525281,6 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<xref>パクリ・3</xref>
 <misc>&net-sl;</misc>
 <misc>&abbr;</misc>
 <gloss>stealing a tweet</gloss>
@@ -3619796,6 +3620431,10 @@ various information fields.
 <keb>引くに引かれぬ</keb>
 <ke_inf>&sK;</ke_inf>
 </k_ele>
+<k_ele>
+<keb>引くに引けん</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
 <r_ele>
 <reb>ひくにひけない</reb>
 </r_ele>
@@ -3628810,6 +3629449,23 @@ various information fields.
 </sense>
 </entry>
 <entry>
+<ent_seq>2873024</ent_seq>
+<k_ele>
+<keb>発表日</keb>
+</k_ele>
+<r_ele>
+<reb>はっぴょうび</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>announcement date</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>date of publication</gloss>
+</sense>
+</entry>
+<entry>
 <ent_seq>2873025</ent_seq>
 <k_ele>
 <keb>指紋センサー</keb>
@@ -3628959,6 +3629615,21 @@ various information fields.
 <gloss>game management</gloss>
 <gloss>playmaking</gloss>
 <gloss>controlling the game</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873035</ent_seq>
+<r_ele>
+<reb>ラッキーホール</reb>
+</r_ele>
+<r_ele>
+<reb>ラッキー・ホール</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<lsource ls_wasei="y">lucky hole</lsource>
+<gloss>hole in a wall or partition for sexual activity</gloss>
+<gloss>glory hole</gloss>
 </sense>
 </entry>
 <entry>
@@ -3629475,6 +3630146,38 @@ various information fields.
 </sense>
 </entry>
 <entry>
+<ent_seq>2873074</ent_seq>
+<k_ele>
+<keb>死文化</keb>
+</k_ele>
+<r_ele>
+<reb>しぶんか</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vi;</pos>
+<xref>死文・1</xref>
+<gloss>becoming a dead letter</gloss>
+<gloss>becoming meaningless (of a statute, law, etc.)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873075</ent_seq>
+<k_ele>
+<keb>天文科学館</keb>
+</k_ele>
+<r_ele>
+<reb>てんもんかがくかん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<s_inf>usu. in names</s_inf>
+<gloss>astronomical science museum</gloss>
+<gloss>planetarium</gloss>
+</sense>
+</entry>
+<entry>
 <ent_seq>2873076</ent_seq>
 <k_ele>
 <keb>引っ括めて</keb>
@@ -3629520,12 +3630223,29 @@ various information fields.
 <entry>
 <ent_seq>2873078</ent_seq>
 <r_ele>
+<reb>ニコニコペース</reb>
+</r_ele>
+<r_ele>
 <reb>にこにこペース</reb>
 </r_ele>
 <sense>
 <pos>&n;</pos>
-<gloss>niko niko pace</gloss>
-<gloss g_type="expl">very slow, comfortable jogging speed that allows a runner to easily smile, chat, or sing without feeling out of breath</gloss>
+<xref>ニコニコ</xref>
+<gloss>slow, comfortable jogging speed (that allows a runner to easily smile, etc.)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873079</ent_seq>
+<r_ele>
+<reb>タピオカパール</reb>
+</r_ele>
+<r_ele>
+<reb>タピオカ・パール</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>pearl tapioca</gloss>
+<gloss>tapioca pearls</gloss>
 </sense>
 </entry>
 <entry>
@@ -3629618,6 +3630338,2400 @@ various information fields.
 </sense>
 </entry>
 <entry>
+<ent_seq>2873087</ent_seq>
+<k_ele>
+<keb>速度警告音</keb>
+</k_ele>
+<r_ele>
+<reb>そくどけいこくおん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>キンコン・2</xref>
+<gloss>speed warning sound (esp. ones formerly fitted to Japanese automobiles)</gloss>
+<gloss>speed warning chime</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873088</ent_seq>
+<r_ele>
+<reb>キンコン</reb>
+</r_ele>
+<sense>
+<pos>&adv;</pos>
+<pos>&adv-to;</pos>
+<misc>&on-mim;</misc>
+<gloss>ding-dong</gloss>
+<gloss>chime</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<xref>速度警告音</xref>
+<misc>&col;</misc>
+<misc>&on-mim;</misc>
+<gloss>speed warning chime (esp. ones formerly fitted to Japanese automobiles)</gloss>
+<gloss>speed chime</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873089</ent_seq>
+<r_ele>
+<reb>ヘホ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&abbr;</misc>
+<misc>&sl;</misc>
+<s_inf>abbr. of 変態ホモ</s_inf>
+<gloss>person attracted to (male) cross-dressers</gloss>
+<gloss>person attracted to femboys</gloss>
+<gloss>person attracted to trans women</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873090</ent_seq>
+<k_ele>
+<keb>女装子</keb>
+</k_ele>
+<r_ele>
+<reb>じょそこ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&sl;</misc>
+<gloss>male-to-female crossdresser</gloss>
+<gloss>male crossdresser</gloss>
+<gloss>femboy</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873091</ent_seq>
+<k_ele>
+<keb>波乱含み</keb>
+</k_ele>
+<k_ele>
+<keb>波瀾含み</keb>
+<ke_inf>&rK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>波乱ぶくみ</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>波瀾ぶくみ</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>はらんぶくみ</reb>
+</r_ele>
+<sense>
+<pos>&adj-no;</pos>
+<gloss>fraught with uncertainty</gloss>
+<gloss>likely to be turbulent</gloss>
+<gloss>unpredictable</gloss>
+<gloss>volatile</gloss>
+<gloss>unstable</gloss>
+<gloss>stormy</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873092</ent_seq>
+<k_ele>
+<keb>閉経周辺期</keb>
+</k_ele>
+<r_ele>
+<reb>へいけいしゅうへんき</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>perimenopause</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873093</ent_seq>
+<k_ele>
+<keb>秋田美人</keb>
+</k_ele>
+<r_ele>
+<reb>あきたびじん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>Akita beauty (stereotype of fair-skinned, attractive women from Akita)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873094</ent_seq>
+<r_ele>
+<reb>フーデリ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>フードデリバリー</xref>
+<misc>&abbr;</misc>
+<misc>&col;</misc>
+<gloss>food delivery</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873095</ent_seq>
+<k_ele>
+<keb>頭師</keb>
+</k_ele>
+<r_ele>
+<reb>かしらし</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<s_inf>esp. traditional Japanese dolls</s_inf>
+<gloss>doll head maker</gloss>
+<gloss>doll head artisan</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873096</ent_seq>
+<k_ele>
+<keb>家捜し</keb>
+</k_ele>
+<k_ele>
+<keb>家探し</keb>
+</k_ele>
+<k_ele>
+<keb>家さがし</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>やさがし</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vi;</pos>
+<gloss>searching an entire house</gloss>
+<gloss>searching a house thoroughly</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vi;</pos>
+<misc>&rare;</misc>
+<gloss>house hunting</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873097</ent_seq>
+<k_ele>
+<keb>掌部</keb>
+</k_ele>
+<r_ele>
+<reb>しょうぶ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>palm (of the hand)</gloss>
+<gloss>palmar area</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<xref>中手・2</xref>
+<field>&anat;</field>
+<gloss>metacarpal (bone)</gloss>
+<gloss>metacarpus</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873098</ent_seq>
+<r_ele>
+<reb>パクリ</reb>
+<re_pri>spec1</re_pri>
+</r_ele>
+<r_ele>
+<reb>パクり</reb>
+</r_ele>
+<r_ele>
+<reb>ぱくり</reb>
+<re_inf>&sk;</re_inf>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>パクる・1</xref>
+<misc>&col;</misc>
+<gloss>snatching</gloss>
+<gloss>stealing</gloss>
+<gloss>pilfering</gloss>
+<gloss>shoplifting</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<xref>パクる・2</xref>
+<misc>&col;</misc>
+<gloss>plagiarism</gloss>
+<gloss>rip-off</gloss>
+<gloss>lifting</gloss>
+<gloss>cribbing</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873099</ent_seq>
+<r_ele>
+<reb>カワイイメタル</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&music;</field>
+<gloss>kawaii metal</gloss>
+<gloss>idol metal</gloss>
+<gloss g_type="expl">genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873100</ent_seq>
+<k_ele>
+<keb>正宮</keb>
+</k_ele>
+<r_ele>
+<reb>しょうぐう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>本宮</xref>
+<field>&Shinto;</field>
+<gloss>main shrine</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873101</ent_seq>
+<k_ele>
+<keb>省印</keb>
+</k_ele>
+<r_ele>
+<reb>しょういん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>(government) ministry seal</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873102</ent_seq>
+<k_ele>
+<keb>森づくり</keb>
+</k_ele>
+<k_ele>
+<keb>森作り</keb>
+</k_ele>
+<k_ele>
+<keb>森造り</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>森造</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>森作</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>もりづくり</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>forest planting</gloss>
+<gloss>forestation</gloss>
+<gloss>reforestation</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873103</ent_seq>
+<k_ele>
+<keb>超知能</keb>
+</k_ele>
+<r_ele>
+<reb>ちょうちのう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&comp;</field>
+<gloss>superintelligence</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873104</ent_seq>
+<k_ele>
+<keb>塵雲</keb>
+</k_ele>
+<r_ele>
+<reb>じんうん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&astron;</field>
+<gloss>dust cloud</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873105</ent_seq>
+<k_ele>
+<keb>後付け設定</keb>
+</k_ele>
+<k_ele>
+<keb>後づけ設定</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>あとづけ設定</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>あとづけせってい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>retroactive continuity (literary device)</gloss>
+<gloss>retcon</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873106</ent_seq>
+<k_ele>
+<keb>先を見る</keb>
+</k_ele>
+<k_ele>
+<keb>先が見る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>さきをみる</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&v1;</pos>
+<gloss>to look ahead</gloss>
+<gloss>to foresee</gloss>
+<gloss>to anticipate</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873107</ent_seq>
+<k_ele>
+<keb>天弓</keb>
+</k_ele>
+<r_ele>
+<reb>てんきゅう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>虹・にじ</xref>
+<misc>&poet;</misc>
+<gloss>rainbow</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873108</ent_seq>
+<k_ele>
+<keb>非童貞</keb>
+</k_ele>
+<r_ele>
+<reb>ひどうてい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>non-virgin man</gloss>
+<gloss>non-virgin male</gloss>
+<gloss>man with sexual experience</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873109</ent_seq>
+<r_ele>
+<reb>アンフェ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>アンチフェミニスト</xref>
+<misc>&abbr;</misc>
+<misc>&col;</misc>
+<gloss>anti-feminist</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873110</ent_seq>
+<k_ele>
+<keb>底を割る</keb>
+</k_ele>
+<k_ele>
+<keb>そこを割る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>そこをわる</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&v5r;</pos>
+<gloss>to be frank</gloss>
+<gloss>to open one's heart</gloss>
+<gloss>to do truthfully</gloss>
+</sense>
+<sense>
+<pos>&exp;</pos>
+<pos>&v5r;</pos>
+<xref>底・そこ・4</xref>
+<field>&finc;</field>
+<gloss>to break the bottom (e.g. of share price)</gloss>
+<gloss>to go below the bottom line</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873111</ent_seq>
+<k_ele>
+<keb>精霊迎え</keb>
+</k_ele>
+<k_ele>
+<keb>精霊むかえ</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>しょうりょうむかえ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>お盆・1</xref>
+<xref>精霊送り</xref>
+<gloss>welcoming the spirits of one's ancestors on the first day of the Bon Festival (by lighting small fires)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873112</ent_seq>
+<k_ele>
+<keb>三七草</keb>
+</k_ele>
+<k_ele>
+<keb>山漆草</keb>
+</k_ele>
+<r_ele>
+<reb>さんしちそう</reb>
+</r_ele>
+<r_ele>
+<reb>サンシチソウ</reb>
+<re_nokanji/>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>Japanese Gynura (Gynura Japonica)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873113</ent_seq>
+<k_ele>
+<keb>燦点</keb>
+</k_ele>
+<r_ele>
+<reb>さんてん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&ornith;</field>
+<gloss>speculum</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873115</ent_seq>
+<k_ele>
+<keb>小行李</keb>
+</k_ele>
+<r_ele>
+<reb>しょうこうり</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&mil;</field>
+<misc>&hist;</misc>
+<gloss>light supply unit (IJA)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873116</ent_seq>
+<r_ele>
+<reb>パワーチャージ</reb>
+</r_ele>
+<r_ele>
+<reb>パワー・チャージ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<pos>&vt;</pos>
+<lsource ls_wasei="y">power charge</lsource>
+<gloss g_type="fig">recharging one's batteries (e.g. with a trip)</gloss>
+<gloss>replenishing (one's energy)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873117</ent_seq>
+<k_ele>
+<keb>プロピオル酸</keb>
+</k_ele>
+<r_ele>
+<reb>プロピオルさん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&chem;</field>
+<gloss>propiolic acid</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873118</ent_seq>
+<r_ele>
+<reb>シャントリ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<s_inf>from シャンプー and トリートメント</s_inf>
+<gloss>shampoo and treatment set (e.g. in a hotel)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873119</ent_seq>
+<k_ele>
+<keb>駐輪機</keb>
+</k_ele>
+<r_ele>
+<reb>ちゅうりんき</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>lockable bicycle rack</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873120</ent_seq>
+<k_ele>
+<keb>笛声</keb>
+</k_ele>
+<r_ele>
+<reb>てきせい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>sound of a flute</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873121</ent_seq>
+<r_ele>
+<reb>サンタ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<s_inf>usu. in place names</s_inf>
+<lsource xml:lang="spa"/>
+<gloss>saint</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873122</ent_seq>
+<k_ele>
+<keb>星座早見盤</keb>
+</k_ele>
+<r_ele>
+<reb>せいざはやみばん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&astron;</field>
+<gloss>planisphere</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873123</ent_seq>
+<k_ele>
+<keb>挟み紙</keb>
+</k_ele>
+<k_ele>
+<keb>挟紙</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>はさみがみ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>しおり・1</xref>
+<misc>&rare;</misc>
+<gloss>paper bookmark</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<misc>&rare;</misc>
+<gloss>protective paper between items</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873124</ent_seq>
+<r_ele>
+<reb>ループエンジニアリング</reb>
+</r_ele>
+<r_ele>
+<reb>ループ・エンジニアリング</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>プロンプトエンジニアリング</xref>
+<field>&comp;</field>
+<gloss>loop engineering (of AI agents)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873125</ent_seq>
+<k_ele>
+<keb>肺ペスト</keb>
+</k_ele>
+<r_ele>
+<reb>はいペスト</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>pneumonic plague</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873126</ent_seq>
+<r_ele>
+<reb>ヌードストッキング</reb>
+</r_ele>
+<r_ele>
+<reb>ヌード・ストッキング</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>skin-colored stockings</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873127</ent_seq>
+<k_ele>
+<keb>派生物</keb>
+</k_ele>
+<r_ele>
+<reb>はせいぶつ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>derivative</gloss>
+<gloss>outgrowth</gloss>
+<gloss>offshoot</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873128</ent_seq>
+<k_ele>
+<keb>火浣布</keb>
+</k_ele>
+<r_ele>
+<reb>かかんぷ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>fireproof cloth</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873129</ent_seq>
+<k_ele>
+<keb>蝦夷梟</keb>
+</k_ele>
+<k_ele>
+<keb>えぞ梟</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>蝦夷ふくろう</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>エゾフクロウ</reb>
+<re_nokanji/>
+</r_ele>
+<r_ele>
+<reb>えぞふくろう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&uk;</misc>
+<gloss>Yezo Ural owl (Strix uralensis japonica)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873130</ent_seq>
+<k_ele>
+<keb>華北山椒</keb>
+</k_ele>
+<r_ele>
+<reb>カホクザンショウ</reb>
+<re_nokanji/>
+</r_ele>
+<r_ele>
+<reb>かほくざんしょう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&uk;</misc>
+<gloss>Sichuan pepper (Zanthoxylum bungeanum)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873131</ent_seq>
+<k_ele>
+<keb>見守りカメラ</keb>
+</k_ele>
+<r_ele>
+<reb>みまもりカメラ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>monitoring camera (e.g., nanny cam, pet camera)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873132</ent_seq>
+<k_ele>
+<keb>貝虫</keb>
+</k_ele>
+<r_ele>
+<reb>かいむし</reb>
+</r_ele>
+<r_ele>
+<reb>カイムシ</reb>
+<re_nokanji/>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>mussel shrimp</gloss>
+<gloss>ostracod</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873133</ent_seq>
+<r_ele>
+<reb>ホモビデオ</reb>
+</r_ele>
+<r_ele>
+<reb>ホモ・ビデオ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&sens;</misc>
+<lsource ls_wasei="y">homo video</lsource>
+<gloss>gay porn video</gloss>
+<gloss>gay pornographic video</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873134</ent_seq>
+<r_ele>
+<reb>ホモビ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>ホモビデオ</xref>
+<misc>&sens;</misc>
+<misc>&abbr;</misc>
+<misc>&col;</misc>
+<gloss>gay porn video</gloss>
+<gloss>gay pornographic video</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873135</ent_seq>
+<k_ele>
+<keb>後付け設定変更</keb>
+</k_ele>
+<r_ele>
+<reb>あとづけせっていへんこう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>後付け設定</xref>
+<gloss>retroactive continuity (literary device)</gloss>
+<gloss>retcon</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873136</ent_seq>
+<k_ele>
+<keb>相反性神経支配</keb>
+</k_ele>
+<r_ele>
+<reb>そうはんせいしんけいしはい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&physiol;</field>
+<gloss>reciprocal innervation</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873137</ent_seq>
+<k_ele>
+<keb>重力学</keb>
+</k_ele>
+<r_ele>
+<reb>じゅうりょくがく</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>barodynamics</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873138</ent_seq>
+<r_ele>
+<reb>メガイラ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&grmyth;</field>
+<gloss>Megaera</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873139</ent_seq>
+<k_ele>
+<keb>チン騎士</keb>
+</k_ele>
+<r_ele>
+<reb>チンきし</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&net-sl;</misc>
+<misc>&derog;</misc>
+<gloss>man who defends women online in hopes of sexual rewards</gloss>
+<gloss>white knight</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873140</ent_seq>
+<r_ele>
+<reb>アスカリ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&hist;</misc>
+<gloss>askari (local soldiers serving in colonial African armies)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873141</ent_seq>
+<r_ele>
+<reb>レンドリース</reb>
+</r_ele>
+<r_ele>
+<reb>レンド・リース</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&hist;</misc>
+<gloss>Lend-Lease (US aid program for the Allies during WWII)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873142</ent_seq>
+<k_ele>
+<keb>泛藍連盟</keb>
+</k_ele>
+<r_ele>
+<reb>はんらんれんめい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>Pan-Blue Coalition (Taiwan political bloc)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873143</ent_seq>
+<k_ele>
+<keb>泛緑連盟</keb>
+</k_ele>
+<r_ele>
+<reb>はんりょくれんめい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>Pan-Green Coalition (Taiwan political bloc)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873144</ent_seq>
+<k_ele>
+<keb>笛声音</keb>
+</k_ele>
+<r_ele>
+<reb>てきせいおん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>whistling rale</gloss>
+<gloss>piping rale</gloss>
+<gloss>whistling chest sound</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873145</ent_seq>
+<k_ele>
+<keb>満族</keb>
+</k_ele>
+<r_ele>
+<reb>まんぞく</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>満州族・まんしゅうぞく</xref>
+<gloss>Manchu (people)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873146</ent_seq>
+<k_ele>
+<keb>棚出し</keb>
+</k_ele>
+<k_ele>
+<keb>棚だし</keb>
+</k_ele>
+<r_ele>
+<reb>たなだし</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>品出し・1</xref>
+<gloss>shelf-stocking</gloss>
+<gloss>putting merchandise out on shelves</gloss>
+<gloss>restocking shelves</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873147</ent_seq>
+<k_ele>
+<keb>号線</keb>
+</k_ele>
+<r_ele>
+<reb>ごうせん</reb>
+</r_ele>
+<sense>
+<pos>&n-suf;</pos>
+<xref>号・1</xref>
+<xref>線・4</xref>
+<gloss>(numbered) route</gloss>
+<gloss>line (e.g. train line)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873148</ent_seq>
+<k_ele>
+<keb>副査</keb>
+</k_ele>
+<r_ele>
+<reb>ふくさ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>主査</xref>
+<gloss>assistant examiner</gloss>
+<gloss>second reader</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873149</ent_seq>
+<r_ele>
+<reb>デキサメタゾン</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&chem;</field>
+<field>&pharm;</field>
+<gloss>dexamethasone</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873150</ent_seq>
+<r_ele>
+<reb>マスタースケジュール</reb>
+</r_ele>
+<r_ele>
+<reb>マスター・スケジュール</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>master schedule</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873151</ent_seq>
+<r_ele>
+<reb>マスケ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>マスタースケジュール</xref>
+<misc>&abbr;</misc>
+<gloss>master schedule</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873152</ent_seq>
+<k_ele>
+<keb>主位</keb>
+</k_ele>
+<r_ele>
+<reb>しゅい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>central position (e.g. in an organization)</gloss>
+<gloss>position of leadership</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>important location</gloss>
+<gloss>central spot</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873153</ent_seq>
+<r_ele>
+<reb>ホビーショップ</reb>
+</r_ele>
+<r_ele>
+<reb>ホビー・ショップ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>hobby shop</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873154</ent_seq>
+<r_ele>
+<reb>ウジョウジョ</reb>
+</r_ele>
+<r_ele>
+<reb>うじょうじょ</reb>
+</r_ele>
+<sense>
+<pos>&adv;</pos>
+<pos>&adv-to;</pos>
+<pos>&vs;</pos>
+<xref>うじゃうじゃ・1</xref>
+<misc>&on-mim;</misc>
+<misc>&rare;</misc>
+<gloss>in swarms</gloss>
+<gloss>in clusters</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873155</ent_seq>
+<r_ele>
+<reb>エンゲージメントベイト</reb>
+</r_ele>
+<r_ele>
+<reb>エンゲージメント・ベイト</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&internet;</field>
+<gloss>engagement bait (on social media)</gloss>
+<gloss>content designed to get users to interact with it</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873156</ent_seq>
+<k_ele>
+<keb>エンゲージメント稼ぎ</keb>
+</k_ele>
+<r_ele>
+<reb>エンゲージメントかせぎ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>エンゲージメントベイト</xref>
+<field>&internet;</field>
+<gloss>engagement bait (on social media)</gloss>
+<gloss>content designed to get users to interact with it</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873158</ent_seq>
+<r_ele>
+<reb>カリユガ</reb>
+</r_ele>
+<r_ele>
+<reb>カリ・ユガ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&relig;</misc>
+<lsource xml:lang="san">kali-yuga</lsource>
+<gloss>Kali Yuga (fourth and final age in Hindu cosmology)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873159</ent_seq>
+<r_ele>
+<reb>キチン</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&chem;</field>
+<gloss>chitin</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873160</ent_seq>
+<k_ele>
+<keb>規定語</keb>
+</k_ele>
+<r_ele>
+<reb>きていご</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>連体修飾語</xref>
+<field>&gramm;</field>
+<gloss>modifier of a non-inflectable word</gloss>
+<gloss>adnominal modifier</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873161</ent_seq>
+<k_ele>
+<keb>線維軟骨</keb>
+</k_ele>
+<k_ele>
+<keb>繊維軟骨</keb>
+</k_ele>
+<r_ele>
+<reb>せんいなんこつ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&anat;</field>
+<gloss>fibrocartilage</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873163</ent_seq>
+<k_ele>
+<keb>ネット中毒</keb>
+</k_ele>
+<r_ele>
+<reb>ネットちゅうどく</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>中毒・2</xref>
+<gloss>Internet addiction</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873164</ent_seq>
+<k_ele>
+<keb>卓布</keb>
+</k_ele>
+<r_ele>
+<reb>たくふ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>テーブルクロス</xref>
+<misc>&rare;</misc>
+<gloss>tablecloth</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873165</ent_seq>
+<r_ele>
+<reb>しぇからしか</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<xref>煩い・2</xref>
+<s_inf>mainly Hakata and Kumamoto dialect</s_inf>
+<dial>&kyu;</dial>
+<gloss>noisy</gloss>
+<gloss>annoying</gloss>
+<gloss>troublesome</gloss>
+<gloss>persistent</gloss>
+<gloss>nagging</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873166</ent_seq>
+<k_ele>
+<keb>忘備録</keb>
+</k_ele>
+<r_ele>
+<reb>ぼうびろく</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>備忘録</xref>
+<gloss>notebook</gloss>
+<gloss>memorandum</gloss>
+<gloss>commonplace book</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873167</ent_seq>
+<k_ele>
+<keb>急からしい</keb>
+<ke_inf>&rK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>せからしい</reb>
+</r_ele>
+<sense>
+<pos>&adj-i;</pos>
+<xref>うるさい・1</xref>
+<misc>&uk;</misc>
+<dial>&kyu;</dial>
+<dial>&osb;</dial>
+<gloss>noisy</gloss>
+<gloss>annoying</gloss>
+<gloss>troublesome</gloss>
+<gloss>persistent</gloss>
+<gloss>nagging</gloss>
+</sense>
+<sense>
+<pos>&adj-i;</pos>
+<misc>&uk;</misc>
+<dial>&kyu;</dial>
+<dial>&ksb;</dial>
+<gloss>restless</gloss>
+<gloss>fidgety</gloss>
+<gloss>hurried</gloss>
+<gloss>busy</gloss>
+<gloss>fussy</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873168</ent_seq>
+<k_ele>
+<keb>ＭＩＡ</keb>
+</k_ele>
+<r_ele>
+<reb>エム・アイ・エー</reb>
+</r_ele>
+<r_ele>
+<reb>エムアイエー</reb>
+<re_inf>&sk;</re_inf>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>missing in action</gloss>
+<gloss>MIA</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873169</ent_seq>
+<k_ele>
+<keb>樽生ビール</keb>
+</k_ele>
+<r_ele>
+<reb>たるなまビール</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>draft beer</gloss>
+<gloss>draught beer</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873170</ent_seq>
+<k_ele>
+<keb>世界の警察官</keb>
+</k_ele>
+<r_ele>
+<reb>せかいのけいさつかん</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&n;</pos>
+<misc>&id;</misc>
+<gloss>global policeman (e.g. the USA)</gloss>
+<gloss>world police</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873171</ent_seq>
+<k_ele>
+<keb>節がある</keb>
+</k_ele>
+<k_ele>
+<keb>節が有る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>フシが有る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>ふしが有る</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>ふしがある</reb>
+</r_ele>
+<r_ele>
+<reb>フシがある</reb>
+<re_nokanji/>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&v5r-i;</pos>
+<xref>節・ふし・4</xref>
+<gloss>to appear to</gloss>
+<gloss>to seem to</gloss>
+<gloss>to show signs of</gloss>
+<gloss>to have a tendency to</gloss>
+<gloss>to be inclined to</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873172</ent_seq>
+<r_ele>
+<reb>メガネウラ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>Meganeura (extinct dragonfly genus)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873174</ent_seq>
+<k_ele>
+<keb>肺癆</keb>
+</k_ele>
+<r_ele>
+<reb>はいろう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>pulmonary phthisis</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873175</ent_seq>
+<r_ele>
+<reb>カーサービス</reb>
+</r_ele>
+<r_ele>
+<reb>カー・サービス</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>car service</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873176</ent_seq>
+<k_ele>
+<keb>足治療</keb>
+</k_ele>
+<r_ele>
+<reb>あしちりょう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>podiatry</gloss>
+<gloss>chiropody</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873177</ent_seq>
+<k_ele>
+<keb>刀削麺</keb>
+</k_ele>
+<r_ele>
+<reb>とうしょうめん</reb>
+</r_ele>
+<r_ele>
+<reb>とうさくめん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&food;</field>
+<gloss>knife-cut noodles (specialty of Shanxi Province, China)</gloss>
+<gloss>knife-sliced noodles</gloss>
+<gloss>knife-shaved noodles</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873178</ent_seq>
+<k_ele>
+<keb>造園家</keb>
+</k_ele>
+<r_ele>
+<reb>ぞうえんか</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>landscape architect</gloss>
+<gloss>landscape gardener</gloss>
+<gloss>garden designer</gloss>
+<gloss>horticulturist</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873179</ent_seq>
+<k_ele>
+<keb>植木師</keb>
+</k_ele>
+<r_ele>
+<reb>うえきし</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>gardener</gloss>
+<gloss>nurseryman</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873180</ent_seq>
+<k_ele>
+<keb>網膜光凝固術</keb>
+</k_ele>
+<r_ele>
+<reb>もうまくひかりぎょうこじゅつ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>網膜光凝固</xref>
+<field>&surg;</field>
+<gloss>retinal (laser) photocoagulation</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873181</ent_seq>
+<k_ele>
+<keb>光凝固術</keb>
+</k_ele>
+<r_ele>
+<reb>ひかりぎょうこじゅつ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&surg;</field>
+<gloss>photocoagulation</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873182</ent_seq>
+<k_ele>
+<keb>網膜光凝固</keb>
+</k_ele>
+<r_ele>
+<reb>もうまくひかりぎょうこ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&surg;</field>
+<gloss>retinal (laser) photocoagulation</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873183</ent_seq>
+<k_ele>
+<keb>刀削麺</keb>
+</k_ele>
+<r_ele>
+<reb>ダオシャオミェン</reb>
+</r_ele>
+<r_ele>
+<reb>ダオシャオミエン</reb>
+</r_ele>
+<r_ele>
+<reb>ダオシャオメン</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>刀削麺・とうしょうめん</xref>
+<field>&food;</field>
+<lsource xml:lang="chi">dāoxiāomiàn</lsource>
+<gloss>knife-cut noodles (specialty of Shanxi Province, China)</gloss>
+<gloss>knife-sliced noodles</gloss>
+<gloss>knife-shaved noodles</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873184</ent_seq>
+<k_ele>
+<keb>陣構え</keb>
+</k_ele>
+<r_ele>
+<reb>じんがまえ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&mil;</field>
+<gloss>battle formation</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873185</ent_seq>
+<k_ele>
+<keb>可観測性</keb>
+</k_ele>
+<r_ele>
+<reb>かかんそくせい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>observability</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873186</ent_seq>
+<r_ele>
+<reb>ポドロジー</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>podology</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873187</ent_seq>
+<r_ele>
+<reb>フットケア</reb>
+</r_ele>
+<r_ele>
+<reb>フット・ケア</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>foot care</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873188</ent_seq>
+<k_ele>
+<keb>族</keb>
+</k_ele>
+<r_ele>
+<reb>やから</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&poet;</misc>
+<gloss>clan</gloss>
+<gloss>family</gloss>
+<gloss>one's kin</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873189</ent_seq>
+<k_ele>
+<keb>嫌気性消化</keb>
+</k_ele>
+<r_ele>
+<reb>けんきせいしょうか</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&biochem;</field>
+<gloss>anaerobic digestion</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873190</ent_seq>
+<k_ele>
+<keb>糖尿病性昏睡</keb>
+</k_ele>
+<r_ele>
+<reb>とうにょうびょうせいこんすい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>diabetic coma</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873191</ent_seq>
+<k_ele>
+<keb>維摩</keb>
+</k_ele>
+<r_ele>
+<reb>ゆいま</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&Buddh;</field>
+<gloss>Vimalakirti</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873192</ent_seq>
+<k_ele>
+<keb>中華台北</keb>
+</k_ele>
+<r_ele>
+<reb>ちゅうかタイペイ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>チャイニーズタイペイ</xref>
+<gloss>Chinese Taipei (designation for Taiwan in international sports and certain international organizations)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873193</ent_seq>
+<k_ele>
+<keb>驚き屋</keb>
+</k_ele>
+<r_ele>
+<reb>おどろきや</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&internet;</field>
+<misc>&net-sl;</misc>
+<gloss>person excessively and uncritically posting about new technology (esp. AI)</gloss>
+<gloss>hype merchant</gloss>
+<gloss>sensationalist</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873194</ent_seq>
+<k_ele>
+<keb>視野検査</keb>
+</k_ele>
+<r_ele>
+<reb>しやけんさ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>visual field test</gloss>
+<gloss>perimetry</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873196</ent_seq>
+<k_ele>
+<keb>賑わしい</keb>
+</k_ele>
+<r_ele>
+<reb>にぎわしい</reb>
+</r_ele>
+<sense>
+<pos>&adj-i;</pos>
+<xref>賑やか・2</xref>
+<gloss>lively</gloss>
+<gloss>prosperous</gloss>
+<gloss>thriving</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873197</ent_seq>
+<k_ele>
+<keb>小児恐怖症</keb>
+</k_ele>
+<r_ele>
+<reb>しょうにきょうふしょう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>pediophobia</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873198</ent_seq>
+<k_ele>
+<keb>人形恐怖症</keb>
+</k_ele>
+<r_ele>
+<reb>にんぎょうきょうふしょう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>pediophobia</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873199</ent_seq>
+<k_ele>
+<keb>備中鍬</keb>
+</k_ele>
+<r_ele>
+<reb>びっちゅうぐわ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>fork hoe</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873201</ent_seq>
+<k_ele>
+<keb>接触皮膚炎</keb>
+</k_ele>
+<r_ele>
+<reb>せっしょくひふえん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>contact dermatitis</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873202</ent_seq>
+<k_ele>
+<keb>脳萎縮</keb>
+</k_ele>
+<r_ele>
+<reb>のういしゅく</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>cerebral atrophy</gloss>
+<gloss>brain atrophy</gloss>
+<gloss>encephalatrophy</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873203</ent_seq>
+<r_ele>
+<reb>ファルシオン</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>falchion</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873204</ent_seq>
+<r_ele>
+<reb>イグナイター</reb>
+</r_ele>
+<r_ele>
+<reb>イグナイタ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>igniter</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873205</ent_seq>
+<r_ele>
+<reb>それだのに</reb>
+</r_ele>
+<sense>
+<pos>&conj;</pos>
+<xref>それなのに</xref>
+<misc>&col;</misc>
+<misc>&dated;</misc>
+<gloss>and yet</gloss>
+<gloss>despite this</gloss>
+<gloss>but even so</gloss>
+<gloss>but even then</gloss>
+<gloss>however</gloss>
+<gloss>nevertheless</gloss>
+<gloss>for all that</gloss>
+<gloss>notwithstanding that</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873206</ent_seq>
+<r_ele>
+<reb>ネポベイビー</reb>
+</r_ele>
+<r_ele>
+<reb>ネポ・ベイビー</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>nepo baby</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873209</ent_seq>
+<k_ele>
+<keb>ぶっ扱く</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>ぶっこく</reb>
+</r_ele>
+<r_ele>
+<reb>ブッこく</reb>
+<re_inf>&sk;</re_inf>
+</r_ele>
+<sense>
+<pos>&v5k;</pos>
+<pos>&vt;</pos>
+<misc>&sl;</misc>
+<gloss>to act (cocky, complacent, etc.)</gloss>
+<gloss>to do (brazenly, foolishly, etc.)</gloss>
+<gloss>to suffer (e.g. a huge loss)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873210</ent_seq>
+<k_ele>
+<keb>片荷</keb>
+</k_ele>
+<r_ele>
+<reb>かたに</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>unbalanced load</gloss>
+<gloss>lopsided load</gloss>
+<gloss>load shifted to one side</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>one-way cargo (carried only on the outbound or return leg)</gloss>
+<gloss>one-way load</gloss>
+<gloss>one-way freight</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>one of a pair of loads (on a shoulder pole)</gloss>
+<gloss>half a load</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<s_inf>oft. as 片荷が下りる or 片荷を下ろす</s_inf>
+<gloss>half of a burden</gloss>
+<gloss>part of a responsibility</gloss>
+<gloss>part of one's worries</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873213</ent_seq>
+<r_ele>
+<reb>セクシーアイドル</reb>
+</r_ele>
+<r_ele>
+<reb>セクシー・アイドル</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&euph;</misc>
+<lsource xml:lang="eng">eng/w:sexy idol</lsource>
+<gloss>adult actress</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873215</ent_seq>
+<k_ele>
+<keb>稟申</keb>
+</k_ele>
+<r_ele>
+<reb>りんしん</reb>
+</r_ele>
+<r_ele>
+<reb>ひんしん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<pos>&vs;</pos>
+<xref>上申</xref>
+<gloss>reporting to a superior</gloss>
+<gloss>sharing information with a superior</gloss>
+<gloss>expressing an opinion to a superior</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873216</ent_seq>
+<k_ele>
+<keb>政治将校</keb>
+</k_ele>
+<r_ele>
+<reb>せいじしょうこう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>political officer (e.g. in an army)</gloss>
+<gloss>political commissar</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873217</ent_seq>
+<k_ele>
+<keb>中露印</keb>
+</k_ele>
+<k_ele>
+<keb>中ロ印</keb>
+</k_ele>
+<r_ele>
+<reb>ちゅうろいん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>China, Russia and India</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873218</ent_seq>
+<r_ele>
+<reb>メガテリウム</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>megatherium (esp. M. americanum)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873219</ent_seq>
+<k_ele>
+<keb>視線恐怖症</keb>
+</k_ele>
+<r_ele>
+<reb>しせんきょうふしょう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&med;</field>
+<gloss>scopophobia</gloss>
+<gloss>scoptophobia</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873221</ent_seq>
+<k_ele>
+<keb>観戦武官</keb>
+</k_ele>
+<r_ele>
+<reb>かんせんぶかん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&mil;</field>
+<gloss>military observer (sent by a third country)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873222</ent_seq>
+<k_ele>
+<keb>仲介人</keb>
+</k_ele>
+<r_ele>
+<reb>ちゅうかいにん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>intermediary</gloss>
+<gloss>mediator</gloss>
+<gloss>go-between</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873223</ent_seq>
+<k_ele>
+<keb>国家理性</keb>
+</k_ele>
+<r_ele>
+<reb>こっかりせい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&politics;</field>
+<gloss>reason of state</gloss>
+<gloss>raison d'état</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873224</ent_seq>
+<k_ele>
+<keb>判教</keb>
+</k_ele>
+<r_ele>
+<reb>はんぎょう</reb>
+</r_ele>
+<r_ele>
+<reb>はんきょう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>教相判釈</xref>
+<field>&Buddh;</field>
+<misc>&rare;</misc>
+<gloss>classification of the sutras and their teachings</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873225</ent_seq>
+<k_ele>
+<keb>円教</keb>
+</k_ele>
+<k_ele>
+<keb>圓教</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>えんぎょう</reb>
+</r_ele>
+<r_ele>
+<reb>えんきょう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&Buddh;</field>
+<gloss>perfect teaching</gloss>
+<gloss>complete teaching</gloss>
+<gloss>round teaching</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873227</ent_seq>
+<k_ele>
+<keb>静水</keb>
+</k_ele>
+<r_ele>
+<reb>せいすい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>still water</gloss>
+<gloss>stagnant water</gloss>
+<gloss>water at rest</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873230</ent_seq>
+<k_ele>
+<keb>取りこぼし</keb>
+</k_ele>
+<k_ele>
+<keb>取り零し</keb>
+<ke_inf>&rK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>取り溢し</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<k_ele>
+<keb>取り翻し</keb>
+<ke_inf>&sK;</ke_inf>
+</k_ele>
+<r_ele>
+<reb>とりこぼし</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>unexpected defeat through carelessness</gloss>
+<gloss>upset loss</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>oversight</gloss>
+<gloss>omission</gloss>
+<gloss>something overlooked</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873231</ent_seq>
+<k_ele>
+<keb>縦深</keb>
+</k_ele>
+<r_ele>
+<reb>じゅうしん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&mil;</field>
+<gloss>depth (of a military formation)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873232</ent_seq>
+<k_ele>
+<keb>人目をはばかる</keb>
+</k_ele>
+<k_ele>
+<keb>人目を憚る</keb>
+</k_ele>
+<r_ele>
+<reb>ひとめをはばかる</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&v5r;</pos>
+<s_inf>usu. in the negative</s_inf>
+<gloss>to avoid being seen by others</gloss>
+<gloss>to take care not to attract public attention</gloss>
+<gloss>to act discreetly to avoid being noticed</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873233</ent_seq>
+<k_ele>
+<keb>従兵</keb>
+</k_ele>
+<r_ele>
+<reb>じゅうへい</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>従卒</xref>
+<field>&mil;</field>
+<gloss>officer's orderly</gloss>
+<gloss>batman</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873235</ent_seq>
+<r_ele>
+<reb>ヘッドショット</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&vidg;</field>
+<gloss>headshot</gloss>
+<gloss>punch aimed at the head</gloss>
+<gloss>blow to the top of the head</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873236</ent_seq>
+<r_ele>
+<reb>モノコック</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&engr;</field>
+<gloss>monocoque</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873237</ent_seq>
+<k_ele>
+<keb>毛細気管</keb>
+</k_ele>
+<r_ele>
+<reb>もうさいきかん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<field>&zool;</field>
+<gloss>tracheole</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873238</ent_seq>
+<k_ele>
+<keb>世に出す</keb>
+</k_ele>
+<r_ele>
+<reb>よにだす</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&v5s;</pos>
+<gloss>to make known to the world</gloss>
+<gloss>to put out</gloss>
+<gloss>to produce</gloss>
+<gloss>to publish</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873240</ent_seq>
+<k_ele>
+<keb>廠</keb>
+</k_ele>
+<r_ele>
+<reb>しょう</reb>
+</r_ele>
+<sense>
+<pos>&n-suf;</pos>
+<gloss>factory</gloss>
+<gloss>manufacturing plant</gloss>
+</sense>
+<sense>
+<pos>&n-suf;</pos>
+<gloss>supply depot</gloss>
+<gloss>storage depot</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873243</ent_seq>
+<k_ele>
+<keb>ドカ貧</keb>
+</k_ele>
+<k_ele>
+<keb>どか貧</keb>
+</k_ele>
+<r_ele>
+<reb>どかひん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>じり貧</xref>
+<gloss>sudden descent into poverty</gloss>
+<gloss>sudden impoverishment</gloss>
+<gloss>losing one's fortune overnight</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873244</ent_seq>
+<k_ele>
+<keb>種銭</keb>
+</k_ele>
+<r_ele>
+<reb>たねせん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&col;</misc>
+<gloss>seed money</gloss>
+<gloss>starting capital</gloss>
+<gloss>initial funds</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873245</ent_seq>
+<k_ele>
+<keb>石もて追われる</keb>
+</k_ele>
+<r_ele>
+<reb>いしもておわれる</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&v1;</pos>
+<misc>&id;</misc>
+<gloss>to be hounded out</gloss>
+<gloss>to be driven out in disgrace</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873246</ent_seq>
+<k_ele>
+<keb>何をおいても</keb>
+</k_ele>
+<k_ele>
+<keb>何を措いても</keb>
+</k_ele>
+<r_ele>
+<reb>なにをおいても</reb>
+</r_ele>
+<sense>
+<pos>&exp;</pos>
+<pos>&adv;</pos>
+<gloss>above all things</gloss>
+<gloss>before anything else</gloss>
+<gloss>first of all</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873247</ent_seq>
+<k_ele>
+<keb>檣灯</keb>
+</k_ele>
+<r_ele>
+<reb>しょうとう</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<gloss>masthead light</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873249</ent_seq>
+<r_ele>
+<reb>バザール</reb>
+<re_pri>gai1</re_pri>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<lsource xml:lang="per">bāzār</lsource>
+<gloss>bazaar</gloss>
+<gloss>bazar</gloss>
+</sense>
+<sense>
+<pos>&n;</pos>
+<gloss>special sale (e.g. at a department store)</gloss>
+<gloss>sale</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873250</ent_seq>
+<k_ele>
+<keb>軽希土類元素</keb>
+</k_ele>
+<r_ele>
+<reb>けいきどるいげんそ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>重希土類元素</xref>
+<field>&chem;</field>
+<gloss>light rare-earth element</gloss>
+<gloss>LREE</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873251</ent_seq>
+<k_ele>
+<keb>重希土類元素</keb>
+</k_ele>
+<r_ele>
+<reb>じゅうきどるいげんそ</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>軽希土類元素</xref>
+<field>&chem;</field>
+<gloss>heavy rare-earth element</gloss>
+<gloss>HREE</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873252</ent_seq>
+<k_ele>
+<keb>旧居留地</keb>
+</k_ele>
+<r_ele>
+<reb>きゅうきょりゅうち</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<xref>居留地・1</xref>
+<gloss>former foreign settlement</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>2873253</ent_seq>
+<r_ele>
+<reb>きときと</reb>
+</r_ele>
+<sense>
+<pos>&adj-na;</pos>
+<pos>&adj-no;</pos>
+<gloss>fresh (esp. of fish)</gloss>
+</sense>
+<sense>
+<pos>&adj-no;</pos>
+<gloss>lively</gloss>
+<gloss>full of energy</gloss>
+</sense>
+</entry>
+<entry>
 <ent_seq>9999999</ent_seq>
 <k_ele>
 <keb>ＪＭｄｉｃｔ</keb>
@@ -3629627,7 +3632741,7 @@ various information fields.
 </r_ele>
 <sense>
 <pos>&unc;</pos>
-<gloss>Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-01</gloss>
+<gloss>Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-01</gloss>
 </sense>
 </entry>
 <entry>
@@ -3636759,6 +3639873,20 @@ various information fields.
 </sense>
 </entry>
 <entry>
+<ent_seq>5042700</ent_seq>
+<k_ele>
+<keb>ジンギス汗</keb>
+</k_ele>
+<r_ele>
+<reb>ジンギスかん</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&person;</misc>
+<gloss>Genghis Khan (1162-1227)</gloss>
+</sense>
+</entry>
+<entry>
 <ent_seq>5042810</ent_seq>
 <r_ele>
 <reb>スーパーファミコン</reb>
@@ -3638237,6 +3641365,47 @@ various information fields.
 <pos>&n;</pos>
 <misc>&char;</misc>
 <gloss>Swablu (Pokémon)</gloss>
+</sense>
+</entry>
+<entry>
+<ent_seq>5051185</ent_seq>
+<k_ele>
+<keb>成吉思汗</keb>
+</k_ele>
+<r_ele>
+<reb>ジンギスカン</reb>
+</r_ele>
+<r_ele>
+<reb>ジンギス・カン</reb>
+</r_ele>
+<r_ele>
+<reb>チンギスハーン</reb>
+</r_ele>
+<r_ele>
+<reb>チンギス・ハーン</reb>
+</r_ele>
+<r_ele>
+<reb>チンギスハン</reb>
+</r_ele>
+<r_ele>
+<reb>チンギス・ハン</reb>
+</r_ele>
+<r_ele>
+<reb>チンギスカン</reb>
+</r_ele>
+<r_ele>
+<reb>チンギス・カン</reb>
+</r_ele>
+<r_ele>
+<reb>ジンギスハン</reb>
+</r_ele>
+<r_ele>
+<reb>ジンギス・ハン</reb>
+</r_ele>
+<sense>
+<pos>&n;</pos>
+<misc>&person;</misc>
+<gloss>Genghis Khan (c. 1162-1227)</gloss>
 </sense>
 </entry>
 <entry>
