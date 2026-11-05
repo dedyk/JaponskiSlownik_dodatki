@@ -11,6 +11,19 @@ mv kanjidic2.xml.temp2 kanjidic2.xml
 
 #
 
+wget http://ftp.edrdg.org/pub/Nihongo/kanjidic2_NG.xml.gz
+gzip -f -d kanjidic2_NG.xml.gz
+cat kanjidic2_NG.xml | grep -v "<\!\-\- Entry for Kanji:" > kanjidic2_NG.xml-temp
+mv kanjidic2_NG.xml-temp kanjidic2_NG.xml
+
+cat kanjidic2_NG.xml | egrep -v "^</kanjidic2>$" > kanjidic2_NG.xml.temp
+cat kanjidic2_NG.xml.temp kanjidic2_additional.xml > kanjidic2_NG.xml.temp2
+rm kanjidic2_NG.xml.temp
+echo "</kanjidic2>" >> kanjidic2_NG.xml.temp2
+mv kanjidic2_NG.xml.temp2 kanjidic2_NG.xml
+
+#
+
 wget http://ftp.edrdg.org/pub/Nihongo/radkfile.gz
 gzip -f -d radkfile.gz
 iconv -f euc-jp -t utf-8 < radkfile > radkfile-utf8

@@ -8,6 +8,9 @@ mv -f JMdict_e ..
 mv -f JMdict_e_NG ..
 mv -f JMnedict.xml ..
 mv -f JMnedict.xml.bz2 ..
+mv -f JMnedict_NG.xml ..
+mv -f JMnedict_NG.xml.bz2 ..
 mv -f kanjidic2.xml ..
+mv -f kanjidic2_NG.xml ..
 mv -f kradfile ..
 mv -f radkfile ..
